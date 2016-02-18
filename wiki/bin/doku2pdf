@@ -1,0 +1,20 @@
+#!/bin/bash
+
+trap "rm /tmp/list_of_files" 0 1 2 5 15
+
+id -un
+
+find /var/www/livro/data/gitrepo/wiki/pages/cap1 -name "texto.txt" -type f > /tmp/list_of_files
+
+d=/var/www/pdf
+
+while read p; do
+  t=$(basename $p .txt)
+  php /home/gutosurrex/local/doku2md/scripts/Translate.php ${p} /tmp/blah | tail -n +2 > /var/www/pdf/$t.md
+  pandoc /var/www/pdf/$t.md -f markdown -t latex -s -o /var/www/pdf/$t.tex
+  # rm /var/www/pdf/$t.md
+  (cd $d; latex $t)
+  # rm /var/www/pdf/$t.tex
+done < /tmp/list_of_files
+
+
