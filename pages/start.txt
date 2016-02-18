@@ -1,22 +1,22 @@
 ===== Navegação de capítulos ======
 
-[[cap1:navega|Capítulo 1]]
+[[cap1:navega|Capítulo 1 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap2:navega|Capítulo 2]]
+[[cap2:navega|Capítulo 2 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap3:navega|Capítulo 3]]
+[[cap3:navega|Capítulo 3 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap4:navega|Capítulo 4]]
+[[cap4:navega|Capítulo 4 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap5:navega|Capítulo 5]]
+[[cap5:navega|Capítulo 5 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap6:navega|Capítulo 6]]
+[[cap6:navega|Capítulo 6 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap7:navega|Capítulo 7]]
+[[cap7:navega|Capítulo 7 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap8:navega|Capítulo 8]]
+[[cap8:navega|Capítulo 8 - Título]] - html - pdf - repositório no GitHub.
 
-[[cap9:navega|Capítulo 9]]
+[[cap9:navega|Capítulo 9 - Título]] - html - pdf - repositório no GitHub.
 
 
 
