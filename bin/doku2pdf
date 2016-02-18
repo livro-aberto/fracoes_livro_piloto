@@ -2,23 +2,23 @@
 
 trap "rm /tmp/list_of_files" 0 1 2 5 15
 
-id -un
+# id -un
 
 find /var/www/livro/data/gitrepo/pages -name "texto.txt" -type f > /tmp/list_of_files
 
-cat /tmp/list_of_files
+# cat /tmp/list_of_files
 
 d=/var/www/pdf
 
 while read p; do
   t=${p:34:4}
-  echo $p
-  echo $t
+  # echo $p
+  # echo $t
   php /home/gutosurrex/local/doku2md/scripts/Translate.php ${p} /tmp/blah | tail -n +2 > /var/www/pdf/$t.md
   pandoc /var/www/pdf/$t.md -f markdown -t latex -s -o /var/www/pdf/$t.tex
   rm /var/www/pdf/$t.md
   (cd $d; pdflatex $t > /tmp/222)
-  cat /var/www/pdf/$t.md
+  # cat /var/www/pdf/$t.md
   rm /var/www/pdf/$t.tex
   rm /var/www/pdf/$t.log
   rm /var/www/pdf/$t.out
