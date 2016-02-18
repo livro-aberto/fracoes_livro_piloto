@@ -1,1 +1,14 @@
-===== Capítulo 1 ======
+===== Navegação de capítulos ======
+
+[[cap1:navega|Capítulo 1]]
+[[cap2:navega|Capítulo 2]]
+[[cap3:navega|Capítulo 3]]
+[[cap4:navega|Capítulo 4]]
+[[cap5:navega|Capítulo 5]]
+[[cap6:navega|Capítulo 6]]
+[[cap7:navega|Capítulo 7]]
+[[cap8:navega|Capítulo 8]]
+[[cap9:navega|Capítulo 9]]
+
+
+
