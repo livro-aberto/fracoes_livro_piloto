@@ -1,3 +1,7 @@
+===== Edição =====
+
+A edição deste arquivo deve seguir a seguinte [[sintaxe]].
+
 ===== Navegação de capítulos ======
 
 [[cap1:navega|Capítulo 1 - Título]] - versão em [[cap1:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
