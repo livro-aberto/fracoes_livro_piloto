@@ -1,22 +1,22 @@
 ===== Navegação de capítulos ======
 
-[[cap1:navega|Capítulo 1 - Título]] - [[cap1:texto|html]] - pdf - repositório no GitHub.
+[[cap1:navega|Capítulo 1 - Título]] - [[cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - repositório no GitHub.
 
-[[cap2:navega|Capítulo 2 - Título]] - [[cap2:texto|html]] - pdf - repositório no GitHub.
+[[cap2:navega|Capítulo 2 - Título]] - [[cap2:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - repositório no GitHub.
 
-[[cap3:navega|Capítulo 3 - Título]] - [[cap3:texto|html]] - pdf - repositório no GitHub.
+[[cap3:navega|Capítulo 3 - Título]] - [[cap3:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - repositório no GitHub.
 
-[[cap4:navega|Capítulo 4 - Título]] - [[cap4:texto|html]] - pdf - repositório no GitHub.
+[[cap4:navega|Capítulo 4 - Título]] - [[cap4:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - repositório no GitHub.
 
-[[cap5:navega|Capítulo 5 - Título]] - [[cap5:texto|html]] - pdf - repositório no GitHub.
+[[cap5:navega|Capítulo 5 - Título]] - [[cap5:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]] - repositório no GitHub.
 
-[[cap6:navega|Capítulo 6 - Título]] - [[cap6:texto|html]] - pdf - repositório no GitHub.
+[[cap6:navega|Capítulo 6 - Título]] - [[cap6:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]] - repositório no GitHub.
 
-[[cap7:navega|Capítulo 7 - Título]] - [[cap7:texto|html]] - pdf - repositório no GitHub.
+[[cap7:navega|Capítulo 7 - Título]] - [[cap7:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]] - repositório no GitHub.
 
-[[cap8:navega|Capítulo 8 - Título]] - [[cap8:texto|html]] - pdf - repositório no GitHub.
+[[cap8:navega|Capítulo 8 - Título]] - [[cap8:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - repositório no GitHub.
 
-[[cap9:navega|Capítulo 9 - Título]] - [[cap9:texto|html]] - pdf - repositório no GitHub.
+[[cap9:navega|Capítulo 9 - Título]] - [[cap9:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap9.pdf|pdf]] - repositório no GitHub.
 
 
 
