@@ -1,0 +1,55 @@
+====== Formatting Syntax ======
+
+===== Matemática =====
+
+We can use $E = mc^2$. Or
+
+\begin{equation}
+  \int_0^\infty \frac{1}{x^2} dx
+\end{equation}
+
+===== Basic Text Formatting =====
+
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
+
+  DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
+  Of course you can **__//''combine''//__** all these.
+
+**Paragraphs** are created from blank lines.
+
+===== Sectioning =====
+
+You can use different levels of headlines to structure your content.
+
+==== Headline Lower Level ====
+
+  ==== Headline Lower Level ====
+
+By using four or more dashes, you can make a horizontal line:
+
+----
+
+===== Lists =====
+
+Dokuwiki supports ordered and unordered lists. To create a list item, indent your text by two spaces and use a ''*'' for unordered lists or a ''-'' for ordered ones.
+
+  * This is a list
+  * The second item
+  * Another item
+
+
+  - The same list but ordered
+  - Another item
+  - That's it
+
+===== Tables =====
+
+DokuWiki supports a simple syntax to create tables.
+
+^ Heading 1      ^ Heading 2       ^ Heading 3          ^
+| Row 1 Col 1    | Row 1 Col 2     | Row 1 Col 3        |
+| Row 2 Col 1    | some colspan (note the double pipe) ||
+| Row 3 Col 1    | Row 3 Col 2     | Row 3 Col 3        |
+
+To connect cells horizontally, just make the next cell completely empty as shown above. Be sure to have always the same amount of cell separators!
+
