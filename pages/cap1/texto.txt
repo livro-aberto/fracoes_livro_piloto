@@ -2,6 +2,7 @@
 
 Este capítulo tem por objetivo introduzir a linguagem de fração unitária "um quarto de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
+===== Introdução =====
 <Texto introdutório>
 <imagem a ser inserida> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </imagem a ser inserida>
 
@@ -12,7 +13,7 @@ Dividir uma barra de chocolate para três crianças. Sem rabiscar na figura. Qua
 
 Apresentar diferentes representações da mesma fração unitária. Por exemplo: dividir um retângulo em dois retângulos congruentes, depois cortar um destes retângulos pela diagonal e o outro em outros dois retângulos congruentes.
 
-Tangram --> áreas equivalentes.
+Tangram --> áreas equivalentes com figuras diferentes.
 
 Três pedaços de chocolate e um pedaço de chocolate que representem a mesma quantidade de chocolate. Quem comeu mais?
 
@@ -20,4 +21,4 @@ Tem que entrar a representação na reta. Sugestão: jogo para estudantes com di
 
 Criar aplicativo com o pinguim e frações unitárias.
 
-Incluir atividades com comparações visuais em diversos ambientes visuais "barras, bolinhas (discreto), discos, etc" para que o estudante reconheça a grandeza 1/3, 1/4 do todo.
+Incluir atividades com comparações visuais em diversos ambientes visuais "barras, bolinhas (discreto), discos, etc" para que o estudante reconheça a grandeza 1/3, 1/4, etc. do todo.
