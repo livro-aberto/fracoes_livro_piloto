@@ -11,7 +11,7 @@ Dividir uma barra de chocolate para três crianças. Sem rabiscar na figura. Qua
 <professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.</professor>
 </Texto introdutório>
 
-===== Discussão e atividades iniciais =====
+===== Discussão e atividades iniciais (ou Fazendo Conexões?)=====
 
 Apresentar diferentes representações da mesma fração unitária. Por exemplo: dividir um retângulo em dois retângulos congruentes, depois cortar um destes retângulos pela diagonal e o outro em outros dois retângulos congruentes.
 
