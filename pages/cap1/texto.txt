@@ -2,7 +2,7 @@
 
 Este capítulo tem por objetivo introduzir a linguagem de fração unitária "um quarto de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
-===== Introdução =====
+===== Introdução (ou Explorando?)=====
 <Texto introdutório>
 <imagem a ser inserida> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </imagem a ser inserida>
 
