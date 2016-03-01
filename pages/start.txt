@@ -4,6 +4,10 @@ A edição deste arquivo deve seguir a seguinte [[sintaxe]].
 
 ===== Navegação de capítulos ======
 
+
+[[cap0:navega|Introdução]] - versão em [[cap0:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap0/texto.txt|GitHub]].
+
+
 [[cap1:navega|Capítulo 1 - Título]] - versão em [[cap1:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
 
 [[cap2:navega|Capítulo 2 - Título]] - versão em [[cap2:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]].
