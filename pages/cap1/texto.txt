@@ -33,7 +33,8 @@ Número será definido como um ponto da "reta numérica" (reta com dois pontos e
 </exercicio>
 
 <exercicio> Identifique em quais dos modelos visuais abaixo a área da parte hachurada representa melhor cada uma das frações das áreas 1/2, 1/3 e 1/5:
-
+<imagem> figuras com diversas formas envolvendo modelos diversos.</imagem>
+{{ :cap1:figuras.jpg?200 |}}
 <professor> Importante observar que são iguais em área, não necessariamente em forma.</professor>
 </exercicio>
 Criar aplicativo com o pinguim e frações unitárias.
@@ -42,7 +43,9 @@ Incluir atividades com comparações visuais em diversos ambientes visuais "barr
 
 Tangram --> áreas equivalentes com figuras diferentes.
 
-Atividades da coleção Math Makes Sense vol. 4 pag. 176.
+Atividades da coleção Math Makes Sense vol. 4 pag. 176. Envolvendo estimativas.
 
 A tecnologia pode ajudar a perceber frações unitárias menores, tipo $1/35$ ou $1/100$. Tipo do vol. 4 canadense p.176.
+
+
 ===== Refletindo ===== 
