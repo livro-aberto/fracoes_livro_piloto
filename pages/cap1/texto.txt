@@ -16,4 +16,8 @@ Tangram --> áreas equivalentes.
 
 Três pedaços de chocolate e um pedaço de chocolate que representem a mesma quantidade de chocolate. Quem comeu mais?
 
-Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2$, $1/3$, $1/4$, $1/5$ e $1/6$.
+Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2, 1/3 , \cdots, 1/10$.
+
+Criar aplicativo com o pinguim e frações unitárias.
+
+Incluir atividades com comparações visuais em diversos ambientes visuais "barras, bolinhas (discreto), discos, etc" para que o estudante reconheça a grandeza 1/3, 1/4 do todo.
