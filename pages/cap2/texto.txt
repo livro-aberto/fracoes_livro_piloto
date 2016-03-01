@@ -1,1 +1,9 @@
-====== Capítulo - Título ======
+====== Capítulo 2 - Frações não-unitárias ======
+
+Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
+
+Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
+
+Na representação da reta justapomos 
+
+===== Introdução =====
