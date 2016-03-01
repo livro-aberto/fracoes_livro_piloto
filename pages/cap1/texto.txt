@@ -6,6 +6,8 @@ Este capítulo tem por objetivo introduzir a linguagem de fração unitária "um
 
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer. Comparar frações unitárias. Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
 </professor>
+
+**Representações contínuas e discretas juntos?**
 ===== Introdução (ou Explorando?)=====
 <Texto introdutório>
 <imagem a ser inserida> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </imagem a ser inserida>
