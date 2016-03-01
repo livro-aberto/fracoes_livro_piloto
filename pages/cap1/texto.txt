@@ -19,6 +19,9 @@ Apresentar diferentes representações da mesma fração unitária. Por exemplo:
 
 Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2, 1/3 , \cdots, 1/10$.
 
+Número será definido como um ponto da "reta numérica" (reta com dois pontos escolhidos, um chamado zero e outro será um).
+
+
 ===== Atividades, exercícios e desafios ===== 
 
 <exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais chocolate Joãozinho ou Maria?
