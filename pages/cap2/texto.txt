@@ -6,4 +6,18 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 Na representação da reta justapomos 
 
-===== Introdução =====
+===== Introdução (ou Explorando?)=====
+<Texto introdutório>
+
+<professor> </professor>
+</Texto introdutório>
+
+===== Discussão e atividades iniciais (ou Fazendo Conexões?)=====
+
+===== Modelo abstrato ===== 
+
+Na reta numérica justapomos segmentos de comprimento $1/b$ e obtemos frações $2/b$, $3/b$, ... $b/b$, $(b+1)/b$. Então surgirão as frações equivalentes $2/4 = 1/2$, também $3/3 = 1$.
+
+===== Atividades, exercícios e desafios ===== 
+
+===== Refletindo ===== 
