@@ -31,18 +31,25 @@ Número será definido como um ponto da "reta numérica" (reta com dois pontos e
 ===== Atividades, exercícios e desafios ===== 
 
 <exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
+
 <figura> inserir a figura "chocolate partido" (feita a mão) </figura>
-<professor> </professor>
+
+<resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.<resposta> 
+
+<professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.</professor>
 </exercicio>
 
 <exercicio> Identifique em quais dos modelos visuais abaixo a área da parte hachurada representa melhor cada uma das frações das áreas 1/2, 1/3 e 1/5:
-<imagem> figuras com diversas formas envolvendo modelos diversos.</imagem>
-{{ :cap1:figuras.jpg?200 |}}
-<professor> Importante observar que são iguais em área, não necessariamente em forma.</professor>
-</exercicio>
-Criar aplicativo com o pinguim e frações unitárias.
 
-Incluir atividades com comparações visuais em diversos ambientes visuais "barras, bolinhas (discreto), discos, etc" para que o estudante reconheça a grandeza 1/3, 1/4, etc. do todo.
+<imagem> figuras com diversas formas envolvendo modelos diversos.</imagem>
+
+{{ :cap1:figuras.jpg?200 |}}
+
+<professor> Importante observar ao estudante que são iguais em área, não necessariamente em forma.</professor>
+
+</exercicio>
+
+Criar aplicativo com o pinguim e frações unitárias.
 
 Tangram --> áreas equivalentes com figuras diferentes.
 
