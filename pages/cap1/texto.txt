@@ -32,6 +32,7 @@ Número será definido como um ponto da "reta numérica" (reta com dois pontos e
 
 <exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 <figura> inserir a figura "chocolate partido" (feita a mão) </figura>
+<professor> </professor>
 </exercicio>
 
 <exercicio> Identifique em quais dos modelos visuais abaixo a área da parte hachurada representa melhor cada uma das frações das áreas 1/2, 1/3 e 1/5:
