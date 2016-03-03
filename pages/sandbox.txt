@@ -1,6 +1,6 @@
 ====== Examples for the Wrap Plugin ======
 
-<WRAP note>
+<WRAP vocesabia>
  === Você Sabia ===
  Que $2 + 2 = 4$?
 </WRAP>
