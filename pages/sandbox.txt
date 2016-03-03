@@ -166,8 +166,6 @@ Que $2 + 2 = 4$?
 
 
 <WRAP tip 220px left>
-//**Tip**//
-  <WRAP tip></WRAP>
   Essa é uma dica!
 </WRAP>
 
