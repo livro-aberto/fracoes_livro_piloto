@@ -1,6 +1,6 @@
 ====== Examples for the Wrap Plugin ======
 
-<WRAP wrap_note>
+<WRAP note>
  Teste 1
 </WRAP>
 ===== Basic syntax =====
