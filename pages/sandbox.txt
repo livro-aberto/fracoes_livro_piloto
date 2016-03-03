@@ -149,6 +149,13 @@ Center aligned text ...
 </WRAP>
 
 
+<WRAP round tip>
+====Você sabia?====
+Que $2 + 2 = 4$?
+</WRAP>
+
+
+
 <WRAP info 220px left>
 //**Info**//
   <WRAP info></WRAP>
