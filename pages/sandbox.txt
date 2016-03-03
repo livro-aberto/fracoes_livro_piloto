@@ -1,5 +1,8 @@
 ====== Examples for the Wrap Plugin ======
 
+<WRAP wrap_note>
+ Teste 1
+<\WRAP>
 ===== Basic syntax =====
 
 An uppercase **%%<WRAP>%%** (or alternatively **%%<block>%%** or **%%<div>%%**) creates a **''div''** and should be used for **"big"** containers, **surrounding** paragraphs, lists, tables, etc.
