@@ -158,6 +158,7 @@ Center aligned text ...
 <WRAP tip 220px left>
 //**Tip**//
   <WRAP tip></WRAP>
+  Essa é uma dica!
 </WRAP>
 
 
