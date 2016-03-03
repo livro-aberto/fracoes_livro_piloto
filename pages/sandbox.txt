@@ -1,7 +1,7 @@
 ====== Examples for the Wrap Plugin ======
 
 <WRAP note>
- Teste 1
+ Teste
 </WRAP>
 ===== Basic syntax =====
 
