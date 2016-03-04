@@ -1,7 +1,7 @@
 ====== Examples for the Wrap Plugin ======
 
 <WRAP professor>
- Saiba que $2 + 2 = 4$.
+ Conte que $2 + 2 = 4$.
 </WRAP>
 
 <WRAP introdutorio>
