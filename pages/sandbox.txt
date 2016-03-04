@@ -1,8 +1,7 @@
 ====== Examples for the Wrap Plugin ======
 
-<WRAP vocesabia>
- === Você Sabia ===
- Que $2 + 2 = 4$?
+<WRAP professor>
+ Saiba que $2 + 2 = 4$.
 </WRAP>
 ===== Basic syntax =====
 
