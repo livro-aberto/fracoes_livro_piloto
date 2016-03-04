@@ -29,6 +29,29 @@ By using four or more dashes, you can make a horizontal line:
 
 ----
 
+===== Boxes =====
+
+====== Examples for the Wrap Plugin ======
+
+<WRAP professor>
+ Conte que $2 + 2 = 4$.
+</WRAP>
+
+<WRAP introdutorio>
+ Saiba que $2 + 2 = 4$.
+</WRAP>
+
+<WRAP exercicio>
+ Quanto é $2 + 2$?
+ <WRAP resposta>
+  $2 + 2 = 4$.
+ </WRAP>
+</WRAP>
+
+<WRAP imagem>
+ Colocar uma triângulo.
+</WRAP>
+
 ===== Lists =====
 
 Dokuwiki supports ordered and unordered lists. To create a list item, indent your text by two spaces and use a ''*'' for unordered lists or a ''-'' for ordered ones.
