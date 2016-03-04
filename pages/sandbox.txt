@@ -3,6 +3,21 @@
 <WRAP professor>
  Saiba que $2 + 2 = 4$.
 </WRAP>
+
+<WRAP introdutorio>
+ Saiba que $2 + 2 = 4$.
+</WRAP>
+
+<WRAP exercicio>
+ Quanto é $2 + 2$?
+ <WRAP resposta>
+  $2 + 2 = 4$.
+ </WRAP>
+</WRAP>
+
+<WRAP imagem>
+ Colocar uma triângulo.
+</WRAP>
 ===== Basic syntax =====
 
 An uppercase **%%<WRAP>%%** (or alternatively **%%<block>%%** or **%%<div>%%**) creates a **''div''** and should be used for **"big"** containers, **surrounding** paragraphs, lists, tables, etc.
