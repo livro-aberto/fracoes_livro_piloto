@@ -2,20 +2,22 @@
 
 Este capítulo tem por objetivo introduzir a linguagem de fração unitária "um quarto de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
-<professor> Nosso objetivo na construção dos números é completar a reta (bijeção). Em particular, no caso dos racionais as frações unitárias serão essenciais para alcançar todos os racionais. 
+<WRAP professor> Nosso objetivo na construção dos números é completar a reta (bijeção). Em particular, no caso dos racionais as frações unitárias serão essenciais para alcançar todos os racionais. 
 
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer. Comparar frações unitárias. Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
-</professor>
+</WRAP>
 
 **Representações contínuas e discretas juntos?**
-===== Introdução (ou Explorando?)=====
-<Texto introdutório>
-<imagem a ser inserida> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </imagem a ser inserida>
+
+<WRAP introdutorio>
+
+<WRAP imagem> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </WRAP>
 
 Dividir uma barra de chocolate para três crianças. Sem rabiscar na figura. Quanto do chocolate deve ficar para cada criança?
+</WRAP>
 
-<professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.</professor>
-</Texto introdutório>
+<WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
+</WRAP>
 
 ===== Discussão e atividades iniciais (ou Fazendo Conexões?)=====
 
@@ -30,24 +32,23 @@ Número será definido como um ponto da "reta numérica" (reta com dois pontos e
 
 ===== Atividades, exercícios e desafios ===== 
 
-<exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
+<WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
-<figura> inserir a figura "chocolate partido" (feita a mão) </figura>
+<WRAP figura> inserir a figura "chocolate partido" (feita a mão) </WRAP>
 
-<resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.<resposta> 
+<WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.</WRAP> 
 
-<professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.</professor>
-</exercicio>
+<WRAP professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.</WRAP>
+</WRAP>
 
-<exercicio> Identifique em quais dos modelos visuais abaixo a área da parte hachurada representa melhor cada uma das frações das áreas 1/2, 1/3 e 1/5:
+<WRAP exercicio> Identifique em quais dos modelos visuais abaixo a área da parte hachurada representa melhor cada uma das frações das áreas 1/2, 1/3 e 1/5:
 
-<imagem> figuras com diversas formas envolvendo modelos diversos.</imagem>
+<WRAP imagem> figuras com diversas formas envolvendo modelos diversos.</WRAP>
 
 {{ :cap1:figuras.jpg?200 |}}
 
-<professor> Importante observar ao estudante que são iguais em área, não necessariamente em forma.</professor>
-
-</exercicio>
+<WRAP professor> Importante observar ao estudante que são iguais em área, não necessariamente em forma.</WRAP>
+</WRAP>
 
 Criar aplicativo com o pinguim e frações unitárias.
 
