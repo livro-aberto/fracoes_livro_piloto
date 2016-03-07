@@ -53,6 +53,11 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 <WRAP professor> Importante observar ao estudante que são iguais em área, não necessariamente em forma.</WRAP>
 </WRAP>
 
+<WRAP exercicio>
+Assinale quais das oito figuras a seguir estão divididas em quatro partes de mesma área. Explique os motivos que levaram a sua escolha
+<WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
+</WRAP>
+
 Criar aplicativo com o pinguim e frações unitárias.
 
 Tangram --> áreas equivalentes com figuras diferentes.
