@@ -54,7 +54,7 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 </WRAP>
 
 <WRAP exercicio>
-Assinale quais das oito figuras a seguir estão divididas em quatro partes de mesma área. Explique os motivos que levaram a sua escolha
+Marque quais das oito figuras a seguir estão divididas em quatro partes de mesma área. Explique os motivos que levaram a sua escolha.
 <WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
 </WRAP>
 
