@@ -54,8 +54,10 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 </WRAP>
 
 <WRAP exercicio>
-Marque quais das oito figuras a seguir estão divididas em quatro partes de mesma área. Explique os motivos que levaram a sua escolha.
+Quais das oito figuras a seguir estão divididas em quatro partes iguais? Explique os motivos que levaram a sua escolha.
 <WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
+<WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
+<WRAP professor>Para perce  </WRAP>
 </WRAP>
 
 Criar aplicativo com o pinguim e frações unitárias.
