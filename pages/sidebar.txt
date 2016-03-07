@@ -1,6 +1,6 @@
 ===== Navegação =====
 
-[[start][Início]]
+[[start|Início]]
 
 [[sintaxe|Sintaxe]]
 
