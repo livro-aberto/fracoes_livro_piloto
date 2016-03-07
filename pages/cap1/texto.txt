@@ -57,7 +57,7 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 Quais das oito figuras a seguir estão divididas em quatro partes iguais? Explique os motivos que levaram a sua escolha.
 <WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
 <WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
-<WRAP professor>Para perce  </WRAP>
+<WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C).</WRAP>
 </WRAP>
 
 Criar aplicativo com o pinguim e frações unitárias.
