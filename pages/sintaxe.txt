@@ -52,6 +52,24 @@ $2 + 2 = 4$.
 Colocar uma triângulo.
 </WRAP>
 
+<WRAP abstrato>
+Pouco concreto
+</WRAP>
+
+<WRAP explorando>
+Mundo afora
+</WRAP>
+
+<WRAP conexoes>
+Wifi, 4G...
+</WRAP>
+
+<WRAP massa>
+Nada de descansar
+</WRAP>
+
+
+
 ===== Lists =====
 
 Dokuwiki supports ordered and unordered lists. To create a list item, indent your text by two spaces and use a ''*'' for unordered lists or a ''-'' for ordered ones.
