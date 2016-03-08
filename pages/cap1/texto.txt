@@ -8,19 +8,64 @@ Identificar e representar a partir de modelos visuais frações unitárias quais
 
 modelo de círculo deixa evidente a fração considerada e a fração complementar.
 
+**PREMISSAS**:
+
+  - BNC: **MTMT3FOA017** (Resolver e elaborar problemas de divisão (repartir uma coleção em partes iguais, determinar quantas vezes uma quantidade cabe em outra, metade e terça parte), em linguagem verbal, com o suporte de imagens ou materiais de manipulação); **MTMT4FOA019** (Reconhecer e representar frações usuais de quantidades contínuas e discretas, relacionando-as às frações unitárias) e **MTMT4FOA020** (Reconhecer que, em uma unidade dividida em 10 partes iguais, cada parte corresponde a um décimo e que, em uma unidade dividida em 100 partes iguais, cada parte corresponde a um centésimo, representando simbolicamente décimos e centésimos, bem como elaborando composições e decomposições de números decimais (décimos e centésimos).
+  - O aluno já conhece e usa a reta numerada para representar os números Naturais;
+  - 
+
+
+**OBJETIVOS ESPECÍFICOS** 
+Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
+Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
+
+
+**OBS**:
+  * Não tratar de modelos discretos;
+  * Deixar frações com denominadores maiores do que 4 para uma próxima seção;
+  * Valorizar a atividade em grupo e a discussão;
+  * Tratar a comparação pela ordem sem formalizar; 
+
+**DÚVIDAS**
+Vamos usar o modelo dos círculos?
+
+
+
+
+
 </WRAP>
 
 **Representações contínuas e discretas juntos?**
 
-<WRAP introdutorio>
+<WRAP Atividades iniciais>
 
-<WRAP imagem> Retângulo representando uma barra de chocolate sem subdivisões, sem linhas dentro do retângulo </WRAP>
+**ATIVIDADE 1** 
+(Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais")
+(Atividade a ser realizada em grupos: grupos de 3 alunos) 
 
-Dividir uma barra de chocolate para três crianças. Sem rabiscar na figura. Quanto do chocolate deve ficar para cada criança?
-</WRAP>
+Para o lanche, três irmão vão repartir uma barra de chocolate. Como eles podem fazer essa divisão? 
+{{ :cap1:barra_chocolate.jpg?direct&100 |}}
+
+**ATIVIDADE II**
+(Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressoes metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equiparticao)
+(Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
+
+Estas crianças estão repartindo pizzas. Observe como cada grupo repartiu a sua pizza.
+IMAGEM: 3 GRUPOS DE CRIANÇAS que contemplem as seguintes divisoes: 
+GRUPO COM DUAS CRIANCAS: {{ :cap1:nao_metade.jpg?direct&200 |}}
+Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&200 |}}
+Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&200 |}}
+
+Para discussão:
+  - Em qual dos grupos, os participantes receberao quantidades iguais de pizza;	
+
+
+ATIVIDADE III 
+
 
 <WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
 </WRAP>
+
 
 ===== Discussão e atividades iniciais (ou Fazendo Conexões?)=====
 
