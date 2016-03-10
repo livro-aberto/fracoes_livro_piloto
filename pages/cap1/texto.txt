@@ -37,17 +37,25 @@ Vamos usar o modelo dos círculos?
 
 **Representações contínuas e discretas juntos?**
 
+
+
 <WRAP Atividades iniciais>
 
 **ATIVIDADE 1** 
-(Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais")
+
+<WRAP professor> 
+Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais"
+</WRAP>
+
 (Atividade a ser realizada em grupos: grupos de 3 alunos) 
 
 Para o lanche, três irmão vão repartir uma barra de chocolate. Como eles podem fazer essa divisão? 
 {{ :cap1:barra_chocolate.jpg?direct&100 |}}
 
 **ATIVIDADE II**
-(Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressoes metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equiparticao)
+<WRAP professor> 
+Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressoes metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equipartição
+</WRAP>
 (Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
 
 Estas crianças estão repartindo pizzas. Observe como cada grupo repartiu a sua pizza.
@@ -60,8 +68,7 @@ Para discussão:
   - Em qual dos grupos, os participantes receberao quantidades iguais de pizza;	
 
 
-ATIVIDADE III 
-
+**ATIVIDADE III**
 
 <WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
 </WRAP>
