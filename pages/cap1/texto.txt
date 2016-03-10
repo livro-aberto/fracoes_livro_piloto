@@ -33,24 +33,34 @@ Vamos usar o modelo dos círculos?
 
 
 
-<WRAP Atividades iniciais>
+<WRAP introdutorio>
 
 <WRAP exercicio>
+Simas: Não estou nada feliz com esta atividade para introdução ao capítulo.
 
 <WRAP professor> 
-Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais"
+Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais" e despertar para a necessidade de uma expressão que signifique "uma das três partes iguais".
+
+Tente conduzir os estudantes a dizerem que a divisão deve ser em "partes iguais". Você pode observar que no caso de dois irmãos, cada um deve ter receber a "metade" do chocolate. Para representar uma parte da divisão em três partes iguais, precisamos da expressão "um terço" do chocolate ou "a terça parte" do chocolate.
 </WRAP>
 
 (Atividade a ser realizada em grupos: grupos de 3 alunos) 
 
-Para o lanche, três irmão vão repartir uma barra de chocolate. Como eles podem fazer essa divisão? 
+Para o lanche, três irmão vão repartir uma barra de chocolate. Um deles sugere uma divisão como abaixo. O que você acha dessa divisão?
+<WRAP figura> Barra de chocolate retangular. Mas repartida em três partes com "áreas" diferentes.</WRAP>
+
+Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmãos. Quanto do chocolate tem em cada uma destas partes em que vocês o dividiram?
+
+<WRAP figura> Barra de chocolate retangular repartida em três partes com "áreas" iguais.</WRAP>
+
 {{ :cap1:barra_chocolate.jpg?direct&100 |}}
+
 </WRAP>
 
 
 <WRAP exercicio>
 <WRAP professor> 
-Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressoes metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equipartição
+Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equipartição
 </WRAP>
 (Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
 
