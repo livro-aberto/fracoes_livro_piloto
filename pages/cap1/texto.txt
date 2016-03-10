@@ -1,4 +1,4 @@
-00====== Capítulo 1 - Todo, metade, um terço, um quarto, ..., um décimo, um onze avos, ..., um centésimo, ..., um milésimo, ... ======
+====== Capítulo 1 - Todo, metade, um terço e um quarto ======
 
 <WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias "um quarto de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
@@ -35,13 +35,13 @@ Vamos usar o modelo dos círculos?
 
 </WRAP>
 
-**Representações contínuas e discretas juntos?**
+**Representações contínuas e discretas juntos?** - Parece que decidimos trabalhar apenas com contínuas num primeiro momento. Devemos bater o martelo em 15/03.
 
 
 
 <WRAP Atividades iniciais>
 
-**ATIVIDADE 1** 
+<WRAP exercicio>
 
 <WRAP professor> 
 Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais"
@@ -51,8 +51,10 @@ Objetivo específicos: Diferenciar a divisão em três partes da divisão em tr�
 
 Para o lanche, três irmão vão repartir uma barra de chocolate. Como eles podem fazer essa divisão? 
 {{ :cap1:barra_chocolate.jpg?direct&100 |}}
+</WRAP>
 
-**ATIVIDADE II**
+
+<WRAP exercicio>
 <WRAP professor> 
 Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressoes metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equipartição
 </WRAP>
@@ -66,11 +68,12 @@ Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}
 
 Para discussão:
   - Em qual dos grupos, os participantes receberao quantidades iguais de pizza;	
+</WRAP>
 
-
-**ATIVIDADE III**
+<WRAP exercicio>
 
 <WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
+</WRAP>
 </WRAP>
 
 
