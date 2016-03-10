@@ -108,7 +108,12 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 </WRAP>
 
 <WRAP exercicio>
-Quais das oito figuras a seguir estão divididas em quatro partes iguais? Explique os motivos que levaram a sua escolha.
+Quais das figuras a seguir estão divididas em quatro partes que representam mesma área? Explique os motivos que levaram a sua escolha.
+
+Enunciados alternativos para evitar a palavra "área" acima. 
+1) Imagine que as figuras a seguir representam barras de chocolate. Quais delas estão divididas em 4 partes com mesma quantidade? Explique os motivos que levaram a sua escolha.
+2) Imagine que as figuras a seguir representam barras de chocolate. Em quais dela a divisão para 4 pessoas parece uma divisão equitativa (ou //justa//)? Explique os motivos que levaram a sua escolha.
+
 <WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
 <WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
 <WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C).</WRAP>
