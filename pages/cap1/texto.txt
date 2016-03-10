@@ -21,7 +21,7 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 
 
 **OBS**:
-  * Não tratar de modelos discretos;
+  * Não tratar de modelos discretos;  Parece que decidimos trabalhar apenas com contínuas num primeiro momento. Devemos bater o martelo em 15/03;
   * Deixar frações com denominadores maiores do que 4 para uma próxima seção;
   * Valorizar a atividade em grupo e a discussão;
   * Tratar a comparação pela ordem sem formalizar; 
@@ -29,13 +29,7 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 **DÚVIDAS**
 Vamos usar o modelo dos círculos?
 
-
-
-
-
 </WRAP>
-
-**Representações contínuas e discretas juntos?** - Parece que decidimos trabalhar apenas com contínuas num primeiro momento. Devemos bater o martelo em 15/03.
 
 
 
