@@ -87,7 +87,7 @@ Tem que entrar a representação na reta. Sugestão: jogo para estudantes com di
 O caráter abstrato do número. Número não será definido. Mas deixaremos claro que existe um número para cada ponto da "reta numérica" e que para cada ponto da reta numérica há um número. Reconhecemos a dificuldade dessas questões.
 </WRAP>
 
-===== Atividades, exercícios e desafios ===== 
+<WRAP massa>
 
 <WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
@@ -118,6 +118,8 @@ Enunciados alternativos para evitar a palavra "área" acima.
 <WRAP figura>{{ :cap1:exer-01.png?500 |}}</WRAP>
 <WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
 <WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C).</WRAP>
+</WRAP>
+
 </WRAP>
 
 Criar aplicativo com o pinguim e frações unitárias.
