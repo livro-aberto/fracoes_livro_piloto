@@ -47,11 +47,11 @@ Tente conduzir os estudantes a dizerem que a divisão deve ser em "partes iguais
 (Atividade a ser realizada em grupos: grupos de 3 alunos) 
 
 Para o lanche, três irmão vão repartir uma barra de chocolate. Um deles sugere uma divisão como abaixo. O que você acha dessa divisão?
-<WRAP figura> Barra de chocolate retangular. Mas repartida em três partes com "áreas" diferentes.</WRAP>
+<WRAP imagem> Barra de chocolate retangular. Mas repartida em três partes com "áreas" diferentes.</WRAP>
 
 Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmãos. Quanto do chocolate tem em cada uma destas partes em que vocês o dividiram?
 
-<WRAP figura> Barra de chocolate retangular repartida em três partes com "áreas" iguais.</WRAP>
+<WRAP imagem> Barra de chocolate retangular repartida em três partes com "áreas" iguais.</WRAP>
 
 {{ :cap1:barra_chocolate.jpg?direct&100 |}}
 
