@@ -33,7 +33,7 @@ Vamos usar o modelo dos círculos?
 
 
 
-<WRAP introdutorio>
+===== Introdutório =====
 
 <WRAP exercicio>
 Simas: Não estou nada feliz com esta atividade para introdução ao capítulo.
@@ -79,9 +79,9 @@ Para discussão:
 <WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
 </WRAP>
 </WRAP>
-</WRAP>
 
-<WRAP conexoes>
+
+===== Conexões =====
 
 No problema acima tivemos alguns aspectos imortantes a serem destacados
 
@@ -102,9 +102,9 @@ Na História da Humanidade os números foram criados inicialmente para contar ob
 também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso também representamos estas quantidades por números. 
 
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
-</WRAP>
 
-<WRAP abstrato>
+
+===== Modelo Abstrato =====
 Se meio, um terço, um quarto e um quinto são números, quais são os símbolos que representam estes números? Como estes números surgem da divisão de 1 parte em partes iguais, nós os representaremos por\\
 
 meio --> $\frac{1}{2}$,\\
@@ -132,7 +132,7 @@ Tem que entrar a representação na reta. Sugestão: jogo para estudantes com di
 O caráter abstrato do número. Número não será definido. Mas deixaremos claro que existe um número para cada ponto da "reta numérica" e que para cada ponto da reta numérica há um número. Reconhecemos a dificuldade dessas questões.
 </WRAP>
 
-<WRAP massa>
+===== Mão na Massa =====
 
 <WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
@@ -168,7 +168,7 @@ Enunciados alternativos para evitar a palavra "área" acima.
 </WRAP>
 
 
-</WRAP>
+
 
 Criar aplicativo com o pinguim e frações unitárias.
 
