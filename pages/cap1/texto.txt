@@ -136,7 +136,7 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 
 <WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
-<WRAP figura> inserir a figura "chocolate partido" (feita a mão) {{ :cap1:20160311_061902.jpg?200 |}} </WRAP>
+<WRAP imagem> inserir a figura "chocolate partido" (feita a mão) {{ :cap1:20160311_061902.jpg?200 |}} </WRAP>
 
 <WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.</WRAP> 
 
@@ -151,7 +151,7 @@ Enunciados alternativos para evitar a palavra "área" acima.
     - Imagine que as figuras a seguir representam barras de chocolate. Quais delas estão divididas em 4 partes com mesma quantidade? Explique os motivos que levaram a sua escolha.
     - Imagine que as figuras a seguir representam barras de chocolate. Em quais dela a divisão para 4 pessoas parece uma divisão equitativa (ou //justa//)? Explique os motivos que levaram a sua escolha.
 
-<WRAP imagem>{{ :cap1:exer-01.png?500 |}}</WRAP>
+{{ :cap1:exer-01.png?500 |}}
 <WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
 <WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C). Importante observar que para uma figura bidimensional um quarto da figura significa um quarto da área da figura. Se ela fosse tridimensional seria um quarto do volume.</WRAP>
 </WRAP>
