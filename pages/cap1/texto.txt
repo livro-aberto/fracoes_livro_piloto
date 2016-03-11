@@ -97,18 +97,34 @@ Na História da Humanidade os números foram criados inicialmente para contar ob
 
 "Após um quarto de século o feitiço perderá seu efeito."\\
 
-"Um quinto de todo ouro extraído no Brasil era pago em impostos à coroa portuguesa."//\\
+"Um quinto de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa."//\\
 
-também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso também representamos por números. 
+também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso também representamos estas quantidades por números. 
 
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 </WRAP>
 
 <WRAP abstrato>
+Se meio, um terço, um quarto e um quinto são números, quais são os símbolos que representam estes números? Como estes números surgem da divisão de 1 parte em partes iguais, nós os representaremos por\\
 
-Em todos os exemplos até agora os valores meio, um terço, um quarto e um quinto surgem a partir da divisão de uma coisa em partes iguais, logo são números menores do que 1 e maiores do que 0 (meia barra de chocolate é mais do que nada e menos que uma barra inteira). Então estes são números novos que possuem representação na reta numérica entre os números 0 e 1.
+meio --> $\frac{1}{2}$,\\
+um terço --> $\frac{1}{3}$,\\
+um quarto --> $\frac{1}{4}$ e\\
+um quinto --> $\frac{1}{5}$.\\
+
+<WRAP professor> Esta representação costuma parecer estranha aos estudantes porque até agora os números eram representados apenas por algarismos e sempre na horizontal. Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).</WRAP>
+
+Como vimos todo número tem uma representação na reta numérica. Esta representação ordena os números da esquerda para a direita, isto é, um número que está à esquerda de outro é menor do que este.
+
+{{ :cap1:2016-03-11_08.12.05.jpg?300 |}}
+
+Os números meio, um terço, um quarto e um quinto surgem a partir da divisão de uma unidade (uma barra de chocolate, uma xícara de farinha de trigo, um século, um quilograma de ouro) em partes iguais, logo todos eles são números menores do que 1 e maiores do que 0 (meia barra de chocolate é mais do que nada e menos que uma barra inteira). Assim estão todos entre o 0 e o 1 na reta numérica.
+
+<WRAP exercicio> 
+</WRAP>
 
 
+Você saberia dizer qual é o menor dos números $\frac{1}{2}$ ou $\frac{1}{3}$? (Pense em uma barra de chocolates dividida para 2 ou 3 pessoas, em qual das situações a fração correspondente a cada pessoa é maior?)
 
 
 Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2, 1/3 , \cdots, 1/10$.
