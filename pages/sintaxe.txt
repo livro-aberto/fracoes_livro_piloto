@@ -72,8 +72,8 @@ Nada de descansar
 No espelho
 </WRAP>
 
-<WRAP refletindo>
-No espelho
+<WRAP nota>
+Devemos escrever o livro.
 </WRAP>
 
 
