@@ -8,3 +8,16 @@ A quem ele é destinado?
 
 Quais os pré-requisitos os estudantes devem ter para a sequência deste livro?
 
+Estrutura de capítulos versão 0:
+
+    * Capítulo 1: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações 1/2, 1/3, 1/4 e 1/5.
+    * Capítulo 2: O mesmo para frações 1/n com $n \in \mathbb{N}$ e $n \leq 1000$.
+    * Capítulo 3: O mesmo para frações gerais $\frac{a}{b}$. Aqui deve surgir a noção de número natural vezes fração e soma de frações de mesmo denominador.
+    * Capítulo 4: Frações equivalentes e porcentagem.
+    * Capítulo 5: Adição e subtração de frações.
+    * Capítulo 6: Multiplicação de frações.
+    * Capítulo 7: Divisão de frações.
+    * Capítulo 8: Razão e proporção.
+    * Capítulo 9: Divisão e medida.
+
+
