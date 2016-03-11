@@ -101,7 +101,7 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 
 <WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
-<WRAP figura> inserir a figura "chocolate partido" (feita a mão) </WRAP>
+<WRAP figura> inserir a figura "chocolate partido" (feita a mão) {{ :cap1:20160311_061902.jpg?200 |}} </WRAP>
 
 <WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.</WRAP> 
 
