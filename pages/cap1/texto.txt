@@ -6,20 +6,20 @@ Nosso objetivo na construção dos números é completar a reta (bijeção). Em 
 
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer. Comparar frações unitárias. Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
 
-modelo de círculo deixa evidente a fração considerada e a fração complementar.
+
 
 **PREMISSAS**:
 
   - BNC: **MTMT3FOA017** (Resolver e elaborar problemas de divisão (repartir uma coleção em partes iguais, determinar quantas vezes uma quantidade cabe em outra, metade e terça parte), em linguagem verbal, com o suporte de imagens ou materiais de manipulação); **MTMT4FOA019** (Reconhecer e representar frações usuais de quantidades contínuas e discretas, relacionando-as às frações unitárias) e **MTMT4FOA020** (Reconhecer que, em uma unidade dividida em 10 partes iguais, cada parte corresponde a um décimo e que, em uma unidade dividida em 100 partes iguais, cada parte corresponde a um centésimo, representando simbolicamente décimos e centésimos, bem como elaborando composições e decomposições de números decimais (décimos e centésimos).
   - O aluno já conhece e usa a reta numerada para representar os números Naturais;
-  - 
+
 
 
 **OBJETIVOS ESPECÍFICOS** 
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
 Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
 
-
+<WRAP nota>
 **OBS**:
   * Não tratar de modelos discretos;  Parece que decidimos trabalhar apenas com contínuas num primeiro momento. Devemos bater o martelo em 15/03;
   * Deixar frações com denominadores maiores do que 4 para uma próxima seção;
@@ -28,7 +28,8 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 
 **DÚVIDAS**
 Vamos usar o modelo dos círculos?
-
+O modelo de círculo deixa evidente a fração considerada e a fração complementar.
+</WRAP>
 </WRAP>
 
 
