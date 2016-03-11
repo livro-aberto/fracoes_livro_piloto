@@ -51,9 +51,9 @@ Para o lanche, três irmão vão repartir uma barra de chocolate. Um deles suger
 
 Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmãos. Quanto do chocolate tem em cada uma destas partes em que vocês o dividiram?
 
-<WRAP imagem> Barra de chocolate retangular repartida em três partes com "áreas" iguais.</WRAP>
+<WRAP imagem> Barra de chocolate retangular repartida em três partes com "áreas" iguais.
 
-{{ :cap1:barra_chocolate.jpg?direct&100 |}}
+{{ :cap1:barra_chocolate.jpg?direct&100 |}}</WRAP>
 
 </WRAP>
 
@@ -66,9 +66,9 @@ Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender 
 
 Estas crianças estão repartindo pizzas. Observe como cada grupo repartiu a sua pizza.
 IMAGEM: 3 GRUPOS DE CRIANÇAS que contemplem as seguintes divisoes: 
-GRUPO COM DUAS CRIANCAS: {{ :cap1:nao_metade.jpg?direct&100 |}}
+<WRAP imagem> GRUPO COM DUAS CRIANCAS:  {{ :cap1:nao_metade.jpg?direct&100 |}}
 Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&100 |}}
-Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}
+Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}</WRAP>
 
 Para discussão:
   - Em qual dos grupos, os participantes receberao quantidades iguais de pizza;	
