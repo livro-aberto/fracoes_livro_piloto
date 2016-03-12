@@ -84,13 +84,16 @@ Para discussão:
 
 ===== Conexões =====
 
-No problema acima tivemos alguns aspectos imortantes a serem destacados
-
-Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. Como você deve ter percebido na atividade acima às vezes precisamos nos referir a uma parte de um objeto que foi dividido em três partes iguais. Neste caso, chamamos cada uma das partes de //um terço do objeto// original. Por exemplo, se dividimos uma barra de chocolate em três partes iguais cada uma delas representa //um terço do chocolate//.
+Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. 
+Como você deve ter percebido na atividade acima às vezes precisamos nos referir a uma parte de um objeto que foi dividido em três partes iguais. 
+Neste caso, chamamos cada uma das partes de //um terço do objeto// original. 
+Por exemplo, se dividimos uma barra de chocolate em três partes iguais, nos referimos à quantidade de cada uma destas partes como //um terço do chocolate//.
 
 Do mesmo modo ao dividirmos um objeto em quatro ou cinco partes iguais, cada uma das partes será chamada respectivamente de //um quarto// e //um quinto do objeto original//.\\
 
-Na História da Humanidade os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.). Embora os números tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. Quando dizemos 
+Na História da Humanidade os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.). 
+Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. 
+Considere os exemplos a seguir:
 
 //"Meia barra de chocolate para cada um."\\
 
@@ -100,7 +103,10 @@ Na História da Humanidade os números foram criados inicialmente para contar ob
 
 "Um quinto de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa."//\\
 
-também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso também representamos estas quantidades por números. 
+Em todos eles também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso  representamos estas quantidades por números. 
+
+<WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas 2 elefantes e um terço de xícara faz.</WRAP>  
+
 
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
