@@ -211,7 +211,7 @@ Objetivo específicos: Modelos com unidades diferentes para identificar uma mesm
 
 Quais das imagens a seguir, a parte em vermelho iustra um terço?
 
-{{ :cap1:rec_tercos.jpg?direct&300 |}}
+{{ :cap1:rec_tercos.jpg?direct&500 |}}
 
 Para discussão/orientação ao professor:
   * Pedir aos alunos que expliquem a sua escolha;
