@@ -72,8 +72,27 @@ Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&100 |}}
 Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}</WRAP>
 
 Para discussão:
-  - Em qual dos grupos, os participantes receberao quantidades iguais de pizza;	
+  - Em qual dos grupos, os participantes receberao quantidades iguais de pizza?
+  - Considerando a pizza inteira, como você nomearia as fatias de pizza de cada grupo?
 </WRAP>
+
+
+<WRAP exercicio>
+<WRAP professor> 
+Objetivo específicos: reconhecer que, em uma equiparticao, as partes podem nao ter a mesma forma
+
+(Realizar em grupos 4, deixar as crianças cortarem as partes para compará-las... Dúvida: será que 6 não é muito?) 
+Cada grupo deve receber um encarte em que estejam as imagens de retângulos (representativos de barras de chocolate) para decidir sobre qual (ou quais) usariam para repartir o chocolate entre os participanates do grupo:
+{{ :cap1:quartos_de_chocolate.jpg?direct&100 |}}
+
+Para discussão/orientação ao professor:
+  * Pedir aos alunos que expliquem a sua escolha;
+  * Levar o aluno a reconhecer que as partes têm que corresponder à mesma “quantidade” de chocolate, mas não à mesma forma.
+
+</WRAP>
+
+
+
 
 <WRAP exercicio>
 
@@ -83,6 +102,13 @@ Para discussão:
 
 
 ===== Conexões =====
+
+Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
+
+Por exemplo: Cada uma de duas partes iguais de um mesmo todo é chamada de metade do todo... INCLUIR IMAGEM ILUSTRATIVA
+cada uma de tres partes iguais de um mesmo todo é chamada um terco ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+
 
 Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. 
 Como você deve ter percebido na atividade acima às vezes precisamos nos referir a uma parte de um objeto que foi dividido em três partes iguais. 
@@ -109,6 +135,24 @@ Em todos eles também estamos nos referindo a quantidades (de chocolate, de fari
 
 
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
+
+
+VOCABULÁRIO:
+Inteiro ou Todo ou Unidade????
+Metade;
+Um meio
+Terça parte;
+Um terço
+Quarta parte;
+Um quarto
+Sextos
+Sétimos
+Oitavos
+Nonos
+E décimos
+
++ representação simbólica
+
 
 
 ===== Modelo Abstrato =====
@@ -163,6 +207,27 @@ Enunciados alternativos para evitar a palavra "área" acima.
 <WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C). Importante observar que para uma figura bidimensional um quarto da figura significa um quarto da área da figura. Se ela fosse tridimensional seria um quarto do volume.</WRAP>
 </WRAP>
 
+
+<WRAP exercicio> 
+Objetivo específicos: Modelos com unidades diferentes para identificar uma mesma fração, um terco
+(Realizar em grupos 4) 
+
+Quais das imagens a seguir, a parte em vermelho iustra um terco?
+
+{{ :cap1:rec_tercos.jpg?direct&300 |}}
+
+Para discussão/orientação ao professor:
+  * Pedir aos alunos que expliquem a sua escolha;
+</WRAP>
+
+
+
+
+
+
+
+
+
 <WRAP exercicio> Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identifique a fração da figura que a parte colorida representa em cada um dos casos sabendo que só pode haver as frações 1/2, 1/3 e 1/5.
 
 <WRAP imagem> {{ :cap1:20160311_064049.jpg?500 |}} </WRAP>
@@ -174,6 +239,16 @@ Enunciados alternativos para evitar a palavra "área" acima.
 <WRAP professor> Este exercício objetiva que o estudante ganhe fluência para estimar quantidades usando a linguagem de frações em situações diversas. Como consequência espera-se que eles consigam observar que $\frac{1}{5} <\frac{1}{3} <\frac{1}{2}$.</WRAP>
 </WRAP>
 
+<WRAP exercicio>
+Use um desenho ou palavras para explicar a fração (talvez para ser realizada em papel quadriculado)
+a)	½
+b)	1/3
+c)	¼
+d)	1/6
+e)	1/8
+f)	1/5
+g)	1/7.
+</WRAP>
 
 
 
@@ -184,6 +259,51 @@ Tangram --> áreas equivalentes com figuras diferentes.
 Atividades da coleção Math Makes Sense vol. 4 pag. 176. Envolvendo estimativas.
 
 A tecnologia pode ajudar a perceber frações unitárias menores, tipo $1/35$ ou $1/100$. Tipo do vol. 4 canadense p.176.
+
+A mesma fração em situações discreta e contínua sendo a "parte"de uma o "todo"da outra
+
+{{ :cap1:quartos_de_laranjas.jpg?direct&300 |}}
+
+
+
+OUTRAS IDEIAS - PARA AVALIACAO
+
+Usar faixas de papel para realizar as atividades a seguir:
+(a) Uma fita precisa ser cortada para enfeitar três embalagens iguais. Como você faria isso?
+{{ :cap1:fita_e_presentes.jpg?direct&300 |}}
+
+
+(b) Ana quer enfeitar a árvore de Natal e pretende fazer 4 enfeites iguais. Para isso precisa cortar a linha que prenderá os enfeites na árvore em pedaços iguais. Ajude Ana  afazer isso. 
+{{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
+
+(c) Use três cores diferentes para colorir a grade quadriculada a seguir. Cada quadradinho que compõe a grade deve ser colorido com apenas uma cor. 
+{{ :cap1:malha.jpg?direct&200 |}}									
+a)	Indique a fração da grade quadriculada que corresponde a cada cor.
+b)	 Compare a sua grade com a de um colega.
+
+
+INCLUIR QUESTOES SOBRE COMPARACAO... Por exemplo:
+a) na atividade inicial, que envolve grupos de criancas dividindo pizzas iguais, perguntar aos alunos em que grupo prefeririam estar, justificando a sua resposta..
+
+
+QUESTÕES SOBRE A UNIDADE
+INCLUIR ATIVIDADE QUE ENVOLVA ½ (metades) DE PIZZAS DE TAMANHOS DIFERENTES
+(relacionar com situação equivalente no contexto discreto... comer duas pizzas pode significar comer uma quantidade menor de pizza do que comer uma pizza só – depende do tamanho da unidade, ou seja, de cada pizza.  
+
+INCLUIR QUESTAO RESOLVIDA COM ALGUM ERRO A SER IDENTIFICADO
+
+INCLUIR ATIVIDADE QUE O MENINO TENHA RESGATAR A UNIDADE
+Por exemplo, complete a imagem a seguir de modo que a parte já desenhada seja metade do desenho completo. 
+
+INCLUIR RETA NUMERICA – com pinguinzinho
+Boas inspiraçoes: Math makes sense, v.4, p.178 e Euro Math, CM1, p.138.
+{{ :cap1:euro_maths_cm1_p138.jpg?direct&300 |}}
+
+Atividade 6 (BEM ADIANTE)
+Necessidade de dividir 1 real em 10 centavos 
+
+
+
 
 
 ===== Refletindo ===== 
