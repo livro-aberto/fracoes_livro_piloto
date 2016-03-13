@@ -2,7 +2,7 @@
 
 ===== Matemática =====
 
-We can use $E = mc^2$. Or
+Podemos usar $E = mc^2$. Ou
 
 \begin{equation}
   \int_0^\infty \frac{1}{x^2} dx
