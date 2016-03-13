@@ -74,7 +74,7 @@ Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmã
 
 <WRAP exercicio>
 <WRAP professor> 
-Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terco/terca parte e quarto/quarta parte como formas de nomear partes de uma equipartição
+Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terço/terça parte e quarto/quarta parte como formas de nomear partes de uma equipartição
 </WRAP>
 (Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
 
@@ -119,7 +119,7 @@ Para discussão/orientação ao professor:
 <WRAP nota> Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
 
 Por exemplo: Cada uma de duas partes iguais de um mesmo todo é chamada de metade do todo... INCLUIR IMAGEM ILUSTRATIVA
-cada uma de tres partes iguais de um mesmo todo é chamada um terco ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+cada uma de tres partes iguais de um mesmo todo é chamada um terço ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
 cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
 
 
@@ -206,10 +206,10 @@ O caráter abstrato do número. Número não será definido. Mas deixaremos clar
 </WRAP>
 
 <WRAP exercicio> 
-Objetivo específicos: Modelos com unidades diferentes para identificar uma mesma fração, um terco
+Objetivo específicos: Modelos com unidades diferentes para identificar uma mesma fração, um terço
 (Realizar em grupos 4) 
 
-Quais das imagens a seguir, a parte em vermelho iustra um terco?
+Quais das imagens a seguir, a parte em vermelho iustra um terço?
 
 {{ :cap1:rec_tercos.jpg?direct&300 |}}
 
