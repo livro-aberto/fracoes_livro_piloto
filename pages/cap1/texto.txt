@@ -307,7 +307,7 @@ Necessidade de dividir 1 real em 10 centavos
 <WRAP professor>
 **De onde vem o termo avo?** 
 
-Ferreira (2006) conjectura que o termo //avo// usado para designar frações a partir do um onze avos tem usa origem  do harmônico pitagórico oitava, o intervalo musical entre uma nota e uma outra com metade ou o dobro de sua frequência. O //avo// chegou à Espanha pelos árabes e foi latinizado, chegando, também, a Portugal. De fato, este termo é usado apenas em Português e em Espanhol. Um doze avos, por exemplo, se escreve "one-twelfth" em Inglês, "un douzième" em Francês, "uno dodicesimo" em Italiano e "ein Zwölftel" em Alemão.
+Ferreira (2006) conjectura que o termo //avo// usado para designar frações a partir do um onze avos tem usa origem  do harmônico pitagórico oitava, o intervalo musical entre uma nota e uma outra com metade ou o dobro de sua frequência. O //avo// chegou à Espanha pelos árabes e foi latinizado, chegando, também, a Portugal. De fato, este termo é usado apenas em Português e em Espanhol. Um doze avos, por exemplo, se escreve em Inglês "one-twelfth" (terminação "th"), em Francês "un douzième" (terminação "ème") e, em Alemão, "ein Zwölftel" (terminação "tel").
 </WRAP>
 
 
