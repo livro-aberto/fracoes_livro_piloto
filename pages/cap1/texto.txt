@@ -113,11 +113,11 @@ Para discussão/orientação ao professor:
 
 ===== Conexões =====
 
-Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
+<WRAP nota> Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
 
 Por exemplo: Cada uma de duas partes iguais de um mesmo todo é chamada de metade do todo... INCLUIR IMAGEM ILUSTRATIVA
 cada uma de tres partes iguais de um mesmo todo é chamada um terco ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
-cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
 
 
 Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. 
@@ -143,7 +143,7 @@ Em todos eles também estamos nos referindo a quantidades (de chocolate, de fari
 
 <WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas 2 elefantes e um terço de xícara fazem.</WRAP>  
 
-
+<WRAP nota>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
 
@@ -162,7 +162,7 @@ Nonos
 E décimos
 
 + representação simbólica
-
+</WRAP>
 
 
 ===== Modelo Abstrato =====
