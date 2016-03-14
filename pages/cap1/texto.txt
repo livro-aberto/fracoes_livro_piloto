@@ -331,6 +331,16 @@ Como apontam Mokros e Russell (1995), o contexto de equipartição se põe como 
 
 ===== Limbo (Dá para Aproveitar?) ===== 
 
+<WRAP exercício>
+Júlia tenta convencer Pedro que $\frac{1}{2} = \frac{1}{5}$. Você concorda com o argumento dela? Ou existe algo errado? Explique!
+
+{{ :cap1:quadrinhos-um-meio-e-igual-a-um-quinto.jpg?300 |}}
+
+<WRAP resposta>
+Júlia está usando um argumento errado: $\frac{1}{2}$ e $\frac{1}{5}$ são partes que se referem a todos diferentes!
+</WRAP>
+</WRAP>
+
 <WRAP exercicio>
 <WRAP nota>
 **Humberto**: Meio bobinho, mas coloco aqui para avaliação.
