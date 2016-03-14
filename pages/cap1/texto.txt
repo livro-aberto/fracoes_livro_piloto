@@ -317,10 +317,6 @@ Ferreira (2006) conjectura que o termo //avo// usado para designar frações a p
 **Conexão: Equipartição e Média Arimética** 
 
 Como apontam Mokros e Russell (1995), o contexto de equipartição se põe como um modelo para a média aritmética. De fato, ao se representar, por exemplo, os dados por retângulos de mesma base e cujas alturas especificam os valores dos dados, redimensionar as alturas dos retângulos de forma que estas tenham uma mesma altura significa alocar a soma total dos valores de dados igualmente entre os retângulos. A nova altura, resultado da equipartição, é igual a média do valores dos dados.
-
-<WRAP figura>
-{{:cap1:equiparticao-e-media-aritmetica.png?300 |}}
-</WRAP>
 </WRAP>
 
 
