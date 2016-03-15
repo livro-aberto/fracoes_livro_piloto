@@ -11,7 +11,7 @@ Quais os pré-requisitos os estudantes devem ter para a sequência deste livro?
 Estrutura de capítulos versão 0:
 
     * Introdução
-    * Capítulo 1: Equipartição; frações unitárias até um décimo: conceito, nomeclatura, comparação informal.
+    * Capítulo 1: Equipartição; frações unitárias até um décimo: conceito, linguagem, comparação simples contextualizada.
     * Capítulo 2: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações $1/n$ com $n\in \mathbb{N}$ e $n \leq 1000$.
     * Capítulo 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações $\frac{a}{b}$ e soma de frações com mesmo denominador.
     * Capítulo 4: Frações equivalentes e porcentagem.
