@@ -108,6 +108,8 @@ Levar o aluno a reconhecer que as partes correspondem à mesma “quantidade” 
 
 <WRAP exercicio>
 
+Quais dos retângulos foram repartidos em quartos?
+
 <wrap imagem> {{ :cap3:quartos.jpg?300 |}}     </wrap>
 
 </WRAP>
