@@ -99,17 +99,16 @@ Fatie a pizza de modo que criança do grupo a seguir receba a mesma quantidade d
 Objetivo específicos: Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma
 
 Recomendação: Realizar em grupos de 4 alunos, deixar as crianças cortarem as partes para compará-las. 
-Cada aluno deve receber um encarte em que estejam as imagens de de barras de chocolate) para decidir sobre qual (ou quais) usariam para repartir o chocolate entre os participanates do grupo:
-{{ :cap1:quartos_de_chocolate.jpg?direct&500 |}}
+Cada aluno deve receber um encarte em que estejam as imagens de de barras de chocolate para avaliar a equipartição
 
-Para discussão/orientação ao professor:
-  * Pedir aos alunos que expliquem a sua escolha;
-  * Levar o aluno a reconhecer que as partes têm que corresponder à mesma “quantidade” de chocolate, mas não à mesma forma.
+Orientação:
+Levar o aluno a reconhecer que as partes correspondem à mesma “quantidade” de chocolate, mas não à mesma forma.
 
 </WRAP>
 
 <WRAP exercicio>
 
+<wrap imagem> {{ :cap3:quartos.jpg?300 |}}     </wrap>
 
 </WRAP>
 
