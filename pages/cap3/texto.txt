@@ -14,7 +14,7 @@ Orientações:  Recomendar que o professor discuta as diferentes respostas dos a
 
 
 <WRAP exercicio>
-Atividade 1
+ATIVIDADE 1
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
@@ -38,8 +38,7 @@ Objetivos específicos: Distinguir equipartição de uma partição qualquer.
 
 Orientações:
 
-Recomendações: 
-(Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
+Recomendações: Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos 
 </WRAP>
 
 <WRAP exercicio>
@@ -49,6 +48,12 @@ Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada g
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} </WRAP>
+
+Em todos os grupos, a pizza foi repartida na mesma quantidade de fatias?
+
+Todas as crianças receberam fatias iguais de pizza (dúvida... ou fatias com a mesma quantidade de pizza)?
+
+Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia as fatias de pizza desse grupo? 
 
 </WRAP>
 
