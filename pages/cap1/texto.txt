@@ -21,10 +21,11 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 
 <WRAP nota>
 **OBS**:
-  * Não tratar de modelos discretos;  Parece que decidimos trabalhar apenas com contínuas num primeiro momento. Devemos bater o martelo em 15/03;
-  * Deixar frações com denominadores maiores do que 4 para uma próxima seção;
+  * Trabalharemos modelos contínuo por enquanto;
+  * Deixar frações com denominadores maiores do que 10 para uma próxima seção;
   * Valorizar a atividade em grupo e a discussão;
-  * Tratar a comparação pela ordem sem formalizar; 
+  * Tratar a comparação pela ordem sem formalizar;
+  * Deixar a representação simbólica para a próxima seção.
 
 **DÚVIDAS**
 Vamos usar o modelo dos círculos?
