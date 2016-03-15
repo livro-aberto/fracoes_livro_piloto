@@ -42,8 +42,6 @@ Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada g
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}}
 
-
-
 </WRAP>
 
 
@@ -69,10 +67,10 @@ Em todos os grupos, a repartição foi feita da mesma maneira?
 
 Em qual dos grupos, as crianças receberam pedaços de pizza de mesmo tamanho?
 
-
-
 Considerando a pizza inteira, como você nomearia as fatias de pizza de cada grupo?
 </WRAP>
+
+
 
 
 <WRAP exercicio>
