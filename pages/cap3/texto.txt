@@ -63,10 +63,13 @@ Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considera
 
 ===== Conexões =====
 
-<WRAP nota> Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
+CONEXÕES
 
-Por exemplo: Cada uma de duas partes iguais de um mesmo todo é chamada de metade do todo... INCLUIR IMAGEM ILUSTRATIVA
-cada uma de tres partes iguais de um mesmo todo é chamada um terço ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+Cada uma de duas partes iguais de um mesmo todo é chamada de meio ou metade do todo... 
+<wrap imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </wrap>
+
+Cada uma de três partes iguais de um mesmo todo é chamada um terço ou terça parte do todo ... 
+<wrap imagem> INCLUIR IMAGEM ILUSTRATIVA de terço
 cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
 
 
