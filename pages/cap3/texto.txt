@@ -1,5 +1,7 @@
 ====== Capítulo 1 - Lição 1 ======
 
+/* ATIVIDADE 1 */
+
 <WRAP professor> 
 Objetivo específico: Distinguir equipartição de uma partição qualquer.
 
@@ -11,9 +13,9 @@ Orientações:  Recomendar que o professor discuta as diferentes respostas dos a
 */
 
 
-
-
 <WRAP exercicio>
+Atividade 1
+
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
 <WRAP imagem> 3 irmãos de idades diferentes observando uma Barra de chocolate retangular (imagem tridimensional) repartida em três partes com tamanhos diferentes.</WRAP>
@@ -29,6 +31,8 @@ Proponha uma divisão dessa barra de chocolate de maneira que os irmão recebam 
 </WRAP>
 
 
+/* ATIVIDADE 2 */
+
 <WRAP professor> 
 Objetivos específicos: Distinguir equipartição de uma partição qualquer.
 
@@ -39,6 +43,8 @@ Recomendações:
 </WRAP>
 
 <WRAP exercicio>
+ATIVIDADE 2
+
 Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
@@ -47,6 +53,8 @@ Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada g
 </WRAP>
 
 
+
+/* ATIVIDADE 3 */
 
 <WRAP professor> 
 Objetivos específicos: 
