@@ -28,6 +28,8 @@ Proponha uma divisão dessa barra de chocolate de maneira que os irmão recebam 
 
 <WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .</WRAP>
 
+Considerando a barra de chocolate inteira, como você nomearia a quantidade de chocolate que cada irmão recebeu? 
+
 </WRAP>
 
 
@@ -59,7 +61,7 @@ Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considera
 
 
 
-/* ATIVIDADE 3 */
+/* EXERCÍCIO 1 */
 
 <WRAP professor> 
 Objetivos específicos: 
@@ -79,11 +81,16 @@ Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&100 |}}
 Grupo com quatro criancas: {{ :cap1:quartos.jpg?direct&100 |}}
 </WRAP>
 
-Em todos os grupos, a repartição foi feita da mesma maneira?
+Em todos os grupos, a pizza foi repartida na mesma quantidade de fatias?
 
-Em qual dos grupos, as crianças receberam pedaços de pizza de mesmo tamanho?
+Em cada grupo, as crianças receberam fatias iguais de pizza (dúvida... ou fatias com a mesma quantidade de pizza)?
 
-Considerando a pizza inteira, como você nomearia as fatias de pizza de cada grupo?
+Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia as fatias de pizza desse grupo?
+
+Fatie a pizza de modo que criança do grupo a seguir receba a mesma quantidade de pizza.
+
+<WRAP imagem> Grupo de 8 crianças e uma pizza inteira <WRAP>
+
 </WRAP>
 
 
