@@ -42,9 +42,10 @@ Recomendações:
 Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
-{{ :cap3:pizzas.jpg?300 |}}
+{{ :cap3:pizzas.jpg?300 |}} </WRAP>
 
 </WRAP>
+
 
 
 <WRAP professor> 
