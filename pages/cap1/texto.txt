@@ -1,5 +1,3 @@
-{{page>cap1:secoes:atividade5}}
-
 {{page>cap1:secoes:prologo}}
 
 {{page>cap1:secoes:intro}}
