@@ -75,7 +75,7 @@ Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmã
 
 
 
-=== Atividade ===
+==== Atividade ====
 <WRAP professor> 
 Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terço/terça parte e quarto/quarta parte como formas de nomear partes de uma equipartição
 </WRAP>
