@@ -19,7 +19,7 @@ Identificar e representar a partir de modelos visuais frações unitárias quais
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
 Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
 
-<WRAP nota>
+/*
 **OBS**:
   * Trabalharemos modelos contínuo por enquanto;
   * Deixar frações com denominadores maiores do que 10 para uma próxima seção;
@@ -30,7 +30,7 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 **DÚVIDAS**
 Vamos usar o modelo dos círculos?
 O modelo de círculo deixa evidente a fração considerada e a fração complementar.
-</WRAP>
+*/
 </WRAP>
 
 <WRAP professor>
@@ -40,12 +40,9 @@ Os livros didáticos americanos usam muito o modelo dos círculos. Um dos motivo
 
 ===== Introdutório =====
 
-<WRAP nota>
+/*
 **Humberto**: Caros, vocês acham conveniente incluir um texto introdutório antes de cair direto em uma atividade? Coloco aqui uma sugestão para a análise de vocês.
-</WRAP>
-
-
-
+*/
 
 Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. Vamos, a partir de agora, aprender novos números! Eles são necessários em certas situações como, por exemplo, na questão de se dividir de forma justa uma barra de chocolate entre um grupo de amigos.
 <WRAP imagem>
@@ -53,10 +50,10 @@ Você já estudou os números naturais e viu como eles são úteis para contar, 
 </WRAP>
 
 
-<WRAP exercicio>
-<WRAP nota>
+=== Atividade ===
+/*
 Simas: Não estou nada feliz com esta atividade para introdução ao capítulo.
-</WRAP>
+*/
 
 <WRAP professor> 
 Objetivo específicos: Diferenciar a divisão em três partes da divisão em três partes "iguais" e despertar para a necessidade de uma expressão que signifique "uma das três partes iguais".
@@ -75,10 +72,10 @@ Discuta com seus colegas uma divisão que pareça mais adequada a todos os irmã
 
 {{ :cap1:barra_chocolate.jpg?direct&100 |}}</WRAP>
 
-</WRAP>
 
 
-<WRAP exercicio>
+
+=== Atividade ===
 <WRAP professor> 
 Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terço/terça parte e quarto/quarta parte como formas de nomear partes de uma equipartição
 </WRAP>
@@ -93,7 +90,7 @@ Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}</WRAP>
 Para discussão:
   - Em qual dos grupos, os participantes receberao quantidades iguais de pizza?
   - Considerando a pizza inteira, como você nomearia as fatias de pizza de cada grupo?
-</WRAP>
+
 
 
 <WRAP exercicio>
