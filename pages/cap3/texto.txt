@@ -1,5 +1,6 @@
 ====== Capítulo 1 - Lição 1 ======
 
+==== Atividade ====
 /* ATIVIDADE 1 */
 
 <WRAP professor> 
@@ -13,7 +14,7 @@ Orientações:  Recomendar que o professor discuta as diferentes respostas dos a
 */
 
 
-<WRAP exercicio>
+==== Atividade ====
 ATIVIDADE 1
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
@@ -30,9 +31,9 @@ Proponha uma divisão dessa barra de chocolate de maneira que os irmão recebam 
 
 Considerando a barra de chocolate inteira, como você nomearia a quantidade de chocolate que cada irmão recebeu? 
 
-</WRAP>
 
 
+==== Atividade ====
 /* ATIVIDADE 2 */
 
 <WRAP professor> 
@@ -43,7 +44,7 @@ Orientações:
 Recomendações: Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos 
 </WRAP>
 
-<WRAP exercicio>
+==== Atividade ====
 ATIVIDADE 2
 
 Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada grupo repartiu a sua pizza.
@@ -63,13 +64,11 @@ Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considera
 
 ===== Conexões =====
 
-CONEXÕES
-
 Cada uma de duas partes iguais de um mesmo todo é chamada de meio ou metade do todo... 
-<wrap imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </wrap>
+<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </WRAP>
 
 Cada uma de três partes iguais de um mesmo todo é chamada um terço ou terça parte do todo ... 
-<wrap imagem> INCLUIR IMAGEM ILUSTRATIVA de terço
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço
 cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
 
 
@@ -96,7 +95,7 @@ Em todos eles também estamos nos referindo a quantidades (de chocolate, de fari
 
 <WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas 2 elefantes e um terço de xícara fazem.</WRAP>  
 
-<WRAP nota>
+/*
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
 
@@ -115,13 +114,13 @@ Nonos
 E décimos
 
 + representação simbólica
-</WRAP>
+*/
 
 
 
 
 
-
+==== Atividade ====
 /* EXERCÍCIO 1 */
 
 <WRAP professor> 
@@ -132,7 +131,7 @@ Objetivos específicos:
 Recomendações: Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos 
 </WRAP>
 
-<WRAP exercicio>
+==== Atividade ====
 Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE CRIANÇAS, cada um com uma pizza repartida da seguinte forma
@@ -151,9 +150,9 @@ Fatie a pizza de modo que criança do grupo a seguir receba a mesma quantidade d
 
 <WRAP imagem> Grupo de 8 crianças e uma pizza inteira </WRAP>
 
-</WRAP>
 
 
+==== Atividade ====
 /* ATIVIDADE 4 */
 
 <WRAP professor> 
@@ -167,30 +166,27 @@ Levar o aluno a reconhecer que as partes correspondem à mesma “quantidade” 
 
 </WRAP>
 
-<WRAP exercicio>
+==== Atividade ====
 
 Quais dos retângulos foram repartidos em quartos?
 
-<wrap imagem> {{ :cap3:quartos.jpg?300 |}}     </wrap>
-
-</WRAP>
+<WRAP imagem> {{ :cap3:quartos.jpg?300 |}}     </WRAP>
 
 
-
-<WRAP exercicio>
+==== Atividade ====
 
 <WRAP professor> Esperamos despertar a necessidade do uso da expressão **um terço** e de criar uma representação visual desta ideia.
-</WRAP>
 </WRAP>
 
 
 ===== Conexões =====
 
-<WRAP nota> Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
+/* Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
 
 Por exemplo: Cada uma de duas partes iguais de um mesmo todo é chamada de metade do todo... INCLUIR IMAGEM ILUSTRATIVA
 cada uma de tres partes iguais de um mesmo todo é chamada um terço ou terca parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
-cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
+cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA
+*/
 
 
 Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. 
@@ -216,7 +212,7 @@ Em todos eles também estamos nos referindo a quantidades (de chocolate, de fari
 
 <WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas 2 elefantes e um terço de xícara fazem.</WRAP>  
 
-<WRAP nota>
+/*
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
 
@@ -235,7 +231,7 @@ Nonos
 E décimos
 
 + representação simbólica
-</WRAP>
+*/
 
 
 ===== Modelo Abstrato =====
@@ -254,28 +250,29 @@ Como vimos todo número tem uma representação na reta numérica. Esta represen
 
 Os números meio, um terço, um quarto e um quinto surgem a partir da divisão de uma unidade (uma barra de chocolate, uma xícara de farinha de trigo, um século, um quilograma de ouro) em partes iguais, logo todos eles são números menores do que 1 e maiores do que 0 (meia barra de chocolate é mais do que nada e menos que uma barra inteira). Assim estão todos entre o 0 e o 1 na reta numérica.
 
-<WRAP exercicio> 
+==== Atividade ====
 Você saberia dizer qual é o menor dos números $\frac{1}{2}$ ou $\frac{1}{3}$? (Pense em uma barra de chocolates dividida para 2 ou 3 pessoas, em qual das situações a fração correspondente a cada pessoa é maior?)
-</WRAP>
 
-<WRAP nota>
+
+/*
 Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2, 1/3 , \cdots, 1/10$.
 
 O caráter abstrato do número. Número não será definido. Mas deixaremos claro que existe um número para cada ponto da "reta numérica" e que para cada ponto da reta numérica há um número. Reconhecemos a dificuldade dessas questões.
-</WRAP>
+*/
 
 ===== Mão na Massa =====
 
-<WRAP exercicio> O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
+==== Atividade ====
+O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
 
 <WRAP imagem> inserir a figura "chocolate partido" (feita a mão) {{ :cap1:20160311_061902.jpg?200 |}} </WRAP>
 
 <WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.</WRAP> 
 
 <WRAP professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.</WRAP>
-</WRAP>
 
-<WRAP exercicio> 
+
+==== Atividade ====
 Objetivo específicos: Modelos com unidades diferentes para identificar uma mesma fração, um terço
 (Realizar em grupos 4) 
 
@@ -284,23 +281,17 @@ Quais das imagens a seguir, a parte em vermelho iustra um terço?
 
 {{ :cap1:rec_tercos.jpg?direct&500 |}}
 
-<WRAP nota>
+/*
 **Humberto**: No hexágono não tem parte em vermelho. Que tal colocar a pergunta assim: "Para cada figura a seguir, indique se a parte em vermelho é ou não um terço da figura.".
-</WRAP>
+*/
 
+<WRAP professor>
 Para discussão/orientação ao professor:
   * Pedir aos alunos que expliquem a sua escolha;
 </WRAP>
 
-
-
-
-
-
-
-
-
-<WRAP exercicio> Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identifique a fração da figura que a parte colorida representa em cada um dos casos sabendo que só pode haver as frações 1/2, 1/3 e 1/5.
+==== Atividade ====
+Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identifique a fração da figura que a parte colorida representa em cada um dos casos sabendo que só pode haver as frações 1/2, 1/3 e 1/5.
 
 <WRAP imagem> {{ :cap1:20160311_064049.jpg?500 |}} </WRAP>
 
@@ -309,9 +300,9 @@ Para discussão/orientação ao professor:
 (I)$\frac{1}{3}$, (J)$\frac{1}{2}$, (L)$\frac{1}{5}$, (M)$\frac{1}{3}$</WRAP>
 
 <WRAP professor> Este exercício objetiva que o estudante ganhe fluência para estimar quantidades usando a linguagem de frações em situações diversas. Como consequência espera-se que eles consigam observar que $\frac{1}{5} <\frac{1}{3} <\frac{1}{2}$.</WRAP>
-</WRAP>
 
-<WRAP exercicio>
+
+==== Atividade ====
 Use um desenho ou palavras para explicar a fração (talvez para ser realizada em papel quadriculado)
 a)	½
 b)	1/3
@@ -320,11 +311,11 @@ d)	1/6
 e)	1/8
 f)	1/5
 g)	1/7.
-</WRAP>
 
 
 
-Criar aplicativo com o pinguim e frações unitárias.
+
+/*Criar aplicativo com o pinguim e frações unitárias.
 
 Tangram --> áreas equivalentes com figuras diferentes.
 
@@ -336,10 +327,11 @@ A mesma fração em situações discreta e contínua sendo a "parte"de uma o "to
 
 {{ :cap1:quartos_de_laranjas.jpg?direct&300 |}}
 
-
+*/
 
 OUTRAS IDEIAS - PARA AVALIACAO
 
+==== Atividade ====
 Usar faixas de papel para realizar as atividades a seguir:
 (a) Uma fita precisa ser cortada para enfeitar três embalagens iguais. Como você faria isso?
 {{ :cap1:fita_e_presentes.jpg?direct&300 |}}
@@ -353,17 +345,20 @@ Usar faixas de papel para realizar as atividades a seguir:
 a)	Indique a fração da grade quadriculada que corresponde a cada cor.
 b)	 Compare a sua grade com a de um colega.
 
-
+==== Atividade ====
 INCLUIR QUESTOES SOBRE COMPARACAO... Por exemplo:
+
 a) na atividade inicial, que envolve grupos de criancas dividindo pizzas iguais, perguntar aos alunos em que grupo prefeririam estar, justificando a sua resposta..
 
-
+==== Atividade ====
 QUESTÕES SOBRE A UNIDADE
 INCLUIR ATIVIDADE QUE ENVOLVA ½ (metades) DE PIZZAS DE TAMANHOS DIFERENTES
 (relacionar com situação equivalente no contexto discreto... comer duas pizzas pode significar comer uma quantidade menor de pizza do que comer uma pizza só – depende do tamanho da unidade, ou seja, de cada pizza.  
 
+==== Atividade ====
 INCLUIR QUESTAO RESOLVIDA COM ALGUM ERRO A SER IDENTIFICADO
 
+==== Atividade ====
 INCLUIR ATIVIDADE QUE O MENINO TENHA RESGATAR A UNIDADE
 Por exemplo, complete a imagem a seguir de modo que a parte já desenhada seja metade do desenho completo. 
 
@@ -371,6 +366,7 @@ INCLUIR RETA NUMERICA – com pinguinzinho
 Boas inspiraçoes: Math makes sense, v.4, p.178 e Euro Math, CM1, p.138.
 {{ :cap1:euro_maths_cm1_p138.jpg?direct&300 |}}
 
+==== Atividade ====
 Atividade 6 (BEM ADIANTE)
 Necessidade de dividir 1 real em 10 centavos 
 
@@ -401,7 +397,7 @@ Como apontam Mokros e Russell (1995), o contexto de equipartição se põe como 
 
 ===== Limbo (Dá para Aproveitar?) ===== 
 
-<WRAP exercicio>
+==== Atividade ====
 Júlia tenta convencer Pedro que $\frac{1}{2} = \frac{1}{5}$. Você concorda com o argumento dela? Ou existe algo errado? Explique!
 
 {{ :cap1:quadrinhos-um-meio-e-igual-a-um-quinto.jpg?500 |}}
@@ -409,12 +405,13 @@ Júlia tenta convencer Pedro que $\frac{1}{2} = \frac{1}{5}$. Você concorda com
 <WRAP resposta>
 O problema é que a notação usada para frações não explicita os todos aos quais elas se referem. De fato, $\frac{1}{2}$ da barra de doce menor na figura é igual a $\frac{1}{5}$ da barra de doce maior. Mas, ao escrever $\frac{1}{2} = \frac{1}{5}$, se entende que a igualdade se dá considerando-se o **mesmo** todo, o que não é o caso.
 </WRAP>
-</WRAP>
 
-<WRAP exercicio>
-<WRAP nota>
+
+==== Atividade ====
+/*
 **Humberto**: Meio bobinho, mas coloco aqui para avaliação.
-</WRAP>
+*/
+
 Uma outra maneira comum de se dividir uma pizza é à "francesa", como mostra a figura a seguir. Uma pizza cortada à francesa está dividida em partes iguais? Explique!
 
 {{ :cap1:pizza-a-francesa.jpg?500 |}}
@@ -424,7 +421,7 @@ Uma pizza cortada à francesa não está dividida em partes iguais. Basta ver qu
 </WRAP>
 </WRAP>
 
-<WRAP exercicio>
+==== Atividade ====
 Quais das figuras a seguir estão divididas em quatro partes que representam mesma área? Explique os motivos que levaram a sua escolha.
 
 Enunciados alternativos para evitar a palavra "área" acima. 
@@ -435,4 +432,4 @@ Enunciados alternativos para evitar a palavra "área" acima.
 {{ :cap1:exer-01.png?500 |}}
 <WRAP resposta>(A), (C), (D), (G) e (H). </WRAP>
 <WRAP professor>É importante que, com exercícios como este, o aluno ganhe a habilidade de identificar quando um todo está ou não dividido em partes iguais. Também é importante que o aluno perceba que uma figura pode estar divida em partes iguais sem que estas partes sejam congruentes, como nos mostra a Figura (C). Importante observar que para uma figura bidimensional um quarto da figura significa um quarto da área da figura. Se ela fosse tridimensional seria um quarto do volume.</WRAP>
-</WRAP>
+
