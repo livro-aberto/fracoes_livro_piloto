@@ -1,0 +1,10 @@
+==== Atividade ====
+Júlia tenta convencer Pedro que $\frac{1}{2} = \frac{1}{5}$. Você concorda com o argumento dela? Ou existe algo errado? Explique!
+
+{{ :cap1:quadrinhos-um-meio-e-igual-a-um-quinto.jpg?500 |}}
+
+<WRAP resposta>
+O problema é que a notação usada para frações não explicita os todos aos quais elas se referem. De fato, $\frac{1}{2}$ da barra de doce menor na figura é igual a $\frac{1}{5}$ da barra de doce maior. Mas, ao escrever $\frac{1}{2} = \frac{1}{5}$, se entende que a igualdade se dá considerando-se o **mesmo** todo, o que não é o caso.
+</WRAP>
+
+

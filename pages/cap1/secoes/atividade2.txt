@@ -1,0 +1,17 @@
+==== Atividade ====
+<WRAP professor> 
+Objetivo específicos: Identificar uma divisão em partes "iguais"; compreender as expressões metade, terço/terça parte e quarto/quarta parte como formas de nomear partes de uma equipartição
+</WRAP>
+(Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos) 
+
+Estas crianças estão repartindo pizzas. Observe como cada grupo repartiu a sua pizza.
+IMAGEM: 3 GRUPOS DE CRIANÇAS que contemplem as seguintes divisoes: 
+<WRAP imagem> GRUPO COM DUAS CRIANCAS:  {{ :cap1:nao_metade.jpg?direct&100 |}}
+Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&100 |}}
+Grupo com tres criancas: {{ :cap1:quartos.jpg?direct&100 |}}</WRAP>
+
+Para discussão:
+  - Em qual dos grupos, os participantes receberao quantidades iguais de pizza?
+  - Considerando a pizza inteira, como você nomearia as fatias de pizza de cada grupo?
+
+
