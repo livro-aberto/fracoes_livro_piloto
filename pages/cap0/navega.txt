@@ -8,17 +8,17 @@ A quem ele é destinado?
 
 Quais os pré-requisitos os estudantes devem ter para a sequência deste livro?
 
-Estrutura de capítulos versão 0:
+Estrutura de capítulos versão 1:
 
     * Introdução
-    * Capítulo 1: Equipartição; frações unitárias até um décimo: conceito, linguagem, comparação simples contextualizada.
-    * Capítulo 2: representação simbólica, representação na reta numérica e ordenação das frações $1/n$ com $n\in \mathbb{N}$, frações unitárias decimais.
-    * Capítulo 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações $\frac{a}{b}$ e soma de frações com mesmo denominador.
-    * Capítulo 4: Frações equivalentes e porcentagem.
-    * Capítulo 5: Adição e subtração de frações.
-    * Capítulo 6: Multiplicação de frações.
-    * Capítulo 7: Divisão de frações.
-    * Capítulo 8: Razão e proporção.
-    * Capítulo 9: Divisão e medida.
+    * Lição 1: Equipartição; frações unitárias até um décimo: conceito, linguagem, comparação simples contextualizada.
+    * Lição 2: Representação simbólica, representação na reta numérica e ordenação das frações $1/n$ com $n\in \mathbb{N}$, frações unitárias decimais.
+    * Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações $\frac{a}{b}$ e soma de frações com mesmo denominador.
+    * Lição 4: Frações equivalentes e porcentagem.
+    * Lição 5: Adição e subtração de frações.
+    * Lição 6: Multiplicação de frações.
+    * Lição 7: Divisão de frações.
+    * Lição 8: Razão e proporção.
+    * Lição 9: Divisão e medida.
 
 
