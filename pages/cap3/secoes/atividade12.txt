@@ -1,0 +1,19 @@
+
+
+==== Atividade ====
+Objetivo específicos: Modelos com unidades diferentes para identificar uma mesma fração, um terço
+(Realizar em grupos 4) 
+
+Quais das imagens a seguir, a parte em vermelho iustra um terço?
+
+
+{{ :cap1:rec_tercos.jpg?direct&500 |}}
+
+/*
+**Humberto**: No hexágono não tem parte em vermelho. Que tal colocar a pergunta assim: "Para cada figura a seguir, indique se a parte em vermelho é ou não um terço da figura.".
+*/
+
+<WRAP professor>
+Para discussão/orientação ao professor:
+  * Pedir aos alunos que expliquem a sua escolha;
+</WRAP>
