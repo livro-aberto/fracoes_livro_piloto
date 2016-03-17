@@ -1,3 +1,19 @@
+{{page>cap2:secoes:preambulo}}
+
+{{page>cap2:secoes:intro}}
+
+{{page>cap2:secoes:conexoes}}
+
+{{page>cap2:secoes:abstrato}}
+
+{{page>cap2:secoes:atividade1}}
+
+{{page>cap2:secoes:refletindo}}
+
+
+
+
+
 ====== Capítulo 2 - Frações não-unitárias ======
 
 Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
