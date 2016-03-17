@@ -10,32 +10,3 @@
 
 {{page>cap2:secoes:refletindo}}
 
-
-
-
-
-====== Capítulo 2 - Frações não-unitárias ======
-
-Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
-
-Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
-
-Na representação da reta justapomos 
-
-===== Introdução (ou Explorando?)=====
-<Texto introdutório>
-
-<professor> </professor>
-</Texto introdutório>
-
-===== Discussão e atividades iniciais (ou Fazendo Conexões?)=====
-
-===== Modelo abstrato ===== 
-
-Na reta numérica justapomos segmentos de comprimento $1/b$ e obtemos frações $2/b$, $3/b$, ... $b/b$, $(b+1)/b$. Então surgirão as frações equivalentes $2/4 = 1/2$, também $3/3 = 1$.
-
-===== Atividades, exercícios e desafios ===== 
-
-===== Refletindo ===== 
-
-Reflect da página 182 do vol. 4 do Math Makes Sense.
