@@ -1,0 +1,10 @@
+==== Atividade ====
+/* EXERCÍCIO 1 */
+
+<WRAP professor> 
+Objetivos específicos: 
+(i) Identificar uma divisão em partes "iguais"; 
+(ii) compreender as expressões metade, terço/terça parte e quarto/quarta parte como modos de nomear partes de uma equipartição
+
+Recomendações: Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos 
+</WRAP>
