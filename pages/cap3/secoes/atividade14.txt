@@ -1,0 +1,28 @@
+==== Atividade ====
+Use um desenho ou palavras para explicar a fração (talvez para ser realizada em papel quadriculado)
+a)	½
+b)	1/3
+c)	¼
+d)	1/6
+e)	1/8
+f)	1/5
+g)	1/7.
+
+
+
+
+/*Criar aplicativo com o pinguim e frações unitárias.
+
+Tangram --> áreas equivalentes com figuras diferentes.
+
+Atividades da coleção Math Makes Sense vol. 4 pag. 176. Envolvendo estimativas.
+
+A tecnologia pode ajudar a perceber frações unitárias menores, tipo $1/35$ ou $1/100$. Tipo do vol. 4 canadense p.176.
+
+A mesma fração em situações discreta e contínua sendo a "parte"de uma o "todo"da outra
+
+{{ :cap1:quartos_de_laranjas.jpg?direct&300 |}}
+
+*/
+
+OUTRAS IDEIAS - PARA AVALIACAO
