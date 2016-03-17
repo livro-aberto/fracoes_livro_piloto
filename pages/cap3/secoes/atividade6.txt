@@ -1,0 +1,20 @@
+
+==== Atividade ====
+Algumas crianças estão repartindo pizzas de mesmo tamanho. Observe como cada grupo repartiu a sua pizza.
+
+<WRAP imagem> 3 GRUPOS DE CRIANÇAS, cada um com uma pizza repartida da seguinte forma
+Grupo com duas criancas:  {{ :cap1:nao_metade.jpg?direct&100 |}}
+Grupo com tres criancas: {{ :cap1:nao_tercos.jpg?direct&100 |}}
+Grupo com quatro criancas: {{ :cap1:quartos.jpg?direct&100 |}}
+</WRAP>
+
+Em todos os grupos, a pizza foi repartida na mesma quantidade de fatias?
+
+Em cada grupo, as crianças receberam fatias iguais de pizza (dúvida... ou fatias com a mesma quantidade de pizza)?
+
+Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia as fatias de pizza desse grupo?
+
+Fatie a pizza de modo que criança do grupo a seguir receba a mesma quantidade de pizza.
+
+<WRAP imagem> Grupo de 8 crianças e uma pizza inteira </WRAP>
+
