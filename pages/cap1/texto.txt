@@ -38,5 +38,4 @@
 
 {{page>cap1:secoes:atividade13}}
 
-{{page>cap1:secoes:atividade14}}
 
