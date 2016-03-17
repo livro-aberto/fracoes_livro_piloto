@@ -1,6 +1,4 @@
-====== Navegação do Capítulo 1 ======
-
-As páginas a seguir estão disponíveis para cada um dos capítulos do livro.
+====== Navegação da Lição 1 ======
 
    * [[cap1:texto|Texto]] - Versão atual deste capítulo. Entre aqui se você quer conhecer ou editar o texto. A versão em [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] está revisada, use-a para impressão.
    * [[cap1:teoria|Referencial teórico para o capítulo]] - Livros e artigos que podem embasar a pesquisa para produção deste Capítulo e servir de fundamentação para o professor usuário deste livro.
