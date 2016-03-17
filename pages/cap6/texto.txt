@@ -1,1 +1,12 @@
-====== Capítulo - Título ======
+{{page>cap6:secoes:preambulo}}
+
+{{page>cap6:secoes:intro}}
+
+{{page>cap6:secoes:conexoes}}
+
+{{page>cap6:secoes:abstrato}}
+
+{{page>cap6:secoes:atividade1}}
+
+{{page>cap6:secoes:refletindo}}
+
