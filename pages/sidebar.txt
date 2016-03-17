@@ -11,15 +11,15 @@
 ===== Capítulos ======
 
   *[[cap0:navega|Introdução]]
-  *[[cap1:navega|Capítulo 1]] - [[cap1:texto|html]]
-  *[[cap2:navega|Capítulo 2]] - [[cap2:texto|html]]
-  *[[cap3:navega|Capítulo 3]] - [[cap3:texto|html]]
-  *[[cap4:navega|Capítulo 4]] - [[cap4:texto|html]]
-  *[[cap5:navega|Capítulo 5]] - [[cap5:texto|html]]
-  *[[cap6:navega|Capítulo 6]] - [[cap6:texto|html]]
-  *[[cap7:navega|Capítulo 7]] - [[cap7:texto|html]]
-  *[[cap8:navega|Capítulo 8]] - [[cap8:texto|html]]
-  *[[cap9:navega|Capítulo 9]] - [[cap9:texto|html]]
+  *[[cap1:navega|Lição 1]] - [[cap1:texto|html]]
+  *[[cap2:navega|Lição 2]] - [[cap2:texto|html]]
+  *[[cap3:navega|Lição 3]] - [[cap3:texto|html]]
+  *[[cap4:navega|Lição 4]] - [[cap4:texto|html]]
+  *[[cap5:navega|Lição 5]] - [[cap5:texto|html]]
+  *[[cap6:navega|Lição 6]] - [[cap6:texto|html]]
+  *[[cap7:navega|Lição 7]] - [[cap7:texto|html]]
+  *[[cap8:navega|Lição 8]] - [[cap8:texto|html]]
+  *[[cap9:navega|Lição 9]] - [[cap9:texto|html]]
 
 
 
