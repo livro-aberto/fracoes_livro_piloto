@@ -1,6 +1,8 @@
 {{page>cap1:secoes:prologo}}
 
+/*
 {{page>cap1:secoes:intro}}
+*/
 
 {{page>cap1:secoes:atividade1}}
 
