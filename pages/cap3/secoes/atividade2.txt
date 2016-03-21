@@ -14,4 +14,4 @@ Proponha uma divisão dessa barra de chocolate de maneira que os irmão recebam 
 
 <WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .</WRAP>
 
-Considerando a barra de chocolate inteira, como você nomearia a quantidade de chocolate que cada irmão recebeu? 
+Cada um dos irmãos recebeu uma parte da barra de chocolate inteira, como você nomearia a quantidade de chocolate que cada irmão recebeu? 
