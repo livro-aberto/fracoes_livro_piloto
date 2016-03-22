@@ -18,5 +18,6 @@ Para discussão/orientação ao professor:
 
 Quais dos retângulos foram repartidos em //quartos//?
 
-<WRAP imagem> {{ :cap3:quartos.jpg?300 |}}     </WRAP>
+<WRAP imagem> Oito retângulos com cortes conforme imagem {{ :cap3:quartos.jpg?300 |}}  
+Esses retângulos também serão confeccionados para um encarte</WRAP>
 
