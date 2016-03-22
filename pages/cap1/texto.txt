@@ -26,7 +26,7 @@
 {{page>cap1:secoes:abstrato}}
 */
 
-{{page>cap1:secoes:atividade5}}
+/* atividade mais avançada, deve ser utilizada mais para frente {{page>cap1:secoes:atividade5}}*/
 
 {{page>cap1:secoes:massa}}
 
