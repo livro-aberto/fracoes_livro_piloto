@@ -1,7 +1,10 @@
 ====== Atividade ======
 
 <WRAP professor>
-Enquanto que nas atividades anteriores os alunos identificam e reconhecem frações unitárias, o objetivo deste exercíco é fazer com que o aluno construa frações unitárias diferentes de um mesmo todo.
+Enquanto que nas atividades anteriores os alunos identificaram e reconheceram modelos de frações unitárias, o objetivo deste exercíco é fazer com que eles construam esses modelos. 
+
+
+
 </WRAP>
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos.jpg?900 |}}
