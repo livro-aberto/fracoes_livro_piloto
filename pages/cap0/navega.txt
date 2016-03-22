@@ -6,6 +6,11 @@ Nosso objetivo na construção dos números é completar a reta (bijeção). Em 
 <WRAP professor>
 Os livros didáticos americanos usam muito o modelo dos círculos. Um dos motivos para esta preferência é que, considerando-se o círculo como um todo, fica fácil perceber visualmente a fração que falta para se completar o todo. Isto não ocorre com os modelos das barras, por exemplo.
 </WRAP>
+**PREMISSAS**:
+
+  - BNC: **MTMT3FOA017** (Resolver e elaborar problemas de divisão (repartir uma coleção em partes iguais, determinar quantas vezes uma quantidade cabe em outra, metade e terça parte), em linguagem verbal, com o suporte de imagens ou materiais de manipulação); **MTMT4FOA019** (Reconhecer e representar frações usuais de quantidades contínuas e discretas, relacionando-as às frações unitárias) e **MTMT4FOA020** (Reconhecer que, em uma unidade dividida em 10 partes iguais, cada parte corresponde a um décimo e que, em uma unidade dividida em 100 partes iguais, cada parte corresponde a um centésimo, representando simbolicamente décimos e centésimos, bem como elaborando composições e decomposições de números decimais (décimos e centésimos).
+  - O aluno já conhece e usa a reta numerada para representar os números Naturais;
+
 
 De que trata este livro?
 
