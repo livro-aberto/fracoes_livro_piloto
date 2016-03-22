@@ -32,6 +32,8 @@
 
 {{page>cap1:secoes:atividade10}}
 
+{{page>cap1:secoes:atividade11}}
+
 {{page>cap1:secoes:refletindo}}
 
 /* Limbo (Dá para Aproveitar?) */
