@@ -42,9 +42,13 @@
 
 {{page>cap1:secoes:atividade10}}
 
+{{page>cap1:secoes:quadrinhos}}
+
+/*
 {{page>cap1:secoes:atividade11}}
 
 {{page>cap1:secoes:atividade12}}
+ */
 
 {{page>cap1:secoes:atividade15}}
 
