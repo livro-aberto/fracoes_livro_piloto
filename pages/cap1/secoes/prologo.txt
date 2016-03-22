@@ -10,17 +10,19 @@ Devemos esperar para as primeiras atividades, respostas abertas em que o aluno c
 Neste capítulo não apresentamos aos alunos a linguagem simbólica, que será tratada nos capítulos seguintes.
 Ao final deste capítulo esperamos que os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
 O aluno deve ser capaz de comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
-Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
+Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo.
 
 
 
 
-
-**OBJETIVOS ESPECÍFICOS** 
-Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
-Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
 
 /*
+**OBJETIVOS ESPECÍFICOS** 
+Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
+Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;*/
+
+/*
+
 **OBS**:
   * Trabalharemos modelos contínuo por enquanto;
   * Deixar frações com denominadores maiores do que 10 para uma próxima seção;
