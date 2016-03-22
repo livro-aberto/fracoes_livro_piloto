@@ -34,15 +34,17 @@
 
 {{page>cap1:secoes:atividade11}}
 
+{{page>cap1:secoes:atividade12}}
+
 {{page>cap1:secoes:refletindo}}
 
 /* Limbo (Dá para Aproveitar?) */
 
 /*
-{{page>cap1:secoes:atividade11}}
-
-{{page>cap1:secoes:atividade12}}
-
 {{page>cap1:secoes:atividade13}}
+
+{{page>cap1:secoes:atividade14}}
+
+{{page>cap1:secoes:atividade15}}
 */
 
