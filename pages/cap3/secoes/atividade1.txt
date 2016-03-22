@@ -1,13 +1,1 @@
 ==== Atividade ====
-/* ATIVIDADE 1 */
-
-<WRAP professor> 
-Objetivo específico: Distinguir equipartição de uma partição qualquer.
-
-Orientações:  Recomendar que o professor discuta as diferentes respostas dos alunos de modo a levá-los a disntiguir uma equipartção de uma partição qualquer. Por exemplo, se um aluno concordar com a divisão estabelecida inicialmente, justificando que o mais velho deve receber mais chocolate, professor deve argumentar no sentido de levar o aluno a perceber que a divisão em questão deve ter como referência apenas o todo a ser dividido, e não outros fatores.  
-
-</WRAP>
-
-/* Comentários internos: As atividades 1 e 2 têm o mesmo objetivo, no entanto se estabelecem a partir de modelos diferentes, retangular e circular. Além disso, a primeira envolve terços e a segunda quartos.
-*/
-
