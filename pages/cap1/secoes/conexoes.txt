@@ -20,7 +20,7 @@ Na História da Humanidade os números foram criados inicialmente para contar ob
 Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. 
 Considere os exemplos a seguir:
 
-//"Meia barra de chocolate para cada um."\\ Aqui dizemos que temos a fração "metade ou meio" da barra de chocolate.
+//"Meia barra de chocolate para cada um." Aqui dizemos que temos a fração "metade ou meio" da barra de chocolate.
 
 "Acrescente um terço de xícara de farinha de trigo."\\ Aqui dizemos que a fração "um terço" de uma xícara foi utilizada na receita de um bolo
 
