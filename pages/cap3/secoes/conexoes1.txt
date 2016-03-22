@@ -1,56 +1,13 @@
 
 ===== Conexões =====
 Nas atividades que fizemos até aqui utilizamos pizzas e barras de chocolate que foram divididas em partes. Chamamos cada pizza inteira e cada barra de chocolate inteira de "todo". 
-Então se dividimos um todo qualquer em duas partes iguais, chamamos cada uma das partes de meio ou metade do todo... 
+Então se dividimos um todo qualquer em duas partes iguais ou ao meio, chamamos cada uma das partes de //um meio// ou //metade// do todo. 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </WRAP>
 
-Cada uma de três partes iguais de um mesmo todo é chamada um terço ou terça parte do todo ... 
-<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço
-Cada uma de quatro partes iguais de um mesmo todo é chamada qurta parte do todo ... INCLUIR IMAGEM ILUSTRATIVA</WRAP>
+Se dividimos um todo qualquer em três partes iguais, chamamos cada uma das partes de //um terço// ou //terça parte// do todo. 
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço </WRAP>
 
-
-Você já sabe que quando dividimos um objeto em duas partes iguais, cada uma delas é chamada de //metade do objeto//. 
-Como você deve ter percebido na atividade acima às vezes precisamos nos referir a uma parte de um objeto que foi dividido em três partes iguais. 
-Neste caso, chamamos cada uma das partes de //um terço do objeto// original. 
-Por exemplo, se dividimos uma barra de chocolate em três partes iguais, nos referimos à quantidade de cada uma destas partes como //um terço do chocolate//.
-
-Do mesmo modo ao dividirmos um objeto em quatro ou cinco partes iguais, cada uma das partes será chamada respectivamente de //um quarto// e //um quinto do objeto original//.\\
-
-Na História da Humanidade os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.). 
-Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. 
-Considere os exemplos a seguir:
-
-//"Meia barra de chocolate para cada um."\\
-
-"Acrescente um terço de xícara de farinha de trigo."\\
-
-"Após um quarto de século o feitiço perderá seu efeito."\\
-
-"Um quinto de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa."//\\
-
-Em todos eles também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso  representamos estas quantidades por números. 
-
-<WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas duas xícaras e um terço de xícara fazem.</WRAP>  
-
-/*
-Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
-
-
-VOCABULÁRIO:
-Inteiro ou Todo ou Unidade????
-Metade;
-Um meio
-Terça parte;
-Um terço
-Quarta parte;
-Um quarto
-Sextos
-Sétimos
-Oitavos
-Nonos
-E décimos
-
-+ representação simbólica
-*/
+Se dividimos um todo qualquer em quatro partes iguais, chamamos cada uma das partes de //um quarto// ou //quarta parte// do todo. 
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos </WRAP>
 
 
