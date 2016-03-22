@@ -8,6 +8,6 @@ Orientações:  Recomendar que o professor discuta as diferentes respostas dos a
 
 </WRAP>
 
-/* Comentários internos: As atividades 1 e 2 têm o mesmo objetivo, no entanto se estabelecem a partir de modelos diferentes, retângular e circular. Além disso, a primeira envolve terços e a segunda quartos.
+/* Comentários internos: As atividades 1 e 2 têm o mesmo objetivo, no entanto se estabelecem a partir de modelos diferentes, retangular e circular. Além disso, a primeira envolve terços e a segunda quartos.
 */
 
