@@ -7,15 +7,12 @@ Neste momento esperamos que os alunos percebam que há diferentes modos de divid
 Inicialmente não devemos exigir a formalização para a representação para as frações unitárias. 
 Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
 
+Neste capítulo não apresentamos aos alunos a linguagem simbólica, que será tratada nos capítulos seguintes.
+Ao final deste capítulo esperamos que os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
+O aluno deve ser capaz de comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
+Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
 
-Identificar e representar a partir de modelos visuais frações unitárias quaisquer. Comparar frações unitárias. Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
 
-
-
-**PREMISSAS**:
-
-  - BNC: **MTMT3FOA017** (Resolver e elaborar problemas de divisão (repartir uma coleção em partes iguais, determinar quantas vezes uma quantidade cabe em outra, metade e terça parte), em linguagem verbal, com o suporte de imagens ou materiais de manipulação); **MTMT4FOA019** (Reconhecer e representar frações usuais de quantidades contínuas e discretas, relacionando-as às frações unitárias) e **MTMT4FOA020** (Reconhecer que, em uma unidade dividida em 10 partes iguais, cada parte corresponde a um décimo e que, em uma unidade dividida em 100 partes iguais, cada parte corresponde a um centésimo, representando simbolicamente décimos e centésimos, bem como elaborando composições e decomposições de números decimais (décimos e centésimos).
-  - O aluno já conhece e usa a reta numerada para representar os números Naturais;
 
 
 
