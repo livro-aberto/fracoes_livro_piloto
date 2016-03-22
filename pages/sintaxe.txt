@@ -8,6 +8,13 @@ Podemos usar $E = mc^2$. Ou
   \int_0^\infty \frac{1}{x^2} dx
 \end{equation}
 
+===== Imagens SVG =====
+
+Podemos incluir imagens do tipo SVG
+
+{{:car.svg|}}
+
+
 ===== Basic Text Formatting =====
 
 DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts.
