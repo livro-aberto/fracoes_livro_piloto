@@ -6,15 +6,12 @@ Objetivo específicos: reconhecer que, em uma equiparticao, as partes podem nao 
 (Realizar em grupos 4, deixar as crianças cortarem as partes para compará-las... Dúvida: será que 6 não é muito?) 
 Cada grupo deve receber um encarte em que estejam as imagens de retângulos (representativos de barras de chocolate) para decidir sobre qual (ou quais) usariam para repartir o chocolate entre os participanates do grupo:
 
-Quais dos retângulos foram repartidos em quartos?
-
-<WRAP imagem> {{ :cap3:quartos.jpg?300 |}}     </WRAP>
-
-
 Para discussão/orientação ao professor:
   * Pedir aos alunos que expliquem a sua escolha;
   * Levar o aluno a reconhecer que as partes têm que corresponder à mesma “quantidade” de chocolate, mas não à mesma forma.
-
 </WRAP>
 
+Quais dos retângulos foram repartidos em quartos?
+
+<WRAP imagem> {{ :cap3:quartos.jpg?300 |}}     </WRAP>
 
