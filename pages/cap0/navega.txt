@@ -1,6 +1,8 @@
 ====== Introdução para o professor======
 
 Aqui estará a introdução ao livro de frações.
+/*Aqui estão textos que migraram dos capitulos e depois serão tratados*/
+Nosso objetivo na construção dos números é completar a reta (bijeção). Em particular, no caso dos racionais as frações unitárias serão essenciais para alcançar todos os racionais. 
 
 De que trata este livro?
 
