@@ -1,3 +1,4 @@
+
 ===== Conexões =====
 
 /* Leticia: Considerando a faixa etária, os textos têm que ser de frases simples e acompanhados de ilustração.
@@ -49,7 +50,5 @@ Oitavos
 Nonos
 E décimos
 
-representação simbólica fica para a próxima lição.
++ representação simbólica
 */
-
-
