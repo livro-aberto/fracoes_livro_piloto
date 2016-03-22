@@ -1,7 +1,9 @@
 
 ==== Atividade ====
 ATIVIDADE 2
-
+<WRAP professor> 
+Esta atividade pode ser feita em grupos de até quatro alunos. As diversas soluções encontradas devem ser discutidas com a turma inteira. Podemos anotar os diferentes modos que os alunos utilizaram para nomear aspizzas e decidir em conjunto qual ou quais melhor responde a ultima questão proposta na atividade.
+</WRAP>
 A professora trouxe para a sala de aula três pizzas de mesmo tamanho e 12 crianças estão repartindo as pizzas. A turma foi dividida em três grupos de quatro crianças cada. Observe como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
