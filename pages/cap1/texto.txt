@@ -38,11 +38,12 @@
 
 {{page>cap1:secoes:atividade8}}
 
+{{page>cap1:secoes:quadrinhos}}
+
 {{page>cap1:secoes:atividade9}}
 
 {{page>cap1:secoes:atividade10}}
 
-{{page>cap1:secoes:quadrinhos}}
 
 /*
 {{page>cap1:secoes:atividade11}}
