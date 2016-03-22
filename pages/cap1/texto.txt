@@ -14,6 +14,8 @@
 
 {{page>cap1:secoes:recomportodo}}
 
+{{page>cap1:secoes:desenhar}}
+
 {{page>cap1:secoes:conexoes}}
 
 {{page>cap1:secoes:abstrato}}
