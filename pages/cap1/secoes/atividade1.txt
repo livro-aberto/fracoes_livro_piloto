@@ -19,7 +19,7 @@ Você concorda com essa divisão? Explique.
 
 Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
 
-Proponha uma divisão dessa barra de chocolate de maneira que os irmão recebam a mesma quantidade de chocolate:
+Proponha uma divisão dessa barra de chocolate de maneira que os irmãos recebam a mesma quantidade de chocolate:
 
 <WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .</WRAP>
 
