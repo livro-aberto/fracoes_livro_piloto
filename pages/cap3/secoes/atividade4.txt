@@ -13,6 +13,6 @@ Todas as crianças receberam fatias com a mesma quantidade de pizza?
 
 Em qual dos grupos cada criança recebeu a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia as fatias de pizza desse grupo? 
 
-</WRAP>
+
 
 
