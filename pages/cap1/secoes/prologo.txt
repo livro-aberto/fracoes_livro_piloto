@@ -37,7 +37,5 @@ O modelo de círculo deixa evidente a fração considerada e a fração compleme
 */
 </WRAP>
 
-<WRAP professor>
-Os livros didáticos americanos usam muito o modelo dos círculos. Um dos motivos para esta preferência é que, considerando-se o círculo como um todo, fica fácil perceber visualmente a fração que falta para se completar o todo. Isto não ocorre com os modelos das barras, por exemplo.
-</WRAP>
+
 
