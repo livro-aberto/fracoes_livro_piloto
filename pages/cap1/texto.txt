@@ -14,11 +14,13 @@
 
 {{page>cap1:secoes:atividade7}}
 
+{{page>cap1:secoes:recomportodo}}
+
 {{page>cap1:secoes:atividade4}}
 
 {{page>cap1:secoes:desenhar}}
 
-{{page>cap1:secoes:recomportodo}}
+
 
 {{page>cap1:secoes:umeioeummeio}}
 
