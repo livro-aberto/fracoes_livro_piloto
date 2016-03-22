@@ -12,6 +12,8 @@
 
 {{page>cap1:secoes:atividade4}}
 
+{{page>cap1:secoes:recomportodo}}
+
 {{page>cap1:secoes:conexoes}}
 
 {{page>cap1:secoes:abstrato}}
