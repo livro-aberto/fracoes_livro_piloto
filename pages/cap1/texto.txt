@@ -18,6 +18,8 @@
 
 {{page>cap1:secoes:desenhar}}
 
+{{page>cap1:secoes:umeioeummeio}}
+
 {{page>cap1:secoes:abstrato}}
 
 {{page>cap1:secoes:atividade5}}
