@@ -4,11 +4,12 @@
 
 As atividades iniciais têm por objetivo a partição de uma unidade, que, neste capítulo, nomeamos "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. 
 
-Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes.Espera-se que, ao final do capítulo, os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
+Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. 
+Espera-se que, ao final do capítulo, os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
 
 OBJETIVOS:
 O aluno deve ser capaz de:
-  * Item de lista não ordenadacomparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
+  * Item de lista não ordenada comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
 Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo.
 comparar frações unitárias por meio de representações visuais
 
