@@ -2,12 +2,12 @@
 
 
 
-Após uma partida de futebol com dois times de 5 crianças o professor de Educação Física os espera com 4 garrafas iguais cheias de água. 
+Após uma partida de futebol com dois times de 5 crianças cada um, o professor de Educação Física os espera com 4 garrafas iguais cheias de água. 
 Os estudantes dividiram a água como a seguir: 
     * Os dois goleiros eram amigos e pegaram uma garrafa para dividirem entre eles. 
-    * Os 4 jogadores da linha do Clube da Esquina tomaram para si outra garrafa.
-    * No time Meninos Alegres decidiram deixar uma garrafa inteira para o Claudinho, que estava machucado.
-    * Os outros três jogadores dividiram uma garrafa entre eles.
+    * Os 4 jogadores da linha do time A tomaram para si outra garrafa.
+    * No time B decidiram deixar uma garrafa inteira para o Claudinho, que estava machucado.
+    * Os outros três jogadores do time B dividiram uma garrafa entre eles.
 
 Supondo que em cada um dos grupos a divisão foi igual, responda:
 
