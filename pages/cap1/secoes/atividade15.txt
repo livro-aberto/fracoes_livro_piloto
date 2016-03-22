@@ -1,7 +1,3 @@
 
 ==== Atividade ====
 
-Quais dos retângulos foram repartidos em quartos?
-
-<WRAP imagem> {{ :cap3:quartos.jpg?300 |}}     </WRAP>
-
