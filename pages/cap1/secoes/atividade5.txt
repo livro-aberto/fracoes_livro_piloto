@@ -1,10 +1,21 @@
 ==== Atividade ====
+
+
+
+Após uma partida de futebol com dois times de 5 crianças o professor de Educação Física os espera com 4 garrafas iguais cheias de água. 
+Os estudantes dividiram a água como a seguir: 
+    * Os dois goleiros eram amigos e pegaram uma garrafa para dividirem entre eles. 
+    * Os 4 jogadores da linha do Clube da Esquina tomaram para si outra garrafa.
+    * No time Meninos Alegres decidiram deixar uma garrafa inteira para o Claudinho, que estava machucado.
+    * Os outros três jogadores dividiram uma garrafa entre eles.
+
+Supondo que em cada um dos grupos a divisão foi igual, responda:
+
+a) Represente por palavras que fração de garrafa d'água cada grupo de jogadores
+
+b) Ordene os quatro grupos começando daquele em que os integrantes receberam menos água para os que os integrantes receberam mais água.
+
 Você saberia dizer qual é o menor dos números $\frac{1}{2}$ ou $\frac{1}{3}$? (Pense em uma barra de chocolates dividida para 2 ou 3 pessoas, em qual das situações a fração correspondente a cada pessoa é maior?)
 
-
-/*
-Tem que entrar a representação na reta. Sugestão: jogo para estudantes com dislexia. Outro é um jogo com uma fita representando a reta numérica e os estudantes devem marcar as frações $1/2, 1/3 , \cdots, 1/10$.
-
-O caráter abstrato do número. Número não será definido. Mas deixaremos claro que existe um número para cada ponto da "reta numérica" e que para cada ponto da reta numérica há um número. Reconhecemos a dificuldade dessas questões.
-*/
-
+<WRAP professor> Objetivo: Reconhecer por meio de contextos concretos que a metade de uma quantidade é mais que um terço da mesma quantidade, que por sua vez é mais que um quarto da mesma quantidade, etc.
+</WRAP>
