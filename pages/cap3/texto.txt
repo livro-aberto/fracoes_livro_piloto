@@ -1,61 +1,12 @@
 {{page>cap3:secoes:preambulo}}
 
-{{page>cap3:secoes:atividade1}}
+{{page>cap3:secoes:intro}}
 
-{{page>cap3:secoes:atividade2}}
-
-{{page>cap3:secoes:atividade3}}
-
-{{page>cap3:secoes:atividade4}}
-
-{{page>cap3:secoes:conexoes1}}
-
-{{page>cap3:secoes:atividade5}}
-
-{{page>cap3:secoes:atividade6}}
-
-{{page>cap3:secoes:atividade7}}
-
-{{page>cap3:secoes:atividade8}}
-
-{{page>cap3:secoes:atividade9}}
-
-{{page>cap3:secoes:conexoes2}}
+{{page>cap3:secoes:conexoes}}
 
 {{page>cap3:secoes:abstrato}}
 
-{{page>cap3:secoes:atividade10}}
-
-{{page>cap3:secoes:massa}}
-
-{{page>cap3:secoes:atividade11}}
-
-{{page>cap3:secoes:atividade12}}
-
-{{page>cap3:secoes:atividade13}}
-
-{{page>cap3:secoes:atividade14}}
-
-{{page>cap3:secoes:atividade15}}
-
-{{page>cap3:secoes:atividade16}}
-
-{{page>cap3:secoes:atividade17}}
-
-{{page>cap3:secoes:atividade18}}
-
-{{page>cap3:secoes:atividade19}}
-
-{{page>cap3:secoes:atividade20}}
+{{page>cap3:secoes:atividade1}}
 
 {{page>cap3:secoes:refletindo}}
-
-/* Limbo (Dá para Aproveitar?) */
-
-{{page>cap3:secoes:atividade21}}
-
-{{page>cap3:secoes:atividade22}}
-
-{{page>cap3:secoes:atividade23}}
-
 
