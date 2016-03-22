@@ -1,3 +1,3 @@
 ====== Para Se Inspirar ======
 
-{{ :cap1:secoes:como-cortar-uma-pizza.jpg?700 |}}
+{{ :cap1:secoes:como-cortar-uma-pizza.jpg?300 |}}
