@@ -20,13 +20,13 @@ Na História da Humanidade os números foram criados inicialmente para contar ob
 Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. 
 Considere os exemplos a seguir:
 
-//"Meia barra de chocolate para cada um." Aqui dizemos que temos a fração "metade ou meio" da barra de chocolate.
+//"Meia barra de chocolate para cada um." Aqui dizemos que temos a fração "metade ou meio" da barra de chocolate.\\
 
-"Acrescente um terço de xícara de farinha de trigo."\\ Aqui dizemos que a fração "um terço" de uma xícara foi utilizada na receita de um bolo
+"Acrescente um terço de xícara de farinha de trigo." Aqui dizemos que a fração "um terço" de uma xícara foi utilizada na receita de um bolo.\\
 
-"Após um quarto de século o feitiço perderá seu efeito."\\ Aqui dizemos que a fração "um quarto" do século foi o tempo que durou o feitiço.
+"Após um quarto de século o feitiço perderá seu efeito." Aqui dizemos que a fração "um quarto" do século foi o tempo que durou o feitiço.\\
 
-"Um quinto de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa."// Aqui dizemos que a fração "um quinto" do ouro foram utilizados para pagar impostos à coroa portuguesa\\
+"Um quinto de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa."// Aqui dizemos que a fração "um quinto" do ouro foram utilizados para pagar impostos à coroa portuguesa
 
 Em todos eles também estamos nos referindo a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso  representamos estas quantidades por números. 
 
