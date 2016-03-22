@@ -1,5 +1,6 @@
 ==== Atividade ====
 
+/***AP:** Acredito que o nível de abstração dessa atividade a torna inadequada para a primeira lição. Pensando nas séries, sugeriria essa questão para nível de 6º ano */
 
 <WRAP professor> Objetivo: Reconhecer por meio de contextos concretos que a metade de uma quantidade é mais que um terço da mesma quantidade, que por sua vez é mais que um quarto da mesma quantidade, etc.
 </WRAP>
