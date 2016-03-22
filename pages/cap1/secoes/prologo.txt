@@ -1,19 +1,21 @@
 ====== Lição 1 - Todo, metade, um terço e um quarto ... um décimo ======
 
-<WRAP professor> Este capítulo tem por objetivos introduzir frações unitárias "um quarto de..." "metade de..." e "um terço de..." e apresentar essas frações em diversos modelos visuais contíniuos, tais como "discos, retângulos, hexágonos e segmentos ". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
+<WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias a partir de expressões como "metade de...", "um terço de...", "um quarto de..." e da modelos visuais contíniuos, tais como "discos, retângulos, hexágonos e segmentos".  
 
-As primeiras atividades tem por objetivo discutir com os alunos as ideias iniciais da partição de uma unidade que aqui neste capitulo nomeamos como o "todo". 
-Neste momento esperamos que os alunos percebam que há diferentes modos de dividir e recompor um todo. 
-Inicialmente não devemos exigir a formalização para a representação para as frações unitárias. 
-Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
+DÚVIDA: Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
-Neste capítulo não apresentamos aos alunos a linguagem simbólica, que será tratada nos capítulos seguintes.
+As atividades iniciais têm por objetivo promover a discussão sobre a ideia de partição de uma unidade, que neste capítulo nomeamos "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. 
+
+Não pretendemos, neste capítulo, formalizar a representação fracionária das frações unitárias. 
+
+Neste capítulo, não apresentamos aos alunos a linguagem simbólica, que será tratada nos capítulos seguintes.
 Ao final deste capítulo esperamos que os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
 O aluno deve ser capaz de comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
 Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo.
 
 
-
+ESperamos 
+Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
 
 
 /*
