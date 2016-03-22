@@ -1,6 +1,6 @@
 
 ==== Atividade ====
-ATIVIDADE 2
+**ATIVIDADE 2**
 <WRAP professor> 
 Esta atividade pode ser feita em grupos de até quatro alunos. As diversas soluções encontradas devem ser discutidas com a turma inteira. Podemos anotar os diferentes modos que os alunos utilizaram para nomear as pizzas e decidir em conjunto qual ou quais melhor responde a ultima questão proposta na atividade.
 </WRAP>
