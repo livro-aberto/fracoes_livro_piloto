@@ -2,25 +2,25 @@
 
 <WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias a partir de expressões como "metade de...", "um terço de...", "um quarto de..." e da modelos visuais contíniuos, tais como "discos, retângulos, hexágonos e segmentos".  
 
-DÚVIDA: Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
+As atividades iniciais têm por objetivo a partição de uma unidade, que, neste capítulo, nomeamos "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. 
 
-As atividades iniciais têm por objetivo promover a discussão sobre a ideia de partição de uma unidade, que neste capítulo nomeamos "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. 
+Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes.Espera-se que, ao final do capítulo, os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
 
-Não pretendemos, neste capítulo, formalizar a representação fracionária das frações unitárias. 
-
-Neste capítulo, não apresentamos aos alunos a linguagem simbólica, que será tratada nos capítulos seguintes.
-Ao final deste capítulo esperamos que os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
-O aluno deve ser capaz de comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
+OBJETIVOS:
+O aluno deve ser capaz de:
+  * Item de lista não ordenadacomparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
 Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo.
+comparar frações unitárias por meio de representações visuais
 
 
 ESperamos 
-Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
+Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade.
+
 
 
 /*
 **OBJETIVOS ESPECÍFICOS** 
-Identificar e representar a partir de modelos visuais frações unitárias quaisquer;  
+Identificar e representar a partir de modelos visuais  contínuos frações unitárias quaisquer;  
 Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;*/
 
 /*
