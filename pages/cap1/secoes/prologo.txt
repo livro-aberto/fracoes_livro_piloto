@@ -2,9 +2,11 @@
 
 <WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias "um quarto de..." metade de..." "um terço de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
-As primeiras atividades tem por objetivo discutir com os alunos as ideias iniciais da partição de uma unidade que aqui neste capitulo nomeamos como o "todo". Neste momento esperamos que os alunos percebam que há diferentes modos de dividir e recompor um todo. Inicialmente não devemos exigir a formalização para a representação para as frações unitárias. Devemos esperar para as primeiras atividades respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
+As primeiras atividades tem por objetivo discutir com os alunos as ideias iniciais da partição de uma unidade que aqui neste capitulo nomeamos como o "todo". 
+Neste momento esperamos que os alunos percebam que há diferentes modos de dividir e recompor um todo. 
+Inicialmente não devemos exigir a formalização para a representação para as frações unitárias. 
+Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade. 
 
-Nosso objetivo na construção dos números é completar a reta (bijeção). Em particular, no caso dos racionais as frações unitárias serão essenciais para alcançar todos os racionais. 
 
 Identificar e representar a partir de modelos visuais frações unitárias quaisquer. Comparar frações unitárias. Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo.
 
