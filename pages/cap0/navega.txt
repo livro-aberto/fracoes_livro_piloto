@@ -1,4 +1,4 @@
-====== Introdução ======
+====== Introdução para o professor======
 
 Aqui estará a introdução ao livro de frações.
 
@@ -21,4 +21,4 @@ Estrutura de capítulos versão 1:
     * Lição 8: Razão e proporção.
     * Lição 9: Divisão e medida.
 
-
+====== Introdução para o estudante ======
