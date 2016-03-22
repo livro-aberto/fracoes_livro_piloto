@@ -1,6 +1,6 @@
 ====== Lição 1 - Todo, metade, um terço e um quarto ... um décimo ======
 
-<WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias "um quarto de..." metade de..." "um terço de..." e apresentar esta quantidade em diversos modelos visuais "disco, retângulo, hexágono, um lado de um triângulo equilátero, bolinhas". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
+<WRAP professor> Este capítulo tem por objetivos introduzir frações unitárias "um quarto de..." "metade de..." e "um terço de..." e apresentar essas frações em diversos modelos visuais contíniuos, tais como "discos, retângulos, hexágonos e segmentos ". Diversos jogos e atividades. Devemos também estabelecer a ordenação das frações unitárias.
 
 As primeiras atividades tem por objetivo discutir com os alunos as ideias iniciais da partição de uma unidade que aqui neste capitulo nomeamos como o "todo". 
 Neste momento esperamos que os alunos percebam que há diferentes modos de dividir e recompor um todo. 
