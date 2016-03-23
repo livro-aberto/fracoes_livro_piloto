@@ -126,7 +126,7 @@ function texprint (tbl, indent)
    return outstr
 end
 
-file = io.open ('header.tex', "r")
+file = io.open ('/var/www/livro/data/gitrepo/bin/header.tex', "r")
 outstring = file:read("*a")
 io.close(file)
 
