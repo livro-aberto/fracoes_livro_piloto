@@ -18,24 +18,24 @@ Devemos esperar para as primeiras atividades, respostas abertas em que o aluno c
 
 
 
-/*
-**OBJETIVOS ESPECÍFICOS** 
+<hidden OBJETIVOS ESPECÍFICOS>
 Identificar e representar a partir de modelos visuais  contínuos frações unitárias quaisquer;  
 Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;*/
+</hidden>
 
-/*
-
-**OBS**:
+<hidden OBSERVAÇÕES>
   * Trabalharemos modelos contínuo por enquanto;
   * Deixar frações com denominadores maiores do que 10 para uma próxima seção;
   * Valorizar a atividade em grupo e a discussão;
   * Tratar a comparação pela ordem sem formalizar;
   * Deixar a representação simbólica para a próxima seção.
+</hidden>
 
-**DÚVIDAS**
+<hidden DÚVIDAS>
 Vamos usar o modelo dos círculos?
 O modelo de círculo deixa evidente a fração considerada e a fração complementar.
-*/
+</hidden>
+
 </WRAP>
 
 
