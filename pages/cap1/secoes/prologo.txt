@@ -20,7 +20,7 @@ Devemos esperar para as primeiras atividades, respostas abertas em que o aluno c
 
 <hidden OBJETIVOS ESPECÍFICOS>
 Identificar e representar a partir de modelos visuais  contínuos frações unitárias quaisquer;  
-Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;*/
+Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
 </hidden>
 
 <hidden OBSERVAÇÕES>
