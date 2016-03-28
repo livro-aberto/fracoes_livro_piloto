@@ -11,4 +11,17 @@ Enquanto que nas atividades anteriores os alunos identificaram e reconheceram mo
 
 <hidden OBSERVAÇÕES>
 HB: atendi o pedido da Ana Paula no fórum de deixar aqui apenas as metades e levar para a próxima lição os demais tipos de frações.
-</hideen>
+</hidden>
+
+<hidden SUGESTÃO DE EXERCÍCIO 1>
+HB
+(A) Pinte metade do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+(B) Pinte um quarto do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+(C) Pinte um oitavo do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+</hidden>
