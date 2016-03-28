@@ -1,0 +1,13 @@
+===== Atividades extras do Capítulo 2 =====
+
+{{page>cap2:secoes:atividade1001}}
+
+{{page>cap2:secoes:atividade1002}}
+
+{{page>cap2:secoes:atividade1003}}
+
+{{page>cap2:secoes:atividade1004}}
+
+{{page>cap2:secoes:atividade1005}}
+
+{{page>cap2:secoes:atividade1006}}
