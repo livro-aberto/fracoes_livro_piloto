@@ -1,27 +1,16 @@
 ====== Lição 1 - Todo, metade, um terço e um quarto ... um décimo ======
 
-<WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias a partir de expressões como "metade de...", "um terço de...", "um quarto de..." e da modelos visuais contíniuos, tais como "discos, retângulos, hexágonos e segmentos".  
+<WRAP professor> Este capítulo tem por objetivo introduzir frações unitárias a partir de modelos visuais contíniuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", usando expressões verbais como "metade de...", "um terço de...", "um quarto de..." para indicar essas frações.  
 
-As atividades iniciais têm por objetivo a partição de uma unidade, que, neste capítulo, nomeamos "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. 
+As atividades iniciais visam à partição de uma unidade. A unidade, neste capítulo, é nomeda "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final do capítulo, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos. 
 
-Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. 
-Espera-se que, ao final do capítulo, os alunos saibam identificar e representar a partir de modelos visuais frações unitárias quaisquer. 
+Serão valorizadas neste capítulo respostas abertas, em que o aluno crie a sua própria representação e faça uso da linguagem verbal para explicar o seu raciocínio diante da realização da atividade.
 
-OBJETIVOS:
+OBJETIVOS ESPECÍFICOS:
 O aluno deve ser capaz de:
-  * comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
-Sem utilizar a símbologia o aluno deve saber utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo.
-comparar frações unitárias por meio de representações visuais
-
-
-Devemos esperar para as primeiras atividades, respostas abertas em que o aluno crie a sua representação com suas palavras para o que vivenciou com a realização da atividade.
-
-
-
-<hidden OBJETIVOS ESPECÍFICOS>
-Identificar e representar a partir de modelos visuais  contínuos frações unitárias quaisquer;  
-Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um doze avos, um décimo, um centésimo;
-</hidden>
+  * Comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
+  * Sem utilizar a símbologia matemática, o aluno deve compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. Portanto, "metade", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de".
+  * comparar frações unitárias por meio de representações visuais.
 
 <hidden OBSERVAÇÕES>
   * Trabalharemos modelos contínuo por enquanto;
@@ -34,6 +23,7 @@ Utilizar a linguagem um sétimo, sétima parte, metade, um meio, um terço, um d
 <hidden DÚVIDAS>
 Vamos usar o modelo dos círculos?
 O modelo de círculo deixa evidente a fração considerada e a fração complementar.
+Que sentido/entendimento estamos dando ao termo "quantidade"?
 </hidden>
 
 </WRAP>
