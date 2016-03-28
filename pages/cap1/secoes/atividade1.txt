@@ -5,14 +5,15 @@
 
 <WRAP professor> 
 Objetivos específicos: 
-  * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição).   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique uma das partes iguais da equipartição da unidade.
-  * Diferenciar "divisão de um todo em três partes quaisquer" da "divisão de um todo em três partes iguais". 
+  * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique uma das partes iguais da equipartição da unidade.
+  * Diferenciar "a divisão de um todo em três partes quaisquer" da "divisão de um todo em três partes iguais". 
   * Compreender as expressões "um terço de" e "terça parte de". 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que a divisão deve ser em "partes iguais". 
-  * Na discussão, procure destacar que a referência à "divisão em três partes iguais" se dá (igualmente) a partir das expressões  "um terço" do chocolate ou "a terça parte" do chocolate.
-  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, algns alunos podem fazer a representação 
+  * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma  quantidade de chocolate, a divisão proposta para a barra de chocolate deve ser em "partes iguais".
+  * Na discussão, procure destacar que a referência à "divisão em três partes iguais" se dá (igualmente) a partir das expressões "um terço" da barra de chocolate ou "a terça parte" da barra de chocolate.
+  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, que há diferentes representações para a equipartição. Por eemplo, INCLUIR IMAGENS ILUSTRATIVAS. 
 </WRAP>
 
 
