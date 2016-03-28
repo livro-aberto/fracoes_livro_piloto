@@ -8,9 +8,10 @@ Serão valorizadas neste capítulo respostas abertas, em que o aluno crie a sua 
 
 OBJETIVOS ESPECÍFICOS:
 O aluno deve ser capaz de:
+  * Compreender a necessária equipartição da unidade (todo) para a identificação de frações unitárias.
+  * Indentificar, a partir de representações visuais diversas, fraçõoes unitárias de denominador variando de 2 a 10. 
+  * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Portanto, "metade", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
   * Comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
-  * Sem utilizar a símbologia matemática, o aluno deve compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. Portanto, "metade", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de".
-  * comparar frações unitárias por meio de representações visuais.
 
 <hidden OBSERVAÇÕES>
   * Trabalharemos modelos contínuo por enquanto;
