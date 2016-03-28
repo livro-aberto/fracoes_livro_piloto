@@ -9,7 +9,7 @@ Nesta atividade é importante que o aluno perceba que uma parte da equipartiçã
 
 
 
-Em quais das figuras a seguir, a parte em vermelho iustra //um terço// da figura?
+Em quais das figuras a seguir, a parte em vermelho __ilustra__ //um terço// da figura?
 
 
 {{ :cap1:secoes:rec_tercos.jpg?direct&500 |}}
