@@ -8,20 +8,25 @@ Objetivos específicos:
 FALTAM!
 
 
-
+Recomendações e sugestões para o desenvolvimento da atividade:
  
-Esta atividade pode ser feita em grupos de até quatro alunos. As diversas soluções encontradas devem ser discutidas com a turma inteira. Podemos anotar os diferentes modos que os alunos utilizaram para nomear as pizzas e decidir em conjunto qual ou quais melhor responde a ultima questão proposta na atividade.
+  * Recomenda-se que esta atividade seja feita em grupos de até quatro alunos. 
+  * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
+  * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. 
+  * e decidir em conjunto qual ou quais melhor responde a ultima questão proposta na atividade.
 </WRAP>
-A professora trouxe para a sala de aula três pizzas inteiras de mesmo tamanho que será repartida entre as crianças da turma. A turma foi dividida em três grupos de quatro crianças cada. Observe como cada grupo repartiu a sua pizza.
+
+
+A professora trouxe para a sala de aula três pizzas inteiras de mesmo tamanho que serão repartidas entre as crianças da turma. A turma foi dividida em três grupos com quatro crianças cada. Observe como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} </WRAP>
 
-Nos três grupos, a pizza foi repartida na mesma quantidade de fatias?
+Cada um dos três grupos repartiu a sua pizza na mesma __quantidade de fatias__ que os outros?
 
-Todas as crianças receberam fatias com a mesma quantidade de pizza?
+Todas as crianças da turma receberam a mesma __quantidade__ de pizza?
 
-Em qual dos grupos cada criança recebeu a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia as fatias de pizza desse grupo? 
+Em qual dos grupos as crianças podem ter recebido a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 
 
