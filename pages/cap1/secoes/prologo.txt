@@ -19,12 +19,14 @@ O aluno deve ser capaz de:
   * Valorizar a atividade em grupo e a discussão;
   * Tratar a comparação pela ordem sem formalizar;
   * Deixar a representação simbólica para a próxima seção.
+  * No texto, evitar a 1a pessoa do plural. Optar pela 3a do singular e, no caso das atividades dirigidas aos alunos, peloimperativo. 
 </hidden>
 
 <hidden DÚVIDAS>
-Vamos usar o modelo dos círculos?
-O modelo de círculo deixa evidente a fração considerada e a fração complementar.
-Que sentido/entendimento estamos dando ao termo "quantidade"?
+  * Vamos usar o modelo dos círculos?
+  * O modelo de círculo deixa evidente a fração considerada e a fração complementar.
+  * Que sentido/entendimento estamos dando ao termo "quantidade"?
+  * Vamos alterar o título desta lição?
 </hidden>
 
 </WRAP>
