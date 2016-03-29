@@ -1,6 +1,8 @@
 ==== Atividade ====
 
 <WRAP professor> Objetivo: ordenar frações unitárias ainda sem o uso dos símbolos para as frações;
+
+Na comparação é possível que os estudantes contem os quadradinhos para decidir qual é a maior fração do retângulo ou utilizem o contraste visual. Ambos os modos são aceitáveis. Espera-se que após este exercício ele possa intuir que um sexto de um objeto é mais que um décimo do mesmo objeto, por exemplo. 
 </WRAP>
 
 Na questão anterior qual é a cor que ocupa a menor porção do retângulo? Tirando a anterior, qual é a que ocupa a menor porção? Repita este processo até terminarem as cores. Utilize as suas respostas para ordenar da menor fração para a maior fração do retângulo original. 
