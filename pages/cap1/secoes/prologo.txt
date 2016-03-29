@@ -21,7 +21,7 @@ O aluno deve ser capaz de:
   * Deixar a representação simbólica para a próxima seção.
   * No texto, evitar a 1a pessoa do plural. Optar pela 3a do singular e, no caso das atividades dirigidas aos alunos, peloimperativo.
   * MAIS uma possível seção dirigida ao para o professor: Os conceitos matemáticos envolvidos / Embasamentos teórico e pedagógico.
-	Nesta lição observar, por exmplo, a opçao pelas fraçoes unitárisa, que terão um caráter elementar para toda a condução da aabordagem, uma vez que, observando a a reta numéricaa, as denmais serão constuídas a partir da justaposição de fraçoes unitárias
+	Nesta lição observar, por exmplo, a opçao pelas frações unitárias, que terão um caráter elementar para toda a condução da abordagem, uma vez que, observando a reta numérica, as denmais serão construídas a partir da justaposição de fraçoes unitárias
 
 
 
