@@ -37,10 +37,18 @@ Usar faixas de papel para realizar as atividades a seguir:
 (b) Ana quer enfeitar a árvore de Natal e pretende fazer 4 enfeites iguais. Para isso precisa cortar a linha que prenderá os enfeites na árvore em pedaços iguais. Ajude Ana  afazer isso. 
 {{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
 
+<hidden OBSERVAÇÃO (HB)>
+As atividades (a) e (b) são bem legais! Deveriam entrar!
+</hidden>
+
 (c) Use três cores diferentes para colorir a grade quadriculada a seguir. Cada quadradinho que compõe a grade deve ser colorido com apenas uma cor. 
 {{ :cap1:malha.jpg?direct&200 |}}									
 a)	Indique a fração da grade quadriculada que corresponde a cada cor.
 b)	 Compare a sua grade com a de um colega.
+
+<hidden OBSERVAÇÃO (HB)>
+Acho que (c) sai do contexto de frações unitárias.
+</hidden>
 
 
 INCLUIR QUESTOES SOBRE COMPARACAO... Por exemplo:
@@ -55,6 +63,11 @@ INCLUIR QUESTAO RESOLVIDA COM ALGUM ERRO A SER IDENTIFICADO
 
 INCLUIR ATIVIDADE QUE O MENINO TENHA RESGATAR A UNIDADE
 Por exemplo, complete a imagem a seguir de modo que a parte já desenhada seja metade do desenho completo. 
+
+<hidden OBSERVAÇÃO (HB)>
+Ver atividade proposta lá em cima!
+</hidden>
+
 
 INCLUIR RETA NUMERICA – com pinguinzinho
 Boas inspiraçoes: Math makes sense, v.4, p.178 e Euro Math, CM1, p.138.
