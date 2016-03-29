@@ -28,6 +28,10 @@ Com essa divisão, os três irmãos receberão a mesma porção de chocolate?
 
 Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam porções iguais de chocolate.
 
-<WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .</WRAP>
+<WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .
+<hidden documentação das imagens>
+Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita
+</hidden>
+</WRAP>
 
 Consirando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a porção de chocolate que cada irmão receberia? 
