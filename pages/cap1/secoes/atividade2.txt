@@ -17,7 +17,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 
-A professora trouxe para a sala de aula três pizzas inteiras de mesmo tamanho que serão repartidas entre as crianças da turma. A turma foi dividida em três grupos com quatro crianças cada. Observe como cada grupo repartiu a sua pizza.
+Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de uma turma. Para isso, a turma foi dividida em três grupos com quatro crianças e cada grupo repartiu uma das pizza. 
+
+Veja como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} </WRAP>
