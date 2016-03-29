@@ -11,40 +11,32 @@
 ===== Lições ======
 
  ** html - pdf - ativ. extras** 
-  * Introdução
-    * [[cap0:navega|Navegação]]
-    * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
-  * Lição 1
-    * [[cap1:texto|html]]
-    * [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
-    * [[cap1:secoes:atividades_extras|extras]]
-  * Lição 2
-    * [[cap2:texto|L. 2]]
-    * [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]]
-    * [[cap2:secoes:atividades_extras|extras]]
-  * Lição 3
-    * [[cap3:texto|L. 3]]
-    * [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]]
-    * [[cap3:secoes:atividades_extras|extras]]
-  * Lição 4
-    * [[cap4:texto|L. 4]]
-    * [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]]
-    * [[cap4:secoes:atividades_extras|extras]]
-  * Lição 5
-    * [[cap5:texto|L. 5]]
-    * [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]]
-    * [[cap5:secoes:atividades_extras|extras]]
-  * Lição 6
-    * [[cap6:texto|L. 6]]
-    * [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]]
-    * [[cap6:secoes:atividades_extras|extras]]
-  * Lição 7
-    * [[cap7:texto|L. 7]]
-    * [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]]
-    * [[cap7:secoes:atividades_extras|extras]]
-  * Lição 8
-    * [[cap8:texto|L. 8]]
-    * [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]]
-    * [[cap8:secoes:atividades_extras|extras]]
-  
+Introdução
+  * [[cap0:navega|Navegação]]
+  * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
+Lição 1 [[cap1:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
+  * [[cap1:secoes:atividades_extras|extras]]
+Lição 2 [[cap2:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]]
+  * [[cap2:secoes:atividades_extras|extras]]
+Lição 3 [[cap3:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]]
+  * [[cap3:secoes:atividades_extras|extras]]
+Lição 4 [[cap4:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]]
+  * [[cap4:secoes:atividades_extras|extras]]
+Lição 5 [[cap5:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]]
+  * [[cap5:secoes:atividades_extras|extras]]
+Lição 6 [[cap6:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]]
+  * [[cap6:secoes:atividades_extras|extras]]
+Lição 7 [[cap7:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]]
+  * [[cap7:secoes:atividades_extras|extras]]
+Lição 8 [[cap8:texto|html]]
+  * [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]]
+  * [[cap8:secoes:atividades_extras|extras]]
+
 
