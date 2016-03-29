@@ -26,7 +26,7 @@ O aluno deve ser capaz de:
 <hidden DÚVIDAS>
   * Vamos usar o modelo dos círculos?
   * O modelo de círculo deixa evidente a fração considerada e a fração complementar.
-  * Que sentido/entendimento estamos dando ao termo "quantidade"?
+  * Que sentido/entendimento estamos dando ao termo "quantidade"? - DECIDIMOS EM 29/03 POR USAR A EXPRESSÃO PORCAO
   * Vamos alterar o título desta lição?
 </hidden>
 
