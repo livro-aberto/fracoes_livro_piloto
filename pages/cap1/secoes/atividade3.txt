@@ -23,5 +23,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Quais dos retângulos foram repartidos em //quartos//?
 
 <WRAP imagem> Oito retângulos com cortes conforme imagem {{ :cap3:quartos.jpg?300 |}}  
-Esses retângulos também serão confeccionados para um encarte</WRAP>
+<hidden OBSERVAÇÕES>
+Esses retângulos também serão confeccionados para um encarte
+</hidden>
+</WRAP>
 
