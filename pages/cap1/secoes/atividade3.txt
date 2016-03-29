@@ -6,8 +6,10 @@
 Objetivo específico:
   * reconhecer que, em uma equipartição, as partes podem não ter a mesma forma.
 
-Sugestão: dividir a turma em grupos de 4 estudantes. 
-Cada grupo recebe um encarte com as imagens dos oito retângulos da figura abaixo para decidir sobre qual (ou quais) usariam para repartir em partes iguais entre os participanates do grupo 
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  * Recomenda-se que a atividade seja realizada em grupos de 4 estudantes. Assim, cada grupo recebe um encarte com as imagens dos oito retângulos da figura a seguir (página para reprodução).
+  *  que está disponíve para decidir sobre qual (ou quais) usariam para repartir em partes iguais entre os participanates do grupo 
 (Os retângulos podem ser representativos de barras de chocolate, por exemplo).
 Havendo disponibilidade você pode deixá-los recortarem as partes para compará-las sobrepondo. 
 /*Dúvida: será que 8 não é muito?*/ 
