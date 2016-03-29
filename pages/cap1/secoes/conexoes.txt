@@ -12,10 +12,10 @@ Ao dividir um todo qualquer em três partes iguais, cada uma das partes é chama
 
 Ao dividir um todo qualquer em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// do todo. 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos </WRAP>
-
+<hidden OBSERVAÇÕES>
 **VAMOS TRABALHAR SOMENTE ATÉ QUARTOS???** 
 AP: Considero que essa resposta seja de acordo com as atividades sugeridas. 
-
+</hidden>
 
 Na História da Humanidade os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.).
 Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, por exemplo: Em uma casa vivem dois adultos e três crianças. 
