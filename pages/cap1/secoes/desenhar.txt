@@ -1,26 +1,19 @@
 ==== Exercício ====
 <hidden OBSERVAÇÂO>
 AP: Devemos definir quais são as atividades (tarefas que devem ser desenvolvidas com mediação do professor para desenvolvimento dos conceitos) e quais são os exercícios (tarefas que o aluno deve desenvolver para retomada dos conceitos trabalhados e fixação). 
+</hidden>
 
 **EXERCÍCIO 1**
-<WRAP professor>
-Enquanto que nas atividades anteriores os alunos identificaram e reconheceram modelos de frações unitárias, o objetivo deste exercíco é fazer com que eles construam esses modelos. 
-</WRAP>
-
-{{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
-
-<hidden OBSERVAÇÕES>
-HB: atendi o pedido da Ana Paula no fórum de deixar aqui apenas as metades e levar para a próxima lição os demais tipos de frações.
+<hidden OBSERVAÇÃO> HB: ainda na linha de exercitar a habilidade de construção do aluno. Nesta proposta, o foco é a habilidade em divisões sucessivas por dois.
 </hidden>
 
-<hidden SUGESTÃO DE EXERCÍCIO 2>
-HB: seguindo a mesma linha da proposta de exercício anterior.
+(A) Pinte metade do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
-(A) Pinte metade da figura a seguir.
+(B) Pinte um quarto do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
-{{ :cap1:secoes:um-meio-e-um-terco.jpg?500 |}}
+(C) Pinte um oitavo do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
-(B) Pinte um terço da figura a seguir.
 
-{{ :cap1:secoes:um-meio-e-um-terco.jpg?500 |}}
-</hidden>
