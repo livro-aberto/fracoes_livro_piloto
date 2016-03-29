@@ -26,3 +26,15 @@ HB: ainda na linha de exercitar a habilidade de construção do aluno. Nesta pro
 {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
 </hidden>
+
+<hidden SUGESTÃO DE EXERCÍCIO 2>
+HB: seguindo a mesma linha da proposta de exercício anterior.
+
+(A) Pinte metade da figura a seguir.
+
+{{ :cap1:secoes:um-meio-e-um-terco.jpg?500 |}}
+
+(B) Pinte um terço da figura a seguir.
+
+{{ :cap1:secoes:um-meio-e-um-terco.jpg?500 |}}
+</hidden>
