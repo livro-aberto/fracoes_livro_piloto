@@ -1,8 +1,16 @@
 
 ===== Conexões =====
 
-Nas atividades que fizemos até aqui utilizamos pizzas e barras de chocolate que foram repartidas. Chamamos cada pizza inteira e cada barra de chocolate inteira de "todo". 
-Então se dividimos um todo qualquer em duas partes iguais ou ao meio, chamamos cada uma das partes de //um meio// ou //metade// do todo. 
+Nas atividades que fizemos até aqui, pizzas e barras de chocolate foram repartidas. Chamamos cada pizza inteira e cada barra de chocolate inteira de "todo". 
+
+Se repartimos uma pizza em duas partes iguais ou ao meio, chamamos cada uma das partes de //um meio// ou //metade// da pizza.
+<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade de uma pizza </WRAP>
+
+Se repartimos uma barra de chocolate em cinco partes iguais ou ao meio, chamamos cada uma das partes de //um meio// ou //metade// da barra de chocolate.
+<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA da quinta parte de uma barra de chocolate </WRAP>
+
+
+Se dividimos um todo qualquer em duas partes iguais ou ao meio, chamamos cada uma das partes de //um meio// ou //metade// do todo. 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </WRAP>
 
 Se dividimos um todo qualquer em três partes iguais, chamamos cada uma das partes de //um terço// ou //terça parte// do todo. 
@@ -10,4 +18,6 @@ Se dividimos um todo qualquer em três partes iguais, chamamos cada uma das part
 
 Se dividimos um todo qualquer em quatro partes iguais, chamamos cada uma das partes de //um quarto// ou //quarta parte// do todo. 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos </WRAP>
+
+VAMOS TRABALHAR SOMENTE ATÉ QUARTOS???
 
