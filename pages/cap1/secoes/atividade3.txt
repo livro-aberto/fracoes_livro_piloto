@@ -8,18 +8,18 @@ Objetivo específico:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-  * Recomenda-se que a atividade seja realizada em grupos de 4 estudantes. Assim, cada grupo recebe um encarte com as imagens dos oito retângulos da figura a seguir (disponível para reprodução).
-  * que está disponíve para decidir sobre qual (ou quais) usariam para repartir em partes iguais entre os participanates do grupo 
-(Os retângulos podem ser representativos de barras de chocolate, por exemplo).
-Havendo disponibilidade você pode deixá-los recortarem as partes para compará-las sobrepondo. 
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos. Assim, cada grupo recebe um encarte com as imagens dos oito retângulos da figura a seguir (disponível para reprodução).
+  * que está disponível para decidir sobre qual (ou quais) usariam para repartir em partes iguais entre os participanates do grupo
+  * Os retângulos podem ser representativos de barras de chocolate, por exemplo.
+  * Havendo disponibilidade você pode deixá-los recortarem as partes para compará-las sobrepondo. 
 /*Dúvida: será que 8 não é muito?*/ 
 
 
-Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma quantidade de chocolate, a divisão proposta para a barra de chocolate deve ser em “partes iguais”.
-Na discussão, procure destacar que a referência à “divisão em três partes iguais” se dá (igualmente) a partir das expressões “um terço” da barra de chocolate ou “a terça parte” da barra de chocolate.
-Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão “um terço” no lugar de “divisão em três partes iguais”. Ou ainda, que há diferentes representações para a equipartição. Por eemplo, INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS.
+  * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma porção de chocolate, a divisão proposta para a barra de chocolate deve ser em “partes iguais”.
+  * Na discussão, procure destacar que a referência à “divisão em três partes iguais” se dá (igualmente) a partir das expressões “um terço” da barra de chocolate ou “a terça parte” da barra de chocolate.
+  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão “um terço” no lugar de “divisão em três partes iguais”. Ou ainda, que há diferentes representações para a equipartição. Por exemplo, INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS.
   * Pedir aos alunos que expliquem a sua escolha;
-  * Levar o aluno a reconhecer que as partes têm que corresponder à mesma “quantidade” de chocolate, mas não à mesma forma.
+  * Levar o aluno a reconhecer que as partes têm que corresponder à mesma porção de chocolate, mas não à mesma forma.
 </WRAP>
 
 Quais dos retângulos foram repartidos em //quartos//?
