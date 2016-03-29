@@ -10,7 +10,7 @@ FALTAM!
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
-  * Recomenda-se que esta atividade seja feita em grupos de até quatro alunos. 
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. QUAIS? FIQUEI COM DÚVIDA... SERIA BOM INCLUIR EXEMPLOS
   * Procure levar os alunos a perceberem que apenas um das repartições propostas sugere a equiparticão, respondend, portanto,  última questão proposta nesta atividade.
@@ -22,11 +22,11 @@ A professora trouxe para a sala de aula três pizzas inteiras de mesmo tamanho q
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} </WRAP>
 
-Cada um dos três grupos repartiu a sua pizza na mesma __quantidade de fatias__ que os outros?
+Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros?
 
-Dessa maneira, todas as crianças da turma receberam a mesma __quantidade__ de pizza?
+Dessa maneira, todas as crianças da turma receberam a mesma porção de pizza?
 
-Em qual dos grupos as crianças podem ter recebido a mesma __quantidade__ de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
+Em qual dos grupos as crianças podem ter recebido a mesma porção de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 
 
