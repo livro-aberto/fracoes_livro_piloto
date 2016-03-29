@@ -1,0 +1,23 @@
+==== Atividade ====
+
+**ATIVIDADE 5**
+
+<WRAP professor>
+Objetivo específico:
+  * Trabalhar a ideia da equipartição no modelo linear.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 4 alunos. Assim, cada grupo recebe um pedaço de barbante de aproximadamente 1m.
+  * A atividade deve ser realizada utilizando 4 enfeites que devem ser confeccionados antes da realização da mesma. Sugere-se estrelas.
+</WRAP>
+
+Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso precisa cortar o barbante em pedaços iguais. Ajude Ana a fazer isso. 
+{{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
+
+<hidden DUVIDA>
+AP:(Uma outra sugestão de enunciado para a atividade)
+
+Em grupo, confeccione 4 enfeites para sua sala. Para prender os enfeites, vocês receberão um pedaço de barbante que deverá ser dividido em partes iguais. 
+Descreva como vocês dividiram o barbante em partes iguais. Como chama-se cada uma dessas partes?
+</hidden>
