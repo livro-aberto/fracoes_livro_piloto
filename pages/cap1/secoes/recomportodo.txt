@@ -1,8 +1,14 @@
 ==== Atividade ====
-**ATIVIDADE 5**
+**ATIVIDADE 6**
 
 <WRAP professor>
-O objetivo desta atividade é levar o aluno a perceber que se uma parte é um $n$ avos do todo, então são necessárias $n$ partes para recompor o todo. É importante ter em mente que existem várias soluções para cada item.
+Objetivo específico: 
+    * Recompor o inteiro a partir da fração unitária. O aluno deve perceber que se uma parte é um $n$ avos do todo, então são necessárias $n$ partes para recompor o todo. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+    * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
+    * É importante ter em mente que existem várias soluções para cada item.
+    * Estimule o aluno a pensar em quantas partes o inteiro original foi dividido e quantas partes são necessárias para recompô-lo.
 </WRAP>
 
 {{ :cap1:secoes:completar-o-todo.jpg?500 |}}
