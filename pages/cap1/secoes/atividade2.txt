@@ -16,7 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. QUAIS? FIQUEI COM DÚVIDA... SERIA BOM INCLUIR EXEMPLOS
-  * Procure levar os alunos a perceberem que apenas um das repartições propostas sugere a equiparticão, respondend, portanto,  última questão proposta nesta atividade.
+  * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo, portanto, a última questão proposta nesta atividade.
 </WRAP>
 
 
