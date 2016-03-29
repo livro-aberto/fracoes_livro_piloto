@@ -10,7 +10,7 @@ A escolha pelo retângulo quadriculado serve para que os estudantes representem 
 As figuras abaixo apresentam 6 retângulos quadriculados de 6 por 10 quadradinhos. Em cada um deles represente a fração indicada do retângulo original utlizando a cor correspondente:
 
 a) meio ou metade do retângulo em amarelo.
-<WRAP imagem>
+<WRAP imagem> Criar quadriculado com quadradinhos (mesmos lados) em todas as figuras abaixo. É importante que sejam brancos os conteúdos. 
 |  |  |  |  |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  |  |  |  | 
@@ -92,3 +92,5 @@ Estas são algumas das respostas possíveis para cada um  dos itens:
 </WRAP>
 </hidden>
 
+<hidden OBSERVAÇÃO> O livro é não consumível, a questão precisa ser adaptada.
+</hidden>
