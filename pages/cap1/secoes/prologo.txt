@@ -10,8 +10,8 @@ OBJETIVOS ESPECÍFICOS DA LIÇÃO 1:
 O aluno deve ser capaz de:
   * Compreender a necessária equipartição da unidade (todo) para a identificação de frações unitárias.
   * Indentificar, a partir de representações visuais diversas, frações unitárias de denominador variando de 2 a 10. 
-  * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Portanto, "metade", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
-  * Comparar frações unitárias por meio de representações visuais (ex. a mesma pizza dividida em 3 partes iguais ou 4 partes iguais?). 
+  * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
+  * Comparar frações unitárias por meio de representações visuais (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza). 
 
 <hidden OBSERVAÇÕES>
   * Trabalharemos modelos contínuo por enquanto;
@@ -19,7 +19,8 @@ O aluno deve ser capaz de:
   * Valorizar a atividade em grupo e a discussão;
   * Tratar a comparação pela ordem sem formalizar;
   * Deixar a representação simbólica para a próxima seção.
-  * No texto, evitar a 1a pessoa do plural. Optar pela 3a do singular e, no caso das atividades dirigidas aos alunos, peloimperativo. 
+  * No texto, evitar a 1a pessoa do plural. Optar pela 3a do singular e, no caso das atividades dirigidas aos alunos, peloimperativo.
+  * Seção ao proofessor: Os conceitos matemáticos envolvidos / Embasamentos teórico e pedagógico.  
 </hidden>
 
 <hidden DÚVIDAS>
