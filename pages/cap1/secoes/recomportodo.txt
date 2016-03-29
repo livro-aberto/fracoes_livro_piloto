@@ -5,6 +5,4 @@
 O objetivo desta atividade é levar o aluno a perceber que se uma parte é um $n$ avos do todo, então são necessárias $n$ partes para recompor o todo.
 </WRAP>
 
-(a) Se $\Huge\nabla$ é a metade de uma figura, desenhe a figura completa.
-
-(b) Se $\Huge\nabla$ é um terço de uma figura, desenhe a figura completa.
+{{ :cap1:secoes:completar-o-todo.jpg?500 |}}
