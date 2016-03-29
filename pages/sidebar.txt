@@ -11,15 +11,14 @@
 ===== Capítulos ======
 
   *[[cap0:navega|Introdução]]
-  *[[cap1:navega|Lição 1]] - [[cap1:texto|html]]
-  *[[cap2:navega|Lição 2]] - [[cap2:texto|html]]
-  *[[cap3:navega|Lição 3]] - [[cap3:texto|html]]
-  *[[cap4:navega|Lição 4]] - [[cap4:texto|html]]
-  *[[cap5:navega|Lição 5]] - [[cap5:texto|html]]
-  *[[cap6:navega|Lição 6]] - [[cap6:texto|html]]
-  *[[cap7:navega|Lição 7]] - [[cap7:texto|html]]
-  *[[cap8:navega|Lição 8]] - [[cap8:texto|html]]
-  *[[cap9:navega|Lição 9]] - [[cap9:texto|html]]
-
+  *[[cap1:texto|Lic 1]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - [[cap1:secoes:atividades_extras|extras]]
+  *[[cap2:texto|Lic 2]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - [[cap2:secoes:atividades_extras|extras]]
+  *[[cap3:texto|Lic 3]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - [[cap3:secoes:atividades_extras|extras]]
+  *[[cap4:texto|Lic 4]] - [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - [[cap4:secoes:atividades_extras|extras]]
+  *[[cap5:texto|Lic 5]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]] - [[cap5:secoes:atividades_extras|extras]]
+  *[[cap6:texto|Lic 6]] - [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]] - [[cap6:secoes:atividades_extras|extras]]
+  *[[cap7:texto|Lic 7]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]] - [[cap7:secoes:atividades_extras|extras]]
+  *[[cap8:texto|Lic 8]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - [[cap8:secoes:atividades_extras|extras]]
+  
 
 
