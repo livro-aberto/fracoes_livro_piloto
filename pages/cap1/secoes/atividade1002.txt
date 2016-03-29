@@ -4,7 +4,7 @@
     * adquirir fluência em representar frações unitárias em malha quadriculada.
     * servir de pano de fundo para a próxima questão.
 
-Na parte de comparação é possível que os estudantes contem os quadradinhos para decidir qual é a maior fração do retângulo. A escolha pelo ret6angulo quadriculado serve para que os estudantes representem de maneira diversa as frações valendo-se da partição pré-estabelecida. Embora ele possa não pintar inteiramente cada quadradinho, por exemplo para representar a metade  ele poderia traçar uma diagonal e pintar a parte debaixo da diagonal e não haveria problema.
+A escolha pelo retângulo quadriculado serve para que os estudantes representem de maneira diversa as frações valendo-se da partição pré-estabelecida. Embora ele possa não pintar inteiramente cada quadradinho, por exemplo para representar a metade  ele poderia traçar uma diagonal e pintar a parte debaixo da diagonal e não haveria problema.
 </WRAP>
 
 As figuras abaixo apresentam 6 retângulos quadriculados de 6 por 10 quadradinhos. Em cada um deles represente a fração indicada do retângulo original utlizando a cor correspondente:
