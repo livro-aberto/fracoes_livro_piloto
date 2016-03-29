@@ -1,10 +1,8 @@
-====== Atividade ======
+==== Atividade ====
 
+**ATIVIDADE 6**
 <WRAP professor>
 Enquanto que nas atividades anteriores os alunos identificaram e reconheceram modelos de frações unitárias, o objetivo deste exercíco é fazer com que eles construam esses modelos. 
-
-
-
 </WRAP>
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
