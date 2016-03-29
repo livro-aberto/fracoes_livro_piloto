@@ -25,6 +25,8 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:exercicio3}}
 
+{{page>cap1:secoes:atividade6}}
+
 {{page>cap1:secoes:atividade4}}
 
 
@@ -41,7 +43,7 @@ page>cap1:secoes:abstrato
 
 {{page>cap1:secoes:massa}}
 
-{{page>cap1:secoes:atividade6}}
+
 
 
 
