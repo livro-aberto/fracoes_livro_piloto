@@ -10,3 +10,6 @@ Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identi
 <WRAP professor> Este exercício objetiva que o estudante ganhe fluência para estimar quantidades usando a linguagem de frações em situações diversas. Como consequência espera-se que eles consigam observar que $\frac{1}{5} <\frac{1}{3} <\frac{1}{2}$.</WRAP>
 
 
+<hidden OBSERVAÇÕES>
+HB: a exemplo da letra (L), acho bom sempre tentar incluir objetos 3D (copos com líquidos por exemplo).
+</hidden>
