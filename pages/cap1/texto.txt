@@ -1,7 +1,7 @@
 {{page>cap1:secoes:prologo}}
 
 /*
-{{page>cap1:secoes:intro}}
+page>cap1:secoes:intro
 */
 
 {{page>cap1:secoes:atividade1}}
@@ -29,10 +29,10 @@
 {{page>cap1:secoes:umeioeummeio}}
 
 /*
-{{page>cap1:secoes:abstrato}}
+page>cap1:secoes:abstrato
 */
 
-/* atividade mais avançada, deve ser utilizada mais para frente {{page>cap1:secoes:atividade5}}*/
+/* atividade mais avançada, deve ser utilizada mais para frente page>cap1:secoes:atividade5*/
 
 {{page>cap1:secoes:massa}}
 
@@ -50,9 +50,9 @@
 
 
 /*
-{{page>cap1:secoes:atividade11}}
+page>cap1:secoes:atividade11
 
-{{page>cap1:secoes:atividade12}}
+page>cap1:secoes:atividade12
  */
 
 {{page>cap1:secoes:atividade15}}
@@ -62,10 +62,8 @@
 /* Limbo (Dá para Aproveitar?) */
 
 /*
-{{page>cap1:secoes:atividade13}}
+page>cap1:secoes:atividade13
 
-{{page>cap1:secoes:atividade14}}
-
-
+page>cap1:secoes:atividade14
 */
 
