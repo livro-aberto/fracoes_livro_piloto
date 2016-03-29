@@ -5,8 +5,6 @@
 
 Objetivos específicos:
 
-  * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique uma das partes iguais da equipartição da unidade ("todo").
   * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
   * Levar o aluno a perceber que estar dividido na mesma quantidade de partes não garante uma equipartição.
