@@ -12,7 +12,7 @@ O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois div
 <hidden RESPOSTA>
 <WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.
 </WRAP> 
-<\hidden>
+</hidden>
 
 
 

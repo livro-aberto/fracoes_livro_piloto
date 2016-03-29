@@ -118,7 +118,7 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'error' then
         outstr = outstr .. formatting .. 'ERRO:\\{' .. formatsimple:match(v.value) .. '\\}'
      elseif (v.tag) == 'wrap' then
-        outstr = outstr .. formatting .. '\\begin{' .. v.type .. '}{}{}'
+        outstr = outstr .. formatting .. '\\begin{' .. v.type .. '}[breakable]{}{}'
         outstr = outstr .. texprint(v.value, indent + 1)
         outstr = outstr .. formatting .. '\\end{' .. v.type .. '}'
      end
