@@ -14,7 +14,7 @@ HB: atendi o pedido da Ana Paula no fórum de deixar aqui apenas as metades e le
 </hidden>
 
 <hidden SUGESTÃO DE EXERCÍCIO 1>
-HB
+HB: ainda na linha de exercitar a habilidade de construção do aluno. Nesta proposta, o foco é a habilidade em divisões sucessivas por dois.
 
 (A) Pinte metade do quadrado a seguir.
 {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
