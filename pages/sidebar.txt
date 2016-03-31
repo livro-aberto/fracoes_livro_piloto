@@ -6,7 +6,7 @@
   * [[sintaxe|Sintaxe]]
   * [[sandbox|Sandbox]]
   * [[https://www.umlivroaberto.com/forum/index.php|Fórum]]
-  * [[https://github.com/UmLivroAberto/livro/issues|Lista tarefas]]
+  * [[https://github.com/UmLivroAberto/livro/issues|Lista de tarefas]]
   * [[https://www.umlivroaberto.com/wiki/doku.php|Staff Only]]
   
 
