@@ -12,9 +12,10 @@
 
 ===== Lições ======
 
-Introdução
+<hidden Introdução>
   * [[cap0:navega|Navegação]]
   * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
+</hidden>
 Lição 1 
   * [[cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
   * [[cap1:secoes:atividades_extras|atividades extras]]
