@@ -36,3 +36,9 @@ Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel
 </WRAP>
 
 Consirando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a porção de chocolate que cada irmão receberia? 
+
+<hidden Resposta>
+<WRAP resposta>
+INCLUIR Algumas possíveis soluções para a atividade, que estarão disponíveis apenas para os professores. 
+</WRAP>
+</hidden>
