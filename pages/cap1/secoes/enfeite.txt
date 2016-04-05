@@ -9,11 +9,11 @@ Objetivo específico:
 Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que a atividade seja desenvolvida em grupos de 4 alunos. 
-  * Cada grupo deve receber um pedaço de barbante de aproximadamente 1m.
+  * Cada grupo deve receber um pedaço de barbante de, aproximadamente, 1m.
   * A atividade deve ser realizada utilizando 4 enfeites que precisam ser confeccionados antes da realização da mesma. Sugere-se estrelas.
 </WRAP>
 
-Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso precisa cortar o barbante em pedaços iguais. Ajude Ana a fazer isso. 
+Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, precisa cortar o barbante em pedaços iguais. Ajude Ana a cortar o barbante. 
 {{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
 
 <hidden DUVIDA>
