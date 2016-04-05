@@ -29,6 +29,9 @@ Quais dos retângulos foram repartidos em //quartos//?
 <hidden OBSERVAÇÕES>
 Esses retângulos também serão confeccionados para um encarte
 </hidden>
+<hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+</hidden>
 </WRAP>
 
 
