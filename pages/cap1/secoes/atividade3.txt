@@ -31,3 +31,9 @@ Esses retângulos também serão confeccionados para um encarte
 </hidden>
 </WRAP>
 
+
+<hidden Resposta>
+<WRAP resposta>
+**INCLUIR Algumas possíveis soluções para a atividade, que estarão disponíveis apenas para os professores.** 
+</WRAP>
+</hidden>
