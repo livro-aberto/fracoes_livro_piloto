@@ -2,7 +2,7 @@
 ====== Capítulo 2 - Frações não-unitárias ======
 
 <hidden Estrutura da Lição>
-Conteúdos da lição: 
+**Conteúdos da lição:** 
     - Unidade tratada como "todo". 
     - Expressões verbais correspondentes às frações unitárias: 1/2; 1/3, ..., 1/10. 
     - Comparação de frações unitárias a partir apenas da representação em modelos contínuos. 
@@ -12,7 +12,7 @@ Conteúdos da lição:
 
 **Esqueleto da lição:**
 
-=== Explorando === 
+**Explorando**
 
 Atividade 1: Despertar para a necessidade de frações não unitárias em termos de quantidades que existem, mas eles ainda não possuem palavras para expressar até agora.
 
@@ -24,7 +24,7 @@ Atividade 4:  Expressar frações impróprias verbalmente, e.g. no balcão da pi
 
 Dúvida: Que termos devemos utilizar para referir à justaposição quando falando com o estudante: Reunir, Juntar, Justapor?
 
-=== Conexões === 
+**Conexões**
 
 
 </hidden>
