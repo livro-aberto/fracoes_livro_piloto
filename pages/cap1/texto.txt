@@ -8,16 +8,15 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:atividade2}}
 
+{{page>cap1:secoes:enfeite}}
+
 {{page>cap1:secoes:conexoes}}
 
 {{page>cap1:secoes:atividade3}}
 
 {{page>cap1:secoes:atividade7}}
 
-{{page>cap1:secoes:enfeite}}
-
 {{page>cap1:secoes:recomportodo}}
-
 
 {{page>cap1:secoes:desenhar}}
 
