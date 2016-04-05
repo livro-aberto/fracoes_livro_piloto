@@ -1,5 +1,3 @@
-====== Atividade ======
-
 <WRAP professor>
 Enquanto que as frações unitárias foram definidas no contexto da divisão em partes iguais, o objetivo desta atividade é levar o aluno a perceber que podemos considerar e identificar uma fração de um objeto mesmo que este não esteja dividido em partes iguais e mesmo que a fração seja a justaposição de partes disjuntas.
 </WRAP>
