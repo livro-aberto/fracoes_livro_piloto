@@ -51,7 +51,7 @@ LET: Combinamos até décimos.
 
 Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
-<WRAP professor> Nesta etapa, as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. NÃO ENTENDI! Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas duas xícaras e um terço de xícara fazem.</WRAP>  
+<WRAP professor> Nesta etapa, não devemos exigir que os alunos entendam as frações como número. Esperamos que ele comece apropriar-se da nomenclatura para as fraçoes, antes da de ser apresentado formalmente à simbologia matemática. Desejamos que o embrião das frações como número seja a percepção que podemos relacioná-la a quantidades do mesmo modo que fazemos para os números naturais. Assim, do mesmo modo que o número 2 pode ser associado a uma quantidade como na situação em que utilizamos em uma receita: duas xícaras de farinha, podemos associar o número 1/3 (um terço)  também a uma quantidade na mesma receita aos escrevermos um terço de xícara de cacau.</WRAP>  
 
 <hidden DUVIDAS>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
