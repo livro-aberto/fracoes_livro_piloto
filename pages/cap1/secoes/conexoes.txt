@@ -10,14 +10,18 @@ Ao dividir um todo qualquer em duas partes iguais ou ao meio, cada uma das parte
 Por exemplo, 
 //Meia// barra de chocolate para cada um. Isto é, a //fração// da barra de chocolate destinada a cada um é //metade// da barra (ou //um meio// da barra).
 
-<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade </WRAP>
+<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade <hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+</hidden></WRAP>
 
 Ao dividir um todo qualquer em três partes iguais, cada uma das partes é chamada de //um terço// ou //terça parte// do todo. 
 
 Por exemplo,
 Acrescentar //um terço// de um copo de leite. Isso significa que a //fração um terço// de um copo de leite foi utilizada na receita de um bolo.
 
-<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço </WRAP>
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço <hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+</hidden></WRAP>
 
 
 Ao dividir um todo qualquer em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// do todo. 
