@@ -6,7 +6,7 @@
   * [[sintaxe|Sintaxe]]
   * [[sandbox|Sandbox]]
   * [[https://www.umlivroaberto.com/forum/index.php|Fórum]]
-  * [[https://github.com/UmLivroAberto/livro/wiki/Equipe-da-etapa-Piloto-e-a-responsabilidade-de-cada-um|Responsabilidades]]
+  * [[https://github.com/UmLivroAberto/livro/wiki/Equipe-da-etapa-Piloto-e-a-responsabilidade-de-cada-um|Funções na equipe]]
   * [[https://github.com/UmLivroAberto/livro/issues|Tarefas: livro]]
   * [[https://github.com/simas0/Livro-Aberto-de-Matematica-texto-do-projeto-/issues|Tarefas: projeto]]
   * [[https://www.umlivroaberto.com/wiki/doku.php|Staff Only]]
