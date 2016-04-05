@@ -1,6 +1,36 @@
 
 ====== Capítulo 2 - Frações não-unitárias ======
 
+<hidden Estrutura da Lição>
+Conteúdos da lição: 
+    - Unidade tratada como "todo". 
+    - Expressões verbais correspondentes às frações unitárias: 1/2; 1/3, ..., 1/10. 
+    - Comparação de frações unitárias a partir apenas da representação em modelos contínuos. 
+    - Frações não necessariamente unitárias. 
+    - Representação na forma a/b. 
+    - Comparação de frações que tenham o mesmo denominador
+
+**Esqueleto da lição:**
+
+=== Explorando === 
+
+Atividade 1: Despertar para a necessidade de frações não unitárias em termos de quantidades que existem, mas eles ainda não possuem palavras para expressar até agora.
+
+Atividade 2: Reconhecer e expressar verbalmente frações não unitárias a partir da justaposição de frações unitárias, e.g. um bolo dividido em 4 partes iguais, temos 4 quartos e tomando três deles, temos 3 quartos.
+
+Atividade 3: Entender a fração $a/b$ mesmo sem a justaposição explícita - um do lado do outro, mas não justapostos, e.g. triângulos não consecutivos de um hexágono
+
+Atividade 4:  Expressar frações impróprias verbalmente, e.g. no balcão da pizzaria as pizzas são divididas em 8 pedaços iguais. Compra-se 10 fatias. Cada pizza representa que fração de uma pizza? Quantos oitavos obtivemos?
+
+Dúvida: Que termos devemos utilizar para referir à justaposição quando falando com o estudante: Reunir, Juntar, Justapor?
+
+=== Conexões === 
+
+
+</hidden>
+
+
+
 Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
 
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
