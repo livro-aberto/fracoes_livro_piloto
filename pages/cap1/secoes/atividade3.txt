@@ -1,7 +1,3 @@
-
-==== Atividade 4 ====
-
-
 <WRAP professor> 
 Objetivo específico:
   * Reconhecer que, em uma equipartição, nas quais as partes podem não ter a mesma forma. Porém se recortadas de modo apropriado podem ser recompostas com o mesmo formato das outras. Uma barra de chocolate representada em uma equipartição deste tipo formnecerá pequenos pedaços de chocolate em formatos diferentes, porém com a mesma quantidade de chocolate. 
