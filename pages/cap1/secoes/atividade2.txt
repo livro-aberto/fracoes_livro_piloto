@@ -27,7 +27,7 @@ Veja como cada grupo repartiu a sua pizza.
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} </WRAP>
 
-Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros?
+Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
 
 Dessa maneira, todas as crianças da turma receberam a mesma porção de pizza?
 
