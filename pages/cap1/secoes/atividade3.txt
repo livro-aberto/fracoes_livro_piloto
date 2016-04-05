@@ -4,7 +4,7 @@
 
 <WRAP professor> 
 Objetivo específico:
-  * reconhecer que, em uma equipartição, as partes podem não ter a mesma forma.
+  * reconhecer que, em uma equipartição, nas quais as partes podem não ter a mesma forma. Porém se crecortadas de modo apropriado podem ser recompostas com o mesmo fo formato de outras. Uma barra de chocolate representada em uma equipartição deste tipo formnecerá pequenos pedaços de chocolate em formatos diferentes, porém com a mesma quantidade de chocolate. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
@@ -25,9 +25,9 @@ Dúvida: será que 8 não é muito?
 
 Quais dos retângulos foram repartidos em //quartos//?
 
-<WRAP imagem> Oito retângulos com cortes conforme imagem {{ :cap3:quartos.jpg?300 |}}  
+<WRAP imagem> Oito retângulos divididos em partes conforme a imagem {{ :cap3:quartos.jpg?300 |}}  
 <hidden OBSERVAÇÕES>
-Esses retângulos também serão confeccionados para um encarte
+Esses retângulos também serão confeccionados para um encarte para que possa ser reproduzido pelo professor e distribuidos aos alunos.
 </hidden>
 <hidden documentação das imagens>
 **Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
