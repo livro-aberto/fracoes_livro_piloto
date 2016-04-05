@@ -6,7 +6,11 @@
 page>cap1:secoes:intro
 */
 
+===== - Atividade =====
+
 {{page>cap1:secoes:atividade1}}
+
+===== - Atividade =====
 
 {{page>cap1:secoes:atividade2}}
 
@@ -14,7 +18,11 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:conexoes}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:atividade3}}
+
+===== - Atividade =====
 
 {{page>cap1:secoes:atividade7}}
 
@@ -26,13 +34,13 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:exercicio3}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:atividade6}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:atividade4}}
-
-
-
-
 
 {{page>cap1:secoes:umeioeummeio}}
 
@@ -44,24 +52,27 @@ page>cap1:secoes:abstrato
 
 {{page>cap1:secoes:massa}}
 
-
-
-
+===== - Atividade =====
 
 {{page>cap1:secoes:atividade8}}
 
 {{page>cap1:secoes:quadrinhos}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:atividade9}}
 
-{{page>cap1:secoes:atividade10}}
+===== - Atividade =====
 
+{{page>cap1:secoes:atividade10}}
 
 /*
 page>cap1:secoes:atividade11
 
 page>cap1:secoes:atividade12
  */
+
+===== - Atividade =====
 
 {{page>cap1:secoes:atividade15}}
 
