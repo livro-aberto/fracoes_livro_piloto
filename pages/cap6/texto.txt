@@ -6,6 +6,8 @@
 
 {{page>cap6:secoes:abstrato}}
 
+===== - Atividade =====
+
 {{page>cap6:secoes:atividade1}}
 
 {{page>cap6:secoes:refletindo}}
