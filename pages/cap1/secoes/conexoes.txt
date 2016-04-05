@@ -15,7 +15,7 @@ Por exemplo,
 Ao dividir um todo qualquer em três partes iguais, cada uma das partes é chamada de //um terço// ou //terça parte// do todo. 
 
 Por exemplo,
-Acrescente //um terço// de xícara de farinha de trigo. Isto significa que a //fração um terço// de uma xícara foi utilizada na receita de um bolo.
+Acrescentar //um terço// de um copo de leite. Isso significa que a //fração um terço// de um copo de leite foi utilizada na receita de um bolo.
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço </WRAP>
 
@@ -38,11 +38,12 @@ Por exemplo,
 <hidden OBSERVAÇÕES>
 **VAMOS TRABALHAR SOMENTE ATÉ QUARTOS???** 
 AP: Considero que essa resposta seja de acordo com as atividades sugeridas. 
+LET: Combinamos até décimos.
 </hidden>
 
-Todos os exemplos citados referem-se a quantidades (de chocolate, de farinha de trigo, de século, de ouro) e por isso representamos estas quantidades por números. Esses números são chamados //frações//. 
+Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
-<WRAP professor> Neste momento as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas duas xícaras e um terço de xícara fazem.</WRAP>  
+<WRAP professor> Nesta etapa, as frações podem não fazer sentido como número para os estudantes. Isso porque um número é um objeto essencialmente abstrato. NÃO ENTENDI! Pode fazer mais sentido relacioná-los a quantidades assim como os números naturais. O número 2 sozinho não tem significado no mundo concreto, assim como 1/3, mas duas xícaras e um terço de xícara fazem.</WRAP>  
 
 <hidden DUVIDAS>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
