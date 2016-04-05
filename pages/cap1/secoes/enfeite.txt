@@ -1,7 +1,3 @@
-==== Atividade ====
-
-**ATIVIDADE 3**
-
 <WRAP professor>
 Objetivo específico:
   * Abordar a equipartição em um modelo linear.
