@@ -3,12 +3,13 @@
 
 <WRAP professor>
 Objetivo específico: 
-    * Recompor o inteiro a partir da fração unitária. O aluno deve perceber que se uma parte é um $n$ avos do todo, então são necessárias $n$ partes para recompor o todo. 
+    * Recompor o inteiro a partir de um fração unitária dada em modelo contínuo. 
+    * Espera-se que os alunos relacionem a fração unitária correspondente à parte apresentada à quantidade necessária dessas partes para compor o todo. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
     * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
     * É importante ter em mente que existem várias soluções para cada item.
-    * Estimule o aluno a pensar em quantas partes o inteiro original foi dividido e quantas partes são necessárias para recompô-lo.
+    * Estimule o aluno a, a partir da indentificação da fração unitária, determinar a quantidade departes necessárias para recompor o todo.
 </WRAP>
 
 {{ :cap1:secoes:completar-o-todo.jpg?500 |}}
