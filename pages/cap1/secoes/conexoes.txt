@@ -30,14 +30,18 @@ Por exemplo,
 Após //um quarto// de século o feitiço perderá seu efeito. Neste caso, a //fração um quarto// do século foi o tempo que durou o feitiço.
 
 
-<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos </WRAP>
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos <hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+</hidden> </WRAP>
 
 Da mesma forma, o dividir um todo qualquer em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// do todo.
 
 Por exemplo,
 //Um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa. Desta forma, //um quinto// do ouro é a //fração// do ouro pesado nas Casas de Fundição que eram pagos em impostos à coroa portuguesa.
 
-<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quintos </WRAP>
+<WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quintos <hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+</hidden> </WRAP>
 
 <hidden OBSERVAÇÕES>
 **VAMOS TRABALHAR SOMENTE ATÉ QUARTOS???** 
