@@ -4,7 +4,7 @@
 
 <WRAP professor> 
 Objetivo específico:
-  * reconhecer que, em uma equipartição, nas quais as partes podem não ter a mesma forma. Porém se crecortadas de modo apropriado podem ser recompostas com o mesmo fo formato de outras. Uma barra de chocolate representada em uma equipartição deste tipo formnecerá pequenos pedaços de chocolate em formatos diferentes, porém com a mesma quantidade de chocolate. 
+  * reconhecer que, em uma equipartição, nas quais as partes podem não ter a mesma forma. Porém se recortadas de modo apropriado podem ser recompostas com o mesmo formato das outras. Uma barra de chocolate representada em uma equipartição deste tipo formnecerá pequenos pedaços de chocolate em formatos diferentes, porém com a mesma quantidade de chocolate. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
@@ -15,7 +15,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <hidden OBSERVAÇÕES>
 Dúvida: será que 8 não é muito?
 </hidden>
-
+<hidden Sugestão>
+separar em dois grupos de quatro retângulos. Um com os quatro da esquerda onde as divisões são horizontais e verticais, e outras quatro  em que aparecem as divisões obliquas que dão origem a triângulos.
+</hidden>
   * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma porção de chocolate, a divisão proposta para a barra de chocolate deve ser em “partes iguais”.
   * Na discussão, procure destacar que a referência à “divisão em três partes iguais” se dá (igualmente) a partir das expressões “um terço” da barra de chocolate ou “a terça parte” da barra de chocolate.
   * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão “um terço” no lugar de “divisão em três partes iguais”. Ou ainda, que há diferentes representações para a equipartição. Por exemplo, INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS.
