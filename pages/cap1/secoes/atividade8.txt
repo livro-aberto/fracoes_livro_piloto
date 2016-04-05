@@ -1,4 +1,3 @@
-==== Atividade ====
 Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identifique a fração da figura que a parte colorida representa em cada um dos casos sabendo que só pode haver as frações 1/2, 1/3 e 1/5.
 
 <WRAP imagem> {{ :cap1:20160311_064049.jpg?500 |}} </WRAP>
