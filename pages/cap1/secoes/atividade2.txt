@@ -7,7 +7,7 @@ Objetivos específicos:
 
   * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
-  * Levar o aluno a perceber ao final desta atividade que "um todo", no caso a pizza,  pode estar dividido em quantidade igual de partes, mas se as partes não forem iguais não teremos uma equipartição.
+  * Levar o aluno a perceber ao final desta atividade que "um todo", no caso a pizza,  pode estar dividido em uma quantidade igual de partes, mas se as partes não forem iguais não teremos uma equipartição.
 
 
 
