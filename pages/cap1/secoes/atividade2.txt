@@ -25,7 +25,11 @@ Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de 
 Veja como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
-{{ :cap3:pizzas.jpg?300 |}} </WRAP>
+{{ :cap3:pizzas.jpg?300 |}} 
+<hidden documentação das imagens>
+**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Aqui a foto ajuda, mas é preciso dizer ao ilustrador que são discos iguais, divididos em quatro partes cada e ede modo diferente conforme ilustração incluida**
+</hidden>
+</WRAP>
 
 Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
 
