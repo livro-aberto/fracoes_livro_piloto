@@ -34,5 +34,10 @@ Dessa maneira, todas as crianças da turma receberam a mesma porção de pizza?
 Em qual dos grupos as crianças receberam a mesma porção de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 
+<hidden Resposta>
+<WRAP resposta>
+**INCLUIR Algumas possíveis soluções para a atividade, que estarão disponíveis apenas para os professores.** 
+</WRAP>
+</hidden>
 
 
