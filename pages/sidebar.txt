@@ -15,8 +15,7 @@
 ===== Lições ======
 
 <hidden Introdução>
-  * [[cap0:navega|Navegação]]
-  * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
+  * [[cap0:navega|html]] - [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
 </hidden>
 <hidden Lição 1>
   * [[cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
