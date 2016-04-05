@@ -1,6 +1,3 @@
-==== Atividade ====
-**ATIVIDADE 6**
-
 <WRAP professor>
 Objetivo específico: 
     * Recompor o inteiro a partir de uma fração unitária dada em modelo contínuo. 
