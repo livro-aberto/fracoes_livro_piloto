@@ -1,5 +1,3 @@
-===== Atividade ===== 
-
 Você saberia dizer qual é o menor dos números $\frac{1}{2}$ ou $\frac{1}{3}$? (Pense em uma barra de chocolates dividida para 2 ou 3 pessoas, em qual das situações a fração correspondente a cada pessoa é maior?)
 
 
