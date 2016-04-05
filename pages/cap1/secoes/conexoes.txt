@@ -52,7 +52,7 @@ LET: Combinamos até décimos.
 Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
 <WRAP professor> Nesta etapa, não se deve exigir que os alunos entendam as frações como números. O objetivo é que percebam seu papel para expressar quantidades em situações de partição da unidade. Assim, as frações podem ser utilizadas no dia a dia para identificar quantidades do mesmo modo que os números naturais, que os alunos já conhecem. Por exemplo, nas expressões: "dois ovos", "duas xícaras de farinha", "um terço de xícara de cacau" e "meio litro de leite".
-Espera-se que os alunos apropriar-se primeiro da nomenclatura para as frações, antes de serem apresentados formalmente à simbologia matemática. Assim, esta seção objetiva a expressão verbal e não a representação simbólica. 
+Espera-se que os alunos apropriem-se primeiro da das expressões verbais que identificam as frações, antes de serem apresentados formalmente à simbologia matemática. Assim, esta seção objetiva a expressão verbal e não a representação simbólica. 
 </WRAP>  
 
 <hidden DUVIDAS>
