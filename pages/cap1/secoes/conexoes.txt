@@ -8,7 +8,7 @@ Nas atividades realizadas até aqui, pizzas e barras de chocolate foram repartid
 Ao dividir um todo qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //metade// do todo. 
 
 Por exemplo, 
-//Meia// barra de chocolate para cada um. Isto é, a //fração// da barra de chocolate destinada a cada um é //metade// da barra (ou //um meio// da barra).
+//meia// barra de chocolate para cada um. Isto é, a //fração// da barra de chocolate destinada a cada um é //metade// da barra (ou //um meio// da barra).
 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade <hidden documentação das imagens>
 **Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
