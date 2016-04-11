@@ -1,8 +1,14 @@
 ==== Atividade ====
 
 O pai de Ana, Betriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
+
+{{ :cap2:secoes:explorando:mais:de:uma:chocolate-01.jpg?400 |}}
+
 Ana propôs que cada barra fosse dividida em três partes iguais e que cada irmã ficasse com duas dessas partes.
+
+{{ :cap2:secoes:explorando:mais:de:uma:chocolate-02.jpg?400 |}}
 
   - Você concorda com essa divisão? Explique. 
   - Com essa divisão, as três irmãs receberam a mesma quantidade de chocolate? 
-  - 
+  - Cada parte é que fração de **uma** barra de chocolate?
+  - Considerando uma barra inteira de chocolate, como você nomearia a quantidade de chocolate recebida por cada irmã? 
