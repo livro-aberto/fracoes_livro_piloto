@@ -69,3 +69,31 @@ Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ part
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
 
 Na representação da reta justapomos 
+
+
+<hidden H: SUGESTÕES DE SITUAÇÕES PARA APRESENTAR A NOTAÇÃO SIMBÓLICA DE ALGUMA FRAÇÃO UNITÁRIA>
+H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fração, pelo menos aqui no Brasil. Lá nos EUA, por conta do sistema imperial de unidades, o uso de frações é mais frequente. Aqui estão algumas sugestões. Para mim, a mais "honesta" é a dos parafusos, apesar da fração, neste caso, existir a possibilidade da notação de fração como um código. O que vocês acham? 
+
+(1) Marcador de combustível de automóveis e aviões
+
+{{:cap2:secoes:gas-tank-a-quarter-full.jpg?150|}} {{:cap2:secoes:pd398979-airplane_instrument_2_1_4_alarm_ef_fuel_tank_level_gauges_gauge_f2_va.jpg?150|}} {{:cap2:secoes:petrol-gauge.jpg?150|}}
+{{:cap2:secoes:boia-tubular-compativel-com-marcador-de-combustivel-nauticos-14480-mlb2755833842_052012-o.jpg?150|}}
+
+
+(2) Em medicina (vejam a imagem do meio, não é a toa que as enfermeiras erram as dosagens) 
+
+{{:undefined:3ccsyringe.jpg?100|}} {{:cap2:secoes:3ccsyringeminim-02.jpg?90|}}  {{:cap2:secoes:tubex.jpg?100|}}
+
+
+(3) Na cozinha 
+
+{{:cap2:secoes:receita-de-pao-de-queijo-para-fazer-com-as-criancas-carol-segurando-medidor.jpg?350|}}
+{{:cap2:secoes:jogo-de-medidores-colher-e-xicara-hercules-silicone-8-pecas.jpg?200|}}
+{{:cap2:secoes:jarra-de-vidro-graduada-300x199.jpg?200|}}
+
+
+(4) Nas especificações de porcas, parafusos, ...
+
+{{:cap2:secoes:porcas-e-parafusos.jpg?800|}}
+
+</hidden>
