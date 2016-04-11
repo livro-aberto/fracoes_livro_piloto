@@ -24,6 +24,7 @@ O aluno deve ser capaz de:
   * Nesta lição observar, por exmplo, a opçao pelas frações unitárias, que terão um caráter elementar para toda a condução da abordagem, uma vez que, observando a reta numérica, as denmais serão construídas a partir da justaposição de frações unitárias;
   * Explicar a decisão pela palavra "todo" para se referir à unidade; 
   * Destacar que as atividades propostas podem ser adaptadas para alunos com necessidades especiais. Por exemplo, os modelos podem ser confeccionados em materiais de texturas diferentes propiciando a diferebciação pelo tato.
+  *  Que sentido/entendimento estamos dando ao termo "quantidade"? - DECIDIMOS EM 29/03 POR USAR A EXPRESSÃO PORCAO... Mas, em 05/04, voltamos à expressão quantidade. Alterações no texto realizadas.
 	
 
 
@@ -33,7 +34,7 @@ O aluno deve ser capaz de:
 <hidden DÚVIDAS>
   * Vamos usar o modelo dos círculos?
   * O modelo de círculo deixa evidente a fração considerada e a fração complementar.
-  * Que sentido/entendimento estamos dando ao termo "quantidade"? - DECIDIMOS EM 29/03 POR USAR A EXPRESSÃO PORCAO
+  *  Que sentido/entendimento estamos dando ao termo "quantidade"? - DECIDIMOS EM 29/03 POR USAR A EXPRESSÃO PORCAO. Em 
   * Vamos alterar o título desta lição?
 </hidden>
 
