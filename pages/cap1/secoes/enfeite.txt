@@ -40,3 +40,11 @@ LET: A ideia de confeccionar os enfeites pode seguir como sugestão ao professor
 INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 4 ESTRELAS, para serem recortadas.
 {{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
 </hidden>
+
+
+
+<hidden Resposta>
+<WRAP resposta>
+**INCLUIR Algumas possíveis soluções para a atividade, que estarão disponíveis apenas para os professores.** 
+</WRAP>
+</hidden>
