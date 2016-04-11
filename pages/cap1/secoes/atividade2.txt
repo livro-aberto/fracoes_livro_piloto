@@ -20,7 +20,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
   *  * Esta atividade pode ser adaptada para alunos com problemas de visão (**ESTA É MELHOR FORMA DE SE REFERIR AOS ALUNS CEGOS?**). Para isso, sugere-se que a reprodução das três pizzas repartidas em materiais diferentes (por exemplo, papel comum e papeis dediferentes texturas) 
 
-<WRAP imagem> INCLUIR a imagem das 3 pizzas repartidas, inteiras e com as resectivas partes isoladas 
+<WRAP imagem> INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas. 
 {{ :cap3:pizzas.jpg?300 |}} 
 
 </WRAP>
