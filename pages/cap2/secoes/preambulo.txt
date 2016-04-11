@@ -79,6 +79,8 @@ H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fra
 {{:cap2:secoes:gas-tank-a-quarter-full.jpg?150|}} {{:cap2:secoes:pd398979-airplane_instrument_2_1_4_alarm_ef_fuel_tank_level_gauges_gauge_f2_va.jpg?150|}} {{:cap2:secoes:petrol-gauge.jpg?150|}}
 {{:cap2:secoes:boia-tubular-compativel-com-marcador-de-combustivel-nauticos-14480-mlb2755833842_052012-o.jpg?150|}}
 
+{{ :cap2:secoes:gasolina.jpg?200 |}}
+
 (2) Telégrafos náuticos
 
 {{:cap2:secoes:navio.jpg?200|}}  {{:cap2:secoes:engine-order-telegraph-01.jpg?200|}}
