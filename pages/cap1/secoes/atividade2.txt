@@ -4,8 +4,8 @@ EXPLORANDO O ASSUNTO
 
 Objetivos específicos:
 
-  * Levar o aluno a perceber que "um todo" (no caso, uma pizza) pode ser dividido em uma quantidade igual de partes sem que essa divisão represente uma equipartição.
-  * Distinguir uma equipartição (no caso, em quartos) em um conjunto diverso de partições (no caso, em quatro partes).
+  * Levar o aluno a perceber que "um todo" (no caso, uma pizza) pode ser subdividido em uma quantidade igual de partes sem que essa divisão represente uma equipartição.
+  * Distinguir uma equipartição dentre partições diversas.
   * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
 
