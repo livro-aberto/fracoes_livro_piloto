@@ -16,10 +16,17 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 {{ :cap1:secoes:metade_da_metade.jpg?direct&200 |}}
 
 </WRAP>
+
   * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem 4 das 8 imagens (Encarte 1) e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras 4, concluindo a atividade. No segundo encarte será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
 
-
 <hidden OBSERVAÇÕES>
+
+
+Esses retângulos também devem ser confeccionados para encartes a serem reproduzido pelo professor e distribuidos aos alunos. Neste Caso, os retângulos devem estar organizados em duas páginas conforme a ilustração. 
+ {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
+
+
+
 Dúvida: será que 8 não é muito?
 LET: Talvez!
 </hidden>
@@ -27,8 +34,6 @@ LET: Talvez!
 separar em dois grupos de quatro retângulos. Um com os quatro da esquerda onde as divisões são horizontais e verticais, e outras quatro  em que aparecem as divisões obliquas que dão origem a triângulos.
 </hidden>
 
-
-  
 </WRAP>
 
 Quais dos retângulos a seguir foram repartidos em //quartos//?
@@ -36,10 +41,8 @@ Quais dos retângulos a seguir foram repartidos em //quartos//?
 <WRAP imagem> A imagem deve conter oito retângulos **congruentes** coloridos, cada um com uma cor diferente das demais. Os retângulos devem estar divididos em partes conforme a imagem 
 {{ :cap1:secoes:quartos.jpg?direct&200 |}}
 
-<hidden OBSERVAÇÕES>
-Esses retângulos também devem ser confeccionados para encartes a serem reproduzido pelo professor e distribuidos aos alunos. Neste Caso, os retângulos devem estar organizados em duas páginas conforme a ilustração. 
- {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
 </WRAP>
+
 
 
 <hidden Resposta>
@@ -48,4 +51,4 @@ Esses retângulos também devem ser confeccionados para encartes a serem reprodu
 </WRAP>
 </hidden>
 
-</WRAP>
+
