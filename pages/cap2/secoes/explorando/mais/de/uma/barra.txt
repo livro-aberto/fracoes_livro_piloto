@@ -8,7 +8,9 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 
 {{ :cap2:secoes:explorando:mais:de:uma:chocolate-02.jpg?400 |}}
 
+  - Nesta divisão, cada parte é que fração de **uma** barra de chocolate?
   - Você concorda com essa divisão? Explique. 
-  - Com essa divisão, as três irmãs receberam a mesma quantidade de chocolate? 
-  - Cada parte é que fração de **uma** barra de chocolate?
-  - Considerando uma barra inteira de chocolate, como você nomearia a quantidade de chocolate recebida por cada irmã? 
+  - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate? 
+  - Considerando uma barra inteira de chocolate, como você nomearia a quantidade de chocolate recebida por cada irmã?
+  - Se Ana desse o que recebeu de chocolate para Beatriz, como você nomearia a quantidade de chocolate de Beatriz?  
+  - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia a quantidade de chocolate que elas ficariam?   
