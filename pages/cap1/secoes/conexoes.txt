@@ -1,9 +1,9 @@
 
 ===== Conexões =====
-Na História da Humanidade os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.).
-Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, sejam elas inteiras ou parte do inteiro. Por exemplo: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo".
+Na História da Humanidade, os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.).
+Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, sejam elas inteiras ou parte do inteiro. Por exemplo, em: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
 
-Nas atividades realizadas até aqui, pizzas e barras de chocolate foram repartidas. Cada pizza inteira e cada barra de chocolate inteira é chamada de //todo//. 
+Nas atividades realizadas até aqui, barra de chocolate, pizzase barbante foram repartidos. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //todo//. 
 
 Ao dividir um todo qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //metade// do todo. 
 
