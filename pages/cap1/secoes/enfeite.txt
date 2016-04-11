@@ -16,7 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-  * A manipulação e dobra do barbante deve sustentar a discussão para a identificação da fração 1/4 como a metade da metade. Nesse caso, a identificação se dará pela sobreposição das partes. 
+  * A manipulação e dobra do barbante devem sustentar a discussão para a identificação da fração 1/4 como a metade da metade. Nesse caso, a identificação se dará pela sobreposição das partes. 
 
 
 <hidden DUVIDA>
