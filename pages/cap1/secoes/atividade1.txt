@@ -9,20 +9,30 @@ Objetivos específicos:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos. 
-  * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma porção de chocolate, a divisão proposta para a barra de chocolate deve ser em "partes iguais".
+  * Busque conduzir a discussão nos grupos de modo a levar que os estudantes percebam que, para que os irmãos recebam a mesma quantidade de chocolate, a divisão proposta para a barra de chocolate deve ser em "partes iguais".
   * Na discussão, procure destacar que a referência à "divisão em três partes iguais" se dá (igualmente) a partir das expressões "um terço" da barra de chocolate ou "a terça parte" da barra de chocolate.
-  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, que há diferentes representações para a equipartição.
+  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, que há diferentes representações para a equipartição. Por exemplo, 
+
+<WRAP imagem> Sobre a observação INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS.
+<hidden documentação das imagens>
+
+**Inserir 4 (quatro) imagens iguais a da barra de chocolate ilustrativa da atividade, cada uma delas indicando diferentes equipartições em terços. Por exemplo, com os cortes como os sugeridos a seguir:**
+{{ :cap1:secoes:tercos.jpg?direct&100 |}}
+
+</hidden>
+</WRAP>
+
 <hidden OBS>
- Sobre a observação INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS. Não considero necessário.
+
 </hidden>
 </WRAP>
 
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
-<WRAP imagem> 3 irmãos, de idades diferentes, observando uma barra de chocolate retangular (imagem tridimensional) repartida em três partes com tamanhos diferentes.
+<WRAP imagem> Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode ser cadeirante, por exemplo), observando uma única barra de chocolate retangular (preferencialemnte, imagem tridimensional) repartida em três partes com tamanhos diferentes.
 <hidden documentação das imagens>
-**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+**Cada figura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
 </hidden>
 </WRAP>
 
@@ -32,7 +42,7 @@ Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
 
 Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate.
 
-<WRAP imagem> a mesma barra de chocolate retangular (imagem tridimensional) inteira .
+<WRAP imagem> Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apensa a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.
 <hidden documentação das imagens>
 **Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
 </hidden>
