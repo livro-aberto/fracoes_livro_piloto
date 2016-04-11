@@ -1,10 +1,13 @@
+EXPLORANDO O ASSUNTO
+
 <WRAP professor>
 
 Objetivos específicos:
 
+  * Levar o aluno a perceber que "um todo" (no caso, uma pizza) pode ser dividido em uma quantidade igual de partes sem que essa divisão represente uma equipartição.
+  * Distinguir uma equipartição (no caso, em quartos) em um conjunto diverso de partições (no caso, em quatro partes).
   * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
-  * Levar o aluno a perceber ao final desta atividade que "um todo", no caso a pizza,  pode estar dividido em uma quantidade igual de partes, mas se as partes não forem iguais não teremos uma equipartição.
 
 
 
@@ -12,8 +15,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. "A maior quarta parte", "A menor quarta parte", "As quartas partes iguais entre si" "A menor parte" "A maior parte" dentre outras.
-  * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo, portanto, a última questão proposta nesta atividade.
+  * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. "a maior quarta parte", "a menor quarta parte", "as quartas partes iguais entre si", "a menor parte", "a maior parte", dentre outras.
+  * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
 </WRAP>
 
 
@@ -21,7 +24,7 @@ Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de 
 
 Veja como cada grupo repartiu a sua pizza.
 
-<WRAP imagem> 3 GRUPOS DE 4 CRIANÇAS, cada um com uma pizza repartida da seguinte forma, para Grupo 1, Grupo 2 e Grupo 3: 
+<WRAP imagem> A imagem deve conter 3 GRUPOS com 4 CRIANÇAS cada (Diversificar as características físicas das crianças). Cada um dos grupos deve estar observando uma pizza. As pizzas devem ter tamanho e formato equivalentes. As pizzas devemestar repartidas como sugerid pela imagem a seguir: Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} 
 <hidden documentação das imagens>
 **Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Aqui a foto ajuda, mas é preciso dizer ao ilustrador que são discos iguais, divididos em quatro partes cada e ede modo diferente conforme ilustração incluida**
@@ -30,9 +33,9 @@ Veja como cada grupo repartiu a sua pizza.
 
 Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
 
-Dessa maneira, todas as crianças da turma receberam a mesma porção de pizza?
+Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?
 
-Em qual dos grupos as crianças receberam a mesma porção de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
+Em qual dos grupos as crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 
 <hidden Resposta>
