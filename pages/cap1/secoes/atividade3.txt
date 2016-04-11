@@ -1,15 +1,20 @@
 <WRAP professor> 
 Objetivo específico:
-  * Reconhecer que, em uma equipartição, nas quais as partes podem não ter a mesma forma. Porém se recortadas de modo apropriado podem ser recompostas com o mesmo formato das outras. Uma barra de chocolate representada em uma equipartição deste tipo formnecerá pequenos pedaços de chocolate em formatos diferentes, porém com a mesma quantidade de chocolate. 
+  * Reconhecer que em uma equipartição as partes podem não ter a mesma forma. Porém se recortadas de modo apropriado podem ser recompostas com o mesmo formato das outras.  
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos. Assim, cada grupo recebe um encarte com as imagens dos oito retângulos da figura a seguir (disponível para reprodução).
-  * Cada grupo deve decidir qual (ou quais) figuras usariam para repartir em partes iguais entre os participantes do grupo
-  * Os retângulos podem ilustrar barras de chocolate divididas como no modelo da figura, por exemplo.
-  * Cada grupo pode recortar as partes para compará-las por sobreposição. 
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. Cada grupo deve receber um encarte com as imagens dos oito retângulos representados a seguir **(disponível para reprodução - UNIFORMIZAR)**.
+  * Em cada grupo, os alunos devem decidir qual (ou quais) dos retângulos apresentados correspondem a uma partição em quartos. 
+  * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de um todo genérico. 
+  * Recomenda-se que os alunos recortem as partes para realizar a comparação pela sobreposição. 
+  * Segundo a avaliação do professor, a atividade podeser realaizada em duas etapas. Em um primeiro momento, os alunos recebem 4 das 8 imagens (Encarte 1) e realizam a atividade com essas imagens. Em seguida, recebem as outras 4, concluindo a atividade. Neste caso, é importante que o professor, ao final,  
+
+
 <hidden OBSERVAÇÕES>
 Dúvida: será que 8 não é muito?
+LET: Talvez!
+
 </hidden>
 <hidden Sugestão>
 separar em dois grupos de quatro retângulos. Um com os quatro da esquerda onde as divisões são horizontais e verticais, e outras quatro  em que aparecem as divisões obliquas que dão origem a triângulos.
@@ -21,7 +26,7 @@ separar em dois grupos de quatro retângulos. Um com os quatro da esquerda onde 
   * Levar o aluno a reconhecer que as partes têm que corresponder à mesma porção de chocolate, mas não à mesma forma.
 </WRAP>
 
-Quais dos retângulos foram repartidos em //quartos//?
+Quais dos retângulos a seguir foram repartidos em //quartos//?
 
 <WRAP imagem> Oito retângulos divididos em partes conforme a imagem {{ :cap3:quartos.jpg?300 |}}  
 <hidden OBSERVAÇÕES>
