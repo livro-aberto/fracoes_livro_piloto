@@ -40,7 +40,7 @@ local killunknown = Cs( ( C(known) / '%1' + C(P(1)) / '(símbolo desconhecido)' 
 doc = killunknown:match(doc)
 
 local special = P('**') + P('__') + P([[//]]) + P("''") + P('====') + P('$') + P('<WRAP')
-   + P('</WRAP') + P('"') + P([[\\]]) + P('{{') + P('}}') + P('/*') + P('*/')
+   + P('</WRAP') + P('"') + P([[\\]]) + P('{{') + P('}}') + P('/*') + P('*/') + P('<hidden ') + P('</hidden>')
 local harmless = known - special
 
 local simpletext = harmless^1
@@ -57,8 +57,9 @@ local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * token('image', simpletext) * P('}}')
 local comment = P('/*') * token('comment', simpletext + bold + under + italic + mono + quote + newline + simplemath + titlechapter + title + titleless)^0 * P('*/')
+local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + newline + simplemath + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local decotext = bold + under + italic + mono + quote + newline + simplemath + titlechapter + title + titleless + include + image
-                 + comment + token('simple', simpletext)
+                 + comment + hidden + token('simple', simpletext)
 local W = V'W'
 local envname = P('professor') + P('exercicio') + P('resposta') + P('abstrato') + P('conexoes') + P('explorando') + P('imagem') + P('introdutorio') + P('massa') + P('refletindo') + P('figura') + P('nota')
 local wrap = P{
@@ -66,7 +67,9 @@ local wrap = P{
    W = Ct( P('<WRAP ') * Cg( C( envname ), 'type') * P('>') * Cg(P('') / 'wrap', 'tag') * Cg( Ct( ( decotext + (V'W') )^1 ), 'value' ) ) * P('</WRAP>')
 }
 
-local document = Ct( ( decotext + wrap + token('error', known) )^1 )
+local bighidden = P('<hidden ') * token('comment', decotext + wrap)^1 * P('</hidden>')
+
+local document = Ct( ( decotext + wrap + bighidden + token('error', known) )^1 )
 
 --tprint(document:match(doc))
 
