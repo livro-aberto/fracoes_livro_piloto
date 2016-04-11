@@ -4,12 +4,11 @@ Objetivo específico:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-  * Recomenda-se que a atividade seja desenvolvida em grupos de 4 alunos. 
-  * Cada grupo deve receber um pedaço de barbante de, aproximadamente, 1m e os 4 enfeites (todos iguais).  
-  * Os 5 enfeites precisam ser confeccionados antes da realização da tarefa. Sugere-se estrelas, cujos modelos estão disponíveis para reprodução (COMO INDICAR AS PAGINAS PARA REPRODUCAO???). No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
-  * Como sugestão, se possível, solicitar aos alunos que confeccionem os enfeites, por exemplo,associando esse trabalho com geometria, com a abordagem de grandezas e medidas, com a disciplina de artes ou envolvendo culturas artesanais populares.
-  * Nesta atividade, a equipartição do barabante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo.
-
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 4 alunos. 
+  * Cada grupo deve receber um pedaço de barbante de, aproximadamente, 1m e 4 enfeites (todos iguais).  
+  * Os 4 enfeites precisam ser confeccionados antes da realização da tarefa. Sugerem-se estrelas, cujos modelos estão disponíveis para reprodução **(COMO INDICAR AS PAGINAS PARA REPRODUCAO???)**. No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
+  * Como sugestão, se possível, solicitar aos alunos que confeccionem os enfeites, por exemplo, associando esta atividade com geometria, com a abordagem de grandezas e medidas, com a disciplina de artes ou envolvendo culturas artesanais populares.
+  * A equipartição do barabante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo, como ilustrado a seguir.
 <WRAP imagem> Sequência de duas imagens que ilustrem um abarbante sendo dobrado sobre ele mesmo duas vezes sucessivas, até que se obtenha quartos. Por exemplo, como a imagm a seguir:
 
 {{ :cap1:secoes:exemplo_de_dobra.jpg?direct&200 |}}
