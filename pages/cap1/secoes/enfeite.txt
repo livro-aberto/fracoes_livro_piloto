@@ -9,8 +9,15 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Os 5 enfeites precisam ser confeccionados antes da realização da tarefa. Sugere-se estrelas, cujos modelos estão disponíveis para reprodução (COMO INDICAR AS PAGINAS PARA REPRODUCAO???). No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
   * Como sugestão, se possível, solicitar aos alunos que confeccionem os enfeites, por exemplo,associando esse trabalho com geometria, com a abordagem de grandezas e medidas, com a disciplina de artes ou envolvendo culturas artesanais populares.
   * Nesta atividade, a equipartição do barabante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo.
-  * 
-  *     
+
+<WRAP imagem> Sequência de duas imagens que ilustrem um abarbante sendo dobrado sobre ele mesmo duas vezes sucessivas, até que se obtenha quartos. Por exemplo, como a imagm a seguir:
+
+{{ :cap1:secoes:exemplo_de_dobra.jpg?direct&200 |}}
+
+</WRAP>
+
+   
+     
 </WRAP>
 
 Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, precisa cortar o barbante em pedaços iguais. Ajude Ana a cortar o barbante. 
