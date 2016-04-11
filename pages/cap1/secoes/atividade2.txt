@@ -8,6 +8,7 @@ Objetivos específicos:
   * Distinguir uma equipartição dentre partições diversas.
   * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
+  
 
 
 
@@ -17,6 +18,14 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. "a maior quarta parte", "a menor quarta parte", "as quartas partes iguais entre si", "a menor parte", "a maior parte", dentre outras.
   * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
+  *  * Esta atividade pode ser adaptada para alunos com problemas de visão (**ESTA É MELHOR FORMA DE SE REFERIR AOS ALUNS CEGOS?**). Para isso, sugere-se que a reprodução das três pizzas repartidas em materiais diferentes (por exemplo, papel comum e papeis dediferentes texturas) 
+
+<WRAP imagem> INCLUIR a imagem das 3 pizzas repartidas, inteiras e com as resectivas partes isoladas 
+{{ :cap3:pizzas.jpg?300 |}} 
+
+</WRAP>
+
+
 </WRAP>
 
 
@@ -26,9 +35,7 @@ Veja como cada grupo repartiu a sua pizza.
 
 <WRAP imagem> A imagem deve conter 3 GRUPOS com 4 CRIANÇAS cada (Diversificar as características físicas das crianças). Cada um dos grupos deve estar observando uma pizza. As pizzas devem ter tamanho e formato equivalentes. As pizzas devem estar repartidas de três maneiras diferentes, como sugerido pela imagem a seguir: Grupo 1, Grupo 2 e Grupo 3: 
 {{ :cap3:pizzas.jpg?300 |}} 
-<hidden documentação das imagens>
-**Cada figura sugerida deve ser bem documentada para evitar retrabalho. Aqui a foto ajuda, mas é preciso dizer ao ilustrador que são pizzas iguais, divididos em quatro partes cada e e de modo diferente conforme ilustração incluida**
-</hidden>
+
 </WRAP>
 
 Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
