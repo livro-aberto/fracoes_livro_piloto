@@ -13,6 +13,10 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{ :cap1:secoes:exemplo_de_dobra.jpg?direct&200 |}}
 
+
+     
+</WRAP>
+
 <hidden DUVIDA>
 AP:(Uma outra sugestão de enunciado para a atividade)
 
@@ -29,9 +33,8 @@ INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 4 ESTRELAS, para serem recortadas.
 
 </WRAP>
 
-   
-     
 </WRAP>
+
 
 Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, precisa cortar o barbante em pedaços iguais. Ajude Ana a cortar o barbante.
 
