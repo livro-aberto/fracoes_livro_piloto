@@ -6,6 +6,7 @@ Identique quais das figuras a seguir a parte pintada é metade da figura corrspo
 
 {{:cap1:secoes:14586606579591477242402.jpg?700 |}}
 
+
 <hidden APOIO COMPUTACIONAL>
 Aqui seria ótimo ter uma contrapartida computacional: o estudante poderia mover cópias das partes pintadas e visualizar que elas podem ser usadas para montar outras partes vermelhas onde se vê mais facilmente que estas são as frações indicadas no enunciado.
 </hidden>
