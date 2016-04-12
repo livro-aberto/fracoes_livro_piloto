@@ -10,3 +10,8 @@ Recomendações:
 Cada grupo vai receber do professor 10 faixas que devem ser divididas conforme o modelo abaixo e pintada cada uma por uma cor diferente. 
 Observe as faixas abaixo, divididas em 2, 3, 4,5,6 7 8, 9, 10 e 16 partes, todas do mesmo tamanho. Pinte cada uma delas por cor diferente e escreva dentro de cada parte a sua representação por fração unitária.
 {{ :cap3:secoes:faixas_iniciais.png?200 |}}
+Após colorir e nomear as partes, responda:
+a)	Observe que à medida que os números de partes aumentam o denominador da fração unitária diminui. Você pode explicar isso?
+b)	Que fração pode representar as duas primeiras subdivisões da faixa dividida em 3 partes? Você estima que esta fração é maior ou menor que ½?
+c)	Em todas as faixas acima podemos representar a sua metade por uma fração que seja a justaposição de frações unitárias do mesmo tipo das que estão em cada faixa? Indique aquelas que são possíveis.
+
