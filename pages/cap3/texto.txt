@@ -10,5 +10,17 @@
 
 {{page>cap3:secoes:atividade1}}
 
+{{page>cap3:secoes:atividade2}}
+
+{{page>cap3:secoes:atividade3}}
+
+{{page>cap3:secoes:atividade4}}
+
+{{page>cap3:secoes:atividade5}}
+
+{{page>cap3:secoes:atividade6}}
+
+{{page>cap3:secoes:atividade7}}
+
 {{page>cap3:secoes:refletindo}}
 
