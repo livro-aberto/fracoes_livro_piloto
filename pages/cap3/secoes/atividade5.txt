@@ -13,3 +13,16 @@ Esse trabalho deve ser desenvolvido em grupos de 3 ou 4 alunos e deve usar as re
 Na figura abaixo temos faixas com subdivisões do metro em cinco partes. Abaixo destas faixas há um trecho de reta numerada. Para cada faixa, pinte a fração correspondente que está à sua esquerda.
 {{ :cap3:secoes:faixas_quinto_e_reta.jpg?300 |}}
 
+Você pode observar que logo abaixo dos cinco retângulos há uma reta numerada com marcações destacadas por um “retângulo” azul.
+
+a)	Cada uma das frações deve ser escrita no “retângulo” azul, logo abaixo da reta numerada na posição que você considere mais conveniente.
+
+b)	Qual a relação entre o tamanho da faixa, a fração que a representa e a posição desta fração na reta numerada?
+
+c)	Se pintamos todos os retângulos da faixa que fração representará este caso?
+
+d)	Localize esta fração na reta numerada.
+
+
+
+
