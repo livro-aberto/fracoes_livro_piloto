@@ -2,4 +2,4 @@ Lembre-se dos termos "meio", "terço", "quarto" e "quinto" estudados na lição 
 
 <WRAP imagem>
 {{ :cap2:secoes:20160412_144632.jpg?200 |}}
-</WRAP imagem>
+</WRAP>
