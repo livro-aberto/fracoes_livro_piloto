@@ -10,3 +10,4 @@ Um grupo de cinco amigos encomendou três tortas salgadas para uma comemoração
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho oo seu caderno mostrando sua proposta de divisão.
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é menor do que dois quintos de torta? Explique sua resposta.
+  - Como você nomearia a quantidade de torta que cada amigo recebeu usando a linguagem de frações? 
