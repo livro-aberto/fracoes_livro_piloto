@@ -2,9 +2,13 @@
 <WRAP professor>
 Neste capítulo retomamos as ideias de divisão do “todo” em partes iguais. Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. 
 Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro. Neste capitulo ainda usaremos a justaposição de frações unitárias, de um mesmo tipo, para construir as frações gerais. Algumas atividades aqui propostas exploram esta ideia em modelos visuais contínuos. Os modelos associam por justaposição as frações unitárias de modo a chegar as representações não unitárias do tipo a/b. Desse modo construímos com os modelos contínuos a associação entre a unidade e o número 1.
+
 O passo seguinte e que é a principal ideia deste capitulo é a representação das frações na reta numerada. A unidade nos trouxe o um e as equipartições da unidade exibem os valores fracionários na reta numerada. Ainda continuamos a usar os modelos contínuos para nos ajudar a entender as representações fracionárias, as comparações e a equivalência e principalmente localizar as frações na reta.  
+
 As muitas partições possíveis para a unidade nos ajuda a entender a relação entre as frações gerais a/b e a reta numérica. Até aqui nossa reta numérica era “povoada” pelos números Naturais 0, 1, 2, 3 e assim por diante. Agora vamos introduzir as frações na reta. Mais tarde aprenderemos que todos esses números fracionários mais os Naturais fazem parte de um conjunto que denominamos Racionais. Mas o nosso aluno não necessita desta informação agora. Ele precisa entender que as frações também representam um número.
+
 Para esta representação continuaremos usando as ideias de divisão da unidade em partes iguais. Na reta não destacamos as partes da unidade, mas os pontos da reta que as representam. A reta numerada é como uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
+
 É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações.
 
 
