@@ -26,6 +26,9 @@
 
 {{page>cap3:secoes:atividade5}}
 
+===== - Atividade =====
+
+{{page>cap3:secoes:atividade6}}
 
 {{page>cap3:secoes:refletindo}}
 
