@@ -34,6 +34,11 @@ Estrutura de capítulos versão 1:
 ====== Introdução para o estudante ======
 
 
-<hidden OBSERVAÇÕES DO HUMBERTO>
-Fraçõoes é um assunto onde aparecem números que os alunos não estão acostumados a ver no seu dia-a-dia. Tirando as frações canônicas: $1/2$, $1/4$, $3/4$, ..., as demais frações não são usadas. Números decimais e porcentagens são empregados no lugar.
+<hidden OBSERVAÇÕES>
+**HB:** 
+    * Frações é um assunto onde aparecem números que os alunos não estão acostumados a ver no seu dia-a-dia. Tirando as frações canônicas: $1/2$, $1/4$, $3/4$, ..., as demais frações não são usadas. Números decimais e porcentagens são empregados no lugar.
+
+**FS:**
+    * Lembrar de avisar que existe um anexo ao final do livro que é material para reprodução. Ao longo do texto faremos referência a este material simplesmente informando que está disponível no final do livro. 
 </hidden>
+
