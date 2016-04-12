@@ -11,3 +11,14 @@ A ideia é ainda continuar usando as faixas para reafirmar que só uma boa escol
 
 Na figura abaixo temos faixas divididas em 3, 4 e 5 partes. 
 {{ :cap3:secoes:figura_iniciaal.jpg |}}
+
+Compare cada uma delas com a parte que sobrou na atividade anterior.  
+Qual a melhor subdivisão nesse caso?
+Explique com suas palavras a sua escolha.
+
+Observe as faixas abaixo e em cada caso dê uma representação fracionária relacionada a cada uma das faixas, observando a subdivisão proposta.
+
+{{ :cap3:secoes:faixas_ate_2.png |}}
+
+
+
