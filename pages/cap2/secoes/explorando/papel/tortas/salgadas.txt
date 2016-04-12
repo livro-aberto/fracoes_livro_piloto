@@ -8,6 +8,10 @@ Não esquecer de escrever aqui para o professor
 
 Um grupo de cinco amigos encomendou três tortas salgadas para uma comemoração.
 
+<WRAP imagem>
+Incluir imagem de tortas retag
+</WRAP>
+
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão.
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é menor do que dois quintos de torta? Explique sua resposta.
