@@ -1,5 +1,3 @@
-==== EXPLORANDO O ASSUNTO ====
-
 <WRAP professor> 
 Objetivos específicos: 
   * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
