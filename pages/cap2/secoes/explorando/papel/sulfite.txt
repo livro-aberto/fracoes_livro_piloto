@@ -1,9 +1,9 @@
 ====Atividade====
 
-<wrap professor>
+<WRAP professor>
 Não esquecer de falar de:
   * Espera-se que no final da atividade o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos.
-</wrap>
+</WRAP>
 
 Um grupo de oito amigos enconmendou três tortas salgadas para uma comemoração.
 
