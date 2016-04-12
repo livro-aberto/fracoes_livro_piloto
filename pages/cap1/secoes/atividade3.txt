@@ -10,7 +10,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Em cada grupo, os alunos devem decidir qual (ou quais) das divisões propostas para os retângulos correspondem a uma partição em quartos. É importante observar que todos os retângulos estão divididos em quartos.
   * Conduza a discussão de modo a levar os alunos a reconhecer que, em uma equipartição, as partes não precisam ter a mesma forma.   
   * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de um todo genérico. 
-  * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metdade da metade. Por exmplo, como no caso seguir.
+  * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metdade da metade. Por exemplo, como no caso seguir.
 
 <WRAP imagem> Incluir imagem como a exemplificada a seguir, inclusive com os comentários indicados
 {{ :cap1:secoes:metade_da_metade.jpg?direct&200 |}}
