@@ -6,10 +6,6 @@
 
 ===== - Atividade =====
 
-{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
-
-===== - Atividade =====
-
 {{page>cap2:secoes:explorando:mais:de:uma:barra}}
 
 ===== - Atividade =====
@@ -24,6 +20,10 @@
 {{page>cap2:secoes:conexoes}}
 
 {{page>cap2:secoes:abstrato}}
+
+===== - Atividade =====
+
+{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
 
 ===== - Atividade =====
 
