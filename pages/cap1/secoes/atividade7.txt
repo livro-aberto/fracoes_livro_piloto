@@ -10,26 +10,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Durante a discussão, os alunos devem ser estimulados a explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à terça parte do todo correspondente será fundamental para atingir o objetivo da atividade.
   * O aluno deve reconhecer que, independente do todo considerado, em uma equipartição em 3 partes, cada uma das partes é um terço (ou a terça parte) do todo.
   * Aproveite as próprias palavras e os argumentos dos alunos para conduzi-los às conclusões esperadas.
-  * Fique atento aos alunos que selecionarem as figuras que simplesmente possuem alguma associação com o número 3. Por exemplo, um aluno que associe a **Figura ZZ** a terços pode, por exemplo, ainda não ter compreendido a necessidade da equipartição. Já o aluno que associa **Figura ZZ** a terços pode simplemente estar contando as partes em vermelho sem que tenha reconhecido que, na verdade, o todo deveria estar sendo dividido em 3 partes iguais e não em 5. 
-  * 
-  * só está   , chame a atenção para o fato de que terço está associado a uma **partição** em 3 partes iguais.   
+  * Fique atento aos alunos que selecionarem as figuras que simplesmente possuem alguma associação com o número 3. Por exemplo, um aluno que associe a **Figura ZZ** a terços pode, por exemplo, ainda não ter compreendido a necessidade da equipartição. Já o aluno que associa **Figura ZZ** a terços pode estar simplesmente contando as partes em vermelho, sem que tenha reconhecido que o todo deveria estar dividido em 3 partes iguais e não em 5. 
+   
 </WRAP>
 
 
 
 Em quais das figuras a seguir, a parte em vermelho é um terço da figura?
-
-
+**
+SUBSTITUIR IMAGEM 
+**
 {{ :cap1:secoes:rec_tercos.jpg?direct&500 |}}
 
 
 <hidden DÚVIDAS>
 **Humberto**: 
-
-(1) Que tal mudar a pergunta para: "Em quais das imagens a seguir, a parte em vermelho é um terço da figura correspondente?
-
-AP: ok
-LET: alterado
 
 (2) Eu acho as figuras dos quadradinhos um salto aqui, pois elas não estão no contexto das frações unitárias.
 
