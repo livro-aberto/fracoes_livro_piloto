@@ -19,14 +19,17 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
   * Espera-se que o aluno reconheça que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.   
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item. 
 
-</WRAP>
-
 
 <hidden OBSERVAÇÂO>
 AP: Devemos definir quais são as atividades (tarefas que devem ser desenvolvidas com mediação do professor para desenvolvimento dos conceitos) e quais são os exercícios (tarefas que o aluno deve desenvolver para retomada dos conceitos trabalhados e fixação). 
 LET: Concordo. Havíamos definido que haveria seções específicas  - MAS ELAS AINDA NÃO ESTÃO CLARAS!.
 
 </hidden>
+
+
+</WRAP>
+
+
 
 **EXERCÍCIO 1**
 
