@@ -1,7 +1,7 @@
 <WRAP professor> Sugere-se utilizar o material para reprodução disponível no final do livro. O principal objetivo desta atividade é conduzir o estudante a usar a linguagem verbal de **frações impróprias**, 10 oitavos, a partir da composição de frações unitárias. Isto é feito no item d abaixo. No item c espera-se que o estudante relacione as frações 4 oitavos de uma torta e meia torta. Embora seja mais simples para ele resolver o problema de modo puramente numérico, observando que 4 fatias é metade das 8 fatias que compõem a torta, sugere-se que a ênfase seja dada a comparação de quantidades. No item e espara-se que o estudante observe que há mais de uma maneira de se representar a fração do item anterior.
 </WRAP>
 
-Para a sobremesa do almoço de domingo papai passou numa confeitaria onde as tortas estavam divididas em 8 fatias como na figura abaixo. Use a linguagem de frações para responder às perguntas:
+Para a sobremesa do almoço de domingo papai passou numa confeitaria onde as tortas estavam divididas em 8 fatias como na figura abaixo. 
 
 <WRAP imagem> Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria.
 </WRAP>
