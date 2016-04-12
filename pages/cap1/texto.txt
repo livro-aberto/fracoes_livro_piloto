@@ -6,6 +6,9 @@
 page>cap1:secoes:intro
 */
 
+
+{{page>cap1:secoes:explorando_o_assunto}}
+
 ===== - Atividade =====
 
 {{page>cap1:secoes:atividade1}}
