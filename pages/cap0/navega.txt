@@ -40,5 +40,6 @@ Estrutura de capítulos versão 1:
 
 **FS:**
     * Lembrar de avisar que existe um anexo ao final do livro que é material para reprodução. Ao longo do texto faremos referência a este material simplesmente informando que está disponível no final do livro. 
+    * Devemos observar que na lição 1 trabalhamos com parte-todo, na lição 2 usamos parte-todo para dividir mais de um objeto para $n$ pessoas, mas o objeto ainda é o todo a que se referem as frações.
 </hidden>
 
