@@ -11,7 +11,7 @@ O professor deve observar aqui que ainda teremos respostas que serão equivalent
 
 </WRAP>
 Com a orientação do professor construa duas faixas (uma amarela e outra rosa) com 1m de comprimento cada. Em cada uma delas faça duas dobras de modo a dividir a unidade de 1m em quatro partes. Recorte cada uma das partes de uma das faixas (rosa).
-{{ :cap3:secoes:faixas.jpg |}}
+{{ :cap3:secoes:faixas.jpg?300 |}}
 
 Agora que você já tem os “pedaços” rosa e a faixa completa amarela, responda:
 
