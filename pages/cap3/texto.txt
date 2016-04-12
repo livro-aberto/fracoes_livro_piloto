@@ -10,6 +10,8 @@
 
 {{page>cap3:secoes:atividade1}}
 
+===== - Atividade =====
+
 {{page>cap3:secoes:atividade2}}
 
 {{page>cap3:secoes:atividade3}}
