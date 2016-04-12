@@ -25,7 +25,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade3}}
+{{page>cap1:secoes:ativ_retangulos_coloridos}}
 
 ===== - Atividade =====
 
