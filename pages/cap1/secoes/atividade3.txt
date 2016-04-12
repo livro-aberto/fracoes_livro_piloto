@@ -12,6 +12,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de um todo genérico. 
   * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metdade da metade. Por exemplo, como no caso seguir.
 
+**Alterar imagem**
+
 <WRAP imagem> Incluir imagem como a exemplificada a seguir, inclusive com os comentários indicados
 {{ :cap1:secoes:metade_da_metade.jpg?direct&200 |}}
 
