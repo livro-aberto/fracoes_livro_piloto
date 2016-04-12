@@ -1,1 +1,13 @@
 ==== Frações: a fração como uma subdivisão da unidade ====
+
+<WRAP professor>
+Objetivos específicos:
+Aprofundar a ideia de divisão do inteiro e associá-las às representações 1/b e a/b
+
+Recomendações:
+Peça para os alunos construírem com papel A4 duas faixas de 1m de comprimento e por dupla dobra uma divisão destas unidades em quatro partes.  Ao cortar uma delas cada aluno poderá comparar cada parte com a fração unitária ¼ e por justaposição faz partes visualizar 2/4, ¾ e 4/4.
+
+O professor deve observar aqui que ainda teremos respostas que serão equivalentes e outras abertas que devemos esperar diversas respostas.
+
+
+</WRAP>
