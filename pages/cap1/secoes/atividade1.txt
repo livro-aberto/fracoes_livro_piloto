@@ -23,7 +23,7 @@ Inserir 4 (quatro) imagens iguais a da barra de chocolate ilustrativa da ativida
 <hidden OBS>
 NECESSITA PÁGINA DE REPRODUÇÃO 
 <WRAP imagem> Imagens: exatamente a barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamdente (como no exemplo). 
-  {{ :cap1:secoes:chocolate_1.jpg?direct&200 |}} e {{ :cap1:secoes:chocolate_2.jpg?direct&200 |}}
+  {{ :cap1:secoes:chocolate_2.jpg?200 |}}  {{ :cap1:secoes:chocolate_3.jpg?200 |}}
 </WRAP>
 
 </hidden>
@@ -33,7 +33,7 @@ NECESSITA PÁGINA DE REPRODUÇÃO
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
 <WRAP imagem> Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode ser cadeirante, por exemplo), observando uma única barra de chocolate retangular (preferencialemnte, imagem tridimensional sem subdivisões) repartida em três partes com tamanhos diferentes. Por exemplo:
-{{ :cap1:secoes:chocolate_1.jpg?direct&200 |}}
+{{ :cap1:secoes:chocolate_2.jpg?200 |}} 
 
 </WRAP>
 
