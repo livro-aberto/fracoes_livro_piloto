@@ -3,3 +3,7 @@ Lembre-se dos termos "meio", "terço", "quarto" e "quinto" estudados na lição 
 <WRAP imagem>
 {{ :cap2:secoes:20160412_144632.jpg?600 |}}
 </WRAP>
+
+<hidden OBS>
+**FS:** Na minha opinião esta atividade deveria ser a primeira da seção Explorando, mesmo que precisemos tornar as figuras mais fáceis de identificar. O motivo é que esta questão fazer o estudante relacionar a linguagem que ele já tinha de frações unitárias em um novo contexto. A questão das duas barras de chocolate exige que o estudante **se expresse com a linguagem** de frações não unitárias, esta exige que o estudante **associe a linguagem** de frações não unitárias com modelos visuais, quero dizer, se ele sabe o que é um //terço// não terá dificuldade em identificar dois //terços//.
+</hidden>
