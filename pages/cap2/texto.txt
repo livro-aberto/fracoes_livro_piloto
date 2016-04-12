@@ -1,9 +1,5 @@
 {{page>cap2:secoes:preambulo}}
 
-===== Explorando =====
-
-===== - Atividade =====
-
 {{page>cap2:secoes:intro}}
 
 {{page>cap2:secoes:conexoes}}
