@@ -6,18 +6,18 @@ Objetivo específico:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. Cada grupo deve receber as imagens dos oito retângulos, disponíveis para reprodução **(Inserir LINK de página para reprodução)** e colorí-los, cada um com uma cor diferente das demais.
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. Cada grupo deve receber as imagens dos oito retângulos, disponíveis para reprodução **(Inserir LINK de página para reprodução)** e colorí-las, cada um com uma cor diferente das demais.
   * Em cada grupo, os alunos devem decidir qual (ou quais) das divisões propostas para os retângulos correspondem a uma partição em quartos. É importante observar que todos os retângulos estão divididos em quartos.
   * Conduza a discussão de modo a levar os alunos a reconhecer que, em uma equipartição, as partes não precisam ter a mesma forma.   
   * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de um todo genérico. 
-  * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, é importante observar que essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metdade da metade. Por exmplo, na imagem a seguir.
+  * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metdade da metade. Por exmplo, como no caso seguir.
 
 <WRAP imagem> Incluir imagem como a exemplificada a seguir, inclusive com os comentários indicados
 {{ :cap1:secoes:metade_da_metade.jpg?direct&200 |}}
 
 </WRAP>
 
-  * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem quatro das oito imagens, Página A, e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras quatro, para concluir a atividade. Para as figuras da página 2, será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
+  * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem quatro das oito imagens, Página A, e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras quatro, para concluir a atividade. Para as figuras da Página B, será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
 
 <hidden OBSERVAÇÕES>
 
@@ -26,12 +26,8 @@ Esses retângulos também devem ser confeccionados para encartes a serem reprodu
  {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
 
 
-
-Dúvida: será que 8 não é muito?
-LET: Talvez!
 </hidden>
 <hidden Sugestão>
-separar em dois grupos de quatro retângulos. Um com os quatro da esquerda onde as divisões são horizontais e verticais, e outras quatro  em que aparecem as divisões obliquas que dão origem a triângulos.
 </hidden>
 
 </WRAP>
