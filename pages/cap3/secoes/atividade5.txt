@@ -1,12 +1,9 @@
-==== Atividade ====
-/* EXERCÍCIO 1 */
-
-Atividade 3
+==== Frações: seu lugar é na reta numerada ====
 
 <WRAP professor> 
-Objetivos específicos: 
-(i) Identificar uma divisão em partes "iguais"; 
-(ii) compreender as expressões metade, terço/terça parte e quarto/quarta parte como modos de nomear partes de uma equipartição
+Objetivos específicos:
+Utilizar as atividades anteriores para estabelecer uma relação entre a unidade e o número 1 da reta e assim localizar as frações do tipo 1/b e a/b na mesma reta.
+Recomendações:
+Esse trabalho deve ser desenvolvido em grupos de 3 ou 4 alunos e deve usar as representações das frações obtidas nas atividades anteriores deste capítulo.
 
-Recomendações: Atividade a ser realizada em grupos: grupos de 3 ou 4 alunos 
 </WRAP>
