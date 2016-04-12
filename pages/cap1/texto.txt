@@ -19,7 +19,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:enfeite}}
+{{page>cap1:secoes:ativ_enfeite}}
 
 {{page>cap1:secoes:conexoes}}
 
