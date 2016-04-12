@@ -19,16 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * A manipulação e a dobra do barbante devem sustentar a discussão para a identificação da "metade da metade" com a "quarta parte" do barbante. Nesse caso, a identificação se dará pela sobreposição das partes. 
 
 
-<hidden DUVIDA>
-AP:(Uma outra sugestão de enunciado para a atividade)
-
-Em grupo, confeccione 4 enfeites para sua sala. Para prender os enfeites, vocês receberão um pedaço de barbante que deverá ser dividido em partes iguais. 
-Descreva como vocês dividiram o barbante em partes iguais. Como chama-se cada uma dessas partes?
-
-LET: A ideia de confeccionar os enfeites pode seguir como sugestão ao professor e, em uma versão futura, estar até associada a uma atividade de geometria. 
-</hidden>
-
-<hidden OBS>
+<WRAP OBS>
 INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 4 ESTRELAS, para serem recortadas.
 {{ :cap1:enfeites_de_natal.jpg?direct&300 |}}
 </hidden>
