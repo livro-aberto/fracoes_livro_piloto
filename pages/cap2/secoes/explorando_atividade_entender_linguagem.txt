@@ -1,0 +1,5 @@
+Lembre-se dos termos "meio", "terço", "quarto" e "quinto" estudados na lição anterior e, em cada uma das figuras, associe a fração da figura que está pintada em vermelho.
+
+<WRAP imagem>
+{{ :cap2:secoes:20160412_144632.jpg?200 |}}
+</WRAP imagem>
