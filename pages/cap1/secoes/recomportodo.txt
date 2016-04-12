@@ -11,4 +11,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
     * Estimule o aluno a, a partir da identificação da fração unitária, determinar a quantidade de partes necessárias para recompor o todo.
 </WRAP>
 
+**imagem a ser alterada**
+
 {{ :cap1:secoes:completar-o-todo.jpg?500 |}}
