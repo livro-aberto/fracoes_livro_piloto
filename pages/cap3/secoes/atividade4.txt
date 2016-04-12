@@ -8,3 +8,6 @@ A ideia é ainda continuar usando as faixas para reafirmar que só uma boa escol
 
 
 </WRAP>
+
+Na figura abaixo temos faixas divididas em 3, 4 e 5 partes. 
+{{ :cap3:secoes:figura_iniciaal.jpg |}}
