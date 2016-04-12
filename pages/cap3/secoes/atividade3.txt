@@ -10,3 +10,15 @@ Peça para os alunos construírem com papel A4 faixas de 1m de comprimento e por
 O professor refazer esta atividade com outras divisões para o inteiro. A ideia principal é começar a aparecer frações maiores que a unidade. Distribua aos alunos faixas com tamanhos maiores que 1 m e previamente preparadas para que tenham tamanhos que sejam múltiplos da divisão “b”. Por exemplo, na atividade inicial damos sequência à divisão em quatro partes e propomos uma faixa com sobra de ¼, ou seja, nesse caso uma faixa de 1m e 25cm.
 
 </WRAP>
+
+Na atividade anterior você escreveu a representação para diversas frações, escreva cada uma delas em seu caderno.
+
+a)	Vamos tentar ordená-las em ordem crescente?
+
+b)	Observando a faixa o que podemos afirmar sobre a fração 2/4 obtida por justaposição de dois pedaços de faixas rosas?
+
+Agora considere a faixa da figura abaixo: 
+
+{{ :cap3:secoes:faixa_maior_que_1.jpg?300 |}}
+
+
