@@ -32,3 +32,8 @@ Estrutura de capítulos versão 1:
     * Lição 9: Divisão e medida.
 
 ====== Introdução para o estudante ======
+
+
+<hidden OBSERVAÇÕES DO HUMBERTO>
+Fraçõoes é um assunto onde aparecem números que os alunos não estão acostumados a ver no seu dia-a-dia. Tirando as frações canônicas: $1/2$, $1/4$, $3/4$, ..., as demais frações não são usadas. Números decimais e porcentagens são empregados no lugar.
+</hidden>
