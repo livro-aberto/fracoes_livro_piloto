@@ -1,6 +1,16 @@
 {{page>cap2:secoes:preambulo}}
 
-{{page>cap2:secoes:intro}}
+/*{{page>cap2:secoes:intro}}*/
+
+===== Explorando =====
+
+===== - Atividade =====
+
+{{page>cap2:secoes:explorando:mais:de:uma:barra}}
+
+===== - Atividade =====
+
+{{page>cap2:secoes:explorando:papel:sulfite}}
 
 ===== - Atividade =====
 
