@@ -2,7 +2,7 @@
 
 /*{{page>cap2:secoes:intro}}*/
 
-===== Explorando =====
+{{page>cap2:secoes:explorando_intro}}
 
 ===== - Atividade =====
 
