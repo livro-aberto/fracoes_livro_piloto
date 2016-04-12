@@ -10,7 +10,8 @@
 
 ===== - Atividade =====
 
-{{page>cap2:secoes:explorando:papel:sulfite}}
+{{page>cap2:secoes:explorando:papel:tortas:salgadas}}
+
 
 ===== - Atividade =====
 
