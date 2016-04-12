@@ -16,4 +16,5 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 
 <hidden FS: OBS>
     * Neste momento, o estudante não conhece a linguagem "dois terços", por isso, na pergunta 4, sugiro perguntar primeiro que fração de uma barra é uma das três partes em que ela foi dividida (em símbolo e nominal) para depois perguntar quanto cada uma das meninas recebeu de uma barra. A espectativa é que os estudantes respondam "dois terços" ou "dois um terços". Isso levantaria a bola para o professor marcar.
+    * Colocar os nomes das meninas em cada parte do chocolate.
 </hidden>
