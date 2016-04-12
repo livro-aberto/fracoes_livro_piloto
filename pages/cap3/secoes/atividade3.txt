@@ -1,1 +1,12 @@
 ==== Frações: a comparação entre frações com a mesma subdivisão da unidade ====
+
+<WRAP professor>
+Objetivos específicos:
+Desejamos que para uma mesma divisão da unidade em b partes o aluno seja capaz de comparar frações do tipo 1/b e a/b, com b>a>1 ou a>b.
+
+Recomendações:
+Peça para os alunos construírem com papel A4 faixas de 1m de comprimento e por dobras diversas obtenha uma divisão destas unidades em “b” partes.  Uma vez escolhido o b organize discussões em sala de modo que o aluno perceba o significado das “b” partes na representação fracionárias. Agora vamos utilizar faixas com “sobras” além do 1 metro. Inicialmente tomaremos cuidado para que as sobras representem um múltiplo das “b” partes.
+
+O professor refazer esta atividade com outras divisões para o inteiro. A ideia principal é começar a aparecer frações maiores que a unidade. Distribua aos alunos faixas com tamanhos maiores que 1 m e previamente preparadas para que tenham tamanhos que sejam múltiplos da divisão “b”. Por exemplo, na atividade inicial damos sequência à divisão em quatro partes e propomos uma faixa com sobra de ¼, ou seja, nesse caso uma faixa de 1m e 25cm.
+
+</WRAP>
