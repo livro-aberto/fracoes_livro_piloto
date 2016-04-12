@@ -1,6 +1,3 @@
-
-====Atividade====
-
 <WRAP professor>
 Não esquecer de escrever aqui para o professor 
   * Espera-se que no final da atividade o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que este não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor.
