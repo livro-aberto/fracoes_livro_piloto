@@ -15,7 +15,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade2}}
+{{page>cap1:secoes:ativ_equiparticao2}}
 
 ===== - Atividade =====
 
