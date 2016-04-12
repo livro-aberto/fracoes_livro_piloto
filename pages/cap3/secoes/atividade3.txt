@@ -22,4 +22,19 @@ Agora considere a faixa da figura abaixo:
 {{ :cap3:secoes:parte_que_sobra.jpg?300 |}}
 
 
+Observe a figura e responda:
+
+a)	O que podemos afirmar sobre a parte que sobra após a unidade considerada de 1m?
+
+b)	O que você sugere para representar a parte que “sobra”?
+
+c)	Usando a ideia de subdivisão do inteiro em frações unitárias e usando a sobreposição da fração unitária ¼ sobre a faixa completa qual a fração obtida?
+
+d)	O que essa fração tem de diferente das frações anteriores deste capítulo?
+
+e)	Se nós incluirmos esta última fração na sequência do item (a) qual a posição que ela ocuparia?
+
+f)	O que de diferente podemos destacar nessa fração em relação às demais?
+
+
 
