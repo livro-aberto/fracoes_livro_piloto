@@ -2,6 +2,8 @@
 
 {{page>cap2:secoes:intro}}
 
+===== - Atividade =====
+
 {{page>cap2:secoes:atividade_tortas_improprias}}
 
 {{page>cap2:secoes:conexoes}}
