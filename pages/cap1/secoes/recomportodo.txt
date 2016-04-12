@@ -6,7 +6,7 @@ Objetivo específico:
 Recomendações e sugestões para o desenvolvimento da atividade:
     * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
     * É importante ter em mente que existem várias soluções para cada item. Por exemplo, o item 
-{{ :cap1:secoes:recompor_o_todo_1.jpg?200 |}} poderia ser corretamente respondido por: {{ :cap1:secoes:recompor_o_todo_2.jpg?200 |}}.
+{{ :cap1:secoes:recompor_o_todo_1.jpg?200 |}} pode ser corretamente respondido por: {{ :cap1:secoes:recompor_o_todo_2.jpg?200 |}}.
     * Estimule o aluno a, a partir da identificação da fração unitária, determinar a quantidade de partes necessárias para recompor o todo.
 </WRAP>
 
