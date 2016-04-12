@@ -1,5 +1,0 @@
-===== Explorando =====
-
-{{page>cap2:secoes:explorando:mais:de:uma:barra}}
-
-{{page>cap2:secoes:explorando:papel:sulfite}}
