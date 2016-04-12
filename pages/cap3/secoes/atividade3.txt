@@ -19,6 +19,7 @@ b)	Observando a faixa o que podemos afirmar sobre a fração 2/4 obtida por just
 
 Agora considere a faixa da figura abaixo: 
 
-{{ :cap3:secoes:faixa_maior_que_1.jpg?300 |}}
+{{ :cap3:secoes:parte_que_sobra.jpg?300 |}}
+
 
 
