@@ -11,4 +11,5 @@ Esse trabalho deve ser desenvolvido em grupos de 3 ou 4 alunos e deve usar as re
 
 </WRAP>
 Na figura abaixo temos faixas com subdivisões do metro em cinco partes. Abaixo destas faixas há um trecho de reta numerada. Para cada faixa, pinte a fração correspondente que está à sua esquerda.
-{{ :cap3:secoes:faixas_quinto_e_reta.jpg |}}
+{{ :cap3:secoes:faixas_quinto_e_reta.jpg?300 |}}
+
