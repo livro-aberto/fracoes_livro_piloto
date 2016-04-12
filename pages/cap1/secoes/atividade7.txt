@@ -7,9 +7,10 @@ Objetivo específico:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
-  * Os alunos devem explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à terça parte do todo seráfundamental para se atinja o objetivo da atividade.  
-  * Nesta atividade, é importante que o aluno perceba que uma parte da equipartição em 3 partes é sempre um terço ou terça parte independente do todo considerado. 
-  * Fique atento aos alunos que selecionarem as figuras que simplesmente possuem uma associação com o número 3, chame a atenção para o fato de que terço está associado a uma **partição** em 3 partes iguais.   
+  * Os alunos devem explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à terça parte do todo correspondente será fundamental para atingir o objetivo da atividade.
+  * Nesta atividade, é importante que o aluno reconheça que, independente do todo considerado, em uma equipartição em 3 partes, cada uma das partes é um terço (ou a terça parte) do todo. 
+  * Aproveite a próprias palavras e os argumentos dos alunos para conduzi-los às conclusões esperadas.
+  * Fique atento às identificações equivocadas por parte dos alunos. Por exemplo, um aluno que associe a figura 1  Fique atento aos alunos que selecionarem as figuras que simplesmente possuem uma associação com o número 3, chame a atenção para o fato de que terço está associado a uma **partição** em 3 partes iguais.   
 </WRAP>
 
 
