@@ -1,5 +1,10 @@
 ====Atividade====
-  
+
+<wrap professor>
+Não esquecer de falar de:
+  * Espera-se que no final da atividade o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos.
+</wrap>
+
 Um grupo de oito amigos enconmendou três tortas salgadas para uma comemoração.
 
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho oo seu caderno mostrando sua proposta de divisão.
