@@ -16,18 +16,16 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. "a maior quarta parte", "a menor quarta parte", "as quartas partes iguais entre si", "a menor parte", "a maior parte", dentre outras.
-  * Procure levar os alunos a perceberem que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
-  *  * Esta atividade pode ser adaptada para alunos com problemas de visão (**ESTA É MELHOR FORMA DE SE REFERIR AOS ALUNS CEGOS?**). Para isso, sugere-se que a reprodução das três pizzas repartidas em materiais diferentes (por exemplo, papel comum e papeis dediferentes texturas) 
+  * É possível que os alunos utilizem expressões variadas para nomear as partes de pizzas em cada divisão. Por exemplo, "a maior quarta parte", "a menor quarta parte", "as quartas partes iguais entre si", "a menor parte", "a maior parte", dentre outras. É mportante que a discussão conduza os alunos ao entendimento de que apenas as partes da equipartição podem ser chamadas de "quartos" da pizza, as demais são simplesmente fatias ou pedaços. 
+  * Os alunos devem reconhecer que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
+  * Essa atividade pode ser adaptada para alunos com necessidades especiais de visão. Para isso, sugere-se confeccionar os modelos das três pizzas repartidas, que estão disponíveis para reprodução (Inserir LINK de página para reprodução), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado. 
 
 <WRAP imagem> INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas. 
 {{ :cap3:pizzas.jpg?300 |}} 
 
 </WRAP>
 
-
 </WRAP>
-
 
 Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de uma turma. Para isso, a turma foi dividida em três grupos com quatro crianças e cada grupo repartiu uma das pizzas. 
 
