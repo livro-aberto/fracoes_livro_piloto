@@ -45,7 +45,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade6}}
+{{page>cap1:secoes:ativ_terco_metade}}
 
 ===== - Atividade =====
 
