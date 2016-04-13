@@ -29,9 +29,6 @@ LET: Concordo. Havíamos definido que haveria seções específicas  - MAS ELAS 
 </WRAP>
 
 
-
-**EXERCÍCIO 1**
-
 (A) Pinte metade do quadrado a seguir.
 {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
