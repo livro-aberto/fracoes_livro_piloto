@@ -8,7 +8,7 @@
 
 ===== - Atividade =====
 
-{{page>cap8:secoes:atividade1}}
+{{page>cap8:secoes:ativ_teste}}
 
 {{page>cap8:secoes:refletindo}}
 
