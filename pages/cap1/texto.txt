@@ -41,11 +41,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:exercicio2}}
-
-===== - Atividade =====
-
-{{page>cap1:secoes:exercicio3}}
+{{page>cap1:secoes:ativ_hexag}}
 
 ===== - Atividade =====
 
