@@ -73,7 +73,7 @@ page>cap1:secoes:abstrato
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade10}}
+{{page>cap1:secoes:ativ_pintura}}
 
 /*
 page>cap1:secoes:atividade11
