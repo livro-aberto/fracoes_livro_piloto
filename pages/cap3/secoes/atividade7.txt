@@ -1,13 +1,11 @@
-==== Atividade ====
-/* ATIVIDADE 4 */
+==== Frações: comparando frações unitárias ====
+
 
 <WRAP professor> 
-Objetivo específicos: Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma
+Objetivos específicos:
+Utilizar faixas para compreender a comparação entre frações unitárias diferentes. Na forma 1/b. Estimar a localização de cada fração unitária na reta
 
-Recomendação: Realizar em grupos de 4 alunos, deixar as crianças cortarem as partes para compará-las. 
-Cada aluno deve receber um encarte em que estejam as imagens de de barras de chocolate para avaliar a equipartição
-
-Orientação:
-Levar o aluno a reconhecer que as partes correspondem à mesma “quantidade” de chocolate, mas não à mesma forma.
+Recomendações:
+Utilizar faixas com diferentes subdivisões para representar cada fração unitária. Pedir para que dada aluno construa uma reta numerada e localize nela as frações unitárias.
 
 </WRAP>
