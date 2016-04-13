@@ -1,4 +1,4 @@
-====== Lição 3 ======
+====== LIÇÃO 3 ======
 <WRAP professor>
 Neste capítulo retomamos as ideias de divisão do “todo” em partes iguais. Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. 
 Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro. Neste capitulo ainda usaremos a justaposição de frações unitárias, de um mesmo tipo, para construir as frações gerais. Algumas atividades aqui propostas exploram esta ideia em modelos visuais contínuos. Os modelos associam por justaposição as frações unitárias de modo a chegar as representações não unitárias do tipo a/b. Desse modo construímos com os modelos contínuos a associação entre a unidade e o número 1.
