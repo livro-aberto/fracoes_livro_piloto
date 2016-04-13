@@ -1,8 +1,16 @@
-**LIMBO**
+====== LIMBO ====== 
+
+==== Atividade com dobradura =====
+
+HB: Bem, talvez já tenha mais espaço para incluir novos exercícios, mas registro esta aqui
+
+{{ :cap1:secoes:fracoes-e-dobradura.jpg?700 |}}
 
 <hidden OBSERVAÇÃO>
 HB: seguindo a mesma linha da proposta de exercício anterior.
 </hidden>
+
+==== Atividade ====
 
 (A) Pinte metade da figura a seguir.
 
