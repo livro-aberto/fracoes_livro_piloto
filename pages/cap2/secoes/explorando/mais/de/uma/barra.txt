@@ -1,9 +1,7 @@
 <WRAP professor>
 Objetivos específicos: 
-  * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
-  * Diferenciar "a divisão de um todo em três partes quaisquer" da "divisão de um todo em três partes iguais". 
-  * Compreender as expressões "um terço de" e "terça parte de" como forma de identicar uma das partes da equipartição do todo em três partes. 
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
+  * Compreender as expressões "dois terços de" como forma de identicar duas das partes da equipartição de cópias múltiplas do todo em três partes. 
 </WRAP>
 
 O pai de Ana, Betriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
