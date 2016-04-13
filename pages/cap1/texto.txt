@@ -23,6 +23,8 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:conexoes}}
 
+{{page>cap1:secoes:massa}}
+
 ===== - Atividade =====
 
 {{page>cap1:secoes:ativ_retangulos_coloridos}}
@@ -49,11 +51,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade4}}
-
-===== - Atividade =====
-
-{{page>cap1:secoes:umeioeummeio}}
+{{page>cap1:secoes:ativ_meioemeio}}
 
 /*
 page>cap1:secoes:abstrato
@@ -61,7 +59,7 @@ page>cap1:secoes:abstrato
 
 /* atividade mais avançada, deve ser utilizada mais para frente page>cap1:secoes:atividade5*/
 
-{{page>cap1:secoes:massa}}
+
 
 ===== - Atividade =====
 
