@@ -1,0 +1,12 @@
+<WRAP professor>
+Enquanto que as frações unitárias foram definidas no contexto da divisão em partes iguais, o objetivo desta atividade é levar o aluno a perceber que podemos considerar e identificar uma fração de um objeto mesmo que este não esteja dividido em partes iguais e mesmo que a fração seja a justaposição de partes disjuntas.
+</WRAP>
+
+Identique quais das figuras a seguir a parte pintada é metade da figura corrspondente.
+
+{{:cap1:secoes:14586606579591477242402.jpg?700 |}}
+
+
+<hidden APOIO COMPUTACIONAL>
+Aqui seria ótimo ter uma contrapartida computacional: o estudante poderia mover cópias das partes pintadas e visualizar que elas podem ser usadas para montar outras partes vermelhas onde se vê mais facilmente que estas são as frações indicadas no enunciado.
+</hidden>
