@@ -35,9 +35,15 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:ativ_recomportodo}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:desenhar}}
 
+===== - Atividade =====
+
 {{page>cap1:secoes:exercicio2}}
+
+===== - Atividade =====
 
 {{page>cap1:secoes:exercicio3}}
 
