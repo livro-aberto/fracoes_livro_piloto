@@ -69,7 +69,7 @@ page>cap1:secoes:abstrato
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade9}}
+{{page>cap1:secoes:ativ_variadas}}
 
 ===== - Atividade =====
 
