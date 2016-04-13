@@ -9,3 +9,6 @@ Recomendações:
 Utilizar faixas com diferentes subdivisões para representar cada fração unitária. Pedir para que dada aluno construa uma reta numerada e localize nela as frações unitárias.
 
 </WRAP>
+
+Na figura abaixo temos partes pintadas de três faixas:
+{{ :cap3:secoes:3_faixas.png?300 |}}
