@@ -1,5 +1,5 @@
 
-====== Lição 2 - Frações não-unitárias ======
+====== LIÇÃO 2 - Frações não-unitárias ======
 
 <hidden Estrutura da Lição>
 
@@ -60,15 +60,13 @@ a. Somente temos frações em contextos até a lição 3. Sempre "fração de" a
 
 a. Frisar na introdução o pré-requisito da reta numérica.
 
-</hidden>
-
-
 
 Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
 
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
 
-Na representação da reta justapomos 
+</hidden>
+
 
 
 <hidden H: SUGESTÕES DE SITUAÇÕES PARA APRESENTAR A NOTAÇÃO SIMBÓLICA DE ALGUMA FRAÇÃO UNITÁRIA>
