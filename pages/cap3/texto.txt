@@ -1,10 +1,12 @@
 {{page>cap3:secoes:preambulo}}
 
-{{page>cap3:secoes:intro}}
+{{page>cap3:secoes:explorando}}
 
 {{page>cap3:secoes:conexoes}}
 
 {{page>cap3:secoes:abstrato}}
+
+{{page>cap3:secoes:massa}}
 
 ===== - Atividade =====
 
