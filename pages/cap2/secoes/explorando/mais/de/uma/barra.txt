@@ -19,7 +19,7 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate? 
   - Considerando-se uma barra inteira de chocolate, usando frações,como você nomearia a quantidade de chocolate recebida por cada irmã?
   - Se Ana desse o que recebeu de chocolate para Beatriz, usando frações, como você nomearia a quantidade de chocolate de Beatriz?  
-  - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, usando frações, como você nomearia a quantidade de chocolate que elas ficariam?   
+  - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, usando frações, como você nomearia as quantidades de chocolate que cada uma ficaria?   
 
 <hidden FS: OBS>
     * Neste momento, o estudante não conhece a linguagem "dois terços", por isso, na pergunta 4, sugiro perguntar primeiro que fração de uma barra é uma das três partes em que ela foi dividida (em símbolo e nominal) para depois perguntar quanto cada uma das meninas recebeu de uma barra. A espectativa é que os estudantes respondam "dois terços" ou "dois um terços". Isso levantaria a bola para o professor marcar.
