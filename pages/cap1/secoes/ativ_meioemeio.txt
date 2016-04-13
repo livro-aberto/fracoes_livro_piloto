@@ -1,4 +1,13 @@
 <WRAP professor>
+
+Objetivos específicos:
+  * Reconhecer a metade de um todo pela reunião de partes menores e em situaçoes em qu departesmesmo .  
+  * Estabelecer representações diferentes para a mesma fração unitária para um mesmo todo.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Essa
+
+
 Enquanto que as frações unitárias foram definidas no contexto da divisão em partes iguais, o objetivo desta atividade é levar o aluno a perceber que podemos considerar e identificar uma fração de um objeto mesmo que este não esteja dividido em partes iguais e mesmo que a fração seja a justaposição de partes disjuntas.
 </WRAP>
 
