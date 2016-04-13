@@ -12,3 +12,5 @@ Utilizar faixas com diferentes subdivisões para representar cada fração unit�
 
 Na figura abaixo temos partes pintadas de três faixas:
 {{ :cap3:secoes:3_faixas.png?300 |}}
+
+Para cada uma encontre as frações correspondentes e construa uma reta numerada e exiba uma localização aproximada para cada uma das frações.
