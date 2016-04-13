@@ -1,4 +1,5 @@
-==== Frações: a melhor escolha para dividir uma unidade ====
+Frações: a melhor escolha para dividir uma unidade
+
 <WRAP professor>
 Objetivos específicos:
 Os alunos devem perceber que há boas escolhas para dividir uma unidade de modo a representar corretamente uma fração.
