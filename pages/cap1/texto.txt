@@ -37,7 +37,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:desenhar}}
+{{page>cap1:secoes:ativ_desenhar}}
 
 ===== - Atividade =====
 
