@@ -10,6 +10,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}.
 
+Os alunos pode ainda recorrer à dobradura para ientificar as frações pedidas.
+
 Já as representações a seguir sugerem que os alunos precisam revisar os conceitos exigidos para a solução da atividade:
 
 {{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
