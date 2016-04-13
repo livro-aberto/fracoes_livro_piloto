@@ -18,4 +18,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <hidden OBSERVAÇÕES>
 
+Não tenho como alterar, mas recomendo que o comando venha acima de cada um das figuras e que sejam colocados marcadores (a), (b) e (c). 
+
 </hidden>
