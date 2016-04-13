@@ -1,0 +1,44 @@
+<WRAP professor>
+
+Objetivos específicos:
+  * Representar uma fração unitária a partir de um todo dado.  
+  * Reconhecer (e obter) um quarto como a metade da metade e um oitavo como a metade de um quarto. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Essa é uma atividade que o aluno pode fazer individualmente. 
+  * Não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. Assim, podem ser aceitas como respostas, por exemplo,
+
+{{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}
+
+Já as representações a seguir sugerem que os alunos precisam revisar os conceitos exigidos para a solução da atividade:
+
+{{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
+
+  * A representação do todo se dá de forma genérica por um quadrado. 
+  * Espera-se que o aluno reconheça que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.   
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item. 
+
+
+<hidden OBSERVAÇÂO>
+AP: Devemos definir quais são as atividades (tarefas que devem ser desenvolvidas com mediação do professor para desenvolvimento dos conceitos) e quais são os exercícios (tarefas que o aluno deve desenvolver para retomada dos conceitos trabalhados e fixação). 
+LET: Concordo. Havíamos definido que haveria seções específicas  - MAS ELAS AINDA NÃO ESTÃO CLARAS!.
+
+</hidden>
+
+
+</WRAP>
+
+
+
+**EXERCÍCIO 1**
+
+(A) Pinte metade do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+(B) Pinte um quarto do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+(C) Pinte um oitavo do quadrado a seguir.
+{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+
+
