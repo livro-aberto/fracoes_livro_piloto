@@ -21,6 +21,8 @@
 
 {{page>cap2:secoes:abstrato}}
 
+{{page>cap2:secoes:massa}}
+
 ===== - Atividade =====
 
 {{page>cap2:secoes:explorando_atividade_entender_linguagem}}
