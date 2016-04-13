@@ -1,34 +1,21 @@
 <WRAP professor>
 
 Objetivos específicos:
-  * Representar uma fração unitária a partir de um todo dado.  
-  *  
+  * Representar uma fração unitária (no caso, um meio ou metade) a partir de um todo dado.  
+  * Estabelecer representações diferentes para a mesma fração unitária para um mesmo todo.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente. 
-  * Não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. Assim, podem ser aceitas como respostas, por exemplo,
-
-{{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}.
-
-Os alunos pode ainda recorrer à dobradura para ientificar as frações pedidas.
-
-Já as representações a seguir sugerem que os alunos precisam revisar os conceitos exigidos para a solução da atividade:
-
-{{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
-
-  * A representação do todo se dá de forma genérica por um quadrado. 
-  * Espera-se que o aluno reconheça que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.   
+  * Como na atividade anterior, não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
+  * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades no todo apresentado.
+  * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 
 
-
-
-
-Enquanto que nas atividades anteriores os alunos identificaram e reconheceram modelos de frações unitárias, o objetivo deste exercíco é fazer com que eles construam esses modelos. 
 </WRAP>
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
 
 <hidden OBSERVAÇÕES>
-HB: atendi o pedido da Ana Paula no fórum de deixar aqui apenas as metades e levar para a próxima lição os demais tipos de frações.
+
 </hidden>
