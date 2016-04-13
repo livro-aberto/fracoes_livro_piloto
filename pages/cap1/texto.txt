@@ -29,7 +29,7 @@ page>cap1:secoes:intro
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade7}}
+{{page>cap1:secoes:ativ_ident_terco}}
 
 ===== - Atividade =====
 
