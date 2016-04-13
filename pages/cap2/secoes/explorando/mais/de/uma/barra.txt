@@ -1,7 +1,7 @@
 <WRAP professor>
 Objetivos específicos: 
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
-  * Compreender as expressões "dois terços de" como forma de identicar a quantidade relativa a duas  partes da equipartição de cópias múltiplas do todo quando cada cópia está dividida em três partes iguais. 
+  * Compreender as expressões "dois terços de" como forma de identicar a quantidade relativa a duas  partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em três partes iguais. 
   * Estender o uso de frações em divisões partitivas para representar o quociente de uma divisão quando mais do que uma cópia do todo é dividido em um determinado número de recipientes.
 </WRAP>
 
