@@ -63,7 +63,7 @@ page>cap1:secoes:abstrato
 
 ===== - Atividade =====
 
-{{page>cap1:secoes:atividade8}}
+{{page>cap1:secoes:ativ_visual_linguagem}}
 
 {{page>cap1:secoes:quadrinhos}}
 
