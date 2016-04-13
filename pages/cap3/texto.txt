@@ -10,31 +10,31 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade1}}
+{{page>cap3:secoes:ativ_gr_subdiv}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade2}}
+{{page>cap3:secoes:ativ_indiv_subdiv}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade3}}
+{{page>cap3:secoes:ativ_ordem_mesmo_denom}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade4}}
+{{page>cap3:secoes:ativ_boa_subunidade}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade5}}
+{{page>cap3:secoes:ativ_reta_numerada}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade6}}
+{{page>cap3:secoes:ativ_reta_numerica2}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:atividade7}}
+{{page>cap3:secoes:ativ_comparacao_unit}}
 
 {{page>cap3:secoes:refletindo}}
 
