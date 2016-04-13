@@ -37,4 +37,5 @@ e)	Se nós incluirmos esta última fração na sequência do item (a) qual a pos
 f)	O que de diferente podemos destacar nessa fração em relação às demais?
 
 
-
+<hidden OBS> **FS:** Até agora as atividades usavam o imperativo. Estas são mais abertas. Acredito que tenhamos que fazer uma escolha quanto a isso.
+</hidden>
