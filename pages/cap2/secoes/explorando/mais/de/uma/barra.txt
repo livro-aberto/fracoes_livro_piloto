@@ -27,10 +27,10 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 
 {{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}
 
-(a)  Você concorda com essa divisão? Explique.
+( a )  Você concorda com essa divisão? Explique.
     
-(b) Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
+( b ) Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
 
-(c) Considerando-se uma barra inteira de chocolate, usando frações,como você nomearia a quantidade de chocolate recebida por cada irmã?
+( c ) Considerando-se uma barra inteira de chocolate, usando frações,como você nomearia a quantidade de chocolate recebida por cada irmã?
 
 
