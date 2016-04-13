@@ -1,4 +1,4 @@
-===== Modelo abstrato ===== 
+====== MODELO ABSTRATO ====== 
 
 Se meio, um terço, um quarto e um quinto são números, quais são os símbolos que representam estes números?
 Como estes números surgem da divisão de 1 parte em partes iguais, nós os representaremos por\\
