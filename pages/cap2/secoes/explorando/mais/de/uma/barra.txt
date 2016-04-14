@@ -4,9 +4,15 @@ Objetivos específicos:
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em três partes iguais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
-Observações:
-  * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias do todo) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo. 
-  * Lembramos que, segundo os PCN (1997, p. 103):  dividir "um chocolate em 3 partes e comer duas dessas partes é uma situação diferente daquela em que é preciso dividir 2 chocolates para três pessoas".
+Observação:
+  * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias do todo) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
+  * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
+  * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para as quantidades de chocolates que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É mportante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
+
 </WRAP>
 
 O pai de Ana, Betriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
