@@ -14,12 +14,12 @@
 
 ===== - Atividade =====
 
-{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
-
+{{page>cap2:secoes:atividade_tortas_improprias}}
 
 ===== - Atividade =====
 
-{{page>cap2:secoes:atividade_tortas_improprias}}
+{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
+
 
 {{page>cap2:secoes:conexoes}}
 
