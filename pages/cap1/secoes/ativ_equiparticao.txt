@@ -4,8 +4,7 @@ Objetivos específicos:
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
   * Diferenciar "a divisão de um todo em três partes quaisquer" da "divisão de um todo em três partes iguais". 
   * Compreender as expressões "um terço de" e "terça parte de" como forma de identicar uma das partes da equipartição do todo em três partes. 
-
-<hidden HB: OBSERVAÇÃO>
+<hidden H: OBSERVAÇÃO>
 Em um dos objetivos esta "Levar o aluno a", nos outros não. Uniformizar?
 </hidden>
 
