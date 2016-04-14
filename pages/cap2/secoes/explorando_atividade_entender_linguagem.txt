@@ -5,9 +5,7 @@ Objetivos específicos:
 </WRAP>
 
 
-Lembre-se dos termos "meio", "terço", "quarto", "quinto", "sexto", "sétimo", "oitvavo", "nono" e "décimo" estudados na lição anterior e, para cada uma das figuras, associe a fração da figura que está pintada em vermelho.
-
-"dois terços", "três quartos", "dois quintos", "dois meios"
+Preencha cada linha sublinhada a seguir com uma das frações: "dois meios", "dois terços", "dois quintos", "três quartos", "oito sextos" e "nove meios".
 
 <WRAP imagem>
 {{ :cap2:secoes:preencha-01.png?700 |}}
