@@ -50,6 +50,11 @@ Por exemplo,
 </hidden> </WRAP>
 
 <hidden OBSERVAÇÕES>
+
+**HB:** Como na reunião do dia 12/04/2016 ocorreu, mesmo entre nós, aquela dúvida sobre o que significa o "um" em "um terço", não seria adequado fazer esta observação para professor ou para o aluno? Dizer, por exemplo, que estamos falando "um terço" no mesmo sentido que falaremos de "dois terços" na próxima lição.
+
+**FS:** Concordo plenamente. Nós mesmos não tínhamos nos atentado a este fato.
+
 **VAMOS TRABALHAR SOMENTE ATÉ QUARTOS???** 
 AP: Considero que essa resposta seja de acordo com as atividades sugeridas. 
 LET: Combinamos até décimos.
@@ -82,6 +87,5 @@ AP: Nos exemplos de metades, terços e quartos utilizar diferentes representaç�
 AP: Acho que essa parte da conexão chamando a atenção para o fato da fração ser um número deva vir somente na lição 2.
 </hidden>
 
-<hidden H: OBSERVAÇÕES
-Como na reunião do dia 12/04/2016 ocorreu, mesmo entre nós, aquela dúvida sobre o que significa o "um" em "um terço", não seria adequado fazer esta observação para professor ou para o aluno? Dizer, por exemplo, que estamos falando "um terço" no mesmo sentido que falaremos de "dois terços" na próxima lição.
-</hidden>
+
+
