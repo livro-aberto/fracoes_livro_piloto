@@ -12,6 +12,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para as quantidades de chocolates que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É mportante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
+  * As frações impróprias vão aparecer naturalmente aqui e não recomendamos, neste momento, a introdução desta terminologia.
 
 </WRAP>
 
