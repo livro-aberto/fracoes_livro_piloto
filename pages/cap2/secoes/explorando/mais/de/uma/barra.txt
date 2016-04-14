@@ -5,7 +5,8 @@ Objetivos específicos:
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em três partes iguais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
 Observações:
-  * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias do todo) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo. Segundo os PCN (1997, p. 103):  dividir "um chocolate em 3 partes e comer duas dessas partes é uma situação diferente daquela em que é preciso dividir 2 chocolates para três pessoas".
+  * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias do todo) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo. 
+  * Lembramos que, segundo os PCN (1997, p. 103):  dividir "um chocolate em 3 partes e comer duas dessas partes é uma situação diferente daquela em que é preciso dividir 2 chocolates para três pessoas".
 </WRAP>
 
 O pai de Ana, Betriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
