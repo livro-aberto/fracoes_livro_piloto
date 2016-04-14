@@ -12,6 +12,10 @@
 
 {{page>cap2:secoes:explorando:papel:tortas:salgadas}}
 
+===== - Atividade =====
+
+{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
+
 
 ===== - Atividade =====
 
@@ -23,9 +27,6 @@
 
 {{page>cap2:secoes:massa}}
 
-===== - Atividade =====
-
-{{page>cap2:secoes:explorando_atividade_entender_linguagem}}
 
 ===== - Atividade =====
 
