@@ -23,7 +23,6 @@
 <WRAP imagem>
  Colocar uma triângulo.
 </WRAP>
-
   - Pergunta da história.
   - Pergunta da história. \\ \\ Agora, um texto, modificando a história: uma das irmãs deu sua parte do chocolate para outra irmã.\\ \\
   - Pergunta da continuação da história.
