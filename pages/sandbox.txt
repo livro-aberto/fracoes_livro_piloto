@@ -1,5 +1,8 @@
 ====== Examples for the Wrap Plugin ======
 
+
+
+
 <WRAP professor>
  Conte que $2 + 2 = 4$.
 </WRAP>
@@ -18,3 +21,7 @@
 <WRAP imagem>
  Colocar uma triângulo.
 </WRAP>
+
+  - primeiro ítem,
+  - segundo ítem,\\ comentários aqui
+  - terceiro ítem.
