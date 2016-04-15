@@ -1,6 +1,5 @@
 ====== Examples for the Wrap Plugin ======
 
-
 <WRAP professor>
  Conte que $2 + 2 = 4$.
 </WRAP>
