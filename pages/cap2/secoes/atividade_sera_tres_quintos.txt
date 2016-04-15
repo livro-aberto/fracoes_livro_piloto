@@ -1,0 +1,8 @@
+Miguel dise para Alice que a parte pintada da figura corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a explicação de Miguel? Explique!
+
+{{ :cap2:secoes:sera-tres-quintos.jpg?400 |}}
+
+
+<hidden Comentários>
+
+</hidden>
