@@ -18,6 +18,8 @@
  </WRAP>
 </WRAP>
 
+====== Examples for the Wrap Plugin ======
+
 <WRAP imagem>
  Colocar uma triângulo.
 </WRAP>
