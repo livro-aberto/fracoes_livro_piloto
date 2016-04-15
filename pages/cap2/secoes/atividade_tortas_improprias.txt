@@ -1,7 +1,7 @@
 <WRAP professor> 
 Objetivos específicos:   
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
-  * Levar o aluno a compreender a expressão "//n// oitavos de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em oito partes iguais, incluindo os casos em que //n// é maior do que oito (frações impróprias).
+  * Levar o aluno a compreender a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em oito partes iguais, incluindo os casos em que //n// é maior do que oito (frações impróprias).
   * Levar o aluno a perceber que uma mesma quantidade do todo pode ser expressa por frações equivalentes (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
