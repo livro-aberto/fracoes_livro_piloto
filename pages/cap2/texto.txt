@@ -27,6 +27,11 @@
 
 {{page>cap2:secoes:massa}}
 
+===== - Atividade =====
+
+{{page>cap2:secoes:atividade_sera_dois_tercos}}
+
+
 
 ===== - Atividade =====
 
