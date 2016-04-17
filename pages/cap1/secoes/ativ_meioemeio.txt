@@ -1,6 +1,6 @@
 <WRAP professor>
 
-Objetivos específicos: Levar o aluno a
+Objetivos específicos: Levar o aluno a:
   * Reconhecer a metade de um todo pela reunião de partes menores e em partições diversas. 
   * Estabelecer representações diferentes para a mesma fração unitária para um mesmo todo.
 
@@ -12,13 +12,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Incentive os alunos a argumentar, justificando a sua decisão. Para isso, podem, por exemplo, se apoiar em dobraduras ou no recorte das partes da figura.
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item   
 
-
-
 </WRAP>
 
 Identique as figuras em que a parte pintada é a metade da figura.
 
 {{:cap1:secoes:14586606579591477242402.jpg?700 |}}
+
+
 
 
 <hidden APOIO COMPUTACIONAL>
