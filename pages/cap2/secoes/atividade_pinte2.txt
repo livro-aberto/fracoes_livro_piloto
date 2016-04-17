@@ -1,0 +1,4 @@
+(A) Pinte $\frac{2}{3}$ da figura: {{cap2:secoes:pinte-dois-tercos.png?50}}. Que fração da figura ficou sem pintar?
+
+(B) Pinte $\frac{3}{8}$ da figura: {{cap2:secoes:pinte-tres-oitavos.png?300}}. Que fração da figura ficou sem pintar?
+
