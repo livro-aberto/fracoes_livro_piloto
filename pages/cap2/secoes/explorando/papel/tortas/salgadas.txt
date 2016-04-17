@@ -30,3 +30,7 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é menor do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? Explique sua resposta.
+
+<hidden OBS>
+**FS:** Aqui a expressão //usando frações// tem uma vírgula depois. Na atividade 1, itens 4 e 5, ela não deveria estar entre vírgulas?
+</hidden>
