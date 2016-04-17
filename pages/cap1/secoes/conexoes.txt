@@ -1,23 +1,27 @@
 
 ====== CONEXÕES ======
 
-<WRAP professor> Nesta etapa, não se deve exigir que os alunos entendam as frações como números. O objetivo é que percebam seu papel para expressar quantidades em situações de partição da unidade. Assim, as frações podem ser utilizadas no dia a dia para identificar quantidades do mesmo modo que os números naturais, que os alunos já conhecem. Por exemplo, nas expressões: "dois ovos", "duas xícaras de farinha", "um terço de xícara de cacau" e "meio litro de leite".
-Espera-se que os alunos apropriem-se primeiro da das expressões verbais que identificam as frações, antes de serem apresentados formalmente à simbologia matemática. Assim, esta seção objetiva a expressão verbal e não a representação simbólica. 
+<WRAP professor> 
+
+Nesta etapa, não se espera que os alunos compreendam as frações como números. O objetivo é que percebam seu papel para expressar quantidades em situações de equipartição da unidade. Assim, as frações podem ser utilizadas no dia a dia para identificar quantidades do mesmo modo que os números naturais, já conhecidos dos alunos. Números Por exemplo, nas expressões: "dois ovos", "duas xícaras de farinha", "um terço de xícara de cacau" e "meio litro de leite".
+
+Objetiva a expressão verbal e não a representação simbólica. Assim, espera-se que os alunos apropriem-se primeiro das expressões verbais que identificam as frações unitárias (um meio, um terço, um quarto, ... , um nono e um décimo) antes de serem apresentados formalmente à simbologia matemática (Que será objetivo da próxima lição).  
 </WRAP>  
 
 
-Na História da Humanidade, os números foram criados inicialmente para contar objetos (animais, pedras, pessoas, etc.).
-Embora os números também tenham outros usos, eles foram criados para representar //quantidades//, sejam elas inteiras ou parte do inteiro. Por exemplo, em: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
+Na História da Humanidade, inicialmente os números foram criados para contar objetos (animais, pedras, pessoas, etc.).
+Os números representam //quantidades//. Por exemplo, em: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
 
-Nas atividades realizadas até aqui, barra de chocolate, pizzase barbante foram repartidos. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //todo//. 
+Nas atividades realizadas até aqui, barra de chocolate, pizzas e barbante foram repartidos em partes. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //todo//. 
 
 Ao dividir um todo qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //metade// do todo. 
 
 Por exemplo, 
-//meia// barra de chocolate para cada um. Isto é, a //fração// da barra de chocolate destinada a cada um é //metade// da barra (ou //um meio// da barra).
+//meia// barra de chocolate para cada um. 
+A //fração// da barra de chocolate destinada a cada um é //metade// da barra (ou //um meio// da barra).
 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade <hidden documentação das imagens>
-**Cadafigura sugerida deve ser bem documentada para evitar retrabalho. Se possivel anexar foto de rascunho ou de imagem da web para ser refeita**
+**Imagem de duas crianças a barra de chocolate em que a metade é identificada**
 </hidden></WRAP>
 
 Ao dividir um todo qualquer em três partes iguais, cada uma das partes é chamada de //um terço// ou //terça parte// do todo. 
