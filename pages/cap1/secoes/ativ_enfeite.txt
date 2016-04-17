@@ -1,7 +1,7 @@
 <WRAP professor>
 Objetivo específico:
   * Abordar a equipartição em um modelo linear.
-  * Reconhecer a quarta parte como a metadae da metade.
+  * Reconhecer a quarta parte como a metade da metade.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
