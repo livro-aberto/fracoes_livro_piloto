@@ -2,6 +2,9 @@
 Objetivos específicos: 
   * Reforçar no contexto de frações não unitárias de que, por exemplo, o fato de uma figura estar divida em 5 partes e 3 delas estarem pintadas de vermelho, **não necessariamente implica** que a parte pintada é $3/5$ da figura.
   * Exercitar a capacidade de argumentação do aluno.
+
+Observações:
+  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
 
 
