@@ -1,0 +1,3 @@
+Preencha cada linha sublinhada a seguir com uma fração adequada.
+
+{{ :cap2:secoes:preencha-02.png?700 |}}
