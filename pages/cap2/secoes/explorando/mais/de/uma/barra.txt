@@ -31,15 +31,10 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
   - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
   - Se Ana desse o que recebeu de chocolate para Beatriz, como você nomearia usando frações a quantidade de chocolate de Beatriz?  
   - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?   
-  - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.
-
-{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}
-
-( a )  Você concorda com essa divisão? Explique.
-    
-( b ) Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
-
-( c ) Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
+  - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}\\
+  - Você concorda com essa divisão? Explique.
+  - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
+  - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
 
 <hidden OBS>
 **FS:** Eu trocaria os itens 5 e 6 de ordem para deixar para mais tarde a novidade da fração imprópria. O item 6 é muito mais fácil.
