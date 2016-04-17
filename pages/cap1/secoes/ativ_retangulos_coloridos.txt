@@ -1,5 +1,5 @@
 <WRAP professor> 
-Objetivo específico:
+Objetivo específico: Levar o aluno a:
   * Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma. 
   * Identificar a equivalência entre as partes de uma equipartição a partir de sobreposição ou da comparação pelo reconhecimento da associação a uma mesma fração unitária (no caso, 1/4).
   * Reconhecer a quarta parte como a metade da metade.
