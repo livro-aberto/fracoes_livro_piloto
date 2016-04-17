@@ -68,6 +68,8 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 **FS:** Concordo plenamente. Nós mesmos não tínhamos nos atentado a este fato.
 
 **FS:** Sugiro que a Estela apague essas observações conforme as tenha utilizado ou tenha decidido não levá-las em consideração.
+
+**LET** Vou fazer isso... estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
 </hidden>
 
 <hidden DUVIDAS>
