@@ -1,4 +1,14 @@
+<WRAP professor>
+Objetivos específicos: 
+  * Reforçar no contexto de frações não unitárias o fato de que, por exemplo, para representar .
+  * Reforçar a ideia que uma fração "n/m" representa "n" cópias de "1/m" quando cópias múltiplas do todo estão divididas em "m" partes iguais.
+  * Evidenciar em um primeiro momento a importância da unidade (para o caso de frações impróprias).
+</WRAP>
+
+
 Miguel disse para Alice que a parte pintada da figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
 
-{{ :cap2:secoes:sera-tres-quintos.jpg?300 |}}
+{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?300 |}}
+
+
 
