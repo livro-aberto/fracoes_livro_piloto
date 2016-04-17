@@ -33,8 +33,9 @@
 
 {{page>cap2:secoes:atividade_tres_setimos_ou_tres_quartos}}
 
-
 {{page>cap2:secoes:atividade_pinte}}
+
+{{page>cap2:secoes:atividade_pinte2}}
 
 
 ===== - Atividade =====
