@@ -1,3 +1,8 @@
+**ACHO QUE ESTA ATIVIDADE TEM QUE IR PARA A SECAO 2
+**
+
+
+
 <WRAP professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.
 </WRAP>
 
