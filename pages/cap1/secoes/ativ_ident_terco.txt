@@ -1,6 +1,6 @@
 <WRAP professor> 
 
-Objetivo específico: 
+Objetivo específico: Levar o aluno a;
 
   * Identificar uma mesma fração unitária (no caso, a terça parte) em representações diversas, ou seja, em todos não necessariamente congruentes.
  
