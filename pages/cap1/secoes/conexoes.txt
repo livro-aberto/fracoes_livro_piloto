@@ -5,7 +5,9 @@
 
 Nesta etapa, não se espera que os alunos compreendam as frações como números. O objetivo é que percebam seu papel para expressar quantidades em situações de equipartição da unidade. Assim, as frações podem ser utilizadas no dia a dia para identificar quantidades do mesmo modo que os números naturais, já conhecidos dos alunos. Números Por exemplo, nas expressões: "dois ovos", "duas xícaras de farinha", "um terço de xícara de cacau" e "meio litro de leite".
 
-Objetiva a expressão verbal e não a representação simbólica. Assim, espera-se que os alunos apropriem-se primeiro das expressões verbais que identificam as frações unitárias (um meio, um terço, um quarto, ... , um nono e um décimo) antes de serem apresentados formalmente à simbologia matemática (Que será objetivo da próxima lição).  
+Objetiva a expressão verbal e não a representação simbólica. Assim, espera-se que os alunos apropriem-se primeiro das expressões verbais que identificam as frações unitárias (um meio, um terço, um quarto, ... , um nono e um décimo) antes de serem apresentados formalmente à simbologia matemática (Que será objetivo da próxima lição).  A referência às frações unitárias com a expressão "um" antes da identicação da parte, como, por exemplo, em "um terço" e em "um sétimo" é uma decisão pedagógica. É possível simplesmente se referir a essas frações por "terço" e "sétimo", respectivamente. No entanto, nas próximas seções, pretende-se que as frações não unitárias, como "dois terços" e "nove sétimos", por exemplo, sejam entendidas a partir da justaposição das frações unitárias, naturalmente amparando essa abordagem pela contagem das frações unitárias correspondentes. Assim, as expressões verbais associadas às fraçoes unitárias também são associadas à cotagem a partir do "um". A compreensão das fraçoes "Um terço" e de "dois terços" ou de "um sétimo" e de "nove sétimos", por exemplo, seguem a mesma construção lógica.  
+
+
 </WRAP>  
 
 
@@ -69,7 +71,8 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 
 **FS:** Sugiro que a Estela apague essas observações conforme as tenha utilizado ou tenha decidido não levá-las em consideração.
 
-**LET** Vou fazer isso... estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
+**LET** Vou fazer isso... Já fiz. O que acham?
+estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
 </hidden>
 
 <hidden DUVIDAS>
