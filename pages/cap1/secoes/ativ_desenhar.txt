@@ -1,6 +1,6 @@
 <WRAP professor>
 
-Objetivos específicos:
+Objetivos específicos: Levar o aluno a:
   * Representar uma fração unitária a partir de um todo dado.  
   * Reconhecer (e obter) um quarto como a metade da metade e um oitavo como a metade de um quarto. 
 
