@@ -6,9 +6,9 @@ Objetivos específicos:
 </WRAP>
 
 
-Miguel disse para Alice que a parte pintada da figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
+Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
 
-{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?300 |}}
+{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
 
 
 
