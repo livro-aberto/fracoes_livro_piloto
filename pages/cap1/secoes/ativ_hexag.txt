@@ -16,7 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
 
-<hidden OBSERVAÇÕES>
+<hidden OBSERVAÇÕES - LETICIA - SOBRE A FORMA>
 
 Não tenho como alterar, mas recomendo que o comando venha acima de cada um das figuras e que sejam colocados marcadores (a), (b) e (c). 
 
