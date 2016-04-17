@@ -1,5 +1,4 @@
-<WRAP professor> 
-Objetivos específicos: Levar o aluno a 
+<WRAP professor> Objetivos específicos: Levar o aluno a 
   * Diferenciar a divisão da unidade ("todo") em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
   * Reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
   * Diferenciar "a divisão de um todo em três partes quaisquer" da "divisão de um todo em três partes iguais". 
