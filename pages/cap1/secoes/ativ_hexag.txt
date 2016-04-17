@@ -1,8 +1,8 @@
 <WRAP professor>
 
-Objetivos específicos:
+Objetivos específicos: Levar o aluno a:
   * Representar uma fração unitária (no caso, um meio ou metade) a partir de um todo dado.  
-  * Estabelecer representações diferentes para a mesma fração unitária para um mesmo todo.
+  * Estabelecer representações diferentes para a mesma fração unitária e para um mesmo todo.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente. 
