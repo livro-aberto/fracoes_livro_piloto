@@ -1,6 +1,12 @@
 <WRAP professor>
 Objetivos específicos: 
-  * Fazer o aluno perceber a importância da unidade.
+  * Fazer o aluno perceber que a fração depende da unidade escolhida.
   * Exercitar a capacidade de argumentação do aluno.
 </WRAP>
+
+ Júlia e Davi estavam estudando a figura a seguir.
+
+{{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
+
+Júlia disse: "A parte em vermelho representa $\frac{3}{5}$". Davi retrucou: "Não, não! A parte em vermelho representa $\frac{5}{3}$!". Quem está certo? Júlia ou Davi? Explique!
 
