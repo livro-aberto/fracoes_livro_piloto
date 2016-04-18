@@ -41,6 +41,8 @@
 
 {{page>cap2:secoes:atividade_comparar_com_um_meio}}
 
+{{page>cap2:secoes:atividade_quantos_cabem}}
+
 
 
 
