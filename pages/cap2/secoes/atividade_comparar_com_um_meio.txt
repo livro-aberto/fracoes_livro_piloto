@@ -1,0 +1,8 @@
+<WRAP professor>
+Objetivos específicos:
+  * Fazer com que o aluno reconheça frações e as compare com uma fração de referência, no caso, a fração $\frac{1}{2}$.
+</WRAP>
+
+Para cada figura a seguir, indique a fração que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual a metade de figura?
+
+{{ :cap2:secoes:comparacao-01.png?500 |}}
