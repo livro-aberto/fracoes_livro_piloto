@@ -1,3 +1,11 @@
 Uma pizza gigante foi dividida em doze fatias iguais. 
 Pedro comeu 4 fatias, Isabella 5 fatias, Bernardo 2 fatias e Manuela apenas 1 fatia.
 
+|   |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
+| Escreva a fração de pizza consumida usando notação matemática   |   |   |    |    |
+| Escreva a fração de pizza consumida por extenso   |   |   |    |    |
+| Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao.png?100}} | {{cap2:secoes:pizza-notacao.png?100}}  |  {{cap2:secoes:pizza-notacao.png?100}}  |   {{cap2:secoes:pizza-notacao.png?100}} |
+
+(A) O que é mais fácil? Descrever uma fração por extenso ou usando notação matemática? Explique!
+
+(B) Quem comeu mais pizza? Quem comenu menos pizza?
