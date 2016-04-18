@@ -37,6 +37,8 @@
 
 {{page>cap2:secoes:atividade_poder_da_notacao}}
 
+{{page>cap2:secoes:atividade_corrida}}
+
 
 
 
