@@ -1,6 +1,7 @@
 <WRAP professor>
 Objetivos específicos: 
   * Fazer com que o aluno represente frações não unitárias.
+  * Fazer com que o aluno perceba a fração complementar de uma fração própria da unidade.
 </WRAP>
 
 (A) Pinte $\frac{2}{3}$ da figura: {{cap2:secoes:pinte-dois-tercos.png?50}}. Que fração da figura ficou sem pintar?
