@@ -37,6 +37,10 @@
 
 ===== - Atividade =====
 
+{{page>cap2:secoes:atividade_copos_de_agua}}
+
+===== - Atividade =====
+
 {{page>cap2:secoes:atividade_complete}}
 
 ===== - Atividade =====
