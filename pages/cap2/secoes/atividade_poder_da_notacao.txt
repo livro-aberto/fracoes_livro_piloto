@@ -1,3 +1,10 @@
+<WRAP professor>
+Objetivo específico: 
+    * Levar o aluno a perceber a economia da notação matemática. 
+    * Levar o aluno a fazer representações múltiplicas de frações (notação matemática, escrita por extenso e por meio de uma figura). 
+</WRAP>
+
+
 Uma pizza gigante foi dividida em doze fatias iguais. 
 Pedro comeu 4 fatias, Isabella 5 fatias, Bernardo 2 fatias e Manuela apenas 1 fatia.
 
