@@ -1,0 +1,50 @@
+<WRAP professor>
+
+Objetivos específicos: 
+
+  * Levar o aluno a construir frações em termos de comprimentos de segmentos em uma semirreta como uma preparação para a reta numerada.
+</WRAP>
+
+Lucas, Matheus, Heitor, Rafael, Enzo, Nicolas, Lorenzo, Guilherme e Samuel estavam brincando de empurrar seus carrinhos de brinquedo para ver qual carrinho ia mais longe em uma pista reta.
+
+A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou na pista com relação ao ponto de largada.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+
+(A) O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Matheus.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+(B) O carrinho de Heitor conseguiu ir $\frac{3}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Heitor.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+(C) O carrinho de Rafael conseguiu ir $\frac{4}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Heitor.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+(D) O carrinho de Enzo conseguiu ir $\frac{5}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Enzo.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+
+(E) O carrinho de Nicolas conseguiu ir $\frac{6}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Nicolas.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+
+(F) O carrinho de Lorenzo conseguiu ir $\frac{6}{4}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Lorenzo.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+
+(G) O carrinho de Guilherme conseguiu ir o dobro da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Guilherme.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+(H) O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Samuel.
+
+{{ :cap2:secoes:corrida-01.png?1200 |}}
+
+
