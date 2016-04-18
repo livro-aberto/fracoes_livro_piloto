@@ -15,4 +15,4 @@ Pedro comeu 4 fatias, Isabella 5 fatias, Bernardo 2 fatias e Manuela apenas 1 fa
 
 (A) O que é mais fácil? Descrever uma fração por extenso ou usando notação matemática? Explique!
 
-(B) Quem comeu mais pizza? Quem comenu menos pizza?
+(B) Quem comeu mais pizza? Quem comeu menos pizza?
