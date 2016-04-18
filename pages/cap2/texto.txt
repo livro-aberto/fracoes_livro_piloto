@@ -33,6 +33,8 @@
 
 {{page>cap2:secoes:atividade_pinte2}}
 
+{{page>cap2:secoes:atividade_complete}}
+
 {{page>cap2:secoes:atividade_sera_tres_quintos}}
 
 {{page>cap2:secoes:atividade_tres_setimos_ou_tres_quartos}}
