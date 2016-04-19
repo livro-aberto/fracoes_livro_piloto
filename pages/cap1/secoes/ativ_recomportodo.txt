@@ -28,3 +28,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 
+<hidden Resposta>
+<WRAP resposta>
+Possibilidades de resposta
+
+{{:cap1:secoes:licao1_atv6.png?300|}}
+
+</WRAP>
+</hidden>
