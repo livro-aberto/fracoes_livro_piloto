@@ -157,5 +157,3 @@ Miguel: Minha mãe sabe do que está falando. Hoje no ônibus ela me mostrou fra
 {{ :cap2:secoes:jarra-de-vidro-graduada-300x199.jpg?200 |}}
 
 </WRAP>
-
-Na Lição 1 você aprendeu que quando uma unidade (figura ou objeto) é dividida em partes iguais, cada uma dessas partes é chamada de //uma fração da// unidade.  
