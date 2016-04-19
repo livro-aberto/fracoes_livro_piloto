@@ -1,6 +1,9 @@
 <WRAP professor>
 Objetivos específicos: 
   * Estender o uso de frações em divisões partitivas para representar o quociente de uma divisão quando mais do que uma cópia do todo é dividido em um determinado número de recipientes.
+<hidden OBS>
+**FM:** Abordar equipartições envolvendo mais de um representante da unidade e a representação fracionária para essas representações
+</hidden>
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas do todo quando cada cópia do todo está dividida em três partes iguais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
