@@ -105,27 +105,45 @@ H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fra
 QUADRINHOS
 
 Miguel é um menino negro de cabelos cheios e cacheados.
+
 Alice é uma menina morena de rabo de cavalo.
 
-Quadrinho 1
+**Quadrinho 1**
 
 Alice: Oi Miguel! Por que você faltou a aula passada? A professora falou de frações.
 
-Miguel: Eu tive febre. Mas a minha mãe viu que era sobre frações e me ensinou um pouco em casa. Não sei se entendi direito...
+Miguel: Eu tive febre. 
 
-Quadrinho 2
+**Quadrinho 2**
 
 Miguel escrevendo no quadro para mostrar para Alice
 
-Alice: A gente dividiu algumas figuras no papel e algumas coisas de verdade em partes iguais. Tem que ser em partes iguais ou com a mesma quantidade em cada parte! Aí demos nomes a essas partes. Tipo: se forem duas partes, cada uma é metade da coisa, se forem três, cada uma é um terço, quatro, um quarto e assim vai.
+Miguel: A minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
 
-Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, falou que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
+Alice: Não foi isso o que vimos aqui. A gente dividiu algumas figuras no papel e algumas coisas de verdade em partes iguais. Tem que ser em partes iguais ou com a mesma quantidade em cada parte! Aí demos nomes a essas partes. Tipo: se forem duas partes, cada uma delas é metade da coisa, se forem três partes, cada uma é um terço do objeto, quatro, um quarto e assim vai.
 
-Quadrinho 3
 
-Alice: A professora não nos mostrou estes números em linhas diferentes...
+**Quadrinho 3**
+Quadro escrito:
 
-Miguel: Minha mãe também não
+Frações
+
+meia hora --> $\frac{1}{2}$ hora. 
+
+um terço do copo de água --> $\frac{1}{3}$ do copo de água
+
+um quarto de século --> $\frac{1}{4}$ de século
+
+$\cdots$
+
+um décimo deste valor --> \frac{1}{10}$ deste valor.
+
+
+Alice com expressão zangada.
+
+Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
+
+Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro e não um embaixo do outro!
 </WRAP>
 
 Na Lição 1 você aprendeu que quando uma unidade (figura ou objeto) é dividida em partes iguais, cada uma dessas partes é chamada de //uma fração da// unidade.  
