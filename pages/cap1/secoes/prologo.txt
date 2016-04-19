@@ -3,24 +3,16 @@ Para preparar o terreno para a divisão de frações, não deveríamos, de algum
 </hidden>
 
 
-<hidden H: DÚVIDA FILOSÓFICA IMPORTANTE (USAR UNIDADE NO LUGAR DE TODO)>
-Ao escrever a lição 2, fiquei com a impressão de que usar "UNIDADE" é mais adequado do que "TODO". Por exemplo, considere o problema de dividir 3 tortas entre 5 pessoas. Se eu usar o termo "TODO", a palavra "puxa" para as três tortas, afinal, é "tudo o que há". "UNIDADE" não tem este problema.
-
-**FS:** Concordo plenamente!!! Eu falei a mesma coisa outro dia, mas parece qeu fui voto vencido.
-**LET:** Creio que já havíamos discutido isso. Se não me engano, optamospor todo para não ficar muito distante do que o professor já está acostumado. Mas, pessoalmente, também prefiro unidade. No entanto, se decidirmos por unidade, acho que temos que, em alguum momento, elaborar um seção 0 para trabalhar o conceito de unidade "não atômica". 
-</hidden>
-
-
 <WRAP professor> Esta lição tem por objetivo introduzir frações unitárias a partir de modelos visuais contínuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", fazendo uso de expressões verbais como, por exemplo, "metade de...", "um terço de...", "a terça parte de...", "um quarto de...", para indicar essas frações.  
 
-As atividades iniciais visam à partição de uma unidade, que, nesta lição, é nomeda "todo". O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor um todo. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. 
+As atividades iniciais visam à partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. 
 
 
-A participaçào do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução da seção.
+A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução da seção.
 
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 1:
 O aluno deve ser capaz de:
-  * Compreender a necessária equipartição da unidade (todo) para a identificação de frações unitárias.
+  * Compreender a necessária equipartição da unidade para a identificação de frações unitárias.
   * Indentificar, a partir de representações visuais diversas, frações unitárias de denominador variando de 2 a 10. 
   * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
   * Comparar frações unitárias por meio de representações visuais (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza). 
