@@ -22,9 +22,14 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 
-Em cada uma das imagens, a parte colorida é uma fração da figura. Essas frações podem ser "um meio", "um terço" ou "um quinto". Associe cada imagem à fração correspondente.
+Em cada uma das imagens, a parte colorida é uma fração da figura. Essas frações podem ser "um meio", "um quarto" ou "um décimo". Associe cada imagem à fração correspondente.
 
-<WRAP imagem> {{ :cap1:secoes:ummeio_umquarto_um_decimo.jpg |}} </WRAP>
+<WRAP imagem> 
+
+{{ :undefined:ummeio_umquarto_um_decimo.jpg?300 |}}
+
+
+</WRAP>
 
 <WRAP resposta> (A) meio,  (B) quinto, (C) terço, (D) terço,\\
 (E) quinto, (F) terço, (G) meio, (H) quinto,\\
