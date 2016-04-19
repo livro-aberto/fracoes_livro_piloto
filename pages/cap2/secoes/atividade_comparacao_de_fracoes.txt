@@ -7,6 +7,8 @@ Objetivos específicos:
 Um grupo de amigos está dividindo duas pizzas do mesmo tamanho. A primeira pizza foi cortada em 6 fatias de mesmo tamanho. A segunda pizza foi dividida em 8 fatias iguais.
 
 (A) Uma fatia da primeira pizza é que fração da pizza?
+
 (B) Uma fatia da segunda pizza é que fração da pizza?
+
 (C) Qual fatia tem mais quantidade de pizza: uma fatia da primeira pizza ou uma fatia da segunda pizza? Explique usando um desenho.
 
