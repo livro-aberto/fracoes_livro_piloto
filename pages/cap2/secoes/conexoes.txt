@@ -16,6 +16,8 @@ Quando se decide cortar as tortas em três partes iguais, as fatias são terços
 
 Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração.
 
+Os nomes numerador e denominador são utilizados para frações quaisquer mesmo que o denominador seja diferente de 3.
+
 <WRAP imagem> Figura fração $\dfrac{a}{b}$ com numerador e denominador destacados, flexinha e tudo mais. </WRAP>
 
-Para divisões diferentes de 3 partes iguais, o número de 
+
