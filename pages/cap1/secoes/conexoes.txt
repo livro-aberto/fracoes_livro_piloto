@@ -75,6 +75,10 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
 </hidden>
 
+<hidden OBSERVAÇÕES DE 19 DE ABRIL>
+**FS:** Na parte inicial destas conexões, onde falamos da História da Humanidade, poderíamos usar a ideia que o Humberto deu há um tempo sobre o uso dos números usando uma figura em que aparecia um CPF, umas ovelhas e mais outra figura de que não me lembro. Acredito que isso tornaria a linguagem mais acessível. Os exemplos acima podem ser modificados caso você ache que estão inapropriados para esta faixa etária, Letícia.
+</hidden>
+
 <hidden DUVIDAS>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
