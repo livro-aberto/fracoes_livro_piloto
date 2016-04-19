@@ -7,11 +7,15 @@ Nesta etapa, não se espera que os alunos compreendam as frações como números
 
 Objetiva a expressão verbal e não a representação simbólica. Assim, espera-se que os alunos apropriem-se primeiro das expressões verbais que identificam as frações unitárias (um meio, um terço, um quarto, ... , um nono e um décimo) antes de serem apresentados formalmente à simbologia matemática (Que será objetivo da próxima lição).  A referência às frações unitárias com a expressão "um" antes da identicação da parte, como, por exemplo, em "um terço" e em "um sétimo" é uma decisão pedagógica. É possível simplesmente se referir a essas frações por "terço" e "sétimo", respectivamente. No entanto, nas próximas seções, pretende-se que as frações não unitárias, como "dois terços" e "nove sétimos", por exemplo, sejam entendidas a partir da justaposição das frações unitárias, naturalmente amparando essa abordagem pela contagem das frações unitárias correspondentes. Assim, as expressões verbais associadas às fraçoes unitárias também são associadas à cotagem a partir do "um". A compreensão das fraçoes "Um terço" e de "dois terços" ou de "um sétimo" e de "nove sétimos", por exemplo, seguem a mesma construção lógica.  
 
-
 </WRAP>  
 
 
-Na História da Humanidade, inicialmente os números foram criados para contar objetos (animais, pedras, pessoas, etc.).
+Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. Vamos, a partir de agora, aprender novos números! Eles são necessários em certas situações como, por exemplo, na questão de se dividir de forma justa uma barra de chocolate entre um grupo de amigos.
+<WRAP imagem>
+{{ :cap1:numeros-naturais-01.png?600 |}}
+</WRAP>
+
+Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.).
 Os números representam //quantidades//. Por exemplo, em: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
 
 Nas atividades realizadas até aqui, barra de chocolate, pizzas e barbante foram repartidos em partes. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //todo//. 
@@ -76,7 +80,7 @@ estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem d
 </hidden>
 
 <hidden OBSERVAÇÕES DE 19 DE ABRIL>
-**FS:** Na parte inicial destas conexões, onde falamos da História da Humanidade, poderíamos usar a ideia que o Humberto deu há um tempo sobre o uso dos números usando uma figura em que aparecia um CPF, umas ovelhas e mais outra figura de que não me lembro. Acredito que isso tornaria a linguagem mais acessível. Os exemplos acima podem ser modificados caso você ache que estão inapropriados para esta faixa etária, Letícia.
+**FS:** Sugiro suprimir o parágrafo: "Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.)...."
 </hidden>
 
 <hidden DUVIDAS>
