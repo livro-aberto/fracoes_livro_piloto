@@ -12,7 +12,7 @@ Também pode-se considerar quatro terços da torta, basta adicionar uma nova fat
 
 <WRAP imagem> Figura da torta dividida em 3 partes iguais com uma fatia extra.</WRAP>
 
-Quando se decide cortar as tortas em três partes iguais, as fatias são terços. Como as frações que surgem deste modo de dividir são um terço, dois terços, três terços, quatro terços, cinco terços, etc. O número 3 na parte debaixo dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
+Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço, dois terços, três terços, quatro terços, cinco terços, etc. O número 3 na parte debaixo dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
 Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração.
 
