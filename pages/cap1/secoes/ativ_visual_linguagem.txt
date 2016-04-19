@@ -31,9 +31,10 @@ Em cada uma das imagens, a parte colorida é uma fração da figura. Essas fraç
 
 </WRAP>
 
-<WRAP resposta> (A) meio,  (B) quinto, (C) terço, (D) terço,\\
-(E) quinto, (F) terço, (G) meio, (H) quinto,\\
-(I) terço, (J) meio, (L) quinto, (M) terço</WRAP>
+<WRAP resposta> (A) um meio,  (B) um décimo, (C) um quarto, (D) um quarto,\\
+(E) um quarto, (F) um meio, (G) um quarto, (H) um décimo,\\
+(I) um quarto, (J) um décimo, (L) um quarto, (M) um meio
+</WRAP>
 
 
 <hidden OBSERVAÇÕES>
