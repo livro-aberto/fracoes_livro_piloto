@@ -1,19 +1,21 @@
 ====== CONEXÕES ======
 
-Quando uma torta está dividida em três partes iguais, a torta fica dividida em três terços. Assim como visto na historinha do início da lição tanto faz escrever: $\dfrac{1}{3}$ da torta ou um terço da torta para se referir à fatia representada na figura.
+Quando uma torta está dividida em três partes iguais, a torta fica separada em três terços. Assim como visto na historinha do início da lição tanto faz escrever: $\dfrac{1}{3}$ da torta ou um terço da torta para se referir à fatia representada na figura.
 
 <WRAP imagem> Figura da torta dividida em 3 partes iguais com uma das partes destacada.</WRAP>
 
 Tomando duas destas fatias teremos dois terços da torta, o que pode ser expresso simplesmente por $\dfrac{2}{3}$ da torta. Deste modo é claro que três terços da torta é uma torta inteira.
 
-Figura: 2 e 3 terços da torta.
+<WRAP imagem> Figura de duas tortas divididas em 3 partes iguais uma com duas partes destacadas e outra com as tr6es partes destacadas.</WRAP>
 
 Também pode-se considerar quatro terços da torta, basta adicionar uma nova fatia à torta inteira.
 
-Figura: 4 terços da torta.
+<WRAP imagem> Figura da torta dividida em 3 partes iguais com uma fatia extra.</WRAP>
 
-Quando se decide cortar as tortas em três partes iguais, as fatias são terços. Como as frações que surgem deste modo de dividir são um terço, dois terços, três terços, quatro terços, cinco terços, etc. O número debaixo dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
+Quando se decide cortar as tortas em três partes iguais, as fatias são terços. Como as frações que surgem deste modo de dividir são um terço, dois terços, três terços, quatro terços, cinco terços, etc. O número 3 na parte debaixo dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
 Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração.
 
-Figura fração numerador e denominador.
+<WRAP imagem> Figura fração $\dfrac{a}{b}$ com numerador e denominador destacados, flexinha e tudo mais. </WRAP>
+
+Para divisões diferentes de 3 partes iguais, o número de 
