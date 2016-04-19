@@ -2,9 +2,9 @@
 
 Objetivos específicos: Levar o aluno a
 
-  * Perceber que "um todo" (no caso, uma pizza) pode ser subdividido em uma quantidade igual de partes sem que essa divisão represente uma equipartição.
+  * Perceber que a unidade (no caso, uma pizza) pode ser subdividida em uma quantidade igual de partes sem que essa divisão represente uma equipartição.
   * Distinguir uma equipartição dentre partições diversas.
-  * Diferenciar "a divisão de um todo em quatro partes quaisquer" da "divisão de um todo em quatro partes iguais". 
+  * Diferenciar "a divisão da unidade em quatro partes quaisquer" da "divisão da unidade em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
   
 
@@ -18,7 +18,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Os alunos devem reconhecer que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
   * Essa atividade pode ser adaptada para alunos com necessidades especiais de visão. Para isso, sugere-se confeccionar os modelos das três pizzas repartidas, que estão disponíveis para reprodução (**Inserir LINK de página para reprodução**), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado. 
 
-<WRAP imagem> NA PÄGINA PAA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
+<WRAP imagem> NA PÁGINA PAA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
 
 {{:cap1:secoes:licao1_atv2.png?500|}}
 ilustração: Cambrainha
