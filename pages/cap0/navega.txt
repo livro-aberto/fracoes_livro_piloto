@@ -28,8 +28,7 @@ Estrutura de capítulos versão 1:
     * Lição 5: Adição e subtração de frações.
     * Lição 6: Multiplicação de frações.
     * Lição 7: Divisão de frações.
-    * Lição 8: Razão e proporção.
-    * Lição 9: Divisão e medida.
+    * Lição 8: Divisão e medida.
 
 ====== Introdução para o estudante ======
 
