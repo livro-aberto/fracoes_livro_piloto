@@ -45,9 +45,6 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:ativ_hexag}}
 
-===== - Atividade =====
-
-{{page>cap1:secoes:ativ_terco_metade}}
 
 ===== - Atividade =====
 
