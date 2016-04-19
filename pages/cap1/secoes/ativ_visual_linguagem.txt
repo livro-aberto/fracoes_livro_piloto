@@ -1,7 +1,8 @@
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a:
-  * Reconhecer e diferenciar a representação das frações "um meio", "um terço" ou "um quinto" e modelos diversos. 
+  * Reconhecer e diferenciar a representação das frações "um meio", "um terço" ou "um quinto" em modelos diversos. 
+  * Estabelecer a identificação 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que o aluno pode fazer individualmente.
