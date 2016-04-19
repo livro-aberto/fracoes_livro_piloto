@@ -13,11 +13,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa atividade pode ser adaptada para alunos com necessidades especiais de visão. Para isso, sugere-se confeccionar os modelos da barra de chocolate  inteira e repartida, que estão disponíveis para reprodção (**Inserir LINK de página para reprodução**), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado.  
   * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, observarem que há diferentes representações para a equipartição. Por exemplo, 
 
-<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVAS DE POSSÍVEIS RESPOSTAS.
-Inserir 4 (quatro) imagens iguais a da barra de chocolate ilustrativa da atividade, cada uma delas indicando diferentes equipartições em terços. Por exemplo, com os cortes como os sugeridos a seguir:
-{{ :cap1:secoes:tercos.jpg?direct&100 |}}
-
-</WRAP>
 
 <hidden OBS>
 NECESSITA PÁGINA DE REPRODUÇÃO 
