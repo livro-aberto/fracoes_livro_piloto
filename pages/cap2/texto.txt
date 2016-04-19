@@ -93,3 +93,8 @@
 
 {{page>cap2:secoes:refletindo}}
 
+===== - Atividade =====
+
+{{page>cap1:secoes:ativ_terco_metade}}
+
+
