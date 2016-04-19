@@ -3,6 +3,7 @@ FRAÇÕES: A UNIDADE E AS SUBDIVISÕES
 
 <WRAP professor>
 Objetivos específicos:
+OBSERVAR A EQUIPARTICAO EM UM MODELO CONTINUO QU SE APROXIMA DA RETA
 Observar as diversas partições do inteiro e associá-las as representações  1/b e a/b
 
 Recomendações:
