@@ -63,6 +63,10 @@
 
 {{page>cap2:secoes:atividade_comparacao_de_fracoes}}
 
+===== - Atividade =====
+
+{{page>cap2:secoes:atividade_gasolina}}
+
 
 
 
