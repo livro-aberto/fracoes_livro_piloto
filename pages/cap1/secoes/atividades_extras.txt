@@ -11,3 +11,25 @@
 {{page>cap1:secoes:atividade1005}}
 
 {{page>cap1:secoes:atividade1006}}
+
+
+
+===== - Atividade =====
+
+{{page>cap1:secoes:ativ_pintura}}
+
+/*
+page>cap1:secoes:atividade11
+
+page>cap1:secoes:atividade12
+ */
+
+{{page>cap1:secoes:refletindo}}
+
+/* Limbo (Dá para Aproveitar?) */
+
+/*
+page>cap1:secoes:atividade13
+
+page>cap1:secoes:atividade14
+*/
