@@ -1,13 +1,13 @@
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a:
-  * Representar uma fração unitária (no caso, um meio ou metade) a partir de um todo dado.  
-  * Estabelecer representações diferentes para a mesma fração unitária e para um mesmo todo.
+  * Representar uma fração unitária (no caso, um meio ou metade) a partir de uma unidade dada.  
+  * Estabelecer representações diferentes para a mesma fração unitária e para uma mesma unidade.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente. 
   * Como na atividade anterior, não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
-  * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades no todo apresentado.
+  * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
   * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 
