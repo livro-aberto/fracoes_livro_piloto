@@ -119,7 +119,7 @@ Miguel escrevendo no quadro para mostrar para Alice
 
 Alice: A gente dividiu algumas figuras no papel e algumas coisas de verdade em partes iguais. Tem que ser em partes iguais ou com a mesma quantidade em cada parte! Aí demos nomes a essas partes. Tipo: se forem duas partes, cada uma é metade da coisa, se forem três, cada uma é um terço, quatro, um quarto e assim vai.
 
-Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, falou que um quarto é $frac{1}{4}$, um quinto é $\frac{1}{5}$.
+Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, falou que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
 
 Quadrinho 3
 
