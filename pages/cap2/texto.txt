@@ -70,6 +70,15 @@
 
 
 
+/*
+===== - Atividade =====
+
+{{page>cap2:secoes:atividade1}}
+ */
+
+{{page>cap2:secoes:refletindo}}
+
+
 ===== - Atividade =====
 
 {{page>cap2:secoes:atividade_sera_tres_quintos}}
@@ -84,14 +93,6 @@
 
 
 
-
-/*
-===== - Atividade =====
-
-{{page>cap2:secoes:atividade1}}
- */
-
-{{page>cap2:secoes:refletindo}}
 
 ===== - Atividade =====
 
