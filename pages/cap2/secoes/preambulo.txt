@@ -152,7 +152,7 @@ Miguel: Minha mãe sabe do que está falando. Hoje no ônibus ela me mostrou fra
 
 {{ :cap2:secoes:boia-tubular-compativel-com-marcador-de-combustivel-nauticos-14480-mlb2755833842_052012-o.jpg?200 |}}
 
-{{ :cap2:secoes:3ccsyringeminim-02.jpg?200 |}}
+{{ :cap2:secoes:3ccsyringeminim-02.jpg?100 |}}
 
 {{ :cap2:secoes:jarra-de-vidro-graduada-300x199.jpg?200 |}}
 
