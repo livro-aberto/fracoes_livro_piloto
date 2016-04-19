@@ -101,3 +101,31 @@ H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fra
 {{:cap2:secoes:porcas-e-parafusos.jpg?800|}}
 
 </hidden>
+<WRAP imagem>
+QUADRINHOS
+
+Miguel é um menino negro de cabelos cheios e cacheados.
+Alice é uma menina morena de rabo de cavalo.
+
+Quadrinho 1
+
+Alice: Oi Miguel! Por que você faltou a aula passada? A professora falou de frações.
+
+Miguel: Eu tive febre. Mas a minha mãe viu que era sobre frações e me ensinou um pouco em casa. Não sei se entendi direito...
+
+Quadrinho 2
+
+Miguel escrevendo no quadro para mostrar para Alice
+
+Alice: A gente dividiu algumas figuras no papel e algumas coisas de verdade em partes iguais. Tem que ser em partes iguais ou com a mesma quantidade em cada parte! Aí demos nomes a essas partes. Tipo: se forem duas partes, cada uma é metade da coisa, se forem três, cada uma é um terço, quatro, um quarto e assim vai.
+
+Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, falou que um quarto é $frac{1}{4}$, um quinto é $\frac{1}{5}$.
+
+Quadrinho 3
+
+Alice: A professora não nos mostrou estes números em linhas diferentes...
+
+Miguel: Minha mãe também não
+</WRAP>
+
+Na Lição 1 você aprendeu que quando uma unidade (figura ou objeto) é dividida em partes iguais, cada uma dessas partes é chamada de //uma fração da// unidade.  
