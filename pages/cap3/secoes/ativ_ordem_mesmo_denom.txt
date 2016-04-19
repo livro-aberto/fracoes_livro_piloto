@@ -37,5 +37,8 @@ e)	Se nós incluirmos esta última fração na sequência do item (a) qual a pos
 f)	O que de diferente podemos destacar nessa fração em relação às demais?
 
 
-<hidden OBS> **FS:** Até agora as atividades usavam o imperativo. Estas são mais abertas. Acredito que tenhamos que fazer uma escolha quanto a isso.
+<hidden OBS> 
+**FS:** Até agora as atividades usavam o imperativo. Estas são mais abertas. Acredito que tenhamos que fazer uma escolha quanto a isso.
+
+**H (2016/04/18):** Francisco, será que os alunos, para o comando "Vamos tentar ordená-las em ordem crescente?", já entendem o que significa colocar as frações em ordem crescente a partir de suas representações (notações?)? Digo, eles já se desprenderam da compração via a figura que representa a quantidade de já conseguem operar com os símbolos para frações?
 </hidden>
