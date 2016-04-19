@@ -81,10 +81,9 @@
 
 
 
-
+/*
 ===== - Atividade =====
 
-/*
 {{page>cap2:secoes:atividade1}}
  */
 
