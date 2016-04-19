@@ -1,7 +1,7 @@
 <WRAP professor>
 Objetivos específicos: 
   * Levar o aluno a identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" com diferentes modelos de frações.
-  * Reforçar a ideia que uma fração "n/m" representa "n" cópias de "1/m" quando cópias múltiplas da unidade estão divididas em "m" partes iguais.
+  * Reforçar a ideia que uma fração "$\frac{n}{m}$" representa "n" cópias de "1/m" quando cópias múltiplas da unidade estão divididas em "m" partes iguais.
   * Evidenciar em um primeiro momento a importância da unidade (para o caso de frações impróprias).
 </WRAP>
 
