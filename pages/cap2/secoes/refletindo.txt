@@ -1,3 +1,5 @@
 ====== PARA REFLETIR ====== 
 
+/*
 Reflect da página 182 do vol. 4 do Math Makes Sense.
+*/
