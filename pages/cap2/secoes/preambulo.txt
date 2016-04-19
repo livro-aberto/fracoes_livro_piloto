@@ -116,7 +116,7 @@ Miguel: Eu tive febre.
 
 **Quadrinho 2**
 
-Miguel escrevendo no quadro para mostrar para Alice
+Miguel escrevendo no quadro as frações abaixo para mostrar para Alice
 
 Miguel: A minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
 
