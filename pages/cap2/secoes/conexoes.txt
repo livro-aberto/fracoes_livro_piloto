@@ -4,7 +4,7 @@ Quando uma torta está dividida em três partes iguais, a torta fica separada em
 
 <WRAP imagem> Figura da torta dividida em 3 partes iguais com uma das partes destacada.</WRAP>
 
-Tomando duas destas fatias teremos dois terços da torta, o que pode ser expresso simplesmente por $\dfrac{2}{3}$ da torta. Deste modo é claro que três terços da torta é uma torta inteira.
+Duas fatias são dois terços da torta, o que pode ser expresso simplesmente por $\dfrac{2}{3}$ da torta. Deste modo é claro que três terços da torta é uma torta inteira.
 
 <WRAP imagem> Figura de duas tortas divididas em 3 partes iguais uma com duas partes destacadas e outra com as tr6es partes destacadas.</WRAP>
 
