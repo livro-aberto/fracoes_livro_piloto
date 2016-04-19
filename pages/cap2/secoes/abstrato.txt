@@ -12,10 +12,16 @@ um terço --> $\frac{1}{3}$,\\
 um quarto --> $\frac{1}{4}$ e\\
 um quinto --> $\frac{1}{5}$.\\
 
+<hidden OBS>
+**FM** pe pareceu desnecessário incluir esta conexão. Porque já não introduzimos desde o inicio os símbolos para as frações que aparecem nesta lição. O comentario para o professor também não é necessário. O professornão acha estranho a representação, ele tem dificuldade com o conteúdo mas está muito acostumado com a representação. É bem informado sobre frações, não tem é formação para trabalhar com ela
+</hidden>
+
 <WRAP professor> Esta representação costuma parecer estranha aos estudantes porque até agora os números eram representados apenas por algarismos e sempre na horizontal. 
 Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).</WRAP>
 
 /*
+
+
 
 H: Sistematização da reta numérica ficou para a próxima lição, não é?
 
