@@ -50,6 +50,13 @@ Consirando a divisão da barra de chocolate em 3 partes iguais, como você nomea
 
 <hidden Resposta>
 <WRAP resposta>
-**INCLUIR Algumas possíveis soluções para a atividade, que estarão disponíveis apenas para os professores.** 
+A divisão não é justa baseada no fato de que as partes não são iguais entre si.
+
+Respostas possíveis:(Certificar-se de que cada grupo justifique verbalmente as suas divisões)
+
+{{:cap1:secoes:licao1_atv1.png?600|}}
+
+Cada parte é "um terço" da barra ou a "terça parte" da barra.
+
 </WRAP>
 </hidden>
