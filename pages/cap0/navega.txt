@@ -35,6 +35,10 @@ Estrutura de capítulos versão 1:
 
 <hidden OBSERVAÇÕES>
 **HB:** 
+    * Não esquecer de descrever os objetivos das seções (Mão na Massa, Para Refletir, etc.).
+    * Não esquecer de colocar uma justificativa sobre a ausência dos números decimais (projeto com duração fixa, projeto piloto para avaliação, ...).
+    * Contar um pouco de como surgiu este material?
+    * Explicar decisões: todo x unidade; não falar de frações próprias e impróprias; ...
     * Frações é um assunto onde aparecem números que os alunos não estão acostumados a ver no seu dia-a-dia. Tirando as frações canônicas: $1/2$, $1/4$, $3/4$, ..., as demais frações não são usadas. Números decimais e porcentagens são empregados no lugar.
 
 **FS:**
