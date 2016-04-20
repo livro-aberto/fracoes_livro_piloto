@@ -1,6 +1,8 @@
 ====== CONEXÕES ======
 <WRAP professor>
 
+Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas.
+
 A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com números com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
 Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).
 </WRAP>
