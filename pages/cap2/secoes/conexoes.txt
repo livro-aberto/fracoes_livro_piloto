@@ -1,4 +1,9 @@
 ====== CONEXÕES ======
+<WRAP professor>
+
+A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com números com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
+Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).
+</WRAP>
 
 Se uma torta está dividida em três partes iguais, a torta fica separada em três terços. Assim como visto na historinha do início da lição tanto faz escrever: "$\dfrac{1}{3}$ da torta" ou "um terço da torta" para se referir à fatia destacada na figura.
 
