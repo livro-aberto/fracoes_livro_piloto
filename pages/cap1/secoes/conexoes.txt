@@ -68,6 +68,17 @@ LET: Combinamos até décimos.
 
 Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
+<hidden OBSERVAÇÕES DE 21 DE ABRIL>
+**FS:** 
+1. Nestas Conexões onde entrarão as figuras representativas de meio, um terço, um quarto, um quinto, etc. sugiro que estejam ao menos três ou quatro representações de cada um porque este é o único local de teoria nesta lição.
+
+2. Também nas conexões, sugiro que siga até o um décimo pois a lição se propõe a seguir até o um décimo. 
+</hidden>
+
+<hidden OBSERVAÇÕES DE 19 DE ABRIL>
+**FS:** Sugiro suprimir o parágrafo: "Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.)...."
+</hidden>
+
 <hidden OBSERVAÇÕES DE 13 E 14 DE ABRIL>
 **HB:** Como na reunião do dia 12/04/2016 ocorreu, mesmo entre nós, aquela dúvida sobre o que significa o "um" em "um terço", não seria adequado fazer esta observação para professor ou para o aluno? Dizer, por exemplo, que estamos falando "um terço" no mesmo sentido que falaremos de "dois terços" na próxima lição.
 
@@ -79,9 +90,6 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
 </hidden>
 
-<hidden OBSERVAÇÕES DE 19 DE ABRIL>
-**FS:** Sugiro suprimir o parágrafo: "Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.)...."
-</hidden>
 
 <hidden DUVIDAS>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
