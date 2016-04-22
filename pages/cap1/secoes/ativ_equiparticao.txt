@@ -61,4 +61,6 @@ Cada parte é "um terço" da barra ou a "terça parte" da barra.
 
 <hidden OBS FS 21/04/2016>
 Em princípio, o estudante não sabe responder ao item (D) neste momento. É para ser assim mesmo? Sugiro que seja dito ao professor que não há problema se o estudante não conhecer a palavra "terço" neste momento, e que ele pode aproveitar para apresentar o termo ao estudante após eles se expressarem de outras maneiras.
+
+LET: Fábio, é assim mesmo. A ideia é que o professor aproveite a discussão para apresentar tal expressão. Já incluí a discussão nas recomendações. 
 </hidden>
