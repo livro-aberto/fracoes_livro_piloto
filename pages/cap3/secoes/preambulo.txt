@@ -51,22 +51,21 @@ Livro canadense tem boas inspirações:
 {{ :cap3:secoes:livro_canadense_1.jpg?300 |}}
 
 {{ :cap3:secoes:livro_canadense_2.jpg?300 |}}
-
+\n
 
 Atividade 2: Atividade de revisão que visa resgatar a equipartição e a representação simbólica em um modelo que também remeta à reta. 
-Por exemplo, barrinhas ou fitas semelhantes a cousenaire.
+Por exemplo, barrinhas ou fitas semelhantes a cousenaire.\n
 
-Atividade 3: Atividade de comparação envolvendo o material apresentado na atividade 2. 
+Atividade 3: Atividade de comparação envolvendo o material apresentado na atividade 2.\n
 
-Atividade 4: Atividade de leitura de escalas que aparecem no cotidiano (por exmplo, marcador de combustível) em que a reta numerada seja apresentada
-envolvendo frações não necessariamente unitárias.
+Atividade 4: Atividade de leitura de escalas que aparecem no cotidiano (por exmplo, marcador de combustível) em que a reta numerada seja apresentada envolvendo frações não necessariamente unitárias. \n
 
 Atividade 5: Atividade que leve o aluno a perceber a equivalência de frações para uma mesma unidade. 
-Destaque para 2/4 e 1/2; 2/6 e 1/3. É importante ter o apoio de material concreto. Por exemplo, o material usado na atividade 2
+Destaque para 2/4 e 1/2; 2/6 e 1/3. É importante ter o apoio de material concreto. Por exemplo, o material usado na atividade 2. \n
 
-Atividade 6: Atividade que destaque a unidade como a fração n/n, ou seja, como n "cópias" da fraçào 1/n.
+Atividade 6: Atividade que destaque a unidade como a fração n/n, ou seja, como n "cópias" da fraçào 1/n.\n
 
-Atividade 7: Atividade que envolva a represetação de fraçoes maiores que a unidade (impróprias) na reta numerada.
+Atividade 7: Atividade que envolva a represetação de fraçoes maiores que a unidade (impróprias) na reta numerada.\n
 
 
 **Conexões**
