@@ -15,15 +15,13 @@ Você já estudou os números naturais e viu como eles são úteis para contar, 
 {{ :cap1:numeros-naturais-01.png?600 |}}
 </WRAP>
 
-Os números representam //quantidades//.
-"Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
+Os números representam //quantidades//. Por exemplo, "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //a metade// de um copo de leite".
 
-Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //unidade//. E cada uma das partes é uma fração  
+Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//. E cada uma das partes em que essas unidades foram repartidas é uma //fração da unidade//. O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
 
 Ao dividir uma unidade qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //a metade// da unidade. 
 
-Por exemplo, 
-Se uma barra de chocolate é repartida igualmente entre dois amigos, a quantidade que caberá a cada um dos amigos é //um meio// da barra de chocolate (ou //metade// da barra). Nesse exemplo, a unidade é a barra de chocolate.
+Por exemplo, se uma barra de chocolate é repartida igualmente entre dois amigos, a quantidade que caberá a cada um dos amigos é //um meio// da barra de chocolate (ou //metade// da barra). Nesse exemplo, a unidade é a barra de chocolate.
 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVA de metade <hidden documentação das imagens>
 **Imagem de duas crianças a barra de chocolate em que a metade é identificada**
@@ -44,7 +42,7 @@ Por exemplo:
 </hidden></WRAP>
 
 
-Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// do todo. 
+Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// da unidade. 
 
 Por exemplo,
 A parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
@@ -64,12 +62,13 @@ Por exemplo,
 </hidden> </WRAP>
 
 
-Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
 <hidden OBSERVAÇÕES DE 22 DE ABRIL>
 **LR:** 
 1.Tentei melhorar o texto original para o aluno nesta parte, mas ainda tenho dúvida sobre abordar as diferentes funções do número, uma vez que estamos tratando apenas da medida. Além disso, essa função do número não está clara na abordagem. Estamos dando ênfase à ideia de quantidade. 
 </hidden>
+
+2.Retirei "Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//."
 
 <hidden OBSERVAÇÕES DE 21 DE ABRIL>
 **FS:** 
