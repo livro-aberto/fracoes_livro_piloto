@@ -15,9 +15,10 @@ Na História da humanidade, os números foram criados para contar objetos (por e
 {{ :cap1:numeros-naturais-01.png?600 |}}
 </WRAP>
 
-Os números representam //quantidades//. Por exemplo, em: "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
+Os números representam //quantidades//.
+"Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //metade// de um copo de leite".
 
-Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //unidade//. 
+Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate inteira, cada pizza inteira e o pedaço de barbante são chamados de //unidade//. E cada uma das partes é uma fração  
 
 Ao dividir uma unidade qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //a metade// da unidade. 
 
@@ -45,7 +46,7 @@ Por exemplo:
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// do todo. 
 
 Por exemplo,
-Após //um quarto// de século o feitiço perderá seu efeito. Neste caso, a //fração um quarto// do século foi o tempo que durou o feitiço.
+A parte colorida na figura a seguir é um quarto da figura. Neste caso, a figura é a unidade
 
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos <hidden documentação das imagens>
@@ -81,23 +82,12 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 **FS:** Sugiro suprimir o parágrafo: "Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.)...."
 </hidden>
 
-<hidden OBSERVAÇÕES DE 13 E 14 DE ABRIL>
-**HB:** Como na reunião do dia 12/04/2016 ocorreu, mesmo entre nós, aquela dúvida sobre o que significa o "um" em "um terço", não seria adequado fazer esta observação para professor ou para o aluno? Dizer, por exemplo, que estamos falando "um terço" no mesmo sentido que falaremos de "dois terços" na próxima lição.
-
-**FS:** Concordo plenamente. Nós mesmos não tínhamos nos atentado a este fato.
-
-**FS:** Sugiro que a Estela apague essas observações conforme as tenha utilizado ou tenha decidido não levá-las em consideração.
-
-**LET** Vou fazer isso... Já fiz. O que acham?
-estou tendo um pouquinho de dificuldade para adequar esta seção à linguagem dos alunos... :(
-</hidden>
 
 
 <hidden DUVIDAS>
 Incluir atividades com a questão das partes iguais e para fixar a importância do todo (área, perímetro, número de peças, etc.). Sugestão utilizar as figuras do Van-der-walle, página 326.
 
 VOCABULÁRIO:
-Todo;
 Unidade;
 Inteiro;
 Metade;
@@ -111,8 +101,6 @@ Sétimos
 Oitavos
 Nonos
 Décimos
-
-- representação simbólica
 
 AP: Nos exemplos de metades, terços e quartos utilizar diferentes representação: disco, retângulo, hexágono, linha.
 AP: Acho que essa parte da conexão chamando a atenção para o fato da fração ser um número deva vir somente na lição 2.
