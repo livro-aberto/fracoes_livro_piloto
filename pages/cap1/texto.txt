@@ -1,4 +1,4 @@
-====== LIÇÃO 1 - Todo, metade, um terço e um quarto ... um décimo ======
+====== LIÇÃO 1 - Metade de..., um terço de..., $\cdots$, um décimo de... ======
 
 {{page>cap1:secoes:prologo}}
 
