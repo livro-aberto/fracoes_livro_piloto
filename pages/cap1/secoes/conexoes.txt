@@ -10,7 +10,7 @@ Objetiva-se a expressão verbal e não a representação simbólica. Espera-se, 
 </WRAP>  
 
 
-Na História da humanidade, os números foram criados para contar objetos (por exemplo, animais, pedras, pessoas, etc.). Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. A partir de agora, vamos conhecer novos números! Esses números são necessários para registrar quantidade em algumas situações como, por exemplo, para expressar a quantidade de chocolate que cabe a cada um de três amigos quando repartem igualmente uma barra de chocolate.
+Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. A partir de agora, vamos conhecer novos números! Esses números são necessários para registrar quantidade em algumas situações como, por exemplo, para expressar a quantidade de chocolate que cabe a cada um de três amigos quando repartem igualmente uma barra de chocolate.
 <WRAP imagem>
 {{ :cap1:numeros-naturais-01.png?600 |}}
 </WRAP>
@@ -77,11 +77,6 @@ Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de
 
 2. Também nas conexões, sugiro que siga até o um décimo pois a lição se propõe a seguir até o um décimo. 
 </hidden>
-
-<hidden OBSERVAÇÕES DE 19 DE ABRIL>
-**FS:** Sugiro suprimir o parágrafo: "Na História da Humanidade, os números foram criados para contar objetos (animais, pedras, pessoas, etc.)...."
-</hidden>
-
 
 
 <hidden DUVIDAS>
