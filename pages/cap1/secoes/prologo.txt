@@ -7,7 +7,7 @@ Para preparar o terreno para a divisão de frações, não deveríamos, de algum
 
 As atividades iniciais visam à partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
 
-As demais atividades envolvem a abordagem das fraçoes unitárias em contextos diversos. Por exemplo, 
+As demais atividades envolvem a abordagem das frações unitárias em contextos diversos. Por exemplo, iferenciar a divisão da unidade em partes “quaisquer” da divisão da unidade em partes “iguais” (equipartição); Reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade; Perceber que a unidade (no caso, uma pizza) pode ser subdividida em uma quantidade igual de partes sem que essa divisão represente uma equipartição; Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma; Distinguir uma equipartição específica dentre partições diversas; Reconhecer a quarta parte como a metade da metade.
 
 A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução da seção.
 
@@ -18,12 +18,6 @@ O aluno deve ser capaz de:
   * Utilizar a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
   * Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza).
 
-
-<hidden OBS FS 21/04/2016 para Letícia> 
-
-
-3. O segundo parágrafo parece incompleto, diz objetivos das primeiras atividades, mas não das demais, expõe alguns objetivos da lição, mas não todos. Sugiro retirá-lo por inteiro ou melhorá-lo.  
-</hidden>
 
 <hidden OBSERVAÇÕES>
   * Serão tratados apenas modelos contínuos por enquanto;
