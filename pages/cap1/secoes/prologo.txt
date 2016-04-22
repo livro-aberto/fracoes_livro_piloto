@@ -20,13 +20,13 @@ O aluno deve ser capaz de:
 <hidden OBS FS 21/04/2016> 
 
 1. Sugiro mudar os objetivos específicos para: 
-  " * Diferenciar uma partição qualquer de uma equipartição (em partes iguais) de um mesmo objeto e identificar a fração unitária correspondente.
+  * Diferenciar uma partição qualquer de uma equipartição (em partes iguais) de um mesmo objeto e identificar a fração unitária correspondente.
   * Identificar, a partir de representações visuais diversas, frações unitárias de denominador variando de 2 a 10. 
   * Utilizar a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
-  * Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza)." 
+  * Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza).
 
 2. Sugiro incluir em algum lugar deste texto introdutório ao professor a seguinte observação:
-"Recomenda-se que o professor evite apresentar o termo 'fração unitária' ao estudante porque ... "
+"Recomenda-se que o professor evite apresentar o termo 'fração unitária' ao estudante por ser desnecessário e fazê-lo pode afastar o foco que pretende-se na lição."
 </hidden>
 
 <hidden OBSERVAÇÕES>
