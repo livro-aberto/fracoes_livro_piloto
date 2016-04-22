@@ -32,11 +32,11 @@ Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte d
 
 </WRAP>
 
-Você concorda com essa divisão? Explique.
+(A) Você concorda com essa divisão? Explique.
 
-Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
+(B) Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
 
-Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate.
+(C) Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate.
 
 <WRAP imagem> Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apenas a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.
 
