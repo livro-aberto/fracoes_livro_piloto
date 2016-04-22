@@ -20,8 +20,8 @@ Os números representam //quantidades//. Por exemplo, "Em uma casa vivem //dois/
 Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//. Cada uma das partes em que essas unidades foram repartidas é uma //fração da unidade//. 
 
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVAS 
-**Imagem de uma pizza dividida e de um pedaço de barbante, cada um dividido em 4 partes.**
-</hidden></WRAP>
+**Imagem de uma pizza e de um pedaço de barbante, cada um dividido em 4 partes.**
+</WRAP>
 
 O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
 
@@ -35,8 +35,7 @@ Por exemplo, se uma barra de chocolate é repartida igualmente entre dois amigos
 
 Ao dividir uma unidade em três partes iguais, cada uma das partes é chamada de //um terço// ou //a terça parte// da unidade. 
 
-Por exemplo,
-Se, em uma receita de bolo, é necessário acrescentar //um terço// de um litro de leite. Isso significa que, para colocar a quantidade correta de leite na receita, é preciso repartir o litro de leite em três partes iguais e usar apenas uma dessas partes, que é //um terço// do litro de leite. Nesse caso, a unidade é um litro de leite.
+Por exemplo, se, em uma receita de bolo, é necessário acrescentar //um terço// de um litro de leite. Isso significa que, para colocar a quantidade correta de leite na receita, é preciso repartir o litro de leite em três partes iguais e usar apenas uma dessas partes, que é //um terço// do litro de leite. Nesse caso, a unidade é um litro de leite.
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de terço <hidden documentação das imagens>
 **Sobre uma mesa, uma garrafa cilindrica cheia de leite e três garrafas iguais ao lado, cada uma com 1/3 da capacidade prennchida.**
@@ -71,7 +70,6 @@ Por exemplo,
 <hidden OBSERVAÇÕES DE 22 DE ABRIL>
 **LR:** 
 1.Tentei melhorar o texto original para o aluno nesta parte, mas ainda tenho dúvida sobre abordar as diferentes funções do número, uma vez que estamos tratando apenas da medida. Além disso, essa função do número não está clara na abordagem. Estamos dando ênfase à ideia de quantidade. 
-</hidden>
 
 2.Retirei "Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//."
 </hidden>
