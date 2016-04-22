@@ -17,7 +17,7 @@ O aluno deve ser capaz de:
   * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
   * Comparar frações unitárias por meio de representações visuais (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza). 
 
-<hidden OBS FS 21/04/2016> 
+<hidden OBS FS 21/04/2016 para Letícia> 
 
 1. Sugiro mudar os objetivos específicos para: 
   * Diferenciar uma partição qualquer de uma equipartição (em partes iguais) de um mesmo objeto e identificar a fração unitária correspondente.
@@ -27,6 +27,8 @@ O aluno deve ser capaz de:
 
 2. Sugiro incluir em algum lugar deste texto introdutório ao professor a seguinte observação:
 "Recomenda-se que o professor evite apresentar o termo 'fração unitária' ao estudante por ser desnecessário e fazê-lo pode afastar o foco que pretende-se na lição."
+
+3. O segundo parágrafo parece incompleto, diz objetivos das primeiras atividades, mas não das demais, expõe alguns objetivos da lição, mas não todos. Sugiro retirá-lo por inteiro ou melhorá-lo.  
 </hidden>
 
 <hidden OBSERVAÇÕES>
