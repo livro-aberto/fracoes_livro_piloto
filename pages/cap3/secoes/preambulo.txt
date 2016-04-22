@@ -2,17 +2,18 @@
 
 <hidden Estrutura da Lição>
 
-Let: Talvez o título possa ser orgenização ordenada das frações.
+Let: Talvez o título possa ser "frações na reta".
 
 **Conteúdos utilizados das lições anteriores**
     - Equipartição;
     - Frações não necessariamente unitárias;
     - Representação simbólica (a/b);
     - Comparação de frações com o mesmo denominador. 
+    - **Compreensão de uma fração a/b como a "cópias" de 1/b justapostas**.
 
 **Conteúdos da lição:** 
-    - Representação na reta numerada
-    - Associação da unidade ao 1
+    - Representação na reta numerada.
+    - Associação da unidade ao 1.
     - Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
     - Comparação de frações que tenham o mesmo numerador
     - Comparação de frações a partir de uma fração de referência
@@ -30,11 +31,11 @@ Nesta atividade, talvez possam ser marcados inicialmente o 0, o 1 e a fração 1
 
 Fulana deve usar a faixa a seguir como unidade para medir alguns segmentos.
 
-
+{{ :undefined:fita.jpg?300 |}}
 
 Para ajudar a realizar as medidas, Fulana resolveu fazer alguma algumas marcações nessa faixa. Ela fez 10 marcações:
 
-
+{{ :cap3:secoes:fita_com_divisoes.jpg?300 |}}
 
 
 Fulana decidiu numerar a faixa marcada com 0, 1 e 1/2. 
@@ -45,11 +46,17 @@ Incluir caso certo e casos errados.
 
 b) Que outras frações Fulana pode marcar nessa nessa faixa? 
 
+Livro canadense tem boas inspirações:
+
+{{ :cap3:secoes:livro_canadense_1.jpg?300 |}}
+
+{{ :cap3:secoes:livro_canadense_2.jpg?300 |}}
+
 
 Atividade 2: Atividade de revisão que visa resgatar a equipartição e a representação simbólica em um modelo que também remeta à reta. 
 Por exemplo, barrinhas ou fitas semelhantes a cousenaire.
 
-Atividade 3: Atividade de comparação envolvendo o material apresentado na atividade 2.
+Atividade 3: Atividade de comparação envolvendo o material apresentado na atividade 2. 
 
 Atividade 4: Atividade de leitura de escalas que aparecem no cotidiano (por exmplo, marcador de combustível) em que a reta numerada seja apresentada
 envolvendo frações não necessariamente unitárias.
