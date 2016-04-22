@@ -35,5 +35,6 @@ INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 4 ESTRELAS, para serem recortadas.
 </hidden>
 
 <hidden OBS FS 21/04/2016>
-No penúltimo item das recomendações e sugestões para o desenvolvimento da atividade diz-se "... por sucessivas dobras do barbante sobre ele mesmo, como ilustrado a seguir.". Mas esta ilustração foi movida para a resposta. Sugestão: "... por sucessivas dobras do barbante sobre ele mesmo, como ilustrado na resposta da atividade."    
+No penúltimo item das recomendações e sugestões para o desenvolvimento da atividade diz-se "... por sucessivas dobras do barbante sobre ele mesmo, como ilustrado a seguir.". Mas esta ilustração foi movida para a resposta. Sugestão: "... por sucessivas dobras do barbante sobre ele mesmo, como ilustrado na resposta da atividade." 
+Let: Primeiro, essa ilustração eu copiei, precisa ser substituída. Talvez ela possa ser repetida, mas nãoo vejo problema em fazer como sugere.
 </hidden>
