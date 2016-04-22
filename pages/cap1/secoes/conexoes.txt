@@ -46,17 +46,17 @@ Por exemplo:
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// do todo. 
 
 Por exemplo,
-A parte colorida na figura a seguir é um quarto da figura. Neste caso, a figura é a unidade
+A parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
 
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quartos <hidden documentação das imagens>
-**Uma princesa adormecida(?)**
+{{ :cap1:secoes:quartos_conexoes.jpg?300 |}}
 </hidden> </WRAP>
 
-Da mesma forma, o dividir um todo qualquer em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// do todo.
+Da mesma forma, ao dividir uma unidade em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// da unidade.
 
 Por exemplo,
-//Um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à coroa portuguesa. Desta forma, //um quinto// de todo ouro pesado nas Casas de Fundição no Brasil é a //fração// do ouro pesado nas Casas de Fundição que eram pagos em impostos à coroa portuguesa.
+//Um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a //um quinto// ou "a quinta parte do ouro pesado nas Casas de Fundição no Brasil.
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quintos <hidden documentação das imagens>
 **Um homem entregando um saco de ouro a um rei e ficando com outros 4 sacos**
@@ -71,11 +71,16 @@ LET: Combinamos até décimos.
 
 Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//. 
 
+<hidden OBSERVAÇÕES DE 22 DE ABRIL>
+**LR:** 
+1.Tentei melhorar o texto original para o aluno nesta parte, mas ainda tenho dúvida sobre abordar as diferentes funções do número, uma vez que estamos tratando apenas da medida. Além disso, essa função do número não está clara na abordagem. Estamos dando ênfase à ideia de quantidade. 
+</hidden>
+
 <hidden OBSERVAÇÕES DE 21 DE ABRIL>
 **FS:** 
 1. Nestas Conexões onde entrarão as figuras representativas de meio, um terço, um quarto, um quinto, etc. sugiro que estejam ao menos três ou quatro representações de cada um porque este é o único local de teoria nesta lição.
 
-2. Também nas conexões, sugiro que siga até o um décimo pois a lição se propõe a seguir até o um décimo. 
+2. Também nas conexões, sugiro que siga até o um décimo pois a lição se propõe a seguir até o um décimo. LET: Estava nos meus planos fazer isso... só estava atrasada. ;)
 </hidden>
 
 
