@@ -5,8 +5,9 @@ Para preparar o terreno para a divisão de frações, não deveríamos, de algum
 
 <WRAP professor> Esta lição tem por objetivo introduzir frações unitárias a partir de modelos visuais contínuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", fazendo uso de expressões verbais como, por exemplo, "metade de...", "um terço de...", "a terça parte de...", "um quarto de...", para indicar essas frações.  
 
-As atividades iniciais visam à partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. 
+As atividades iniciais visam à partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
 
+As demais atividades envolvem a abordagem das fraçoes unitárias em contextos diversos. Por exemplo, 
 
 A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução da seção.
 
@@ -20,9 +21,6 @@ O aluno deve ser capaz de:
 
 <hidden OBS FS 21/04/2016 para Letícia> 
 
-
-2. Sugiro incluir em algum lugar deste texto introdutório ao professor a seguinte observação:
-"Recomenda-se que o professor evite apresentar o termo 'fração unitária' ao estudante por ser desnecessário e fazê-lo pode afastar o foco que pretende-se na lição."
 
 3. O segundo parágrafo parece incompleto, diz objetivos das primeiras atividades, mas não das demais, expõe alguns objetivos da lição, mas não todos. Sugiro retirá-lo por inteiro ou melhorá-lo.  
 </hidden>
