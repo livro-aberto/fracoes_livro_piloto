@@ -19,12 +19,9 @@ Os números representam //quantidades//. Por exemplo, "Em uma casa vivem //dois/
 
 Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//. Cada uma das partes em que essas unidades foram repartidas é uma //fração da unidade//. 
 
-Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//.
-
 <WRAP imagem> INCLUIR IMAGENS ILUSTRATIVAS 
 **Imagem de uma pizza dividida e de um pedaço de barbante, cada um dividido em 4 partes.**
 </hidden></WRAP>
-
 
 O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
 
@@ -49,7 +46,6 @@ Por exemplo:
 {{ :cap1:secoes:um_terco_de_litro_de_leite.jpg?100 |}}
 
 </hidden></WRAP>
-
 
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// da unidade. 
 
@@ -78,6 +74,7 @@ Por exemplo,
 </hidden>
 
 2.Retirei "Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//."
+</hidden>
 
 <hidden OBSERVAÇÕES DE 21 DE ABRIL>
 **FS:** 
