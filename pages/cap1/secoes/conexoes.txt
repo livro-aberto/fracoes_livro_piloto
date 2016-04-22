@@ -38,7 +38,8 @@ Se, em uma receita de bolo, é necessário acrescentar //um terço// de um litro
 **Sobre uma mesa, uma garrafa cilindrica cheia de leite e três garrafas iguais ao lado, cada uma com 1/3 da capacidade prennchida.**
 
 Por exemplo: 
-{{ :undefined:litro_de_leite.jpg?300 |}}  {{ :cap1:secoes:um_terco_de_litro_de_leite.jpg?300 |}}
+{{ :cap1:secoes:litro_de_leite.jpg?100 |}}
+{{ :cap1:secoes:um_terco_de_litro_de_leite.jpg?100 |}}
 
 </hidden></WRAP>
 
