@@ -17,7 +17,16 @@ Você já estudou os números naturais e viu como eles são úteis para contar, 
 
 Os números representam //quantidades//. Por exemplo, "Em uma casa vivem //dois// adultos e //três// crianças"; "O ser humano passa //um terço// de sua vida dormindo","eu tomei //a metade// de um copo de leite".
 
-Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//. E cada uma das partes em que essas unidades foram repartidas é uma //fração da unidade//. O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
+Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//. Cada uma das partes em que essas unidades foram repartidas é uma //fração da unidade//. 
+
+Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são chamados de //unidade//.
+
+<WRAP imagem> INCLUIR IMAGENS ILUSTRATIVAS 
+**Imagem de uma pizza dividida e de um pedaço de barbante, cada um dividido em 4 partes.**
+</hidden></WRAP>
+
+
+O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
 
 Ao dividir uma unidade qualquer em duas partes iguais ou ao meio, cada uma das partes é chamada de //um meio// ou //a metade// da unidade. 
 
