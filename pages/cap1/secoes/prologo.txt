@@ -17,6 +17,11 @@ O aluno deve ser capaz de:
   * Sem utilizar a símbologia matemática, compreender a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
   * Comparar frações unitárias por meio de representações visuais (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza). 
 
+<hidden OBS FS 21/04/2016> 
+Sugiro mudar o último objetivo específico para: "* Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza)." 
+
+</hidden>
+
 <hidden OBSERVAÇÕES>
   * Serão tratados apenas modelos contínuos por enquanto;
   * Situações que envolvam contexto discreto ficarão para a próxima seção;
