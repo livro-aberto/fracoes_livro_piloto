@@ -1,12 +1,8 @@
-Use um desenho ou palavras para explicar a fração:
+Use um desenho ou palavras ou conte alguma história para explicar ou dar um exmplo da fração:
 a)	"Um meio de"
 b)	"um terço de 
-c)	¼
-d)	1/6
-e)	1/8
-f)	1/5
-g)	1/7.
+c)	"um quarto"
+d)	"um quinto"
+e)	"um oitavo"
+f)	"um nono"
 
-<hidden OBS 21/04/2016>
-FS: O estudante ainda não conhece os símbolos de fração neste momento.
-</hidden>
