@@ -1,6 +1,119 @@
-
-
 ====== LIÇÃO 3 ======
+
+<hidden Estrutura da Lição>
+
+Let: Talvez o título possa ser orgenização ordenada das frações.
+
+**Conteúdos utilizados das lições anteriores**
+    - Equipartição;
+    - Frações não necessariamente unitárias;
+    - Representação simbólica (a/b);
+    - Comparação de frações com o mesmo denominador. 
+
+**Conteúdos da lição:** 
+    - Representação na reta numerada
+    - Associação da unidade ao 1
+    - Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
+    - Comparação de frações que tenham o mesmo numerador
+    - Comparação de frações a partir de uma fração de referência
+
+
+**Esqueleto da lição:**
+
+Preâmbulo:
+Atividade que revise 
+
+**Explorando**
+
+Atividades 1: Apresentar uma representação organizada pela ordem para as frações que sugira a reta numerada. 
+Nesta atividade, talvez possam ser marcados inicialmente o 0, o 1 e a fração 1/2. Por exemplo, 
+
+Fulana deve usar a faixa a seguir como unidade para medir alguns segmentos.
+
+
+
+Para ajudar a realizar as medidas, Fulana resolveu fazer alguma algumas marcações nessa faixa. Ela fez 10 marcações:
+
+
+
+
+Fulana decidiu numerar a faixa marcada com 0, 1 e 1/2. 
+
+a) Em sua opinião, como essa numeração deveria ser feita:
+  
+Incluir caso certo e casos errados.
+
+b) Que outras frações Fulana pode marcar nessa nessa faixa? 
+
+
+Atividade 2: Atividade de revisão que visa resgatar a equipartição e a representação simbólica em um modelo que também remeta à reta. 
+Por exemplo, barrinhas ou fitas semelhantes a cousenaire.
+
+Atividade 3: Atividade de comparação envolvendo o material apresentado na atividade 2.
+
+Atividade 4: Atividade de leitura de escalas que aparecem no cotidiano (por exmplo, marcador de combustível) em que a reta numerada seja apresentada
+envolvendo frações não necessariamente unitárias.
+
+Atividade 5: Atividade que leve o aluno a perceber a equivalência de frações para uma mesma unidade. 
+Destaque para 2/4 e 1/2; 2/6 e 1/3. É importante ter o apoio de material concreto. Por exemplo, o material usado na atividade 2
+
+Atividade 6: Atividade que destaque a unidade como a fração n/n, ou seja, como n "cópias" da fraçào 1/n.
+
+Atividade 7: Atividade que envolva a represetação de fraçoes maiores que a unidade (impróprias) na reta numerada.
+
+
+**Conexões**
+
+    * Apresentação da reta numérica como uma representação organizada pela ordem para as frações.
+    * Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
+    * Associação da unidade à fração n/n e ao 1
+ 
+
+A partir das Conexões as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando à fixação, 
+a aprofundamentos e a desdobramentos. Compõem, assim, a seção Mão na Massa.
+
+**Mão na Massa**
+
+Atividades: Atividades que envolvam a leitura e a marcação de fraçoes na reta numerada. Segguem algumas imagens de atividades com essas características.
+
+
+
+Ao menos duas atividade que envolvam estimativa: 
+
+
+Não podem faltar: atividades sobre equivalência e que envolvam a comparação de frações que tenham o mesmo numerador e 
+de frações a partir de uma fração de referência.
+
+
+**Refletindo**
+
+.
+
+**Dúvidas:**
+
+a. Tomar cuidado para não atrelar o 1 à 1m.
+ 
+
+**Decisões tomadas:**
+
+a. Somente temos frações em contextos até a lição 3. Sempre "fração de" até lá. 3/4 sozinho não faz sentido sem um todo definido.
+
+
+**Observações:**
+
+a. Frisar na introdução o pré-requisito da reta numérica com o registro do números naturais.
+
+
+Habilidades: Compreender a representação das frações na reta numerada. 
+Reconhecer a equivalência de frações 
+Comparar frações que tenham o mesmo denominador
+
+Estratégia:  
+
+</hidden>
+
+
+
 <WRAP professor>
 Neste capítulo retomamos as ideias de divisão do “todo” em partes iguais. Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. 
 Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro. Neste capitulo ainda usaremos a justaposição de frações unitárias, de um mesmo tipo, para construir as frações gerais. Algumas atividades aqui propostas exploram esta ideia em modelos visuais contínuos. Os modelos associam por justaposição as frações unitárias de modo a chegar as representações não unitárias do tipo a/b. Desse modo construímos com os modelos contínuos a associação entre a unidade e o número 1.
