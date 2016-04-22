@@ -72,7 +72,9 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 </hidden>
 
-
+<hidden OBS: 21/04/2016>
+**FS:** Sugiro que as partes da "Estrutura da Lição" que são da Lição 2 sejam excluídas para evitar confusão.
+</hidden>
 
 ====== LIÇÃO 3 ======
 <WRAP professor>
