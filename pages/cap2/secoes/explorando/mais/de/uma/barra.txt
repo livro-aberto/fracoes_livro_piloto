@@ -38,17 +38,20 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
   - Considerando-se uma barra de chocolate, como você nomearia, usando frações, a quantidade de chocolate recebida por cada irmã com a divisão proposta por Ana?
 
 Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
-  - Se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
-  - E se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?  
+  - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, que quantidade de chocolate Beatriz e Clara passariam a ter? Como você nomearia, usando frações, essas quantidades?  
+  - E se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
 
 
-  - E se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?   
+ 
   - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}\\
   - Você concorda com essa divisão? Explique.
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
   - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
 
 <hidden OBS>
-**FS:** Eu trocaria os itens 5 e 6 de ordem para deixar para mais tarde a novidade da fração imprópria. O item 6 é muito mais fácil.
-**FM:**  Sugiro que o item 10 saia desta atividade e seja retomado mais tarde
+**LET 23/04**  Revisei otexto e fiz algumas mudaças. Por favor, revejam se ficou melhor.
+
+**FS:** Eu trocaria os itens 5 e 6 de ordem para deixar para mais tarde a novidade da fração imprópria. O item 6 é muito mais fácil.(LET:TROCADO)
+**FM:**  Sugiro que o item 10 saia desta atividade e seja retomado mais tarde. (LET: CONCORDO)
+
 </hidden>
