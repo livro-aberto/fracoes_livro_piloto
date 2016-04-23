@@ -7,14 +7,14 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   *Aproveite esta atividade para revisar o vocabulário desenvolvido nesta seção: //Unidade; metade, um meio, um terço, terça parte, um quarto, quarta parte, um quinto, quinta parte, um sexto, sexta parte, um sétimo, sétima parte, um oitavo, oitava parte, um nono, nona parte, um décimo// e //décima parte//.
 </WRAP>
 
-</WRAP> Considere o círculo como unidade. Que afirmação corresponde a parte colorida em cada uma das figuras? 
+Considere o círculo como unidade. Que afirmação corresponde a parte colorida em cada uma das figuras? 
 a)	A parte colorida é um quinto do círculo
 b)	A parte colorida é a sexta parte do círculo
 c)	A parte colorida é um sétimo do círculo
 d)	A parte colorida é um oitavo do círculo
 e)	A parte colorida é a nona parte do círculo
 f)	A parte colorida é um décimo do círculo
-</WRAP>
+
 
 
 <hidden Comentários>
