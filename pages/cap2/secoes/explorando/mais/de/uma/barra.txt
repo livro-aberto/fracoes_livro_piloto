@@ -1,10 +1,8 @@
 <WRAP professor>
 Objetivos específicos: 
-  * Estender o uso de frações em divisões partitivas para representar o quociente de uma divisão quando mais do que uma cópia da unidade é dividido em um determinado número de recipientes.
-<hidden OBS>
-**FM:** Abordar equipartições envolvendo mais de um representante da unidade e a representação fracionária para essas representações
-</hidden>
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
+  * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária da unidade considerada. 
+  * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situações de equipartição de mais do que uma unidade (No caso, duas)
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou reunião) de duas ou mais partes frações unitárias de mesmo denominador.
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
 Observação:
@@ -14,8 +12,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para as quantidades de chocolates que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É mportante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
-  * As frações impróprias vão aparecer naturalmente aqui e não recomendamos, neste momento, a introdução desta terminologia.
+  * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para a quantidade de chocolate que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É mportante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
+  * As frações impróprias devem aparecer naturalmente, a partir da ideia de justaposiçào de fraçoes unitárias. Não recomendamos, neste momento, a introdução desta terminologia.
 
 </WRAP>
 
