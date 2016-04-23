@@ -1,9 +1,12 @@
 <WRAP professor>
 Objetivos específicos: 
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária da unidade considerada. 
-  * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situações de equipartição de mais do que uma unidade (No caso, duas)
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou reunião) de duas ou mais partes frações unitárias de mesmo denominador.
-  * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
+  * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, duas).
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais frações unitárias de mesmo denominador.
+  * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
+  * Abordar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidadede cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
+
+Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
 Observação:
   * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo.
@@ -17,7 +20,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-O pai de Ana, Betriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
+O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
 
 {{ :cap2:secoes:explorando:mais:de:uma:chocolate-01.jpg?400 |}}
 
@@ -26,12 +29,17 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 {{ :cap2:secoes:explorando:mais:de:uma:chocolate-03.png?590 |}}
 
 
-  - Na divisão de cada uma das barras de chocolate em três partes iguais, cada parte é que fração da barra?
-  - Você concorda com essa divisão? Explique. 
+  - Na divisão de cada uma das barras de chocolate em três partes iguais, cada parte é que fração de uma barra de chocolate?
+  - Você concorda com a divisão que Ana sugeriu? Explique. 
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate? 
-  - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
-  - Se Ana desse o que recebeu de chocolate para Beatriz, como você nomearia usando frações a quantidade de chocolate de Beatriz?  
-  - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?   
+  - Considerando-se uma barra de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã com a divisão proposta por Ana?
+
+Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
+  - Se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
+  - E se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?  
+
+
+  - E se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, como você nomearia usando frações as quantidades de chocolate que cada uma ficaria?   
   - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}\\
   - Você concorda com essa divisão? Explique.
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
