@@ -30,7 +30,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP resposta>
 Possibilidades de resposta
 
-{{:cap1:secoes:licao1_atv6.png?300|}}
+{{:cap1:secoes:licao1_atv61_novo.png?600|}}
 
+$\ $ 
+
+{{:cap1:secoes:licao1_atv6_2_novo.png?700|}}
+
+ilustração:Cambrainha
 </WRAP>
 </hidden>
