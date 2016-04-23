@@ -5,11 +5,13 @@ Objetivos específicos:
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais frações unitárias de mesmo denominador.
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
   * Abordar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
-  * 
-  *  da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da barra de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
 
-Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
+<hidden - Objetivo Retirado 23/04>
+**LET** 
+OBJETIVO RETIRADO: Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
+
+</hidden>
 
 Observação:
   * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo.
