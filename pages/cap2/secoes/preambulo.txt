@@ -4,7 +4,7 @@
 <hidden Estrutura da Lição>
 
 **Conteúdos utilizados da lição anterior**
-    - Unidade tratada como "todo". 
+    - Unidade tratada como "<del>todo</del>" unidade!. 
     - Expressões verbais correspondentes às frações unitárias: 1/2; 1/3, ..., 1/10. 
     - Comparação de frações unitárias a partir apenas da representação em modelos contínuos. 
 
@@ -70,7 +70,8 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 
 <hidden H: SUGESTÕES DE SITUAÇÕES PARA APRESENTAR A NOTAÇÃO SIMBÓLICA DE ALGUMA FRAÇÃO UNITÁRIA>
-H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fração, pelo menos aqui no Brasil. Lá nos EUA, por conta do sistema imperial de unidades, o uso de frações é mais frequente. Aqui estão algumas sugestões. Para mim, a mais "honesta" é a dos parafusos, apesar da fração, neste caso, existir a possibilidade da notação de fração como um código. O que vocês acham? 
+H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fração, pelo menos aqui no Brasil. Lá nos EUA, por conta do sistema imperial de unidades, o uso de frações é mais frequente. Aqui estão algumas sugestões. Para mim, a mais "honesta" é a dos parafusos, apesar da fração, neste caso, existir a possibilidade da notação de fração como um código. O que vocês acham?
+LET: Não vejo problema na imagem dos parafusos. Esses usos dos números não podem ser percebidos de forma estanque. No caso dos parafusos acho que o uso das frações têm duplo significado, como medida e como código.
 
 (1) Marcador de combustível de automóveis e aviões
 
@@ -104,16 +105,16 @@ H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fra
 
 
 <WRAP professor> 
-Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (quando o numerador é menor que ou igual ao denominador) quanto as impróprias (quando o numerador é maior que o denominador).
+Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor que ou igual ao denominador) como as impróprias (caso em que o numerador é maior que o denominador).
 Também será apresentada a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
-As frações com numerador diferente de 1 surgem aqui como justaposição de frações unitárias com mesmo denominador. 
+As frações com numerador diferente de 1 surgem aqui a partir da justaposição de frações unitárias com mesmo denominador, considerada uma mesma unidade. Tem-se a representação pictórica como um apoio importante nessa construção.  
 Há um esforço deliberado nas primeiras atividades para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. 
 Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta espera-se que ele use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias.
 
-Um cuidado especial recomendado ao professor é com as frações impróprias que introduzimos logo nas primeiras atividades ainda sem notação simbólica. 
-Não é indicado atrasar muito a introdução deste tipo de fração porque o estudante pode fixar-se na ideia de fração como "uma parte de um todo" e, então para ele perde o sentido existir algo maior do que o todo (a fração $\frac{4}{3}$ não faria sentido para o estudante porque para ele não faz sentido dividir uma torta em três pedaços e tomar 4).
+Um cuidado especial recomendado ao professor é com as frações impróprias, introduzidas logo nas primeiras atividades ainda sem notação simbólica. 
+Não é indicado atrasar muito a introdução deste tipo de fração porque o estudante pode fixar-se na ideia da unidadeo (por exemplo, a fração $\frac{4}{3}$ não faria sentido para o estudante porque para ele não faz sentido dividir uma torta em três pedaços e tomar 4).
 
-Decidiu-se omitir do estudante a terminologia "fração própria" e "fração imprópria" por acreditar que esta linguagem é desnecessária a ele e pode desviar a atenção dos temas que realmente importam.
+No entanto, decidiu-se omitir do estudante a terminologia "fração própria" e "fração imprópria" por acreditar que esta linguagem é desnecessária a ele e pode desviar a atenção dos temas que realmente importam.
 
 </WRAP>
 
@@ -134,9 +135,9 @@ Miguel: Eu tive febre.
 
 Miguel escrevendo no quadro as frações abaixo para mostrar para Alice
 
-Miguel: A minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
+Miguel: Mas a minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
 
-Alice: Não foi isso o que vimos aqui. A gente dividiu figuras de papel e outros objetos. Tinha que ser em partes iguais ou com a mesma quantidade em cada parte! Aí surgiram nomes: se forem duas partes, cada uma delas é metade da coisa, isso a gente já sabia. Se forem três partes iguais, cada uma é um terço do objeto e assim vai.
+Alice: Não foi isso o que vimos aqui. A gente repartiu figuras de papel e outros objetos. Tinha que ser em partes iguais ou com a mesma quantidade em cada parte! Aí surgiram nomes: se forem duas partes, cada uma delas é metade da coisa, isso a gente já sabia. Se forem três partes iguais, cada uma é um terço ou a terça parte do que foi repartido e assim vai.
 
 **Quadrinho 3**
 
@@ -160,6 +161,9 @@ Miguel olhando para Alice
 Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
 
 Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro e não um embaixo do outro!
+
+<hidden L: sobre a histórinha - 23/04> **L**: Adorei a ideia da histórinha! :) Fiquei com algumas dúvidas: #1: o menino faltou à aula e aprendeu mais em casa? Talvez, ao invés de a mãe ter ensinado frações a ele, a história possa contar que ele leu em algum livro. #2: Essa última fala da Alice, a expressão " Os números ficam um ao lado do outro e não um embaixo do outro!" pode não ser entendida como pretendido. Acho que é importante ilustrar.
+</hidden>
 
 **Quadrinho 4**
 A professora aparece no quadro
