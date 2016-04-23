@@ -16,7 +16,7 @@ e)	A parte colorida é a nona parte do círculo.
 f)	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
-Inserir 10 imagens semelhantes as que seguem, varaindo da metade até 1/10. As imagens devem vir identificadas por letras Maiúsculas para ser possível fazer a associação às afirmações.  
+Inserir 10 imagens semelhantes às que seguem, varaindo da metade até 1/10. As imagens devem vir identificadas por letras maiúsculas para ser possível fazer a associação às afirmações que compõem a questão.  
 
 {{ :cap1:secoes:quinto.png?200 |}}  {{ :cap1:secoes:sexto.png?200 |}}
 
