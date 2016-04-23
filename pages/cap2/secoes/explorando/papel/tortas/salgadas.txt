@@ -1,7 +1,9 @@
 <WRAP professor>
 Objetivos específicos: 
-  * Levar o aluno a compreender e usar a expressão "//n// quintos de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas da unidade quando cada cópia da unidade está dividida em cinco partes iguais, incluindo os casos em que //n// é maior do que 5 (frações impróprias).
-  * Levar o aluno a relacionar cópias da fração unitária correspondente às partes apresentadas à quantidade necessária dessas partes para compor ou não cópias da unidade. Assim, por exemplo, reunir cinco quantidades menores do que dois quintos da unidade não é suficiente para recompor duas cópias da unidade. 
+  * Levar o aluno a compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos. 
+  * Levar o aluno a relacionar cópias da fração unitária correspondente às partes apresentadas à quantidade necessária dessas partes para compor ou não cópias da unidade. Assim, por exemplo, reunir cinco quantidades menores do que dois quintos da unidade não é suficiente para recompor duas cópias da unidade.
+  * de cópias múltiplas da unidade quando cada cópia da unidade está dividida em cinco partes iguais, incluindo os casos em que //n// é maior do que 5 (frações impróprias).
+  *  
 
 Observações:
   * Espera-se que no final da atividade o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que este não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor.
@@ -9,8 +11,9 @@ Observações:
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
-  * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para as quantidades de torta que cada irmão recebeu. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É mportante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
+  * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
+  * Em particular, no item (i) não se espera que a representaçào feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas... **INCLUIR IMAGENS DE POSSIVEIS RESPOSTAS**.
+  * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para as quantidades de torta que cada irmão recebeu. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É mportante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
   * As frações impróprias vão aparecer naturalmente aqui e não recomendamos, neste momento, a introdução desta terminologia.
 
 </WRAP>
@@ -23,17 +26,19 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
 
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
   - Usando frações, como você nomearia a quantidade de torta que cada amigo recebeu? 
-  - Usando frações, como você nomearia a quantidade de torta que dois amigos juntos receberam? 
-  - Usando frações, como você nomearia a quantidade de torta que três amigos juntos receberam?  
-  - Usando frações, como você nomearia a quantidade de torta que quatro amigos juntos receberam?   
-  - Usando frações, como você nomearia a quantidade de torta que os cincos amigos juntos receberam? 
+
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é menor do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? Explique sua resposta.
 
-<hidden OBS>
+  - Usando frações, como você nomearia a quantidade de torta que dois amigos juntos receberam? 
+  - Usando frações, como você nomearia a quantidade de torta que três amigos juntos receberam?  
+  - Usando frações, como você nomearia a quantidade de torta que quatro amigos juntos receberam?   
+  - Usando frações, como você nomearia a quantidade de torta que os cincos amigos juntos receberam? 
+
+
+<hidden OBS - 23/04>
 **FS:** 
-    * Aqui a expressão //usando frações// tem uma vírgula depois. Na atividade 1, itens 4 e 5, ela não deveria estar entre vírgulas?
-    * Estou com a sensação de que tanto esta como a atividade 1 têm muitos itens. Não daria para juntar os itens similares ou omitir alguns dos similares? Gostaria de ouvir a opinião dos professores desta faixa etária a este respeito.
-    * Adorei as questões desta lição!!
+    * Estou com a sensação de que tanto esta como a atividade 1 têm muitos itens. Não daria para juntar os itens similares ou omitir alguns dos similares? Gostaria de ouvir a opinião dos professores desta faixa etária a este respeito. **LET**: Concordo. Fiz algumas alterações.Não consegui identificar a diferença fundamental entre esta questão e a anterior. Além disso, achei que alguns itens envolvem a adição de partes não unitárias, o que vai além da ideia proposta para aconstrução das fraçoes a/b.
+    * Adorei as questões desta lição!!  (**LET**: Também gostei! ;) )
 </hidden>
