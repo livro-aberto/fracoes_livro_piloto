@@ -1,0 +1,22 @@
+<WRAP professor> Objetivos específicos: Levar o aluno a 
+  * Conhecer e compreender as expressões correspondentes às frações unitárias com denominadores de 5 a 10.  
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
+  *É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresenta-las e diferenciá-las.
+  *Aproveite esta atividade para revisar o vocabulário desenvolvido nesta seção: //Unidade; metade, um meio, um terço, terça parte, um quarto, quarta parte, um quinto, quinta parte, um sexto, sexta parte, um sétimo, sétima parte, um oitavo, oitava parte, um nono, nona parte, um décimo// e //décima parte//.
+</WRAP>
+
+</WRAP> Considere o círculo como unidade. Que afirmação corresponde a parte colorida em cada uma das figuras? 
+a)	A parte colorida é um quinto do círculo
+b)	A parte colorida é a sexta parte do círculo
+c)	A parte colorida é um sétimo do círculo
+d)	A parte colorida é um oitavo do círculo
+e)	A parte colorida é a nona parte do círculo
+f)	A parte colorida é um décimo do círculo
+</WRAP>
+
+
+<hidden Comentários>
+
+</hidden>
