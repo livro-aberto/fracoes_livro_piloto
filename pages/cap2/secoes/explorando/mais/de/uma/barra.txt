@@ -7,7 +7,7 @@ Objetivos específicos:
   * Abordar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
   * 
   *  da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
-  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da barra de chocolate para dividir e avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da barra de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
 
 Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
 
@@ -42,16 +42,21 @@ Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na
   - E se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
 
 
- 
+<hidden OBS - ITENS RETIRADOS 23/04>
+**LET** Por ora, retirei esses itens. Concordo com o Francisco. Mas para mim, a questão mais complicada é que envolve a justaposição de frações unitárias que não têm o mesmo denominador. Eu até gosto da ideia... ;) Frações egípcias. Mas acho que não devem ser objetivo dessa unidade e menos ainda da primeira atividade. Sugiro como revisão em uma seção mais adiante. Talvez a quarta.
+
+
   - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}\\
   - Você concorda com essa divisão? Explique.
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
   - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
+</hidden>
 
 <hidden OBS>
-**LET 23/04**  Revisei otexto e fiz algumas mudaças. Por favor, revejam se ficou melhor.
+**LET 23/04**  Revisei o texto e fiz algumas mudanças. Por favor, revejam se ficou melhor. Outra coisa, não sei fazer a sequência de numeração seguir continuamente. Socorro!!!!
 
 **FS:** Eu trocaria os itens 5 e 6 de ordem para deixar para mais tarde a novidade da fração imprópria. O item 6 é muito mais fácil.(LET:TROCADO)
+
 **FM:**  Sugiro que o item 10 saia desta atividade e seja retomado mais tarde. (LET: CONCORDO)
 
 </hidden>
