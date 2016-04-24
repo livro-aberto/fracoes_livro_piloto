@@ -1,7 +1,8 @@
 <WRAP professor> 
 Objetivos específicos:   
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique duas ou mais partes iguais em uma equipartição de cópias múltiplas da unidade.
-  * Levar o aluno a compreender a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente relativa a //n// partes da equipartição de cópias múltiplas da unidade quando cada cópia da unidade está dividida em oito partes iguais, incluindo os casos em que //n// é maior do que oito (frações impróprias).
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a justaposição (ou a reunião) de duas ou mais frações unitárias de mesmo denominador.
+  * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade.
+  * Levar o aluno a compreender a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
   * Levar o aluno a perceber que uma mesma quantidade da unidade pode ser expressa por frações equivalentes (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
@@ -12,7 +13,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-Para a sobremesa do almoço de domingo papai passou numa confeitaria onde as tortas estavam divididas em 8 fatias como na figura abaixo. 
+Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que as tortas estavam divididas em 8 fatias, como na figura abaixo. 
 
 <WRAP imagem> Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria.
 </WRAP>
@@ -21,8 +22,6 @@ a. Que fração de uma torta é uma fatia?
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
-c. Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
+c. (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior.) Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
 
-d. Hoje papai comprou 10 fatias de torta, que quantidade de torta ele comprou? (Responda em termos da quantidade de oitavos de torta).
-
-e. Lembre-se que oito fatias formam uma torta inteira. Responda à pergunta anterior usando esta informação.
+d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta usando frações? (Lembre-se que oito fatias formam uma torta inteira)
