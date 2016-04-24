@@ -2,7 +2,7 @@
 
 <hidden Estrutura da Lição>
 
-Let: Talvez o título possa ser "frações na reta".
+Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações a/b e **soma de frações com mesmo denominador.**
 
 **Conteúdos utilizados das lições anteriores**
     - Equipartição;
