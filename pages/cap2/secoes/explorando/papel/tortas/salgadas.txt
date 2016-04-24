@@ -13,8 +13,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes das tortas em cada divisão e para as quantidades de torta que cada irmão recebe. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É mportante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
   * Espera-se que no final da atividade o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso das expressões corretas.
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
-  * 
-  * 
+
+
+
 <hidden Alteração de objetivos - 23/04>
 **LET**: Retirei: As frações impróprias vão aparecer naturalmente aqui e não recomendamos, neste momento, a introdução desta terminologia.
 Levar o aluno a relacionar cópias da fração unitária correspondente às partes apresentadas à quantidade necessária dessas partes para compor ou não cópias da unidade. Assim, por exemplo, reunir cinco quantidades menores do que dois quintos da unidade não é suficiente para recompor duas cópias da unidade.
