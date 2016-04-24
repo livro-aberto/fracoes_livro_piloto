@@ -22,7 +22,7 @@ Let: Talvez o título possa ser "frações na reta".
 **Esqueleto da lição:**
 
 Preâmbulo:
-Atividade que revise 
+Atividade que revise fraçoes não unitárias a partir da justaposição.
 
 **Explorando**
 
@@ -65,7 +65,9 @@ Destaque para 2/4 e 1/2; 2/6 e 1/3. É importante ter o apoio de material concre
 
 Atividade 6: Atividade que destaque a unidade como a fração n/n, ou seja, como n "cópias" da fraçào 1/n.
 
-Atividade 7: Atividade que envolva a represetação de fraçoes maiores que a unidade (impróprias) na reta numerada.
+Atividade 7: Atividade que envolva a represetação de frações maiores que a unidade (impróprias) na reta numerada.
+
+TALVEZ UMA DESSAS ATIVIDADE POSSA SER O VARAL DOS NÚMEROS
 
 
 **Conexões**
