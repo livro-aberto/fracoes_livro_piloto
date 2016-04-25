@@ -1,16 +1,25 @@
 <hidden Estrutura da Lição>
 
-Lição 4: Frações equivalentes e **porcentagem**  ????.
+Lição 4: Frações equivalentes
+
 
 **Conteúdos utilizados das lições anteriores**
-    - Representação na reta numerada.
-    - Associação da unidade ao 1.
+    * Representação na reta numérica.
+    * Frações gerais como justaposição de frações unitárias.
+
+/*
+    - Associação da unidade ao 1. 
     - Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
+*/
 
 
 **Conteúdos da lição:** 
-    - Equivalência abordada no contexto de representações diferentes para um mesma quantidade;
+    * Equivalência abordada no contexto de representações diferentes para um mesma quantidade.
+    * Comparação de frações via equivalência.
+    
+/*    
     - Porcentagem como uma representação particular de frações 
+ */
 
 
 **Esqueleto da lição:**
@@ -37,19 +46,13 @@ Atividade 7:
 
 **Conexões**
 
-    * A
-
-A partir das Conexões as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando à fixação, 
-a aprofundamentos e a desdobramentos. Compõem, assim, a seção Mão na Massa.
+    * 
 
 **Mão na Massa**
 
-Atividades: Atividades que envolvam a leitura e a marcação de fraçoes na reta numerada. Segguem algumas imagens de atividades com essas características.
-
 Ao menos duas atividade que envolvam estimativa: 
 
-Não podem faltar: atividades sobre equivalência e que envolvam a comparação de frações que tenham o mesmo numerador e 
-de frações a partir de uma fração de referência.
+Não podem faltar: atividades sobre equivalência e que envolvam a comparação de frações que tenham o mesmo numerador e de frações a partir de uma fração de referência.
 
 
 **Refletindo**
@@ -62,22 +65,10 @@ a.
 
 **Decisões tomadas:**
 
-a. Somente temos frações em contextos até a lição 3. Sempre "fração de" até lá. 3/4 sozinho não faz sentido sem um todo definido.
-
 
 **Observações:**
 
-Seção 3:
-a. Frisar na introdução o pré-requisito da reta numérica com o registro do números naturais.
-b. Abordar frações maiores que a unidade.
-c. Ter atividades em que a unidade nao corresponda a uma unidade de medida linear.
 
-
-Habilidades: Seção 3: Compreender a representação das frações na reta numerada. 
-Reconhecer a equivalência de frações 
-Comparar frações que tenham o mesmo denominador
-
-Estratégia:  
 
 </hidden>
 
