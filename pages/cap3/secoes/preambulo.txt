@@ -1,5 +1,13 @@
 ====== LIÇÃO 3 ======
 
+<hidden H (2016-04-25): palpite para a estrutura da lição>
+Bem, vou dar um palpite: acho que deveríamos começar a lição com um problema (como nas lições 1 e 2) e este problema deveria ser de medida. Algo assim:
+
+Problema da medida $\rightarrow$ régua $\rightarrow$ reta numérica.
+
+Este abordagem tem a vantagem de introduzir um elemento novo como uma maneira de se resolver um problema.
+</hidden>
+
 <hidden Estrutura da Lição>
 
 Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações a/b e **soma de frações com mesmo denominador.**
