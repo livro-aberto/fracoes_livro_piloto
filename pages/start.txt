@@ -24,4 +24,6 @@ A edição deste arquivo deve seguir a seguinte [[sintaxe]] que você pode testa
 
 [[cap8:navega|Lição 8 - Divisão e medida]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap8:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap8/texto.txt|GitHub]].
 
+[[cap9:navega|Lição 9 - Modelos discretos]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap9:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap9.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap9/texto.txt|GitHub]].
+
 
