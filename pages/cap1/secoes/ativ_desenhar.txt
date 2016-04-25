@@ -39,7 +39,6 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
 {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
 
-
 <hidden Resposta>
 <WRAP resposta>
 
@@ -61,3 +60,6 @@ ilustração: Cambrainha
 </WRAP>
 </hidden>
 
+<hidden OBS 25/04/2016>
+**FS:** Nas respostas deveriam vir as soluções convencionais também.
+</hidden>
