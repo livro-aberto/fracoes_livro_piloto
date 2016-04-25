@@ -4,8 +4,8 @@ Lição 4: Frações equivalentes
 
 
 **Conteúdos utilizados das lições anteriores**
-    * Representação na reta numérica.
     * Frações gerais como justaposição de frações unitárias.
+    * Representação de frações em modelos de área, volume e na reta numérica.
 
 /*
     - Associação da unidade ao 1. 
@@ -25,22 +25,9 @@ Lição 4: Frações equivalentes
 **Esqueleto da lição:**
 
 Preâmbulo:
-Atividade que revise a reresentação de fraçoes euqivalentes na reta numerada. (por exmplo, 
+Atividade que revise a representação de fraçoes euqivalentes na reta numerada.
 
-Atividades 1: 
-
-Atividade 2: 
-
-Atividade 3: 
-
-Atividade 4: 
-
-Atividade 5: 
-
-Atividade 6: 
-
-Atividade 7: 
-
+Atividade 1: 
 
 
 
@@ -50,7 +37,7 @@ Atividade 7:
 
 **Mão na Massa**
 
-Ao menos duas atividade que envolvam estimativa: 
+Ao menos duas atividades que envolvam estimativa. 
 
 Não podem faltar: atividades sobre equivalência e que envolvam a comparação de frações que tenham o mesmo numerador e de frações a partir de uma fração de referência.
 
