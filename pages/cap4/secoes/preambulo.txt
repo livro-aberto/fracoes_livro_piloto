@@ -41,6 +41,7 @@ Atividade 4: Equivalência usando a reta numérica.
 
 **Conexões**
 
+    * Definir quando duas frações são equivalentes? Duas frações são equivalentes se representam o mesmo ponto na reta numérica, 
     * Sistematizar a propriedade fundamental das frações equivalentes. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$.
     * Sistematizar a comparação de frações via equivalência, incluindo as notações $<$, $>$, $\leq$ e $\geq$. 
       - Item de lista ordenada- Primeiro, para  o mesmo denominador, quanto maior for o numerador, maior é a fracção (ex. $1/3<2/3$).
@@ -48,8 +49,9 @@ Atividade 4: Equivalência usando a reta numérica.
       - Terceiro, se diferem simultaneamente os numeradores e os denominadores, usar equivalência de frações.
       - Teorema: $\frac{a}{b} < \frac{c}{d}$ se, e somente se, $a \cdot d < b \cdot c$, com $a$, $b$, $c$ e $d$ números naturais.
 
-**Mão na Massa**
-
+**Mão na Massa**  
+  - Uso de applet GeoGebra para comparar frações usando o mesmo modelo (tecnologia permite se trabalhar com frações que seriam difíceis de se trabalhar com material concreto).
+  - Colocar uma atividade onde é difícil decidir qual fração é maior visualmente, para justificar a necessidade um procedimento aritmético.
 
 **Refletindo**
 
