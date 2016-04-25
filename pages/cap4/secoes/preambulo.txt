@@ -55,6 +55,8 @@ Atividade 3: Equivalência usando a reta numérica.
 **Dúvidas:**
 
 a. Vamos trabalhar com equivalência de unidades de medida? Por exemplo, a centésima parte de um metro é chamada de centímetro. 30 centímetros é que fração de 1 metro?
+
+b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". 
  
 
 **Decisões tomadas:**
