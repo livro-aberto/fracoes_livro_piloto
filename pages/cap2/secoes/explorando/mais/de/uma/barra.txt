@@ -6,15 +6,6 @@ Objetivos específicos:
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
   * Abordar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
  
-
-<hidden - Objetivo Retirado 23/04>
-**LET** 
-OBJETIVO RETIRADO: Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição de cópias múltiplas da unidde quando cada cópia da unidade está dividida em três partes guais, incluindo os casos em que //n// é maior do que 3 (frações impróprias).
-
-RECOMENDACAO RETIRADA:  As frações impróprias devem aparecer naturalmente, a partir da ideia de justaposiçào de frações unitárias. Não recomendamos, neste momento, a introdução desta terminologia.
-
-</hidden>
-
 Observação:
   * A escolha de iniciar o assunto com um problema de divisão partitiva no lugar do contexto parte-todo se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que não ocorre no contexto parte-todo.
 
@@ -44,23 +35,3 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
   - Se Ana desse metade do que recebeu de chocolate para cada uma de suas irmãs, que quantidade de chocolate Beatriz e Clara passariam a ter? Como você nomearia, usando frações, essas quantidades?  
   - E se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
-
-
-<hidden OBS - ITENS RETIRADOS 23/04>
-**LET** Por ora, retirei esses itens. Concordo com o Francisco. Mas para mim, a questão mais complicada é que envolve a justaposição de frações unitárias que não têm o mesmo denominador. Eu até gosto da ideia... ;) Frações egípcias. Mas acho que não devem ser objetivo dessa unidade e menos ainda da primeira atividade. Sugiro como revisão em uma seção mais adiante. Talvez a quarta.
-
-
-  - Beatriz sugeriu uma outra divisão dos dois chocolates: dividir cada chocolate ao meio e dividir uma metade em três partes iguais. Cada irmã ficaria então com uma parte de cada tipo.{{ :cap2:secoes:explorando:mais:de:uma:chocolate-04.png?500 |}}\\
-  - Você concorda com essa divisão? Explique.
-  - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
-  - Considerando-se uma barra inteira de chocolate, como você nomearia usando frações a quantidade de chocolate recebida por cada irmã?
-</hidden>
-
-<hidden OBS>
-**LET 23/04**  Revisei o texto e fiz algumas mudanças. Por favor, revejam se ficou melhor. Outra coisa, não sei fazer a sequência de numeração seguir continuamente. Socorro!!!!
-
-**FS:** Eu trocaria os itens 5 e 6 de ordem para deixar para mais tarde a novidade da fração imprópria. O item 6 é muito mais fácil.(LET:TROCADO)
-
-**FM:**  Sugiro que o item 10 saia desta atividade e seja retomado mais tarde. (LET: CONCORDO)
-
-</hidden>
