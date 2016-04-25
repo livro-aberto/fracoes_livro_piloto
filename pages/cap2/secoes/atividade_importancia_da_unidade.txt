@@ -1,6 +1,7 @@
 <WRAP professor>
 Objetivos específicos: 
   * Fazer o aluno perceber que a fração depende da unidade escolhida.
+  * Exercitar a capacidade de argumentação do aluno.
 </WRAP>
 
 
