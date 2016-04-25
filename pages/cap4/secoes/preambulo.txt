@@ -25,15 +25,22 @@ Lição 4: Frações equivalentes
 **Esqueleto da lição:**
 
 Preâmbulo:
-Atividade que revise a representação de fraçoes euqivalentes na reta numerada.
+/*
+Atividade que revise a representação de fraçoes equivalentes na reta numerada.
+*/
 
-Atividade 1: 
+Atividade 1: Equivalência aproveitando os discos de pano que talvez Letícia inclua na Lição 1.
+
+Atividade 2: Equivalência aproveitando as fitas da Lição 3.
+
+Atividade 3: Equivalência usando a reta numérica.
 
 
 
 **Conexões**
 
     * Sistematizar a propriedade fundamental das frações equivalentes. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$.
+    * Sistematizar a comparação de frações via equivalência, incluindo as notações $<$, $>$, $\leq$ e $\geq$. Teorema: $\frac{a}{b} < \frac{c}{d}$ se, e somente se, $a \cdot d < b \cdot c$, com $a$, $b$, $c$ e $d$ números naturais.
 
 **Mão na Massa**
 
