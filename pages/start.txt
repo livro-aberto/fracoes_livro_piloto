@@ -10,11 +10,11 @@ A edição deste arquivo deve seguir a seguinte [[sintaxe]] que você pode testa
 
 [[cap1:navega|Lição 1 - Equipartição; frações unitárias até um décimo: conceito, linguagem, comparação simples contextualizada.]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap1:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
 
-[[cap2:navega|Lição 2 - Representação simbólica, representação na reta numérica e ordenação das frações 1/n com n∈N, frações unitárias decimais]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]].
+[[cap2:navega|Lição 2 - Frações não-unitárias]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]].
 
-[[cap3:navega|Lição 3 -  Linguagem, representação simbólica, representação na reta numérica e ordenação das frações ab e soma de frações com mesmo denominador.]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap3/texto.txt|GitHub]].
+[[cap3:navega|Lição 3 -  A reta numérica]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap3/texto.txt|GitHub]].
 
-[[cap4:navega|Lição 4 - Frações equivalentes e porcentagem]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap4/texto.txt|GitHub]].
+[[cap4:navega|Lição 4 - Frações equivalentes e comparação geral de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap4/texto.txt|GitHub]].
 
 [[cap5:navega|Lição 5 - Adição e subtração de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap5:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap5/texto.txt|GitHub]].
 
