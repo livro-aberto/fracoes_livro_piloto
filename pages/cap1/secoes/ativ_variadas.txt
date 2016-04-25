@@ -23,6 +23,6 @@ Inserir 10 imagens semelhantes às que seguem, varaindo da metade até 1/10. As 
 
 </WRAP>
 
-<hidden Comentários>
-
+<hidden OBS 25/04/2016>
+**FS:** Esta poderia ser uma atividade para ligar as figuras apresentadas na coluna da esquerda às frases da coluna da direita.
 </hidden>
