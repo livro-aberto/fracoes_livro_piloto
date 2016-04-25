@@ -67,6 +67,15 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 </hidden>
 
+<hidden H (2016-04-25): a/b com b maior do que 10?>
+A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é o que está acontecendo nas atividades. Contudo, acho que na sistematização (conexões) poderíamos apresentar as frações gerais. A tecnologia poderia ajudar nisto: 
+
+[[http://tube.geogebra.org/m/2966755|{{cap2:secoes:fracoes-01.jpg?300}}]]
+
+
+Permitindo frações com denominadores maiores, via tecnologia, o aluno poderá vivenciar visualmente melhor a comparação de frações (quando a unidade é divida em mais partes, cada parte fica menor), a propriedade de densidade (frações que ficam arbitrariamente próximas de zero, logo, próximas de qualquer número).
+
+</hidden>
 
 
 
