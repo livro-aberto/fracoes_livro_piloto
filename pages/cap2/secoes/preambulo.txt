@@ -69,46 +69,12 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 
 
-<hidden H: SUGESTÕES DE SITUAÇÕES PARA APRESENTAR A NOTAÇÃO SIMBÓLICA DE ALGUMA FRAÇÃO UNITÁRIA>
-H: me parece que no mundo "real normal" as pessoas pouco usam a notação de fração, pelo menos aqui no Brasil. Lá nos EUA, por conta do sistema imperial de unidades, o uso de frações é mais frequente. Aqui estão algumas sugestões. Para mim, a mais "honesta" é a dos parafusos, apesar da fração, neste caso, existir a possibilidade da notação de fração como um código. O que vocês acham?
-LET: Não vejo problema na imagem dos parafusos. Esses usos dos números não podem ser percebidos de forma estanque. No caso dos parafusos acho que o uso das frações têm duplo significado, como medida e como código.
-
-(1) Marcador de combustível de automóveis e aviões
-
-{{:cap2:secoes:gas-tank-a-quarter-full.jpg?150|}} {{:cap2:secoes:pd398979-airplane_instrument_2_1_4_alarm_ef_fuel_tank_level_gauges_gauge_f2_va.jpg?150|}} {{:cap2:secoes:petrol-gauge.jpg?150|}}
-{{:cap2:secoes:boia-tubular-compativel-com-marcador-de-combustivel-nauticos-14480-mlb2755833842_052012-o.jpg?150|}}
-
-{{ :cap2:secoes:gasolina.jpg?200 |}}
-
-(2) Telégrafos náuticos
-
-{{:cap2:secoes:navio.jpg?200|}}  {{:cap2:secoes:engine-order-telegraph-01.jpg?200|}}
-
-
-(3) Em medicina (vejam a imagem do meio, não é a toa que as enfermeiras erram as dosagens) 
-
-{{:undefined:3ccsyringe.jpg?100|}} {{:cap2:secoes:3ccsyringeminim-02.jpg?90|}}  {{:cap2:secoes:tubex.jpg?100|}}
-
-
-(4) Na cozinha 
-
-{{:cap2:secoes:receita-de-pao-de-queijo-para-fazer-com-as-criancas-carol-segurando-medidor.jpg?350|}}
-{{:cap2:secoes:jogo-de-medidores-colher-e-xicara-hercules-silicone-8-pecas.jpg?200|}}
-{{:cap2:secoes:jarra-de-vidro-graduada-300x199.jpg?200|}}
-
-
-(5) Nas especificações de porcas, parafusos, ...
-
-{{:cap2:secoes:porcas-e-parafusos.jpg?800|}}
-
-</hidden>
-
 
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor que ou igual ao denominador) como as impróprias (caso em que o numerador é maior que o denominador).
 Também serão apresentadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
 
-As frações com numerador diferente de 1 são apresentadas a partir da **justaposição de frações unitárias com mesmo denominador**. Para isso, tem-se a representação pictórica como um apoio importante. Nas primeiras atividades, há um esforço deliberado para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetvo é que esse proscesso se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", resectivamente.
+As frações com numerador diferente de 1 são apresentadas a partir da **justaposição de frações unitárias com mesmo denominador**. Para isso, tem-se a representação pictórica como um apoio importante. Nas primeiras atividades, há um esforço deliberado para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetvo é que esse processo se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", resectivamente.
 
 Um cuidado especial recomendado ao professor é com as frações impróprias, introduzidas logo nas primeiras atividades ainda sem notação simbólica. Não é indicado atrasar muito a introdução deste tipo de fração porque o estudante pode fixar-se na ideia de que não há fração maior do que a unidade  (por exemplo, a fração $\frac{4}{3}$ pode não fazer sentido para o estudante porque, para ele, não faz sentido dividir uma torta em três pedaços e tomar 4). No entanto, decidiu-se omitir do estudante a terminologia "fração própria" e "fração imprópria", por acreditar que esta linguagem é desnecessária para ele e pode desviar a atenção dos temas que realmente importam.
 
