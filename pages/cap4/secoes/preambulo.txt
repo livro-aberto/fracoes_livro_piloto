@@ -5,7 +5,7 @@ Lição 4: Frações equivalentes
 
 **Conteúdos utilizados das lições anteriores**
     * Frações gerais como justaposição de frações unitárias.
-    * Representação de frações em modelos de área, volume e na reta numérica.
+    * Representação de frações em modelos de comprimento, área, volume, massa e na reta numérica.
 
 /*
     - Associação da unidade ao 1. 
@@ -33,7 +33,7 @@ Atividade 1:
 
 **Conexões**
 
-    * 
+    * Sistematizar a propriedade fundamental das frações equivalentes. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$.
 
 **Mão na Massa**
 
