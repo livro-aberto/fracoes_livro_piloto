@@ -1,5 +1,11 @@
+<WRAP professor>
+Objetivos específicos: 
+  * Fazer o aluno perceber que a fração depende da unidade escolhida.
+</WRAP>
+
+
 
 (NAEP, 1992) Pense cuidadosamente nesta questão. Escreva uma resposta completa. Você pode usar desenhos, palavras e números para explicar sua resposta. Certifique-se de mostrar todo o seu raciocínio.
 
-José comeu $\frac{1}{2}$ de uma pizza. Ella comeu $\frac{1}{2}$$ de uma outra pizza. José disse que ele comeu mais pizza do que Ella, mas Ella diz que eles comeram a mesma quantidade. Use palavras, figuras ou números para mostrar que José pode estar certo.
+José comeu $\frac{1}{2}$ de uma pizza. Ella comeu $\frac{1}{2}$ de uma outra pizza. José disse que ele comeu mais pizza do que Ella, mas Ella diz que eles comeram a mesma quantidade. Use palavras, figuras ou números para mostrar que José pode estar certo.
 
