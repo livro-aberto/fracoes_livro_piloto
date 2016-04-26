@@ -75,6 +75,8 @@ A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é 
 
 Permitindo frações com denominadores maiores, via tecnologia, o aluno poderá vivenciar visualmente melhor a comparação de frações (quando a unidade é divida em mais partes, cada parte fica menor), a propriedade de densidade (frações que ficam arbitrariamente próximas de zero, logo, próximas de qualquer número).
 
+**LET**: Concordo. Ainda que não esteja nos objetivos da lição. Eles já conhecem até décimos, há necessidade de incluir o termo "avos" ao vocabulário deles. 
+
 </hidden>
 
 <hidden H (2016-04-25): vamos introduzir a notação $a \div b$?>
