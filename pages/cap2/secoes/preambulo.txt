@@ -99,7 +99,7 @@ Um cuidado especial recomendado ao professor é com as frações impróprias, in
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 2:
 O aluno deve ser capaz de:
   * Compreender, a partir da justaposiçào de frações unitárias, frações não unitárias (próprias e impróprias) de denominador variando de 2 a 10. 
-  * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração a/b (a, b naturais tais que a≥1 e 1≤b≤10).
+  * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração a/b (a, b naturais tais que a≥1 e 1<b≤10).
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
 
