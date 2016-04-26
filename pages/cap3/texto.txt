@@ -5,7 +5,7 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_gr_subdiv}}
+{{page>cap3:secoes:ativ_grad unidade}}
 
 
 
