@@ -69,6 +69,14 @@ page>cap1:secoes:abstrato
 
 ===== - Atividade =====
 
+{{page>cap1:secoes:ativ_quantos cabem}}
+
+===== - Atividade =====
+
+{{page>cap1:secoes:ativ_quantos cabem 2}}
+
+===== - Atividade =====
+
 {{page>cap1:secoes:ativ_pintura}}
 
 /*
