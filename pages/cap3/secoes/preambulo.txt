@@ -24,7 +24,7 @@ Lição 3: Linguagem, representação simbólica, representação na reta numér
     - Associação da unidade ao 1.
     - Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
     - Comparação de frações que tenham o mesmo numerador
-    - Comparação de frações a partir de uma fração de referência
+    - Comparação de frações a partir de uma fração de referência - 0, 1/2, 1, 1 1/2, 2, ... (livro canadense - pp.178-179.)
 
 
 **Esqueleto da lição:**
@@ -34,25 +34,20 @@ Atividade que revise frações não unitárias a partir da justaposição.
 
 **Explorando**
 
-Atividades 1: Apresentar uma representação organizada pela ordem para as frações que sugira a reta numerada. 
+Atividades 1: 
+Decidimos por colocar uma segmento com o 0 e 1 marcados e que seja maior do que 1, para que o aluno faça a graduação decidindo onde marcar 1/2, 1/4, 3/4 e para além do 1...
+
+/*Retiramos: Apresentar uma representação organizada pela ordem para as frações que sugira a reta numerada. 
 Nesta atividade, talvez possam ser marcados inicialmente o 0, o 1 e a fração 1/2. Por exemplo, 
-
-Fulana deve usar a faixa a seguir como unidade para medir alguns segmentos.
-
-{{ :undefined:fita.jpg?300 |}}
-
-Para ajudar a realizar as medidas, Fulana resolveu fazer alguma algumas marcações nessa faixa. Ela fez 10 marcações:
-
-{{ :cap3:secoes:fita_com_divisoes.jpg?300 |}}
-
-
+Fulana deve usar a faixa a seguir como unidade para medir alguns segmentos.{{ :undefined:fita.jpg?300 |}}
+Para ajudar a realizar as medidas, Fulana resolveu fazer alguma algumas marcações nessa faixa. Ela fez 10 marcações:{{ :cap3:secoes:fita_com_divisoes.jpg?300 |}}
 Fulana decidiu numerar a faixa marcada com 0, 1 e 1/2. 
-
 a) Em sua opinião, como essa numeração deveria ser feita:
-  
 Incluir caso certo e casos errados.
+b) Que outras frações Fulana pode marcar nessa nessa faixa?*/
 
-b) Que outras frações Fulana pode marcar nessa nessa faixa? 
+
+
 
 Livro canadense tem boas inspirações:
 
