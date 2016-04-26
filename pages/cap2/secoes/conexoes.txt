@@ -24,9 +24,9 @@ Também pode-se considerar quatro terços, cinco ou seis terços da torta, basta
 
 
 
-Ao se repartir uma torta em três partes iguais, cada fatia é um terço da torta - ou um terço ($\frac{1}{3}$). É possível se ter ainda dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc, da torta. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
+Ao se repartir uma torta em três partes iguais, cada fatia é um terço da torta - ou um terço ($\frac{1}{3}$). É possível se ter ainda dois terços ($\frac{2}{3}$), três terços ($\frac{3}{3}$), quatro terços ( $\frac{4}{3}$ ), cinco terços ($\frac{5}{3}$), etc, da torta. Essas frações têm o número 3 abaixo do traço de fração  debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
-Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
+/* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. */
 
 Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração.
 
