@@ -30,7 +30,7 @@ Atividade 4:  Expressar frações impróprias verbalmente, e.g. no balcão da pi
 **Conexões**
 
     * Apresentação da representação simbólica das frações e esclarescer a partir de exemplos que $a/b$ é $a$ cópias de $1/b$.
-    * Expressão em linguagem verbal as frações $a/b$, avos décimo, centésimo, milésimo.
+    * Expressão em linguagem verbal as frações $\frac{a}{b}$, avos décimo, centésimo, milésimo.
 
 A partir das Conexões as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos. Talvez devamos mudar o nome de Atividade para Exercícios. 
 
