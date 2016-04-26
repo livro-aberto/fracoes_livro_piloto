@@ -44,4 +44,4 @@ Os nomes numerador e denominador são utilizados para frações quaisquer mesmo 
 
 <WRAP imagem>{{ :cap2:secoes:numerador_denominador.jpg?800 |}} </WRAP>
 
-
+LET: **PAREI AQUI!** 
