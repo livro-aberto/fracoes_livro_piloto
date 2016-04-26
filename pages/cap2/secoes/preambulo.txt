@@ -81,6 +81,9 @@ Permitindo frações com denominadores maiores, via tecnologia, o aluno poderá 
 
 <hidden H (2016-04-25): vamos introduzir a notação $a \div b$?>
 Em problemas de divisão (como é desta lição), costuma-se usar a notação $3 \div 4$. Vamos introduzir esta notação e relacioná-la com $\frac{3}{4}$?
+
+LET: (2016-04-26): Claro que a operação de divisão está implícita, mas não vejo necessidade de usar o símbolo neste momento. O foco está em outro registro simbólico.
+
 </hidden>
 
 
