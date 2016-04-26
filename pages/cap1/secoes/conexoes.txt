@@ -74,13 +74,13 @@ Por exemplo,
 2.Retirei "Todos os exemplos mostrados referem-se a quantidades (de chocolate, de leite, de século, de ouro) e, por isso, essas quantidades são representadas por números. Esses números são chamados //frações//."
 </hidden>
 
-<hidden OBSERVAÇÕES DE 21 DE ABRIL>
+/* <hidden OBSERVAÇÕES DE 21 DE ABRIL>
 **FS:** 
 1. Nestas Conexões onde entrarão as figuras representativas de meio, um terço, um quarto, um quinto, etc. sugiro que estejam ao menos três ou quatro representações de cada um porque este é o único local de teoria nesta lição.
 LET: Acho melhor isso ficar para uma atividade, em que o aluno possa completar os registros. Fiz uma proposta... vejam o que acham.
 
 2. Também nas conexões, sugiro que siga até o um décimo pois a lição se propõe a seguir até o um décimo. LET: Estava nos meus planos fazer isso... só estava atrasada. ;)
-</hidden>
+</hidden> */
 
 
 <hidden DUVIDAS>
