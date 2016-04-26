@@ -1,7 +1,7 @@
 ====== CONEXÕES ======
 <WRAP professor>
 
-Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas.
+Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. (**LET**: Acho que isso tem que ser tratado em uma atividade antes. A seção 
 
 A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com números com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
 Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).
@@ -18,6 +18,10 @@ Duas fatias são "dois terços da torta", o que pode ser expresso simplesmente p
 Também pode-se considerar quatro terços, cinco ou seis terços da torta, basta adicionar novos terços à torta inteira.
 
 <WRAP imagem> {{ :cap2:secoes:20160419_230500.jpg?900 |}}</WRAP>
+
+
+
+Ao se repartir uma torta em três partes iguais, cada fatia é um terço da torta - ou um terço ($\frac{1}{3}$). Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
 Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
