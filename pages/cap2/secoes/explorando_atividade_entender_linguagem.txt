@@ -13,6 +13,6 @@ Preencha cada linha sublinhada a seguir com uma das frações: "dois meios", "do
 
 </WRAP>
 
-<hidden CATALDO (2016-04-26): 
+<hidden CATALDO (2016-04-26)> 
 ffffffff
 </hidden>
