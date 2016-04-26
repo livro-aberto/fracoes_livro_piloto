@@ -5,25 +5,25 @@ A edição deste arquivo deve seguir a seguinte [[sintaxe]] que você pode testa
 ===== Navegação de capítulos ======
 
 
-[[cap0:navega|Introdução]] - versão em [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap0/texto.txt|GitHub]].
+[[cap0:navega|Introdução]] - [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap0/texto.txt|GitHub]].
 
 
-[[cap1:navega|Lição 1 - Equipartição; frações unitárias até um décimo: conceito, linguagem, comparação simples contextualizada.]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap1:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
+[[cap1:navega|Lição 1 - Equipartição; frações unitárias: conceito, linguagem, comparação simples contextualizada.]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
 
-[[cap2:navega|Lição 2 - Frações não-unitárias]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]].
+[[cap2:navega|Lição 2 - Frações não-unitárias]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]] -  [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]]
 
-[[cap3:navega|Lição 3 -  A reta numérica]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap3/texto.txt|GitHub]].
+[[cap3:navega|Lição 3 -  A reta numérica]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap3/texto.txt|GitHub]]
 
-[[cap4:navega|Lição 4 - Frações equivalentes e comparação geral de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap4/texto.txt|GitHub]].
+[[cap4:navega|Lição 4 - Frações equivalentes e comparação geral de frações]] -  [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap4/texto.txt|GitHub]].
 
-[[cap5:navega|Lição 5 - Adição e subtração de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap5:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap5/texto.txt|GitHub]].
+[[cap5:navega|Lição 5 - Adição e subtração de frações]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap5:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap5/texto.txt|GitHub]].
 
-[[cap6:navega|Lição 6 - Multiplicação de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap6:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap6/texto.txt|GitHub]].
+[[cap6:navega|Lição 6 - Multiplicação de frações]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap6:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]] -  [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap6/texto.txt|GitHub]].
 
-[[cap7:navega|Lição 7 - Divisão de frações]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap7:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap7/texto.txt|GitHub]].
+[[cap7:navega|Lição 7 - Divisão de frações]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap7:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap7/texto.txt|GitHub]].
 
-[[cap8:navega|Lição 8 - Divisão e medida]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap8:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap8/texto.txt|GitHub]].
+[[cap8:navega|Lição 8 - Divisão e medida]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap8:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap8/texto.txt|GitHub]].
 
-[[cap9:navega|Lição 9 - Modelos discretos]] - versão em [[https://www.umlivroaberto.com/livro/doku.php?id=cap9:texto|html]] - versão em [[https://www.umlivroaberto.com/pdf/cap9.pdf|pdf]] - repositório no [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap9/texto.txt|GitHub]].
+[[cap9:navega|Lição 9 - Modelos discretos]] - [[https://www.umlivroaberto.com/livro/doku.php?id=cap9:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap9.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap9/texto.txt|GitHub]].
 
 
