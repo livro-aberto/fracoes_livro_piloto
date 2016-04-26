@@ -2,6 +2,13 @@
 
 {{page>cap3:secoes:explorando}}
 
+
+===== - Atividade =====
+
+{{page>cap3:secoes:ativ_gr_subdiv}}
+
+
+
 {{page>cap3:secoes:conexoes}}
 
 {{page>cap3:secoes:abstrato}}
