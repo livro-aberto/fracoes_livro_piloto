@@ -1,9 +1,9 @@
 <WRAP professor> 
 Objetivos específicos:   
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a justaposição (ou a reunião) de duas ou mais frações unitárias de mesmo denominador.
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a adição de duas ou mais frações unitárias de mesmo denominador.
   * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade.
   * Levar o aluno a compreender a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
-  * Levar o aluno a perceber que uma mesma quantidade da unidade pode ser expressa por frações equivalentes (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta.
+  * Levar o aluno a perceber que, dada uma unidade, uma mesma quantidade pode ser expressa por frações equivalentes (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta).
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
@@ -22,6 +22,6 @@ a. Que fração de uma torta é uma fatia?
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
-c. (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior.) Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
+c. (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior. Isso precisa ser observado para o professor. Na verdade, pode até ser uma recomendação de abordagem e nao um novo item da questão) Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
 
-d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta usando frações? (Lembre-se que oito fatias formam uma torta inteira)
+d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta usando frações? (Let: especificar a unidade. Por exemplo, aalgo como: Como podemos representar essa quantidade usando frações e tendo a torta como unidade?) (Lembre-se que oito fatias formam uma torta inteira)
