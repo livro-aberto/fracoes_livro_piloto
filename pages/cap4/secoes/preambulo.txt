@@ -41,7 +41,7 @@ Atividade 4: Equivalência usando a reta numérica. Ver também a Lição 15 do 
 
 **Conexões**
 
-    * Definir quando duas frações são equivalentes? Duas frações são equivalentes se representam o mesmo ponto na reta numérica, 
+    * Definir quando duas frações são equivalentes? Duas frações são equivalentes se determinam a mesma quantidade ou representam o mesmo ponto na reta numérica. Corolário: uma mesma quantidade pode ter infinitos nomes. 
     * Sistematizar a propriedade fundamental das frações equivalentes. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$.
     * Sistematizar a comparação de frações via equivalência, incluindo as notações $<$, $>$, $\leq$ e $\geq$. 
       - Item de lista ordenada- Primeiro, para  o mesmo denominador, quanto maior for o numerador, maior é a fracção (ex. $1/3<2/3$).
