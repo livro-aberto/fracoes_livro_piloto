@@ -59,7 +59,7 @@ A parte colorida da figura é um quarto da figura. Neste caso, a figura é a uni
 Da mesma forma, ao dividir uma unidade em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// da unidade.
 
 Por exemplo,
-//Um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a //um quinto// ou "a quinta parte do ouro pesado nas Casas de Fundição no Brasil.
+//um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a //um quinto// ou "a quinta parte do ouro pesado nas Casas de Fundição no Brasil.
 
 <WRAP imagem> INCLUIR IMAGEM ILUSTRATIVA de quintos <hidden documentação das imagens>
 **Um homem entregando um saco de ouro a um rei e ficando com outros 4 sacos**
