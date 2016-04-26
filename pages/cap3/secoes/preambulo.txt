@@ -10,7 +10,7 @@ Este abordagem tem a vantagem de introduzir um elemento novo como uma maneira de
 
 <hidden Estrutura da Lição>
 
-Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações a/b e **soma de frações com mesmo denominador.**
+Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações a/b.
 
 **Conteúdos utilizados das lições anteriores**
     - Equipartição;
@@ -30,7 +30,7 @@ Lição 3: Linguagem, representação simbólica, representação na reta numér
 **Esqueleto da lição:**
 
 Preâmbulo:
-Atividade que revise fraçoes não unitárias a partir da justaposição.
+Atividade que revise frações não unitárias a partir da justaposição.
 
 **Explorando**
 
