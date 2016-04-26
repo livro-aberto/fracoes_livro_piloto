@@ -14,5 +14,6 @@ Preencha cada linha sublinhada a seguir com uma das frações: "dois meios", "do
 </WRAP>
 
 <hidden CATALDO (2016-04-26)> 
-ffffffff
+Sugestão
+Para facilitar a compreensão da criança, os dois hexágonos pintados devem ser pintados divididos em triângulos.
 </hidden>
