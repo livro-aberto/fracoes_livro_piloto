@@ -10,5 +10,9 @@ Preencha cada linha sublinhada a seguir com uma das frações: "dois meios", "do
 
 <WRAP imagem>
 {{ :cap2:secoes:preencha-01.png?700 |}}
+
 </WRAP>
 
+<hidden CATALDO (2016-04-26): 
+ffffffff
+</hidden>
