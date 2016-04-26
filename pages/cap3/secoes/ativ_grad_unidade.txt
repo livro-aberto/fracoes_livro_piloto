@@ -1,0 +1,22 @@
+Graduação da Unidade
+
+<WRAP professor>
+
+Objetivos específicos: Levar o aluno a:
+  * Graduar a unidade com as frações 1/4, 1/2 e 3/4 a partir de um modelo linear e de uma unidade dada, em que estão marcados o 0 e o 1.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Essa é uma atividade que o aluno pode fazer em grupos de 4 ou 5 alunos. 
+  * Para desenvoolver essa atividade é necessário Cada grupo ição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
+  * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
+  * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
+
+
+</WRAP>
+
+
+
+<hidden Comentários>
+
+</hidden>
