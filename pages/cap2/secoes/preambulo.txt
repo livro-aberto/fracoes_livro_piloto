@@ -67,6 +67,7 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 </hidden>
 
+/*
 <hidden H (2016-04-25): a/b com b maior do que 10?>
 A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é o que está acontecendo nas atividades. Contudo, acho que na sistematização (conexões) poderíamos apresentar as frações gerais. A tecnologia poderia ajudar nisto: 
 
@@ -78,14 +79,16 @@ Permitindo frações com denominadores maiores, via tecnologia, o aluno poderá 
 **LET**: Concordo. Ainda que não esteja nos objetivos da lição. Eles já conhecem até décimos, há necessidade de incluir o termo "avos" ao vocabulário deles. 
 
 </hidden>
+*/
 
+/*
 <hidden H (2016-04-25): vamos introduzir a notação $a \div b$?>
 Em problemas de divisão (como é desta lição), costuma-se usar a notação $3 \div 4$. Vamos introduzir esta notação e relacioná-la com $\frac{3}{4}$?
 
 LET: (2016-04-26): Claro que a operação de divisão está implícita, mas não vejo necessidade de usar o símbolo neste momento. O foco está em outro registro simbólico.
 
 </hidden>
-
+*/
 
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor que ou igual ao denominador) como as impróprias (caso em que o numerador é maior que o denominador).
