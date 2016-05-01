@@ -1,5 +1,12 @@
 ====== LIÇÃO 3 ======
 
+<hidden H (2016-05-01): erro frequente na reta numérica>
+Talvez isso possa ser usado para montar um exercício ou, pelo menos, avisar o professor.
+
+"Roadblock 2.1. Students try to partition the number line into fourths by drawing four hash marks rather than three, or they treat the whole number line as the unit."
+</hidden>
+
+/*
 <hidden H (2016-04-25): palpite para a estrutura da lição>
 Bem, vou dar um palpite: acho que deveríamos começar a lição com um problema (como nas lições 1 e 2) e este problema deveria ser de medida. Algo assim:
 
@@ -7,6 +14,7 @@ Problema da medida $\rightarrow$ régua $\rightarrow$ reta numérica.
 
 Este abordagem tem a vantagem de introduzir um elemento novo como uma maneira de se resolver um problema.
 </hidden>
+*/
 
 <hidden Estrutura da Lição>
 
