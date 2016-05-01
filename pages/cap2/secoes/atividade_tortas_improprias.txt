@@ -22,6 +22,13 @@ a. Que fração de uma torta é uma fatia?
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
-c. (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior. Isso precisa ser observado para o professor. Na verdade, pode até ser uma recomendação de abordagem e nao um novo item da questão) Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
+<hidden Encaminhamento do Item (c) (2016-01-05)>
+**H (2016-05-01):** Particularmente, penso que o Item (c) poderia ser mantido como está por dois motivos: (1) o Item (b) pede explicitamente //oitavos// e outras frações podem não surgir e (2) acho bom ter explícito e registrado por escrito a ideia de se pedir uma outra fração para a mesma quantidade. O que vocês acham?
 
-d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta usando frações? (Let: especificar a unidade. Por exemplo, aalgo como: Como podemos representar essa quantidade usando frações e tendo a torta como unidade?) (Lembre-se que oito fatias formam uma torta inteira)
+
+(**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior. Isso precisa ser observado para o professor. Na verdade, pode até ser uma recomendação de abordagem e nao um novo item da questão) 
+</hidden>
+
+c. Na pergunta anterior, apresente outra fração que representa a mesma quantidade de torta que papai comprou.
+
+d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
