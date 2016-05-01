@@ -1,5 +1,11 @@
 
-<hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04>
+<hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
+**H (2016-05-01)**: seguindo a dica da Letícia, inclui expliciamente os nomes dos amigos. Levar parte do exercício para depois, me parece quebrar a continuidade, afinal, eles já estão com o material dos recortes em mãos. Por que não fazer todas as perguntas já? Se for para realmente levar algo ou omitir, eu manteria as perguntas das quantidades de um, dois, ..., cinco amigos juntos e removeria a questão da comparação. O que vocês acham?
+
+**LET-2016-04-26**: Humberto, por mim elas não precisam ser banidas da lição, mas acham que seria melhor retomá-las mais adiante. Há muitas "coisas" trabalahadas nesta atividade e a dificuldade desses itens pode tirar o foco do principal. Por exmplo, o fato de não precisar identificar os dois amigos para responder a questão. Isso pode parecer simples (e é), mas não para todos. ;) 
+\\ \\
+
+
 **FS 25/04 às 10:33:** Eu gostei dos argumentos do Humberto. Letícia, a adição de frações aqui é tantengial ao que pretendemos abordar que é a composição de frações unitárias. Uma sugestão conciliadora é retomar esta questão com as perguntas finais (retiradas pela Letícia) em Mão na Massa, quando o estudante estiver mais maduro.
 
 **H: 25/04**
@@ -10,9 +16,6 @@
 \\ - Usando frações, como você nomearia a quantidade de torta que quatro amigos juntos receberam?   
 \\ - Usando frações, como você nomearia a quantidade de torta que os cincos amigos juntos receberam? 
 \\ \\ Defesa: mudar a pergunta aumentando o número de amigos (1) enfatiza a justaposição, (2) toca (de leve) na questão de equivalência, (3) dá confiança ao aluno.
-
-**LET-2016-04-26**: Humberto, por mim elas não precisam ser banidas da lição, mas acham que seria melhor retomá-las mais adiante. Há muitas "coisas" trabalahadas nesta atividade e a dificuldade desses itens pode tirar o foco do principal. Por exmplo, o fato de não precisar identificar os dois amigos para responder a questão. Isso pode parecer simples (e é), mas não para todos. ;) 
-\\ \\
 
 
 **FS: 23/04** 
@@ -41,7 +44,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
 </WRAP>
 
-Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edson) encomendou três tortas salgadas para uma comemoração.
+Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou três tortas salgadas para uma comemoração.
 
 <WRAP imagem>
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos.png?700 |}}
@@ -52,6 +55,6 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edson) encomendou três
   - Usando frações, como você nomearia a quantidade de torta que Amarildo e Beto receberam juntos? 
   - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto e Carlos receberam juntos? 
   - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos e Davi receberam juntos? 
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos, Davi e Edson receberam juntos? 
+  - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos, Davi e Edilson receberam juntos? 
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? E do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
