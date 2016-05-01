@@ -1,5 +1,10 @@
 ====== LIÇÃO 3 ======
 
+<hidden H (2016-05-01): vamos tratar nesta lição dos casos $\frac{8}{1}$ e $\frac{0}{8}$?>
+
+É nesta lição que vamos tratar destas frações? E com relação a não ter $0$ no denominador?
+</hidden>
+
 <hidden H (2016-05-01): erro frequente na reta numérica>
 Talvez isso possa ser usado para montar um exercício ou, pelo menos, avisar o professor.
 
