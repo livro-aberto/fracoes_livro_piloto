@@ -8,4 +8,4 @@ Objetivos:
 
 {{ :cap2:secoes:copos-de-agua-01.png?300 |}}
 
-(B) A quantidade total de água nos três copos é que fração da quantidade total de água que um copo pode ter?
+(B) A quantidade de água nos três copos juntos é que fração da quantidade de água que um copo pode ter?
