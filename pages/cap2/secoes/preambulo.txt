@@ -94,14 +94,14 @@ LET: (2016-04-26): Claro que a operação de divisão está implícita, mas não
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor que ou igual ao denominador) como as impróprias (caso em que o numerador é maior que o denominador).
 Também serão apresentadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
 
-As frações com numerador diferente de 1 são apresentadas a partir da ** adição por justaposição de frações unitárias com mesmo denominador**. Para isso, tem-se a representação pictórica como um apoio importante. Nas primeiras atividades, há um esforço deliberado para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetvo é que esse processo se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", resectivamente.
+As frações com numerador diferente de 1 são apresentadas a partir da ** adição por justaposição de frações unitárias com mesmo denominador ou simplismente contando-se essas frações**. Para isso, tem-se a representação pictórica como um apoio importante. Nas primeiras atividades, há um esforço deliberado para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetvo é que esse processo se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", resectivamente.
 
 Um cuidado especial recomendado ao professor é com as frações impróprias, introduzidas logo nas primeiras atividades ainda sem notação simbólica. Não é indicado atrasar muito a introdução deste tipo de fração porque o estudante pode fixar-se na ideia de que não há fração maior do que a unidade  (por exemplo, a fração $\frac{4}{3}$ pode não fazer sentido para o estudante porque, para ele, não faz sentido dividir uma torta em três pedaços e tomar 4). No entanto, decidiu-se omitir do estudante a terminologia "fração própria" e "fração imprópria", por acreditar que esta linguagem é desnecessária para ele e pode desviar a atenção dos temas que realmente importam.
 
 
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 2:
 O aluno deve ser capaz de:
-  * Compreender, a partir da justaposiçào de frações unitárias, frações não unitárias (próprias e impróprias). 
+  * Compreender, a partir da adição por justaposiçào de frações unitárias, frações não unitárias (próprias e impróprias). 
   * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração $\frac{a}{b}$.
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
@@ -127,7 +127,7 @@ Miguel escrevendo no quadro as frações abaixo para mostrar para Alice
 
 Miguel: Mas a minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
 
-Alice: Não foi isso o que vimos aqui. A gente repartiu figuras de papel e outros objetos. Tinha que ser em partes iguais ou com a mesma quantidade em cada parte! Aí surgiram nomes: se forem duas partes, cada uma delas é metade da coisa, isso a gente já sabia. Se forem três partes iguais, cada uma é um terço ou a terça parte do que foi repartido e assim vai.
+Alice: Não foi isso o que vimos aqui. A gente repartiu figuras de papel e outros objetos. Tinha que ser em partes iguais ou com a mesma quantidade em cada parte! Aí surgiram nomes: se forem duas partes iguais, cada uma delas é metade da coisa, isso a gente já sabia. Se forem três partes iguais, cada uma é um terço ou a terça parte do que foi repartido e assim vai.
 
 **Quadrinho 3**
 
