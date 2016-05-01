@@ -52,7 +52,7 @@ Atividade 4: Equivalência usando a reta numérica. Ver também a Lição 15 do 
 **Mão na Massa**  
   - Uso de applet GeoGebra para comparar frações usando o mesmo modelo (tecnologia permite se trabalhar com frações que seriam difíceis de se trabalhar com material concreto).
   - Colocar uma atividade onde é difícil decidir qual fração é maior visualmente, para justificar a necessidade um procedimento aritmético.
-  - Colocar uma atividade mostrando como equivalência pode ser usada no problema de divisão (dividir 6 panquecas entre 24 alunos, fração como quociente) no sentido de minimizar o número de pedaços na partição. Ver o artigo da Empson: "Equal Sharing and the Roots of Fraction Equivalence". Dividir 1 panqueca em 3, 2 panquecas em 6, 3 panquenas em 9, ...
+  - Colocar uma atividade mostrando como equivalência pode ser usada no problema de divisão (dividir 6 panquecas entre 24 alunos, fração como quociente) no sentido de minimizar o número de pedaços na partição. Ver o artigo da Empson: "Equal Sharing and the Roots of Fraction Equivalence". Dividir 1 panqueca em 3, 2 panquecas em 6, 3 panquenas em 9, ... Motivar equivalência por um problema em minimizar o número de cortes?
   - Atividade do tipo $3 \div 2 = \square \div 6$ (ganhei 3 meios bolos, mas os bolos foram divididos em 6, quantos pedaços devo ganhar?).
 
 **Refletindo**
