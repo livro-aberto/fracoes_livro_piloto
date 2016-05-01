@@ -55,6 +55,9 @@ Atividade 4: Equivalência usando a reta numérica. Ver também a Lição 15 do 
   - Colocar uma atividade mostrando como equivalência pode ser usada no problema de divisão (dividir 6 panquecas entre 24 alunos, fração como quociente) no sentido de minimizar o número de pedaços na partição. Ver o artigo da Empson: "Equal Sharing and the Roots of Fraction Equivalence". Dividir 1 panqueca em 3, 2 panquecas em 6, 3 panquenas em 9, ... Motivar equivalência por um problema em minimizar o número de cortes?
   - Atividade do tipo $3 \div 2 = \square \div 6$ (ganhei 3 meios bolos, mas os bolos foram divididos em 6, quantos pedaços devo ganhar?).
   - Terminar com um jogo para fixar? Que tal o jogo proposto pelo livro [[https://www.umlivroaberto.com/wiki/lib/exe/fetch.php?media=discus:spangler_-_strategies_for_teaching_fractions_-_using_error_analysis_for_intervention_and_assessment.pdf|Strategies for Teaching Fractions - Using Error Analysis for Intervention and Assessment]] do Spangler (ver página física 185 do arquivo PDF). Outra possibilidade é este jogo, que parece mais simples: [[https://vimeo.com/92984006|Cover Up - A game of fractions (vídeo)]]. (Talvez os jogos possam ser adaptados para ir além da unidade!)
+  - Que tal algo assim, configurável, no GeoGebra?
+
+{{ :cap4:secoes:fracoes-equivalentes.gif?700 |}}
 
 **Refletindo**
 
