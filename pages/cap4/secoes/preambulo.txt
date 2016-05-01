@@ -65,6 +65,14 @@ a. Vamos trabalhar com equivalência de unidades de medida? Por exemplo, a cent�
 b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". O livro "REFiP Matemática - Números" (página 287) pode ajudar aqui!
 
 c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{8}$?
+
+d. Vamos alertar o professor sobre esta observação? Accessing Language (simplest form vs. reduce): Many teachers avoid using the phrases reduce
+fractions or reduce to lowest terms because those phrases suggest the fraction is “getting smaller.”
+This book (and many others) uses the phrase simplest form. (Another frequently used phrase is in
+lowest terms.) It is important that students understand that although the numerator and denominator of
+a fraction in simplest form are smaller than the numerator and denominator of the original fraction, the
+two fractions are equivalent. This means that both fractions show the same relationship between the
+part and the whole.
  
 
 **Decisões tomadas:**
