@@ -73,9 +73,7 @@ c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{
 **Observações:**
   * Comentar para o professor sobre o excesso de preocupação com frações irredutíveis. Por exemplo, está correto escrever $\frac{1}{6} + \frac{1}{2} = \frac{4}{6}$, isto é, não expressar a soma como uma fração irredutível não torna a resposta errada.
   * Pesquisa tem evidenciado que a ordenação dos números naturais pode ser um forte obstáculo na ordenação de frações.
-
-
-
+  * Uma maneira de se ver frações equivalentes é dar nomes diferentes para uma mesma quantidade. Os alunos já devem ter visto no contexto, por exemplo, que 5 pode ser escrito como 4 e 1, 2 a menos que 7, metadade 10, ...
 </hidden>
 
 
