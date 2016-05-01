@@ -22,7 +22,7 @@ a. Que fração de uma torta é uma fatia?
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
-<hidden Encaminhamento do Item ( c ) (2016-01-05)>
+<hidden H: encaminhamento do Item ( c ) (2016-01-05)>
 **H (2016-05-01):** Particularmente, penso que o Item (c) poderia ser mantido como está por dois motivos: (1) o Item (b) pede explicitamente //oitavos// e outras frações podem não surgir e (2) acho bom ter explícito e registrado por escrito a ideia de se pedir uma outra fração para a mesma quantidade. O que vocês acham?
 
 
