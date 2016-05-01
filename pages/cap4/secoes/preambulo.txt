@@ -62,7 +62,7 @@ Atividade 4: Equivalência usando a reta numérica. Ver também a Lição 15 do 
 
 a. Vamos trabalhar com equivalência de unidades de medida? Por exemplo, a centésima parte de um metro é chamada de centímetro. 30 centímetros é que fração de 1 metro?
 
-b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". 
+b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". O livro "REFiP Matemática - Números" (página 287) pode ajudar aqui!
 
 c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{8}$?
  
