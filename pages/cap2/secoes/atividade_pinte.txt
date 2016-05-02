@@ -1,8 +1,9 @@
 <WRAP professor>
-Objetivos específicos: 
-  * Fazer o aluno perceber que a fração depende da unidade escolhida.
+Objetivos específicos: Levar o aluno a: 
+  * reconhecer que a unidade escolhida determina a identificação da fração.
 </WRAP>
 
+(**LET 2016-05-02**: acho que nos objetivos, devemos destacar apenas o obejtivo matemático. Além disso, esse objetivo deve ser bem discutido com o professor (pedagogo).
 
 Preencha cada linha sublinhada a seguir com uma fração adequada.
 
