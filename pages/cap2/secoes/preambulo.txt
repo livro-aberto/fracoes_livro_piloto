@@ -1,6 +1,10 @@
 
 ====== LIÇÃO 2 - Frações não-unitárias ======
 
+<hidden Como se lê a fração $\frac{8}{1}$?>
+Talvez este tipo de fração não entre nesta lição, mas já coloco a pergunta ...
+</hidden>
+
 <hidden Estrutura da Lição>
 
 **Conteúdos utilizados da lição anterior**
