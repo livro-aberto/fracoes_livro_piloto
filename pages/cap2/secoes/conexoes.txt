@@ -26,7 +26,7 @@ Também pode-se considerar quatro terços, cinco ou seis terços da torta, basta
 
 
 
-Ao se repartir uma torta em três partes iguais, cada fatia é um terço da torta - ou $\frac{1}{3}$ da torta. É possível se ter ainda dois terços ($\frac{2}{3}$), três terços ($\frac{3}{3}$), quatro terços ( $\frac{4}{3}$ ), cinco terços ($\frac{5}{3}$), etc, da torta. Na representação simbólica, essas frações têm o número 3 "abaixo" do traço de fração, identificando terços. O número que identifica a parte da unidade que "dá nome" à  fração é chamado de //denominador// da fração. Assim, em $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando "terços". 
+Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou $\frac{1}{3}$ da torta. Juntando essas fatias, é possível se ter dois terços ($\frac{2}{3}$), três terços ($\frac{3}{3}$), quatro terços ( $\frac{4}{3}$ ), cinco terços ($\frac{5}{3}$), etc, da torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 "abaixo" do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que "dá nome" à fração é chamado de //denominador// da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando "terços". 
 
 
 Já o número que aparece "acima" do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de //numerador// da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
@@ -38,7 +38,7 @@ Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5.
 //incluir outros exemplos// 
 
 
-/* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. */
+/* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
 Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração. */
 
@@ -46,4 +46,6 @@ Os nomes numerador e denominador são utilizados para frações quaisquer mesmo 
 
 <WRAP imagem>{{ :cap2:secoes:numerador_denominador.jpg?800 |}} </WRAP>
 
-LET: **PAREI AQUI!** 
+
+
+(**LET 2016-05-02**: Seria bom, na ilustração, identificar o traço de fração. Alé disso, fiquei pensando que seria legal usarmos um estilo manuscrito em algumas anotações da seção conexões. Acho que seria o caso dessta imagem.)
