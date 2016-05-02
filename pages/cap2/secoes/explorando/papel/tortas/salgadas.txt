@@ -2,7 +2,7 @@
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
 **H (2016-05-01)**: seguindo a dica da Letícia, inclui expliciamente os nomes dos amigos. Levar parte do exercício para depois, me parece quebrar a continuidade, afinal, eles já estão com o material dos recortes em mãos. Por que não fazer todas as perguntas já? Se for para realmente levar algo ou omitir, eu manteria as perguntas das quantidades de um, dois, ..., cinco amigos juntos e removeria a questão da comparação. O que vocês acham?
 
-**LET-2016-04-26**: Humberto, por mim elas não precisam ser banidas da lição, mas acham que seria melhor retomá-las mais adiante. Há muitas "coisas" trabalahadas nesta atividade e a dificuldade desses itens pode tirar o foco do principal. Por exmplo, o fato de não precisar identificar os dois amigos para responder a questão. Isso pode parecer simples (e é), mas não para todos. ;) 
+**LET-2016-04-26**: Humberto, por mim elas não precisam ser banidas da lição, mas acho que seria melhor retomá-las mais adiante. Há muitas "coisas" trabalhadas nesta atividade e a dificuldade desses itens pode tirar o foco do principal. Por exmplo, o fato de não precisar identificar os dois amigos para responder a questão. Isso pode parecer simples (e é), mas não para todos. ;) 
 \\ \\
 
 
@@ -35,7 +35,7 @@ Objetivos específicos:
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
-  * Em particular, no item (1) não se espera que a representaçào feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas a indicada na figura a seguir.
+  * Em particular, no item (1) não se espera que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas a indicada na figura a seguir.
 
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
 
