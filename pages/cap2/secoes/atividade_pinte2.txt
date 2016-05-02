@@ -1,5 +1,12 @@
 <WRAP professor>
 Objetivos específicos: 
+
+<hidden: L(16-05-02)>
+sugiro algo como:
+  * Representação de frações não unitárias.
+  * Identificação da fração complementar de uma fração própria da unidade.
+</hidden>
+
   * Fazer com que o aluno represente frações não unitárias.
   * Fazer com que o aluno perceba a fração complementar de uma fração própria da unidade.
 </WRAP>
