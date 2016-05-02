@@ -3,6 +3,7 @@
 
 <hidden H (2016-05-02): Como ler frações do tipo $\frac{2}{1}$, $\frac{3}{1}$, $\ldots$?>
 Talvez este tipo de fração não entre nesta lição, mas já coloco a pergunta ...
+LET (02/05/2016): 1/1 é uma unidade (ou um inteiro), então, o natural é que sejam lidas como "duas unidades" ou "dois inteiros", por exemplo. Talvez a devamos incluir a discussão do 1/1, que, acredito, deva ser nesta liçào.
 </hidden>
 
 <hidden Estrutura da Lição>
@@ -96,7 +97,7 @@ LET: (2016-04-26): Claro que a operação de divisão está implícita, mas não
 
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor que ou igual ao denominador) como as impróprias (caso em que o numerador é maior que o denominador).
-Também serão apresentadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
+Também serão abordadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
 
 As frações com numerador diferente de 1 são apresentadas a partir da ** adição por justaposição de frações unitárias com mesmo denominador ou simplismente contando-se essas frações**. Para isso, tem-se a representação pictórica como um apoio importante. Nas primeiras atividades, há um esforço deliberado para que o estudante utilize-se da linguagem de frações obtida na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetvo é que esse processo se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", resectivamente.
 
@@ -105,7 +106,7 @@ Um cuidado especial recomendado ao professor é com as frações impróprias, in
 
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 2:
 O aluno deve ser capaz de:
-  * Compreender, a partir da adição por justaposiçào de frações unitárias, frações não unitárias (próprias e impróprias). 
+  * Compreender, a partir da adição por justaposição de frações unitárias, frações não unitárias (próprias e impróprias). 
   * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração $\frac{a}{b}$.
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
