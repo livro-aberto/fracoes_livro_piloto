@@ -68,10 +68,11 @@ OBS:
 **Dúvidas:**
 
 a. Vamos trabalhar com equivalência de unidades de medida? Por exemplo, a centésima parte de um metro é chamada de centímetro. 30 centímetros é que fração de 1 metro?
-
+L(16-05-03): Acho que podemos.
 b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". O livro "REFiP Matemática - Números" (página 287) pode ajudar aqui!
-
+L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próximo encontro.
 c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{8}$?
+L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próximo encontro.
 
 d. Vamos alertar o professor sobre esta observação? Accessing Language (simplest form vs. reduce): Many teachers avoid using the phrases reduce
 fractions or reduce to lowest terms because those phrases suggest the fraction is “getting smaller.”
