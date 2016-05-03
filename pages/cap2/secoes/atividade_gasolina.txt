@@ -1,3 +1,10 @@
+<hidden L:16-05-02>
+
+Acho que esta questão tem conceitos não previstos para esta seção e nada triviais. Sugiro ir para a seção 4. 
+
+</hidden>
+
+
 <WRAP professor>
 Objetivos específicos:
   * Usar frações no contexto de proporcionalidade.
