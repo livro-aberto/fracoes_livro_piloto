@@ -20,7 +20,7 @@ Duas fatias são "dois terços da torta", o que pode ser expresso simplesmente p
 
 <WRAP imagem> {{ :cap2:secoes:um_terco_torta.jpg?500 |}}</WRAP>
 
-Também pode-se considerar quatro terços, cinco ou seis terços da torta, basta adicionar novos terços à torta inteira.
+Também pode-se considerar quatro terços, cinco terços ou seis terços da torta, basta juntar novos terços à torta inteira.
 
 <WRAP imagem> {{ :cap2:secoes:20160419_230500.jpg?900 |}}</WRAP>
 
@@ -31,7 +31,7 @@ Se uma torta é repartida em três partes iguais, cada fatia é um terço da tor
 
 Já o número que aparece "acima" do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de //numerador// da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
 
-Esses mesmos nomes valem para outras fraçõe:
+Esses mesmos nomes valem para outras frações, mesmo que o denominador seja diferente de 3:
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. 
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. 
 
@@ -40,9 +40,9 @@ Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5.
 
 /* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
 
-Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração. */
+Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração. 
 
-Os nomes numerador e denominador são utilizados para frações quaisquer mesmo que o denominador seja diferente de 3.
+Os nomes numerador e denominador são utilizados para frações quaisquer mesmo que o denominador seja diferente de 3.*/
 
 <WRAP imagem>{{ :cap2:secoes:numerador_denominador.jpg?800 |}} </WRAP>
 
