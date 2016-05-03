@@ -67,7 +67,7 @@ page>cap1:secoes:abstrato
 
 {{page>cap1:secoes:ativ_variadas}}
 
-===== - Atividade =====
+/*===== - Atividade =====
 
 {{page>cap1:secoes:ativ_quantos cabem}}
 
@@ -79,22 +79,22 @@ page>cap1:secoes:abstrato
 
 {{page>cap1:secoes:ativ_pintura}}
 
-/*
+
 page>cap1:secoes:atividade11
 
 page>cap1:secoes:atividade12
- */
+ 
 
 {{page>cap1:secoes:refletindo}}
 
-/* Limbo (Dá para Aproveitar?) */
 
-/*
+ Limbo (Dá para Aproveitar?)
+
 page>cap1:secoes:atividade13
 
 page>cap1:secoes:atividade14
 
-
+*/
 
 {{page>cap1:secoes:quadrinhos}}
 
