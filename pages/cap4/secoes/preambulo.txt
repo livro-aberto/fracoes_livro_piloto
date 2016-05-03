@@ -14,7 +14,7 @@ Lição 4: Frações equivalentes e comparação de frações
 
 
 **Conteúdos da lição:** 
-    * Equivalência abordada no contexto de representações diferentes para um mesma quantidade.
+    * Equivalência abordada no contexto de representações diferentes para uma mesma quantidade.
     * Comparação de frações via equivalência.
     
 /*    
@@ -37,12 +37,15 @@ Atividade 3: Equivalência usando dobradura de papel (ou papel pontilhado/geogla
 
 Atividade 4: Equivalência usando a reta numérica. Ver também a Lição 15 do Rational Number Project (http://www.cehd.umn.edu/ci/rationalnumberproject/RNP1-13-grade3/RNP1_15-grade3.pdf0).
 
+OBS:
+(i) As atividades que compõem essa parte inicial devem contemplar a comparação, mesmo que seja necessário incluir outras atividades.
 
+(ii) Uma sugestão para fazer surgir o papel da equivalência na comparação de frações pode envolver, por exemplo, as frações 7/9 e 2/3 (mesmo usando a unidade como referência, a equivalência será importante para comparar 2/9 e 1/3) 
 
 **Conexões**
 
-    * Definir quando duas frações são equivalentes? Duas frações são equivalentes se determinam a mesma quantidade ou representam o mesmo ponto na reta numérica. Corolário: uma mesma quantidade pode ter infinitos nomes. 
-    * Sistematizar a propriedade fundamental das frações equivalentes. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$. Em particular, observar que $1 = \frac{n}{n}$ para todo natural~$n$.
+    * Definir frações equivalentes a partir da observação de representações diferentes para a mesma quantidade. Concluir que duas frações são equivalentes se determinam a mesma quantidade ou representam o mesmo ponto na reta numérica. Corolário: uma mesma quantidade pode ter infinitos nomes. 
+    * Sistematizar frações equivalentes a partir da ideia de multiplicação ( ou divisão) dos termos por um mesmo natural não nulo. Versão via multiplicação: $\frac{a}{b} = \frac{a \times n}{b \times n}$. Versão via divisão: $\frac{a}{b} = \frac{a \div n}{b \div n}$, com $a$ e $b$ múltiplos inteiros de $n$. Em particular, observar que $1 = \frac{n}{n}$ para todo natural~$n$.
     * Sistematizar a comparação de frações via equivalência, incluindo as notações $<$, $>$, $\leq$ e $\geq$. 
       - Item de lista ordenada- Primeiro, para  o mesmo denominador, quanto maior for o numerador, maior é a fracção (ex. $1/3<2/3$).
       - Segundo, para o mesmo numerador, quanto maior for o denominador, menor é a fracção (ex. $1/2>1/3$). 
