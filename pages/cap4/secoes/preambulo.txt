@@ -69,8 +69,10 @@ OBS:
 
 a. Vamos trabalhar com equivalência de unidades de medida? Por exemplo, a centésima parte de um metro é chamada de centímetro. 30 centímetros é que fração de 1 metro?
 L(16-05-03): Acho que podemos.
+
 b. Fala-se frações equivalentes, mas usa-se o sinal de igual. Isto não confunde? Por que não falar "frações iguais". O livro "REFiP Matemática - Números" (página 287) pode ajudar aqui!
 L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próximo encontro.
+
 c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{8}$?
 L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próximo encontro.
 
@@ -84,15 +86,14 @@ part and the whole.
  
 
 **Decisões tomadas:**
-
+A completar....
 
 **Observações:**
   * Comentar para o professor sobre o excesso de preocupação com frações irredutíveis. Por exemplo, está correto escrever $\frac{1}{6} + \frac{1}{2} = \frac{4}{6}$, isto é, não expressar a soma como uma fração irredutível não torna a resposta errada.
-  * Pesquisa tem evidenciado que a ordenação dos números naturais pode ser um forte obstáculo na ordenação de frações.
-  * Uma maneira de se ver frações equivalentes é dar nomes diferentes para uma mesma quantidade. Os alunos já devem ter visto no contexto, por exemplo, que 5 pode ser escrito como 4 e 1, 2 a menos que 7, metadade 10, ...
+  * Pesquisas têm evidenciado que a ordenação dos números naturais pode ser um forte obstáculo na ordenação de frações. L(16-05-03): De que maneira? para decidirmos como intervir nesse resultado, temos que conhecer as causas do problema
+  * Uma maneira de se ver frações equivalentes é dar nomes diferentes para uma mesma quantidade. Os alunos já devem ter visto no contexto, por exemplo, que 5 pode ser escrito como 4 e 1, 2 a menos que 7, metadade 10, ... L(16-05-03): Acho que são coisas diferentes. 4 é 4, mas também é o resultado de 3 + 1. No entanto, 2/3 e 4/6 são o mesmo número por definição, sem qualquer operação envolvida. 
   * A general development of operational capacity required for multiplicative reasoning appeared
-to be responsible for the initial understanding and representing an equivalence fraction. Second, the performance patterns suggest a subconstruct-by-subconstruct
-course of acquiring the concept of fraction equivalence. This makes the process
+to be responsible for the initial understanding and representing an equivalence fraction. Second, the performance patterns suggest a subconstruct-by-subconstruct course of acquiring the concept of fraction equivalence. This makes the process
 of constructing fraction equivalence concept a recursive one. It is ‘‘recursive’’
 in two senses. One is that children have to construct the concept
 of fraction equivalence for one semantic domain after another. The other,
