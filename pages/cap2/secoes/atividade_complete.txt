@@ -14,8 +14,8 @@ Nos casos de atividades como esta, acho melhor um cmando só e itens do que repe
 
 
 </hidden>
-
-
+Cataldo
+"Faça um desenho que corresponda a uma figura completa". Este comando para as questões (B), (E), (H) e (J) ficou um pouco vago. Sugiro que seja pedido o desenho de uma unidade da figura.
 
 
 (A) {{cap2:secoes:complete-retangulo.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
