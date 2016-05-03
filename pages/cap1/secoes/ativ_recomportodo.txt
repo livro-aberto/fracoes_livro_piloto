@@ -1,7 +1,7 @@
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
-    * Recompor o todo a partir de uma fração unitária dada em modelo contínuo. 
-    * Relacionar a fração unitária correspondente à parte apresentada à quantidade necessária dessas partes para compor o todo. Assim, por exemplo, é necessário reunir cinco //quintas partes// para recompor o todo.  
+    * Recompor a unidade a partir de uma fração unitária dada em modelo contínuo. 
+    * Relacionar a fração unitária correspondente à parte apresentada à quantidade necessária dessas partes para compor a unidade. Assim, por exemplo, é necessário reunir cinco //quintas partes// para recompor o todo.  
 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
