@@ -10,6 +10,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos”, “dez oitavos" e “uma torta e dois oitavos”. 
+  * As respostas esperadas para o Item (c) podem surgir na resolução do Item (b). Caso isso aconteça, recomenda-se que as frações corretas correspondentes a $4$ fatias de torta ($\frac{1}{2}$ de torta, $\frac{2}{4}$ de torta, $\frac{3}{6}$ de torta, etc.) sejam reconhecidas como tal, mas que, conforme solicitado pelo enunciado, a resposta deve ser dada em termos de oitavos. 
+  * No Item (b), é importante estimular o aluno a dar uma explicação para sua resposta: por que você pensou em $\frac{1}{2}$ de torta? Por que você pensou em $\frac{3}{6}$ de torta? Etc.
 
 </WRAP>
 
@@ -22,6 +24,7 @@ a. Que fração de uma torta é uma fatia?
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
+/*
 <hidden H: encaminhamento do Item ( c ) (2016-01-05), L(16-05-02>
 **L (2016-05-02):** Por mim, o item (c) pode ser mantido. No entanto, acredito que a primeira resposta dos meninos ao item (b), ainda que se solicite explicitamente oitavos, seja 1/2. Nesse caso, o professor precisa ser alertado para o objetivo do item (que acho é "saber expressar a quantidade solicitada em oitavos"). Além disso, como posta a pergunta do item (c), a resposta poderia ser, por exmplo, 3/6. Como discutir isso com os alunos também precisa ser alertado para o professor. Temos que lembrar que "alunos surpreendem" e que "esse professor tem formação de pedagogia". Não me surpreenderia que a resposta 3/6, se dada por um aluno, fosse considerada errada pelo professsor. 
 
@@ -30,7 +33,8 @@ b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sob
 
 (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior. Isso precisa ser observado para o professor. Na verdade, pode até ser uma recomendação de abordagem e nao um novo item da questão) 
 </hidden>
+*/
 
-c. Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou.
+c. Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
 
-d.Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
+d. Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
