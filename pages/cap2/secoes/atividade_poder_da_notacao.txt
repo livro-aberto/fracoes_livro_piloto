@@ -4,6 +4,17 @@ Objetivo específico:
     * Levar o aluno a fazer representações múltiplicas de frações (notação matemática, escrita por extenso e por meio de uma figura). 
 </WRAP>
 
+<hidden L(16-05-02):>
+sugiro algo como:
+  * Representações múltiplicas de frações (notação matemática, escrita por extenso e por meio de uma figura).
+  * Discutir aspectos dessas representações. 
+
+Essa questão também aborda a comparação. Talvez a discussão pudesse ser invertida. A representação  por meio de figura pode ser considerada mais interessante para a comparação.
+
+</hidden>
+
+
+
 
 Uma pizza gigante foi dividida em doze fatias iguais. 
 Pedro comeu 4 fatias, Isabella 5 fatias, Bernardo 2 fatias e Manuela apenas 1 fatia.
