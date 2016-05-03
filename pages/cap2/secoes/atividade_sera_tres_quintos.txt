@@ -10,14 +10,14 @@ Observações:
 
 
 <hidden L:16-05-02>
-Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão.Os objetivos devem se referir mais aos tópicos/aspectos matemáticos.
+Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão. Os objetivos devem se referir mais aos tópicos/aspectos matemáticos da questão.
 
-Por exmplo, o primeiro objetivo poderia ser:
+Por exemplo, o primeiro objetivo poderia ser:
 Apresentar frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração. 
 
 Além disso, o segundo objetvo parece mais adequado ser discutido nas observações/recomendações.
 
-<hidden>
+</hidden>
 
 
 
