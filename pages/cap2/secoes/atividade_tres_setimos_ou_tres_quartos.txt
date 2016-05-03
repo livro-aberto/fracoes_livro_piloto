@@ -11,3 +11,9 @@ Observações:
 Sophia disse para Arthur que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{4}$ da figura, pois a figura tem 3 partes pintadas de vermelho e 4 partes pintadas de branco. Você concorda com a afirmação e a justificativa de Sophia? Explique! 
 
 {{ :cap2:secoes:tres-setimos-ou-tres-quartos.png?300 |}}
+
+<hidden L:16-0502>
+
+Os objetivos são bons e importantes. No entanto, acho que cabe rever a ideia de contextualização nas questões 16 e 17. Tudo poderia ser feito sem a historinha, apenas com a pergunta. 
+
+</hidden>
