@@ -5,6 +5,16 @@ Objetivo específico:
 </WRAP>
 
 
+<hidden L(16-05-02):>
+sugiro algo como:
+  * Recuperar a unidade a partir de uma fração dada em modelo contínuo.
+
+Nos casos de atividades como esta, acho melhor um cmando só e itens do que repetir o comando em todos os itens.
+
+</hidden>
+
+
+
 
 (A) {{cap2:secoes:complete-retangulo.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
 
