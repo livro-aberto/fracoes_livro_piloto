@@ -1,2 +1,7 @@
 ====== EXPLORANDO O ASSUNTO ======
-
+<WRAP professor>
+Caro professor,
+Gostaríamos que ao final desta lição o nosso aluno saiba localizar frações na reta numerada. Propomos a seguir uma atividade que tem por objetivo a associação entre a unidade ja feito na lição anterior  o nosso conhecido número um na reta numerada.
+Para a preparação desta aula faça cópias da fita que está no material de reprodução referente a esta lição.
+Preferencialmente, trabalhe com os alunos em duplas ou trios pois é fundamental que conversem sobre as possíveis soluções.
+</WRAP>
