@@ -11,7 +11,7 @@ Objetiva-se a expressão verbal e não a representação simbólica. Espera-se, 
 
 
 Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. A partir de agora, vamos conhecer novos números! Esses números são necessários para registrar quantidade em algumas situações como, por exemplo, para expressar a quantidade de chocolate que cabe a cada um de três amigos quando repartem igualmente uma barra de chocolate.
-<WRAP imagem>
+<WRAP imagem> ESTA IMAGEM PRECISA SER REFEITA.
 {{ :cap1:secoes:numeros-naturais-01.png?600 |}}
 </WRAP>
 
