@@ -50,3 +50,5 @@ A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou 
 <hidden L:16-05-02>
 
 O que acham de ser uma pista só e todos os corredores serem marcados na mesma pista? Nesse caso, sugiro ter um encarte.
+
+</hidden>
