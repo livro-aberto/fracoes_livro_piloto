@@ -3,6 +3,9 @@
 <hidden H (2016-05-01): vamos tratar nesta lição dos casos $\frac{8}{1}$ e $\frac{0}{8}$?>
 
 É nesta lição que vamos tratar destas frações? E com relação a não ter $0$ no denominador?
+
+L (16-05-02): acho que 8/1 sim. Mas 8/0, creio que é cedo. 
+
 </hidden>
 
 <hidden H (2016-05-01): erro frequente na reta numérica>
@@ -18,6 +21,9 @@ Bem, vou dar um palpite: acho que deveríamos começar a lição com um problema
 Problema da medida $\rightarrow$ régua $\rightarrow$ reta numérica.
 
 Este abordagem tem a vantagem de introduzir um elemento novo como uma maneira de se resolver um problema.
+
+L(2016-05-02): Acho que temos que discutir mais isso pessoalmente. 
+
 </hidden>
 */
 
