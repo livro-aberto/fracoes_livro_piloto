@@ -5,9 +5,13 @@ Gostaríamos que ao final desta lição o nosso aluno saiba localizar frações 
 Para a preparação desta aula faça cópias da fita que está no material de reprodução referente a esta lição.
 Preferencialmente, trabalhe com os alunos em duplas ou trios pois é fundamental que conversem sobre as possíveis soluções.
 Professor, observe que alguns alunos podem dobrar a fita ao meio. Nesse caso, reflita com eles se a marcação está no local esperado: metade do "caminho" entre 0 e 1.
+É possível que alguns alunos façam o mesmo procedimento para marcar 1/4 e 3/4, fique atento para conversar com os alunos.
 </WRAP>
 A fita que vocês receberam já tem duas marcações conhecidas: 0 e 1. Voces deverão dividir esta fita de modo a fazer outras marcações além do 0 e o 1. Para isso faça dobras na fita de modo a marcar 1/2, 1/4, 3/4 e 4/4.
 
 {{:cap3:secoes:fita_1.jpg?200|}}
 
-a) Inicialmente faça uma dobra e marque 1/2 na fita.
+a) Inicialmente faça uma dobra e marque 1/2 na fita. Converse com o colega de grupo e com o professor sobre a marcação que você fez.
+b) Agora faça uma dobra para obter 1/4 e 3/4.
+c) Onde podemos marcar 4/4?
+d) Considerando que a fita que vc numerou é maior que a unidade, onde podemos marcar a fração 5/4? POR QUÊ?
