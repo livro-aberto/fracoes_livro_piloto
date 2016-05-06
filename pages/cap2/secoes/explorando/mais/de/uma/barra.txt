@@ -1,20 +1,20 @@
 <WRAP professor>
 Objetivos específicos: 
-  * Entender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
+  * Entender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
   * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, em situação de equipartição de mais do que uma unidade (no caso, duas).
-  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais frações unitárias de mesmo denominador.
+  * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
   * Levar o aluno a compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
   * Abordar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
  
 Observação:
-  * A escolha de iniciar o assunto com um problema de divisão partitiva, no lugar do contexto parte-todo, se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que pode não ocorrer no contexto parte-todo (Não parece natural nomear uma parte "maior" do que o todo). 
+  * A escolha de iniciar o assunto com um problema de divisão partitiva, no lugar do contexto parte-todo, se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva, frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que pode não ocorrer no contexto parte-todo (não parece natural nomear uma parte "maior" do que o todo). 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para a quantidade de chocolate que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É mportante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
-  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da barra de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas das barras de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
 
 </WRAP>
 
