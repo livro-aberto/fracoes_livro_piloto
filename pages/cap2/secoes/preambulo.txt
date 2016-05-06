@@ -1,10 +1,12 @@
 
 ====== LIÇÃO 2 - Frações não-unitárias ======
 
+/*
 <hidden H (2016-05-02): Como ler frações do tipo $\frac{2}{1}$, $\frac{3}{1}$, $\ldots$?>
 Talvez este tipo de fração não entre nesta lição, mas já coloco a pergunta ...
 LET (02/05/2016): 1/1 é uma unidade (ou um inteiro), então, o natural é que sejam lidas como "duas unidades" ou "dois inteiros", por exemplo. Talvez a devamos incluir a discussão do 1/1, que, acredito, deva ser nesta liçào.
 </hidden>
+*/
 
 <hidden Estrutura da Lição>
 
