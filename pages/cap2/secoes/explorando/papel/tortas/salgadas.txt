@@ -1,4 +1,4 @@
-
+/*
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
 **LET-2016-05-02**: Por mim, ok. Ms é importante ressaltar e discuir essa escolha com o professor, além de rever se o que está sendo tratado, de fato, está de acordo co os objetivos da atividade.
 
@@ -24,10 +24,10 @@
     * Estou com a sensação de que tanto esta como a atividade 1 têm muitos itens. Não daria para juntar os itens similares ou omitir alguns dos similares? Gostaria de ouvir a opinião dos professores desta faixa etária a este respeito. **LET**: Concordo. Fiz algumas alterações. Não consegui identificar muita diferença entre esta questão e a anterior. Observei apenas a ccomparação. **Além disso, achei que alguns itens envolvem a adição de partes não unitárias, o que vai além da ideia proposta para aconstrução das fraçoes a/b**.
     * Adorei as questões desta lição!!  (**LET**: Também gostei! ;) )
 </hidden>
-
+*/
 
 <WRAP professor>
-Objetivos específicos: 
+Objetivos específicos: levar o aluno a
   *  Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
   * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
   * Levar o aluno a compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos. 
