@@ -1,9 +1,12 @@
-<hidden Classificações: [Conceito: identificar | Nível 1: reconhecer | Observar: identificar/reconhecer]>
+<hidden Classificações: [Conceito: identificar | Nível 1: reconhecer | Observar: identificar/nomear]>
 </hidden>
 
 <WRAP professor>
 Objetivo específico: levar o aluno a: 
-  * Reconhecer que a unidade escolhida determina a identificação da fração.
+  * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
+
+Observações:
+  * 
 </WRAP>
 
 /*
