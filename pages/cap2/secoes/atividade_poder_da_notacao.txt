@@ -3,7 +3,7 @@
 
 <WRAP professor>
 Objetivo específico: levar o aluno a
-    * Comparar diversas maneiras se representar uma fração (por extenso, simbolicamente e graficamente). 
+    * Comparar diversas maneiras de se representar uma fração (por extenso, simbolicamente e graficamente). 
     * Discutir aspectos dessas representações. 
 </WRAP>
 
