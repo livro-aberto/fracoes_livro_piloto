@@ -1,3 +1,5 @@
+Classificações: [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] 
+
 /*
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
 **LET-2016-05-02**: Por mim, ok. Ms é importante ressaltar e discuir essa escolha com o professor, além de rever se o que está sendo tratado, de fato, está de acordo co os objetivos da atividade.
@@ -28,9 +30,10 @@
 
 <WRAP professor>
 Objetivos específicos: levar o aluno a
-  *  Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
-  * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
-  * Levar o aluno a compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos. 
+  * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
+  * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
+  * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
+  * Compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos. 
   * Abordar a comparação de frações com o mesmo denominador. 
 
 
@@ -60,3 +63,9 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
   - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos, Davi e Edilson receberam juntos? 
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? E do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
+
+<hidden Resposta>
+<wrap Resposta>
+
+</wrap>
+</hidden>
