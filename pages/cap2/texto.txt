@@ -4,6 +4,8 @@
 
 {{page>cap2:secoes:explorando_intro}}
 
+{{page>cap2:secoes:quadrinho}}
+
 ===== - Atividade =====
 
 {{page>cap2:secoes:explorando:mais:de:uma:barra}}
