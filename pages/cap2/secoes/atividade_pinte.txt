@@ -6,7 +6,8 @@ Objetivo específico: levar o aluno a:
   * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
 
 Observações:
-  * 
+  * No final da atividade, é importante enfatizar para seus alunos a propriedade matemática que esta atividade quer destacar, ou seja, que uma mesma quantidade pode ser descrita por frações diferentes com unidades de referência diferentes. Observe para eles que, no contexto "frações de", é fundamental saber a que o "de" se refere, isto é, qual é a unidade que está sendo considerada. 
+  * Caso os alunos não usem a notação de fração, 
 </WRAP>
 
 /*
@@ -20,8 +21,31 @@ Concordo com a Letícia.
 */
 
 
-Preencha as lacunas a seguir com uma fração adequada.
+Preencha cada lacuna a seguir com uma fração adequada (use a notação de fração). Perceba que uma mesma parte pintada pode ser descrita por frações diferentes com unidades diferentes.
 
-<WRAP imagem>
-{{ :cap2:secoes:preencha-02.png?700 |}}
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-02-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-03-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-03.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-03.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-02-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-03.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-03-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-02.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-02.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-02-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-02.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-03-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-01.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-01.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-02-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-01.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-03-vazio.png?0x50}}.
+
+<hidden Resposta>
+<WRAP resposta>
+  - $\frac{1}{2}$.
+  - $\frac{1}{4}$.
+  - $\frac{1}{6}$.
+  - $\frac{3}{2}$.
+  - $\frac{3}{4}$.
+  - $\frac{1}{2}$.
+  - $\frac{5}{2}$.
+  - $\frac{5}{4}$.
+  - $\frac{5}{6}$.
 </WRAP>
+</hidden>
