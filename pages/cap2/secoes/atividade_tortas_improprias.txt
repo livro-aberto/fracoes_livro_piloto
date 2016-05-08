@@ -3,7 +3,7 @@ Objetivos específicos: levar o aluno a
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, oito).
   * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
-  * Reconhecer que uma mesma quantidade pode ser expressa por frações equivalentes de uma mesma unidade (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta).
+  * Reconhecer que uma mesma quantidade pode ser expressa por frações equivalentes de uma mesma unidade (por exemplo, "meia torta" e "quatro oitavos de torta" representam a mesma quantidade de torta).
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
@@ -20,7 +20,7 @@ Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que a
 <WRAP imagem> Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria.
 </WRAP>
 
-a. Que fração de uma torta é uma fatia?
+a. Que fração de uma torta é uma fatia? Explique.
 
 b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
 
@@ -38,3 +38,17 @@ b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sob
 c. Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
 
 d. Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
+
+<hidden Resposta>
+<WRAP resposta>
+a. Cada fatia é um oitavo de torta, pois cada torta está dividida em oito partes iguais.
+
+b. Havia para a sobremesa quatro oitavos de torta.
+
+c. Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.
+
+{{ :cap2:secoes:tortas-circulares-01.png?100 |}}
+
+d. Algumas respostas possíveis: dez oitavos de torta;  uma torta inteira e dois oitavos de torta; uma torta inteira e um quarto de torta.
+</WRAP>
+</hidden>
