@@ -28,6 +28,20 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 | Escreva a fração de pizza consumida por extenso   |   |   |    |    |
 | Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao.png?70}} | {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}}  |   {{cap2:secoes:pizza-notacao.png?70}} |
 
-(A) Na sua opinião, qual representação é mais rápida de se fazer? Qual gasta menos lápis?
+(A) Na sua opinião, qual é a representação que gasta menos lápis para se fazer?
 
-(B) Na sua opinião, qual representação é mais rápida para se decidir quem comeu mais e quem comeu menos pizza?
+(B) Na sua opinião, qual é a representação mais rápida para se decidir quem comeu mais e quem comeu menos pizza?
+
+<hidden Resposta>
+<WRAP resposta>
+| Tipo de representação  |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
+| Escreva a fração de pizza consumida usando notação matemática   | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
+| Escreva a fração de pizza consumida por extenso   | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
+| Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao-pedro.png?70}} | {{cap2:secoes:pizza-notacao-isabella.png?70}}  |  {{cap2:secoes:pizza-notacao-bernardo.png?70}}  |   {{cap2:secoes:pizza-notacao-manuela.png?70}} |
+
+(A) A que usa a notação matemática.
+
+(B) As respostas podem variar de pessoa para pessoa.
+
+</WRAP>
+</hidden>
