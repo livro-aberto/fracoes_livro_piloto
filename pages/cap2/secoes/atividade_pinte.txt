@@ -1,8 +1,12 @@
+<hidden Classificações: [Conceito: identificar | Nível 1: reconhecer | Observar: identificar/reconhecer]>
+</hidden>
+
 <WRAP professor>
-Objetivos específicos: Levar o aluno a: 
-  * reconhecer que a unidade escolhida determina a identificação da fração.
+Objetivo específico: levar o aluno a: 
+  * Reconhecer que a unidade escolhida determina a identificação da fração.
 </WRAP>
 
+/*
 <hidden (L: 2016-05-02)>
 **LET 2016-05-02**: acho que, nos objetivos, devemos destacar apenas o objetivo matemático. Além disso, esse objetivo deve ser bem discutido com o professor (pedagogo).
 
@@ -10,8 +14,10 @@ Além disso, acho o item (c) muito difícil, uma vez que a unidade determinada n
 </hidden>
 Cataldo
 Concordo com a Letícia.
+*/
 
-Preencha cada linha sublinhada a seguir com uma fração adequada.
+
+Preencha as lacunas a seguir com uma fração adequada.
 
 <WRAP imagem>
 {{ :cap2:secoes:preencha-02.png?700 |}}
