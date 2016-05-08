@@ -27,6 +27,11 @@
 
 ===== - Atividade =====
 
+{{page>cap2:secoes:atividade_poder_da_notacao}}
+
+
+===== - Atividade =====
+
 {{page>cap2:secoes:atividade_pinte}}
 
 ===== - Atividade =====
@@ -40,10 +45,6 @@
 ===== - Atividade =====
 
 {{page>cap2:secoes:atividade_complete}}
-
-===== - Atividade =====
-
-{{page>cap2:secoes:atividade_poder_da_notacao}}
 
 ===== - Atividade =====
 
