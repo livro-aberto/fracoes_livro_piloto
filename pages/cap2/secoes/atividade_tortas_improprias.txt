@@ -1,8 +1,8 @@
 <WRAP professor> 
-Objetivos específicos:   
+Objetivos específicos: levar o aluno a   
   * Levar o aluno a perceber a necessidade de apresentar uma expressão verbal que identifique a adição de duas ou mais frações unitárias de mesmo denominador.
   * Abordar o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade.
-  * Levar o aluno a compreender a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
+  * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
   * Levar o aluno a perceber que, dada uma unidade, uma mesma quantidade pode ser expressa por frações equivalentes (por exemplo, "meia torta" e "quatro oitavos de torta" representam uma mesma quantidade de torta).
 
 Recomendações e sugestões para o desenvolvimento da atividade:
