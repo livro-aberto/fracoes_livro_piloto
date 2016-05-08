@@ -1,7 +1,10 @@
+<hidden Classificações: [Identificar | Nível 1: reconhecer | Observar: identificar/nomear]>
+</hidden>
+
 <WRAP professor>
-Objetivos específicos: 
-  * Levar o aluno a identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" em diferentes modelos visuais de frações em situações onde há uma indicação explícita da unidade.
-  * Levar o aluno a compreender frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" como forma de identicar a quantidade equivalente a "$n$" cópias da fração unitária "$\frac{1}{m}$" (incluindo os casos em que $n \geq m$) em siutações onde há uma indicação explícita da unidade.
+Objetivos específicos: levar o aluno a
+  * Identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" em diferentes modelos visuais de frações em situações onde há uma indicação explícita da unidade.
+  * Compreender frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" como forma de identicar a quantidade equivalente a "$n$" cópias da fração unitária "$\frac{1}{m}$" (incluindo os casos em que $n \geq m$) em siutações onde há uma indicação explícita da unidade.
 
 Observações:
   * Enquanto que nas atividades anteriores cópias múltiplas da unidade já estavam naturalmente disponíveis (as duas barras de chocolate na Atividade 1, as três tortas salgadas na Atividade 2, as várias tortas divididas em oito partes na confeitaria da Atividade 3), nesta atividade o aluno é levado a considerar frações apenas com a indicação de uma única cópia da unidade. Assim, a atividade é uma oportunidade para reforçar a compreensão de frações além do contexto parte-todo: espera-se que o aluno faça uma equipartição da unidade para definir uma fração unitária $\frac{1}{m}$ adequada da unidade e que, então, tome uma quantidade $n$ desta fração mesmo no caso em que $n > m$.
@@ -11,5 +14,14 @@ Complete as afirmações com uma das frações: "dois meios", "dois terços", "d
 
 <WRAP imagem>
 {{ :cap2:secoes:preencha-01.png?700 |}}
-
 </WRAP>
+
+<hidden Resposta>
+(A): dois terços.
+(B): dois meios.
+(C): dois quintos.
+(D): nove meios.
+(E): oito sextos.
+<WRAP resposta>
+</WRAP>
+</hidden>
