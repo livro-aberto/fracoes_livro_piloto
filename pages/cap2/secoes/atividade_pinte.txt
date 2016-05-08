@@ -1,13 +1,13 @@
-<hidden Classificações: [Conceito: identificar | Nível 1: reconhecer | Observar: identificar/nomear]>
+<hidden Classificações: [Conceito: identificar; Produto: gerar | Nível 1: reconhecer; Nível 5: converter (simbolizar) | Interpretar: discriminar]>
 </hidden>
 
 <WRAP professor>
 Objetivo específico: levar o aluno a: 
   * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
+  * 
 
 Observações:
   * No final da atividade, é importante enfatizar para seus alunos a propriedade matemática que esta atividade quer destacar, ou seja, que uma mesma quantidade pode ser descrita por frações diferentes com unidades de referência diferentes. Observe para eles que, no contexto "frações de", é fundamental saber a que o "de" se refere, isto é, qual é a unidade que está sendo considerada. 
-  * Caso os alunos não usem a notação de fração, 
 </WRAP>
 
 /*
