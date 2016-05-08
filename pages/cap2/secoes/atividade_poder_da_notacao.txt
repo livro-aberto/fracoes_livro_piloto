@@ -24,9 +24,9 @@ Uma pizza gigante foi dividida em doze fatias iguais.
 Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela apenas uma fatia.
 
 |   |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
-| Escreva a fração de pizza consumida usando notação matemática   |   |   |    |    |
-| Escreva a fração de pizza consumida por extenso   |   |   |    |    |
 | Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao.png?70}} | {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}}  |   {{cap2:secoes:pizza-notacao.png?70}} |
+| Escreva a fração de pizza consumida por extenso   |   |   |    |    |
+| Escreva a fração de pizza consumida usando notação matemática   |   |   |    |    |
 
 (A) Na sua opinião, qual é a representação de fração que gasta menos lápis para se fazer? Usando notação matemática, escrevendo por extenso ou pintando?
 
@@ -35,9 +35,9 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 <hidden Resposta>
 <WRAP resposta>
 | Tipo de representação  |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
-| Escreva a fração de pizza consumida usando notação matemática   | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
-| Escreva a fração de pizza consumida por extenso   | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
 | Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao-pedro.png?70}} | {{cap2:secoes:pizza-notacao-isabella.png?70}}  |  {{cap2:secoes:pizza-notacao-bernardo.png?70}}  |   {{cap2:secoes:pizza-notacao-manuela.png?70}} |
+| Escreva a fração de pizza consumida por extenso   | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
+| Escreva a fração de pizza consumida usando notação matemática   | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
 
 (A) A que usa a notação matemática.
 
