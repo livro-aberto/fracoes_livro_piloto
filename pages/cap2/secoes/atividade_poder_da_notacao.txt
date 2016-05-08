@@ -21,7 +21,7 @@ CORRIGIR O TAMANHO DAS IMAGENS - devem ser congruentes
 */
 
 Uma pizza gigante foi dividida em doze fatias iguais. 
-Pedro comeu 4 fatias, Isabella 5 fatias, Bernardo 2 fatias e Manuela apenas 1 fatia.
+Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela apenas uma fatia.
 
 | Tipo de representação  |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
 | Escreva a fração de pizza consumida usando notação matemática   |   |   |    |    |
