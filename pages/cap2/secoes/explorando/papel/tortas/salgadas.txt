@@ -64,7 +64,7 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
 
 <hidden Resposta>
-<wrap Resposta>
+<wrap resposta>
 1. Uma resposta possível (entre várias): dividir cada uma das três tortas em 5 partes iguais e, então, com as 15 partes disponíveis, distribuir 3 partes para cada amigo, como mostra a figura a seguir
 
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
