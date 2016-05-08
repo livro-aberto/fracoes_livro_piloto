@@ -1,4 +1,4 @@
-<hidden [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] >
+<hidden Classificações: [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] >
 </hidden>
 
 <WRAP professor>
