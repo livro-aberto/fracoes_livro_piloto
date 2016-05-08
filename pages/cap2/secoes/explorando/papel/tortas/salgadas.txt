@@ -1,5 +1,7 @@
 <hidden Classificações: [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer]>
 </hidden>
+<hidden Itens (4) e (5): [Raciocínio: justificar | Nível 6: justificar | Avaliar: julgar]>
+</hidden>
 
 /*
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
@@ -35,7 +37,7 @@ Objetivos específicos: levar o aluno a
   * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
   * Compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos, incluindo os casos em que //n// é maior do que cinco (frações impróprias). 
-  * Abordar a comparação de frações com o mesmo denominador. 
+  * Analisar uma situação de comparação de frações com o mesmo denominador. 
 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
