@@ -1,10 +1,10 @@
 {{page>cap2:secoes:preambulo}}
 
+{{page>cap2:secoes:quadrinho}}
+
 /*{{page>cap2:secoes:intro}}*/
 
 {{page>cap2:secoes:explorando_intro}}
-
-{{page>cap2:secoes:quadrinho}}
 
 ===== - Atividade =====
 
