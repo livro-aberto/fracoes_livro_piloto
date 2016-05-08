@@ -4,7 +4,7 @@
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
-  * Reconhecer o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, em situação de equipartição de mais do que uma unidade (no caso, duas).
+  * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária, em situação de equipartição de mais do que uma unidade (no caso, duas).
   * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
   * Compreender a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
   * Identificar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
