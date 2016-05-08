@@ -1,4 +1,5 @@
-Classificações: [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] 
+<hidden Classificações: [Identificar/Descrever | Nível 1: reconhecer | Observar: identificar/reconhecer]>
+</hidden>
 
 /*
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
@@ -40,12 +41,12 @@ Objetivos específicos: levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
-  * Em particular, no item (1) não se espera que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceitas como resposta a solução indicada na figura a seguir.
+  * Em particular, no Item (1), não se espera que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceitas como resposta a solução indicada na figura a seguir.
 
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
 
   * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes das tortas em cada divisão e para as quantidades de torta que cada irmão recebe. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É importante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
-  * Espera-se que, no final da atividade, o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso da terminologia de frações.
+  * Espera-se que, no final da atividade, o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso da terminologia de frações que se quer estabelecer nesta lição.
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
 </WRAP>
 
@@ -56,16 +57,12 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
 </WRAP>
 
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo recebeu?        
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo e Beto receberam juntos? 
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto e Carlos receberam juntos? 
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos e Davi receberam juntos? 
-  - Usando frações, como você nomearia a quantidade de torta que Amarildo, Beto, Carlos, Davi e Edilson receberam juntos? 
+  - Considerando-se uma torta, como você nomearia, usando frações, a quantidade de torta que: \\ a. Amarildo recebeu? \\ b. Amarildo e Beto receberam juntos? \\ c. Amarildo, Beto e Carlos receberam juntos? \\ d. Amarildo, Beto, Carlos e Davi receberam juntos? \\ e. Amarildo, Beto, Carlos, Davi e Edilson receberam juntos?
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? E do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
 
 <hidden Resposta>
 <wrap Resposta>
-
+1. 
 </wrap>
 </hidden>
