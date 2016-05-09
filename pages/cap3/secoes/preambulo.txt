@@ -151,11 +151,13 @@ Esta lição tem por objetivo introduzir a representação de frações na reta 
 
 Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos a partir da adição de frações unitárias por justaposição. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica. 
 
-A construção da reta numérica será amparada 
+A construção da reta numérica será amparada pelo conhecimento anterior dos alunos, que já conhecem a representação dos números naturais (0, 1, 2, 3, 4, ...) nesse modelo. O segmento unitário será associado à unidade e as frações unitárias representadas a partir da equipartição desse segmento. A partir das frações unitárias, as demais frações serão associadas a pontos na reta pela justaposição de segmentos correspondentes às frações unitárias correspondentes. Assim, por exmplo, a fração 1/2 será associada ao ponto médio entre os pontos correspondentes ao 0 e ao 1 e a fração 5/2 ao ponto correspondente a justaposição de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao 1/2, como ilustra a figura a seguir:
 
 
+INCLUIR FIGURA 
 
-As atividades visam à observação da partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
+
+Nesta etapa não espera-se que os alunos , ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
 
 De maneira geral, as atividades envolvem a abordagem das frações unitárias em contextos diversos. Por exemplo, para diferenciar a divisão da unidade em partes “quaisquer” da divisão da unidade em partes “iguais” (equipartição); para reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade; para perceber que a unidade pode ser subdividida em uma quantidade igual de partes sem que essa divisão represente uma equipartição; para reconhecer que, em uma equipartição, as partes podem não ter a mesma forma; para dstinguir uma equipartição específica dentre partições diversas ou para reconhecer a quarta parte como a metade da metade.
 
@@ -171,7 +173,7 @@ O aluno deve ser capaz de:
 
 
 
-/* À reta numérica será associada a ideia de uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
+/* .
 
 Os modelos contínuos para nos ajudar a entender as representações fracionárias, as comparações e a equivalência e principalmente localizar as frações na reta.  
 
