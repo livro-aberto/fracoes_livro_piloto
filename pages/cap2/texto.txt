@@ -56,19 +56,24 @@
 
 {{page>cap2:secoes:atividade_comparar_com_um_meio}}
 
+/*
 ===== - Atividade =====
 
 {{page>cap2:secoes:atividade_quantos_cabem}}
+*/
 
 ===== - Atividade =====
 
 {{page>cap2:secoes:atividade_comparacao_de_fracoes}}
 
+
+/*
+
 ===== - Atividade =====
 
 {{page>cap2:secoes:atividade_gasolina}}
 
-
+*/
 
 
 /*
@@ -97,9 +102,10 @@
 {{page>cap2:secoes:atividade_importancia da unidade}}
 
 
+/*
 
 ===== - Atividade =====
 
 {{page>cap1:secoes:ativ_terco_metade}}
 
-
+*/
