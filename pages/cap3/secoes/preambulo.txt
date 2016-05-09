@@ -151,35 +151,24 @@ Esta lição tem por objetivo introduzir a representação de frações na reta 
 
 Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos a partir da adição de frações unitárias por justaposição. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica. 
 
-A construção da reta numérica será amparada pelo conhecimento anterior dos aluno sobre a representação dos números naturais (0, 1, 2, 3, 4, ...) nesse modelo. O segmento unitário será associado à unidade e as frações unitárias representadas a partir da equipartição desse segmento. A partir das frações unitárias, as demais frações serão associadas a pontos na reta pela justaposição de segmentos correspondentes a frações unitárias. Assim, por exemplo, a fração 1/2 será associada ao ponto médio entre os pontos correspondentes ao 0 e ao 1 e a fração 5/2 ao ponto correspondente a justaposição de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao 1/2, como ilustra a figura a seguir:
+A construção da reta numérica será amparada pelo conhecimento anterior dos aluno sobre a representação dos números naturais (0, 1, 2, 3, 4, ...) na reta numérica e por modelos contínuos. O segmento unitário será associado à unidade e as frações unitárias representadas a partir da equipartição desse segmento. A partir das frações unitárias, as demais frações serão associadas a pontos na reta pela justaposição de segmentos correspondentes a frações unitárias. Assim, por exemplo, a fração 1/2 será associada ao ponto médio entre os pontos correspondentes ao 0 e ao 1 e a fração 5/2 ao ponto correspondente a justaposição de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao 1/2, como ilustra a figura a seguir:
 
 **INCLUIR FIGURA** 
 
-Nesta etapa, espera-se que os alunos compreendam a reta numerada como uma representação organizada para as frações e que compreendam também o papel e a evidência da ordem nessa representação. A abordagem da comparação de fraçoes é fortemente amparada pela reta numérica, sendo observada para frações que tenham o mesmo denominador. Assim, espera-se, por exemplo, que o aluno reconheça que a fração 3/4 é menor do que a fração 7/4 uma vez que a primera fração corresponde à justaposição de 3 segmentos equivalentes a 1/4 da unidade e a segunda a justaposição de 7 desses segmentos. Dessa forma, na reta numérica, a fração 3/4 está associada a um ponto entre 0 e 1 e 7/4 a um ponto entre 1 e 2. 
- 
-De maneira geral, as atividades visam à associação entre as frações e a reta numérica, em que já estão registrados os pontos correspondentes aos números naturais, e à comparação entre frações com o mesmo denominador, amparada pela representação na reta. 
+Nesta etapa, espera-se que os alunos compreendam a reta numerada como uma representação organizada para as frações e que compreendam também o papel e a evidência da ordem nessa representação. Mas o nosso aluno não necessita desta informação agora. Ele precisa entender que as frações também representam um número.A abordagem da comparação de fraçoes é fortemente amparada pela reta numérica, sendo observada para frações que tenham o mesmo denominador. Assim, espera-se, por exemplo, que o aluno reconheça que a fração 3/4 é menor do que a fração 7/4 uma vez que a primera fração corresponde à justaposição de 3 segmentos equivalentes a 1/4 da unidade e a segunda a justaposição de 7 desses segmentos. Dessa forma, na reta numérica, a fração 3/4 está associada a um ponto entre 0 e 1 e 7/4 a um ponto entre 1 e 2. 
 
-A aprtir da observação da reta numerada, espera-se também que os alunos sejam capazes de comparar frações a partir de um referencial. Por exmplo, espera-se que os alunos reconheçam que, como  
+De maneira geral, as atividades visam à associação entre as frações e a reta numérica, em que já estão identificados os pontos correspondentes aos números naturais, e à comparação entre frações com o mesmo denominador, amparada pela representação dessas frações na reta.
 
-A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução desta seção.
+Observando a reta numérica, espera-se também que os alunos sejam capazes de comparar frações a partir de um referencial. Por exemplo, espera-se que os alunos reconheçam que, a fração 7/8 é menor do que a fração 8/9 porque o ponto correspondente à fração 7/8 está mais distante do 1 do que o corresponente à fração 8/9 (já que a fração 1/8 é maior do que a fração 1/9 - conteúdo tratado na seção 2) 
+
+A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, é fundamental também na condução desta seção.
 
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 1:
 O aluno deve ser capaz de:
-  * Diferenciar uma partição qualquer de uma equipartição (em partes iguais) de um mesmo objeto e identificar a fração unitária correspondente.
-  * Identificar, a partir de representações visuais diversas, frações unitárias de denominador variando de 2 a 10. 
-  * Utilizar a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
-  * Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza).
-
-
-
-
-/* .
-
-Os modelos contínuos para nos ajudar a entender as representações fracionárias, as comparações e a equivalência e principalmente localizar as frações na reta.  
-
-As muitas partições possíveis para a unidade nos ajuda a entender a relação entre as frações gerais a/b e a reta numérica. Até aqui nossa reta numérica era “povoada” pelos números Naturais 0, 1, 2, 3 e assim por diante. Agora vamos introduzir as frações na reta. Mais tarde aprenderemos que todos esses números fracionários mais os Naturais fazem parte de um conjunto que denominamos Racionais. Mas o nosso aluno não necessita desta informação agora. Ele precisa entender que as frações também representam um número.
-
-É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações. /*
+  * Representar e identificar a representação de uma fração na reta numérica;
+  * Reconhecer a organização, segundo a ordem, das frações na reta numérica; 
+  * Comparar frações com mesmo denominador;
+  * Amparado pela representação na reta numérica, comparar frações a patir de um referencial adequado.
 
 
 </WRAP>
