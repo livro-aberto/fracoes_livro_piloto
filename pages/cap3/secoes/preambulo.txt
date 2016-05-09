@@ -147,9 +147,14 @@ Neste capítulo retomamos a ideia de repartição da unidade em partes iguais.
 
 **Dúvida: introduziremoso termo INTEIRO? Não me lembro do que ficou deciddo sobre isso: Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro.** 
 
-Nesta seção, ainda usaremos a adição por justaposição de frações unitárias para construir as frações gerais. As atividades aqui propostas exploram esse entendimento em modelos visuais contínuos. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica, objetivos desta seção.
+Nesta seção, ainda usaremos a adição de frações unitárias por justaposição para construir as frações gerais. As atividades aqui propostas exploram esse entendimento em modelos visuais contínuos. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica, objetivos desta seção.
 
-À reta numérica será associada a ideia de uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
+
+
+
+
+
+_/À reta numérica será associada a ideia de uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
 
 
 
@@ -160,7 +165,7 @@ As muitas partições possíveis para a unidade nos ajuda a entender a relação
 
 
 
-É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações.
+É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações. _/
 
 
 </WRAP>
