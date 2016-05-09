@@ -1,4 +1,5 @@
-Classificações: [Conceito: elaborar/identificar; Produto: gerar; Raciocínio: justificar | Nível 6: analisar/justificar | Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos] 
+<hidden Classificações: [Conceito: elaborar/identificar; Produto: gerar; Raciocínio: justificar | Nível 6: analisar/justificar | Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos]>
+</hidden>
 
 <WRAP professor>
 Objetivos: Levar o aluno a
