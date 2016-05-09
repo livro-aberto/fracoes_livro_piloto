@@ -19,4 +19,4 @@ Rever os dois itens.
 
 {{ :cap2:secoes:copos-de-agua-01.png?300 |}}
 
-(B) É possível armazenar a água dos três cópos em um único copo? Explique
+(B) É possível armazenar a água dos três copos em um único copo? Explique
