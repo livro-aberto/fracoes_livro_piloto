@@ -22,29 +22,21 @@ Cataldo
 "Faça um desenho que corresponda a uma figura completa". Este comando para as questões (B), (E), (H) e (J) ficou um pouco vago. Sugiro que seja pedido o desenho de uma unidade da figura.
 */
 
-(A) {{cap2:secoes:complete-retangulo.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(B) {{cap2:secoes:complete-retangulo.png?50}} representa $\frac{3}{2}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(C) {{cap2:secoes:complete-retangulo.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a $\frac{5}{3}$ de uma figura completa.
-
-(D) {{cap2:secoes:complete-disco.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(E) {{cap2:secoes:complete-disco.png?50}} representa $\frac{3}{2}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(F) {{cap2:secoes:complete-disco.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a $\frac{5}{3}$ de uma figura completa.
-
-(G) {{cap2:secoes:complete-segmento.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(H) {{cap2:secoes:complete-segmento.png?50}} representa $\frac{3}{2}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(I) {{cap2:secoes:complete-segmento.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a $\frac{5}{3}$ de uma figura completa.
-
-(J) {{cap2:secoes:complete-hexagono.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(K) {{cap2:secoes:complete-hexagono.png?50}} representa $\frac{3}{2}$ de uma figura. Faça um desenho que corresponda a uma figura completa.
-
-(L) {{cap2:secoes:complete-hexagono.png?50}} representa $\frac{2}{3}$ de uma figura. Faça um desenho que corresponda a $\frac{5}{3}$ de uma figura completa.
-
-
+|  Fração da unidade  |  Figura correspondente à fração da unidade  |  Desenhe aqui uma unidade  |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-disco.png?50}}  | |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-disco.png?50}}  | |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-disco.png?50}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-disco.png?50}}  | |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-segmento.png?50}}  | |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-segmento.png?50}}  | |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-segmento.png?50}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-segmento.png?50}}  | |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-hexagono.png?50}}  | |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-hexagono.png?50}}  | |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-hexagono.png?50}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-hexagono.png?50}}  | |
 
