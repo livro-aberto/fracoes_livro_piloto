@@ -2,7 +2,7 @@
 </hidden>
 
 <WRAP professor>
-Objetivos específicos: levar o aluno a
+Objetivos específicos: Levar o aluno a
   * Identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" em diferentes modelos visuais de frações em situações onde há uma indicação explícita da unidade.
   * Compreender frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" como forma de identicar a quantidade equivalente a "$n$" cópias da fração unitária "$\frac{1}{m}$" (incluindo os casos em que $n \geq m$) em siutações onde há uma indicação explícita da unidade.
 
