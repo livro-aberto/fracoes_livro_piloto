@@ -1,8 +1,9 @@
 <WRAP professor>
-Objetivos:
-  * Fazer com que o aluno explore frações com um modelo tridimensional no contexto de volumes.
+Objetivos: Levar o aluno a
+  * Representar com notação simbólica matemática frações não unitárias em modelos tridimensionais no contexto de volume.
 </WRAP>
 
+/*
 <hidden L(16-05-02):>
 sugiro algo como:
   * representação de fração em modelos tridimensionais - no contexto de volume.
@@ -12,12 +13,10 @@ Além disso, rever enunciado... Não acho adequada a expressão "fração de ág
 Rever os dois itens.
 
 </hidden>
+*/
 
-
-
-
-(A) Indique a fração de água de cada um dos três copos de água. 
+(A) Em cada um dos três copos idênticos a seguir, indique a fração da capacidade do copo que está com água. 
 
 {{ :cap2:secoes:copos-de-agua-01.png?300 |}}
 
-(B) A quantidade de água nos três copos juntos é que fração da quantidade de água que um copo pode ter?
+(B) É possível armazenar a água dos três cópos em um único copo? Explique
