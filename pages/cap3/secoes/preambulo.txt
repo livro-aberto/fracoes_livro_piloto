@@ -154,13 +154,13 @@ Nesta seção, ainda usaremos a adição de frações unitárias por justaposiç
 
 
 
-*/À reta numérica será associada a ideia de uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
+/* À reta numérica será associada a ideia de uma régua infinita, marcamos os valores inteiros (1, 2, 3, ...) em intervalos iguais e cada uma das unidades é subdividida em frações de acordo com a equipartição desejada para representação de frações.
 
 Os modelos contínuos para nos ajudar a entender as representações fracionárias, as comparações e a equivalência e principalmente localizar as frações na reta.  
 
 As muitas partições possíveis para a unidade nos ajuda a entender a relação entre as frações gerais a/b e a reta numérica. Até aqui nossa reta numérica era “povoada” pelos números Naturais 0, 1, 2, 3 e assim por diante. Agora vamos introduzir as frações na reta. Mais tarde aprenderemos que todos esses números fracionários mais os Naturais fazem parte de um conjunto que denominamos Racionais. Mas o nosso aluno não necessita desta informação agora. Ele precisa entender que as frações também representam um número.
 
-É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações. */
+É importante que neste capítulo os alunos continuem trabalhando em grupos e que exercitem a discussão sobre estas ideias que merecem toda atenção do professor nesse início de aprendizado das frações. /*
 
 
 </WRAP>
