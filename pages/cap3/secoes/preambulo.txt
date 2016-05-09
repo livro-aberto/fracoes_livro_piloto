@@ -145,11 +145,24 @@ Estratégia:
 <WRAP professor>
 Neste capítulo retomamos a ideia de repartição da unidade em partes iguais. 
 
-**Dúvida: introduziremoso termo INTEIRO? Não me lembro do que ficou deciddo sobre isso: Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro.** 
+**Dúvida: introduziremos o termo INTEIRO? Não me lembro do que ficou deciddo sobre isso: Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro.** 
 
 Nesta seção, ainda usaremos a adição de frações unitárias por justaposição para construir as frações gerais. As atividades aqui propostas exploram esse entendimento em modelos visuais contínuos. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica, objetivos desta seção.
 
+Esta lição tem por objetivo introduzir frações unitárias a partir de modelos visuais contínuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", fazendo uso de expressões verbais como, por exemplo, "metade de...", "um terço de...", "a terça parte de...", "um quarto de...", para indicar essas frações.  
 
+As atividades visam à observação da partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
+
+De maneira geral, as atividades envolvem a abordagem das frações unitárias em contextos diversos. Por exemplo, para diferenciar a divisão da unidade em partes “quaisquer” da divisão da unidade em partes “iguais” (equipartição); para reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade; para perceber que a unidade pode ser subdividida em uma quantidade igual de partes sem que essa divisão represente uma equipartição; para reconhecer que, em uma equipartição, as partes podem não ter a mesma forma; para dstinguir uma equipartição específica dentre partições diversas ou para reconhecer a quarta parte como a metade da metade.
+
+A participação do aluno, criando representações próprias e fazendo o uso da linguagem verbal para explicar o seu raciocínio diante da realização das atividades, será fundamental na condução desta seção.
+
+OBJETIVOS ESPECÍFICOS DA LIÇÃO 1:
+O aluno deve ser capaz de:
+  * Diferenciar uma partição qualquer de uma equipartição (em partes iguais) de um mesmo objeto e identificar a fração unitária correspondente.
+  * Identificar, a partir de representações visuais diversas, frações unitárias de denominador variando de 2 a 10. 
+  * Utilizar a linguagem verbal que caracteriza as frações unitárias de denominador variando de 2 a 10. (Isto é, "metade de", "um meio", "um terço", "terça parte de", ... "um décimo", "décima parte de").
+  * Comparar frações unitárias em exemplos concretos simples (Por exemplo, reconhecer que um terço de uma pizza é maior do que um quarto da mesma pizza).
 
 
 
