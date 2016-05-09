@@ -21,9 +21,9 @@ Objetivos específicos: Levar o aluno a
 Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura ficou sem pintar.
 
 |  Fração da figura que deve ser pintada  |  Figura  |  Fração da figura que ficou sem pintar  |
-|  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
-|  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
-|  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
+|  $\frac{5}{6}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
+|  $\frac{4}{4}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{2}{5}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
 |  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
 |  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
 |  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
