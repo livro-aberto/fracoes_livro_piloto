@@ -2,7 +2,7 @@
 </hidden>
 
 <WRAP professor>
-Objetivo específico: Levar o aluno a: 
+Objetivos específicos: Levar o aluno a: 
   * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
   * Utilizar linguagem simbólica para se referir a uma fração $\frac{a}{b}$.
 
