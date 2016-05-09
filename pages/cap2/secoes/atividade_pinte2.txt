@@ -22,9 +22,20 @@ Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fraçã
 
 |  Fração da figura que deve ser pintada  |  Figura  |  Fração da figura que ficou sem pintar  |
 |  $\frac{5}{6}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
-|  $\frac{4}{4}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{3}{4}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
 |  $\frac{2}{5}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
 |  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
 |  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
 |  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
 
+<hidden Resposta>
+<WRAP resposta>
+|  Fração da figura que deve ser pintada  |  Figura  |  Fração da figura que ficou sem pintar  |
+|  $\frac{5}{6}$  |  {{cap2:secoes:pinte-resposta-cinco-sextos.png?50}}   |  $\frac{1}{6}$  |
+|  $\frac{3}{4}$  |  {{cap2:secoes:pinte-resposta-tres-quartos.png?50}}  |  $\frac{1}{4}$  |
+|  $\frac{2}{5}$  |  {{cap2:secoes:pinte-resposta-dois-quintos.png?60}}  |  $\frac{3}{5}$  |
+|  $\frac{2}{3}$  |  {{cap2:secoes:pinte-resposta-dois-tercos.png?50}}  |  $\frac{1}{3}$  |
+|  $\frac{3}{8}$  |  {{cap2:secoes:pinte-resposta-tres-oitavos.png?50}}  |  $\frac{5}{8}$  |
+|  $\frac{9}{10}$  |  {{cap2:secoes:pinte-resposta-nove-decimos.png?60}}  |  $\frac{1}{10}$  |
+</WRAP>
+</hidden>
