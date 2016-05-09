@@ -1,23 +1,30 @@
-<WRAP professor>
-Objetivos específicos: 
+<hidden Classificações: [Conceito: elaborar/identificar; Produto: gerar | Nível 5: converter (simbolizar) | Interpretar: discriminar]>
+</hidden>
 
+/*
 <hidden L(16-05-02):>
 sugiro algo como:
   * Representação de frações não unitárias.
   * Identificação da fração complementar de uma fração própria da unidade.
 
 Além disso, acho importante discutir com o professor a questão de as imagens estarem divididas em partes que não correspondem às frações solicitada (Qual o objetivo/valor dessa dificuldade?) Não seria interessante incluir alguns itens iniciais que não  tenha essa dificuldade? 
-
-
 </hidden>
+*/
 
-  * Fazer com que o aluno represente frações não unitárias.
-  * Fazer com que o aluno perceba a fração complementar de uma fração própria da unidade.
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+
+  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área incluindo casos onde divisões parciais são fornecidas.
+  * Identificar a fração complementar de uma fração própria da unidade usando notação simbólica matemática.
 </WRAP>
 
-(A) Pinte $\frac{2}{3}$ da figura: {{cap2:secoes:pinte-dois-tercos.png?50}}. Que fração da figura ficou sem pintar?
+Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura ficou sem pintar.
 
-(B) Pinte $\frac{3}{8}$ da figura: {{cap2:secoes:pinte-tres-oitavos.png?50}}. Que fração da figura ficou sem pintar?
-
-(C) Pinte $\frac{9}{10}$ da figura: {{cap2:secoes:pinte-nove-decimos.png?60}} Que fração da figura ficou sem pintar?
+|  Fração da figura que deve ser pintada  |  Figura  |  Fração da figura que ficou sem pintar  |
+|  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
+|  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
+|  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
 
