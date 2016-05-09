@@ -32,7 +32,7 @@
 */
 
 <WRAP professor>
-Objetivos específicos: levar o aluno a
+Objetivos específicos: Levar o aluno a
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
   * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
