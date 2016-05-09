@@ -1,4 +1,5 @@
-<hidden H (2016-05-09): evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável?>
+<hidden H (2016-05-09): dúvida sobre outras formas de leitura de frações>
+Evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável? Vamos/devemos tratar disto com o professor?
 </hidden>
 
 ====== LIÇÃO 2 - Frações não-unitárias ======
