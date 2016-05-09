@@ -1,13 +1,14 @@
 <WRAP professor>
 Objetivo específico: Levar o aluno a
     * Recompor a unidade a partir de uma fração dada em modelo contínuo, incluindo o caso de frações impróprias. 
-    * Relacionar a fração correspondente à parte apresentada à quantidade necessária dessas partes para compor a unidade. Assim, por exemplo, para compor a unidade a partir de $\frac{2}{3}$ daunidade, basta repartir esta fração em 2 partes iguais (para recuperar a fração unitária $\frac{1}{3}$) e, então, justapor 3 cópias de uma destas partes.
+    * Relacionar a fração correspondente à parte apresentada à quantidade necessária dessas partes para compor a unidade. Assim, por exemplo, para compor a unidade a partir de $\frac{2}{3}$ da unidade, basta repartir esta fração em 2 partes iguais (para recuperar a fração unitária $\frac{1}{3}$) e, então, justapor 3 cópias de uma destas partes.
 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
     * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
     * A exemplo da Atividade da Lição 1, é importante ter em mente que existem várias soluções para cada item.
     * Estimule os alunos a reconhecer (e a fazer) mais do que uma representação para a unidade em cada item.
+    * Caso seja necessário fazer alguma partição, não se espera que os alunos usem alguma medida. Uma partição feita de forma livre e coerente será suficiente. 
 </WRAP>
 
 /*
