@@ -27,12 +27,16 @@ Rever os dois itens.
 
 {{ :cap2:secoes:copos-de-agua-01.png?300 |}}
 
-(B) É possível armazenar a água dos três copos em um único copo sem transbordar? Explique.
+(B) Qual é a fração da capacidade do copo correspondente à água que está nos três copos?
+
+(C) É possível armazenar a água dos três copos em um único copo sem transbordar? Explique.
 
 <hidden Resposta>
 <WRAP resposta>
 (A) (1): $\frac{3}{8}$. (2): $\frac{2}{8}$. (3): $\frac{4}{8}$.
 
-(B) Não é possível armazenar a água dos três copos em um único copo sem transbordar, pois se a água do primeiro copo ocupa $3$ oitavos de sua capacidade, a água do segundo copo ocupa $2$ oitavos de sua capacidade e a água do terceiro copo ocupa $4$ oitavos de sua capacidade, a água dos três copos, juntos, ocupa $3 + 2 + 4 = 9$ oitavos da capacidade do copo e um copo só consegue armazenar $8$ oitavos de sua capacidade.
+(B) $\frac{9}{8}$.
+
+(C) Não é possível armazenar a água dos três copos em um único copo sem transbordar, pois se a água do primeiro copo ocupa $3$ oitavos de sua capacidade, a água do segundo copo ocupa $2$ oitavos de sua capacidade e a água do terceiro copo ocupa $4$ oitavos de sua capacidade, a água dos três copos, juntos, ocupa $3 + 2 + 4 = 9$ oitavos da capacidade do copo e um copo só consegue armazenar $8$ oitavos de sua capacidade.
 </WRAP>
 </hidden>
