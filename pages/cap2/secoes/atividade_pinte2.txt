@@ -1,4 +1,4 @@
-<hidden Classificações: [Conceito: elaborar/identificar; Produto: gerar | Nível 5: converter (simbolizar) | Interpretar: discriminar]>
+<hidden Classificações: [Conceito: elaborar/identificar; Produto: gerar | Nível 5: converter (simbolizar)/gerar | Interpretar: discriminar, compor e decompor]>
 </hidden>
 
 /*
@@ -14,8 +14,17 @@ Além disso, acho importante discutir com o professor a questão de as imagens e
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
 
-  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área incluindo casos onde divisões parciais são fornecidas.
+  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área incluindo casos onde divisões parciais ou redundantes são fornecidas.
   * Identificar a fração complementar de uma fração própria da unidade usando notação simbólica matemática.
+  * Reconhecer (e gerar) oitavos como metades de quartos, sextos como metades de terços e décimos como metades de quintos. 
+
+Observação:
+  * Os três últimos itens constituem uma extensão natural da Atividade da Lição 1.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Essa é uma atividade que o aluno pode fazer individualmente.
+  * Não se espera que, para os três últimos itens desta atividade, os alunos usem alguma medida para fazer, de forma precisa, a partição de quartos e quintos em oitavos e décimos, respectivamente. O objetivo é que fazer a partição livremente e de forma coerente. 
+  * Alunos diferentes podem pintar as partes de formas diferentes: estas, por exemplo, não precisam ser contíguas. Procure apresentar e discutir com a turma mais do que uma solução para cada item, reforçando assim as ideias propostas nas Atividades 9 e 10 da Lição 1. 
 </WRAP>
 
 Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura ficou sem pintar.
