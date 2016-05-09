@@ -2,7 +2,7 @@
 </hidden>
 
 <WRAP professor> 
-Objetivos específicos: levar o aluno a   
+Objetivos específicos: Levar o aluno a   
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, oito).
   * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
