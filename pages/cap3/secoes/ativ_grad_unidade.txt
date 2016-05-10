@@ -1,16 +1,12 @@
 <WRAP professor>
-Objetivos específicos: Levar o aluno a 
-  * COMPLETAR
-  * Esta atividade que tem por objetivo a associação, na reta numérica, entre a unidade e o número XXXX 
-
-
+Objetivos específicos: Levar o aluno a construir a ideia abstrata de fração como um número da reta numérica. Desse modo pretendemos que a partir de agora a mencionarmos a fração 1/4 estaremos falando não mais 1/4 da faixa, mas, 1/4 da unidade.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem sobre as possíveis soluções. 
   * Faça cópias da fita necessária para o desenvolvimento da atividade, que está no disponível para reprodução (**Inserir LINK de página para reprodução**).
   * No desenvolvimento da atividade, para identificar o marcação da fração 1/2 na fita, é possíel que alguns alunos dobrem a fita ao meio ao inves de dobrar a parte da fita correpondente à unidade (metade do "caminho" entre 0 e 1). Nesse caso, discuta com os alunos, conduzindo-os à reflexão sobre a marcação correta.
   * É possível que alguns alunos façam procedimento análogo para marcar 1/4 e 3/4, fique atento;
-  * A discussão promovida pelo desenvolvimento da atividade deve levar os alunos a refletir sobre a marcação do 4/4 e a sua coicidencia com a marcação da unidade, ou seja, do 1.
+  * A discussão promovida pelo desenvolvimento da atividade deve levar os alunos a refletirem sobre a marcação do 4/4 e a sua coincidência com a marcação da unidade, ou seja, do 1.
   * É importante chamar atenção dos alunos no ítem d) para a localização da fração 5/4 e estabelecer um paralelo entre a barra que representava a unidade até aqui e o número 1 marcado na fita, obtido pela justaposição de 4 "pedaços" de tamanho 1/4 da barra e que formaram o número 1. Desejamos que o aluno compreenda que a fração 5/4 foi obtida pela adição de mais 1/4 da barra a esses 4 "pedaços" anteriores.  
 
 </WRAP>
