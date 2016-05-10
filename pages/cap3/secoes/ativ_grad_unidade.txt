@@ -16,7 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 
-Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita  dividir esta fita de modo a fazer outras marcações além do 0 e o 1. Para isso faça dobras na fita de modo a marcar 1/2, 1/4, 3/4 e 4/4.
+Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita de modo a fazer outras marcações além do 0 e do 1. Para isso faça dobras na fita de modo a marcar 1/2, 1/4, 3/4 e 4/4.
 
 
 {{:cap3:secoes:fita_1.jpg?200|}}
