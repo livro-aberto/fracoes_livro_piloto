@@ -13,12 +13,16 @@ O desenvolvimento desta atividade pode ser estabelecido como um jogo, envolvendo
 
 O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos. Pode ser, por exemplo, em frente ao quadro e indo de um extremo a outro da sala. Esse barbante representa a reta numérica. O objetivo da atividade é “pendurar os números" no barbante usando pregadores (ou fitas adesivas), visando experimentar, em uma atividade concreta, a associação entre os pontos da reta e os números. 
 
-Os números a serem pendurados devem estar impressos em folhas de papel em um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o zero e o um,  para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
+Os números a serem pendurados devem estar impressos em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
 
-O objetivo da atividade é fixar os números no varal. Os critérios para a fixação devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Por exemplo, 
-  * Cada grupo receberá uma quantidade igual de fichas; 
+O objetivo é fixar os números no varal. Os critérios para o desenvolvimento da atividade devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Recomendamos que as fichas com o 0 (zero) e o 1(um) já estejam presos no baraba
+
+Por exemplo, 
+  * Cada grupo deve receber a mesma quantidade de fichas; 
+  * Antes de dar início à atividade o 0 e o 1 ja devem estar fixados no varal (em particular, recomendamos essa 
   * Cada grupo ficará responsável por fixar os números que recebeu;
-  * Outro grupo deve decidir sobre a correção 
+  * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma;
+  *  
   *  
 
 
