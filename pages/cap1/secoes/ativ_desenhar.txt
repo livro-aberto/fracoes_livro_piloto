@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a:
@@ -19,12 +20,8 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
   * A representação da unidade se dá de forma genérica por um quadrado. 
   * Espera-se que os alunos reconheçam que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.   
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item. 
-
-
-
-
 </WRAP>
-
+</hidden>
 
 (A) Pinte metade do quadrado a seguir.
 {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
