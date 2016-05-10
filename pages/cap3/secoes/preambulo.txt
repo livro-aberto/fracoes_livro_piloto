@@ -147,7 +147,7 @@ Estratégia:
 
 Esta lição tem por objetivo introduzir a representação de frações na reta numerada, a associação da unidade ao número 1, a equivalência de frações, observada a partir da reta numérica, e a comparação de frações que tenham o mesmo numerador e a partir de uma fração de referência.
 
-**Dúvida: introduziremos o termo INTEIRO? Não me lembro do que ficou deciddo sobre isso: Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro.** 
+/**Dúvida: introduziremos o termo INTEIRO? Não me lembro do que ficou deciddo sobre isso: Daqui em diante usaremos o denominamos por seu nome mais comum na matemática: inteiro. Podemos agora afirmar que as frações unitárias são na verdade partes do inteiro.**/ 
 
 Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos a partir da adição de frações unitárias por justaposição. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica. 
 
