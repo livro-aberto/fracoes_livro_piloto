@@ -20,10 +20,7 @@ f)	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
 Inserir 10 imagens semelhantes às que seguem, variando da metade até 1/10. As imagens devem vir identificadas por letras maiúsculas para ser possível fazer a associação às afirmações que compõem a questão.  
-
-{{ :cap1:secoes:quinto.png?200 |}}  {{ :cap1:secoes:sexto.png?200 |}}
-
-
+{{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>
 
 <hidden OBS 25/04/2016>
