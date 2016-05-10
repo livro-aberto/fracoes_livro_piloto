@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor>
 Objetivo específico:
   * Abordar a equipartição em um modelo linear.
@@ -12,6 +13,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * A equipartição do barbante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo, como ilustrado na resposta da atividade.
   * A manipulação e a dobra do barbante devem sustentar a discussão para a identificação da "metade da metade" com a "quarta parte" do barbante. Nesse caso, a identificação se dará pela sobreposição das partes. 
 </WRAP>
+</hidden>
 
 Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, precisa cortar o barbante em pedaços iguais. Ajude Ana a cortar o barbante.
 
