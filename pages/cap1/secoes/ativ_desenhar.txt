@@ -36,24 +36,25 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
 <hidden Resposta>
 <WRAP resposta>
 
-Algumas soluções não-convencionais:
+Algumas soluções possíveis, convencionais e outras menos convencionais são:
 
-Metade:
+(A) Metade:
 
 {{:cap1:secoes:licao1_atv7_metade.png?400|}}
 
-Um quarto:
+(B) Um quarto:
 
 {{:cap1:secoes:licao1_atv7_quarto.png?400|}}
 
-Um oitavo:
+(C) Um oitavo:
 
 {{:cap1:secoes:licao1_atv7_oitavo.png?400|}}
 
+Incluir também as soluções abaixo.
+
+{{ :cap1:secoes:fracoes_unitarias_do_quadrado.jpg?200 |}}
+
+
 ilustração: Cambrainha
 </WRAP>
-</hidden>
-
-<hidden OBS 25/04/2016>
-**FS:** Nas respostas deveriam vir as soluções convencionais também.
 </hidden>
