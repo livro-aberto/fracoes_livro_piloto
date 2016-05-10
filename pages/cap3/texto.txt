@@ -64,5 +64,13 @@
 
 {{page>cap3:secoes:ativ_comparacao_unit}}
 
+===== - Atividade =====
+
+{{page>cap3:secoes:ativ_comparacao_unit}}
+
+===== - Atividade =====
+
+{{page>cap3:secoes:ativ_comparacao_unit}}
+
 {{page>cap3:secoes:refletindo}}
 
