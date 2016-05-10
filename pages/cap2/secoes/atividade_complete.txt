@@ -47,10 +47,10 @@ Cataldo
 |  $\frac{4}{2}$  |  {{cap2:secoes:complete-retangulo.png?0x30}}  |  {{cap2:secoes:complete-retangulo-resposta-quatro-meios.png?0x30}}  |
 |  $\frac{3}{2}$  |  {{cap2:secoes:complete-retangulo.png?0x30}}  |  {{cap2:secoes:complete-retangulo-resposta-tres-meios.png?0x30}}  |
 |  $\frac{2}{3}$  |  {{cap2:secoes:complete-retangulo.png?0x30}}  |  {{cap2:secoes:complete-retangulo-resposta-dois-tercos.png?0x30}}  |
-|  $\frac{1}{2}$  |  {{cap2:secoes:complete-disco.png?0x30}}  | |
-|  $\frac{4}{2}$  |  {{cap2:secoes:complete-disco.png?0x30}}  | |
-|  $\frac{3}{2}$  |  {{cap2:secoes:complete-disco.png?0x30}}  | |
-|  $\frac{2}{3}$  |  {{cap2:secoes:complete-disco.png?0x30}}  | |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-disco.png?0x50}}  |  {{cap2:secoes:complete-disco-resposta-um-meio.png?0x50}}  |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-disco.png?0x50}}  |  {{cap2:secoes:complete-disco-resposta-quatro-meios.png?0x50}}  |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-disco.png?0x50}}  |  {{cap2:secoes:complete-disco-resposta-tres-meios.png?0x50}}  |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-disco.png?0x50}}  |  {{cap2:secoes:complete-disco-resposta-dois-tercos.png?0x50}}  |
 |  $\frac{1}{2}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  | |
 |  $\frac{4}{2}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  | |
 |  $\frac{3}{2}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  | |
