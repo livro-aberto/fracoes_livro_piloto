@@ -13,14 +13,19 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 </WRAP>
 </hidden>
-(A) Pinte metade da figura.
-{{:cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?300 |}}
+
+(A) Pinte metade da figura.  
+
+{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
 
 (B) Pinte metade da figura de forma diferente de (A).
-{{:cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?300 |}}
+
+{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
 
 (C) Pinte a metade da figura de forma diferente de (A) e (B).
-{{:cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?300 |}}
+
+{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
+
 
 <hidden Resposta>
 <WRAP Resposta>
@@ -28,10 +33,4 @@ Algumas das respostas possíveis para este problema são:
 {{ :cap1:secoes:hexagonos_licao_um.jpg?900 |}}
 
 </WRAP>
-</hidden>
-
-<hidden OBSERVAÇÕES - LETICIA - SOBRE A FORMA>
-
-Não tenho como alterar, mas recomendo que o comando venha acima de cada um das figuras e que sejam colocados marcadores (A), (B) e (C). 
-
 </hidden>
