@@ -13,8 +13,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 </WRAP>
 </hidden>
+(A) Pinte metade da figura.
+
+(B) Pinte metade da figura de uma maneira diferente de (A).
+
+(C) Pinte a metade da figura diferente de (A) e (B).
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
+
+<hidden Resposta>
+<WRAP Resposta>
+Algumas das respostas possíveis para este problema são:
+{{ :cap1:secoes:hexagonos_licao_um.jpg?900 |}}
+
+</WRAP>
+</hidden>
 
 <hidden OBSERVAÇÕES - LETICIA - SOBRE A FORMA>
 
