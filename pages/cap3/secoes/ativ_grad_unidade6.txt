@@ -13,5 +13,6 @@ Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta nu
 {{:cap3:secoes:fracoes_e_retas.jpg?300|}}
 
 <hidden Comentários>
-
+Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
+Outra dúvida, na letra (e) representamos 1/3 ou 2/6?
 </hidden>
