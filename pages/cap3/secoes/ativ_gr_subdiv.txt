@@ -15,10 +15,11 @@ O professor deve fazer um “varal” com o barbante em um local que seja visív
 
 Os números a serem pendurados devem estar impressos em folhas de papel em um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o zero e o um,  para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
 
-O objetivo da atividade é fixar os números no varal. 
-
-Os critérios para a fixação dos números no varal devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Por exemplo, 
-(i)	Cada grupo ficará responsável por pendurar  deve receber uma quantidade igual de fichas. 
+O objetivo da atividade é fixar os números no varal. Os critérios para a fixação devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Por exemplo, 
+  * Cada grupo receberá uma quantidade igual de fichas; 
+  * Cada grupo ficará responsável por fixar os números que recebeu;
+  * Outro grupo deve decidir sobre a correção 
+  *  
 
 
 
