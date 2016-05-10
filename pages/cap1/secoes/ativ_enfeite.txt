@@ -26,7 +26,7 @@ INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 1 ESTRELA com aproximadamente 10 c
 <hidden Resposta>
 <WRAP resposta>
 <WRAP imagem> Sequência de duas imagens que ilustrem um abarbante sendo dobrado sobre ele mesmo duas vezes sucessivas, até que se obtenha quartos. Por exemplo, como a imagm a seguir:
-{{ :cap1:secoes:exemplo_de_dobra.jpg?direct&200 |}}
+{{ :cap1:secoes:barbante_dobras.jpg?300 |}}
 </WRAP>
 </WRAP>
 </hidden>
