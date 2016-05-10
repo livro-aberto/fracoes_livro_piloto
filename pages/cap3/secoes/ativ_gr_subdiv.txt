@@ -2,7 +2,6 @@
 
 <WRAP professor>
 
-
 Objetivos específicos: Levar o aluno a:
   * Compreender e reconhecer a representação das frações na reta numerada;
   * Comparação (por ordem) entre frações. 
@@ -15,68 +14,28 @@ O professor deve fazer um “varal” com o barbante em um local que seja visív
 
 Os números a serem pendurados devem estar impressos em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
 
-O objetivo é fixar os números no varal. Os critérios para o desenvolvimento da atividade devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Recomendamos que as fichas com o 0 (zero) e o 1(um) já estejam presos no baraba
+O objetivo é fixar os números no varal. Os critérios para o desenvolvimento da atividade devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. 
 
-Por exemplo, 
+Recomenda-se que as fichas com o 0(zero) e o 1(um) já estejam presa no barabante antes do início da atividade. Assim, respeitando o nível de escolaridade em foco, a unidade estará determinada de modo a facilitar a fixação dos demais números naturais e a identificação de partes da unidade correspondentes às frações unitárias (a partir da equipartição, que pode ser obtida por dobradura, do pedaço de barbante limitado pelo 0(zero) e pelo 1(um). 
+
+INCLUIR IMAGEM ILUSTRATIVA DO VARAL 
+
+Como critérios para o desenvolvimento da atividade, são recomendados: 
   * Cada grupo deve receber a mesma quantidade de fichas; 
-  * Antes de dar início à atividade o 0 e o 1 ja devem estar fixados no varal (em particular, recomendamos essa 
   * Cada grupo ficará responsável por fixar os números que recebeu;
   * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma;
-  *  
-  *  
-
-
-
-As fichas devem ser repartidas igualmente entre os grupos. Cada grupo ficará responsável por fixar as fichas que recebeu no varal (barabante) e os demais avaliarem se a colocação está de acordo com a representação da reta numérica. 
-
-
-
-Orentações e recomendações
-•	
-
-1.	Descrição detalhada da atividade (incluindo diferentes etapas, se houver)
-A ser completada pelo grupo. Seguem algumas sugestões de desenvolvimento. 
-
-Inicialmente:
-O professor deve fazer um “varal” com o barbante em um espaço em que toda a turma tenha acesso. Por exemplo, em frente ao quadro de anotações. Esse barbante representa a reta numérica e o objetivo da atividade é “pendurar” os números que estarão nas fichas no barbante usando os pregadores.  
-
-A turma deve ser dividida em grupos e cada grupos ficará responsável por fixar as fichas (pedaços de cartolina) no varal (barabante). A quantidade de participantes em cada grupo e, consequentemente, de grupos deve ser decidida tendo em conta a turma e os objetivos prtendidos com a  atividade. Tudo deve ser combinado e esclarecido antes de a atividade começar.
-
-Os critérios para a fixação dos números no varal devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. Por exemplo, 
-(i)	Cada grupo ficará responsável por pendurar  deve receber uma quantidade igual de fichas. 
-
-
-Desenvolvimento
- 1º passo:
-- Nesta aula, o professor deverá dividir a turma em dois grandes grupos. Em cada grupo ele dará um jogo. O Jogo Construindo o 10 que tem como objetivo trabalhar com os alunos o sistema decimal e o jogo Varal dos Números que tem como finalidade o trabalho com situações-problema, além da ordenação (sucessor e antecessor).
-- Sendo assim. Será necessário que o professor, ao dividir a turma em dois grupos, divida-a pensando em alunos que precisam ainda consolidar o sistema decimal (desta forma, esses alunos deverão trabalhar com o jogo Construindo o 10) e os alunos que já consolidaram o sistema decimal e precisam consolidar o calculo mental, as operações matemáticas, além da ordenação (sucessor e antecessor).
-2º passo:
-- O professor distribuirá os jogos e explicará para cada grupo o funcionamento dos mesmos, as regras e os objetivos, como podemos observar a seguir (ver o materiais a serem utilizados em cada jogo nos recursos educacionais):
-JOGO: CONSTRUINDO O 10
-MODO DE JOGAR:
-O professor distribui os 5 quebra-cabeças para cada equipe que ao sinal dado deverá montá-los e registrar as operações em seu caderno. Vencerá a equipe que montar os 5 quebra-cabeças primeiro.
-JOGO: VARAL DOS NÚMEROS
-MODO DE JOGAR:
-Cada jogador recebe uma ficha numerada. O professor lerá a situação-problema e todos os alunos deverão resolvê-la. A dupla que possuir a ficha com o resultado, deverá pendurá-la no varal. O professor deverá ter o cuidado de elaborar situações-problema cuja solução não seja repetida e se limite aos resultados que os alunos possuem, por exemplo, de 1 a 15 se forem 30 alunos. A cada situação lida uma dupla vai e coloca o resultado no varal. Assim até que todas as fichas sejam colocadas. Durante a ida ao varal o professor questiona sobre o lugar do número no varal: é antecessor de que número? Menor de que número? Sucessor de que número? Maior de que número?
-3º passo:
-- O professor deverá circular pelos grupos, tirando dúvidas e auxiliando-os. O grupo que trabalhará com o Varal dos números precisará de mais mediação, pois será o professor quem questionará os antecessores e sucessores.
-- A aula deverá ser encerrada após a resolução dos dois jogos. Caso seja, possível o professor poderá propor a troca dos jogos entre os grupos.
-Recursos EducacionaisJOGO: CONSTRUINDO O 10
-MATERIAIS:
-- 5 quebra-cabeças para cada equipe.
-JOGO: VARAL DOS NÚMEROS
-MATERIAIS:
-- 1 ficha numerada para cada aluno; - 1 varal; - prendedores de roupa; - situações-problema.
-
-
-
-
+  * A pontuação no jogo é atribuída a marcações corretas, um ponto por cada marcação correta;
+  * Todos os alunos participantes devem fixar pelo menos um número no varal.
+  * o ponto de fixação pode ser discutido e orientado pelo grupo ao qual o aluno que fará a fixação faz parte.
+  * Ganha o grupo que, após a fixação de todas as fichas numeradas no varal obtiver maior pontuação.
 
 </WRAP>
 </hidden>
 
+VARAL DOS NÚMEROS
 
 
+INCLUIR FICHAS EM TAMANHO A4 com os seguintes números:
 
 
 
