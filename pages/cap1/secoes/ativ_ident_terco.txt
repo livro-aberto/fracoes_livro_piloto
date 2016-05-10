@@ -15,28 +15,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Em quais das figuras a seguir a parte em vermelho é um terço da figura?
-**
-SUBSTITUIR IMAGEM OBSERVANDO AS DÚVIDAS - As figuras dos quadradnhos devem ser substituídas  por figuras de área
-**
-{{ :cap1:secoes:rec_tercos.jpg?direct&500 |}}
+Em cinco das figuras a seguir a parte em vermelho é um terço da figura. Identifique estas figuras?
+{{ :cap1:secoes:um_terco_vermelho.jpg?500 |}}
 
-
-<hidden DÚVIDAS>
-**Humberto**: 
-
-(2) Eu acho as figuras dos quadradinhos um salto aqui, pois elas não estão no contexto das frações unitárias.
-
-AP: Concordo com você Humberto.
-LET: Podemos deixar para uma próxima seção. 
-
-(3) Uma das barras não está dividida em partes iguais. É isso mesmo?
-
-AP: Acredito que é assim mesmo, mas talvez ter pelo menos mais uma com essa intenção e minha sugestão é colocar um círculo dividido em 3 partes com linhas verticais paralelas e pintar uma das partes. Incluir triângulo ao contrário - duas azuis e uma vermelha.
-LET: Sim. VOU FAZER OUTRA FIGURA.
-
-AP: No hexágono a parte pintada tem que estar em vermelho, pois não faz sentido com a pergunta estar pintado de azul.
+<hidden Resposta>
+<WRAP Resposta>
+A parte em vermelho representa um terço da figura nos itens C), D), E), F) e H). 
+</WRAP>
 </hidden>
-
-
 
