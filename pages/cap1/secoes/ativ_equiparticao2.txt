@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a
@@ -24,8 +25,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 ilustração: Cambrainha
 
 </WRAP>
-
 </WRAP>
+</hidden>
 
 Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de uma turma. Para isso, a turma foi dividida em três grupos com quatro crianças. Cada grupo repartiu uma das pizzas. 
 
@@ -48,8 +49,4 @@ ilustração: Cambrainha
 (B) Não. Pois os pedaços têm tamanhos diferentes.\\
 (C) Apenas no grupo 1 as 4 crianças receberam a mesma quantidade de pizza. Cada fatia é "um quarto" da pizza ou "a quarta parte" da pizza. 
 </WRAP>
-</hidden>
-
-<hidden OBS>
-"deficiência visual" - ver http://www.selursocial.org.br/terminologia.html item 2.
 </hidden>
