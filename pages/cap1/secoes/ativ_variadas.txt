@@ -5,7 +5,7 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
-  *É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresenta-las e diferenciá-las.
+  *É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
   *Aproveite esta atividade para revisar o vocabulário desenvolvido nesta seção: //Unidade; metade, um meio, um terço, terça parte, um quarto, quarta parte, um quinto, quinta parte, um sexto, sexta parte, um sétimo, sétima parte, um oitavo, oitava parte, um nono, nona parte, um décimo// e //décima parte//.
 </WRAP>
 </hidden>
@@ -19,7 +19,7 @@ e)	A parte colorida é a nona parte do círculo.\\
 f)	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
-Inserir 10 imagens semelhantes às que seguem, varaindo da metade até 1/10. As imagens devem vir identificadas por letras maiúsculas para ser possível fazer a associação às afirmações que compõem a questão.  
+Inserir 10 imagens semelhantes às que seguem, variando da metade até 1/10. As imagens devem vir identificadas por letras maiúsculas para ser possível fazer a associação às afirmações que compõem a questão.  
 
 {{ :cap1:secoes:quinto.png?200 |}}  {{ :cap1:secoes:sexto.png?200 |}}
 
