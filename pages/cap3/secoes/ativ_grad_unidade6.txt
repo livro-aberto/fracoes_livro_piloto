@@ -1,3 +1,13 @@
+<WRAP professor> 
+Professor,  esta atividade tem por objetivo associar a unidade ao número 1 da reta e localizar frações construidas a partir das unitárias para uma equipartição da unidade.
+
+Recomendações:
+
+Nesta atividade os alunos podem trabalhar individualmente ou em duplas. O professor deve orientá-los a escreverem cada letra imediatamente acima da fração correspondente, como forma de marcar a fração na reta numérica.
+
+
+</WRAP>
+
 Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondentes a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta. Justifique porque você escolheu cada uma das representações.
 
 {{:cap3:secoes:fracoes_e_retas.jpg?300|}}
