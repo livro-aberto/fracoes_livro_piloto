@@ -3,20 +3,40 @@ Objetivos específicos: Levar o aluno a
   * Estender a representação de frações para a reta numerica. 
   * Associar na reta numérica, a partir de modelos contínuos a unidade ao número 1. 
   
-Professor,  esta atividade tem por objetivo associar a unidade ao número 1 da reta e localizar frações construidas a partir das unitárias para uma equipartição da unidade.
-
-Recomendações:
-
-Nesta atividade os alunos podem trabalhar individualmente ou em duplas. O professor deve orientá-los a escreverem cada letra imediatamente acima da fração correspondente, como forma de marcar a fração na reta numérica.
-
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  * Recomenda-se que nesta atividade os alunos trabalhem no modo individual ou em duplas. 
+  * O professor deve orientá-los a escreverem cada letra imediatamente acima da fração correspondente, como forma de marcar a fração na reta numérica.
 
 </WRAP>
 
 Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondentes a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta. Justifique porque você escolheu cada uma das representações.
 
-{{:cap3:secoes:fracoes_e_retas2.jpg?400|}}
+{{:cap3:secoes:fracoes_e_retas2.jpg|}}
+
+<hidden Para o ilustrador>
+observar a sequência 1, 2, 3 e 4 nesta ilustração.
+
+</hidden>
+
+
+Para cada trio abaixo,  (a) (b) ( c), (d) (e) (f) faça a associação com as frações correspondentes em cada reta numérica. Justifique cada escolha para representação.
+
+{{:cap3:secoes:fracoes_e_retas2_extras.jpg|}}
+
+<hidden Para o ilustrador>
+nomear como (a) (b) ( c)  as tres primeiras e neste caso embaralhar a ordem.
+
+nomear como (d) (e) (f) para as três últimas e embaralhar.
+
+O quadrado das figuras (d) (e) (f) devem ter mesmo tamanho nas figuras (c) (d)
+</hidden>
+
+
+
 
 <hidden Comentários>
 Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
 Outra dúvida, na letra (e) representamos 1/3 ou 2/6?
+
 </hidden>
