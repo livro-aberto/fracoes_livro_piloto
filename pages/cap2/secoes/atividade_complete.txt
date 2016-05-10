@@ -55,9 +55,9 @@ Cataldo
 |  $\frac{4}{2}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  |  {{cap2:secoes:complete-segmento-resposta-quatro-meios.png?0x30}}  |
 |  $\frac{3}{2}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  |  {{cap2:secoes:complete-segmento-resposta-tres-meios.png?0x30}}  |
 |  $\frac{2}{3}$  |  {{cap2:secoes:complete-segmento.png?0x30}}  |  {{cap2:secoes:complete-segmento-resposta-dois-tercos.png?0x30}}  |
-|  $\frac{1}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  | |
-|  $\frac{4}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  | |
-|  $\frac{3}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  | |
-|  $\frac{2}{3}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  | |
+|  $\frac{1}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  |  {{cap2:secoes:complete-hexagono-resposta-um-meio.png?0x30}}  |
+|  $\frac{4}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  |  {{cap2:secoes:complete-hexagono-resposta-quatro-meios.png?0x30}}  |
+|  $\frac{3}{2}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  |  {{cap2:secoes:complete-hexagono-resposta-tres-meios.png?0x30}}  |
+|  $\frac{2}{3}$  |  {{cap2:secoes:complete-hexagono.png?0x30}}  |  {{cap2:secoes:complete-hexagono-resposta-dois-tercos.png?0x30}}  |
 </WRAP>
 </hidden>
