@@ -1,4 +1,4 @@
-Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondente a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta.
+Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondentes a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta. Justifique porque você escolheu cada uma das representações.
 
 {{:cap3:secoes:fracoes_e_retas.jpg?300|}}
 
