@@ -3,6 +3,7 @@
 E ESTIMATIVA APÓS**
 
 
+<hidden Para o Professor>
 
 <WRAP professor>
 
@@ -20,9 +21,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Cada aluno deve receber as imagens das figuras, disponíveis para reprodução (**Inserir LINK de página para reprodução**) para que possa manipular como achar melhor e conduzir a sua decisão. 
   * Incentive os alunos a argumentar, justificando a sua decisão. Para isso, podem, por exemplo, se apoiar em dobraduras ou no recorte das partes da figura.
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item   
-
 </WRAP>
-
+</hidden>
 
 Em cada uma das imagens, a parte colorida é uma fração da figura. Essas frações podem ser "um meio", "um quarto" ou "um décimo". Associe cada imagem à fração correspondente.
 
@@ -33,11 +33,12 @@ Em cada uma das imagens, a parte colorida é uma fração da figura. Essas fraç
 
 </WRAP>
 
+<hidden Resposta>
 <WRAP resposta> (A) um meio,  (B) um décimo, (C) um quarto, (D) um quarto,\\
 (E) um quarto, (F) um meio, (G) um quarto, (H) um décimo,\\
 (I) um quarto, (J) um décimo, (L) um quarto, (M) um meio
 </WRAP>
-
+</hidden>
 
 <hidden OBSERVAÇÕES>
 HB: a exemplo da letra (L), acho bom sempre tentar incluir objetos 3D (copos com líquidos por exemplo).
