@@ -21,7 +21,7 @@ Identique as figuras em que a parte pintada é a metade da figura.
 
 <hidden Resposta>
 <WRAP Resposta>
-As figuras que correspondem a meio são as de número 1, 2, 4, 5, 6, 8, 9, 12.
+As figuras que correspondem a meio são as de número 1, 2, 4, 5, 6, 8, 9, 11 e 12.
 </WRAP>
 </hidden>
 
