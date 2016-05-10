@@ -11,21 +11,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * No desenvolvimento da atividade, para identificar o marcação da fração 1/2 na fita, é possíel que alguns alunos dobrem a fita ao meio ao inves de dobrar a parte da fita correpondente à unidade (metade do "caminho" entre 0 e 1). Nesse caso, discuta com os alunos, conduzindo-os à reflexão sobre a marcação correta.
   * É possível que alguns alunos façam procedimento análogo para marcar 1/4 e 3/4, fique atento;
   * A discussão promovida pelo desenvolvimento da atividade deve levar os alunos a refletir sobre a marcação do 4/4 e a sua coicidencia com a marcação da unidade, ou seja, do 1.
-  * É importante chamar atenção dos alunos para a localização da fração 5/4 e estabelecer um paralelo entre a barra que representava a unidade até aqui e o número 1 marcado na fita */ fiquei na dúvida... :( */
+  * É importante chamar atenção dos alunos no ítem d) para a localização da fração 5/4 e estabelecer um paralelo entre a barra que representava a unidade até aqui e o número 1 marcado na fita, obtido pela justaposição de 4 "pedaços" de tamanho 1/4 da barra e que formaram o número 1. Desejamos que o aluno compreenda que a fração 5/4 foi obtida pela adição de mais 1/4 da barra a esses 4 "pedaços" anteriores.  
 
 </WRAP>
 
 
-Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita de modo a fazer outras marcações além do 0 e do 1. Para isso faça dobras na fita de modo a marcar 1/2, 1/4, 3/4 e 4/4.
+Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita de modo a fazer outras marcações além do 0 e do 1. Para isso faça dobras na fita de modo a marcar as frações 1/2, 1/4, 3/4 e 4/4.
 
 
 {{:cap3:secoes:fita_1.jpg?200|}}
 
-a) Inicialmente faça uma dobra e marque 1/2 na fita. Converse com o colega de grupo e com o professor sobre a marcação que você fez.
+a) Inicialmente faça uma dobra e marque a fração 1/2 na fita. Converse com o colega de grupo e com o professor sobre a marcação que você fez.
 
-b) Agora faça uma dobra para obter 1/4 e 3/4.
+b) Agora faça uma dobra para obter as frações 1/4 e 3/4.
 
-c) Onde podemos marcar 4/4?
+c) Onde podemos marcar a fração 4/4?
 
 d) Considerando que a fita que vc numerou é maior que a unidade, onde podemos marcar a fração 5/4? POR QUÊ?
 
