@@ -5,10 +5,12 @@ Aqui vale a pena discutir com o estudante o surgimento de frações que represen
 
 (**LET 2016-05-02**: Acho que isso tem que ser tratado em uma atividade antes. A seção conexões deve organizar/sistematizar as ideias e conceitos tratados em atividades anteriores.)
 
-A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
+*/A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
 Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).
 
-(**LET 2016-05-02**: Acho fundamental discutir isso com professor. No entanto, é necessário rever algumas afirmações no texto anterior. Por exemplo, "...porque é seu primeiro contato com símbolos que não são algarismos". É um súmbolo só, não? Entendo que a dificuldade está mais em lê uma informação quantitativa a partir de duas informações numéricas, ambas relativas à contagem. Além disso, essas informações não aparecem uma ao lado da outra, mas um a acima (ou abaixo) da outra. A questão do algarismo também persiste. De fato, por exmplo, em  24/17, 24 não é algarismo de 24/17, mas 2 e 4 sã algarismos de 24.)
+(**LET 2016-05-02**: Acho fundamental discutir isso com professor. No entanto, é necessário rever algumas afirmações no texto anterior. Por exemplo, "...porque é seu primeiro contato com símbolos que não são algarismos". É um súmbolo só, não? Entendo que a dificuldade está mais em lê uma informação quantitativa a partir de duas informações numéricas, ambas relativas à contagem. Além disso, essas informações não aparecem uma ao lado da outra, mas um a acima (ou abaixo) da outra. A questão do algarismo também persiste. De fato, por exmplo, em  24/17, 24 não é algarismo de 24/17, mas 2 e 4 sã algarismos de 24.)*/
+
+
 
 </WRAP>
 
