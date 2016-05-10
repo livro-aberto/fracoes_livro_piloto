@@ -7,7 +7,7 @@ b) Corte agora 2 partes da faixa dividida em 6 partes e que foi pintada de rosa 
 
 c)Corte agora 3 partes da faixa dividida em 9 partes e que foi pintada de vermelho. Que fração da unidade estas três partes cortadas representam? Marque esta fração na mesma reta numerada
 
-{{ :cap3:secoes:reta.jpg?200 |}}.
+{{ :cap3:secoes:reta.jpg?300 |}}.
 
 
 
