@@ -1,4 +1,4 @@
-====== CONEXÕES ======
+====== ORGANIZANDO AS IDEIAS ======
 <WRAP professor>
 
 Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. 
