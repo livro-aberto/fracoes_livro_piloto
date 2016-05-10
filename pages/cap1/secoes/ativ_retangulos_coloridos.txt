@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor> 
 Objetivo específico: Levar o aluno a:
   * Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma. 
@@ -29,10 +30,8 @@ Esses retângulos também devem ser confeccionados para encartes a serem reprodu
 
 
 </hidden>
-<hidden Sugestão>
-</hidden>
-
 </WRAP>
+</hidden>
 
 Quais dos retângulos a seguir foram repartidos em //quartos//?
 
