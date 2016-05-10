@@ -4,6 +4,11 @@
 
 ===== - Atividade =====
 
+{{page>cap3:secoes:ativ_grad unidade6}}
+
+
+===== - Atividade =====
+
 {{page>cap3:secoes:ativ_grad unidade}}
 
 
@@ -23,9 +28,6 @@
 
 {{page>cap3:secoes:ativ_grad unidade5}}
 
-===== - Atividade =====
-
-{{page>cap3:secoes:ativ_grad unidade6}}
 
 
 {{page>cap3:secoes:conexoes}}
