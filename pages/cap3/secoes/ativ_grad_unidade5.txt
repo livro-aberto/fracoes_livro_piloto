@@ -2,11 +2,16 @@ Observe a reta numerada abaixo:
 
 {{ :cap3:secoes:reta_4_partes_a.jpg?300 |}}
 
-a) inicialmente localize 1/2 na reta abaixo. Justifique a sua escolha.
+a) Inicialmente localize 1/2 na reta abaixo. Justifique a sua escolha.
 
 b) Vamos agora localizar 1/4, 3/4 e 5/4. Qual o criterio usado para localizar as frações na reta? Explique com suas palavras.
 
-c) 
+c) Com a ajuda da reta vamos comparar essas frações? 1/4 é maior ou menor que 1/2?  e 3/4 em relação a 1/2, o que podemos afirmar?
+
+d) Ao marcar o 5/4 o que podemos afirmar sobre a comparação com a unidade 1?
+
+e) escreva em ordem crescente as frações dadas. Será que podemos inferir alguma regra especial para ordenar frações?
+
 
 
 <hidden Comentários>
