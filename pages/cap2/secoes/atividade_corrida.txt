@@ -51,4 +51,5 @@ A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou 
 
 O que acham de ser uma pista só e todos os corredores serem marcados na mesma pista? Nesse caso, sugiro ter um encarte.
 
-</hidden>
+</hidden> Cataldo: acho que para cada corredor deve haver uma pista. Todavia, deve haver mais uma pista para que seja pedido que o aluno marque as posições, determinadas antes, de todos os corredores. 
+
