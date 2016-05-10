@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor> Objetivos específicos: Levar o aluno a 
   * Diferenciar a divisão da unidade em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
   * Reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
@@ -25,7 +26,7 @@ NECESSITA PÁGINA DE REPRODUÇÃO
 
 </hidden>
 </WRAP>
-
+</hidden>
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
