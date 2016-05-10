@@ -10,7 +10,7 @@ LET: Sugestão bem recebida e anotada. Senha 4. ;)
 </hidden>
 */
 
-
+<hidden Para o Professor>
 <WRAP professor> Esta lição tem por objetivo introduzir frações unitárias a partir de modelos visuais contínuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", fazendo uso de expressões verbais como, por exemplo, "metade de...", "um terço de...", "a terça parte de...", "um quarto de...", para indicar essas frações.  
 
 As atividades visam à observação da partição de uma unidade. O objetivo é levar o aluno a reconhecer diferentes modos de dividir e recompor a unidade. Não se pretende apresentar aos alunos a linguagem simbólica de fração unitária, que será tratada nos capítulos seguintes. Espera-se que, ao final da lição, os alunos saibam identificar e representar frações unitárias a partir de modelos visuais diversos, fazendo o uso adequado de expressões verbais para nomeá-las. No entanto, o professor não deve apresentar o termo 'fração unitária' ao estudante, uma vez que é desnecessário para a aprendizagem pretendida para o conceito. Fazê-lo pode, inclusive, afastar o foco que pretende-se na lição.
@@ -55,6 +55,6 @@ O aluno deve ser capaz de:
 </hidden>
 
 </WRAP>
-
+</hidden>
 
 
