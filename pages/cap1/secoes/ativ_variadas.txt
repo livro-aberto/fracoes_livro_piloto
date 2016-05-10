@@ -10,12 +10,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Considere o círculo como unidade. Que afirmação corresponde a parte colorida em cada uma das figuras? 
-a)	A parte colorida é um quinto do círculo.
-b)	A parte colorida é a sexta parte do círculo.
-c)	A parte colorida é um sétimo do círculo.
-d)	A parte colorida é um oitavo do círculo.
-e)	A parte colorida é a nona parte do círculo.
+Considere o círculo como unidade. Que afirmação corresponde à parte colorida em cada uma das figuras? \\
+a)	A parte colorida é um quinto do círculo.\\
+b)	A parte colorida é a sexta parte do círculo.\\
+c)	A parte colorida é um sétimo do círculo.\\
+d)	A parte colorida é um oitavo do círculo.\\
+e)	A parte colorida é a nona parte do círculo.\\
 f)	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
