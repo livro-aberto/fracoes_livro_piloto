@@ -1,5 +1,5 @@
+<hidden Para o Professor>
 <WRAP professor> 
-
 Objetivo específico: Levar o aluno a;
 
   * Identificar uma mesma fração unitária (no caso, a terça parte) em representações diversas, ou seja, em representações da unidade não necessariamente congruentes.
@@ -11,9 +11,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Os alunos devem reconhecer que, independente da unidade considerada, em uma equipartição em 3 partes, cada uma das partes é um terço (ou a terça parte) da unidade.
   * Aproveite as próprias palavras e os argumentos dos alunos para conduzi-los às conclusões esperadas.
   * Fique atento aos alunos que selecionarem as figuras que simplesmente possuem alguma associação com o número 3, não correspondendo a terços. Por exemplo, um aluno que associe a **Figura ZZ** a terços pode ainda não ter compreendido a necessidade da equipartição para a identificaçào de um terço. Já o aluno que associa **Figura ZZ** a terços pode estar simplesmente contando as partes em vermelho, sem que tenha reconhecido que a figura deveria estar dividida em 3 partes iguais e não em 5. 
-   
 </WRAP>
-
+</hidden>
 
 
 Em quais das figuras a seguir a parte em vermelho é um terço da figura?
