@@ -41,5 +41,5 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 <hidden Comentários>
-
+A figura de referencia apresenta a unidade de medida m e que não deve aparecer na figura construida pelo ilustrador.
 </hidden>
