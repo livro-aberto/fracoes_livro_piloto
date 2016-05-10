@@ -38,6 +38,15 @@
 
 ===== - Atividade =====
 
+{{page>cap3:secoes:ativ_Varal dos numeros}}
+
+===== - Atividade =====
+
+{{page>cap3:secoes:ativ_fracoes na reta}}
+
+
+===== - Atividade =====
+
 {{page>cap3:secoes:ativ_gr_subdiv}}
 
 ===== - Atividade =====
