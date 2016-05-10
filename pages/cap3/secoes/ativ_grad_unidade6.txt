@@ -10,7 +10,7 @@ Nesta atividade os alunos podem trabalhar individualmente ou em duplas. O profes
 
 Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondentes a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta. Justifique porque você escolheu cada uma das representações.
 
-{{:cap3:secoes:fracoes_e_retas.jpg?300|}}
+{{:cap3:secoes:fracoes_e_retas2.jpg?200|}}
 
 <hidden Comentários>
 Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
