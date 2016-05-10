@@ -1,3 +1,4 @@
+<hidden Para o Professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a:
@@ -10,14 +11,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
   * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
-
-
 </WRAP>
+</hidden>
 
 {{:cap1:secoes:fracoes-unitarias-dois-hexagonos-02.jpg?900 |}}
 
 <hidden OBSERVAÇÕES - LETICIA - SOBRE A FORMA>
 
-Não tenho como alterar, mas recomendo que o comando venha acima de cada um das figuras e que sejam colocados marcadores (a), (b) e (c). 
+Não tenho como alterar, mas recomendo que o comando venha acima de cada um das figuras e que sejam colocados marcadores (A), (B) e (C). 
 
 </hidden>
