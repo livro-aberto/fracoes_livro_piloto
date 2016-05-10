@@ -147,9 +147,11 @@ Estratégia:
 
 Esta lição tem por objetivo introduzir a representação de frações na reta numérica, a associação da unidade ao número 1, observada a partir da reta numérica, e a comparação de frações que tenham o mesmo denominador e a partir de uma fração de referência.
 
+A expressão reta numérica se refere ao modelo de organização dos números na reta. Alguns textos, quando tratam de apenas os números naturais, usam a expressão reta numerada.  Nesta caso, é importante que os alunos reconheçam que reta numérica e outro nome para o modelo que já conhecem. 
+
 Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos a partir da justaposição de partes correspondentes às frações unitárias. Essa abordagem será a base para a associação entre a unidade e o número 1 e para a representação das frações na reta numérica. 
 
-A construção da reta numérica será amparada pelo conhecimento anterior dos aluno sobre a representação dos números naturais (0, 1, 2, 3, 4, ...) nessa reta e pela exploração de modelos contínuos. A medida de comprimemto será o ponto de partida dessa  construção. O segmento unitário, de extremos 0 e 1, será associado à unidade e as frações unitárias representadas a partir da equipartição desse segmento. As demais frações serão associadas a pontos na reta pela justaposição de segmentos correspondentes a frações unitárias. Assim, por exemplo, a fração 1/2 será associada ao ponto médio entre os pontos correspondentes ao 0 e ao 1 e a fração 5/2 ao ponto correspondente a justaposição de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao 1/2, como ilustra a figura a seguir:
+A construção da reta numérica será amparada pelo conhecimento anterior dos aluno sobre a representação dos números naturais (0, 1, 2, 3, 4, ...) nessa reta e pela exploração de modelos contínuos. A medida de comprimento será o ponto de partida dessa  construção. O segmento unitário, de extremos 0 e 1, será associado à unidade e as frações unitárias representadas a partir da equipartição desse segmento. As demais frações serão associadas a pontos na reta pela justaposição de segmentos correspondentes a frações unitárias. Assim, por exemplo, a fração 1/2 será associada ao ponto médio entre os pontos correspondentes ao 0 e ao 1 e a fração 5/2 ao ponto correspondente à justaposição de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao 1/2, como ilustra a figura a seguir:
 
 **INCLUIR FIGURA** 
 
