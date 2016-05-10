@@ -2,7 +2,7 @@
 Evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável? Vamos/devemos tratar disto com o professor?
 </hidden>
 
-====== LIÇÃO 2 - Frações não-unitárias ======
+====== LIÇÃO 2 - Multiplicando a fração da unidade ======
 
 /*
 <hidden H (2016-05-02): Como ler frações do tipo $\frac{2}{1}$, $\frac{3}{1}$, $\ldots$?>
