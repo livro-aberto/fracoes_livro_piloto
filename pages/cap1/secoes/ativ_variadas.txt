@@ -19,10 +19,16 @@ e)	A parte colorida é a nona parte do círculo.\\
 f)	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
-Inserir 10 imagens semelhantes às que seguem, variando da metade até 1/10. As imagens devem vir identificadas por letras maiúsculas para ser possível fazer a associação às afirmações que compõem a questão.  
 {{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>
 
-<hidden OBS 25/04/2016>
-**FS:** Esta poderia ser uma atividade para ligar as figuras apresentadas na coluna da esquerda às frases da coluna da direita.
+<hidden Resposta>
+<WRAP resposta>
+a) A esta afirmação corresponde a figura G).\\
+b) A esta afirmação corresponde a figura D).\\
+c) A esta afirmação corresponde a figura I).\\
+d) A esta afirmação corresponde a figura B).\\
+e) A esta afirmação corresponde a figura A).\\
+f) A esta afirmação corresponde a figura F).
+</WRAP>
 </hidden>
