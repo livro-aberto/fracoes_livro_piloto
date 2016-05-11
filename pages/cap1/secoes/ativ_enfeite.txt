@@ -22,7 +22,7 @@ Ana quer enfeitar a sala de aula e pretende prender os enfeites utilizando peda�
 </WRAP>
 
 <WRAP nota>
-INCLUIR PÁGINA DE REPRODUÇÃO COM apenas as 1 ESTRELA com aproximadamente 10 cm de altura para ser recortada.
+INCLUIR PÁGINA DE REPRODUÇÃO COM apenas 1 ESTRELA com aproximadamente 10 cm de altura para ser recortada.
 </WRAP>
 
 <hidden Resposta>
