@@ -1,5 +1,4 @@
-<hidden Classificações: [Conceito: identificar/descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] >
-</hidden>
+Classificações: [Conceito: identificar/descrever | Nível 1: reconhecer | Observar: identificar/reconhecer] >
 
 <WRAP professor>
 Objetivos específicos: Levar o aluno a

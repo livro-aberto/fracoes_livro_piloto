@@ -31,7 +31,7 @@ function surround(id, openp, midp, endp)
 end
 
 local digit = R('09')
-local alpha = R('AZ', 'az') + S('áéíóúàèìòùâêÂÊÁÉÍÓÚÀÈÌÒÙüãẽõçÇÃẼÕ')
+local alpha = R('AZ', 'az') + S('áéíóúàèìòôùâêÂÊÁÉÍÓÚÀÈÌÒÙüãẽõçÇÃẼÕ')
 local symb = S('():/+-!?.,;\\{}$&#^*|_~%=<>"\' \n\t')
 local known = digit + alpha + symb
 
@@ -74,7 +74,6 @@ local bold = surround('bold', '**', simpletext)
 local under = surround('under', '__', simpletext)
 local italic = surround('italic', [[//]], (harmless - P([[//]]))^1 )
 local mono = surround('mono', "''", simpletext)
-local quote = surround('quote', '"', simpletext)
 local newline = token('newline', [[\\]])
 local linefeed = token('linefeed', '\n')
 local simplemath = surround('simplemath', '$', simpletext)
@@ -83,7 +82,8 @@ local titlechapter = P('======') * token('title', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * token('image', simpletext) * P('}}')
-local comment = P('/*') * token('comment', known - P('*/'))^0 * P('*/')
+local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/')
+local quote = surround('quote', '"', Ct( (bold + under + italic + mono + simplemath + token('simple', simpletext))^0 ))
 local decoline = bold + under + italic + mono + quote + simplemath + token('simple', simpletext)
 local item = P('\n  *') * token('item', Ct( decoline^0 ))
 local itemize = token('itemize', Ct( item^1 ))
@@ -141,9 +141,9 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'under' then
         outstr = outstr .. formatting .. '{' .. formatsimple:match(v.value) .. '}'
      elseif (v.tag) == 'quote' then
-        outstr = outstr .. formatting .. [[``]] .. formatsimple:match(v.value) .. [['']]
+        outstr = outstr .. formatting .. [[``]] .. texprint(v.value, indent + 1) .. [['']]
      elseif (v.tag) == 'newline' then
-        outstr = outstr .. formatting .. '\\newline '
+        outstr = outstr .. formatting .. '\\mbox{} \\newline '
      elseif (v.tag) == 'linefeed' then
         outstr = outstr .. formatting .. '\n'
      elseif (v.tag) == 'simple' then
