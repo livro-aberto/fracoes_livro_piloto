@@ -18,6 +18,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso precisa cortar o barbante em pedaços iguais. Ajude Ana a cortar o barbante.
 
 <WRAP imagem> Incluir imagem de um pedaço de barbante e de 4 estrelas congruentes, como ilustrado a seguir:
+Alice é uma menina morena de rabo de cavalo. Ela será um personagem frequente deste livro.
+
 {{ :cap1:secoes:alice_barbante_estrelas.jpg?300 |}}
 </WRAP>
 
@@ -26,7 +28,7 @@ INCLUIR PÁGINA DE REPRODUÇÃO COM apenas 1 ESTRELA com aproximadamente 10 cm d
 </WRAP>
 
 <hidden Resposta>
-<WRAP resposta>
+<WRAP resposta> Uma maneira de se cortar o barbante é dobrar ao meio e depois dobrar novamente ao meio obtendo quatro partes iguais como ilustrado na figura a seguir.
 <WRAP imagem> Sequência de duas imagens que ilustrem um abarbante sendo dobrado sobre ele mesmo duas vezes sucessivas, até que se obtenha quartos. Por exemplo, como a imagm a seguir:
 {{ :cap1:secoes:barbante_dobras.jpg?300 |}}
 </WRAP>
