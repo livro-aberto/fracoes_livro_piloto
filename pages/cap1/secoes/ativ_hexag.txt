@@ -27,7 +27,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
 
 
-<hidden Resposta>
+<hidden resposta>
 <WRAP Resposta>
 Algumas das respostas possíveis para este problema são:
 {{ :cap1:secoes:hexagonos_licao_um.jpg?900 |}}
