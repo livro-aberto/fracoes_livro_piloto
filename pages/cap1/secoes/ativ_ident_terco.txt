@@ -19,7 +19,7 @@ Em cinco das figuras a seguir a parte em vermelho é um terço da figura. Identi
 {{ :cap1:secoes:um_terco_vermelho.jpg?500 |}}
 
 <hidden Resposta>
-<WRAP Resposta>
+<WRAP resposta>
 A parte em vermelho representa um terço da figura nos itens C), D), E), F) e H). 
 </WRAP>
 </hidden>
