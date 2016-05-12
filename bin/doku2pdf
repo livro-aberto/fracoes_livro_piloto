@@ -18,10 +18,14 @@ while read p; do
   # pandoc /var/www/pdf/$t.md -f markdown -t latex -s -o /var/www/pdf/$t.tex
   lua5.1 /var/www/livro/data/gitrepo/bin/dw2tex.lua ${p} /var/www/pdf/${t}.tex || true
   (cd $d; pdflatex -interaction nonstopmode $t > /tmp/222 || true)
+  lua5.1 /var/www/livro/data/gitrepo/bin/dw2tex.lua ${p} /var/www/pdf/${t}_aluno.tex aluno || true
+  (cd $d; pdflatex -interaction nonstopmode ${t}_aluno > /tmp/222 || true)
   # rm /var/www/pdf/$t.tex
   # rm -f /var/www/pdf/$t.log
   rm -f /var/www/pdf/$t.out
   rm -f /var/www/pdf/$t.aux
+  rm -f /var/www/pdf/${t}_aluno.out
+  rm -f /var/www/pdf/${t}_aluno.aux
 done < /tmp/list_of_files
 
 

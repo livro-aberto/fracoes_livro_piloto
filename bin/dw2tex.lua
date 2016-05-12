@@ -2,6 +2,10 @@ file = io.open (arg[1], "r")
 doc = file:read("*a")
 io.close(file)
 
+if arg[3] == "aluno" then
+  livrodoaluno = 1
+end
+
 --inspect = require"inspect"
 
 function tprint (tbl, indent)
@@ -180,9 +184,11 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'error' then
         outstr = outstr .. formatting .. '( ERRO:\\{' .. formatsimple:match(v.value) .. '\\} )'
      elseif (v.tag) == 'wrap' then
-        outstr = outstr .. formatting .. '\\begin{' .. v.type .. '}[breakable]{}{}'
-        outstr = outstr .. texprint(v.value, indent + 1)
-        outstr = outstr .. formatting .. '\\end{' .. v.type .. '}'
+	if (v.type ~= "professor" or not livrodoaluno) then
+          outstr = outstr .. formatting .. '\\begin{' .. v.type .. '}[breakable]{}{}'
+          outstr = outstr .. texprint(v.value, indent + 1)
+          outstr = outstr .. formatting .. '\\end{' .. v.type .. '}'
+        end
      end
    end
    return outstr
