@@ -1,6 +1,6 @@
 ===== Edição =====
 
-A edição deste arquivo deve seguir a seguinte [[sintaxe]] que você pode testar na nossa [[sandbox]].
+A edição deste livro deve seguir a seguinte [[sintaxe]] que você pode testar na nossa [[sandbox]].
 
 ===== Navegação de capítulos ======
 
