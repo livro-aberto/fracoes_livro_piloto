@@ -4,29 +4,29 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade6}}
+{{page>cap3:secoes:ativ_grad_unidade6}}
 
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade}}
+{{page>cap3:secoes:ativ_grad_unidade}}
 
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade2}}
+{{page>cap3:secoes:ativ_grad_unidade2}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade3}}
+{{page>cap3:secoes:ativ_grad_unidade3}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade4}}
+{{page>cap3:secoes:ativ_grad_unidade4}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad unidade5}}
+{{page>cap3:secoes:ativ_grad_unidade5}}
 
 
 
@@ -38,11 +38,11 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_Varal dos numeros}}
+{{page>cap3:secoes:ativ_Varal_dos_numeros}}
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_fracoes na reta}}
+{{page>cap3:secoes:ativ_fracoes_na_reta}}
 
 
 ===== - Atividade =====

@@ -154,7 +154,9 @@ function texprint (tbl, indent)
         outstr = outstr .. formatting .. formatsimple:match(v.value)
         --print(formatting .. v.value)
      elseif (v.tag) == 'include' then
+        print(v.value)
         local includefilename = formatinclude:match(v.value)
+        print(includefilename)
         includefile = io.open(includefilename, 'r')
         if (includefile) then
            local includestring = includefile:read("*all")
