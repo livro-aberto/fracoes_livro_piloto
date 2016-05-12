@@ -1,4 +1,8 @@
-Classificações: Conceito: identificar e descrever, Nível 1: reconhecer, Observar: identificar e reconhecer
+<hidden Classificações>
+  * Conceito: identificar e descrever
+  * Nível 1: reconhecer
+  * Observar: identificar e reconhecer
+</hidden>
 
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
