@@ -13,20 +13,18 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-  - {{:undefined:completar-o-todo-disco.jpg?30}} é metade de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-disco.jpg?30}} é um terço de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-disco.jpg?30}} é um quarto de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é metade de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é um terço de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é um quarto de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-segmento.jpg?30}} é metade de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-segmento.jpg?30}} é um terço de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-segmento.jpg?30}} é um quarto de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é metade de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é um terço de uma figura. Complete a figura para obter o todo.
-  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é um quarto de uma figura. Complete a figura para obter o todo.
-
-
+  - {{:undefined:completar-o-todo-disco.jpg?30}} é metade de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-disco.jpg?30}} é um terço de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-disco.jpg?30}} é um quarto de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é metade de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é um terço de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-quadrado.jpg?30}} é um quarto de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-segmento.jpg?30}} é metade de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-segmento.jpg?30}} é um terço de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-segmento.jpg?30}} é um quarto de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é metade de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é um terço de uma figura. Complete a figura para obter a unidade.
+  - {{:undefined:completar-o-todo-triangulo.jpg?40}} é um quarto de uma figura. Complete a figura para obter a unidade.
 
 <hidden Resposta>
 <WRAP resposta>
