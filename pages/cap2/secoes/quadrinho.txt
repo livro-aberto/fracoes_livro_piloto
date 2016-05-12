@@ -44,16 +44,6 @@ Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, que um quar
 
 Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro, 10, 11, 12... e não um embaixo do outro como você mostrou aí!
 
-<hidden H: sobre a historinha - 25/04>
-Eu incluiria como exemplo as porcas em polegadas, pois acho que é o exemplo de uso de frações no dia a dia que menos força a barra.
-
-</hidden> Cataldo: acho que as medidas em polegadas constituem um bom exemplo nesse lugar e na parte em que aparece o conceito de equivalência.
-
-<hidden L: sobre a histórinha - 23/04> **L**: Adorei a ideia da histórinha! :) Fiquei com algumas dúvidas: #1: o menino faltou à aula e aprendeu mais em casa? Talvez, ao invés de a mãe ter ensinado frações a ele, a história possa contar que ele leu em algum livro. #2: Essa última fala da Alice, a expressão " Os números ficam um ao lado do outro e não um embaixo do outro!" pode não ser entendida como pretendido. Acho que é importante ilustrar.
-
-**FS:** #1: A ideia da criança estudar com a mãe em casa quando falta à aula é educativa. Mas você tem razão! Eu queria que ele tivesse aprendido apenas os nomes e símbolos em casa, sem os conceitos. Mas quando preenchi o que Miguel colocou no quadro, deixei ele ninja nas frações. Simplifiquei agora, veja se melhorou. #2: Não entendi o que você quis dizer com a possível má interpretação da frase da Alice. De todo modo tentei deixar mais claro o que ela quis dizer. Veja se melhorou.
-</hidden>
-
 **Quadrinho 4**
 A professora aparece no quadro
 
@@ -69,4 +59,16 @@ Miguel: Minha mãe sabe do que está falando. Hoje no ônibus ela me mostrou fra
 Alice: Mas a professora não falou disso...
 
 Professora: Crianças, não briguem, os dois estão certos. Vamos falar disso na lição de hoje.
+
+<hidden Discussão sobre a historinha>
+**23/04 L:** Adorei a ideia da histórinha! :) Fiquei com algumas dúvidas: #1: o menino faltou à aula e aprendeu mais em casa? Talvez, ao invés de a mãe ter ensinado frações a ele, a história possa contar que ele leu em algum livro. #2: Essa última fala da Alice, a expressão " Os números ficam um ao lado do outro e não um embaixo do outro!" pode não ser entendida como pretendido. Acho que é importante ilustrar.
+
+**FS:** #1: A ideia da criança estudar com a mãe em casa quando falta à aula é educativa. Mas você tem razão! Eu queria que ele tivesse aprendido apenas os nomes e símbolos em casa, sem os conceitos. Mas quando preenchi o que Miguel colocou no quadro, deixei ele ninja nas frações. Simplifiquei agora, veja se melhorou. #2: Não entendi o que você quis dizer com a possível má interpretação da frase da Alice. De todo modo tentei deixar mais claro o que ela quis dizer. Veja se melhorou.
+
+**25/04 HB:** Eu incluiria como exemplo as porcas em polegadas, pois acho que é o exemplo de uso de frações no dia a dia que menos força a barra.
+
+**Cataldo:** acho que as medidas em polegadas constituem um bom exemplo nesse lugar e na parte em que aparece o conceito de equivalência.
+
+**12/05 FS:** Fico com a impressão de que as porcas em polegadas estão um pouco distantes da realidade dos estudantes. Que tal se o pai do Miguel mostrar para ele algumas porcas de tamanhos diferentes?
+</hidden>
 </WRAP>
