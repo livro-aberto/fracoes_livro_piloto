@@ -1,5 +1,6 @@
 <hidden H (2016-05-09): dúvida sobre outras formas de leitura de frações>
 Evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável? Vamos/devemos tratar disto com o professor?
+**FS:** A ideia que o estudante deve ter na cabeça é de que a unidade foi dividida em $b$ partes iguais e estamos considerando $a$ cópias de uma destas partes. Na cabeça do estudante isso pode estar bem distante de dividir $a$ unidades entre $b$ pessoas. Este salto deve ser feito com bastante cuidado a meu ver.
 </hidden>
 
 ====== LIÇÃO 2 - Multiplicando a fração da unidade ======
