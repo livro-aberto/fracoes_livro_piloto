@@ -27,7 +27,7 @@ Em cada uma das imagens, a parte colorida é uma fração da figura. Essas fraç
 
 <WRAP imagem> 
 
-{{ :undefined:ummeio_umquarto_um_decimo.jpg?300 |}}
+{{ :undefined:ummeio_umquarto_um_decimo.jpg?600 |}}
 
 
 </WRAP>
@@ -39,7 +39,3 @@ Em cada uma das imagens, a parte colorida é uma fração da figura. Essas fraç
 </WRAP>
 </hidden>
 
-<hidden OBSERVAÇÕES>
-HB: a exemplo da letra (L), acho bom sempre tentar incluir objetos 3D (copos com líquidos por exemplo).
-LET: Concordo.
-</hidden>
