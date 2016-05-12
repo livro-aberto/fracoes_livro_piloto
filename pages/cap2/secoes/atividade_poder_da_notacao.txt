@@ -1,4 +1,7 @@
-<hidden Classificações: [Produto: gerar | Nível 5: converter (simbolizar) | Interpretar: discriminar]>
+<hidden Classificações>
+  * Produto: gerar
+  * Nível 5: converter (simbolizar)
+  * Interpretar: discriminar
 </hidden>
 
 <WRAP professor>
