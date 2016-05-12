@@ -1,4 +1,7 @@
-<hidden Classificações: [Conceito: identificar | Nível 1: reconhecer | Observar: identificar/nomear]>
+<hidden Classificações>
+  * Conceito: identificar
+  * Nível 1: reconhecer
+  * Observar: identificar, nomear
 </hidden>
 
 <WRAP professor>
