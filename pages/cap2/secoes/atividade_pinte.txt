@@ -1,4 +1,9 @@
-<hidden Classificações: [Conceito: identificar; Produto: gerar | Nível 1: reconhecer; Nível 5: converter (simbolizar) | Interpretar: discriminar]>
+<hidden Classificações>
+  * Conceito: identificar
+  * Produto: gerar
+  * Nível 1: reconhecer
+  * Nível 5: converter (simbolizar)
+  * Interpretar: discriminar
 </hidden>
 
 <WRAP professor>
