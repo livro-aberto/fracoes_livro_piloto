@@ -99,7 +99,7 @@
 
 ===== - Atividade =====
 
-{{page>cap2:secoes:atividade_importancia da unidade}}
+{{page>cap2:secoes:atividade_importancia_da_unidade}}
 
 
 /*
