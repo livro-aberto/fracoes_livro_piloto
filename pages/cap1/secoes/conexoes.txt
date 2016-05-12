@@ -65,7 +65,25 @@ Por exemplo,
 **Um homem entregando um saco de ouro a um rei e ficando com outros 4 sacos**
 </hidden> </WRAP>
 
+<hidden OBSERVAÇÕES DE 12 DE MAIO>
+Sugiro substituir os três primeiros parágrafos desta seção pelo seguinte:
 
+Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. 
+Nesta e nas próximas lições você vai conhecer novos números! 
+Esses números são necessários para registrar quantidades em algumas situações como nas atividades acima. 
+Veja os exemplos das frases abaixo:
+
+a. Cada irmão ganhou um terço da barra de chocolate.\\
+b. A criança comeu um quarto de pizza.\\
+c. Preciso de um quarto do barbante para prender cada estrela.\\
+d. Eu tomei a metade de um copo de leite.
+e. Em uma casa vivem três crianças.\\
+f. Eu vi oito pássaros voando juntos.
+
+Em cada um desses casos a barra de chocolate, a pizza, o barbante, o copo de leite, uma criança e um pássaro pode ser chamado de unidade. 
+As quantidades registradas se referem a esta unidade. 
+Cada uma das partes em que essas unidades foram repartidas é uma fração da unidade. 
+</hidden>
 
 <hidden OBSERVAÇÕES DE 22 DE ABRIL>
 **LR:** 
