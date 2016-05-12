@@ -117,4 +117,11 @@ O aluno deve ser capaz de:
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
 
+<hidden OBS 12/05/2016>
+**FS:** 
+
+1. No primeiro objetivo específico da lição eu usaria "**Reconhecer** as frações não unitárias (próprias e impróprias) **como** justaposição de partes correspondentes às frações unitárias.
+
+2. Também acho que cabe um parágrafo dizendo explicitamente que apesar desta lição introduzir a linguagem simbólica de frações, o estudante ainda não precisa ter um significado para a expressão $\frac{a}{b}$ sem uma unidade concreta: "$\frac{a}{b}$ da unidade". Na próxima lição o número $\frac{a}{b}$ pode ser definido como a fração $\frac{a}{b}$ do número 1.
+</hidden>
 </WRAP>
