@@ -1,6 +1,11 @@
-<hidden Classificações: [Conceito: identificar/descrever | Nível 1: reconhecer | Observar: identificar/reconhecer]>
-</hidden>
-<hidden Itens (3) e (4): [Raciocínio: justificar | Nível 6: justificar | Avaliar: julgar]>
+<hidden Classificações>
+  * Conceito: identificar, descrever
+  * Nível 1: reconhecer
+  * Observar: identificar, reconhecer
+Itens (3) e (4)
+  * Raciocínio: justificar
+  * Nível 6: justificar
+  * Avaliar: julgar
 </hidden>
 
 /*
