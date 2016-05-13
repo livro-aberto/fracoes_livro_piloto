@@ -19,34 +19,42 @@
 </hidden>
 <hidden Lição 1>
   * [[cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap1_aluno.pdf|pdf do aluno]]
   * [[cap1:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 2>
   * [[cap2:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap2_aluno.pdf|pdf do aluno]]
   * [[cap2:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 3>
   * [[cap3:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap3_aluno.pdf|pdf do aluno]]  
   * [[cap3:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 4>
   * [[cap4:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap4_aluno.pdf|pdf do aluno]]  
   * [[cap4:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 5>
   * [[cap5:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap5_aluno.pdf|pdf do aluno]]  
   * [[cap5:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 6>
   * [[cap6:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap6_aluno.pdf|pdf do aluno]]  
   * [[cap6:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 7>
   * [[cap7:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap7_aluno.pdf|pdf do aluno]]  
   * [[cap7:secoes:atividades_extras|atividades extras]]
 </hidden>
 <hidden Lição 8>
   * [[cap8:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]]
+  * [[https://www.umlivroaberto.com/pdf/cap8_aluno.pdf|pdf do aluno]]  
   * [[cap8:secoes:atividades_extras|atividades extras]]
 </hidden>
 
