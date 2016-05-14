@@ -1,12 +1,13 @@
 <hidden Classificações>
-  * Conceito: identificar, descrever
-  * Nível 1: reconhecer
-  * Observar: identificar, reconhecer
+  * Heid et al.: dentificar, descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, reconhecer
 Itens (3) e (4)
-  * Raciocínio: justificar
-  * Nível 6: justificar
-  * Avaliar: julgar
+  * Heid et al.: Raciocínio: justificar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
 </hidden>
+
 
 /*
 <hidden OBS - 23/04 - Réplica de H e F em 25/04; Let em 26/04; H em 01/05>
