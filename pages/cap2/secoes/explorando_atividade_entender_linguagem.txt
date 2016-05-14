@@ -1,8 +1,9 @@
 <hidden Classificações>
-  * Conceito: identificar
-  * Nível 1: reconhecer
-  * Observar: identificar, nomear
+  * Heid et al.: Conceito: identificar
+  * Nicely, Jr.: reconhecer
+  * UERJ: Observar: identificar, nomear
 </hidden>
+
 
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
