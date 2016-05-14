@@ -1,6 +1,6 @@
 <hidden Classificações>
   * Heid et al.: Conceito: elaborar/identificar; Produto: gerar
-  * Nicely, Jr.: converter (simbolizar), gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar), gerar
   * UERJ: Interpretar: discriminar, compor e decompor
 </hidden>
 
