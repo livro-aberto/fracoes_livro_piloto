@@ -1,3 +1,10 @@
+<hidden Classificações>
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: relacionar
+  * UERJ: Interpretar: compor e decompor
+</hidden>
+
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
     * Recompor a unidade a partir de uma fração dada em modelo contínuo, incluindo o caso de frações impróprias. 
