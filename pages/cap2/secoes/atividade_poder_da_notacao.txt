@@ -1,8 +1,9 @@
 <hidden Classificações>
-  * Produto: gerar
-  * Nível 5: converter (simbolizar)
-  * Interpretar: discriminar
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
 </hidden>
+
 
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
