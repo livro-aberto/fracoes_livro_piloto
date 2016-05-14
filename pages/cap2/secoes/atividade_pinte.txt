@@ -1,10 +1,9 @@
 <hidden Classificações>
-  * Conceito: identificar
-  * Produto: gerar
-  * Nível 1: reconhecer
-  * Nível 5: converter (simbolizar)
-  * Interpretar: discriminar
+  * Heid et al.: Conceito: identificar; Produto: gerar
+  * Nicely, Jr.: Nível 1: reconhecer; Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
 </hidden>
+
 
 <WRAP professor>
 Objetivos específicos: Levar o aluno a: 
