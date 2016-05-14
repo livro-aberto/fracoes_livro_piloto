@@ -1,3 +1,4 @@
+/*
 <hidden Classificações>
   * Conceito: elaborar, identificar
   * Produto: gerar
@@ -5,6 +6,13 @@
   * Nível 6: analisar, justificar
   * Interpretar: discriminar, compor e decompor
   * Analisar: transferir conhecimentos
+</hidden>
+*/
+
+<hidden Classificações>
+  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar; Raciocínio: justificar 
+  * Nicely, Jr.: Nível 6: analisar/justificar
+  * UERJ: Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos
 </hidden>
 
 <WRAP professor>
