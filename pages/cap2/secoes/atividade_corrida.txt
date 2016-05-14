@@ -1,6 +1,6 @@
 <WRAP professor>
 
-Objetivos específicos: 
+Objetivos específicos: Levar o aluno a
 
   * Levar o aluno a construir frações em termos de comprimentos de segmentos em uma semirreta como uma preparação para a reta numérica.
 </WRAP>
@@ -11,52 +11,41 @@ A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou 
 
 {{ :cap2:secoes:corrida-01.png?1200 |}}
 
+Sabe-se que:
 
-(A) O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Matheus.
+(A) O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas.
 
-{{ :cap2:secoes:corrida-01.png?1200 |}}
+(B) O carrinho de Heitor conseguiu ir $\frac{3}{2}$ da distância do carrinho de Lucas. 
 
-(B) O carrinho de Heitor conseguiu ir $\frac{3}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Heitor.
+(C) O carrinho de Rafael conseguiu ir $\frac{4}{2}$ da distância do carrinho de Lucas.
 
-{{ :cap2:secoes:corrida-01.png?1200 |}}
+(D) O carrinho de Enzo conseguiu ir $\frac{5}{2}$ da distância do carrinho de Lucas. 
 
-(C) O carrinho de Rafael conseguiu ir $\frac{4}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Heitor.
+(E) O carrinho de Nicolas conseguiu ir $\frac{6}{2}$ da distância do carrinho de Lucas. 
 
-{{ :cap2:secoes:corrida-01.png?1200 |}}
+(F) O carrinho de Lorenzo conseguiu ir $\frac{6}{4}$ da distância do carrinho de Lucas. 
 
-(D) O carrinho de Enzo conseguiu ir $\frac{5}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Enzo.
+(G) O carrinho de Guilherme conseguiu ir o dobro da distância do carrinho de Lucas.
 
-{{ :cap2:secoes:corrida-01.png?1200 |}}
+(H) O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. 
 
-
-(E) O carrinho de Nicolas conseguiu ir $\frac{6}{2}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Nicolas.
-
-{{ :cap2:secoes:corrida-01.png?1200 |}}
-
-
-(F) O carrinho de Lorenzo conseguiu ir $\frac{6}{4}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Lorenzo.
+Com estas informações, marque as posições dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
 
 {{ :cap2:secoes:corrida-01.png?1200 |}}
 
-
-(G) O carrinho de Guilherme conseguiu ir o dobro da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Guilherme.
-
-{{ :cap2:secoes:corrida-01.png?1200 |}}
-
-(H) O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. Marque na figura abaixo onde parou o carrinho de Samuel.
-
-{{ :cap2:secoes:corrida-01.png?1200 |}}
-
+/*
 <hidden L:16-05-02>
 
 O que acham de ser uma pista só e todos os corredores serem marcados na mesma pista? Nesse caso, sugiro ter um encarte.
 
 Cataldo: acho que para cada corredor deve haver uma pista. Todavia, deve haver mais uma pista para que seja pedido que o aluno marque as posições, determinadas antes, de todos os corredores. 
 </hidden>
+*/
+
 
 <hidden Resposta>
 <WRAP resposta>
-{{ :cap2:secoes:corrida-resposta-01.png?1200 |}}
+{{ :cap2:secoes:corrida-resposta-01.png?1500 |}}
 </WRAP>
 </hidden>
 
