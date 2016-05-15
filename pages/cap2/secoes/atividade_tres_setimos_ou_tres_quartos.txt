@@ -3,7 +3,8 @@
 Objetivo específico: Levar o aluno a
   * Perceber que se uma unidade foi dividida em $n + m$ partes iguais, das quais $n$ foram pintadas, então $\frac{n}{m}$ **não especifica** a fração da unidade que foi pintada.
 
-Observações:
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma. 
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
 </hidden>
