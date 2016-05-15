@@ -5,7 +5,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade: 
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma. 
-  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
+  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos. Assim, esta atividade é uma oportunidade para reforçar os papeis do denominador e do numerador na notação simbólica matemática para frações: o denominador especifica o número de partes iguais na qual a unidade foi dividida e o numerador especifica o número de cópias que foram tomadas de uma destas partes.
 </WRAP>
 </hidden>
 
