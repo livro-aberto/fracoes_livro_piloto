@@ -1,18 +1,19 @@
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: 
   * Reforçar, no contexto de frações não unitárias de que, por exemplo, o fato de uma figura estar divida em 5 partes e 3 delas estarem pintadas de vermelho, **não necessariamente implica** que a parte pintada é $3/5$ da figura.
   * Exercitar a capacidade de argumentação do aluno
 
-
 Observações:
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
+</hidden>
 
 Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
 
 {{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
 
-<hidden Comentários>
+<hidden Comentários:>
 **EN: 16-05-02** Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão. Os objetivos devem se referir mais aos tópicos/aspectos matemáticos da questão.
 
 Por exemplo, o primeiro objetivo poderia ser:
