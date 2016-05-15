@@ -1,3 +1,10 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: identificar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Observar: identificar e reconhecer
+</hidden>
+
+
 /* <hidden Para o professor> */
 <WRAP professor>
 Objetivo específico: Levar o aluno a
