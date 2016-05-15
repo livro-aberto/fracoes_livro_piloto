@@ -1,20 +1,20 @@
-<hidden Classificações>
-  * Heid et al.: Produto: gerar
-  * Nicely, Jr.: Nível 5: converter (simbolizar)
-  * UERJ: Interpretar: discriminar
-</hidden>
-
-
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
     * Comparar diversas maneiras de se representar uma fração (por extenso, simbolicamente e graficamente). 
     * Discutir aspectos dessas representações. 
+
+Classificações:
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
 
 Observações:
     * Essa é uma atividade que o aluno pode fazer individualmente. 
     * É possível que os alunos utilizem frações equivalentes como resposta para um mesmo item. Por exemplo, as frações $\frac{4}{12}$, $\frac{2}{6}$ e $\frac{1}{3}$  descrevem corretamente a quantidade de pizza consumida por Pedro. Nestes casos, dê a oportunidade para que cada aluno explique como chegou a sua resposta pois, procedendo desta maneira, mesmo de forma pontual, os alunos perceberão que uma mesma quantidade pode ser descrita por frações com nomes diferentes, um preparo para o assunto de frações equivalentes que será tratado na Lição 4.
     * Esta atividade procura mostrar uma das qualidades da notação simbólica matemática: expressar um conceito com economia de escrita. Mas sua importância vai muito mais além: ela é uma ferramenta de pensamento que permite encapsular detalhes, simplificar procedimentos, abstrair e generalizar conceitos. Assim, é muito importante fazer com que seus alunos se familiarizem com a notação simbólica matemática para frações: ela será fundamental nas lições sobre operações com frações.
 </WRAP>
+</hidden>
 
 /*
 <hidden L(16-05-02):>
