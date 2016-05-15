@@ -1,10 +1,12 @@
 /* <hidden Para o professor> */
 <WRAP professor>
-Objetivos específicos: 
+Objetivo específico: Levar o aluno a
+  * Analisar uma situação envolvendo frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração.  
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Essa é uma atividade que o aluno pode fazer individualmente. 
   * Reforçar, no contexto de frações não unitárias de que, por exemplo, o fato de uma figura estar divida em 5 partes e 3 delas estarem pintadas de vermelho, **não necessariamente implica** que a parte pintada é $3/5$ da figura.
   * Exercitar a capacidade de argumentação do aluno
-
-Observações:
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
 </hidden>
@@ -13,6 +15,7 @@ Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corre
 
 {{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
 
+/*
 <hidden Comentários:>
 **EN: 16-05-02** Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão. Os objetivos devem se referir mais aos tópicos/aspectos matemáticos da questão.
 
@@ -21,4 +24,4 @@ Apresentar frações em representação por meio de figuras cujas repartição n
 
 Além disso, o segundo objetvo parece mais adequado ser discutido nas observações/recomendações.
 </hidden>
-
+*/
