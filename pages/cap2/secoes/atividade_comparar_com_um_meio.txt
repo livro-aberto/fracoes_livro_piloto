@@ -2,6 +2,10 @@
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações com relação a uma fração de referência (no caso, a fração $\frac{1}{2}$) usando modelos de área.
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Essa é uma atividade que o aluno pode fazer individualmente. 
+  * Incentive seus alunos a darem justificativas para suas respostas, mesmo que informais.
 </WRAP>
 </hidden>
 
