@@ -1,5 +1,17 @@
-<WRAP professor>
+<hidden Classificações>
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: relacionar
+  * UERJ: Interpretar: compor e decompor
 
+Para a pergunta sobre as posições dos carrinhos de Rafael e Samuel:
+  * Heid et al.: Racioncínio: justificar
+  * Nicely, Jr.: Nível 6: explicar
+  * UERJ: Interpretar: explicar, compor e decompor
+
+</hidden>
+
+
+<WRAP professor>
 Objetivos específicos: Levar o aluno a
 
   * Marcar em uma semirreta pontos cujas distâncias até um ponto de referência são frações do comprimento de um segmento dado.
@@ -36,9 +48,11 @@ Sabe-se que:
 
 (H) O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. 
 
-Com estas informações, marque as posições dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
+Com estas informações, marque as posições de parada dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
 
 {{ :cap2:secoes:corrida-01.png?1200 |}}
+
+Os carrinhos de Rafael e Samuel pararam no mesmo lugar? Explique.
 
 /*
 <hidden L:16-05-02>
