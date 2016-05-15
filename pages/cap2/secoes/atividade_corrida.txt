@@ -12,7 +12,7 @@ Para a pergunta sobre as posições dos carrinhos de Rafael e Samuel:
 
 
 <WRAP professor>
-Objetivos específicos: Levar o aluno a
+Objetivo específico: Levar o aluno a
 
   * Marcar em uma semirreta pontos cujas distâncias até um ponto de referência são frações do comprimento de um segmento dado.
 
