@@ -37,6 +37,11 @@
 
 ===== - Atividade =====
 
+{{page>cap2:secoes:atividade_comparacao_de_fracoes}}
+
+
+===== - Atividade =====
+
 {{page>cap2:secoes:atividade_pinte}}
 
 ===== - Atividade =====
@@ -61,10 +66,6 @@
 
 {{page>cap2:secoes:atividade_quantos_cabem}}
 */
-
-===== - Atividade =====
-
-{{page>cap2:secoes:atividade_comparacao_de_fracoes}}
 
 
 /*
