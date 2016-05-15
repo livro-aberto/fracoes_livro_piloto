@@ -8,23 +8,16 @@ Observações:
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
 
+Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
 
-<hidden L:16-05-02>
-Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão. Os objetivos devem se referir mais aos tópicos/aspectos matemáticos da questão.
+{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
+
+<hidden Comentários>
+**EN: 16-05-02** Acho que os objetivos estão com uma linguagem que mais parece das orientações e recomendações ao professor. Quando essa parte estiver pronta, acho que cabe uma revisão. Os objetivos devem se referir mais aos tópicos/aspectos matemáticos da questão.
 
 Por exemplo, o primeiro objetivo poderia ser:
 Apresentar frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração. 
 
 Além disso, o segundo objetvo parece mais adequado ser discutido nas observações/recomendações.
-
 </hidden>
-
-
-
-
-Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
-
-{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
-
-
 
