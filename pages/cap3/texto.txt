@@ -9,12 +9,14 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad_unidade}}
+{{page>cap3:secoes:ativ_grad_unidade2}}
 
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad_unidade2}}
+{{page>cap3:secoes:ativ_grad_unidade}}
+
+
 
 ===== - Atividade =====
 
