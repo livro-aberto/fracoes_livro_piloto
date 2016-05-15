@@ -70,16 +70,14 @@ a. Frisar na introdução o pré-requisito da reta numérica.
 Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
 
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
-
 </hidden>
+
 <hidden Comentários gerais sobre a lição>
 **HB 2016-05-09:** dúvida sobre outras formas de leitura de frações
 Evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável? Vamos/devemos tratar disto com o professor?
 **FS:** A ideia que o estudante deve ter na cabeça é de que a unidade foi dividida em $b$ partes iguais e estamos considerando $a$ cópias de uma destas partes. Na cabeça do estudante isso pode estar bem distante de dividir $a$ unidades entre $b$ pessoas. Este salto deve ser feito com bastante cuidado a meu ver.
-</hidden>
 
-/*
-<hidden H (2016-04-25): a/b com b maior do que 10?>
+**HB (2016-04-25): a/b com b maior do que 10?**
 A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é o que está acontecendo nas atividades. Contudo, acho que na sistematização (conexões) poderíamos apresentar as frações gerais. A tecnologia poderia ajudar nisto: 
 
 [[http://tube.geogebra.org/m/2966755|{{cap2:secoes:fracoes-01.jpg?300}}]]
@@ -87,20 +85,16 @@ A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é 
 
 Permitindo frações com denominadores maiores, via tecnologia, o aluno poderá vivenciar visualmente melhor a comparação de frações (quando a unidade é divida em mais partes, cada parte fica menor), a propriedade de densidade (frações que ficam arbitrariamente próximas de zero, logo, próximas de qualquer número).
 
-**LET**: Concordo. Ainda que não esteja nos objetivos da lição. Eles já conhecem até décimos, há necessidade de incluir o termo "avos" ao vocabulário deles. 
+**EN**: Concordo. Ainda que não esteja nos objetivos da lição. Eles já conhecem até décimos, há necessidade de incluir o termo "avos" ao vocabulário deles. 
 
-</hidden>
-*/
-
-/*
-<hidden H (2016-04-25): vamos introduzir a notação $a \div b$?>
+**HB (2016-04-25): vamos introduzir a notação $a \div b$?**
 Em problemas de divisão (como é desta lição), costuma-se usar a notação $3 \div 4$. Vamos introduzir esta notação e relacioná-la com $\frac{3}{4}$?
 
-LET: (2016-04-26): Claro que a operação de divisão está implícita, mas não vejo necessidade de usar o símbolo neste momento. O foco está em outro registro simbólico.
-
+**EN (2016-04-26):** Claro que a operação de divisão está implícita, mas não vejo necessidade de usar o símbolo neste momento. O foco está em outro registro simbólico.
 </hidden>
-*/
 
+
+<hidden Para o professor>
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor do que ou igual ao denominador) como as impróprias (caso em que o numerador é maior do que o denominador).
 Também serão abordadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
@@ -116,6 +110,8 @@ O aluno deve ser capaz de:
   * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração $\frac{a}{b}$.
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
+</hidden>
+
 
 <hidden Comentários>
 **FS: 12/05/2016** 
