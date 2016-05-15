@@ -2,7 +2,7 @@
 
 Objetivos específicos: Levar o aluno a
 
-  * Representar frações em uma semirreta em termos de comprimentos de segmentos.
+  * Marcar em uma semirreta pontos cujas distâncias até um ponto de referência são frações do comprimentos de frações de um segmento dado.
 
 Observações:
   * Esta é uma atividade que pode ser realizada invididualmente.
