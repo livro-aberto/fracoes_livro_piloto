@@ -1,3 +1,9 @@
+<hidden Classificações>
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 9: avaliar
+  * UERJ: Avaliar: julgar
+</hidden>
+
 /* <hidden Para o professor> */
 <WRAP professor>
 Objetivo específico: Levar o aluno a
