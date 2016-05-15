@@ -12,8 +12,6 @@ Sophia disse para Arthur que a parte pintada de vermelho na figura a seguir corr
 
 {{ :cap2:secoes:tres-setimos-ou-tres-quartos.png?300 |}}
 
-<hidden L:16-0502>
-
-Os objetivos são bons e importantes. No entanto, acho que cabe rever a ideia de contextualização nas questões 16 e 17. Tudo poderia ser feito sem a historinha, apenas com a pergunta. 
-
+<hidden Comentários>
+**EN:16-05-02:** Os objetivos são bons e importantes. No entanto, acho que cabe rever a ideia de contextualização nas questões 16 e 17. Tudo poderia ser feito sem a historinha, apenas com a pergunta. 
 </hidden>
