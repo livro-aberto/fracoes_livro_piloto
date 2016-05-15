@@ -1,13 +1,15 @@
+<hidden Classificações>
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
+</hidden>
+
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
     * Comparar diversas maneiras de se representar uma fração (por extenso, simbolicamente e graficamente). 
     * Discutir aspectos dessas representações. 
-
-Classificações:
-  * Heid et al.: Produto: gerar
-  * Nicely, Jr.: Nível 5: converter (simbolizar)
-  * UERJ: Interpretar: discriminar
 
 Observações:
     * Essa é uma atividade que o aluno pode fazer individualmente. 
