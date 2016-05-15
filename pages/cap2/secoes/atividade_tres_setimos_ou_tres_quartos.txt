@@ -1,18 +1,25 @@
 /* <hidden Para o professor> */
 <WRAP professor>
-Objetivos específicos: 
-  * Fazer o aluno perceber que se uma unidade foi dividida em $n + m$ partes iguais, das quais $n$ foram pintadas, então $\frac{n}{m}$ **não especifica** a fração da unidade que foi pintada.
-  * Exercitar a capacidade de argumentação do aluno.
+Objetivo específico: Levar o aluno a
+  * Perceber que se uma unidade foi dividida em $n + m$ partes iguais, das quais $n$ foram pintadas, então $\frac{n}{m}$ **não especifica** a fração da unidade que foi pintada.
 
 Observações:
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos.
 </WRAP>
 </hidden>
 
-Sophia disse para Arthur que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{4}$ da figura, pois a figura tem 3 partes pintadas de vermelho e 4 partes pintadas de branco. Você concorda com a afirmação e a justificativa de Sophia? Explique! 
+A figura a seguir tem 3 partes pintadas de vermelho e 4 partes pintadas de branco. É correto afirmar que a parte pintada de vermelho corresponde a $\frac{3}{4}$ da figura? Explique.
 
 {{ :cap2:secoes:tres-setimos-ou-tres-quartos.png?300 |}}
 
+/*
 <hidden Comentários>
 **EN:16-05-02:** Os objetivos são bons e importantes. No entanto, acho que cabe rever a ideia de contextualização nas questões 16 e 17. Tudo poderia ser feito sem a historinha, apenas com a pergunta. 
+</hidden>
+*/ 
+
+<hidden Resposta>
+<WRAP resposta>
+A parte pintada de vermelho **não** corresponde a $\frac{3}{4}$ da figura. Ela corresponde a $\frac{3}{7}$ da figura. De fato: a figura foi dividida em $7$ partes iguais das quais $3$ foram pintadas.
+</WRAP>
 </hidden>
