@@ -1,4 +1,4 @@
-<hidden Para o professor>
+/* <hidden Para o professor> */
 <WRAP professor>
 Objetivos específicos: 
   * Fazer o aluno perceber que a fração depende da unidade escolhida.
