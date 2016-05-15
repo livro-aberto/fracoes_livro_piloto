@@ -1,13 +1,17 @@
 Frações: seu lugar é na reta numerada
 
 <WRAP professor> 
-Professor,  esta atividade tem por objetivo reforçar a relação entre a unidade e o número 1 da reta e assim localizar as frações do tipo 1/b e a/b na mesma reta.
-
-Recomendações:
-
-Esse trabalho deve ser desenvolvido em grupos de 3 ou 4 alunos e deve usar as representações das frações obtidas nas atividades anteriores deste capítulo.
-
+Objetivos específicos: Levar o aluno a
+  * Reforçar a relação entre a unidade e o número 1 da retanumérica. 
+  * Localizar as frações do tipo 1/b e a/b em uma mesma reta. 
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  * Recomenda-se que nesta atividade os alunos trabalhem no modo individual. 
+  * O professor deve orientá-los a escreverem cada fração correspondente a cada faixa pintada. 
 </WRAP>
+
+
 Na figura abaixo temos faixas com subdivisões do metro em cinco partes. Abaixo destas faixas há um trecho de reta numerada. Para cada faixa, pinte a fração correspondente que está à sua esquerda.
 {{ :cap3:secoes:faixas_quinto_e_reta.jpg?300 |}}
 
@@ -41,5 +45,5 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 <hidden Comentários>
-A figura de referencia apresenta a unidade de medida m e que não deve aparecer na figura construida pelo ilustrador.
+A figura de referencia apresenta a unidade de medida m e que não deve aparecer na figura construida pelo ilustrador. A reta abaixo das faixas deve iniciar antes do  zero e para cada valor esperado construir um pequno box para o aluno escrever a fração que ali será marcada.
 </hidden>
