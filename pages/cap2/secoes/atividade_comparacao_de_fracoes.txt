@@ -1,4 +1,4 @@
-<hidden Para o professor>
+/* <hidden Para o professor> */
 <WRAP professor>
 Objetivos específicos:
   * Exercitar a comparação de frações.
