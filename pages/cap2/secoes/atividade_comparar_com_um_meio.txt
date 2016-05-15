@@ -1,4 +1,4 @@
-<hidden Para o professor>
+/* <hidden Para o professor> */
 <WRAP professor>
 Objetivos específicos:
   * Fazer com que o aluno reconheça frações e as compare com uma fração de referência, no caso, a fração $\frac{1}{2}$.
