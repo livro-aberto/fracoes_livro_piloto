@@ -1,13 +1,15 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: identificar
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, nomear
+</hidden>
+
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" em diferentes modelos visuais de frações em situações onde há uma indicação explícita da unidade.
   * Compreender frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" como forma de identicar a quantidade equivalente a "$n$" cópias da fração unitária "$\frac{1}{m}$" (incluindo os casos em que $n \geq m$) em siutações onde há uma indicação explícita da unidade.
-
-Classificações:
-  * Heid et al.: Conceito: identificar
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar, nomear
 
 Observações:
   * Enquanto que nas atividades anteriores cópias múltiplas da unidade já estavam naturalmente disponíveis (as duas barras de chocolate na Atividade 1, as três tortas salgadas na Atividade 2, as várias tortas divididas em oito partes na confeitaria da Atividade 3), nesta atividade o aluno é levado a considerar frações apenas com a indicação de uma única cópia da unidade. Assim, a atividade é uma oportunidade para reforçar a compreensão de frações além do contexto parte-todo: espera-se que o aluno faça uma equipartição da unidade para definir uma fração unitária $\frac{1}{m}$ adequada da unidade e que, então, tome uma quantidade $n$ desta fração mesmo no caso em que $n > m$.
