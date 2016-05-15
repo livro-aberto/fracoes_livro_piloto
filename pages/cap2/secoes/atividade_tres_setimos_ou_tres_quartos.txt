@@ -1,4 +1,4 @@
-<hidden Para o professor>
+/* <hidden Para o professor> */
 <WRAP professor>
 Objetivos específicos: 
   * Fazer o aluno perceber que se uma unidade foi dividida em $n + m$ partes iguais, das quais $n$ foram pintadas, então $\frac{n}{m}$ **não especifica** a fração da unidade que foi pintada.
