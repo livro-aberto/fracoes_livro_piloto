@@ -1,3 +1,13 @@
+<hidden Classificações>
+  * Heid et al.: dentificar, descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, reconhecer
+Itens (3) e (4)
+  * Heid et al.: Raciocínio: justificar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
+</hidden>
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
@@ -6,16 +16,6 @@ Objetivos específicos: Levar o aluno a
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
   * Compreender e a usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos, incluindo os casos em que //n// é maior do que cinco (frações impróprias). 
   * Analisar uma situação de comparação de frações com o mesmo denominador. 
-
-Classificações:
-  * Heid et al.: dentificar, descrever
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar, reconhecer
-Itens (3) e (4)
-  * Heid et al.: Raciocínio: justificar
-  * Nicely, Jr.: Nível 6: justificar
-  * UERJ: Avaliar: julgar
-
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
