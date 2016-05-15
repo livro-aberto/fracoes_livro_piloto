@@ -8,7 +8,7 @@ Itens (3) e (4)
   * UERJ: Avaliar: julgar
 </hidden>
 
-/* <hidden Para o professor> */
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
