@@ -1,15 +1,27 @@
 /* <hidden Para o professor> */
 <WRAP professor>
-Objetivos específicos:
-  * Exercitar a comparação de frações.
+Objetivo específico: Levar o aluno a:
+  * Comparar frações a partir de representações usando modelos circulares.
 </WRAP>
 </hidden>
 
-Um grupo de amigos está dividindo duas pizzas do mesmo tamanho. A primeira pizza foi cortada em 6 fatias de mesmo tamanho. A segunda pizza foi dividida em 8 fatias iguais.
+Um grupo de amigos está dividindo duas pizzas circulares do mesmo tamanho. A primeira pizza foi cortada em 4 fatias de mesmo tamanho. A segunda pizza foi dividida em 8 fatias iguais.
 
-(A) Uma fatia da primeira pizza é que fração da pizza?
+(A) Uma fatia da primeira pizza é que fração da pizza? Responda usando notação simbólica matemática.
 
-(B) Uma fatia da segunda pizza é que fração da pizza?
+(B) Uma fatia da segunda pizza é que fração da pizza? Responda usando notação simbólica matemática.
 
-(C) Qual fatia tem mais quantidade de pizza: uma fatia da primeira pizza ou uma fatia da segunda pizza? Explique usando um desenho.
+(C) Qual fatia tem mais quantidade de pizza: uma fatia da primeira ou uma fatia da segunda pizza? Explique usando um desenho.
+
+<hidden Resposta>
+<WRAP resposta>
+(A) $\frac{1}{4}$.
+
+(B) $\frac{1}{8}$.
+
+(C) A primeira fatia tem mais quantidade pizza: o dobro da quantidade. Isto acontece porque são necessárias duas fatias da segunda pizza, como mostra o desenho a seguir.
+
+{{ :cap2:secoes:comparar-fatias-resposta-01.png?300 |}}
+</WRAP>
+</hidden>
 
