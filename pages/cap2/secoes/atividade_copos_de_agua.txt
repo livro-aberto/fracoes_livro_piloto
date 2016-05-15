@@ -6,7 +6,7 @@
 
 /* <hidden Para o professor> */
 <WRAP professor>
-Objetivos: Levar o aluno a
+Objetivos específicos: Levar o aluno a
   * Representar com notação simbólica matemática frações não unitárias em modelos tridimensionais no contexto de volume.
   * Analisar e resolver um problema no contexto da justaposição e contagem de partes correspondentes às frações unitárias com mesmo denominador.
 
