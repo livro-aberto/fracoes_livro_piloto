@@ -4,7 +4,7 @@
   * UERJ: Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos
 </hidden>
 
-<hidden Para o professor>
+/* <hidden Para o professor> */
 <WRAP professor>
 Objetivos: Levar o aluno a
   * Representar com notação simbólica matemática frações não unitárias em modelos tridimensionais no contexto de volume.
