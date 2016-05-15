@@ -1,7 +1,17 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Observar: Observar: identificar e reconhecer; Ordenar
+</hidden>
+
 /* <hidden Para o professor> */
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
   * Comparar frações a partir de representações usando modelos circulares.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.
+  * Em particular, incentive os alunos a argumentar, justificando a sua resposta.
 </WRAP>
 </hidden>
 
