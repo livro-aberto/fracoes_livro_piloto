@@ -1,10 +1,10 @@
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: 
   * Fazer o aluno perceber que a fração depende da unidade escolhida.
   * Exercitar a capacidade de argumentação do aluno.
 </WRAP>
-
-
+</hidden>
 
 (NAEP, 1992) Pense cuidadosamente nesta questão. Escreva uma resposta completa. Você pode usar desenhos, palavras e números para explicar sua resposta. Certifique-se de mostrar todo o seu raciocínio.
 
