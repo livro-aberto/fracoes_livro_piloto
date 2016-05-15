@@ -1,14 +1,26 @@
 /* <hidden Para o professor> */
 <WRAP professor>
-Objetivos específicos:
-  * Fazer com que o aluno reconheça frações e as compare com uma fração de referência, no caso, a fração $\frac{1}{2}$.
+Objetivo específico: Levar o aluno a
+  * Comparar frações com relação a uma fração de referência (no caso, a fração $\frac{1}{2}$) usando modelos de área.
 </WRAP>
 </hidden>
 
-Para cada figura a seguir, indique a fração que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual a metade de figura?
+Para cada figura a seguir, indique a fração da figura que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual a metade de figura?
 
 {{ :cap2:secoes:comparacao-01.png?500 |}}
 
+/*
 <hidden Comentários:>
 **EN: 16-05-02** Comparar frações com uma fração de referência (no caso, a fração $\frac{1}{2}$).
+</hidden>
+*/
+
+<hidden Resposta>
+<WRAP resposta>
+(A) A parte pintada da figura é exatamente igual a $\frac{1}{2}$ da figura.
+
+(B) A parte pintada da figura é menor do que $\frac{1}{2}$ da figura.
+
+(C) A parte pintada da figura é maior do que $\frac{1}{2}$ da figura.
+</WRAP>
 </hidden>
