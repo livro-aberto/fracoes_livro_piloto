@@ -31,6 +31,9 @@
 
 {{page>cap2:secoes:atividade_poder_da_notacao}}
 
+===== - Atividade =====
+
+{{page>cap2:secoes:atividade_comparar_com_um_meio}}
 
 ===== - Atividade =====
 
@@ -52,9 +55,6 @@
 
 {{page>cap2:secoes:atividade_corrida}}
 
-===== - Atividade =====
-
-{{page>cap2:secoes:atividade_comparar_com_um_meio}}
 
 /*
 ===== - Atividade =====
