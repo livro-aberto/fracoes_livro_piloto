@@ -1,18 +1,23 @@
-<WRAP professor>
-Objetivos específicos: Levar o aluno a construir a ideia abstrata de fração como um número da reta numérica. Desse modo pretendemos que a partir de agora a mencionarmos a fração 1/4 estaremos falando não mais 1/4 da faixa, mas, 1/4 da unidade.
-
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Construir a ideia abstrata de fração como um número da reta numérica. 
+  * Associar na reta numérica, a partir de modelos contínuos a unidade ao número 1 e as frações unitárias como parte da unidade e ão da faixa. Por exemplo, quando mencionamos 1/4, estaremos falando não mais 1/4 da faixa, mas, 1/4 da unidade.
+  
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * Recomenda-se que a atividade seja desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem sobre as possíveis soluções. 
+ 
+  * Deve ser desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem sobre as possíveis soluções. 
   * Faça cópias da fita necessária para o desenvolvimento da atividade, que está no disponível para reprodução (**Inserir LINK de página para reprodução**).
-  * No desenvolvimento da atividade, para identificar o marcação da fração 1/2 na fita, é possíel que alguns alunos dobrem a fita ao meio ao inves de dobrar a parte da fita correpondente à unidade (metade do "caminho" entre 0 e 1). Nesse caso, discuta com os alunos, conduzindo-os à reflexão sobre a marcação correta.
+  * No desenvolvimento da atividade, para identificar o marcação da fração 1/2 na fita, é possível que alguns alunos dobrem a fita ao meio ao inves de dobrar a parte da fita correpondente à unidade (metade do "caminho" entre 0 e 1). Nesse caso, discuta com os alunos, conduzindo-os à reflexão sobre a marcação correta.
   * É possível que alguns alunos façam procedimento análogo para marcar 1/4 e 3/4, fique atento;
-  * A discussão promovida pelo desenvolvimento da atividade deve levar os alunos a refletirem sobre a marcação do 4/4 e a sua coincidência com a marcação da unidade, ou seja, do 1.
+  * A discussão promovida pdurante a atividade deve levar os alunos a refletirem sobre a marcação do 4/4 e a sua coincidência com a marcação da unidade, ou seja, do 1.
   * É importante chamar atenção dos alunos no ítem d) para a localização da fração 5/4 e estabelecer um paralelo entre a barra que representava a unidade até aqui e o número 1 marcado na fita, obtido pela justaposição de 4 "pedaços" de tamanho 1/4 da barra e que formaram o número 1. Desejamos que o aluno compreenda que a fração 5/4 foi obtida pela adição de mais 1/4 da barra a esses 4 "pedaços" anteriores.  
+
 
 </WRAP>
 
 
-Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita de modo a fazer outras marcações além do 0 e do 1. Para isso faça dobras na fita de modo a marcar as frações 1/2, 1/4, 3/4 e 4/4.
+
+Você acabou de receber uma fita em que estão marcados os números 0 e 1. Você deve fazer dobras na fita de modo a fazer outras marcações além do 0 e do 1. Para isso faça as dobras de modo a marcar as frações 1/2, 1/4, 3/4 e 4/4 de modo a construir nessa fita uma reta numérica, marcando as frações aqui indicadas.
 
 
 {{:cap3:secoes:fita_1.jpg?200|}}
