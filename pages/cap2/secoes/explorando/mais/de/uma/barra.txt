@@ -1,3 +1,10 @@
+<hidden Classificações>
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+</hidden>
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
@@ -6,11 +13,6 @@ Objetivos específicos: Levar o aluno a
   * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição (ou à reunião) de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
   * Compreender e a usar a expressão "//n// terços de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em três partes (terços) (no caso, dois terços). 
   * Identificar a fração "//n// terços de" em uma situação de equipartição de mais do que uma unidade. 
- 
-Classificações:
-  * Heid et al.: Conceito: identificar e descrever
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar e reconhecer
 
 Observação:
   * A escolha de iniciar o assunto com um problema de divisão partitiva, no lugar do contexto parte-todo, se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva, frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que pode não ocorrer no contexto parte-todo (não parece natural nomear uma parte "maior" do que o todo). 
