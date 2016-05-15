@@ -1,13 +1,15 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: identificar; Produto: gerar
+  * Nicely, Jr.: Nível 1: reconhecer; Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
+</hidden>
+
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a: 
   * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
   * Utilizar linguagem simbólica para se referir a uma fração $\frac{a}{b}$.
-
-Classificações:
-  * Heid et al.: Conceito: identificar; Produto: gerar
-  * Nicely, Jr.: Nível 1: reconhecer; Nível 5: converter (simbolizar)
-  * UERJ: Interpretar: discriminar
 
 Observações:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
