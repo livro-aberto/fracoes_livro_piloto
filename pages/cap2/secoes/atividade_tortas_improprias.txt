@@ -1,3 +1,10 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: identificar, descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, reconhecer
+</hidden>
+
+
 <hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a   
@@ -5,11 +12,6 @@ Objetivos específicos: Levar o aluno a
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, oito).
   * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
   * Reconhecer que uma mesma quantidade pode ser expressa por frações equivalentes de uma mesma unidade (por exemplo, "meia torta" e "quatro oitavos de torta" representam a mesma quantidade de torta).
-
-Classificações:
-  * Heid et al.: Conceito: identificar, descrever
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar, reconhecer
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
