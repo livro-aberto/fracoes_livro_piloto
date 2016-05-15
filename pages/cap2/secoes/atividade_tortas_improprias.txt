@@ -1,16 +1,15 @@
-<hidden Classificações>
-  * Heid et al.: Conceito: identificar, descrever
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar, reconhecer
-</hidden>
-
-
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a   
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, oito).
   * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
   * Reconhecer que uma mesma quantidade pode ser expressa por frações equivalentes de uma mesma unidade (por exemplo, "meia torta" e "quatro oitavos de torta" representam a mesma quantidade de torta).
+
+Classificações:
+  * Heid et al.: Conceito: identificar, descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, reconhecer
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
@@ -19,8 +18,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos”, “dez oitavos" e “uma torta e dois oitavos”. 
   * As respostas esperadas para o Item (c) podem surgir na resolução do Item (b). Caso isso aconteça, recomenda-se que as frações corretas correspondentes a $4$ fatias de torta ($\frac{1}{2}$ de torta, $\frac{2}{4}$ de torta, $\frac{3}{6}$ de torta, etc.) sejam reconhecidas como tal, mas que, conforme solicitado pelo enunciado, a resposta deve ser dada em termos de oitavos. 
   * No Item (b), é importante estimular o aluno a dar uma explicação para sua resposta: por que você pensou em $\frac{1}{2}$ de torta? Por que você pensou em $\frac{3}{6}$ de torta? Etc.
-
 </WRAP>
+</hidden>
 
 Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que as tortas estavam divididas em 8 fatias, como na figura abaixo. 
 
@@ -33,9 +32,9 @@ b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sob
 
 /*
 <hidden H: encaminhamento do Item ( c ) (2016-01-05), L(16-05-02>
-**L (2016-05-02):** Por mim, o item (c) pode ser mantido. No entanto, acredito que a primeira resposta dos meninos ao item (b), ainda que se solicite explicitamente oitavos, seja 1/2. Nesse caso, o professor precisa ser alertado para o objetivo do item (que acho é "saber expressar a quantidade solicitada em oitavos"). Além disso, como posta a pergunta do item (c), a resposta poderia ser, por exmplo, 3/6. Como discutir isso com os alunos também precisa ser alertado para o professor. Temos que lembrar que "alunos surpreendem" e que "esse professor tem formação de pedagogia". Não me surpreenderia que a resposta 3/6, se dada por um aluno, fosse considerada errada pelo professsor. 
+**L (2016-05-02):** Por mim, o item c) pode ser mantido. No entanto, acredito que a primeira resposta dos meninos ao item (b), ainda que se solicite explicitamente oitavos, seja 1/2. Nesse caso, o professor precisa ser alertado para o objetivo do item (que acho é "saber expressar a quantidade solicitada em oitavos"). Além disso, como posta a pergunta do item c), a resposta poderia ser, por exmplo, 3/6. Como discutir isso com os alunos também precisa ser alertado para o professor. Temos que lembrar que "alunos surpreendem" e que "esse professor tem formação de pedagogia". Não me surpreenderia que a resposta 3/6, se dada por um aluno, fosse considerada errada pelo professsor. 
 
-**H (2016-05-01):** Particularmente, penso que o Item (c) poderia ser mantido como está por dois motivos: (1) o Item (b) pede explicitamente //oitavos// e outras frações podem não surgir e (2) acho bom ter explícito e registrado por escrito a ideia de se pedir uma outra fração para a mesma quantidade. O que vocês acham?
+**H (2016-05-01):** Particularmente, penso que o Item c) poderia ser mantido como está por dois motivos: (1) o Item (b) pede explicitamente //oitavos// e outras frações podem não surgir e (2) acho bom ter explícito e registrado por escrito a ideia de se pedir uma outra fração para a mesma quantidade. O que vocês acham?
 
 
 (**LET**: Talvez as respostas esperadas aqui surjam naturalmente no item anterior. Isso precisa ser observado para o professor. Na verdade, pode até ser uma recomendação de abordagem e nao um novo item da questão) 
