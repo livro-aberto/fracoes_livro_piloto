@@ -1,3 +1,9 @@
+<hidden Classificações>
+  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar; Raciocínio: justificar 
+  * Nicely, Jr.: Nível 6: analisar/justificar
+  * UERJ: Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos
+</hidden>
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos: Levar o aluno a
@@ -8,10 +14,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. É possível que os alunos utilizem frações equivalentes como resposta para um mesmo item. Por exemplo, para o copo (3), as frações $\frac{4}{8}$, $\frac{2}{4}$ e $\frac{1}{2}$ são respostas corretas. Nestes casos, dê a oportunidade para que cada aluno explique como chegou a sua resposta pois, procedendo desta maneira, mesmo de forma pontual, os alunos perceberão que uma mesma quantidade pode ser descrita por frações com nomes diferentes, um preparo para o assunto de frações equivalentes que será tratado na Lição 4.
 
-Classificações:
-  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar; Raciocínio: justificar 
-  * Nicely, Jr.: Nível 6: analisar/justificar
-  * UERJ: Interpretar: discriminar, compor e decompor; Analisar: transferir conhecimentos
 </WRAP>
 </hidden>
 /*
