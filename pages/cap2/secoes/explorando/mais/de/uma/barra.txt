@@ -4,7 +4,7 @@
   * UERJ: Observar: identificar e reconhecer
 </hidden>
 
-/* <hidden Para o professor> */
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
