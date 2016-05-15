@@ -1,8 +1,9 @@
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos:
   * Exercitar a comparação de frações.
 </WRAP>
-
+</hidden>
 
 Um grupo de amigos está dividindo duas pizzas do mesmo tamanho. A primeira pizza foi cortada em 6 fatias de mesmo tamanho. A segunda pizza foi dividida em 8 fatias iguais.
 
