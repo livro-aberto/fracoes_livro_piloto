@@ -1,3 +1,11 @@
+<hidden Classificações>
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Analisar: levantar hipóteses
+</hidden>
+
+
+
 /* <hidden Para o professor> */
 <WRAP professor>
 Objetivos específicos: Levar o aluno a:
