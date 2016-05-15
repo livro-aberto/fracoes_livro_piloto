@@ -1,10 +1,12 @@
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: 
   * Fazer o aluno perceber que a fração depende da unidade escolhida.
   * Exercitar a capacidade de argumentação do aluno.
 </WRAP>
+</hidden>
 
- Júlia, Davi e Laura estavam estudando a figura a seguir.
+Júlia, Davi e Laura estavam estudando a figura a seguir.
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 
