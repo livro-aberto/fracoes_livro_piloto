@@ -23,11 +23,11 @@ Complete as afirmações com uma das frações: "dois meios", "dois terços", "d
 </WRAP>
 
 <hidden Resposta>
+<WRAP resposta>
 (A): dois terços.
 (B): dois meios.
 (C): dois quintos.
 (D): nove meios.
 (E): oito sextos.
-<WRAP resposta>
 </WRAP>
 </hidden>
