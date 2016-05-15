@@ -12,6 +12,7 @@ Objetivos específicos: Levar o aluno a
   * Compreender frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" como forma de identicar a quantidade equivalente a "$n$" cópias da fração unitária "$\frac{1}{m}$" (incluindo os casos em que $n \geq m$) em siutações onde há uma indicação explícita da unidade.
 
 Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma. 
   * Observe que, enquanto que nas atividades anteriores cópias múltiplas da unidade já estavam naturalmente disponíveis (as duas barras de chocolate na Atividade 1, as três tortas salgadas na Atividade 2, as várias tortas divididas em oito partes na confeitaria da Atividade 3), nesta atividade o aluno é levado a considerar frações apenas com a indicação de uma única cópia da unidade. Assim, a atividade é uma oportunidade para reforçar a compreensão de frações além do contexto parte-todo: espera-se que o aluno faça uma equipartição da unidade para definir uma fração unitária $\frac{1}{m}$ adequada da unidade e que, então, tome uma quantidade $n$ desta fração mesmo no caso em que $n > m$.
 </WRAP>
 </hidden>
