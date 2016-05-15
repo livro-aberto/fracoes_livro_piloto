@@ -3,12 +3,13 @@ Objetivos específicos:
   * Fazer com que o aluno reconheça frações e as compare com uma fração de referência, no caso, a fração $\frac{1}{2}$.
 </WRAP>
 
-<hidden L:16-05-02>
-
-Comparar frações com uma fração de referência (no caso, a fração $\frac{1}{2}$).
-
-</hidden>
 
 Para cada figura a seguir, indique a fração que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual a metade de figura?
 
 {{ :cap2:secoes:comparacao-01.png?500 |}}
+
+<hidden Comentários>
+
+**EN: 16-05-02** Comparar frações com uma fração de referência (no caso, a fração $\frac{1}{2}$).
+
+</hidden>
