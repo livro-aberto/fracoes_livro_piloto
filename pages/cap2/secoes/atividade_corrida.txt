@@ -1,9 +1,12 @@
+
+<hidden Para o professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a
 
   * Levar o aluno a construir frações em termos de comprimentos de segmentos em uma semirreta como uma preparação para a reta numérica.
 </WRAP>
+</hidden>
 
 Lucas, Matheus, Heitor, Rafael, Enzo, Nicolas, Lorenzo, Guilherme e Samuel estavam brincando de empurrar seus carrinhos de brinquedo para ver qual carrinho ia mais longe em uma pista reta.
 
