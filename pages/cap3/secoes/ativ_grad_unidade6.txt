@@ -6,6 +6,8 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. 
+  * Espera-se que o alunos identifique as representações em modelos contínuos às frações correspondentes na reta numérica;
+  * 
   * Como forma de marcar a fração na reta numéricaOriente os alunos a escreverem cada letra imediatamente acima da fração correspondente, .
 
 </WRAP>
