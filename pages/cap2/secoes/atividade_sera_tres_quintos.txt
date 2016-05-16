@@ -34,5 +34,9 @@ Além disso, o segundo objetvo parece mais adequado ser discutido nas observaç�
 <hidden Resposta>
 <WRAP resposta>
 Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{2}{3}$ da figura. De fato: partindo-se a parte pintada em $3$ partes iguais e justapondo-se $5$ cópias de uma destas partes, a figura é recomposta apenas parcialmente.
+
+<hidden Comentários>
+Imagino que na resposta se escreveu $\frac{2}{3}$ quando se queria dizer $\frac{3}{5}$.
+</hidden>
 </WRAP>
 </hidden>
