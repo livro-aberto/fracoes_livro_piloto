@@ -1,14 +1,19 @@
 FRAÇÕES: A UNIDADE E AS SUBDIVISÕES
-
-<WRAP professor>
-Objetivos específicos:
-OBSERVAR A EQUIPARTICAO EM UM MODELO CONTINUO QUE SE APROXIMA DA RETA
-Observar as diversas partições do inteiro e associá-las as representações  1/b e a/b
-
-Recomendações:
-É importante que os alunos cortem e manuseiem o material do encarte para que o aluno associe o modelo concreto à reta numerada. Para isso solicitamos aos alunos que pintem cada faixa subdividida em um tipo de fração unitária com uma cor diferente. Usaremos as seguintes divisões da faixa: 2, 3, 4,5,6 7 8, 9, 10 e 16 partes e observem em seus grupos as frações unitárias obtidas.
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Observar diversas equipartições da unidade em um modelo continuo e que se aproxima da reta numérica. 
+  * Associar diversas partições da unidade com as representações  1/b e a/b.
+  * 
+Recomendações: 
+ 
+  * Deve ser desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem para realizarem a tarefa proposta. 
+  * É importante que os alunos cortem e manuseiem o material do encarte que está no disponível para reprodução (**Inserir LINK de página para reprodução**) para que associem o modelo concreto à reta numerica.
+  * Para o desenvolvimento da atividade, os alunos devem ser orientados a pintarem cada faixa subdividida com um tipo de fração unitária usando uma cor diferente para cada. 
+  * Usaremos as seguintes divisões da faixa: 2, 3, 4,5,6 7 8, 9, 10 e 16 partes e chame atenção dos grupos para as frações unitárias obtidas em cada caso.  
 
 </WRAP>
+
+
 Cada grupo vai receber do professor 10 faixas que devem ser divididas conforme o modelo abaixo e pintada cada uma por uma cor diferente. 
 Observe as faixas abaixo, divididas em 2, 3, 4,5,6 7 8, 9, 10 e 16 partes, todas do mesmo tamanho. Pinte cada uma delas por cor diferente e escreva dentro de cada parte a sua representação por fração unitária.
 {{ :cap3:secoes:faixas_iniciais.png?200 |}}
