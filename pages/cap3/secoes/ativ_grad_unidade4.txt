@@ -1,3 +1,14 @@
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Associar as equipartições da unidade com a representação de frações para a reta numérica. 
+  * Associar a uma mesma marcação diferentes representações para as frações na reta numerada, a partir de modelos contínuos.
+  
+Recomendações:
+ 
+  * Recomenda-se que nesta atividade os alunos trabalhem em grupos de 3 ou 4. 
+  * É importante da tempo para que cada grupo perceba as equivalencias na representação de diferentes frações.
+
+</WRAP>
 
 Observe as faixas pintadas na atividade anterior. 
 
