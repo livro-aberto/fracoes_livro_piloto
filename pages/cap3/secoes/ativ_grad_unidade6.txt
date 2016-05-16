@@ -1,12 +1,12 @@
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Estender a representação de frações para a reta numerica. 
-  * Associar na reta numérica, a partir de modelos contínuos a unidade ao número 1. 
+  * Estender a representação de frações para a reta numérica. 
+  * Associar, na reta numérica e a partir de modelos contínuos, a unidade ao número 1. 
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
-  * Recomenda-se que nesta atividade os alunos trabalhem no modo individual ou em duplas. 
-  * O professor deve orientá-los a escreverem cada letra imediatamente acima da fração correspondente, como forma de marcar a fração na reta numérica.
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. 
+  * Como forma de marcar a fração na reta numéricaOriente os alunos a escreverem cada letra imediatamente acima da fração correspondente, .
 
 </WRAP>
 
