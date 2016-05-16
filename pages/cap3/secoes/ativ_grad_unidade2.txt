@@ -2,7 +2,7 @@ Frações: seu lugar é na reta numerada
 
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Reforçar a relação entre a unidade e o número 1 da retanumérica. 
+  * Reforçar a relação entre a unidade e o número 1 da reta numérica. 
   * Localizar as frações do tipo 1/b e a/b em uma mesma reta. 
   
 Recomendações e sugestões para o desenvolvimento da atividade:
@@ -19,11 +19,11 @@ Você pode observar que logo abaixo dos cinco retângulos há uma reta numerada 
 
 a)	Cada uma das frações deve ser escrita no “retângulo” azul, logo abaixo da reta numerada na posição que você considere mais conveniente.
 
-b)	Qual a relação entre o tamanho da faixa, a fração que a representa e a posição desta fração na reta numerica?
+b)	Qual a relação entre o tamanho da faixa, a fração que a representa e a posição desta fração na reta numérica?
 
 c)	Se pintamos todos os retângulos da faixa que fração representará este caso?
 
-d)	Localize a fração do ítem c na reta numerica.
+d)	Localize a fração do item c na reta numérica.
 
 
 
@@ -34,7 +34,7 @@ Objetivos específicos: Levar o aluno a:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer em grupos de 4 ou 5 alunos. 
-  * Para desenvoolver essa atividade é necessário Cada grupo ição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
+  * Para desenvolver essa atividade é necessário Cada grupo ição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
   * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
   * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
@@ -45,5 +45,5 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 <hidden Comentários>
-A figura de referencia apresenta a unidade de medida m e que não deve aparecer na figura construida pelo ilustrador. A reta abaixo das faixas deve iniciar antes do  zero e para cada valor esperado construir um pequno box para o aluno escrever a fração que ali será marcada.
+A figura de referência apresenta a unidade de medida m e que não deve aparecer na figura construída pelo ilustrador. A reta abaixo das faixas deve iniciar antes do  zero e para cada valor esperado construir um pequeno box para o aluno escrever a fração que ali será marcada.
 </hidden>
