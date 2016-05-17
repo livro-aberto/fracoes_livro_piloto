@@ -24,9 +24,3 @@ Identique as figuras em que a parte pintada é a metade da figura.
 As figuras que correspondem a meio são as de número 1, 2, 4, 5, 6, 8, 9, 11 e 12.
 </WRAP>
 </hidden>
-
-<hidden APOIO COMPUTACIONAL>
-Aqui cabe, e seria ótimo, uma contrapartida computacional. Enriqueceria muito a atividade. O estudante poderia mover cópias das partes pintadas e visualizar que elas podem ser usadas para montar outras partes vermelhas onde se vê mais facilmente que estas são as frações indicadas no enunciado. 
-
-SE HOUVER CHANCE, REVER RECOMENDAÇÕES AO PROFESSOR
-</hidden>
