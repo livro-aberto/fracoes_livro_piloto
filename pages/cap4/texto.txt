@@ -1,16 +1,11 @@
 {{page>cap4:secoes:preambulo}}
 
-{{page>cap4:secoes:intro}}
+{{page>cap4:secoes:explorando_intro}}
 
-{{page>cap4:secoes:conexoes}}
+{{page>cap4:secoes:explorando_intro}}
 
-{{page>cap4:secoes:abstrato}}
+{{page>cap4:secoes:organizando_ideias}}
 
-===== - Atividade =====
-
-{{page>cap4:secoes:atividade1}}
+{{page>cap4:secoes:massa}}
 
 {{page>cap4:secoes:refletindo}}
-
-
-
