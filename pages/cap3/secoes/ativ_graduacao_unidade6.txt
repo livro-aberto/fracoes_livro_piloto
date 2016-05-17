@@ -1,0 +1,37 @@
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Estender a representação de frações para a reta numérica. 
+  * Associar, na reta numérica, a unidade ao segmento unitário, admitindo a representacão de quantidades entre 0 e 1.
+  * Associar, as frações a pontos na reta numérica. Em particular, as frações unitárias 1/2, 1/4 e 1/8.
+  * Reconhecer a necessária equipartição do segmento unitário para a identificação das fraçoes unitárias na reta numérica.    
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Formato da caixa d'água
+
+
+/*
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Uma subdivisão da unidade também é destacada. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços, o segmento unitário traz uma marcação que destaca a subdivisão em três partes iguais.    
+  * Para registrar a identificação das representações em modelos contínuos à fração correspondentes apresentada na reta, o aluno pode simplesmente ligar, fazendo um linha, a representação em imagem à fração destacada na reta.*/
+
+</WRAP>
+
+As figuras ilustram uma caixa d'água que está sendo enchida. Para saber que fração da capacidade da caixa d'água já está com água em cada imagem, será usada uma fita graduada. Das fitas apresentadas, quais 
+
+
+
+
+
+<hidden Para o ilustrador>
+
+
+</hidden>
+
+
+
+
+
+<hidden Comentários>
+
+</hidden>
