@@ -7,7 +7,7 @@ page>cap1:secoes:intro
 */
 
 
-{{page>cap1:secoes:explorando_o_assunto}}
+{{page>cap1:secoes:explorando_o_assunto&comments}}
 
 ===== - Atividade =====
 
