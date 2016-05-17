@@ -6,15 +6,13 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
-  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. 
-  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Uma subdivisão da unidade também é destacada. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços   
-  * Espera-se que o alunos identifiquem as representações em modelos contínuos às frações correspondentes na reta numérica. Para isso, ele pode simplesmente ligar a representação à fração destacada na reta.
-  * 
-  * Como forma de marcar a fração na reta numéricaOriente os alunos a escreverem cada letra imediatamente acima da fração correspondente, .
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Uma subdivisão da unidade também é destacada. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços, o segmento unitário traz uma marcação que destaca a subdivisão em três partes iguais.    
+  * Para registrar a identificação das representações em modelos contínuos à fração correspondentes apresentada na reta, o aluno pode simplesmente ligar, fazendo um linha, a representação em imagem à fração destacada na reta.
 
 </WRAP>
 
-Para cada par de figuras, (a) (b), ( c) (d), (e) (f), (g) (h), temos uma reta numérica e as frações correspondentes a cada fração representada no par. Escreva cada letra na posição que está a fração correspondente em cada reta. Justifique porque você escolheu cada uma das representações.
+Para cada par de figuras há uma reta numérica. Ligue as figuras aos números destacados na reta.
 
 {{:cap3:secoes:fracoes_e_retas2.jpg|}}
 
