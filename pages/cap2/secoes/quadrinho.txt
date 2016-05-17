@@ -24,17 +24,17 @@ Alice: Não foi isso o que vimos aqui. A gente repartiu figuras de papel e outro
 
 Quadro negro escrito por Miguel:
 
-< Frações
+Frações
 
-meio --> $\frac{1}{2}$. 
+meio $ \longrightarrow \frac{1}{2}$ 
 
-terço --> $\frac{1}{3}$
+terço $ \longrightarrow \frac{1}{3}$
 
-quarto --> $\frac{1}{4}$
+quarto $\longrightarrow \frac{1}{4}$
 
 $\cdots$
 
-décimo --> $\frac{1}{10}$>
+décimo $\longrightarrow \frac{1}{10}$
 
 Alice com expressão zangada.
 
@@ -42,7 +42,7 @@ Miguel olhando para Alice
 
 Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
 
-Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro, 10, 11, 12... e não um embaixo do outro como você mostrou aí!
+Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro, 10, 11, 12, $\cdots$ e não um embaixo do outro como você mostrou aí!
 
 **Quadrinho 4**
 A professora aparece no quadro
