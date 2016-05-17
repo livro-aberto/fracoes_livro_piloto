@@ -2,8 +2,6 @@
 
 {{page>cap4:secoes:explorando_intro}}
 
-{{page>cap4:secoes:explorando_intro}}
-
 {{page>cap4:secoes:organizando_ideias}}
 
 {{page>cap4:secoes:massa}}
