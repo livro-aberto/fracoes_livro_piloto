@@ -20,7 +20,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 PÁGINA DE REPRODUÇÃO 
 Imagens: exatamente a mesma barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
 
-{{:cap1:secoes:chocolate_2.jpg?200 |}}  {{:cap1:secoes:chocolate_3.jpg?200 |}}
+{{ :cap1:secoes:chocolate_2.jpg?200 |}}  
+
+{{ :cap1:secoes:chocolate_3.jpg?200 |}}
 
 </WRAP>
 
