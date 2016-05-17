@@ -77,8 +77,7 @@ L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próxim
 c. Vamos incluir a questão se $\frac{0}{3}$ é equivalente ou não a $\frac{0}{8}$?
 L(16-05-03): Acho que temos que discutir - deve ser um ponto da pauta do próximo encontro.
 
-d. Vamos alertar o professor sobre esta observação? Accessing Language (simplest form vs. reduce): Many teachers avoid using the phrases reduce
-fractions or reduce to lowest terms because those phrases suggest the fraction is “getting smaller.”
+d. Vamos alertar o professor sobre esta observação? Accessing Language (simplest form vs. reduce): Many teachers avoid using the phrases reduce fractions or reduce to lowest terms because those phrases suggest the fraction is “getting smaller.”
 This book (and many others) uses the phrase simplest form. (Another frequently used phrase is in
 lowest terms.) It is important that students understand that although the numerator and denominator of
 a fraction in simplest form are smaller than the numerator and denominator of the original fraction, the
@@ -93,14 +92,7 @@ A completar....
   * Comentar para o professor sobre o excesso de preocupação com frações irredutíveis. Por exemplo, está correto escrever $\frac{1}{6} + \frac{1}{2} = \frac{4}{6}$, isto é, não expressar a soma como uma fração irredutível não torna a resposta errada.
   * Pesquisas têm evidenciado que a ordenação dos números naturais pode ser um forte obstáculo na ordenação de frações. L(16-05-03): De que maneira? para decidirmos como intervir nesse resultado, temos que conhecer as causas do problema
   * Uma maneira de se ver frações equivalentes é dar nomes diferentes para uma mesma quantidade. Os alunos já devem ter visto no contexto, por exemplo, que 5 pode ser escrito como 4 e 1, 2 a menos que 7, metadade 10, ... L(16-05-03): Acho que são coisas diferentes. 4 é 4, mas também é o resultado de 3 + 1. No entanto, 2/3 e 4/6 são o mesmo número por definição, sem qualquer operação envolvida. 
-  * A general development of operational capacity required for multiplicative reasoning appeared
-to be responsible for the initial understanding and representing an equivalence fraction. Second, the performance patterns suggest a subconstruct-by-subconstruct course of acquiring the concept of fraction equivalence. This makes the process
-of constructing fraction equivalence concept a recursive one. It is ‘‘recursive’’
-in two senses. One is that children have to construct the concept
-of fraction equivalence for one semantic domain after another. The other,
-related to the first, is that children’s concept of fraction equivalence undergoes
-qualitative changes. Children’s initial idea of fraction equivalence may
-be associated with particular contents and representations that are associated
+  * A general development of operational capacity required for multiplicative reasoning appeared to be responsible for the initial understanding and representing an equivalence fraction. Second, the performance patterns suggest a subconstruct-by-subconstruct course of acquiring the concept of fraction equivalence. This makes the process of constructing fraction equivalence concept a recursive one. It is ‘‘recursive’’ in two senses. One is that children have to construct the concept of fraction equivalence for one semantic domain after another. The other, related to the first, is that children’s concept of fraction equivalence undergoes qualitative changes. Children’s initial idea of fraction equivalence may be associated with particular contents and representations that are associated
 with particular actions and operations.
 </hidden>
 
