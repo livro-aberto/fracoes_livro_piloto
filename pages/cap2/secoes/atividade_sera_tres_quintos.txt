@@ -4,7 +4,7 @@
   * UERJ: Avaliar: julgar
 </hidden>
 
-/* <hidden Para o professor> */
+<hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Analisar uma situação envolvendo frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração.  
@@ -33,10 +33,6 @@ Além disso, o segundo objetvo parece mais adequado ser discutido nas observaç�
 
 <hidden Resposta>
 <WRAP resposta>
-Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{2}{3}$ da figura. De fato: partindo-se a parte pintada em $3$ partes iguais e justapondo-se $5$ cópias de uma destas partes, a figura é recomposta apenas parcialmente.
+Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{3}{5}$ da figura. De fato: partindo-se a parte pintada em $3$ partes iguais e justapondo-se $5$ cópias de uma destas partes, a figura é recomposta apenas parcialmente.
 </WRAP>
-</hidden>
-
-<hidden Comentários>
-Imagino que na resposta se escreveu $\frac{2}{3}$ quando se queria dizer $\frac{3}{5}$.
 </hidden>
