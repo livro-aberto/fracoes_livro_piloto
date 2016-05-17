@@ -7,7 +7,7 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Uma subdivisão da unidade também é destacada. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços, o segmento unitário traz uma marcação que destaca a subdivisão em três partes iguais.    
+  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Subdivisões da unidade também são destacadas. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços, o segmento unitário traz uma marcação que destaca a subdivisão em três partes iguais e as frações $\frac{1}{3}$ e $\frac{2}{3}$.    
   * Para registrar a identificação das representações em modelos contínuos à fração correspondentes apresentada na reta, o aluno pode simplesmente ligar, fazendo um linha, a representação em imagem à fração destacada na reta.
 
 </WRAP>
