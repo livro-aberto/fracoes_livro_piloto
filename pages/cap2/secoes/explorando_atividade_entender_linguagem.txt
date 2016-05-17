@@ -5,7 +5,7 @@
 </hidden>
 
 
-/* <hidden Para o professor> */
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Identificar frações do tipo "//n// meios", "//n// terços", ..., "//n// décimos" em diferentes modelos visuais de frações em situações onde há uma indicação explícita da unidade.
