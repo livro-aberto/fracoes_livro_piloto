@@ -1,12 +1,3 @@
-====== LIÇÃO 2 - Multiplicando a fração da unidade ======
-
-/*
-<hidden H (2016-05-02): Como ler frações do tipo $\frac{2}{1}$, $\frac{3}{1}$, $\ldots$?>
-Talvez este tipo de fração não entre nesta lição, mas já coloco a pergunta ...
-LET (02/05/2016): 1/1 é uma unidade (ou um inteiro), então, o natural é que sejam lidas como "duas unidades" ou "dois inteiros", por exemplo. Talvez a devamos incluir a discussão do 1/1, que, acredito, deva ser nesta liçào.
-</hidden>
-*/
-
 <hidden Estrutura da Lição>
 
 **Conteúdos utilizados da lição anterior**
@@ -72,13 +63,17 @@ Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ part
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
 </hidden>
 
+
+====== LIÇÃO 2 - Multiplicando a fração da unidade ======
+
+
 <hidden Comentários gerais sobre a lição>
 **HB 2016-05-09:** dúvida sobre outras formas de leitura de frações
 Evitar a leitura de $\frac{a}{b}$ como $a$ dividido por $b$? $a$ sobre $b$ é uma leitura aceitável? Vamos/devemos tratar disto com o professor?
 **FS:** A ideia que o estudante deve ter na cabeça é de que a unidade foi dividida em $b$ partes iguais e estamos considerando $a$ cópias de uma destas partes. Na cabeça do estudante isso pode estar bem distante de dividir $a$ unidades entre $b$ pessoas. Este salto deve ser feito com bastante cuidado a meu ver.
 
 **HB (2016-04-25): a/b com b maior do que 10?**
-A sugestão é que se trabalhe com frações a/b, com 1 <= b <= 10. De fato, é o que está acontecendo nas atividades. Contudo, acho que na sistematização (conexões) poderíamos apresentar as frações gerais. A tecnologia poderia ajudar nisto: 
+A sugestão é que se trabalhe com frações a/b, com $1 \leq b \leq 10$. De fato, é o que está acontecendo nas atividades. Contudo, acho que na sistematização (conexões) poderíamos apresentar as frações gerais. A tecnologia poderia ajudar nisto: 
 
 [[http://tube.geogebra.org/m/2966755|{{cap2:secoes:fracoes-01.jpg?300}}]]
 
@@ -94,7 +89,7 @@ Em problemas de divisão (como é desta lição), costuma-se usar a notação $3
 </hidden>
 
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor do que ou igual ao denominador) como as impróprias (caso em que o numerador é maior do que o denominador).
 Também serão abordadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
