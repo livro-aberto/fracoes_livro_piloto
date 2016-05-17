@@ -6,7 +6,7 @@
 
 
 
-/* <hidden Para o professor> */
+<hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber a ambiguidade, em termos de quantidades, de especificações de frações sem referência a unidade. 
