@@ -1,0 +1,5 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a 
+  * Reconhecer o uso de frações equivalentes para comparaçãode duas frações, no caso, $\frac{2}{9}$ e $\frac{1}{3}$.  
+</WRAP>
+
