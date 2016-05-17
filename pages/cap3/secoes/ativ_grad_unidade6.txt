@@ -38,10 +38,8 @@ O quadrado das figuras (d) (e) (f) devem ter mesmo tamanho nas figuras (c) (d)
 
 
 <hidden Comentários>
-(Fracisco) Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
+(Francisco) Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
 Outra dúvida, na letra (e) representamos 1/3 ou 2/6?
-(L) Sobre a questão anterior, acho que pode ser 1/3, mas sugiro que essa dupla seja a quarta, e não a terceira.
-(L) Ainda acho que esta atividade não é ideial para ser a primeira. Como as frações foram parar na reta? 
-(L) Sugiro que a forma já conhecida da reta numérica (com apenas os números naturais) seja em uma cor e as frações não inteiras sejam em outra cor. 
+(L 16/05) Sobre a questão anterior, acho que pode ser 1/3, mas sugiro que essa dupla seja a quarta, e não a terceira.
 
 </hidden>
