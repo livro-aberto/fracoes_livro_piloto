@@ -1,6 +1,13 @@
 {{page>cap4:secoes:preambulo}}
 
+
 {{page>cap4:secoes:explorando_intro}}
+
+===== - Atividade =====
+
+{{page>cap4:secoes:preencha}}
+
+
 
 {{page>cap4:secoes:organizando_ideias}}
 
