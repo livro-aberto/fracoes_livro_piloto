@@ -21,9 +21,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-A figura deve ilustrar três caixas com quantidades diferentes de água: uma completa, outra com metade do nível máximo, uma terceira com 1/4 e, por último, com 1/8.
+{{ :undefined:caixas_d_agua.png?200 |}}
 
 <hidden Para o ilustrador>
-
+A figura deve ilustrar três caixas com quantidades diferentes de água: uma completa, outra com metade do nível máximo, uma terceira com 1/4 e, por último, com 1/8.
 
 </hidden>
