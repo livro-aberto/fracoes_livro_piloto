@@ -6,7 +6,7 @@
 
 
 
-/* <hidden Para o professor> */
+<hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
   * Perceber que uma mesma fração (no caso, $\frac{1}{2}$) de unidades diferentes pode resultar em quantidades diferentes.
