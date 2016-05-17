@@ -4,9 +4,9 @@
 
 ===== - Atividade =====
 
-{{page>cap3:secoes:ativ_grad_unidade3}}
+{{page>cap3:secoes:ativ_grad_unidade6}}
 
-{{page>cap3:secoes:ativ_grad_unidade3}}
+{{page>cap3:secoes:ativ_grad_unidade6}}
 
 
 ===== - Atividade =====
