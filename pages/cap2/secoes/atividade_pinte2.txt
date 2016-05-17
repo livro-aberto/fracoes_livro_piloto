@@ -15,7 +15,7 @@ Além disso, acho importante discutir com o professor a questão de as imagens e
 </hidden>
 */
 
-<hidden Para o professor>
+<hidden Para o Professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
 
