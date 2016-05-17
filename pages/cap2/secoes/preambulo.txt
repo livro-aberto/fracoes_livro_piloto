@@ -94,7 +94,7 @@ Em problemas de divisão (como é desta lição), costuma-se usar a notação $3
 </hidden>
 
 
-<hidden Para o professor>
+<hidden Para o Professor>
 <WRAP professor> 
 Nesta seção serão estudadas as frações com numerador diferente de 1, tanto as próprias (caso em que o numerador é menor do que ou igual ao denominador) como as impróprias (caso em que o numerador é maior do que o denominador).
 Também serão abordadas a notação simbólica de frações e a comparação de frações que tenham o mesmo denominador. 
