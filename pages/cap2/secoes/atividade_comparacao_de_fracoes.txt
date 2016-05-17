@@ -4,7 +4,7 @@
   * UERJ: Observar: Observar: identificar e reconhecer; Ordenar
 </hidden>
 
-/* <hidden Para o professor> */
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
   * Comparar frações a partir de representações usando modelos circulares.
