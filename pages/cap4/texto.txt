@@ -5,6 +5,8 @@
 
 ===== - Atividade =====
 
+{{page>cap4:secoes:problema_motivador}}
+
 {{page>cap4:secoes:preencha}}
 
 
