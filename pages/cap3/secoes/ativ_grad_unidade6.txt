@@ -6,7 +6,8 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. 
-  * Espera-se que o alunos identifique as representações em modelos contínuos às frações correspondentes na reta numérica;
+  * Observe que todas 
+  * Espera-se que o alunos identifiquem as representações em modelos contínuos às frações correspondentes na reta numérica. Para isso, ele pode simplesmente ligar a representação à fração destacada na reta.
   * 
   * Como forma de marcar a fração na reta numéricaOriente os alunos a escreverem cada letra imediatamente acima da fração correspondente, .
 
@@ -38,7 +39,10 @@ O quadrado das figuras (d) (e) (f) devem ter mesmo tamanho nas figuras (c) (d)
 
 
 <hidden Comentários>
-Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
+(Fracisco) Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
 Outra dúvida, na letra (e) representamos 1/3 ou 2/6?
+(L) Sobre a questão anterior, acho que pode ser 1/3, mas sugiro que essa dupla seja a quarta, e não a terceira.
+(L) Ainda acho que esta atividade não é ideial para ser a primeira. Como as frações foram parar na reta? 
+(L) Sugiro que a forma já conhecida da reta numérica (com apenas os números naturais) seja em uma cor e as frações não inteiras sejam em outra cor. 
 
 </hidden>
