@@ -5,7 +5,7 @@
 </hidden>
 
 
-<hidden Para o professor>
+<hidden Para o Professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a: 
   * Reconhecer que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida.
