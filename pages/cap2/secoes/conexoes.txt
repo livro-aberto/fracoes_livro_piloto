@@ -3,8 +3,13 @@
 <WRAP professor>
 Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. 
 
-A notação de fração costuma parecer estranha aos estudantes porque é seu primeiro contato com símbolos que não são algarismos e, especialmente, porque os algarismos estão em linhas diferentes, contrariando a escrita usual. 
-Mas é importante explicar que esta é uma convenção mundial hoje, mas que alguns povos antigos já tiveram representações diferentes para estes números. (ver inclui referência).
+
+A notação de fração costuma parecer estranha porque é um símbolo composto por dois números de significados diferentes, 
+um sobre o outro. Isso contraria a escrita usual dos números naturais. Alguns povos antigos tiveram representações diferentes
+para estes números.  Contudo, é importante lembrar que hoje essa notação é mundialmente aceita, portanto, deve ser bem 
+compreendida. 
+
+
 
 <hidden Comentários:>
 **LET 2016-05-02**: Sobre o primeiro parágrafo. Acho que isso tem que ser tratado em uma atividade antes. A seção conexões deve organizar/sistematizar as ideias e conceitos tratados em atividades anteriores.
