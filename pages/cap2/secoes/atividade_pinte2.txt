@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
 
