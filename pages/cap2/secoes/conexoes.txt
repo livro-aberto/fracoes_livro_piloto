@@ -3,19 +3,11 @@
 <WRAP professor>
 Aqui vale a pena discutir com o estudante o surgimento de frações que representam números naturais, por exemplo, $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. 
 
-
 A notação de fração costuma parecer estranha porque é um símbolo composto por dois números de significados diferentes, 
 um sobre o outro. Isso contraria a escrita usual dos números naturais. Alguns povos antigos tiveram representações diferentes
 para estes números.  Contudo, é importante lembrar que hoje essa notação é mundialmente aceita, portanto, deve ser bem 
 compreendida. 
 
-
-
-<hidden Comentários:>
-**LET 2016-05-02**: Sobre o primeiro parágrafo. Acho que isso tem que ser tratado em uma atividade antes. A seção conexões deve organizar/sistematizar as ideias e conceitos tratados em atividades anteriores.
-
-**LET 2016-05-02**: Acho fundamental discutir isso com professor. No entanto, é necessário rever algumas afirmações no texto anterior. Por exemplo, "...porque é seu primeiro contato com símbolos que não são algarismos". É um súmbolo só, não? Entendo que a dificuldade está mais em lê uma informação quantitativa a partir de duas informações numéricas, ambas relativas à contagem. Além disso, essas informações não aparecem uma ao lado da outra, mas um a acima (ou abaixo) da outra. A questão do algarismo também persiste. De fato, por exemplo, em  24/17, 24 não é algarismo de 24/17, mas 2 e 4 sã algarismos de 24.)
-</hidden>
 </WRAP>
 </hidden>
 
@@ -41,8 +33,6 @@ Já o número que aparece "acima" do traço de fração informa quantos terços 
 Esses mesmos nomes valem para outras frações, mesmo que o denominador seja diferente de 3:\\
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
 Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. 
-
-//incluir outros exemplos// 
 
 
 /* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
