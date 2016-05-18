@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações com relação a uma fração de referência (no caso, a fração $\frac{1}{2}$) usando modelos de área.
