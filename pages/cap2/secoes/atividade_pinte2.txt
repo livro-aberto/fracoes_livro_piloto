@@ -1,20 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar
-  * Nicely, Jr.: Nível 5: converter (simbolizar), gerar
-  * UERJ: Interpretar: discriminar, compor e decompor
-</hidden>
-
-
-/*
-<hidden L(16-05-02):>
-sugiro algo como:
-  * Representação de frações não unitárias.
-  * Identificação da fração complementar de uma fração própria da unidade.
-
-Além disso, acho importante discutir com o professor a questão de as imagens estarem divididas em partes que não correspondem às frações solicitada (Qual o objetivo/valor dessa dificuldade?) Não seria interessante incluir alguns itens iniciais que não  tenha essa dificuldade? 
-</hidden>
-*/
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
@@ -28,6 +11,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Observe que os três últimos itens constituem uma extensão natural da Atividade 7 da Lição 1.
   * Não se espera que, para os três últimos itens desta atividade, os alunos usem alguma medida para fazer, de forma precisa, a partição de quartos e quintos em oitavos e décimos, respectivamente. O objetivo é que façam a partição livremente e de forma coerente. 
   * Alunos diferentes podem pintar as partes de formas diferentes: estas, por exemplo, não precisam ser contíguas. Procure apresentar e discutir com a turma mais do que uma solução para cada item, reforçando assim as ideias propostas nas Atividades 9 e 10 da Lição 1. 
+
+Classificações
+  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar), gerar
+  * UERJ: Interpretar: discriminar, compor e decompor
 </WRAP>
 </hidden>
 
