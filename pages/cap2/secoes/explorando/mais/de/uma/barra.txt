@@ -1,9 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Conceito: identificar e descrever
-  * Nicely, Jr.: Nível 1: reconhecer
-  * UERJ: Observar: identificar e reconhecer
-</hidden>
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
@@ -19,6 +13,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para a quantidade de chocolate que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É importante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. 
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas das barras de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+
+
 <WRAP nota> FOLHA DE REPRODUÇÃO
 Figura das barras de chocolate com as que estão no texto da atividade.
 </WRAP>
