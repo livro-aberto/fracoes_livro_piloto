@@ -1,10 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Conceito: identificar
-  * Nicely, Jr.: Nível 3: comparar
-  * UERJ: Observar: identificar e reconhecer; Ordenar
-</hidden>
-
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
@@ -13,6 +6,11 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade: 
   * Essa é uma atividade que o aluno pode fazer individualmente. 
   * Incentive seus alunos a darem justificativas para suas respostas, mesmo que informais.
+
+Classificações
+  * Heid et al.: Conceito: identificar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Observar: identificar e reconhecer; Ordenar
 </WRAP>
 </hidden>
 
@@ -20,11 +18,6 @@ Para cada figura a seguir, indique a fração da figura que está pintada de ver
 
 {{ :cap2:secoes:comparacao-01.png?500 |}}
 
-/*
-<hidden Comentários:>
-**EN: 16-05-02** Comparar frações com uma fração de referência (no caso, a fração $\frac{1}{2}$).
-</hidden>
-*/
 
 <hidden Resposta>
 <WRAP resposta>
