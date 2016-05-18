@@ -1,11 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Raciocínio: corroborar
-  * Nicely, Jr.: Nível 6: justificar
-  * UERJ: Analisar: levantar hipóteses
-</hidden>
-
-
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
@@ -14,19 +6,17 @@ Objetivo específico: Levar o aluno a:
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma. 
   * No final da atividade, é importante enfatizar para seus alunos a propriedade matemática que esta atividade quer destacar, ou seja, que uma mesma fração de unidades de referência diferentes pode resultar em quantidades diferentes. Observe para eles que, no contexto “frações de”, é fundamental saber a que o “de” se refere, isto é, qual é a unidade que está sendo considerada. Neste sentido, esta atividade está fortemente relacionada com a Atividade 8.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Analisar: levantar hipóteses
 </WRAP>
 </hidden>
 
 (NAEP, 1992) Pense cuidadosamente nesta questão. Escreva uma resposta completa. Você pode usar desenhos, palavras e números para explicar sua resposta. Certifique-se de mostrar todo o seu raciocínio.
 
 José comeu $\frac{1}{2}$ de uma pizza. Ella comeu $\frac{1}{2}$ de uma outra pizza. José disse que ele comeu mais pizza do que Ella, mas Ella diz que eles comeram a mesma quantidade. Use palavras, figuras ou números para mostrar que José pode estar certo.
-
-/*
-<hidden Comentários>
-**EN: 16-05-02**
-Muito boa esta questão!
-</hidden>
-*/
 
 <hidden Resposta>
 <WRAP resposta>
