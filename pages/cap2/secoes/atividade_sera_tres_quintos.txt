@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Analisar uma situação envolvendo frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração.  
