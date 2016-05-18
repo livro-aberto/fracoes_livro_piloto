@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
     * Recompor a unidade a partir de uma fração dada em modelo contínuo, incluindo o caso de frações impróprias. 
