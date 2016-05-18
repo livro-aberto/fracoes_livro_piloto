@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Representar com notação simbólica matemática frações não unitárias em modelos tridimensionais no contexto de volume.
