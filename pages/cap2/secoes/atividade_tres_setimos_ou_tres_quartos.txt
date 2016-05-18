@@ -1,12 +1,4 @@
-<hidden Classificações>
-  * Heid et al.: Raciocínio: corroborar
-  * Nicely, Jr.: Nível 9: avaliar
-  * UERJ: Avaliar: julgar
-</hidden>
-
-
-
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber que se uma unidade foi dividida em $n + m$ partes iguais, das quais $n$ foram pintadas, então $\frac{n}{m}$ **não especifica** a fração da unidade que foi pintada.
@@ -14,18 +6,17 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade: 
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma. 
   * O tipo de situação descrita na atividade é um equívoco comum entre os alunos. Assim, esta atividade é uma oportunidade para reforçar os papeis do denominador e do numerador na notação simbólica matemática para frações: o denominador especifica o número de partes iguais na qual a unidade foi dividida e o numerador especifica o número de cópias que foram tomadas de uma destas partes.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 9: avaliar
+  * UERJ: Avaliar: julgar
 </WRAP>
 </hidden>
 
 A figura a seguir tem 3 partes pintadas de vermelho e 4 partes pintadas de branco. É correto afirmar que a parte pintada de vermelho corresponde a $\frac{3}{4}$ da figura? Explique.
 
 {{ :cap2:secoes:tres-setimos-ou-tres-quartos.png?300 |}}
-
-/*
-<hidden Comentários>
-**EN:16-05-02:** Os objetivos são bons e importantes. No entanto, acho que cabe rever a ideia de contextualização nas questões 16 e 17. Tudo poderia ser feito sem a historinha, apenas com a pergunta. 
-</hidden>
-*/ 
 
 <hidden Resposta>
 <WRAP resposta>
