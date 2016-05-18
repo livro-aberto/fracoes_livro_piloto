@@ -1,4 +1,4 @@
-<hidden Estrutura da Lição>
+/* Estrutura da Lição
 
 **Conteúdos utilizados da lição anterior**
     - Unidade tratada como unidade e não todo!. 
@@ -61,7 +61,7 @@ a. Frisar na introdução o pré-requisito da reta numérica.
 Habilidades: Compreender a fração $a/b$ como a quantidade formada por $a$ partes de $1/b$.
 
 Estratégia: Não escreveremos explicitamente uma adição de frações unitárias neste momento. Aqui utilizaremos a justaposição e contagem de frações unitárias. 
-</hidden>
+*/
 
 
 ====== LIÇÃO 2 - Multiplicando a fração da unidade ======
