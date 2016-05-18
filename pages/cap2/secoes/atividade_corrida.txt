@@ -1,15 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Produto: gerar
-  * Nicely, Jr.: Nível 5: relacionar
-  * UERJ: Interpretar: compor e decompor
-
-Para a pergunta sobre as posições dos carrinhos de Rafael e Samuel:
-  * Heid et al.: Racioncínio: justificar
-  * Nicely, Jr.: Nível 6: explicar
-  * UERJ: Interpretar: explicar, compor e decompor
-
-</hidden>
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
@@ -21,6 +9,16 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser realizada invididualmente.
   * Esta é uma atividade preparatória para a representação de frações na reta numérica, assunto da próxima lição.
   * Não se espera que as marcações na pista feitas pelos alunos sejam amparadas pela medida mas, sim,de forma livre e coerente. Contudo, é preciso ficar atento para que as marcações dos carrinhos de Heitor e Lorenzo coincidam (pois $\frac{3}{2} = \frac{6}{4}$). A mesma observação se aplica aos carrinhos de Rafael e Samuel (pois $\frac{4}{2} = \frac{6}{3}$). Aqui, a definição de frações não unitárias como justaposições de frações unitárias pode ser usada para justificar o porquê, por exemplo, dos carrinhos de Rafael e Samuel terem parado na mesma posição. De fato: seja $d$ a distância percorrida pelo carrinho de Lucas. A partição em $2$ partes iguais de um segmento $u$ cujo comprimento é $d$ obtém dois segmentos congruentes $s$ e $s'$ que correspondem à $\frac{1}{2}$ de $u$ e cujos comprimentos são, portanto, iguais a $\frac{1}{2}$ de $d$. A justaposição de $2$ cópias de $s$ ($\frac{2}{2}$ de $u$) tem comprimento $d$ e, sendo assim, a justaposição de $4$ cópias de $s$ ($\frac{4}{2}$ de $u$) tem comprimento $2d$. Do mesmo modo, se $t$ é um segmento que corresponde à $\frac{1}{3}$ de $u$, então a justaposição de $3$ cópias de $t$ ($\frac{3}{3}$ de $u$) tem comprimento $d$ e, em consequência, a justaposição de $6$ cópias de $6$ ($\frac{6}{2}$ de $u$) tem comprimento $2d$. Assim, os carrinhos de Rafael e Samuel percorreram uma mesma distância ($2d$) e, como eles sairam do mesmo ponto de largada, suas posições finais são iguais.
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: relacionar
+  * UERJ: Interpretar: compor e decompor
+
+Para a pergunta sobre as posições dos carrinhos de Rafael e Samuel:
+  * Heid et al.: Racioncínio: justificar
+  * Nicely, Jr.: Nível 6: explicar
+  * UERJ: Interpretar: explicar, compor e decompor
 </WRAP>
 </hidden>
 
@@ -32,37 +30,20 @@ A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou 
 
 Sabe-se que:
 
-(A) O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas.
-
-(B) O carrinho de Heitor conseguiu ir $\frac{3}{2}$ da distância do carrinho de Lucas. 
-
-(C) O carrinho de Rafael conseguiu ir $\frac{4}{2}$ da distância do carrinho de Lucas.
-
-(D) O carrinho de Enzo conseguiu ir $\frac{5}{2}$ da distância do carrinho de Lucas. 
-
-(E) O carrinho de Nicolas conseguiu ir $\frac{6}{2}$ da distância do carrinho de Lucas. 
-
-(F) O carrinho de Lorenzo conseguiu ir $\frac{6}{4}$ da distância do carrinho de Lucas. 
-
-(G) O carrinho de Guilherme conseguiu ir o dobro da distância do carrinho de Lucas.
-
-(H) O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. 
+  - O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas.
+  - O carrinho de Heitor conseguiu ir $\frac{3}{2}$ da distância do carrinho de Lucas. 
+  - O carrinho de Rafael conseguiu ir $\frac{4}{2}$ da distância do carrinho de Lucas.
+  - O carrinho de Enzo conseguiu ir $\frac{5}{2}$ da distância do carrinho de Lucas. 
+  - O carrinho de Nicolas conseguiu ir $\frac{6}{2}$ da distância do carrinho de Lucas. 
+  - O carrinho de Lorenzo conseguiu ir $\frac{6}{4}$ da distância do carrinho de Lucas. 
+  - O carrinho de Guilherme conseguiu ir o dobro da distância do carrinho de Lucas.
+  - O carrinho de Samuel conseguiu ir $\frac{6}{3}$ da distância do carrinho de Lucas. 
 
 Com estas informações, marque as posições de parada dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
 
 {{ :cap2:secoes:corrida-01.png?1200 |}}
 
 Os carrinhos de Rafael e Samuel pararam no mesmo lugar? Explique.
-
-/*
-<hidden L:16-05-02>
-
-O que acham de ser uma pista só e todos os corredores serem marcados na mesma pista? Nesse caso, sugiro ter um encarte.
-
-Cataldo: acho que para cada corredor deve haver uma pista. Todavia, deve haver mais uma pista para que seja pedido que o aluno marque as posições, determinadas antes, de todos os corredores. 
-</hidden>
-*/
-
 
 <hidden Resposta>
 <WRAP resposta>
