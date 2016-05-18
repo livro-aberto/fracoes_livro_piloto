@@ -26,24 +26,16 @@ Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que a
 <WRAP imagem> Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria.
 </WRAP>
 
-a. Que fração de uma torta é uma fatia? Explique.
-
-b. Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
-
-c. Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
-
-d. Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
+  - Que fração de uma torta é uma fatia? Explique.
+  - Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
+  - Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
+  - Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de **uma torta**? Lembre-se que oito fatias formam uma torta inteira.
 
 <hidden Resposta>
 <WRAP resposta>
-a. Cada fatia é um oitavo de torta, pois cada torta está dividida em oito partes iguais.
-
-b. Havia para a sobremesa quatro oitavos de torta.
-
-c. Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.
-
-{{ :cap2:secoes:tortas-circulares-01.png?100 |}}
-
-d. Algumas respostas possíveis: dez oitavos de torta;  uma torta inteira e dois oitavos de torta; uma torta inteira e um quarto de torta.
+  - Cada fatia é um oitavo de torta, pois cada torta está dividida em oito partes iguais.
+  - Havia para a sobremesa quatro oitavos de torta.
+  - Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.{{ :cap2:secoes:tortas-circulares-01.png?100 |}}
+  - Algumas respostas possíveis: dez oitavos de torta;  uma torta inteira e dois oitavos de torta; uma torta inteira e um quarto de torta.
 </WRAP>
 </hidden>
