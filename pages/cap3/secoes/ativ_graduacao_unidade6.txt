@@ -7,8 +7,9 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * O formato da caixa determina uma escala linear de medida. Portanto, a faixa graduada tem que ser organizada de forma que   
+  * O formato da caixa, um prisma de base quadrangular, determina uma escala linear de medida. 
   * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
+  * Espera-se que os alunos descartem as faixas (a), (c) e (e). Observe com seus alunos que as faixas (a) e (c) não indicam 
 
   * Espera-se que os alunos identifiquem as faixas Formato da caixa d'água
 
@@ -21,12 +22,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-As figuras ilustram uma caixa d'água que está sendo enchida. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos.  
+As figuras ilustram uma caixa d'água que está sendo enchida em quatro momentos diferentes do processo. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos.  
+
+
 <WRAP imagem>
 {{ :cap3:secoes:caixas_d_agua.png?300 |}}
 
-
-</hidden Ilustrador>
 A figura deve ilustrar quatro caixas com quantidades diferentes de água (em ordem crescente de quantidade de água): uma com 1/8 da capacidade da caixa, outra com 1/4 do nível máximo, a terceira com metade e, por último, completa. Abaixo de cada caixa, indicar momento, Mometo 1, momento 2, momento 3 e momento 4. 
-</hidden>
 </WRAP>
