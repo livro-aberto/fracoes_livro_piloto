@@ -53,7 +53,3 @@ Os nomes numerador e denominador são utilizados para frações quaisquer mesmo 
 
 <WRAP imagem>{{ :cap2:secoes:numerador_denominador.jpg?800 |}} </WRAP>
 
-
-<hidden Comentários:>
-**LET 2016-05-02**: Seria bom, na ilustração, identificar o traço de fração. Alé disso, fiquei pensando que seria legal usarmos um estilo manuscrito em algumas anotações da seção conexões. Acho que seria o caso dessta imagem.
-</hidden>
