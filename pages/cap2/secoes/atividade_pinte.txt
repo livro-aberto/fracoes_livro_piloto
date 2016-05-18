@@ -1,10 +1,3 @@
-<hidden Classificações>
-  * Heid et al.: Conceito: identificar; Produto: gerar
-  * Nicely, Jr.: Nível 1: reconhecer; Nível 5: converter (simbolizar)
-  * UERJ: Interpretar: discriminar
-</hidden>
-
-
 <hidden Para o Professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a: 
@@ -15,19 +8,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. É possível que os alunos utilizem frações equivalentes como resposta para um mesmo item. Por exemplo, no Item (6), as frações $\frac{3}{6}$ e $\frac{1}{2}$ são respostas corretas. Nestes casos, dê a oportunidade para que cada aluno explique como chegou a sua resposta pois, procedendo desta maneira, mesmo de forma pontual, os alunos perceberão que uma mesma quantidade pode ser descrita por frações com nomes diferentes, um preparo para o assunto de frações equivalentes que será tratado na Lição 4.
   * No final da atividade, é importante enfatizar para seus alunos a propriedade matemática que esta atividade quer destacar, ou seja, que uma mesma quantidade pode ser descrita por frações diferentes com unidades de referência diferentes. Observe para eles que, no contexto "frações de", é fundamental saber a que o "de" se refere, isto é, qual é a unidade que está sendo considerada. 
+
+Classificações
+  * Heid et al.: Conceito: identificar; Produto: gerar
+  * Nicely, Jr.: Nível 1: reconhecer; Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
 </WRAP>
 </hidden>
-
-/*
-<hidden (L: 2016-05-02)>
-**LET 2016-05-02**: acho que, nos objetivos, devemos destacar apenas o objetivo matemático. Além disso, esse objetivo deve ser bem discutido com o professor (pedagogo).
-
-Além disso, acho o item (c) muito difícil, uma vez que a unidade determinada não é visível na íntegra na representação da fração.
-</hidden>
-Cataldo
-Concordo com a Letícia.
-*/
-
 
 Preencha cada lacuna a seguir com uma fração adequada (use notação simbólica matemática). Perceba que uma mesma parte pintada pode ser descrita por frações diferentes com unidades diferentes.
 
