@@ -19,11 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 As figuras ilustram uma caixa d'água que está sendo enchida. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos.  
-
+<WRAP imagem>
 {{ :cap3:secoes:caixas_d_agua.png?300 |}}
-
-
-<hidden Para o ilustrador>
 A figura deve ilustrar quatro caixas com quantidades diferentes de água (em ordem crescente de quantidade de água): uma com 1/8 da capacidade da caixa, outra com 1/4 do nível máximo, a terceira com metade e, por último, completa. Abaixo de cada caixa, indicar momento, Mometo 1, momento 2, momento 3 e momento 4. 
-
-</hidden>
+</WRAP>
