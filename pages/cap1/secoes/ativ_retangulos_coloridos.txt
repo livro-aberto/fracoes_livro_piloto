@@ -22,14 +22,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem quatro das oito imagens, Página A, e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras quatro, para concluir a atividade. Para as figuras da Página B, será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
 
-<hidden OBSERVAÇÕES>
-
+<WRAP nota> PÁGINA PARA REPRODUÇÃO
 
 Esses retângulos também devem ser confeccionados para encartes a serem reproduzido pelo professor e distribuidos aos alunos. Neste Caso, os retângulos devem estar organizados em duas páginas conforme a ilustração. 
  {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
+</WRAP>
 
-
-</hidden>
 </WRAP>
 </hidden>
 
