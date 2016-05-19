@@ -14,17 +14,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-(A) Pinte metade da figura.  
-
-{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
-
-(B) Pinte metade da figura de forma diferente de (A).
-
-{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
-
-(C) Pinte a metade da figura de forma diferente de (A) e (B).
-
-{{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
+    - Pinte metade da figura. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
+    - Pinte metade da figura de forma diferente do item anterior. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
+    - Pinte a metade da figura de forma diferente dos três anteriores. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
 
 
 <hidden resposta>
