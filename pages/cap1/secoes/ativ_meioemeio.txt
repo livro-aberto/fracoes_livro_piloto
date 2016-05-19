@@ -14,6 +14,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP nota> PÁGINA PARA REPRODUÇÃO - Na página para reprodução deve conter as figuras da imagem da atividade em tamanho suficiente para os estudantes recortarem e manipularem.
 </WRAP>
+</WRAP>
+
 </hidden>
 
 Identique as figuras em que a parte pintada é a metade da figura.
