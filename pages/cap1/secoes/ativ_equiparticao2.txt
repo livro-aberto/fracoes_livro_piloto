@@ -7,9 +7,6 @@ Objetivos específicos: Levar o aluno a
   * Distinguir uma equipartição dentre partições diversas.
   * Diferenciar "a divisão da unidade em quatro partes quaisquer" da "divisão da unidade em quatro partes iguais". 
   * Compreender as expressões "um quarto de" e "quarta parte de" como forma de identicar uma das partes da equipartição em 4 partes. 
-  
-
-
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
@@ -19,7 +16,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Os alunos devem reconhecer que apenas uma das repartições propostas sugere a equipartição, respondendo assim, a última questão proposta nesta atividade.
   * Essa atividade pode ser adaptada para alunos com deficiência visual. Para isso, sugere-se confeccionar os modelos das três pizzas repartidas, que estão disponíveis para reprodução (**Inserir LINK de página para reprodução**), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado. 
 
-<WRAP imagem> NA PÁGINA PAA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
+<WRAP imagem> 
+<WRAP nota> NA PÁGINA PARA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
+</WRAP>
 
 {{:cap1:secoes:licao1_atv2.png?500|}}
 ilustração: Cambrainha
@@ -37,14 +36,14 @@ ilustração: Cambrainha
 
 </WRAP>
 
-(A) Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?\\
-(B) Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?\\
-(C) Em qual dos grupos as 4 crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
+    - Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?\\
+    - Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?\\
+    - Em qual dos grupos as 4 crianças receberam a mesma quantidade de pizza? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 <hidden Resposta>
 <WRAP resposta>
-(A) Sim. Cada grupo repartiu sua pizza em quatro pedaços.\\
-(B) Não. Pois os pedaços têm tamanhos diferentes.\\
-(C) Apenas no grupo 1 as 4 crianças receberam a mesma quantidade de pizza. Cada fatia é "um quarto" da pizza ou "a quarta parte" da pizza. 
+    - Sim. Cada grupo repartiu sua pizza em quatro pedaços.\\
+    - Não. Pois os pedaços têm tamanhos diferentes.\\
+    - Apenas no grupo 1 as 4 crianças receberam a mesma quantidade de pizza. Cada fatia é "um quarto" da pizza ou "a quarta parte" da pizza. 
 </WRAP>
 </hidden>
