@@ -1,22 +1,23 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a 
   * Conhecer e compreender as expressões correspondentes as frações unitárias com denominadores de 5 a 10.  
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
-  *É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
-  *Aproveite esta atividade para revisar o vocabulário desenvolvido nesta seção: //Unidade; metade, um meio, um terço, terça parte, um quarto, quarta parte, um quinto, quinta parte, um sexto, sexta parte, um sétimo, sétima parte, um oitavo, oitava parte, um nono, nona parte, um décimo// e //décima parte//.
+  * É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
+  * Aproveite esta atividade para revisar o vocabulário desenvolvido nesta seção: //Unidade; metade, um meio, um terço, terça parte, um quarto, quarta parte, um quinto, quinta parte, um sexto, sexta parte, um sétimo, sétima parte, um oitavo, oitava parte, um nono, nona parte, um décimo// e //décima parte//.
+
 </WRAP>
 </hidden>
 
 Considere o círculo como unidade. Que afirmação corresponde à parte colorida em cada uma das figuras? \\
-a)	A parte colorida é um quinto do círculo.\\
-b)	A parte colorida é a sexta parte do círculo.\\
-c)	A parte colorida é um sétimo do círculo.\\
-d)	A parte colorida é um oitavo do círculo.\\
-e)	A parte colorida é a nona parte do círculo.\\
-f)	A parte colorida é um décimo do círculo.
+    -	A parte colorida é um quinto do círculo.
+    -	A parte colorida é a sexta parte do círculo.
+    -	A parte colorida é um sétimo do círculo.
+    -	A parte colorida é um oitavo do círculo.
+    -	A parte colorida é a nona parte do círculo.
+    -	A parte colorida é um décimo do círculo.
 
 <WRAP imagem> 
 {{ :cap1:secoes:circulos.jpg?600 |}}
@@ -24,11 +25,11 @@ f)	A parte colorida é um décimo do círculo.
 
 <hidden Resposta>
 <WRAP resposta>
-a) A esta afirmação corresponde a figura G).\\
-b) A esta afirmação corresponde a figura D).\\
-c) A esta afirmação corresponde a figura I).\\
-d) A esta afirmação corresponde a figura B).\\
-e) A esta afirmação corresponde a figura A).\\
-f) A esta afirmação corresponde a figura F).
+    - A esta afirmação corresponde a figura G).
+    - A esta afirmação corresponde a figura D).
+    - A esta afirmação corresponde a figura I).
+    - A esta afirmação corresponde a figura B).
+    - A esta afirmação corresponde a figura A).
+    - A esta afirmação corresponde a figura F).
 </WRAP>
 </hidden>
