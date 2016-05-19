@@ -23,32 +23,18 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
 </WRAP>
 </hidden>
 
-(A) Pinte metade do quadrado a seguir.
-{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
-
-(B) Pinte um quarto do quadrado a seguir.
-{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
-
-(C) Pinte um oitavo do quadrado a seguir.
-{{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
-
+    - Pinte metade do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+    - Pinte um quarto do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
+    - Pinte um oitavo do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?500 |}}
 
 <hidden Resposta>
 <WRAP resposta>
 
 Algumas soluções possíveis, convencionais e outras menos convencionais são:
 
-(A) Metade:
-
-{{:cap1:secoes:licao1_atv7_metade.png?400|}}
-
-(B) Um quarto:
-
-{{:cap1:secoes:licao1_atv7_quarto.png?400|}}
-
-(C) Um oitavo:
-
-{{:cap1:secoes:licao1_atv7_oitavo.png?400|}}
+      - Metade: \\ {{:cap1:secoes:licao1_atv7_metade.png?400|}}
+      - Um quarto:\\ {{:cap1:secoes:licao1_atv7_quarto.png?400|}}
+      - Um oitavo: \\ {{:cap1:secoes:licao1_atv7_oitavo.png?400|}}
 
 Incluir também as soluções abaixo.
 
