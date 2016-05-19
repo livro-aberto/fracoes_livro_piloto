@@ -3,16 +3,16 @@
 Objetivos específicos: Levar o aluno a   
   * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária, a partir da justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador. 
   * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, oito).
-  * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a //n// partes da equipartição da unidade em oito partes, incluindo os casos em que //n// é maior do que oito (frações impróprias).
+  * Compreender e a usar a expressão "$n$ oitavos de" como forma de identicar a quantidade equivalente a $n$ partes da equipartição da unidade em oito partes, incluindo os casos em que $n$ é maior do que oito (frações impróprias).
   * Reconhecer que uma mesma quantidade pode ser expressa por frações equivalentes de uma mesma unidade (por exemplo, "meia torta" e "quatro oitavos de torta" representam a mesma quantidade de torta).
 
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos”, “dez oitavos" e “uma torta e dois oitavos”. 
-  * As respostas esperadas para o Item (c) podem surgir na resolução do Item (b). Caso isso aconteça, recomenda-se que as frações corretas correspondentes a $4$ fatias de torta ($\frac{1}{2}$ de torta, $\frac{2}{4}$ de torta, $\frac{3}{6}$ de torta, etc.) sejam reconhecidas como tal, mas que, conforme solicitado pelo enunciado, a resposta deve ser dada em termos de oitavos. 
-  * No Item (b), é importante estimular o aluno a dar uma explicação para sua resposta: por que você pensou em $\frac{1}{2}$ de torta? Por que você pensou em $\frac{3}{6}$ de torta? Etc.
+  * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos", "dez oitavos" e “uma torta e dois oitavos”. 
+  * As respostas esperadas para o Item 3 podem surgir na resolução do Item 3. Caso isso aconteça, recomenda-se que as frações corretas correspondentes a $4$ fatias de torta ($\frac{1}{2}$ de torta, $\frac{2}{4}$ de torta, $\frac{3}{6}$ de torta, etc.) sejam reconhecidas como tal, mas que, conforme solicitado pelo enunciado, a resposta deve ser dada em termos de oitavos. 
+  * No Item 2, é importante estimular o aluno a dar uma explicação para sua resposta: por que você pensou em $\frac{1}{2}$ de torta? Por que você pensou em $\frac{3}{6}$ de torta? Etc.
 
 Classificações
   * Heid et al.: Conceito: identificar, descrever
