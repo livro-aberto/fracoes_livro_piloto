@@ -1,4 +1,4 @@
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a:
@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
     - Pinte a metade da figura de forma diferente dos três anteriores. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
 
 
-<hidden resposta>
+<hidden Resposta>
 <WRAP Resposta>
 Algumas das respostas possíveis para este problema são:
 {{ :cap1:secoes:hexagonos_licao_um.jpg?900 |}}
