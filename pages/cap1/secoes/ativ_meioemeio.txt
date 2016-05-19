@@ -8,9 +8,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente.
   * Esta atividade pretende levar o aluno a perceber que a metade de uma unidade pode ser considerada e identificada mesmo sem que se tenha uma divisão em duas partes iguais. 
   * Como nas atividades anteriores, não se espera que o aluno use a medida para confirmar a metade. O objetivo é que o aluno identifique a representação da metade (ou não) por sobreposição e justaposição das partes, decompondo e recompondo a figura.
-  * Cada aluno deve receber as imagens das figuras, disponíveis para reprodução (**Inserir LINK de página para reprodução**) para que possa manipular como achar melhor e conduzir a sua decisão. 
+  * Cada aluno deve receber as imagens das figuras, disponíveis para reprodução (**Inserir LINK para a página para reprodução**) para que possa manipular como achar melhor e conduzir a sua decisão. 
   * Incentive os alunos a argumentar, justificando a sua decisão. Para isso, podem, por exemplo, se apoiar em dobraduras ou no recorte das partes da figura.
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.   
+
+<WRAP nota> PÁGINA PARA REPRODUÇÃO - Na página para reprodução deve conter as figuras da imagem da atividade em tamanho suficiente para os estudantes recortarem e manipularem.
 </WRAP>
 </hidden>
 
