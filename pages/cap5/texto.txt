@@ -2,6 +2,8 @@
 
 {{page>cap5:secoes:intro}}
 
+====== EXPLORANDO O ASSUNTO ======
+
 {{page>cap5:secoes:explorando_o_assunto}}
 
 
@@ -24,12 +26,25 @@
 
 {{page>cap5:secoes:organizando_as_ideias}}
 
-
-{{page>cap5:secoes:massa}}
+====== MÃO NA MASSA ======
 
 ===== - Atividade =====
 
 {{page>cap5:ativ:_renomear_}}
 
 
-{{page>cap5:secoes:refletindo}}
+====== QUEBRANDO A CUCA ======
+
+
+===== - Atividade =====
+
+{{page>cap5:ativ:_renomear__}}
+
+
+
+====== REFLETINDO ======
+
+
+===== - Atividade =====
+
+{{page>cap5:ativ:_renomear___}}
