@@ -1,0 +1,38 @@
+<hidden Para o professor>
+<WRAP professor>
+ Objetivo específico: Levar o aluno a
+
+    * Identificar BLÁBLÁ
+    * BLÉBLÉ
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+    * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
+    * Outras sugestões...
+
+<WRAP nota>
+PREFERENCIALMENTE EM GRUPO de 3 a 5 alunos.
+</WRAP>
+
+<WRAP nota>
+PÁGINA PARA REPRODUÇÃO
+</WRAP>
+
+<WRAP nota>
+MATERIAL CONCRETO
+</WRAP>
+
+<WRAP nota>
+NECESSÁRIO (POSSIBILIDADE DE) USAR RECURSO DIGITAL
+</WRAP>
+
+</WRAP>
+</hidden>
+
+Texto da atividade
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
