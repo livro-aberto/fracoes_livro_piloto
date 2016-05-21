@@ -20,7 +20,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 <hidden Resposta>
-<WRAP Resposta>
+<WRAP resposta>
+
 Algumas das respostas possíveis para este problema são:
 {{ :cap1:secoes:hexagonos_licao_um.jpg?900 |}}
 
