@@ -26,6 +26,13 @@ MATERIAL CONCRETO
 NECESSÁRIO (POSSIBILIDADE DE) USAR RECURSO DIGITAL
 </WRAP>
 
+</WRAP>
+</hidden>
 
+Texto da atividade
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
 </WRAP>
 </hidden>
