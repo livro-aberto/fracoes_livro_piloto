@@ -4,24 +4,22 @@
 
 ====== EXPLORANDO O ASSUNTO ======
 
-{{page>cap5:secoes:explorando_o_assunto}}
-
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_renomear}}
+{{page>cap5:ativ:_1renomear}}
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:__renomear}}
+{{page>cap5:ativ:_2renomear}}
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:___renomear}}
+{{page>cap5:ativ:_3renomear}}
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_____renomear}}
+{{page>cap5:ativ:_4renomear}}
 
 
 {{page>cap5:secoes:organizando_as_ideias}}
@@ -30,7 +28,7 @@
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_renomear_}}
+{{page>cap5:ativ:_5renomear}}
 
 
 ====== QUEBRANDO A CUCA ======
@@ -38,7 +36,7 @@
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_renomear__}}
+{{page>cap5:ativ:_6renomear}}
 
 
 
@@ -47,4 +45,4 @@
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_renomear___}}
+{{page>cap5:ativ:_7renomear}}
