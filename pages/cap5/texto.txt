@@ -4,12 +4,32 @@
 
 {{page>cap5:secoes:explorando_o_assunto}}
 
-{{page>cap5:secoes:abstrato}}
 
 ===== - Atividade =====
 
-{{page>cap5:secoes:atividade1}}
+{{page>cap5:ativ:_renomear}}
+
+===== - Atividade =====
+
+{{page>cap5:ativ:__renomear}}
+
+===== - Atividade =====
+
+{{page>cap5:ativ:___renomear}}
+
+===== - Atividade =====
+
+{{page>cap5:ativ:_____renomear}}
+
+
+{{page>cap5:secoes:organizando_as_ideias}}
+
+
+{{page>cap5:secoes:massa}}
+
+===== - Atividade =====
+
+{{page>cap5:ativ:_renomear_}}
+
 
 {{page>cap5:secoes:refletindo}}
-
-{{page>cap5:secoes:limbo}}
