@@ -83,5 +83,5 @@ O aluno deve ser capaz de:
   * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração $\frac{a}{b}$.
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
-</hidden>
 </WRAP>
+</hidden>
