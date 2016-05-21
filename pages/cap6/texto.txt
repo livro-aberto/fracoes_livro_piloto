@@ -27,7 +27,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 
-{{page>cap6:ativ:_6renomear}}
+{{page>cap6:ativ:7renomear}}
 
 ====== QUEBRANDO A CUCA ======
 
@@ -35,4 +35,4 @@ Esta seção inclui exercícios que são desafios, atividades que levem a um apr
 
 ===== - Atividade =====
 
-{{page>cap6:ativ:_6renomear}}
+{{page>cap6:ativ:7renomear}}
