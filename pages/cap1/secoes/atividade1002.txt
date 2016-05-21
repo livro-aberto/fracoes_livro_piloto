@@ -91,6 +91,3 @@ Estas são algumas das respostas possíveis para cada um  dos itens:
 
 </WRAP>
 </hidden>
-
-<hidden OBSERVAÇÃO>**FS:** O livro é não consumível, a questão precisa ser adaptada.
-</hidden>
