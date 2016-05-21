@@ -1,1 +1,13 @@
-===== Introdução =====
+<hidden Para o professor>
+<WRAP professor>
+Esta lição tem por objetivo... nesta lição serão apresentados...
+
+As atividades visam ...
+
+OBJETIVOS ESPECÍFICOS DA LIÇÃO 5: O aluno deve ser capaz de: 
+    * objetivo
+    * outro objetivo
+    * outro mais
+    
+</WRAP>
+</hidden>
