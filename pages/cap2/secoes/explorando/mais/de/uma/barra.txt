@@ -38,19 +38,18 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
   - Na divisão de cada uma das barras de chocolate em três partes iguais, cada parte é que fração de uma barra de chocolate?
   - Você concorda com a divisão que Ana sugeriu? Explique. 
   - Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate? 
-  - Na divisão proposta por Ana, como você nomearia, usando uma fração de uma barra de chocolate, a quantidade de chocolate que cada irmã receberia?\\ \\ 
-Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs. \\ \\
+  - Na divisão proposta por Ana, como você nomearia, usando uma fração de uma barra de chocolate, a quantidade de chocolate que cada irmã receberia? \\ Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
   - Se Ana desse metade da qauntidade de chocolate que recebeu para cada uma de suas irmãs, que quantidade de chocolate Beatriz e Clara passariam a ter? Como você nomearia, usando frações, essas quantidades?  
   - E se Ana desse toda a quantidade de chocolate que recebeu para Beatriz, que quantidade de chocolate  Beatriz passaria a ter? Como você nomearia, usando frações, essa quantidade?
 
 <hidden Resposta>
 <WRAP resposta>
-1. Um terço. \\
-2. Sim, pois a divisão foi justa no seguinte sentido: cada irmã recebeu a mesma quantidade de chocolate. \\
-3. Sim, pois cada irmã recebeu dois um terços de barra de chocolate. \\
-4. Dois terços. \\
-5. Três terços ou uma barra inteira de chocolate. \\
-6. Quatro terços ou uma barra inteira e um terço de chocolate.
+    - Um terço.
+    - Sim, pois a divisão foi justa no seguinte sentido: cada irmã recebeu a mesma quantidade de chocolate. 
+    - Sim, pois cada irmã recebeu dois um terços de barra de chocolate. 
+    - Dois terços. 
+    - Três terços ou uma barra inteira de chocolate. 
+    - Quatro terços ou uma barra inteira e um terço de chocolate.
 </WRAP>
 </hidden>
 
