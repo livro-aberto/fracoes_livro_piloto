@@ -4,45 +4,32 @@
 
 ====== EXPLORANDO O ASSUNTO ======
 
+Esta é uma seção de atividades exploratórias sobre o conteúdo da lição. Para criar novas atividades, basta clicar em "Editar esta página" na lateral direita, copiar as 2 linhas que aparecem sob este texto na janela que se abrirá, colar na posição em que deve entrar a atividade e renomear a atividade. Não nomeie a atividade com números pois caso você mude a atividade de posição a numeração ficará errada.
 
 ===== - Atividade =====
 
 {{page>cap5:ativ:_1renomear}}
 
-===== - Atividade =====
-
-{{page>cap5:ativ:_2renomear}}
-
-===== - Atividade =====
-
-{{page>cap5:ativ:_3renomear}}
-
-===== - Atividade =====
-
-{{page>cap5:ativ:_4renomear}}
-
-
 {{page>cap5:secoes:organizando_as_ideias}}
 
 ====== MÃO NA MASSA ======
+
+Esta é a seção de exercícios da lição. Caso seja necessário incluir alguma observação adcional ao estudante como uma conclusão do que foi tratado em algumas atividades, crie uma página Refletindo em qualquer lugar entre as atividades da seção.
 
 ===== - Atividade =====
 
 {{page>cap5:ativ:_5renomear}}
 
-
-====== QUEBRANDO A CUCA ======
-
+{{page>cap5:secoes:refletindo}}
 
 ===== - Atividade =====
 
 {{page>cap5:ativ:_6renomear}}
 
+====== QUEBRANDO A CUCA ======
 
-
-====== REFLETINDO ======
-
+Esta seção inclui exercícios que são desafios, atividades que levem a um aprofundamento da visão do estudante sobre o conteúdo, etc. Aqui também pode-se incluir seções Refletindo.
 
 ===== - Atividade =====
 
-{{page>cap5:ativ:_7renomear}}
+{{page>cap5:ativ:_6renomear}}
