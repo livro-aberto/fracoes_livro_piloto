@@ -26,5 +26,3 @@ Os outro três jogadores do time B dividiram a última garrafa em 3 partes iguai
 b) Quem dividiu a garrafa com mais pessoas, ficou com menos água. Então os quatro jogadores da linha do time A receberam menos água que os demais grupos. Como os jogadores da linha do time B, exceto o Claudinho, dividiram entre 3 eles ficaram com mais que os anteriores. Os goleiros dividiram a garrafa entre eles apenas então cada um dispôs de meia garrafa, logo mais do que os jogadores da linha do time B. Finalmente, Claudinho teve uma garrafa para ele apenas, logo teve mais água que todos os outros.
 </WRAP>
 </hidden>
-
-<hidden OBSERVAÇÕES> **AP:** Acredito que o nível de abstração dessa atividade a torna inadequada para a primeira lição. Pensando nas séries, sugeriria essa questão para nível de 6º ano.</hidden>
