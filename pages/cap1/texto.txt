@@ -5,9 +5,7 @@
 /*
 page>cap1:secoes:intro
 */
-
-
-{{page>cap1:secoes:explorando_o_assunto}}
+====== EXPLORANDO O ASSUNTO ======
 
 ===== - Atividade =====
 
@@ -23,7 +21,7 @@ page>cap1:secoes:intro
 
 {{page>cap1:secoes:conexoes}}
 
-{{page>cap1:secoes:massa}}
+====== MÃO NA MASSA ======
 
 ===== - Atividade =====
 
