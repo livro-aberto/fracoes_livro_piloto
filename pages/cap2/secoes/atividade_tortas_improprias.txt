@@ -10,7 +10,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
-  * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos", "dez oitavos" e “uma torta e dois oitavos”. 
+  * É importante que a discussão conduza os alunos ao uso de oitavos: "quatro oitavos", "dez oitavos" e "uma torta e dois oitavos". 
   * As respostas esperadas para o Item 3 podem surgir na resolução do Item 3. Caso isso aconteça, recomenda-se que as frações corretas correspondentes a $4$ fatias de torta ($\frac{1}{2}$ de torta, $\frac{2}{4}$ de torta, $\frac{3}{6}$ de torta, etc.) sejam reconhecidas como tal, mas que, conforme solicitado pelo enunciado, a resposta deve ser dada em termos de oitavos. 
   * No Item 2, é importante estimular o aluno a dar uma explicação para sua resposta: por que você pensou em $\frac{1}{2}$ de torta? Por que você pensou em $\frac{3}{6}$ de torta? Etc.
 
