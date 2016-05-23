@@ -1,7 +1,7 @@
 <WRAP imagem>
 HISTÓRIA EM QUADRINHOS
 
-Miguel é um menino negro de cabelos cheios e cacheados. Alice é uma menina morena de rabo de cavalo. Eles já apareceram na introdução da Lição 2.
+Miguel é um menino negro de cabelos cheios e cacheados. Alice é uma menina morena de rabo de cavalo. Eles e a professora já apareceram na introdução da Lição 2.
 
 **Quadrinho 1**
 
@@ -23,6 +23,24 @@ Miguel: Parece difícil comparar. Você tem alguma figura?
 
 Alice: Sim, aqui está:
 
+{{ :undefined:problema-motivador.png?350 |}}
 
+**Quadrinho 5**
 
+Miguel: Parecem iguais na figura!
+
+Alice: Será que são?
+ 
+**Quadrinho 6**
+
+Professora: Miguel e Alice, as frações não são iguais!
+
+**Quadrinho 7**
+
+Professora: Na lição de hoje, aprenderemos uma maneira de comparar
+duas frações quaisquer!
+
+**Quadrinho 8**
+
+Professora: Vamos começar?
 </WRAP>
