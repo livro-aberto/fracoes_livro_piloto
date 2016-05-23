@@ -11,7 +11,7 @@ O raio do círculo deve ser igual ao raio dos setores circulares usados na Liç�
 </WRAP>
 </WRAP>
 
-Com o encarte e os setores circulares coloridos que você recebeu, complete a tabela a seguir. O objetivo é descobrir que fração do círculo está pintado de cinza.
+Com o encarte e os setores circulares coloridos que você recebeu, complete a tabela a seguir. O objetivo é descobrir que fração do círculo está pintado de cinza em termos dos setores circulares.
 
 | Tipo da peça |  Quantas peças cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo do encarte?  | Que fração do círculo ficou sem preencher? |
 | $\frac{1}{3}$ {{:cap4:secoes:peca-um-terco.png?300|}}  | | | |
