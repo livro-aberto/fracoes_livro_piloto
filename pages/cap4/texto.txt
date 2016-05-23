@@ -1,11 +1,9 @@
 {{page>cap4:secoes:preambulo}}
 
+{{page>cap4:secoes:problema_motivador}}
 
 {{page>cap4:secoes:explorando_intro}}
 
-===== - Atividade =====
-
-{{page>cap4:secoes:problema_motivador}}
 
 ===== - Atividade =====
 
