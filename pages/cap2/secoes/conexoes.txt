@@ -3,13 +3,11 @@
 <WRAP professor>
 Nesta etapa, espera-se que os alunos compreendam as frações $\frac{a}{b}$ como adição por justaposição de //a// frações $\frac{1}{b}$ da unidade. Observe que esse entendimento é construído a partir de modelos contínuos e amparado por situações concretas. Assim, como explicado na introdução desta seção, por exemplo, “dois terços” de uma unidade dada são obtidos pela justaposição de duas partes correspondentes a “um terço” da mesma unidade. 
 
-Esse entendimento terá reflexos na forma como são lidas as frações $\frac{a}{b}$. Não se espera que os alunos leiam essa fraçoes como "//a sobre b//" ou como "//a dividido por b//". Nesta etapa, espera-se que pos alunos leiam essas fraçoes 
+Esse entendimento terá reflexos na forma como são lidas as frações $\frac{a}{b}$. Não se espera que os alunos leiam essa frações como "//a sobre b//" nem como "//a dividido por b//". Nesta etapa, espera-se que pos alunos leiam essas frações, por exemplo, como “dois terços” ou “dois um terços” da unidade. As outras formas de leitura serão tratadas em seções posteriores.
 
-Nesse sentido, é importante discutir com os alunos as frações que representam números naturais. Por exemplo, na atividade 2, a fração $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. 
+Nesse contexto, é importante discutir com os alunos as frações que representam números naturais. Por exemplo, na atividade 2, a fração $\frac{3}{3}$ da torta é a torta inteira e $\frac{6}{3}$ da torta são duas tortas. 
 
-
-
-Observa-se que a notação de fração costuma parecer estranha porque é um símbolo composto por dois números de significados diferentes, 
+Por fim, observa-se que a notação de fração costuma parecer estranha porque é um símbolo composto por dois números de significados diferentes, 
 um sobre o outro. Isso contraria a escrita usual dos números naturais. Alguns povos antigos tiveram representações diferentes
 para estes números.  Contudo, é importante lembrar que hoje essa notação é mundialmente aceita, portanto, deve ser bem 
 compreendida. 
