@@ -1,5 +1,28 @@
-<WRAP professor>
-Objetivo específico: Levar o aluno a 
-  * Reconhecer o uso de frações equivalentes como um recurso para a comparação de duas frações, no caso, $\frac{2}{9}$ e $\frac{1}{3}$.  
-</WRAP>
+<WRAP imagem>
+HISTÓRIA EM QUADRINHOS
 
+Miguel é um menino negro de cabelos cheios e cacheados. Alice é uma menina morena de rabo de cavalo. Eles já apareceram na introdução da Lição 2.
+
+**Quadrinho 1**
+
+Alice: Miguel, qual fração é maior? $\frac{}{}$ ou $\frac{}{}$?
+
+Miguel: Hummm...
+
+**Quadrinho 2**
+
+Miguel: Os denominadores são diferentes... 
+
+**Quadrinho 3**
+
+Miguel: Os numeradores também são diferentes... 
+
+**Quadrinho 4**
+
+Miguel: Parece difícil comparar. Você tem alguma figura?
+
+Alice: Sim, aqui está:
+
+
+
+</WRAP>
