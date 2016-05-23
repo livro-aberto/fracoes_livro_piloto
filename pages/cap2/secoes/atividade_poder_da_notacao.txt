@@ -25,8 +25,8 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 | Escreva, por extenso, a fração de pizza consumida                          |                                       |                                       |                                        |                                       |
 | Escreva, usando notação simbólica matemática, a fração de pizza consumida  |                                       |                                       |                                        |                                       |
 
-    - Na sua opinião, qual é a representação de fração que gasta menos lápis para se fazer? Usando notação simbólica matemática, escrevendo por extenso ou pintando?
-    - Na sua opinião, qual é a representação mais rápida para se decidir quem comeu mais e quem comeu menos pizza?
+    - Na sua opinião, qual representação de fração "gasta menos lápis" para se escrita? Usando notação simbólica matemática, escrevendo por extenso ou pintando?
+    - Na sua opinião, qual a representação que mais rápidamente ajuda a decidir quem comeu mais e quem comeu menos pizza?
 
 <hidden Resposta>
 <WRAP resposta>
