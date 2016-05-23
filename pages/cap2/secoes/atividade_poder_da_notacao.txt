@@ -26,7 +26,7 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 | Escreva, usando notação simbólica matemática, a fração de pizza consumida  |                                       |                                       |                                        |                                       |
 
     - Na sua opinião, qual representação de fração "gasta menos lápis" para se escrita? Usando notação simbólica matemática, escrevendo por extenso ou pintando?
-    - Na sua opinião, qual a representação que mais rápidamente ajuda a decidir quem comeu mais e quem comeu menos pizza?
+    - Na sua opinião, qual a representação que mais rapidamente ajuda a decidir quem comeu mais e quem comeu menos pizza?
 
 <hidden Resposta>
 <WRAP resposta>
@@ -36,7 +36,7 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 | Escreva a fração de pizza consumida usando notação simbólica matemática   | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
 
   - A que usa a notação simbólica matemática.
-  - As respostas podem variar de pessoa para pessoa.
+  - As respostas podem variar de pessoa para pessoa. No entanto, a justificativa deve ser coerente com a resposta. Discuta com a turma as diferentes respostas.
 
 </WRAP>
 </hidden>
