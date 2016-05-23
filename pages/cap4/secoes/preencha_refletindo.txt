@@ -1,3 +1,3 @@
 <WRAP Refletindo>
-HJB para Cataldo (2016-05-23): aqui eu escreveria um texto observando para o aluno que nas três últimas linhas da tabela que ele preencheu, as justaposições de cada tipo de setor circular está preenchendo uma mesma área (a área cinza do encarte). Assim, as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{23}$ são iguais pois especificam uma mesma quantidade.
+HJB para Cataldo (2016-05-23): aqui eu escreveria um texto observando para o aluno que nas três últimas linhas da tabela que ele preencheu, as justaposições de cada tipo de setor circular está preenchendo uma mesma área (a área cinza do encarte). Assim, as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais pois especificam uma mesma quantidade.
 </WRAP>
