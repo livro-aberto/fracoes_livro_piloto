@@ -74,12 +74,7 @@ Também serão abordadas a notação simbólica de frações e a comparação de
 
 As frações com numerador diferente de 1 são apresentadas a partir da /* ** adição por justaposição de frações unitárias com mesmo denominador ou simplesmente contando-se essas frações** */ ** justaposição de partes correspondentes às frações unitárias com mesmo denominador ou simplesmente contando-se essas frações **. Para isso, tem-se a representação pictórica como um apoio importante. 
 
-Por exemplo, a fração $\frac{2}{3}$ de uma unidade dada será inicialmente apresentada como a adição por justaposição de duas  partes correspondentes à fração $\frac{1}{3}$ de uma mesma unidade.
-
-INCLUIR IMAGEM QUE ILUSTRE O EXEMPLO ACIMA. 
-
-
-
+Por exemplo, na atividade 1, a fração $\frac{2}{3}$ da barra de chocolate é apresentada como a adição por justaposição de duas partes correspondentes à terça parte (ou à fração $\frac{1}{3}$) da barra de chocolate.
 
 Nas primeiras atividades, há um esforço deliberado para que o estudante faça uso da linguagem de frações apresentada na Lição 1 para expressar frações não unitárias. Por exemplo: sabendo que uma das três fatias iguais em que foi dividida uma torta é um terço da torta, espera-se que o aluno use a linguagem "dois terços" ou "dois um terços" da torta para se referir a duas fatias. Assim, "dois terços" são obtidos pela justaposição de duas partes correspondentes a "um terço". O objetivo é que esse processo se estenda para a compreensão das demais frações não unitárias. Assim, as frações "quatro quintos" e "seis quintos" são entendidas como "quatro um quintos" e "seis um quintos", respectivamente.
 
