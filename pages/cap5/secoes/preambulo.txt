@@ -39,10 +39,8 @@ Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais
 
 Propor atividades que envolvam: a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1 e a adição de frações com denominadores diferentes. Sempre apoiadas pela representaçào em modelos contínuos e na representação pictórica.\\
 
-Além disso, contemplar atividades que envolvam a adição de mais do que duas parcelas.
 
-**QUEBRANDO A CUCA**
-O quebrando a cuca deve ter problemas variados que contemplem os diversos significados e interpretações associados às operações de adição e subtração e parcelas que envolvam frações com mesmo denominador, denominadores múltiplos, denominadores diferentes em geral, frações não inteiras e números naturais e o 0 e o 1.
+O Mão na Massa a cuca deve ter problemas variados que contemplem os diversos significados e interpretações associados às operações de adição e subtração e parcelas que envolvam frações com mesmo denominador, denominadores múltiplos, denominadores diferentes em geral, frações não inteiras e números naturais e o 0 e o 1.
 
 |                                                      ^  Adição                 ^^  Subtração                         ^^^
 ^  Parcelas                                            ^  Juntar  ^  Acrescentar  ^  Completar  ^  Comparar  ^  Retirar  ^
@@ -52,9 +50,17 @@ O quebrando a cuca deve ter problemas variados que contemplem os diversos signif
 | Frações não inteiras e número inteiro                |          |               |             |            |           |
 | 0 e 1                                                |          |               |             |            |           |
 
-   * Além disso, na seção quebrando a cuca, as atividades que envolverem a operação de frações com denominadores diferentes, de frações não inteoiros e números naturais e o e 1 devem ser acompanhadas  de caixas do tipo "refletindo".
-  * É importante que nesta seção sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. Essas atividades podem envolver apenas representações em modelos contínuos, por exemplo.  
+   * Além disso, na seção Mão na Massa, as atividades que envolverem a operação de frações com denominadores diferentes, de frações não inteiras e números naturais e o e 1 devem ser acompanhadas de caixas do tipo "refletindo".
+  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. Essas atividades podem envolver apenas representações em modelos contínuos, por exemplo.  
   * Seria muito bem vinda a incusão de um jogo.
+
+
+
+**QUEBRANDO A CUCA**
+
+  * Contemplar atividades que envolvam a adição de mais do que duas parcelas.
+  * Essa atividade deve ser 
+
 
 
 **Dúvidas:**
