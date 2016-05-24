@@ -4,7 +4,7 @@
 /* Estrutura da Lição
 
 **Conteúdos utilizados da lição anterior**
-  - Compreensão de frações $\frac{a}{b}$, a e b naturais quaisquer com b não nulo, como a reunião de a partes equivalentes a  $\frac{1}{b}$ da unidade.
+  * Compreensão de frações $\frac{a}{b}$, a e b naturais quaisquer com b não nulo, como a reunião de a partes equivalentes a  $\frac{1}{b}$ da unidade.
 
 **Conteúdos da lição:** 
   * Adição e subtração de frações. 
@@ -24,27 +24,35 @@ As atividades iniciais devem contemplar:
 Destacar, para o professor, que:
   * Item de lista não ordenadaOs significados e as interpretações correspondentes às operações de adição e de subração já são conhecidos dos alunos. Que o desafio é realizar essas operações com as frações;
 
-
 Para o aluno:
-- Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
+  * Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
 
 **MÃO NA MASSA**
 Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos. 
-- importante: propor atividades que envolvam a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1. 
+Importante: propor atividades que envolvam a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1. 
 
 **QUEBRANDO A CUCA**
-- Problemas que envolvam a adição de mais do que duas parcelas
-- Problemas que envolvam 
+O quebrando a cuca deve ter problemas variados que contemplem os diversos significados e interpretações associados às operações de adição e subtração e parcelas que envolvam frações com mesmo denominador, denominadores múltiplos, denominadores diferentes em geral, frações não inteiras e números naturais e o 0 e o 1.
+
+|                                                      ^  Adição                 ^^  Subtração                         ^^^
+^  Parcelas                                            ^  Juntar  ^  Acrescentar  ^  Completar  ^  Comparar  ^  Retirar  ^
+| Frações com denominadores iguais                     ^          ^               |             |            |           |
+| Frações com denominadores diferentes, mas múltiplos  |          |               |             |            |           |
+| Frações com denominadores diferentes                 |          |               |             |            |           |
+| Frações não inteiras e número inteiro                |          |               |             |            |           |
+| 0 e 1                                                |          |               |             |            |           |
+
+
 
 **Dúvidas:**
   - Usaremos o modelo pictórico de barras?
   - Ainda não falamos nada de frações em contextos discretos. Faremos as operações apenas em contextos contínuos?
 
 **Decisões tomadas:**
-  * Sobre 
+  * Sobre frações em contextos discretos, em conversa com Francisco e Fábio, prevaleceu a avaliação de que esses contextos devem ficar para depois.
 
 **Observações:**
-Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
+  * Nos textos franceses não há operação com frações nesta etapa da escolaridade. No entanto, são tratadas frações mistas (soma de um inteiro 
 
 
 */
