@@ -21,7 +21,8 @@ Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser propost
 As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
   * Acho que é prematura a interpretação da multiplicação envolvendo duas grandezas.
-  * No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$ )
+  * No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$). Nesse contexto,
+  * 
   * DÚVIDA: trabalharemos com onjuntos discretos????? Talvez qui seja o momento!!!!
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
@@ -61,6 +62,7 @@ Para o aluno:
 **Observações:**
 Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
 
+\\
 
 </hidden>
 
