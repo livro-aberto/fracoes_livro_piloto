@@ -9,7 +9,10 @@
 
 \\
 **Conteúdos da lição:** 
-      * Multiplicação de frações. 
+      * Multiplicação de número natural por fração - sustentando o sginificado de adição de parcelas iguais.
+      * Multiplicação de uma fração por um número natural - sutentando o significado de ampliaçao e de redução.
+
+OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado a multiplicação envolvendo duas grandezas.
 
 \\
 **Esqueleto da lição:**
@@ -20,9 +23,7 @@ Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser propost
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
-  * Acho que é prematura a interpretação da multiplicação envolvendo duas grandezas.
-  * No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$). Nesse contexto,
-  * 
+  *No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$). Nesse contexto,
   * DÚVIDA: trabalharemos com onjuntos discretos????? Talvez qui seja o momento!!!!
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
