@@ -10,22 +10,25 @@
   * Adição e subtração de frações. 
 
 **Esqueleto da lição:**
-Preâmbulo (exemplo ou atividade):  Talvez  neste preambulo, mais uma vez, a fração $\frac{a}{b}$ possa ser observada como adição por justaposição de a frações $\frac{1}{b}$ da unidade, que será a base da compreensão das estratégias de cálculo de adição e subtração de frações.
+Preâmbulo (exemplo ou atividade):  Talvez, neste preambulo, mais uma vez, a fração $\frac{a}{b}$ possa ser observada como adição por justaposição de a frações $\frac{1}{b}$ da unidade, que será a base da compreensão das estratégias de cálculo de adição e subtração de frações.
+
+Na introdução da seção,  lembrar ao professor que, especialmente em relação às operações com frações, é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) 
 
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A adição em situações que sugiram as interpretações  de juntar e de acrescentar: 2 atividades.
   * A subtração em situações  que sugiram retirar, completar e comparar: 3 atividades
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
-  * Os problemas devem envolver: frações de mesmo denominador e frações de denominadores diferentes, mas que sejam múltiplos (por exemplo, $\frac{1}{2}$ e $\frac{1}{4}$ ou $\frac{2}{3}$ e $\frac{2}{3})$).
+  * Os problemas devem envolver: frações de mesmo denominador e frações de denominadores diferentes, mas que sejam múltiplos (por exemplo, $\frac{1}{2}$ e $\frac{1}{4}$ ou $\frac{2}{3}$ e $\frac{2}{3}$).
   * Atenção para que não sejam propostas situações de contextualização absurda nem artificial.
 
 **ORGANIZANDO AS IDEIAS**
+
 Destacar, para o professor, que:
   * Item de lista não ordenadaOs significados e as interpretações correspondentes às operações de adição e de subração já são conhecidos dos alunos. Que o desafio é realizar essas operações com as frações;
 
 Para o aluno:
-  * Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
+  * Organizar o texto ressaltando a importância de se determinar uma sub-unidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da apresentação de exemplos, que podem remeter às atividades anteriores.
 
 **MÃO NA MASSA**
 Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos. 
@@ -42,6 +45,9 @@ O quebrando a cuca deve ter problemas variados que contemplem os diversos signif
 | Frações não inteiras e número inteiro                |          |               |             |            |           |
 | 0 e 1                                                |          |               |             |            |           |
 
+   * Além disso, na seção quebrando a cuca, as atividades que envolverem a operação de frações com denominadores diferentes, de frações não inteoiros e números naturais e o e 1 devem ser acompanhadas  de caixas do tipo "refletindo".
+  * É importante que nesta seção sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. Essas atividades podem envolver apenas representações em modelos contínuos, por exemplo.  
+  * Seria muito bem vinda a incusão de um jogo.
 
 
 **Dúvidas:**
@@ -49,7 +55,7 @@ O quebrando a cuca deve ter problemas variados que contemplem os diversos signif
   - Ainda não falamos nada de frações em contextos discretos. Faremos as operações apenas em contextos contínuos?
 
 **Decisões tomadas:**
-  * Sobre frações em contextos discretos, em conversa com Francisco e Fábio, prevaleceu a avaliação de que esses contextos devem ficar para depois.
+  * Sobre frações em contextos discretos, em conversa com Francisco e Fábio (24/05), prevaleceu a avaliação de que esses contextos devem ficar para depois.
 
 **Observações:**
   * Nos textos franceses não há operação com frações nesta etapa da escolaridade. No entanto, são tratadas frações mistas (soma de um inteiro 
