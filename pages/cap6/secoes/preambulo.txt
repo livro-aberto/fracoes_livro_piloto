@@ -50,16 +50,10 @@ Para o aluno:
 Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
 
 
-*/
-
-
-
-
-
-
-
-
 </hidden>
+
+
+
 
 <hidden Para o professor>
 <WRAP professor>
