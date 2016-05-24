@@ -19,6 +19,13 @@
 {{page>cap4:secoes:preencha_fita_refletindo}}
 
 
+===== - Atividade =====
+
+{{page>cap4:secoes:dobradura}}
+
+{{page>cap4:secoes:dobradura_refletindo}}
+
+
 
 
 {{page>cap4:secoes:organizando_ideias}}
