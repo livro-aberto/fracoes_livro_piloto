@@ -166,7 +166,7 @@ OBJETIVOS ESPECÍFICOS DA LIÇÃO 2:
 O aluno deve ser capaz de:
   * Representar e identificar a representação de uma fração na reta numérica;
   * Reconhecer a organização, segundo a ordem, das frações na reta numérica; 
-  * Comparar frações com mesmo denominador;
+  * Comparar frações com mesmo numerador;
   * Amparado pela representação na reta numérica, comparar frações a patir de um referencial adequado.
 
 
