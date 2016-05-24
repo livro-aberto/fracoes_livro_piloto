@@ -10,11 +10,11 @@
   * Adição e subtração de frações. 
 
 **Esqueleto da lição:**
-Preâmbulo (exemplo ou atividade):  Talvez, neste preambulo, mais uma vez, a fração $\frac{a}{b}$ possa ser observada como adição por justaposição de a frações $\frac{1}{b}$ da unidade. Esse entendimento será a base das estratégias de cálculo de adição e da subtração de frações.
+Preâmbulo (exemplo ou atividade):  Talvez, neste preâmbulo, mais uma vez, a fração $\frac{a}{b}$ possa ser observada como adição por justaposição de a frações $\frac{1}{b}$ da unidade. Esse entendimento será a base das estratégias de cálculo de adição e da subtração de frações.
 
-Na introdução da seção,  lembrar ao professor que, especialmente em relação às operações com frações, é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
+Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
 
-Já na primeira conversa com o professor, lembrá-lo de que as operações de adição e a subtração 
+Já na primeira conversa com o professor, lembrá-lo de que as operações de adição e a subtração com frações envolvem a identificação de uma sub-unidade comum (uma fração unitária  $\frac{1}{b}$). Destacar que o valor de b não precisa ser o menor múltiplo comum entre os denominadores das parcelas, mas um múltiplo comum.    
 
 
 **EXPLORANDO O ASSUNTO**
