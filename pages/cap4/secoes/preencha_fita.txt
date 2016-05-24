@@ -14,7 +14,7 @@ A fita tem que ter a mesma dimensão da fita usada na Lição 3.
 Com o encarte e os retângulos coloridos que você recebeu, complete a tabela a seguir. O objetivo é descobrir que fração do retângulo está pintado de cinza em termos dos retângulos coloridos.
 
 | Tipo da peça |  Quantas peças cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte ficou sem preencher? |
-| {{ :cap4:secoes:fita-um-meio.jpg?300 |}}  | | | |
+| {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | | | |
 | {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | | | |
