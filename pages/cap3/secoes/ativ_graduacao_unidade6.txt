@@ -1,28 +1,19 @@
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Estender a representação de frações para a reta numérica. 
+  * Estender a representação de frações na reta numérica. 
   * Associar, na reta numérica, a unidade ao segmento unitário, admitindo a representacão de quantidades entre 0 e 1.
-  * Associar, as frações a pontos na reta numérica. Em particular, as frações unitárias 1/2, 1/4 e 1/8.
+  * Associar frações a pontos na reta numérica. Em particular, as frações unitárias 1/2, 1/4 e 1/8.
   * Reconhecer a necessária equipartição do segmento unitário para a identificação das frações unitárias na reta numérica.    
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * O formato da caixa, um prisma de base quadrangular, determina uma escala linear de medida. 
   * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
-  * Espera-se que os alunos descartem as faixas (a), (c) e (e). Observe com seus alunos que as faixas (a) e (c) não indicam 
-
-  * Espera-se que os alunos identifiquem as faixas Formato da caixa d'água
-
-
-/*
-  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Observe que as retas numéricas apresentadas em todos os itens trazem os números 0 e 1 em destaque, além de uma fração não inteira. Uma subdivisão da unidade também é destacada. Espera-se que, a partir da discussão, os alunos estabeleçam uma relação entre as representações apresentadas. Assim, por exemplo, se o retângulo está dividido em terços, o segmento unitário traz uma marcação que destaca a subdivisão em três partes iguais.    
-  * Para registrar a identificação das representações em modelos contínuos à fração correspondentes apresentada na reta, o aluno pode simplesmente ligar, fazendo um linha, a representação em imagem à fração destacada na reta.*/
-
+  * Espera-se que os alunos descartem as faixas (c) e (d). No entanto, as faixas (a) e (b) e (e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa (a) traz a marcação da fração 1/2, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa (e), ainda que não tenha o mesmo problema que a faixa (a), oferece uma leitura menos precisa do que a possível na escala (b).  
 
 </WRAP>
 
-As figuras ilustram uma caixa d'água que está sendo enchida em quatro momentos diferentes do processo. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos.  
+As figuras ilustram uma caixa d'água que está sendo enchida. Cada figura corresponde a um momento diferente do processo, do seu início ao final. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos? Explique a sua escolha.  
 
 
 <WRAP imagem>
