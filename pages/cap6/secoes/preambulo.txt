@@ -7,14 +7,16 @@
       * Compreensão de frações $\frac{a}{b}$, a e b naturais quaisquer com b não nulo, como a reunião de a partes equivalentes a  $\frac{1}{b}$ da unidade.
       * Compreensão da adição de frações.
 
+\\
 **Conteúdos da lição:** 
       * Multiplicação de frações. 
 
+\\
 **Esqueleto da lição:**
 
 Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicaçào não deve ser explicitamente sugerida no texto.
 
-
+\\
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
@@ -25,6 +27,7 @@ As atividades iniciais devem contemplar:
   * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
 
 
+\\
 **ORGANIZANDO AS IDEIAS**
 Destacar, para o professor, que:
 - Os significados e as interpretações correspondentes às operações de adição e de subração já são conhecidos dos alunos. Que o desafio é realizar essas operações com as frações;
@@ -33,24 +36,28 @@ Para o aluno:
 - Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
 
 
+\\
 **MÃO NA MASSA**
 
 
 
+
+\\
 **QUEBRANDO A CUCA**
 
 
 
+\\
 **Dúvidas:**
   * Como discutiremos e abordaremos da diferença, do ponto de vista da interpretação do problema, das expressões n x a/b e a/b x n? 
   * 
 
 
-
-
+\\
 **Decisões tomadas:**
 
 
+\\
 **Observações:**
 Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
 
