@@ -33,7 +33,7 @@ Alice: Será que são iguais?
  
 **Quadrinho 6**
 
-Professora: Miguel e Alice, as frações não são iguais!
+Professora: Miguel e Alice, as frações $\frac{1}{3}$ e $\frac{8}{25}$ não são iguais!
 
 **Quadrinho 7**
 
