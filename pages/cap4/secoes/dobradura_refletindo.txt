@@ -1,0 +1,10 @@
+<WRAP Refletindo>
+HJB para Cataldo (2016-05-24): a ideia é aqui é tentar explicar a generalização do processo, isto é, para o retângulo do encarte dobrado em $n$ partes, o número de retângulos pintados é $3 \times n$ e o número total de retângulos é $10 \times n$. Logo, a fração do retângulo original que está pintada é $ \frac{3 \times n}{10 \times n}$. Como a região pintada é a mesma, ganham-se as igualdades $\frac{3}{10} = \frac{6}{20} = \frac{9}{30} = \cdots$.
+
+Pode-se incluir uma nota para o professor indicando que o seguinte applet do GeoGebra pode ser útil (via projeção para observação de toda a sala) para o processo de generalização.
+
+[[http://tube.geogebra.org/m/X52U83TR]]
+
+{{ :cap4:secoes:dobradura-geogebra.png?300 |}}
+
+</WRAP>
