@@ -1,5 +1,6 @@
 
 ====== LIÇÃO 6 - Multiplicação de frações ======
+
 <hidden Estrutura da lição>
 
 **Conteúdos utilizados da lição anterior**
@@ -11,14 +12,14 @@
 
 **Esqueleto da lição:**
 
-Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro parcelas, todas frações, duas a duas iguais, sem sugerir a multiplicação.
+Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicaçào não deve ser explicitamente sugerida no texto.
 
 
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
-  * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação  de uma fração por um número natural.
-  * Acho que é prematura a interpretacão da multiplicação envolvendo duas grandezas.
-  * O entanto, cabem atividades que envolvam a ideia de metade ou 
+  * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
+  * Acho que é prematura a interpretação da multiplicação envolvendo duas grandezas.
+  * No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$ )
   * DÚVIDA: trabalharemos com onjuntos discretos????? Talvez qui seja o momento!!!!
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
@@ -41,6 +42,10 @@ Para o aluno:
 
 
 **Dúvidas:**
+  * Como discutiremos e abordaremos da diferença, do ponto de vista da interpretação do problema, das expressões n x a/b e a/b x n? 
+  * 
+
+
 
 
 **Decisões tomadas:**
