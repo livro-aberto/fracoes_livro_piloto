@@ -19,5 +19,5 @@ Junte-se a seus colegas e, por meio das dobras indicadas na coluna mais a esquer
 | {{:cap4:secoes:dobradura-02.png?200}} | | | |
 | {{:cap4:secoes:dobradura-03.png?200}} | | | |
 | {{:cap4:secoes:dobradura-04.png?200}} | | | |
-| <WRAP imagem>Equivalente para 5 vincos</WRAP> | | | |
-| <WRAP imagem>Equivalente para 7 vincos</WRAP> | | | |
+| <WRAP imagem>Figura equivalente dobrada em 6 partes</WRAP> | | | |
+| <WRAP imagem>Figura equivalente dobrada em 8 partes</WRAP> | | | |
