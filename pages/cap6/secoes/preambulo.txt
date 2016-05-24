@@ -12,30 +12,40 @@
       * Multiplicação de número natural por fração - sustentando o sginificado de adição de parcelas iguais.
       * Multiplicação de uma fração por um número natural - sutentando o significado de ampliaçao e de redução.
 
-OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado a multiplicação envolvendo duas grandezas.
+OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado àa multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
 
 \\
 **Esqueleto da lição:**
 
 Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicaçào não deve ser explicitamente sugerida no texto.
 
+Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
+
+Ressaltar que a forma como as frações $\frac{a}{b}$ fora construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exmplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
+
+
+
+
 \\
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
-  *No entanto, cabem atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$). Nesse contexto,
-  * DÚVIDA: trabalharemos com onjuntos discretos????? Talvez qui seja o momento!!!!
+  * Atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$) de "alguma coisa". Nesse contexto, cabe explorar a ideia de multilicação implícita nas expressões "fração de". 
+  * Abordar a multiplicação por 1.
+  * Ainda não serão tratados conjuntos discretos. (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio)
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
 
 
 \\
 **ORGANIZANDO AS IDEIAS**
-Destacar, para o professor, que:
-- Os significados e as interpretações correspondentes às operações de adição e de subração já são conhecidos dos alunos. Que o desafio é realizar essas operações com as frações;
+Destacar, para o professor,:
+  * Os significados da operação de multiplicação que são tratados nesta seção;
+  * Lembrar que não são objetivos desta seção a multiplicação de fração por fração nem as propriedades da multiplicação.
 
 Para o aluno:
-- Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
+  * Organizar o texto ressaltando a importância de se determinar os significados da multiplicaçào tratdos na seção, procurando o apoio em exemplos e em representações pictóricas.
+  * Registrar a multiplicação por 1.
 
 
 \\
@@ -66,6 +76,62 @@ Nos textos franceses não há operação com fraçoes nesta etapa da escolaridad
 \\
 
 </hidden>
+
+
+
+
+
+**MÃO NA MASSA**
+Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos\\
+
+Propor atividades que envolvam: a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1 e a adição de frações com denominadores diferentes. Sempre apoiadas pela representaçào em modelos contínuos e na representação pictórica.\\
+
+O Mão na Massa a cuca deve ter problemas variados que contemplem os diversos significados e interpretações associados às operações de adição e subtração e parcelas que envolvam frações com mesmo denominador, denominadores múltiplos, denominadores diferentes em geral, frações não inteiras e números naturais e o 0 e o 1.
+
+   * Além disso, na seção Mão na Massa, as atividades que envolverem a operação de frações com denominadores diferentes, de frações não inteiras e números naturais e o e 1 devem ser acompanhadas de caixas do tipo "refletindo".
+  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. Essas atividades podem envolver apenas representações em modelos contínuos, por exemplo.  
+  * Seria muito bem vinda a incusão de um jogo.
+
+
+
+**QUEBRANDO A CUCA**
+
+  * Contemplar atividades que envolvam a adição de mais do que duas parcelas.
+  * Essa atividade deve ser 
+
+
+
+**Dúvidas:**
+  - Usaremos o modelo pictórico de barras?
+  - Ainda não falamos nada de frações em contextos discretos. Faremos as operações apenas em contextos contínuos?
+
+**Decisões tomadas:**
+  * Sobre frações em contextos discretos, em conversa com Francisco e Fábio (24/05), prevaleceu a avaliação de que esses contextos devem ficar para depois.
+
+**Observações:**
+  * Nos textos franceses e no canadense que temos, não há operação com frações nesta etapa da escolaridade. No entanto, são tratadas frações mistas (soma de um inteiro com uma fração não inteira).
+</hidden>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
