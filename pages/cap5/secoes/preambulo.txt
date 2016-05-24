@@ -14,7 +14,9 @@ Preâmbulo (exemplo ou atividade):  Talvez, neste preâmbulo, mais uma vez, a fr
 
 Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
 
-Já na primeira conversa com o professor, lembrá-lo de que as operações de adição e a subtração com frações envolvem a identificação de uma sub-unidade comum (uma fração unitária  $\frac{1}{b}$). Destacar que o valor de b não precisa ser o menor múltiplo comum entre os denominadores das parcelas, mas um múltiplo comum.    
+Já na primeira conversa com o professor, lembrá-lo de que as operações de adição e a subtração com frações envolvem a identificação de uma sub-unidade comum (uma fração unitária  $\frac{1}{b}$). Destacar que o valor de b não precisa ser o menor múltiplo comum entre os denominadores das parcelas, mas um múltiplo comum.
+
+Destacar que não será foco desta unidade o tratamento das propriedades da adição, ressaltando questões substanciais dessas propriedades (por exemplo, a mesma natureza das parcelas).
 
 
 **EXPLORANDO O ASSUNTO**
