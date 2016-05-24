@@ -1,6 +1,58 @@
 
 ====== LIÇÃO 5 - Adição e subtração de frações ======
 
+/* Estrutura da Lição
+
+**Conteúdos utilizados da lição anterior**
+    - Compreensão de frações $\frac{a}{b}$, a e b naturais quaisquer com b não nulo, como a reunião de a partes equivalentes a  $\frac{1}{b}$ da unidade.
+
+**Conteúdos da lição:** 
+    - Adição e subtração de frações. 
+
+**Esqueleto da lição:**
+Preâmbulo (exemplo ou atividade):  Talvez  neste preambulo, mais uma vez, a fração $\frac{a}{b}$ possa ser observada como adição por justaposição de a frações $\frac{1}{b}$ da unidade, que será a base da compreensão das estratégias de cálculo de adição e subtração de frações.
+
+**EXPLORANDO O ASSUNTO**
+As atividades iniciais devem contemplar:
+•	A adição em situações que sugiram as interpretações  de juntar e de acrescentar  2 atividades.
+•	A subtração em situações  que sugiram retirar, completar e comparar  3 atividades
+•	Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
+•	Os problemas devem envolver: frações de mesmo denominador e frações de denominadores diferentes mas que sejam múltiplos (por exemplo, ½ e ¼).
+•	Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
+
+**ORGANIZANDO AS IDEIAS**
+Destacar, para o professor, que:
+- Os significados e as interpretações correspondentes às operações de adição e de subração já são conhecidos dos alunos. Que o desafio é realizar essas operações com as frações;
+
+Para o aluno:
+- Organizar o texto ressaltando a importância de se determinar uma subunidade ($\frac{1}{b}$ ) comum para realizar a operação, a partir da 
+
+**MÃO NA MASSA**
+Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos. 
+- importante: propor atividades que envolvam a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1. 
+
+**QUEBRANDO A CUCA**
+- Problemas que envolvam a adição de mais do que duas parcelas
+- Problemas que envolvam 
+
+**Dúvidas:**
+  * Usaremos o modelo pictórico de barras?
+  * Ainda não 
+
+**Decisões tomadas:**
+
+**Observações:**
+Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
+
+
+*/
+
+
+
+
+
+
+
 <hidden Para o professor>
 <WRAP professor>
 Esta lição tem por objetivo... nesta lição serão apresentados...
