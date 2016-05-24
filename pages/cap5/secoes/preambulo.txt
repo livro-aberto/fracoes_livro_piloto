@@ -36,7 +36,7 @@ O quebrando a cuca deve ter problemas variados que contemplem os diversos signif
 
 |                                                      ^  Adição                 ^^  Subtração                         ^^^
 ^  Parcelas                                            ^  Juntar  ^  Acrescentar  ^  Completar  ^  Comparar  ^  Retirar  ^
-| Frações com denominadores iguais                     ^          ^               |             |            |           |
+| Frações com denominadores iguais                     |          |               |             |            |           |
 | Frações com denominadores diferentes, mas múltiplos  |          |               |             |            |           |
 | Frações com denominadores diferentes                 |          |               |             |            |           |
 | Frações não inteiras e número inteiro                |          |               |             |            |           |
