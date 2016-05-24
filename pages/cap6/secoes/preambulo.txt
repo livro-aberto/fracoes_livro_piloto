@@ -14,6 +14,8 @@
 
 OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado àa multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
 
+OBS: Recomenda-se que, como na seçào anterior, sejam usados como recurso didático o modelo de blocos para representar e ilusrar o processo operatório. 
+
 \\
 **Esqueleto da lição:**
 
@@ -21,9 +23,7 @@ Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser propost
 
 Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
 
-Ressaltar que a forma como as frações $\frac{a}{b}$ fora construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exmplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
-
-
+Ressaltar que a forma como as frações $\frac{a}{b}$ foram construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exemplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
 
 
 \\
@@ -34,7 +34,7 @@ As atividades iniciais devem contemplar:
   * Abordar a multiplicação por 1.
   * Ainda não serão tratados conjuntos discretos. (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio)
   * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
-  * Atenção para que não sejam propostas situações de contextualização absurda ou artificial.
+  * Atenção para que não sejam propostas situações de contextualização absurda nem artificial.
 
 
 \\
@@ -44,95 +44,40 @@ Destacar, para o professor,:
   * Lembrar que não são objetivos desta seção a multiplicação de fração por fração nem as propriedades da multiplicação.
 
 Para o aluno:
-  * Organizar o texto ressaltando a importância de se determinar os significados da multiplicaçào tratdos na seção, procurando o apoio em exemplos e em representações pictóricas.
+  * Organizar o texto ressaltando a importância de se determinar os significados da multiplicaçào tratados na seção, procurando o apoio em exemplos e em representações pictóricas.
   * Registrar a multiplicação por 1.
 
 
 \\
 **MÃO NA MASSA**
 
-
-
-
-\\
-**QUEBRANDO A CUCA**
-
-
-
-\\
-**Dúvidas:**
-  * Como discutiremos e abordaremos da diferença, do ponto de vista da interpretação do problema, das expressões n x a/b e a/b x n? 
-  * 
-
-
-\\
-**Decisões tomadas:**
-
-
-\\
-**Observações:**
-Nos textos franceses não há operação com fraçoes nesta etapa da escolaridade.
-
-\\
-
-</hidden>
-
-
-
-
-
-**MÃO NA MASSA**
 Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos\\
 
-Propor atividades que envolvam: a adição de fraçoes (não inteiras) e números naturais; realizar a operação com o zero e com o 1 e a adição de frações com denominadores diferentes. Sempre apoiadas pela representaçào em modelos contínuos e na representação pictórica.\\
-
-O Mão na Massa a cuca deve ter problemas variados que contemplem os diversos significados e interpretações associados às operações de adição e subtração e parcelas que envolvam frações com mesmo denominador, denominadores múltiplos, denominadores diferentes em geral, frações não inteiras e números naturais e o 0 e o 1.
-
-   * Além disso, na seção Mão na Massa, as atividades que envolverem a operação de frações com denominadores diferentes, de frações não inteiras e números naturais e o e 1 devem ser acompanhadas de caixas do tipo "refletindo".
-  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. Essas atividades podem envolver apenas representações em modelos contínuos, por exemplo.  
+  * Ampliar a realizaçào da operação de multiplicaçào a aprtir de problemas sustentados por representações genéricas da unidade a partir de figuras.\\
+  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. 
   * Seria muito bem vinda a incusão de um jogo.
 
 
-
+\\
 **QUEBRANDO A CUCA**
 
-  * Contemplar atividades que envolvam a adição de mais do que duas parcelas.
-  * Essa atividade deve ser 
+Visando à generalização do algorítmo de cálculo das multiplicações tratadas na seção, é interessante a proposição de problemas que envolvam números "grandes", que dificultem a representação pictórica. 
 
-
-
+\\
 **Dúvidas:**
-  - Usaremos o modelo pictórico de barras?
-  - Ainda não falamos nada de frações em contextos discretos. Faremos as operações apenas em contextos contínuos?
+  * 
 
+\\
 **Decisões tomadas:**
-  * Sobre frações em contextos discretos, em conversa com Francisco e Fábio (24/05), prevaleceu a avaliação de que esses contextos devem ficar para depois.
 
+
+\\
 **Observações:**
-  * Nos textos franceses e no canadense que temos, não há operação com frações nesta etapa da escolaridade. No entanto, são tratadas frações mistas (soma de um inteiro com uma fração não inteira).
+Nos textos franceses não há operação com frações nesta etapa da escolaridade.
+
+\\
+
 </hidden>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
