@@ -1,7 +1,7 @@
 
 ====== LIÇÃO 5 - Adição e subtração de frações ======
 
-/* Estrutura da Lição
+<hidden Estrutura da Lição>
 
 **Conteúdos utilizados da lição anterior**
   * Compreensão de frações $\frac{a}{b}$, a e b naturais quaisquer com b não nulo, como a reunião de a partes equivalentes a  $\frac{1}{b}$ da unidade.
@@ -53,15 +53,7 @@ O quebrando a cuca deve ter problemas variados que contemplem os diversos signif
 
 **Observações:**
   * Nos textos franceses não há operação com frações nesta etapa da escolaridade. No entanto, são tratadas frações mistas (soma de um inteiro 
-
-
-*/
-
-
-
-
-
-
+</hidden>
 
 <hidden Para o professor>
 <WRAP professor>
