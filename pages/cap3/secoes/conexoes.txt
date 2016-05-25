@@ -1,6 +1,3 @@
 
 ====== ORGANIZANDO AS IDEIAS ======
 
-<hidden OBS 12/05/2016> 
-o número $\frac{a}{b}$ pode ser definido como a fração $\frac{a}{b}$ do número 1. Isso simplifica bastante as coisas e torna a representação na reta numérica algo bastante natural.
-</hidden>
