@@ -143,7 +143,7 @@ Estratégia:
 <WRAP professor>
 
 
-Esta lição tem por objetivo: (i) introduzir a fração como objeto com significado próprio (substantivo), a partir da ideia que a fração de um número é um número (assim como a fração de um pizza é pizza), deste modo a fração $\frac{2}{3}$ surge como $\frac{2}{3}$ do número 1; (ii) representar as frações na reta numérica (iii) comparar frações que tenham o mesmo denominador e comparar frações a partir de uma fração de referência.
+Esta lição tem por objetivo: (i) introduzir a fração como objeto com significado próprio, mesmo fora de um contexto, a partir da ideia de que a fração de um número é um número (assim como a fração de um pizza é pizza), deste modo o número $\frac{2}{3}$ surge como $\frac{2}{3}$ do número 1 e não estará mais se referindo, necessariamente, a um sujeito ($\frac{2}{3}$ da torta); (ii) representar as frações na reta numérica; (iii) comparar frações que tenham o mesmo denominador e comparar frações a partir de uma fração de referência.
 
 Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos, a partir da justaposição de partes correspondentes às frações unitárias. Essa abordagem será a base para a representação das frações na reta numérica e para a associação entre a unidade e o número 1.  A expressão reta numérica se refere ao modelo de organização dos números na reta. 
 
