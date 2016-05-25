@@ -2,14 +2,14 @@
 Objetivos específicos: Levar o aluno a
   * Estender a representação de frações na reta numérica. 
   * Associar, na reta numérica, a unidade ao segmento unitário, admitindo a representacão de quantidades entre 0 e 1.
-  * Associar frações a pontos na reta numérica. Em particular, as frações unitárias 1/2, 1/4 e 1/8.
+  * Associar frações a pontos na reta numérica. Em particular, as frações unitárias $\frac{1}{2}$, $\frac{1}{4}$ e $\frac{1}{8}$.
   * Reconhecer a necessária equipartição do segmento unitário para a identificação das frações unitárias na reta numérica.    
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * O formato da caixa, um prisma de base quadrangular, determina uma escala linear de medida. 
   * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
-  * Espera-se que os alunos descartem as faixas (c) e (d). No entanto, as faixas (a) e (b) e (e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa (a) traz a marcação da fração 1/2, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa (e), ainda que não tenha o mesmo problema que a faixa (a), oferece uma leitura menos precisa do que a possível na escala (b).  
+  * Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração $\frac{1}{2}$, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa e), ainda que não tenha o mesmo problema que a faixa a), oferece uma leitura menos precisa do que a possível na escala b).  
 
 </WRAP>
 
@@ -19,5 +19,5 @@ As figuras ilustram uma caixa d'água que está sendo enchida. Cada figura corre
 <WRAP imagem>
 {{ :cap3:secoes:caixas_d_agua.png?300 |}}
 
-A figura deve ilustrar quatro caixas com quantidades diferentes de água (em ordem crescente de quantidade de água): uma com 1/8 da capacidade da caixa, outra com 1/4 do nível máximo, a terceira com metade e, por último, completa. Abaixo de cada caixa, indicar momento, Mometo 1, momento 2, momento 3 e momento 4. 
+A figura deve ilustrar quatro caixas com quantidades diferentes de água (em ordem crescente de quantidade de água): uma com $\frac{1}{8}$ da capacidade da caixa, outra com $\frac{1}{4}$ do nível máximo, a terceira com metade e, por último, completa. Abaixo de cada caixa, indicar momento, Mometo 1, momento 2, momento 3 e momento 4. 
 </WRAP>
