@@ -13,11 +13,15 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-As figuras ilustram uma caixa d'água que está sendo enchida. Cada figura corresponde a um momento diferente do processo, do seu início ao final. Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. Das fitas apresentadas, qual (ou quais) você acha que melhor registram a quantidade de água em cada um dos momentos? Explique a sua escolha.  
-
+Os quadrinhos a seguir mostram uma caixa d'água sendo enchida. 
+Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. 
 
 <WRAP imagem>
-{{ :cap3:secoes:caixas_d_agua.png?300 |}}
+A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa dágua cheia. Abaixo de cada caixa, indicar: mometo 1, momento 2, momento 3 e momento 4 (se isso for necessário, talvez estar nos quadrinhos já deixe claro a sequência dos momentos. 
+</WRAP>
 
-A figura deve ilustrar quatro caixas com quantidades diferentes de água (em ordem crescente de quantidade de água): uma com $\frac{1}{8}$ da capacidade da caixa, outra com $\frac{1}{4}$ do nível máximo, a terceira com metade e, por último, completa. Abaixo de cada caixa, indicar momento, Mometo 1, momento 2, momento 3 e momento 4. 
+Quais das fitas apresentadas registram melhor a quantidade de água em cada um dos momentos em sua opinião? Explique a sua resposta.  
+
+<WRAP imagem>
+terminar
 </WRAP>
