@@ -7,9 +7,9 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * O formato da caixa, um prisma de base quadrangular, determina uma escala linear de medida. 
+  * O formato da caixa, um paralelepípedo, determina uma escala linear de medida. 
   * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
-  * Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração $\frac{1}{2}$, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa e), ainda que não tenha o mesmo problema que a faixa a), oferece uma leitura menos precisa do que a possível na escala b).
+  * Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração $\frac{1}{2}$ associada ao segmento e não ao ponto. Embora não esteja errada ela apresenta dois inconvenientes: (i) esta forma de marcar não deixa claro que a linha-d'água deve estar na marcação para que o tanque esteja meio cheio (ii) ela dificulta marcações intermediárias (maiores que zero e menores que $\frac{1}{2}$). A escala e), ainda que não tenha o mesmo problema que a faixa a), oferece uma leitura menos precisa do que a possível na graduação b).
 </WRAP>
 
 Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
@@ -24,9 +24,19 @@ Em sua opinião, quais das graduações abaixo registram melhor a quantidade de 
 
 <WRAP imagem>
 {{ :cap3:secoes:caixa_graduada_modelo.png?200 |}}
-Apresentar a imagem da caixa-d'água acima 4 vezes, cada uma com uma das graduações mostradas abaixo. 
+Apresentar a imagem da caixa-d'água acima 4 vezes, cada uma com uma das graduações mostradas abaixo. APESAR DO QUE ESTÁ NA FIGURA, ESTAS CAIXAS GRADUADAS DEVEM ESTAR VAZIAS (sem água).
 Atenção:     
   * as marcas do 0 e do 1 devem coincidir, respectivamente, com a base e o topo da caixa.
   * os números devem vir bem ao lado da marcação, exceto o $\frac{1}{2}$ no item a), que está entre duas marcações. Por esse motivo a caixa está sobre uma bancada, para que a graduação possa sobrar embaixo e em cima da caixa.
 {{ :cap3:secoes:graduacoes_da_caixa.jpg?500 |}}
 </WRAP>
+
+<hidden Resposta>
+<WRAP resposta>
+Qualquer das escalas apresentadas serve para registrar a caixa totalmente cheia (momento 4), embora não seja necessário uma graduação para esta observação.
+Para registrar as quantidades de todos os momentos a graduação b) é a mais indicada porque possui marcações detalhadas, com mesmo espaçamento e na ordem adequada.
+A escala c) não é apropriada porque possui a marca $\frac{1}{2}$ em um ponto onde o nível de água estará acima da metade da caixa.
+A escala d) apresenta as marcas $\frac{1}{2}$ e $\frac{1}{3}$ em posições que não correspondem a estes níveis de água.
+A escala e) representa bem os momentos 2 e 4, mas é menos precisa para os demais momentos.
+</WRAP>
+</hidden>
