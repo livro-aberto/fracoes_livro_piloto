@@ -1,3 +1,23 @@
 
 ====== ORGANIZANDO AS IDEIAS ======
 
+Nos anos anteriores você estudou em matemática que os números naturais podem ser representados na reta numérica. 
+Para essa construção considera-se uma reta com dois pontos, representando o 0 e 1.
+Considerando o pedaço da reta que está entre o 0 e o 1 como uma unidade, chamada de //segmento unitário//. 
+
+<WRAP imagem> Reta horizontal com dois pontos marcados, o da esquerda possui o 0 acima e o da direita possui o 1 acima. 
+Segmento unitário em vermelho.
+</WRAP>
+
+Ao posicionar uma cópia idêntica do segmento unitário sobre a reta como na figura abaixo, obtemos um segmento de comprimento duas unidades, o extremos direito deste segmento é onde representa-se o número 2.
+
+<WRAP imagem> Reta horizontal com três pontos marcados: 0, 1 e 2.
+Segmento $[0,2]$ em vermelho.
+</WRAP>
+
+Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero na reta e o extremos da direita representará o número $n$.
+
+<WRAP imagem> representar um caso particular, digamos $n=13$.
+</WRAP>
+
+Mas isso tudo já era conhecido! Nesta seção 
