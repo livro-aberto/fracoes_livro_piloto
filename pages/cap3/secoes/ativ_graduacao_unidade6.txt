@@ -1,27 +1,32 @@
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Estender a representação de frações na reta numérica. 
+  * Motivar o uso da reta numérica através de uma graduação (uma régua) de um objeto concreto.
   * Associar, na reta numérica, a unidade ao segmento unitário, admitindo a representacão de quantidades entre 0 e 1.
-  * Associar frações a pontos na reta numérica. Em particular, as frações unitárias $\frac{1}{2}$, $\frac{1}{4}$ e $\frac{1}{8}$.
-  * Reconhecer a necessária equipartição do segmento unitário para a identificação das frações unitárias na reta numérica.    
+  * Associar frações a pontos na reta numérica. Em particular, as frações $\frac{1}{4}$, $\frac{1}{2}$ e $\frac{3}{4}$.
+  * Observar a necessidade de equipartição do segmento unitário para a identificação destas frações na reta numérica.    
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * O formato da caixa, um prisma de base quadrangular, determina uma escala linear de medida. 
-  * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
-  * Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração $\frac{1}{2}$, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa e), ainda que não tenha o mesmo problema que a faixa a), oferece uma leitura menos precisa do que a possível na escala b).  
-
+  * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
+  * Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração $\frac{1}{2}$, que indica a quantidade correspondente à metade da capacidade do tanque, à direita da faixa, destacando um segmento e não um ponto. Essa forma de marcação não indica graduações intermediárias e não deixa claro que fração deveria estar escrita à direta do outro segmento destacado. A faixa e), ainda que não tenha o mesmo problema que a faixa a), oferece uma leitura menos precisa do que a possível na escala b).
 </WRAP>
 
-Os quadrinhos a seguir mostram uma caixa d'água sendo enchida. 
-Para saber que fração da capacidade da caixa d'água já está com água, será usada uma fita graduada. 
+Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
+Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma graduação. 
 
 <WRAP imagem>
-A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa dágua cheia. Abaixo de cada caixa, indicar: mometo 1, momento 2, momento 3 e momento 4 (se isso for necessário, talvez estar nos quadrinhos já deixe claro a sequência dos momentos. 
+{{ :cap3:secoes:caixa_modelo.png?200 |}}
+A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa-d'água cheia. Abaixo de cada quadrinho, indicar: momento 1, momento 2, momento 3 e momento 4.
 </WRAP>
 
-Quais das fitas apresentadas registram melhor a quantidade de água em cada um dos momentos em sua opinião? Explique a sua resposta.  
+Em sua opinião, quais das graduações abaixo registram melhor a quantidade de água em cada um dos momentos? Explique a sua resposta. 
 
 <WRAP imagem>
-terminar
+{{ :cap3:secoes:caixa_graduada_modelo.png?200 |}}
+Apresentar a imagem da caixa-d'água acima 4 vezes, cada uma com uma das graduações mostradas abaixo. 
+Atenção:     
+  * as marcas do 0 e do 1 devem coincidir, respectivamente, com a base e o topo da caixa.
+  * os números devem vir bem ao lado da marcação, exceto o $\frac{1}{2}$ no item a), que está entre duas marcações. Por esse motivo a caixa está sobre uma bancada, para que a graduação possa sobrar embaixo e em cima da caixa.
+{{ :cap3:secoes:graduacoes_da_caixa.jpg?500 |}}
 </WRAP>
