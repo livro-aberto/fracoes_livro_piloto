@@ -1,13 +1,13 @@
-
 ====== ORGANIZANDO AS IDEIAS ======
 
-Em todos os exemplos que vistos até aqui as frações foram usadas para quantificar objetos: $\frac{3}{4}$ da barra de chocolate, um oitavo da caixa-d'água, etc. 
-Nesta seção veremos que as frações também podem ser vistas como números assim como os números naturais. 
-Para números naturais podemos dizer:\\ 
-"$2 < 3$", \\ 
-"$3 + 5 = 8$" e \\ 
-"$12 \div 4 = 3$" \\
-sem precisar explicar o contexto, são simplesmente números.
+(EM CONSTRUÇÃO)
+Nos exemplos vistos até aqui as frações foram usadas para quantificar objetos: $\frac{3}{4}$ da barra de chocolate, um oitavo da caixa-d'água, etc. 
+Agora as frações serão definidas como números e assim serão representadas como pontos na reta numérica.
+Para números naturais faz sentido:
+$$2 < 3,$$ 
+$$3 + 5 = 8 {\rm \,\,e}$$  
+$$12 \div 4 = 3$$ 
+mesmo se sem falar do contexto, são simplesmente ordem e operações com números.
 Então fará sentido dizer o número $\frac{3}{4}$, mesmo sem a barra de chocolates ou qualquer outro objeto.
 
 Você já deve ter visto que os números naturais são representados na reta numérica. 
