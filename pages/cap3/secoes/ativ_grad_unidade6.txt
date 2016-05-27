@@ -12,7 +12,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 
-Para cada par de figuras há uma reta numérica. Ligue as figuras aos números destacados na reta.
+Para cada par de figuras a seguir, há uma reta numérica. Ligue as figuras aos números destacados na reta.
 
 {{:cap3:secoes:fracoes_e_retas2.jpg|}}
 
