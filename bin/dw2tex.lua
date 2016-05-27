@@ -81,6 +81,7 @@ local mono = surround('mono', "''", simpletext)
 local newline = token('newline', [[\\]])
 local linefeed = token('linefeed', '\n')
 local simplemath = surround('simplemath', '$', simpletext)
+local atividade = token('atividade', '===== - Atividade =====')
 local title = P('=====') * token('title', simpletext) * P('=====')
 local titlechapter = P('======') * token('title', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
@@ -98,10 +99,10 @@ local enumerate = token('enumerate', Ct( enumitem^1 ))
 local doubleenumitem = P('\n    -') * token('doubleenumitem', Ct( decoline^0 ))
 local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
 --local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath
---                                        + newline + linefeed + titlechapter + title + titleless + comment)^0 * P('</hidden>')
+--                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
 
-local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath + titlechapter
+local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath + atividade + titlechapter
    + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
 
 local W = V'W'
@@ -132,8 +133,10 @@ function texprint (tbl, indent)
   if not indent then indent = 0 end
   for k, v in pairs(tbl) do
      local formatting = string.rep("  ", indent)
-     if (v.tag) == "title" then
-        outstr = outstr .. formatting .. '\\section{' .. formatsimple:match(v.value) .. '}\n'
+     if (v.tag) == "atividade" then
+        outstr = outstr .. formatting .. '\\section{Atividade}\n'
+     elseif (v.tag) == "title" then
+        outstr = outstr .. formatting .. '{\\huge \\bf ' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titleless" then
         outstr = outstr .. formatting .. '\\subsection{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titlechapter" then
