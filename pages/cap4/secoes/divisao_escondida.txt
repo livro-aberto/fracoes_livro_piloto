@@ -1,0 +1,15 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{3 \times 3}{4 \times 3}$ são iguais usando subdivisões em modelos de área retangulares sem a contagem um a um das partes que compõem as subdivisões.
+</WRAP>
+
+(Garcez, 2013)
+
+(A) O retângulo desenhado a seguir está dividido em $4$ partes iguais, dais quais $3$ estão pintadas de azul. Que fração do retângulo está pintada de azul?
+
+{{ :cap4:secoes:dobradura-escondida-01.png?300 |}}
+
+
+(B) O retângulo do item anterior foi dividido com o ascréscimo de duas linhas horizontais e coberto com um retângulo vermelho. Em quantas partes está dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul?
+
+{{ :cap4:secoes:dobradura-escondida-02.png?300 |}}
