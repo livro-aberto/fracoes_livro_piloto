@@ -1,5 +1,5 @@
 <WRAP professor>
-Objetivos específicos: Levar o aluno a
+Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{3}{10}$, $\frac{6}{20}$, $\ldots$, $\frac{3 \times m}{10 \times m}$ são iguais usando modelos de área retangulares e dobraduras. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
