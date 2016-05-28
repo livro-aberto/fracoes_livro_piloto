@@ -1,1 +1,8 @@
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * Reconhecer que as frações $\frac{4}{3}$, $\frac{8}{6}$, $\frac{12}{9}$ e $\frac{16}{12}$ são iguais usando a reta numérica.
+</WRAP>
+
+Preencha os quadradinhos $\square$ com numeradores adequados de modo que a fração corresponda ao ponto indicado em cada reta numérica.
+
 {{ :cap4:secoes:fractions-01.jpg |}}
