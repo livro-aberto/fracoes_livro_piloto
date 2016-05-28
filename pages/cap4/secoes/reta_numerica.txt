@@ -1,8 +1,10 @@
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
-  * Reconhecer que as frações $\frac{4}{3}$, $\frac{8}{6}$, $\frac{12}{9}$ e $\frac{16}{12}$ são iguais usando a reta numérica.
+  * Reconhecer que, para $0 \leq n \leq 3$, as frações $\frac{n}{3}$, $\frac{n \times 2}{3 \times 2}$, $\frac{n \times 3}{3 \times 3}$ e $\frac{n \times 4}{3 \times 4}$ são iguais usando a reta numérica.
 </WRAP>
 
 Preencha os quadradinhos $\square$ com numeradores adequados de modo que a fração corresponda ao ponto indicado em cada reta numérica.
 
 {{ :cap4:secoes:fractions-01.jpg |}}
+
+É correto afirmar que $p = \frac{20}{15}$? Justifique sua resposta!
