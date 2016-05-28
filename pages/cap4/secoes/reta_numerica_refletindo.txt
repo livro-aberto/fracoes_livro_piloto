@@ -1,0 +1,10 @@
+<WRAP Refletindo>
+HJB para Cataldo (2016-05-28): a ideia é aqui é tentar explicar a generalização do processo, isto é, se as frações da forma $\frac{n}{d}$, com $d$ fixo, estão marcadas na reta numérico, ao dividirmos cada subintervalo em $m$ partes iguais, então $\frac{n}{d} = \frac{n \times m}{d \times m}$.
+
+Pode-se incluir uma nota para o professor indicando que o seguinte applet do GeoGebra pode ser útil (via projeção para observação de toda a sala) para o processo de generalização.
+
+[[http://tube.geogebra.org/m/Pr3s9vak]]
+
+{{ :cap4:secoes:reta-numerica-geogebra.png?300 |}}
+
+</WRAP>
