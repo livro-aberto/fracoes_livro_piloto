@@ -1,5 +1,5 @@
 <WRAP professor>
-Objetivos específicos: Levar o aluno a
+Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais usando modelos de área retangulares. 
 
 <WRAP nota>
