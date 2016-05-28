@@ -1,5 +1,5 @@
 <WRAP professor>
-Objetivos específicos: Levar o aluno a
+Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais usando modelos de área circulares. 
 
 <WRAP nota>
