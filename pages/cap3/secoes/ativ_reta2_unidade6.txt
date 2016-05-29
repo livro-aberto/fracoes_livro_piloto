@@ -1,5 +1,9 @@
 <WRAP professor>
-
+bjetivos específicos: Levar o aluno a
+  * Comparar frações, em que os denominadores são múltiplos, a partir de modelos contínuos.   
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * 
 
 </WRAP>
 
@@ -8,7 +12,7 @@ Rita convidou seus colegas de escola para virem à sua casa conhecer seu novo c�
 
 <WRAP imagem>
 Figura ilustrando os três amigos, Rita, João e Mario e o pensamento de Mario, com o bolo equipartido em três partes, e ele já pegando uma delas)
-
+</WRAP>
 
 A mãe de Rita começou a cortar o bolo, partindo-o, como Mário havia pensado, em 3 partes. No entanto, chegaram mais 4 colegas da escola. Então a mãe de Rita dividiu cada uma dos 3 pedaços iniciais em 4 partes de igual tamanho 
 
