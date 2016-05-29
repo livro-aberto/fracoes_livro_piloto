@@ -4,7 +4,6 @@ Ir para [[cap3:texto#conexoes]]
 
 ====== ORGANIZANDO AS IDEIAS ======
 
-(EM CONSTRUÇÃO)
 Para números naturais faz sentido escrever:
 $$2 {\rm \,\, é \,\,menor\,\, que\,\,}  3,$$ 
 $$3 + 5 = 8 {\rm \,\,e}$$  
