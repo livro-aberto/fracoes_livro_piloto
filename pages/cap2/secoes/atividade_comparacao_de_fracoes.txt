@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap2:texto#atividade_comparacao_de_fracoes]]
+;;#
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
