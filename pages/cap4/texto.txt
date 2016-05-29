@@ -66,6 +66,11 @@
 
 ===== - Atividade =====
 
+{{page>cap4:secoes:comparar_fracoes}}
+
+
+===== - Atividade =====
+
 {{page>cap4:secoes:comparacao}}
 
 
