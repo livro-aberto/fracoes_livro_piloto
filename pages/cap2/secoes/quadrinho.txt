@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap2:texto#quadrinho]]
+;;#
 
 <WRAP imagem>
 HISTÓRIA EM QUADRINHOS
