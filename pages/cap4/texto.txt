@@ -78,3 +78,5 @@
 ===== - Atividade =====
 
 {{page>cap4:secoes:equivalencia_densidade_2}}
+
+{{page>cap4:secoes:equivalencia_densidade_refletindo}}
