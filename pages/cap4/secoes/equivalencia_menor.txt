@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_menor]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber que, dada uma fração $p = \frac{n}{m}$, existe um quantidade finita de frações da forma $\frac{k}{m}$ que são menores do que $p$ e uma quantidade infinita de frações da forma $\frac{n}{k}$ que são menores do que $p$.
