@@ -1,0 +1,19 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Construir uma fração igual a uma dada fração mas com numerador ou denominador especificados.
+</WRAP>
+
+(Van de Walle, )
+Preencha os $\square$ com números de forma a tornar as igualdades verdadeiras.
+
+(A) $\frac{5}{3} = \frac{\square}{6}$
+
+(B) $\frac{2}{3} = \frac{6}{\square}$
+
+(C) $\frac{8}{12} = \frac{\square}{3}$
+
+(D) $\frac{9}{12} = \frac{3}{\square}$
+
+(E) $\frac{9}{12} = \frac{6}{\square}$
+
+(F) $\frac{6}{8} = \frac{\square}{12}$
