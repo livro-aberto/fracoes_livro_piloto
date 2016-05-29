@@ -1,0 +1,18 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar o valor de uma fração com uma outra fração obtida alterando-se via somas e multiplicações seu numerador ou denominador.
+</WRAP>
+
+O que acontece com a fração $\frac{4}{7}$ (isto é, ela fica maior, menor ou igual) se
+
+(A) o seu numerador é aumentado de $1$?
+
+(B) o seu denominador é aumentado de $1$?
+
+(C) o seu denominador é diminuido de $1$?
+
+(D) o seu numerador e o seu denominador são ambos aumentados de $2$?
+
+(E) o seu numerador e o seu denominador são ambos multiplicados de $2$?
+
+(F) o seu numerador é aumentado de $1$ e o seu demoninador é diminuído de $1$?
