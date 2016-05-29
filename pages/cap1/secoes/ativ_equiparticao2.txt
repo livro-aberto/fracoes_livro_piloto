@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap1:texto#ativ_equiparticao2]]
+;;#
+
 <hidden Para o Professor>
 <WRAP professor>
 
