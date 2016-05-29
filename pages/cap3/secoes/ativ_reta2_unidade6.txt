@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_reta2_unidade6]]
+;;#
+
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Comparar frações, em que os denominadores são múltiplos, a partir de modelos contínuos.   
