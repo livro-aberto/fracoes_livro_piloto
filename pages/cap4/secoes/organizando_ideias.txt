@@ -1,5 +1,7 @@
 ====== ORGANIZANDO AS IDEIAS ======
-
+;;#
+Ir para [[cap4:texto#organizando_ideias]]
+;;#
 
 <WRAP nota>
 Acho que aqui (além da sistematização de equivalência), pode ser apresentada a solução do problema motivador dada no início da Lição e, ao fazê-lo, apresentar como comparar duas frações quaisquer usando equivalência. Segue uma proposta de texto:
