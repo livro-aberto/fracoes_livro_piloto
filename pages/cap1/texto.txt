@@ -7,45 +7,45 @@ page>cap1:secoes:intro
 */
 ====== EXPLORANDO O ASSUNTO ======
 
+{{anchor:ativ_equiparticao}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_equiparticao}}
 
+{{anchor:ativ_equiparticao2}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_equiparticao2}}
 
+{{anchor:ativ_enfeite}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_enfeite}}
 
-{{page>cap1:secoes:conexoes}}
+{{anchor:conexoes}}
+{page>cap1:secoes:conexoes}}
 
 ====== MÃO NA MASSA ======
 
+{{anchor:ativ_retangulos_coloridos}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_retangulos_coloridos}}
 
+{{anchor:ativ_ident_terco}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_ident_terco}}
 
+{{anchor:ativ_recomportodo}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_recomportodo}}
 
+{{anchor:ativ_desenhar}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_desenhar}}
 
+{{anchor:ativ_hexag}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_hexag}}
 
-
+{{anchor:ativ_meioemeio}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_meioemeio}}
 
 /*
@@ -61,8 +61,8 @@ page>cap1:secoes:abstrato
 {{page>cap1:secoes:ativ_visual_linguagem}}
 
 
+{{anchor:ativ_variadas}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_variadas}}
 
 /*===== - Atividade =====
