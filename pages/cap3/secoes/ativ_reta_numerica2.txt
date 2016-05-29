@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap3:texto#ativ_reta_numerica2]]
+;;#
 
 Frações: seu lugar é na reta numerada
 
