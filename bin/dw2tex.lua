@@ -141,6 +141,8 @@ function texprint (tbl, indent)
         outstr = outstr .. formatting .. '\\subsection{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titlechapter" then
         outstr = outstr .. formatting .. '\\chapter{' .. formatsimple:match(v.value) .. '}\n'
+     elseif (v.tag) == "simplemath" then
+        outstr = outstr .. formatting .. '$' .. v.value .. '$'
      elseif (v.tag) == 'bold' then
         outstr = outstr .. formatting .. '{\\bf ' .. formatsimple:match(v.value) .. '}'
      elseif (v.tag) == 'italic' then
