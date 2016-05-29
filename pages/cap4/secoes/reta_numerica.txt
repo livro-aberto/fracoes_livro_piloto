@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#reta_numerica]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que, para $0 \leq n \leq 3$, as frações $\frac{n}{3}$, $\frac{n \times 2}{3 \times 2}$, $\frac{n \times 3}{3 \times 3}$ e $\frac{n \times 4}{3 \times 4}$ são iguais (equivalentes) usando a reta numérica.
