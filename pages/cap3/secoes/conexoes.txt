@@ -68,7 +68,8 @@ Como você já deve imaginar, podemos dividir a unidade em qualquer quantidade $
 {{ :cap3:secoes:reta_numerica_quartos.png?600 |}}
 </WRAP>
 
-Da maneira que foi construída a reta numérica quanto mais à direita a representação de um número na reta, maior será o número porque o "tamanho" de um número é o comprimento do segmento de extremos 0 e este número.
+Da maneira que foi construída a reta numérica quanto mais à direita a representação de um número na reta, maior será o número porque registra uma "quantidade" maior da unidade.
+
 Usa-se o símbolo $<$ para dizer "menor que".
 Por exemplo, a frase "oito é menor que quinze" pode ser expressa de modo mais resumido com "$8<15$". 
 Do mesmo modo usa-se o símbolo $>$ para significar "maior que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior que oito".
