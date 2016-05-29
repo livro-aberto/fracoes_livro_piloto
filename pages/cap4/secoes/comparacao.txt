@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#comparacao]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar o valor de uma fração com uma outra fração obtida alterando-se via somas e multiplicações seu numerador ou denominador.
