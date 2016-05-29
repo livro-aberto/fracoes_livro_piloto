@@ -1,6 +1,6 @@
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Usar igualdade de frações para calcular o numerador de uma das frações em uma situação contextualizada.
+  * Usar igualdade (equivalência) de frações para calcular o numerador de uma das frações em uma situação contextualizada.
 </WRAP>
 
 Você tem um copo cilíndrico graduado com $\frac{3}{4}$ de sua capacidade com leite:
