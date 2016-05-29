@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_cinco_tres]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que a igualdade (equivalência) de duas frações mesmo no caso em que não é possível simplificar uma para obter a outra.
