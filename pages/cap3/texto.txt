@@ -45,8 +45,6 @@
 
 {{page>cap3:secoes:conexoes}}
 
-{{page>cap3:secoes:abstrato}}
-
 {{page>cap3:secoes:massa}}
 
 ===== - Atividade =====
