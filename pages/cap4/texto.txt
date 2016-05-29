@@ -51,6 +51,11 @@
 {{page>cap4:secoes:equivalencia_cinco_tres}}
 
 
+===== - Atividade =====
+
+{{page>cap4:secoes:equivalencia_pint}}
+
+
 
 
 {{page>cap4:secoes:refletindo}}
