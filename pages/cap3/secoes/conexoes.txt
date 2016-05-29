@@ -27,21 +27,18 @@ Ao posicionar uma cópia idêntica do segmento unitário sobre a reta como na fi
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}
 </WRAP>
 
-Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero na reta e o extremo da direita representará o número $n$ na reta numérica. 
+Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero e o extremo da direita representará o número $n$ na reta numérica. 
 Na figura está ilustrada a marcação do número 7 na reta numérica.
 
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}}
 </WRAP>
-Deste modo, quanto mais à direita (sua representação) na reta numérica, maior será o número.
-Usa-se o símbolo $<$ para dizer "menor que".
-Por exemplo, a frase "oito é menor que quinze" pode ser expressa de modo mais resumido com "$8<15$". 
-<WRAP imagem> Figura ikustrando a notação simbólica "$<$" e "$>$" como no livro alemão indicado pela Cydara.
-</WRAP>
 
+/*
 No modelo da reta numérica, o segmento unitário é tomado como unidade, o número 1 registra que o segmento de extremos 0 e 1 é a unidade. 
 O número 2 registra que o segmento de extremos 0 e 2, na reta numérica, possui duas unidades de comprimento, o número 7 registra que o segmento de extremos 0 e 7 tem comprimento sete unidades e assim por diante.
+*/
 
-Dividindo a unidade em, digamos 3 partes iguais, cada uma das partes terá comprimento $\frac{1}{3}$ da unidade. 
+Dividindo a unidade em 3 partes iguais cada uma das partes terá comprimento $\frac{1}{3}$ da unidade. 
 Posicionando o extremo esquerdo de um destes segmentos sobre o 0 na reta numérica, o extremo direito representará o número $\frac{1}{3}$.
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}}
 </WRAP>
@@ -66,3 +63,11 @@ Como você já deve imaginar, podemos dividir a unidade em qualquer quantidade $
 
 {{ :cap3:secoes:reta_numerica_quartos.png?600 |}}
 </WRAP>
+
+Da maneira que foi construída a reta numérica quanto mais à direita a representação de um número na reta, maior será o número porque o "tamanho" de um número é o comprimento do segmento de extremos 0 e este número.
+Usa-se o símbolo $<$ para dizer "menor que".
+Por exemplo, a frase "oito é menor que quinze" pode ser expressa de modo mais resumido com "$8<15$". 
+Do mesmo modo usa-se o símbolo $>$ para significar "maior que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior que oito".
+<WRAP imagem> {{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}}
+</WRAP>
+
