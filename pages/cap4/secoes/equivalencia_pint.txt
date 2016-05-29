@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_pint]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Usar igualdade (equivalência) de frações para calcular o numerador de uma das frações em uma situação contextualizada.
