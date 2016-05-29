@@ -5,6 +5,6 @@ Objetivo específico: Levar o aluno a
 
 Considere a fração $p = \frac{3}{5}$.
 
-(A) Quantas frações existem com o mesmo denominador de $p$ e que sejam menor do que $p$?
+(A) Quantas frações existem com o mesmo denominador de $p$ e que sejam menores do que $p$?
 
-(B) Quantas frações existem com o mesmo numerador de $p$ e que sejam menor do que $p$?
+(B) Quantas frações existem com o mesmo numerador de $p$ e que sejam menores do que $p$?
