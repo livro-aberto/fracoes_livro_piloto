@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#comparar_fracoes]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações.
