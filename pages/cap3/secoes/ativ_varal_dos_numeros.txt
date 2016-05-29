@@ -5,16 +5,25 @@ Ir para [[cap3:texto#ativ_varal_dos_numeros]]
 <hidden Para o Professor>
 
 <WRAP professor>
+(EM CONSTRUÇÃO)
 
 Objetivos específicos: Levar o aluno a:
-  * Compreender e reconhecer a representação das frações na reta numerada;
-  * Comparação (por ordem) entre frações. 
+  * Reconhecer a representação das frações na reta numerada;
+  * Ordenar frações. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-O desenvolvimento desta atividade pode ser estabelecido como um jogo, envolvendo a toda a turma ou grupos com cerca de 5 ou 6 alunos. A quantidade de participantes em cada grupo e, consequentemente, a quantidade de grupos, devem ser decididas tendo em conta a turma e os objetivos prtendidos com a  atividade. Tudo deve ser combinado e esclarecido antes de a atividade começar. As orientações a seguir podem ser facilmente adaptadas para o formato escolhido.
+Material necessário:\\
+  - 3 metros de barbante
+  - 4 folhas de papel sufite
+  - 30 pregadores de roupa
+  - fita adesiva.
 
-O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos. Pode ser, por exemplo, em frente ao quadro e indo de um extremo a outro da sala. Esse barbante representa a reta numérica. O objetivo da atividade é “pendurar os números" no barbante usando pregadores (ou fitas adesivas), visando experimentar, em uma atividade concreta, a associação entre os pontos da reta e os números. 
+Preparação para a atividade:\\
+Com a fita adesiva prenda as extremidades do barbante em um local que seja visível e acessível a toda a turma.
+Esse barbante representará a reta numérica.
+
+Dobre todas as folhas de papel 4 vezes ao meio, formando 8 retângulos em cada folha. Escreva 
 
 Os números a serem pendurados devem estar impressos em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
 
