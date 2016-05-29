@@ -23,6 +23,10 @@
 
 {{page>cap4:secoes:dobradura}}
 
+===== - Atividade =====
+
+{{page>cap4:secoes:divisao_escondida}}
+
 {{page>cap4:secoes:dobradura_refletindo}}
 
 
@@ -38,12 +42,6 @@
 {{page>cap4:secoes:organizando_ideias}}
 
 {{page>cap4:secoes:massa}}
-
-
-
-===== - Atividade =====
-
-{{page>cap4:secoes:divisao_escondida}}
 
 
 ===== - Atividade =====
