@@ -173,9 +173,9 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'doubleenumitem' then
         outstr = outstr .. formatting .. '\\item' .. texprint(v.value, indent + 1) .. '\n'
      elseif (v.tag) == 'enumerate' then
-        outstr = outstr .. formatting .. '\n\\begin{enumerate} %s\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %s\n'
+        outstr = outstr .. formatting .. '\n\\begin{enumerate} [\\quad a)] %s\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %s\n'
      elseif (v.tag) == 'doubleenumerate' then
-        outstr = outstr .. formatting .. '\n\\begin{enumerate} %d\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %d\n'
+        outstr = outstr .. formatting .. '\n\\begin{enumerate} [\\quad a)] %d\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %d\n'
      elseif (v.tag) == 'item' then
         outstr = outstr .. formatting .. '\\item' .. texprint(v.value, indent + 1) .. '\n'
      elseif (v.tag) == 'doubleitem' then

@@ -26,9 +26,9 @@ Quadro negro escrito por Miguel:
 
 Frações
 
-meio $ \longrightarrow \frac{1}{2}$ 
+meio $\longrightarrow \frac{1}{2}$ 
 
-terço $ \longrightarrow \frac{1}{3}$
+terço $\longrightarrow \frac{1}{3}$
 
 quarto $\longrightarrow \frac{1}{4}$
 
