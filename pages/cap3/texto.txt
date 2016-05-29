@@ -44,7 +44,7 @@
 
 {{anchor:ativ_Varal_dos_numeros}}
 ===== - Atividade =====
-{{page>cap3:secoes:ativ_Varal_dos_numeros}}
+{{page>cap3:secoes:ativ_varal_dos_numeros}}
 
 {{anchor:ativ_fracoes_na_reta}}
 ===== - Atividade =====
