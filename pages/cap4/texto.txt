@@ -61,12 +61,6 @@
 {{page>cap4:secoes:equivalencia_menor}}
 
 
-===== - Atividade =====
-
-{{page>cap4:secoes:equivalencia_densidade_1}}
-
-
-
 
 {{page>cap4:secoes:refletindo}}
 
@@ -74,3 +68,8 @@
 ===== - Atividade =====
 
 {{page>cap4:secoes:equivalencia_menor_menor}}
+
+
+===== - Atividade =====
+
+{{page>cap4:secoes:equivalencia_densidade_1}}
