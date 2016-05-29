@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap2:texto#atividade_poder_da_notacao]]
+;;#
+
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
