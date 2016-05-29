@@ -1,95 +1,89 @@
-{{page>cap4:secoes:preambulo}}
+{{anchor:preambulo}}
+{page>cap4:secoes:preambulo}}
 
+{{anchor:problema_motivador}}
 {{page>cap4:secoes:problema_motivador}}
 
+{{anchor:explorando_intro}}
 {{page>cap4:secoes:explorando_intro}}
 
-
+{{anchor:preencha}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:preencha}}
 
+{{anchor:preencha_refletindo}}
 {{page>cap4:secoes:preencha_refletindo}}
 
-
+{{anchor:preencha_fita}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:preencha_fita}}
 
+{{anchor:preencha_fita_refletindo}}
 {{page>cap4:secoes:preencha_fita_refletindo}}
 
-
+{{anchor:dobradura}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:dobradura}}
 
+{{anchor:divisao_escondida}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:divisao_escondida}}
 
+{{anchor:dobradura_refletindo}}
 {{page>cap4:secoes:dobradura_refletindo}}
 
-
+{{anchor:reta_numerica}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:reta_numerica}}
 
+{{anchor:reta_numerica_refletindo}}
 {{page>cap4:secoes:reta_numerica_refletindo}}
 
-
-
-
+{{anchor:organizando_ideias}}
 {{page>cap4:secoes:organizando_ideias}}
 
+{{anchor:massa}}
 {{page>cap4:secoes:massa}}
 
-
+{{anchor:equivalencia_complete_os_quadrados}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_complete_os_quadrados}}
 
-
+{{anchor:equivalencia_cinco_tres}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_cinco_tres}}
 
-
+{{anchor:equivalencia_pint}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_pint}}
 
-
+{{anchor:equivalencia_menor}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_menor}}
 
-
+{{anchor:comparar_fracoes}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:comparar_fracoes}}
 
-
+{{anchor:comparacao}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:comparacao}}
 
-
-
+{{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
 
-
+{{anchor:equivalencia_menor_menor}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_menor_menor}}
 
-
+{{anchor:equivalencia_densidade_1}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_densidade_1}}
 
-
+{{anchor:equivalencia_densidade_2}}
 ===== - Atividade =====
-
 {{page>cap4:secoes:equivalencia_densidade_2}}
 
+{{anchor:equivalencia_densidade_refletindo}}
 {{page>cap4:secoes:equivalencia_densidade_refletindo}}
+
