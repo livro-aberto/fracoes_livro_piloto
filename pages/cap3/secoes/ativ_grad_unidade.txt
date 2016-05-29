@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade]]
+;;#
+
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Construir a ideia abstrata de fração como um número da reta numérica. 
