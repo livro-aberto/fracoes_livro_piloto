@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_complete_os_quadrados]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Construir uma fração igual a uma dada fração mas com numerador ou denominador especificados.
