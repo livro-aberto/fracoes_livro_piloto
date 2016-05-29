@@ -56,6 +56,12 @@
 {{page>cap4:secoes:equivalencia_pint}}
 
 
+===== - Atividade =====
+
+{{page>cap4:secoes:equivalencia_menor}}
+
+
+
 {{page>cap4:secoes:refletindo}}
 
 
