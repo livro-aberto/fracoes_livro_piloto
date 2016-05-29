@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_ordem_mesmo_denom]]
+;;#
+
 Frações: a comparação entre frações com a mesma subdivisão da unidade
 
 <WRAP professor>
