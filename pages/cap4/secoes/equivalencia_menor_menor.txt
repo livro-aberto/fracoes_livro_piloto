@@ -1,0 +1,10 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber que mesmo se $n < p$ e $m < q$, pode ocorrer que $\frac{n}{m} \geq \frac{p}{q}$.
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos, isto é, eles equivocamente acham que se $n < p$ e $m < q$, então necessariamente $\frac{n}{m} < \frac{p}{q}$.
+</WRAP>
+
+Jorge e Ana estão comparando as frações $\frac{2}{3}$ e $\frac{6}{10}$. Jorge afirma que 
+$\frac{2}{3} < frac{6}{10}$ porque $2 < 6$ e $3 < 10$. Ana diz que as frações iguais. Use desenhos, palavras e números para ajudar Ana a explicar a Jorge porque ela está certa.
