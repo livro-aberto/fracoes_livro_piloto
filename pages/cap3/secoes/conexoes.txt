@@ -1,18 +1,17 @@
 ====== ORGANIZANDO AS IDEIAS ======
 
 (EM CONSTRUÇÃO)
-Nos exemplos vistos até aqui as frações foram usadas para quantificar objetos: $\frac{3}{4}$ da barra de chocolate, um oitavo da caixa-d'água, etc. 
-Agora as frações serão definidas como números e assim serão representadas como pontos na reta numérica.
-Para números naturais faz sentido:
-$$2 < 3,$$ 
+Para números naturais faz sentido escrever:
+$$2 {\rm \,\, é \,\,menor\,\, que\,\,}  3,$$ 
 $$3 + 5 = 8 {\rm \,\,e}$$  
 $$12 \div 4 = 3$$ 
-mesmo se sem falar do contexto, são simplesmente ordem e operações com números.
-Então fará sentido dizer o número $\frac{3}{4}$, mesmo sem a barra de chocolates ou qualquer outro objeto.
+mesmo sem falar do contexto, são simplesmente ordem e operações com os números já conhecidos.
+Nos exemplos vistos até aqui as frações são usadas para quantificar objetos: $\frac{3}{4}$ da barra de chocolate, um oitavo da caixa-d'água, etc. 
+Agora as frações serão definidas como números e representadas como pontos na reta numérica.
+Então fará sentido dizer o número $\frac{3}{4}$, mesmo sem a barra de chocolate ou qualquer outro objeto.
 
-Você já deve ter visto que os números naturais são representados na reta numérica. 
-Para essa construção considera-se uma reta com dois pontos, representando o 0 e 1.
-O pedaço da reta que está entre o 0 e o 1 como uma unidade, chamada de //segmento unitário//. 
+Para marcar os números naturais na reta numérica considera-se uma reta (geralmente apresentada na horizontal) com dois pontos, representando o 0 e 1.
+O pedaço da reta que está entre o 0 e o 1 é tomado como uma unidade e chamado de //segmento unitário//. 
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica.png?500 |}}</WRAP>
 
@@ -21,7 +20,12 @@ Ao posicionar uma cópia idêntica do segmento unitário sobre a reta como na fi
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}
 </WRAP>
 
-Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero na reta e o extremo da direita representará o número $n$ na reta numérica. Veja a figura referente à marcação do do 7 na reta numérica.
+Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero na reta e o extremo da direita representará o número $n$ na reta numérica. 
+Na figura está ilustrada a marcação do número 7 na reta numérica.
 
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}}
 </WRAP>
+
+Os números registram a comparação entre duas unidades. 
+Na ilustração acima, o segmento unitário é tomado como unidade, o número 1 registra que o segmento de 0 a 1 está o segmento unitário. 
+O número 2 registra que o segmento de extremos 0 e 2, na reta numérica, possui duas unidades de comprimento.
