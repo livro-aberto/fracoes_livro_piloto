@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap3:texto#ativ_reta_numerada]]
+;;#
 
 <hidden HJ (2016/04/18)>
 Francisco, a atividade está orientada de modo que parece que o aluno já sabe como fazer esta associação entre a justaposição das faixas e de que fração nomear a extremidade final. Isto não é uma definição? Não deveríamos, portanto, colocá-la como tal?
