@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#preencha]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais (equivalentes) usando modelos de área circulares. 
