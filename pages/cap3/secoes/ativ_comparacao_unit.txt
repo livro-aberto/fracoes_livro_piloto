@@ -1,5 +1,8 @@
-Frações: comparando frações unitárias
+;;#
+Ir para [[cap3:texto#ativ_comparacao_unit]]
+;;#
 
+Frações: comparando frações unitárias
 
 <WRAP professor> 
 Objetivos específicos:
