@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade6]]
+;;#
+
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Estender a representação de frações para a reta numérica. 
