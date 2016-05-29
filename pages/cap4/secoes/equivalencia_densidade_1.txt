@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_densidade_1]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber a propriedade de densidade das frações ao obter frações arbitrariamente próximas de $0$ e arbitrariamente próximas de $1$.
