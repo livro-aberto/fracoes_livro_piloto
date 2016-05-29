@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap2:texto#conexoes]]
+;;#
+
 ====== ORGANIZANDO AS IDEIAS ======
 <hidden Para o professor>
 <WRAP professor>
