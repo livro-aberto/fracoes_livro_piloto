@@ -1,0 +1,13 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar frações.
+</WRAP>
+
+Preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que a comparação estabelecida seja verdadeira.
+
+| Item | Fração | "$>$", "$<$" ou "$=$" | Fração | Justificativa |
+| (A) | $\frac{1}{4}$ | _ _ | $\frac{6}{25}$ | |
+| (B) | $\frac{22}{7}$ | _ _ | $\frac{31}{10}$ | |
+| (C) | $\frac{22}{33}$ | _ _ | $\frac{24}{36}$ | |
+| (D) | $\frac{5}{10}$ | _ _ | $\frac{50}{100}$ | |
+| (E) | $\frac{7}{5}$ | _ _ | $\frac{17}{12}$ | |
