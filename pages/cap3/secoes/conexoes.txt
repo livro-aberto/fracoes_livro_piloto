@@ -1,4 +1,8 @@
- ====== ORGANIZANDO AS IDEIAS ======
+;;#
+Ir para [[cap3:texto#conexoes]]
+;;#
+
+====== ORGANIZANDO AS IDEIAS ======
 
 (EM CONSTRUÇÃO)
 Para números naturais faz sentido escrever:
