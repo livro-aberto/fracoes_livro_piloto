@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#equivalencia_menor_menor]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber que mesmo se $n < p$ e $m < q$, pode ocorrer que $\frac{n}{m} \geq \frac{p}{q}$.
