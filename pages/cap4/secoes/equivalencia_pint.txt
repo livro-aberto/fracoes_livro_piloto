@@ -4,7 +4,7 @@ Objetivo específico: Levar o aluno a
 </WRAP>
 
 Você tem um copo cilíndrico graduado com $\frac{3}{4}$ de sua capacidade com leite:
-{{:cap4:secoes:equivalencia-copo-01.png?50|}} (note os $4$ níveis horizontais igualmente espaçaos marcados no copo). Seu primo tem um copo cilindrico idêntico mas graduado com $12$ níveis horizontais igualmente espaçados. Quantos níveis devem ser preenchidos para que ele fique com a mesma quantidade de leite que você?
+{{:cap4:secoes:equivalencia-copo-01.png?50|}} (note os $4$ níveis horizontais igualmente espaçaos marcados no copo). Seu irmão tem um copo cilindrico idêntico mas graduado com $16$ níveis horizontais igualmente espaçados. Quantos níveis devem ser preenchidos para que ele fique com a mesma quantidade de leite que você?
 
 
 
