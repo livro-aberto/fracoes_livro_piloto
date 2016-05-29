@@ -1,0 +1,4 @@
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber como frações iguais (equivalentes) podem ser usadas para se comparar duas frações quaisquer.
+</WRAP>
