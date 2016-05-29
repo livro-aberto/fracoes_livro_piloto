@@ -1,7 +1,7 @@
 ====== Examples for the Wrap Plugin ======
 
   - Considerando uma torta, qual quantidade:
-    - Amarildo recebeu??
+    - Amarildo recebeu?
     - Amarildo Beto e Carlos receberam juntos?
 
 <WRAP professor>

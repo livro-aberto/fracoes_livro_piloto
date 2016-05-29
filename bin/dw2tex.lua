@@ -188,15 +188,9 @@ function texprint (tbl, indent)
         outstr = outstr .. formatting .. '( ERRO:\\{' .. formatsimple:match(v.value) .. '\\} )'
      elseif (v.tag) == 'wrap' then
         if ((v.type ~= "professor" and v.type ~= "resposta") or not livrodoaluno) then
-          if (v.type == 'resposta') then
-            outstr = outstr .. formatting .. '\\begin{resposta*}[breakable]{}{}'
+            outstr = outstr .. formatting .. '\\begin{' .. v.type .. '*}[breakable]{}{}'
             outstr = outstr .. texprint(v.value, indent + 1)
-            outstr = outstr .. formatting .. '\\end{resposta*}'
-          else
-            outstr = outstr .. formatting .. '\\begin{' .. v.type .. '}[breakable]{}{}'
-            outstr = outstr .. texprint(v.value, indent + 1)
-            outstr = outstr .. formatting .. '\\end{' .. v.type .. '}'
-          end
+            outstr = outstr .. formatting .. '\\end{' .. v.type .. '*}'
         end
      end
    end
