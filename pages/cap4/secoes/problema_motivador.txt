@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#problema_motivador]]
+;;#
+
 <WRAP imagem>
 HISTÓRIA EM QUADRINHOS
 
