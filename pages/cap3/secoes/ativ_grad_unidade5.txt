@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade5]]
+;;#
+
 Observe a reta numerada abaixo:
 
 {{ :cap3:secoes:reta_4_partes_a.jpg?300 |}}
