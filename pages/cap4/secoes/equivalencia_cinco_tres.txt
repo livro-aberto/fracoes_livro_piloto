@@ -1,6 +1,6 @@
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que a igualdade de duas frações mesmo no caso em que não é possível simplificar uma para obter a outra.
+  * Reconhecer que a igualdade (equivalência) de duas frações mesmo no caso em que não é possível simplificar uma para obter a outra.
 </WRAP>
 
 (A) A fração $\frac{10}{15}$ é maior, igual ou menor do que a fração $\frac{6}{9}$? Justifique sua resposta!
