@@ -3,10 +3,15 @@ bjetivos específicos: Levar o aluno a
   * Comparar frações, em que os denominadores são múltiplos, a partir de modelos contínuos.   
   
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * 
+  - Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  - Para facilitar a discussão, você pode levar, ou sugerir aos alunos que construam em papel, a situação (em um bolo só, e não em dois, para que percebam efetivamente a mesma quantidade, não por comparação ou justaposição, mas sim pelo raciocínio da subdivisão). Tambem pode ser feito uso do material concreto - Frações Circulares. Se f
+  - Os itens (i) e (ii) motivam a abordagem de frações equivalentes e a comparação de frações, enquanto que os itens (iii) e (iv) trabalham a comparação  de frações não equivalentes.
 
+
+
+<WRAP Comentário>
+A atividade acima pode desencadear uma discussão com os alunos que os leve a perceberem que se multiplicamos (dividimos) numerador e denominador de uma fração pelo mesmo número então é gerada uma fração equivalente à  fração original. No entanto, não vale a recíproca e cabe aos organizadores decidirem se a recíproca faz parte ou não dos anos iniciais. Na minha opinião, a recíproca poderia ficar para uma retomada no sexto ano. Mas os professores dos anos iniciais devem ser alertados para este fato.
 </WRAP>
-
 
 Rita convidou seus colegas de escola para virem à sua casa conhecer seu novo cãozinho. Sua mãe preparou um bolo para o lanche da tarde das crianças. Às 16h chegaram dois de seus colegas, João e Mário. Mário, logo imaginou o bolo repartido em 3 pedaços e imaginando que ele poderia então comer um terço do mesmo 
 
