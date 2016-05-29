@@ -42,5 +42,8 @@ Preencha cada lacuna a seguir com uma fração adequada (use notação simbólic
   - $\frac{5}{2}$.
   - $\frac{5}{4}$.
   - $\frac{5}{6}$.
+  - $3$.
+  - $\frac{3}{2}$.
+  - $1$
 </WRAP>
 </hidden>
