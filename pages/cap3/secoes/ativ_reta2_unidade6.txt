@@ -4,7 +4,9 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   - Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  - Para facilitar a discussão, você pode levar, ou sugerir aos alunos que construam em papel, a situação (em um bolo só, e não em dois, para que percebam efetivamente a mesma quantidade, não por comparação ou justaposição, mas sim pelo raciocínio da subdivisão). Tambem pode ser feito uso do material concreto - Frações Circulares. Se f
+  - Para facilitar a discussão, você pode levar, ou sugerir aos alunos que construam em papel, a situação (em um bolo só, e não em dois, para que percebam efetivamente a mesma quantidade, não por comparação ou justaposição, mas sim pelo raciocínio da subdivisão)
+NÃO ENTENDI, Cydara.
+Acho que poderia ser feito com feito com o uso do material concreto - Frações Circulares. 
   - Os itens (i) e (ii) motivam a abordagem de frações equivalentes e a comparação de frações, enquanto que os itens (iii) e (iv) trabalham a comparação  de frações não equivalentes.
 
 </WRAP>
@@ -12,7 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP Comentário>
 Cyd: Esta atividade pode desencadear uma discussão com os alunos que os leve a perceberem que se multiplicamos (dividimos) numerador e denominador de uma fração pelo mesmo número então é gerada uma fração equivalente à fração original. No entanto, não vale a recíproca e cabe aos organizadores decidirem se a recíproca faz parte ou não dos anos iniciais. Na minha opinião, a recíproca poderia ficar para uma retomada no sexto ano. Mas os professores dos anos iniciais devem ser alertados para este fato.
-Let: Cncordo, a discussão da questão da recíprova deve ser mais adiante.
+Let: Concordo, a discussão da questão da recíprova deve ser mais adiante.
 </WRAP>
 
 Rita convidou seus colegas de escola para virem à sua casa conhecer seu novo cãozinho. Sua mãe preparou um bolo para o lanche da tarde das crianças. Às 16h chegaram dois de seus colegas, João e Mário. Mário, logo imaginou o bolo repartido em 3 pedaços e imaginando que ele poderia então comer um terço do mesmo 
@@ -28,8 +30,8 @@ Figuras do bolo inicialmente partido em terços e, depois, subdividido em 12 par
 </WRAP>
 
 Na hora do lanche, Mario comeu quatro pedaços do bolo e João 2 pedaços de bolo.
-  * Item de lista não ordenadaQue fração do bolo Mario comeu?
+  * Que fração do bolo Mario comeu?
   * Que fração do bolo João comeu?
 Se os amigos atrasados não tivessem aparecido antes do lanche, a mãe de Rita não teria divido as 3 fatias iniciais. Assim, se fossem apenas Rita, Mario e João, cada uma teria comido uma das três fatias inicais.
-  * Item de lista não ordenadaNesse caso, Mário teria comido menos bolo, mais bolo ou a mesma quantidade de bolo que comeu?
+  * Nesse caso, Mário teria comido menos bolo, mais bolo ou a mesma quantidade de bolo que comeu?
   * E João, teria comido menos bolo, mais bolo ou a mesma quantidade de bolo que comeu?
