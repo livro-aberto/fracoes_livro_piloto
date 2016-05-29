@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade4]]
+;;#
+
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Associar as equipartições da unidade com a representação de frações para a reta numérica. 
