@@ -54,12 +54,9 @@ page>cap1:secoes:abstrato
 
 /* atividade mais avançada, deve ser utilizada mais para frente page>cap1:secoes:atividade5*/
 
-
-
+{{anchor:ativ_visual_linguagem}}
 ===== - Atividade =====
-
 {{page>cap1:secoes:ativ_visual_linguagem}}
-
 
 {{anchor:ativ_variadas}}
 ===== - Atividade =====
