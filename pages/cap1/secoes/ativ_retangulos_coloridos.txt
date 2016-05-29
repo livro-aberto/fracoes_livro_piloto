@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap1:texto#ativ_retangulos_coloridos]]
+;;#
+
 <hidden Para o Professor>
 <WRAP professor> 
 Objetivo específico: Levar o aluno a:
