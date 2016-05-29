@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap1:texto#ativ_visual_linguagem]]
+;;#
 
 **INCLUIR QUESTÕES MAIS SIMPLES ANTES DESTA E ESTIMATIVA APÓS**
 
