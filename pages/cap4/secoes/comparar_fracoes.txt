@@ -16,3 +16,4 @@ preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que, em cada linh
 | (C) | $\frac{22}{33} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{24}{36}$ |
 | (D) | $\frac{5}{10} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{50}{100}$ |
 | (E) | $\frac{7}{5} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{17}{12}$ |
+| (F) | $\frac{7}{12} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{9}{20}$ |
