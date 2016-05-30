@@ -1,14 +1,14 @@
 <?php
 
-require_once('../../../inc/changelog.php');
+require_once('/var/www/livro/inc/changelog.php');
 //require_once('../../../inc/search.php');
 //require_once('../../../inc/pageutils.php');
-require_once('../../../inc/init.php');
-require_once('../../../inc/common.php');
-require_once('../../../inc/io.php');
-require_once('../../../inc/search.php');
-require_once('../../../inc/pageutils.php');
-require_once('../../../inc/parserutils.php');
+require_once('/var/www/livro/inc/init.php');
+require_once('/var/www/livro/inc/common.php');
+require_once('/var/www/livro/inc/io.php');
+require_once('/var/www/livro/inc/search.php');
+require_once('/var/www/livro/inc/pageutils.php');
+require_once('/var/www/livro/inc/parserutils.php');
 
 class helper_plugin_discussion{
 
@@ -43,7 +43,7 @@ class helper_plugin_discussion{
 
     function getThreads($ns, $num = null, $skipEmpty = false) {
         global $conf;
-        $dir = '../pages/';
+        $dir = '/var/www/livro/data/gitrepo/pages/';
         // returns the list of pages in the given namespace and it's subspaces
         $items = array();
         search($items, $dir, 'search_allpages', array());
@@ -96,9 +96,9 @@ class helper_plugin_discussion{
     function getComments($ns = 1, $num = NULL) {
         $result = array();
         $count  = 0;
-        if (!@file_exists('../../meta/_comments.changes')) {print('ahhh');return $result;}
+        if (!@file_exists('/var/www/livro/data/meta/_comments.changes')) {print('ahhh');return $result;}
         // read all recent changes. (kept short)
-        $lines = file('../../meta/_comments.changes');
+        $lines = file('/var/www/livro/data/meta/_comments.changes');
         $seen = array(); //caches seen pages in order to skip them
         // handle lines
         $line_num = count($lines);
