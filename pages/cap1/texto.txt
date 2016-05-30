@@ -20,7 +20,7 @@ page>cap1:secoes:intro
 {{page>cap1:secoes:ativ_enfeite}}
 
 {{anchor:conexoes}}
-{page>cap1:secoes:conexoes}}
+{{page>cap1:secoes:conexoes}}
 
 ====== MÃO NA MASSA ======
 
