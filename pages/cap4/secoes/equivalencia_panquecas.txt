@@ -1,0 +1,14 @@
+;;#
+Ir para [[cap4:texto#equivalencia_panquecas]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Simplificar frações e relacionar esta simplificação no contexto de minimização de cortes em uma equipartição.
+</WRAP>
+
+(Adaptado de Empson (2001))
+
+$24$ amigos estão querendo dividir igualmente $8$ panquecas circulares.
+
+(A) 
