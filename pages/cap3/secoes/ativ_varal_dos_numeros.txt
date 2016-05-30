@@ -5,13 +5,11 @@ Ir para [[cap3:texto#ativ_varal_dos_numeros]]
 <hidden Para o Professor>
 
 <WRAP professor>
-(EM CONSTRUÇÃO)
+
 
 Objetivos específicos: Levar o aluno a:
   * Reconhecer a representação das frações na reta numerada;
   * Ordenar frações. 
-
-Recomendações e sugestões para o desenvolvimento da atividade:
 
 Material necessário:\\
   - 3 metros de barbante
@@ -21,16 +19,20 @@ Material necessário:\\
 
 Preparação para a atividade:\\
 Com a fita adesiva prenda as extremidades do barbante em um local que seja visível e acessível a toda a turma.
-Esse barbante representará a reta numérica.
+Esse barbante representará um trecho da reta numérica.
+Dobre as folhas de papel 4 vezes ao meio, formando 8 retângulos em cada folha. 
+Escreva as frações nos retângulos e recorte os cartões.
 
-Dobre todas as folhas de papel 4 vezes ao meio, formando 8 retângulos em cada folha. Escreva 
 
-Os números a serem pendurados devem estar impressos em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado para a atividade. Recomenda-se pelo menos um número por aluno. Deixamos uma sequência com 32 números, entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
+Recomendações e sugestões para o desenvolvimento da atividade:\\
+Recomenda-se que as fichas com o 0 e o 1 já estejam presas no barabante antes do início da atividade, estes podem ser presos com fita adesiva para que não se movam. Caso seja utilizado um barbante de 3 metros, o zero pode ser posicionado na extremidade esquerda e o número um, 50 cm à direita.
 
-O objetivo é fixar os números no varal. Os critérios para o desenvolvimento da atividade devem ser estabelecidos pelo professor e informados à turma, considerando os objetivos pretendidos. 
-
-Recomenda-se que as fichas com o 0(zero) e o 1(um) já estejam presa no barabante antes do início da atividade. Assim, respeitando o nível de escolaridade em foco, a unidade estará determinada de modo a facilitar a fixação dos demais números naturais e a identificação de partes da unidade correspondentes às frações unitárias (a partir da equipartição, que pode ser obtida por dobradura, do pedaço de barbante limitado pelo 0(zero) e pelo 1(um). 
-
+A turma pode ser dividida em grupos e os cartões distribuídos aos poucos pelos grupos. 
+Recomenda-se entregar inicialmente os cartões contendo números inteiros aos grupos. 
+Estimule que eles discutam a posição do cartão e, então, um de cada grupo levante-se, posicione o cartão no varal usando o pregador de roupas e explique porque escolheu aquela posição.
+O mesmo pode então ser feito para os números com denominador 2, depois 3, e assim por diante.
+Outra possibilidade é que os cartões sejam distribuídos entre os grupos e o professor escolha um número e o grupo que tem o cartão com aquele número levante-se e decida a posição do cartão no varal.
+/*
 INCLUIR IMAGEM ILUSTRATIVA DO VARAL 
 
 Como critérios para o desenvolvimento da atividade, são recomendados: 
@@ -42,24 +44,25 @@ Como critérios para o desenvolvimento da atividade, são recomendados:
   * o ponto de fixação pode ser discutido e orientado pelo grupo do qual o aluno que fará a fixação faz parte.
   * Ganha o grupo que, após a fixação de todas as fichas numeradas no varal, obtiver maior pontuação.
   * Uma variação do jogo pode admitir que um grupo sugira frações para que outro grupo faça a fixação. Nesse caso, as frações podem ser escolhidas a partir de uma lista previamente estabelecida pelo professor. O grupo que escolhe a fração deverá lê-la e o grupo que fará a fixação deverá registá-la. Dessa forma, a leitura e a escrita em representação simbólica também são tratadas na atividade.
-
+*/
 
 </WRAP>
 </hidden>
+(EM CONSTRUÇÃO)
 
-VARAL DOS NÚMEROS
+O varal de números está disposto na sala de aula, nele estão posicionados o zero e o um como na figura. O professor entregará aos estudantes um cartão contendo um número.
 
+<WRAP imagem> Foto do varal com apenas os números 0 e 1.
+{{ :cap3:secoes:varal01.jpg?500 |}}
+</WRAP>
+    - Descreva a posição em que o número do cartão recebido deve ser posicionado na reta numérica.
+    - Espere a sua vez para posicionar o seu cartão no lugar escolhido do varal de números e explique para a turma como foi determinada a posição.
 
-INCLUIR COMO MATERIAL PARA REPRODUCAO FICHAS com os seguintes números:
+<hidden Resposta>
+<WRAP resposta>
 
-0, 1, 2, 3, 4, 5
-1/2, 2/2, 3/2, 5/2, 8/2
-1/3, 2/3, 4/3, 8/3, 10/3, 
-1/4, 2/4, 3/4, 4/4, 8/4, 10/4, 18/4
-1/5, 6/5, 10/5, 15/5, 
-1/10, 5/10, 15/10. 
-
-
-<hidden Comentários>
-
+<WRAP imagem>
+Esboço da reta numérica com os números posicionados.
+</WRAP>
+</WRAP>
 </hidden>
