@@ -17,6 +17,6 @@ O que acontece com a fração $\frac{4}{7}$ (isto é, ela fica maior, menor ou i
 
 (D) o seu numerador e o seu denominador são ambos aumentados de $2$?
 
-(E) o seu numerador e o seu denominador são ambos multiplicados de $2$?
+(E) o seu numerador e o seu denominador são ambos multiplicados por $2$?
 
 (F) o seu numerador é aumentado de $1$ e o seu demoninador é diminuído de $1$?
