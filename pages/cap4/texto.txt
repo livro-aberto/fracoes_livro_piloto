@@ -61,6 +61,10 @@
 ===== - Atividade =====
 {{page>cap4:secoes:comparar_fracoes}}
 
+{{anchor:chave_de_caixa}}
+===== - Atividade =====
+{{page>cap4:secoes:chave_de_caixa}}
+
 {{anchor:comparacao}}
 ===== - Atividade =====
 {{page>cap4:secoes:comparacao}}
