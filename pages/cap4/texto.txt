@@ -1,6 +1,3 @@
-{{page>cap4:secoes:teste}}
-
-
 {{anchor:preambulo}}
 {{page>cap4:secoes:preambulo}}
 
