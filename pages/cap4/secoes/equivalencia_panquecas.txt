@@ -26,4 +26,4 @@ Um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e q
 
 (B) Quantos cortes (do centro para a borda) da panqueca são necessários para esta divisão?
 
-(C) 
+(C) É possível dividir igualmente as $8$ panquecas entre os $24$ amigos fazendo menos cortes? Se você acha que sim, quantos cortes serão necessários e qual é a fração de uma panqueca que cada amigo vai receber neste caso?
