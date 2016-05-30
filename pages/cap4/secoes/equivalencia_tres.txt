@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap4:texto#tres]]
+Ir para [[cap4:texto#equivalencia_tres]]
 ;;#
 
 <WRAP professor>
