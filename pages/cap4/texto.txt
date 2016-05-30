@@ -78,6 +78,10 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_panquecas}}
 
+{{anchor:equivalencia_tres}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_tres}}
+
 
 {{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
