@@ -128,11 +128,14 @@ NECESSÁRIO (POSSIBILIDADE DE) USAR RECURSO DIGITAL
 
 Texto da atividade:
 A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou um sanduíche e, a seguir, equiparticionou-o de diferentes formas:
+
 {{:cap4:secoes:sanduiches.jpg?200|}}
 
-Inserir 9 figuras, desde meios até décimos, tais como as figuras "sanduiches" e "outros sanduíches"
+{{:cap4:secoes:outros_sanduiches.png?200|}}
 
-Pergunta-se: quais desses recortes permitem que se coma metade de um sanduíche? 
+i) Quais desses recortes permitem que se coma metade de um sanduíche? 
+
+ii) 
 
 <hidden Resposta>
 <WRAP resposta>
