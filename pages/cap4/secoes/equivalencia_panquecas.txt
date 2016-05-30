@@ -11,4 +11,4 @@ Objetivo específico: Levar o aluno a
 
 $24$ amigos estão querendo dividir igualmente $8$ panquecas circulares.
 
-(A) 
+(A) Um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e que, então, cada amigo recebesse $8$ dessas partes.
