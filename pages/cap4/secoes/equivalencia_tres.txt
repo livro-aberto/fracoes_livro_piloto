@@ -1,0 +1,9 @@
+;;#
+Ir para [[cap4:texto#tres]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar mais do que duas frações (no caso, três) usando frações iguais (equivalentes).
+</WRAP>
+
