@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap4:texto#chave_de_caixa]]
+;;#
+
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações.
