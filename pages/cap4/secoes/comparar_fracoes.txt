@@ -4,14 +4,15 @@ Ir para [[cap4:texto#comparar_fracoes]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Comparar frações.
+  * Comparar frações usando igualdade (equivalência) de frações.
 </WRAP>
 
-Preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira.
+Para cada par de frações $p$ e $q$ na tabela a seguir, encontre frações de mesmo denominador que sejam respectivamente iguais às frações dadas. Em seguida, 
+preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira.
 
-| Item | Fração | "$>$", "$<$" ou "$=$" | Fração | Justificativa |
-| (A) | $\frac{1}{4}$ |  | $\frac{6}{25}$ | |
-| (B) | $\frac{22}{7}$ | | $\frac{31}{10}$ | |
-| (C) | $\frac{22}{33}$ |  | $\frac{24}{36}$ | |
-| (D) | $\frac{5}{10}$ |  | $\frac{50}{100}$ | |
-| (E) | $\frac{7}{5}$ | | $\frac{17}{12}$ | |
+| Item | Fração $p$ | "$>$", "$<$" ou "$=$" | Fração $q$ | 
+| (A) | $\frac{1}{4} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{6}{25}$ |
+| (B) | $\frac{22}{7} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{31}{10}$ |
+| (C) | $\frac{22}{33} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{24}{36}$ |
+| (D) | $\frac{5}{10} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{50}{100}$ |
+| (E) | $\frac{7}{5} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{17}{12}$ |
