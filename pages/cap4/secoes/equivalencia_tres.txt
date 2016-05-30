@@ -7,3 +7,9 @@ Objetivo específico: Levar o aluno a
   * Comparar mais do que duas frações (no caso, três) usando frações iguais (equivalentes).
 </WRAP>
 
+Considere as frações
+$p = \frac{19}{7}$, $q = \frac{87}{32}$ e $r = \frac{106}{39}$.
+
+(A) Encontre três frações de mesmo denominador que sejam iguais às frações $p$, $q$ e $r$.
+
+(B) Qual fração é maior? Qual fração é menor?
