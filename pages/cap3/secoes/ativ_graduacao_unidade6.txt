@@ -4,9 +4,8 @@ Ir para [[cap3:texto#ativ_graduacao_unidade6]]
 
 
 <WRAP professor> 
-Objetivos específicos: 
-  * Motivar o uso da reta numérica a partir da graduação em uma escala linear em um modelo contínuo.
-Levar o aluno a
+Objetivos específicos: Levar o aluno a
+  * Representar das frações na reta numerada, a partir da graduação em uma escala linear em um modelo contínuo.
   * Associar, na reta numérica, a unidade ao segmento unitário, admitindo a representacão de quantidades entre 0 e 1.
   * Associar frações a pontos na reta numérica. Em particular, as frações $\frac{1}{4}$, $\frac{1}{2}$ e $\frac{3}{4}$.
   * Observar a necessidade de equipartição do segmento unitário para a identificação destas frações na reta numérica.    
