@@ -83,6 +83,11 @@
 {{page>cap4:secoes:equivalencia_tres}}
 
 
+{{anchor:equivalencia_m_dividido_por_m}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_m_dividido_por_m}}
+
+
 {{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
 
