@@ -11,10 +11,16 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
   * Estimule seus alunos a explicarem a resposta dada.  
-  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada representa a fração da unidade. No entano, na reta, a fração é associada a um único ponto.  
+  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada a fração da unidade. No entano, na reta, a fração é associada a um único ponto. 
+  * Para a realização desta atividade, distrubua aos alunos cópia das página para reprodução: Faixa,  (INSERIR LINK DE PÁGINA PARA REPRODUÇÃO). Os alunos devem recortar o encarte disponível em uma das páginas e fazer o registro das frações na reta numérica impressa na outra página. Recomenda-se que esse material seja guardado para outras atividades. 
 </WRAP>
 
-Considere a faixa 
+Considere a faixa retangular a seguir como unidade. 
+
+
+
+
+Ela esta dividida em quintos. 
 
 
 
