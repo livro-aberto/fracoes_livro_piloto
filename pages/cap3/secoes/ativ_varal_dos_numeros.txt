@@ -55,7 +55,6 @@ Como critérios para o desenvolvimento da atividade, são recomendados:
 
 </WRAP>
 </hidden>
-(EM CONSTRUÇÃO)
 
 O varal de números está disposto na sala de aula, nele estão posicionados os números zero e um como na figura. Nos cartões preparados para a atividade estão os números: \\
 $0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$,
