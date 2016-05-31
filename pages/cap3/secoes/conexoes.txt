@@ -81,7 +81,7 @@ Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, a par
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
-<WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}} </WRAP>
+<WRAP imagem> {{ :cap3:secoes:reta0127.png?600 |}} </WRAP>
 
 As frações também podem ser representadas na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
