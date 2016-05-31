@@ -87,6 +87,8 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_m_dividido_por_m}}
 
+{{page>cap4:secoes:equivalencia_m_dividido_por_m_refletindo}}
+
 
 {{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
