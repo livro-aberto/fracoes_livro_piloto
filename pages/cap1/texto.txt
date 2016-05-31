@@ -1,4 +1,4 @@
-====== LIÇÃO 1 - Frações da unidade ======
+====== LIÇÃO 1 - Começando a falar sobre frações ======
 
 {{anchor:prologo}}
 {{page>cap1:secoes:prologo}}
