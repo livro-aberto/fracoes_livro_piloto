@@ -43,5 +43,5 @@ Argumenta especialmente a dificuldade para se trabalhar com as operações com n
 * [[http://www.pballew.net/mathbooks.html|Notes on the History of Math Teaching and Math Books]] (livros americanos).
 A história do uso da reta numérica em livros textos dos Estados Unidos. Mostra que desde o início do século XX alguns livros já utilizavam a reta numérica para fins didáticos, mas que este hábito se popularizou apenas no final do século XX.
 
-Hans Freudenthal. [[https://www.umlivroaberto.com/wiki/lib/exe/fetch.php?media=discus:freudenthal_-_didactical_phenomenology_of_mathematical_structures.pdf|Didactical Phenomenology of Mathematical Structures]] . Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).\\
-Grande entusiasta do uso da reta numérica no ensino de matemática, enfatiza o uso de 
+Hans Freudenthal. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).\\
+Grande entusiasta do uso da reta numérica no ensino de matemática, enfatiza o uso dela para observar a densidade dos racionais e a continuidade.
