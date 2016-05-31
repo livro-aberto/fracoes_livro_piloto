@@ -45,7 +45,8 @@ Já a fração $\frac{6}{3}$ é igual a 2.
 <WRAP imagem> 3 IMAGENS, as duas primeiras lado a lado e a reta abaixo:
   * DUAS PIZZA PARTIDAS EM TERÇOS, 
   * DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS;
-  * RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
+  * RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE 
+</WRAP>
 
 E a fração $\frac{12}{3}$, é igual a que número natural? ________ \\
 
