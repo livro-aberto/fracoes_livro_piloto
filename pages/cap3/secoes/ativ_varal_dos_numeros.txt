@@ -35,8 +35,9 @@ Recomenda-se entregar inicialmente os cartões contendo números inteiros, depoi
 Vale a pena usar também fita adesiva para prender os números naturais porque algumas frações ocuparão a mesma posição na reta então será necessário prender um cartão no outro que já está afixado e pode ficar pesado para o pregador.
 Uma boa estratégia pode ser inicialmente realizar a atividade na ordem em que os números aparecem na lista abaixo, ao menos até terminarem as frações com denominador 2 para que os estudantes observem que o posicionamento de $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$ é feito do mesmo modo que aquele para os naturais, apenas considerando o segmento de extremos 0 e $\frac{1}{2}$ como unidade ao invés do segmento de extremos 0 e 1.
 Depois pode-se seguir da mesma ordem com as frações de denominador 3 em diante ou o professor pode escolher outra ordem de acordo com o andamento da turma.
-As frações com denominador 10 podem servir de desafio nesta atividade.
+As frações com denominador 5 ou 10 podem servir de desafio nesta atividade.
 Estimule que eles discutam a posição do cartão e, então, um de cada grupo levante-se, posicione o cartão no varal usando o pregador de roupas e explique porque escolheu aquela posição.
+A atividade pode ser refeita recolhendo-se os cartões das frações do varal, colocando-os embaralhados sobre a mesa do professor com as faces voltadas para baixo e cada estudante deve ir à mesa do professor pegar um cartão e prendê-lo no varal.
 
 /*
 INCLUIR IMAGEM ILUSTRATIVA DO VARAL 
@@ -57,10 +58,9 @@ Como critérios para o desenvolvimento da atividade, são recomendados:
 (EM CONSTRUÇÃO)
 
 O varal de números está disposto na sala de aula, nele estão posicionados os números zero e um como na figura. Nos cartões preparados para a atividade estão os números: \\
-0, 1, 2, 3, \\
-$\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$,\\
-$\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$,\\
-$\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$, \\
+$0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$,
+$\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$,
+$\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$,
 $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\frac{10}{5}$,
 $\frac{1}{10}$.
 
