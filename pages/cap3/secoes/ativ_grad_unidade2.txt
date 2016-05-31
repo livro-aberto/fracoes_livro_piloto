@@ -2,18 +2,20 @@
 Ir para [[cap3:texto#ativ_grad_unidade2]]
 ;;#
 
-Frações: seu lugar é na reta numerada
 
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Reforçar a relação entre a unidade e o número 1 da reta numérica. 
-  * Localizar as frações do tipo 1/b e a/b em uma mesma reta. 
+  * Identificar, na reta numérica, os pontos correspondentes às frações do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para a>0, a partir de modelos contínuos.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
-  * Recomenda-se que nesta atividade os alunos trabalhem no modo individual. 
-  * O professor deve orientá-los a escreverem cada fração correspondente a cada faixa pintada. 
+  * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
+  * Estimule seus alunos a explicarem a resposta dada.  
+  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada representa a fração da unidade. No entano, na reta, a fração é associada a um único ponto.  
 </WRAP>
+
+Considere a faixa 
+
 
 
 Na figura abaixo temos faixas com subdivisões do metro em cinco partes. Abaixo destas faixas há um trecho de reta numerica. Para cada faixa, pinte a fração correspondente que está à sua esquerda.
