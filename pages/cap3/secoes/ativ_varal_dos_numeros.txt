@@ -12,25 +12,25 @@ Objetivos específicos: Levar o aluno a:
   * Ordenar frações. 
 
 Material necessário:\\
-  - pouco mais de 2 metros de barbante
-  - 4 folhas de papel sufite
+  - Pouco mais de 3 metros de barbante
+  - 4 folhas de papel sufite 
   - 30 pregadores de roupa (podem ser substituídos por clipes de papel)
-  - fita adesiva.
+  - Fita adesiva.
 
 Preparação para a atividade:\\
-Com a fita adesiva prenda as extremidades do barbante em um local que seja visível e não muito alto para que os estudantes possam alcançar com as mãos.
+Com a fita adesiva, prenda as extremidades do barbante em um local que seja visível e não muito alto para que os estudantes possam alcançar com as mãos.
 Importante reforçar a fita adesiva nas extremidades do barbante para que não solte com o peso dos cartões.
-Dobre as folhas de papel 4 vezes ao meio, formando 8 retângulos em cada folha de modo a formar cartõezinhos como os da figura. 
+Dobre as folhas de papel 2 vezes ao meio, em direções paralelas aos lados, marcando assim 4 retângulos em cada folha de modo a formar cartões (como os da figura). 
 Escreva as frações nos retângulos e recorte os cartões.
 \\
 
 Recomendações e sugestões para o desenvolvimento da atividade:\\
-As fichas com o 0 e o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade porque a distância entre o zero e o um fará um papel de unidade de medida para o estudante.
-Isso pode ser feito a vista dos alunos para ressaltar que a unidade é escolhida. 
-Caso seja utilizado um barbante de 2 metros, o zero pode ser posicionado na extremidade esquerda e o número um, 50 cm à direita do zero.
+As fichas com o 0 e o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade, porque a distância entre o 0 e o 1 terá o papel de unidade para o estudante determinar a posição dos demais cartões.
+Isso deve ser feito a vista dos alunos para ressaltar que a unidade é escolhida. 
+Caso seja utilizado um barbante de 3 metros, o zero pode ser posicionado na extremidade esquerda e o número um, por exemplo, a 50 cm à direita do zero.
 \\
 
-A turma pode ser dividida em grupos e os cartões distribuídos aos poucos pelos grupos e a atividade mediada pelo professor desenvolvida apenas para os cartões já entregues. 
+A turma pode ser dividida em grupos e os cartões distribuídos pelos grupos. A atividade mediada pelo professor desenvolvida apenas para os cartões já entregues. 
 Recomenda-se entregar inicialmente os cartões contendo números inteiros, depois as frações com denominador 2, depois com denominador 3, etc.
 Vale a pena usar também fita adesiva para prender os números naturais porque algumas frações ocuparão a mesma posição na reta então será necessário prender um cartão no outro que já está afixado e pode ficar pesado para o pregador.
 Uma boa estratégia pode ser inicialmente realizar a atividade na ordem em que os números aparecem na lista abaixo, ao menos até terminarem as frações com denominador 2 para que os estudantes observem que o posicionamento de $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$ é feito do mesmo modo que aquele para os naturais, apenas considerando o segmento de extremos 0 e $\frac{1}{2}$ como unidade ao invés do segmento de extremos 0 e 1.
@@ -48,7 +48,7 @@ Como critérios para o desenvolvimento da atividade, são recomendados:
   * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma;
   * A pontuação no jogo é atribuída a marcações corretas, um ponto por cada marcação correta;
   * Todos os alunos participantes devem fixar pelo menos um número no varal.
-  * o ponto de fixação pode ser discutido e orientado pelo grupo do qual o aluno que fará a fixação faz parte.
+  * O ponto de fixação pode ser discutido e orientado pelo grupo do qual o aluno que fará a fixação faz parte.
   * Ganha o grupo que, após a fixação de todas as fichas numeradas no varal, obtiver maior pontuação.
   * Uma variação do jogo pode admitir que um grupo sugira frações para que outro grupo faça a fixação. Nesse caso, as frações podem ser escolhidas a partir de uma lista previamente estabelecida pelo professor. O grupo que escolhe a fração deverá lê-la e o grupo que fará a fixação deverá registá-la. Dessa forma, a leitura e a escrita em representação simbólica também são tratadas na atividade.
 */
