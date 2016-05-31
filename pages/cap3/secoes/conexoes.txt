@@ -34,7 +34,7 @@ Ao posicionar uma cópia idêntica do segmento unitário sobre a reta como na fi
 Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero e o extremo da direita representará o número $n$ na reta numérica. 
 Na figura está ilustrada a marcação do número 7 na reta numérica.
 
-<WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}}
+<WRAP imagem> {{ :cap3:secoes:reta0127.png?600 |}}
 </WRAP>
 
 
