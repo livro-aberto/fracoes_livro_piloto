@@ -67,50 +67,75 @@ Como você já deve imaginar, podemos dividir a unidade em qualquer quantidade $
 
 {{ :cap3:secoes:reta_numerica_quartos.png?600 |}}
 </WRAP>
-*/
-
-Identificando fraçoes na reta numérica
-Já sabemos que os números naturais podem ser representados a partir de pontos na reta. 
-Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, e a partir deles,  os pontos que corresponderão aos demais números naturais. 
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
-<WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
-<WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}} </WRAP>
-As frações também podem ser representadas na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade. 
-IMGEM QUE DESTACA O SEGMENTO UNIDADE
-Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
-Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente à fração $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}} </WRAP>
-A partir dele, por justaposição, são identificados na reta numérica os pontos correspondentes às frações $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
-A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações são os mesmos que a alguns números naturais. 
-Por exemplo, a fração $\frac{3}{3}$ é igual a 1. 
-IMAGENS:
-UMA PIZZA PARTIDA EM 3/3, UMA BARRA DE CHOCOLATE PARTIDA EM 3/3
-RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRES SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
-Já a fração $\frac{6}{3}$ é igual a 2.
-IMAGENS:
-DUAS PIZZA PARTIDAS EM TERÇOS, DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS
-RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
-E a fração $\frac{12}{3}$, é igual a que número natural? ________
-
-Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
-
-Na reta numérica a seguir estão desacados os pontos correspondentes a que frações? Marque você:
-IMAGEM DA RETA COM SEXTOS, MAS NÃO TODA COMPLETA
-
-A ordem na reta numérica
-Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no senido do 1. 
-INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS
-
-
 
 Da maneira que foi construída a reta numérica quanto mais à direita a representação de um número na reta, maior será o número porque registra uma "quantidade" maior da unidade.
 
-Usa-se o símbolo $<$ para dizer "menor que".
-Por exemplo, a frase "oito é menor que quinze" pode ser expressa de modo mais resumido com "$8<15$". 
-Do mesmo modo usa-se o símbolo $>$ para significar "maior que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior que oito".
-<WRAP imagem> {{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}}
-</WRAP>
+
+*/
+
+Identificando frações na reta numérica \\
+
+
+Já sabemos que os números naturais podem ser representados a partir de pontos na reta. 
+Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, e a partir deles,  os pontos que corresponderão aos demais números naturais. 
+
+<WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
+<WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
+<WRAP imagem> {{ :cap3:secoes:reta0127.png?400 |}} </WRAP>
+
+As frações também podem ser representadas na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
+
+<WRAP imagem> IMGEM QUE DESTACA O SEGMENTO UNIDADE  </WRAP>
+
+Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
+Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente à fração $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
+
+<WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}} </WRAP>
+
+A partir dele, por justaposição, são identificados na reta numérica os pontos correspondentes às frações $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
+
+<WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
+<WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
+
+A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações são os mesmos que os correspondentes a alguns números naturais. Por exemplo, a fração $\frac{3}{3}$ é igual a 1. 
+<WRAP imagem> IMAGENS:
+UMA PIZZA PARTIDA EM 3/3, UMA BARRA DE CHOCOLATE PARTIDA EM 3/3
+RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRES SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
+
+Já a fração $\frac{6}{3}$ é igual a 2. 
+
+<WRAP imagem> IMAGENS:
+DUAS PIZZA PARTIDAS EM TERÇOS, DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS
+RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
+
+E a fração $\frac{12}{3}$, é igual a que número natural? ________ \\
+
+Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
+
+<WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
+
+Na reta numérica a seguir estão desacados os pontos correspondentes a que frações? Marque você:
+
+<WRAP imagem>  IMAGEM DA RETA COM SEXTOS, MAS NÃO TODA COMPLETA </WRAP>
+
+A ordem na reta numérica
+Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no senido do 1. 
+
+<WRAP imagem> INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS, SEXTOS, DÉCIMOS </WRAP>
+
+
+A ordem na reta numérica\\
+
+Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no sentido do 1. 
+
+<WRAP imagem> INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS </WRAP>
+
+
+O símbolo é usado $<$ para dizer "menor do que".
+
+Por exemplo, a frase "oito é menor do que quinze" pode ser expressa de modo mais resumido com "$8<15$". Já a expressão $\frac{1}{2}<\frac{3}{2}$ indica que "um meio é menor do que três meios". 
+
+Do mesmo modo, o símbolo $>$ é usado para significar "maior do que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior do que oito" ou $\frac{3}{2}>\frac{1}{2}$  para expressar "três meios é maior do que um meio"
+
+<WRAP imagem> {{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}} </WRAP>
 
