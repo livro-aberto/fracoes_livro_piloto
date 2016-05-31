@@ -1,5 +1,6 @@
 ====== LIÇÃO 1 - Frações da unidade ======
 
+{{anchor:prologo}}
 {{page>cap1:secoes:prologo}}
 
 /*
