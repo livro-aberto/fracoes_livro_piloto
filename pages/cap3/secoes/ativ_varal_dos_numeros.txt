@@ -63,7 +63,7 @@ $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\fra
 $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\frac{10}{5}$,
 $\frac{1}{10}$.
 
-<WRAP imagem> Foto do varal com apenas os números 0 e 1.
+<WRAP imagem> 
 {{ :cap3:secoes:varal01.jpg?500 |}}
 </WRAP>
     - Descreva a posição em que o número do cartão recebido deve ser posicionado na reta numérica.
