@@ -1,3 +1,4 @@
+{{anchor:preambulo}}
 {{page>cap2:secoes:preambulo}}
 
 {{anchor:quadrinho}}
