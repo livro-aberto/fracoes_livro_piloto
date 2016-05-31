@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap1:texto#prologo]]
+;;#
+
 <hidden Para o professor>
 <WRAP professor> Esta lição tem por objetivo introduzir frações unitárias a partir de modelos visuais contínuos, tais como "discos", "retângulos", "hexágonos" e "segmentos", fazendo uso de expressões verbais como, por exemplo, "metade de...", "um terço de...", "a terça parte de...", "um quarto de...", para indicar essas frações.  
 
