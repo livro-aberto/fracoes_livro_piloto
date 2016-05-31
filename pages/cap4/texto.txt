@@ -7,6 +7,12 @@
 {{anchor:explorando_intro}}
 {{page>cap4:secoes:explorando_intro}}
 
+
+{{anchor:sanduiches}}
+===== - Atividade =====
+{{page>cap4:secoes:sanduiches}}
+
+
 {{anchor:preencha}}
 ===== - Atividade =====
 {{page>cap4:secoes:preencha}}
