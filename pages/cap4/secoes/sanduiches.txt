@@ -1,0 +1,16 @@
+Texto da atividade:
+A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou um sanduíche e, a seguir, equiparticionou-o de diferentes formas:
+
+{{:cap4:secoes:sanduiches.jpg?200|}}
+
+{{:cap4:secoes:outros_sanduiches.png?200|}}
+
+i) Quais desses recortes permitem que se coma metade de um sanduíche? 
+
+ii) Nos recortes que permitem que se coma metade de um sanduíche, como você expressa tal quantidade (metade do sanduíche)? 
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
