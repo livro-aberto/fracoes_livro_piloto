@@ -41,4 +41,4 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.145.4182&rep=rep1&type=
 
 * [[http://www.pballew.net/mathbooks.html|Notes on the History of Math Teaching and Math Books]] (livros americanos).
 
-Hans Freudenthal. [[https://www.umlivroaberto.com/wiki/lib/exe/fetch.php?media=discus:freudenthal_-_didactical_phenomenology_of_mathematical_structures.pdf|Didactical Phenomenology of Mathematical Structures]] . Kluwer Academic Publishers, 2002. 
+Hans Freudenthal. [[https://www.umlivroaberto.com/wiki/lib/exe/fetch.php?media=discus:freudenthal_-_didactical_phenomenology_of_mathematical_structures.pdf|Didactical Phenomenology of Mathematical Structures]] . Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).
