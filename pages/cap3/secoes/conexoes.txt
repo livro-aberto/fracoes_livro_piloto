@@ -55,7 +55,7 @@ Para identificar na reta numérica os pontos correspondentes às frações $\fra
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
 
-Na reta numérica a seguir estão destacados os pontos correspondentes a que frações? Marque você:
+Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes. Observe e complete as frações em destaque.
 
 <WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
 
@@ -75,7 +75,7 @@ Assim, na reta numérica, quanto mais distante do 0 estiver o ponto corresponden
 
 </WRAP>
 
-$\frac{4}{3}$ é maior do que \frac{4}{5}$\\
+$\frac{4}{3}$ é maior do que $\frac{4}{5}$\\
 
 
 O símbolo é usado $<$ para dizer "menor do que".\\
