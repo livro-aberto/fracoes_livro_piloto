@@ -27,10 +27,10 @@ Para cada uma das figuras a seguir, marque na reta numérica o ponto corresponde
 
 
 <WRAP Imagem>
-Incluir as imagens como as apresentadas, seguidas, cada uma, de uma reta numérica como descrito:
+Incluir apenas imagens como as apresentadas (sem a descrição), seguidas, cada uma, de uma reta numérica como descrito:
 
   - 5/8 de uma pizza;
-{{ :cap3:secoes:cinco_oitavos_de_pizza.png?200 |}}
+{{ :cap3:secoes:cinco_oitavos_de_pizza.png?100 |}}
 Reta 1: 0, 3/8, 5/8, 1 
 
   - 3/8 de uma barra de chocolate;
@@ -38,23 +38,23 @@ Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três n�
 Reta 2: 0, 3/8, 5/8, 1
 
   - ½ de uma maçã;
-{{ :cap3:secoes:meia_maca.jpg?200 |}}
+{{ :cap3:secoes:meia_maca.jpg?100 |}}
 Reta 3: 0, 1/4, 1/2, 3/4, 1
 
   - ¼ de um  sanduiche de queijo com presunto
-{{ :cap3:secoes:um_quarto_sanduiche.png?200 |}}
+{{ :cap3:secoes:um_quarto_sanduiche.png?100 |}}
 Reta 4: 0, 1/4, 1/2, 3/4, 1
 
   - Uma  torta inteira (mas fatiada)
-{{ :cap3:secoes:bolo_fatiado.jpg?200 |}}
+{{ :cap3:secoes:bolo_fatiado.jpg?100 |}}
 Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2
 
   - Dois biscoitos e meio
-{{ :cap3:secoes:dois_biscoitos_e_meio.png?200 |}}
+{{ :cap3:secoes:dois_biscoitos_e_meio.png?100 |}}
 Reta 6: 0, 1/2, 1, 3/2, 2 e 5/2
 
   - copo vazio
-{{ :cap3:secoes:copo.jpg?200 |}}
+{{ :cap3:secoes:copo.jpg?100 |}}
 Reta 7: 0, 1/2, 1, 3/2, 2 e 5/2
 
 </WRAP>
