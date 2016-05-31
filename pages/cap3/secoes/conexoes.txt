@@ -4,8 +4,6 @@ Ir para [[cap3:texto#conexoes]]
 
 ====== ORGANIZANDO AS IDEIAS ======
 
-/*
-
 Frações na reta numérica \\
 
 
@@ -16,9 +14,13 @@ Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, a par
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?850 |}} </WRAP>
 
+<hidden IMAGENS>
+As retas têm que ser congruentes
+</hidden>
+
 As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
-<WRAP imagem> IMAGEM QUE DESTACA O SEGMENTO UNIDADE  </WRAP>
+<WRAP imagem> MESMA IMAGEM DAS RETAS ANTERIORES, MAS APENAS COM O SEGMENTO UNITÁRIO (DE EXTREMIDADES 0 E 1) EM DESTAQUE  </WRAP>
 
 Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
 Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente à fração $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
@@ -31,15 +33,19 @@ A partir dele, por justaposição, são identificados na reta numérica os ponto
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
 
 A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações são os mesmos que os correspondentes a alguns números naturais. Por exemplo, a fração $\frac{3}{3}$ é igual a 1. 
-<WRAP imagem> IMAGENS:
-UMA PIZZA PARTIDA EM 3/3, UMA BARRA DE CHOCOLATE PARTIDA EM 3/3
-RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRES SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
+
+<WRAP imagem> 3 IMAGENS, as duas primeiras lado a lado e a reta abaixo:
+
+  - (i) UMA PIZZA PARTIDA EM 3/3, 
+  - (ii) UMA BARRA DE CHOCOLATE PARTIDA EM 3/3
+  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRÊS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
 
 Já a fração $\frac{6}{3}$ é igual a 2. 
 
-<WRAP imagem> IMAGENS:
-DUAS PIZZA PARTIDAS EM TERÇOS, DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS
-RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
+<WRAP imagem> 3 IMAGENS, as duas primeiras lado a lado e a reta abaixo:
+  * DUAS PIZZA PARTIDAS EM TERÇOS, 
+  * DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS;
+  * RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE </WRAP>
 
 E a fração $\frac{12}{3}$, é igual a que número natural? ________ \\
 
@@ -47,21 +53,27 @@ Para identificar na reta numérica os pontos correspondentes às frações $\fra
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
 
-Na reta numérica a seguir estão desacados os pontos correspondentes a que frações? Marque você:
+Na reta numérica a seguir estão destacados os pontos correspondentes a que frações? Marque você:
 
-<WRAP imagem>  IMAGEM DA RETA COM SEXTOS, MAS NÃO TODA COMPLETA </WRAP>
+<WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
 
-A ordem na reta numérica
-Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no senido do 1. 
 
-<WRAP imagem> INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS, SEXTOS, DÉCIMOS </WRAP>
 
+</WRAP>
 
 A ordem na reta numérica\\
 
 Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no sentido do 1. 
 
-<WRAP imagem> INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS </WRAP>
+<WRAP imagem> INCLUIR RETA COM TERÇOS, QUARTOS, QUINTOS, SEXTOS, DÉCIMOS </WRAP>
+
+Assim, na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao número, maior será o número. 
+
+<WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
+
+
+
+</WRAP>
 
 
 O símbolo é usado $<$ para dizer "menor do que".
