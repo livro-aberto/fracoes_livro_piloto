@@ -6,7 +6,7 @@ Ir para [[cap3:texto#ativ_grad_unidade2]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Identificar, na reta numérica, os pontos correspondentes às frações do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para a>0, a partir de modelos contínuos.
-  * Mais especficamente, Identificar, na reta numérica, os pontos correspondentes às frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, e $\frac{4}{5}$, a partir de um modelos contínuo.
+  * Mais especficamente, Identificar na reta numérica os pontos correspondentes às frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, e $\frac{4}{5}$, a partir de um modelos contínuo.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
@@ -18,15 +18,15 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 A faixa retangular a seguir está dividida em 5 partes iguais. 
 
+{{ :undefined:unidade_em_quintos.png?100 |}}
 
 
-(a) Na sequência cinco faixas iguais estão alinhadas. Associe a fração da faixa correspndente à parte pintada ào ponto  
+(a) Na imagem cinco dessas faixas estão alinhadas. indique, na reta numérica, a fração da faixa correspndente à parte pintada. 
+
+{{ :cap3:secoes:quintos.png?100 |}}
 
 
 
-
-Na figura abaixo temos faixas com subdivisões do metro em cinco partes. Abaixo destas faixas há um trecho de reta numerica. Para cada faixa, pinte a fração correspondente que está à sua esquerda.
-{{ :cap3:secoes:faixas_quinto_e_reta.jpg?300 |}}
 
 Você pode observar que logo abaixo dos cinco retângulos há uma reta numerada com marcações destacadas por um “retângulo” azul.
 
