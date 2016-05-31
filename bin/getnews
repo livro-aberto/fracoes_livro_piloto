@@ -13,7 +13,7 @@ head -n $(($SIZEALL - $SIZEARC)) $ALL > $CHANGE
 
 if [ -s $CHANGE ]
 then
-  mail -s "[UmLivroAberto] Discussao" umlivroaberto.wiki@gmail.com < $CHANGE
+  mail -s "[UmLivroAberto] Discussao" um-livro-aberto@googlegroups.com < $CHANGE
   # cat $CHANGE
   cp $ALL $ARCHIVE
 fi

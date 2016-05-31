@@ -52,10 +52,5 @@
   * [[https://www.umlivroaberto.com/pdf/cap7_aluno.pdf|pdf do aluno]]  
   * [[cap7:secoes:atividades_extras|atividades extras]]
 </hidden>
-<hidden Lição 8>
-  * [[cap8:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap8_aluno.pdf|pdf do aluno]]  
-  * [[cap8:secoes:atividades_extras|atividades extras]]
-</hidden>
 
 
