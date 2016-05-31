@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap3:texto#sanduiche]]
+Ir para [[cap3:texto#sanduiches]]
 ;;#
 
 A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou um sanduíche e, a seguir, equiparticionou-o de diferentes formas:
