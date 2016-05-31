@@ -73,7 +73,7 @@ Da maneira que foi construída a reta numérica quanto mais à direita a represe
 
 */
 
-Identificando frações na reta numérica \\
+Frações na reta numérica \\
 
 
 Já sabemos que os números naturais podem ser representados a partir de pontos na reta. 
