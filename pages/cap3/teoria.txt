@@ -1,7 +1,9 @@
 ====== Referencial teórico para o capítulo ======
 
+   * Discussão no fórum sobre abordagem da reta numérica na lição:
+https://www.umlivroaberto.com/forum/viewtopic.php?f=19&t=55
 
-Locating Fraction on a Number Line\\
+   * Locating Fraction on a Number Line\\
 Hannula, Markku S.
 
 International Group for the Psychology of Mathematics Education, Paper presented at the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference (Honolulu, HI, Jul 13-18, 2003), v3 p17-24
@@ -10,13 +12,10 @@ Based on a survey of 3067 Finnish 5th and 7th graders and a task-based interview
 http://files.eric.ed.gov/fulltext/ED500981.pdf
 
 
+    * Fractions, Decimals, and Rational Numbers\\
+H. Wu (September 24, 2008)
 
-
-Fractions, Decimals, and Rational Numbers\\
-H. Wu
-
-Ver páginas 5 e 6.\\
-September 24, 2008\\
+Ver páginas 4 a 6.\\
 Contents\\
 Introduction (p. 1)\\
 (A) Definition (p. 4)\\
