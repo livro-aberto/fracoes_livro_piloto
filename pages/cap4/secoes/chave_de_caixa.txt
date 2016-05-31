@@ -7,7 +7,7 @@ Objetivo específico: Levar o aluno a
   * Comparar frações.
 </WRAP>
 
-Os soquetes que são usados em chaves de caixa são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e na Reino Unido).
+Os soquetes que são usados em chaves de caixa são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e no Reino Unido).
 
 Na figura a seguir, identifique cada um dos soquetes pelas frações:
 $\frac{1}{2}$, 
