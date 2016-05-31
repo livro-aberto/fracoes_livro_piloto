@@ -5,73 +5,6 @@ Ir para [[cap3:texto#conexoes]]
 ====== ORGANIZANDO AS IDEIAS ======
 
 /*
-Para números naturais faz sentido escrever:
-$$2 {\rm \,\, é \,\,menor\,\, que\,\,}  3,$$ 
-$$3 + 5 = 8 {\rm \,\,e}$$  
-$$12 \div 4 = 3$$ 
-mesmo sem falar do contexto, são simplesmente ordem e operações com os números já conhecidos.
-Nos exemplos vistos até aqui as frações são usadas para quantificar objetos: $\frac{3}{4}$ da barra de chocolate, um oitavo da caixa-d'água, etc. 
-Agora as frações serão definidas como números e representadas como pontos na reta numérica.
-Então fará sentido dizer o número $\frac{3}{4}$, mesmo sem a barra de chocolate ou qualquer outro objeto.
-
-Os números registram a comparação entre uma grandeza e a unidade.
-Eles têm uma propriedade importante: 
-
-PROPRIEDADE FUNDAMENTAL DOS NÚMEROS: //"Cada número é representado por um único ponto na reta numérica e, além disso, cada ponto da reta numérica representa um único número."//
-
-A representação dos naturais na reta numérica pode ser feita da maneira a seguir:
-Considere uma reta (horizontal como na figura) com dois pontos. 
-O da esquerda representa o 0 e o da direita o 1.
-O pedaço da reta que está entre o 0 e o 1 é tomado como uma unidade e chamado de //segmento unitário//. 
-
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}</WRAP>
-
-Ao posicionar uma cópia idêntica do segmento unitário sobre a reta como na figura abaixo, obtém-se um segmento de comprimento duas unidades, o extremo direito deste segmento é onde representa-se o número 2 na reta.
-
-<WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}
-</WRAP>
-
-Em geral, para marcar o número natural $n$ considera-se um segmento de comprimento $n$ unidades, posiciona-se o extremo da esquerda sobre o zero e o extremo da direita representará o número $n$ na reta numérica. 
-Na figura está ilustrada a marcação do número 7 na reta numérica.
-
-<WRAP imagem> {{ :cap3:secoes:reta0127.png?600 |}}
-</WRAP>
-
-
-No modelo da reta numérica, o segmento unitário é tomado como unidade, o número 1 registra que o segmento de extremos 0 e 1 é a unidade. 
-O número 2 registra que o segmento de extremos 0 e 2, na reta numérica, possui duas unidades de comprimento, o número 7 registra que o segmento de extremos 0 e 7 tem comprimento sete unidades e assim por diante.
-
-
-Dividindo a unidade em 3 partes iguais cada uma das partes terá comprimento $\frac{1}{3}$ da unidade. 
-Posicionando o extremo esquerdo de um destes segmentos sobre o 0 na reta numérica, o extremo direito representará o número $\frac{1}{3}$.
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}}
-</WRAP>
-
-Posicionando um segmento de comprimento $\frac{1}{3}$ à direita do segmento de extremos 0 e $\frac{1}{3}$ como na figura, obtemos um segmento de extremo esquerdo sobre o 0 e comprimento $\frac{2}{3}$, seguindo a regra da construção, o extremo direito representa o número $\frac{2}{3}$.
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}
-</WRAP>
-
-Seguindo esta mesma ideia podemos marcar as frações $\frac{3}{3}$, $\frac{4}{3}$, $\frac{5}{3}$, $\frac{6}{3}$, $\cdots$ na reta numérica.
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}}
-</WRAP>
-
-Observe que na figura acima os terços $\frac{0}{3}$, $\frac{3}{3}$, $\frac{6}{3}$ e $\frac{9}{3}$ possuem mesma representação na reta numérica que os números naturais 0, 1, 2 e 3, respectivamente. 
-A Propriedade Fundamental dos Números diz que cada ponto da reta representa um único número, isso significa que $\frac{0}{3}$ e $0$ são representações equivalentes para o mesmo número.
-Do mesmo modo vale $\frac{3}{3} =1$, $\frac{6}{3}=2$ e $\frac{9}{3}=3$.
-Dito deste modo pode parecer estranho, contudo zero terços de uma unidade representa nada desta unidade (zero), 3 terços da unidade corresponde à 1 unidade inteira, 6 terços da unidade é a mesma quantidade que 2 unidades inteiras, etc.
-Não se preocupe se esta ideia de que um número pode ter duas representações lhe parecer estranha neste momento.
-Ela será vista com mais cuidado na próxima lição.
-
-Como você já deve imaginar, podemos dividir a unidade em qualquer quantidade $n$ de partes iguais e realizar uma construção parecida para representar os números $\frac{1}{n}$, $\frac{2}{n}$, $\frac{3}{n}$, $\cdots$ na reta numérica. Veja abaixo os exemplos de $n=2$ e $n=4$.
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_meios.png?600 |}}
-
-{{ :cap3:secoes:reta_numerica_quartos.png?600 |}}
-</WRAP>
-
-Da maneira que foi construída a reta numérica quanto mais à direita a representação de um número na reta, maior será o número porque registra uma "quantidade" maior da unidade.
-
-
-*/
 
 Frações na reta numérica \\
 
@@ -83,9 +16,9 @@ Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, a par
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?850 |}} </WRAP>
 
-As frações também podem ser representadas na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
+As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
-<WRAP imagem> IMGEM QUE DESTACA O SEGMENTO UNIDADE  </WRAP>
+<WRAP imagem> IMAGEM QUE DESTACA O SEGMENTO UNIDADE  </WRAP>
 
 Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
 Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente à fração $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
