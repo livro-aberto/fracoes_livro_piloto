@@ -1,0 +1,60 @@
+<hidden Para o professor>
+<WRAP professor>
+
+
+Objetivo específico: 
+  * Associar frações expressas a partir de modelos contínuos, com unidades variadas, à representação dessa fracões na reta numérica.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
+  * Estimule seus alunos a explicarem a resposta dada.
+  * Nas imagens as unidades correspondem a uma pizza, , a unidade corresponde a um 
+
+<WRAP nota> PREFERENCIALMENTE EM GRUPO de 3 a 5 alunos. 
+</WRAP>
+<WRAP nota> PÁGINA PARA REPRODUÇÃO 
+</WRAP>
+<WRAP nota> MATERIAL CONCRETO 
+</WRAP>
+<WRAP nota> NECESSÁRIO (POSSIBILIDADE DE) USAR RECURSO DIGITAL 
+</WRAP>
+
+</WRAP> 
+</hidden>
+
+Observe a fração correspondente às quantidades destacadas nas imagens a seguir e escreva no ponto corrs na reta numérica:
+
+
+<WRAP Imagem>
+
+  - 5/8 de uma pizza;
+{{ :cap3:secoes:5_oitavos_de_pizza.png?direct&200 |}}
+  - 3/8 de uma barra de chocolate;
+Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três não aparecem
+  - ½ de uma maçã;
+{{ :cap3:secoes:meia_maca.jpg?200 |}}
+  - ¼ de um  sanduiche de queijo com presunto
+{{ :cap3:secoes:um_quarto_sanduiche.png?200|}}
+  - Uma  torta inteira (mas fatiada)
+{{ :cap3:secoes:bolo_fatiado.jpg?200 |}}
+  - Dois biscoitos e meio
+{{ :cap3:secoes:dois_biscoitos_e_meio.png?200 |}}
+  - copo vazio
+{{ :cap3:secoes:copo.jpg?200 |}}
+
+Sete retas numéricas em que estejam destacados os pontos o e 1 e, em cada uma delas, os pontos correspondentes às seguintes frações
+Reta 1: 0, 3/8, 5/8, 1, 
+Reta 2: 0, 3/8, 5/8, 1,
+Reta 3: 0, 1/4, 1/2, 3/4, 1,
+Reta 4: 0, 1/4, 1/2, 3/4, 1,
+Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2
+Reta 6: 0, 1/2, 1, 3/2, 2 e 5/2
+Reta 7: 0, 1/2, 1, 3/2, 2 e 5/2
+
+</WRAP>
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>

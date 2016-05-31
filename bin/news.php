@@ -115,7 +115,7 @@ class helper_plugin_discussion{
         for ($i = ($line_num - 1); $i >= 0; $i--) {
             $rec = $this->_handleRecentComment($lines[$i], $ns, $seen);
             if ($rec !== false) {
-                $randhead = generateRandomString(4);
+                $randhead = 'code: '.generateRandomString(4).' -';
                 print($randhead.' usuario: '.$rec['user'].'
 ');
                 print($randhead.' pagina: '.$rec['id'].'
