@@ -6,57 +6,29 @@ Ir para [[cap3:texto#ativ_grad_unidade2]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Identificar, na reta numérica, os pontos correspondentes às frações do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para a>0, a partir de modelos contínuos.
-  * Mais especficamente, Identificar na reta numérica os pontos correspondentes às frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$, e $\frac{4}{5}$, a partir de um modelos contínuo.
+  * Mais especficamente, Identificar na reta numérica os pontos correspondentes às frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$, a partir de um modelo contínuo.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
   * Estimule seus alunos a explicarem a resposta dada.  
-  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada a fração da unidade. No entano, na reta, a fração é associada a um único ponto. 
-  * Para a realização desta atividade, distrubua aos alunos cópia das página para reprodução: Faixa,  (INSERIR LINK DE PÁGINA PARA REPRODUÇÃO). Os alunos devem recortar o encarte disponível em uma das páginas e fazer o registro das frações na reta numérica impressa na outra página. Recomenda-se que esse material seja guardado para outras atividades. 
+  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada a fração da unidade. No entano, na reta, a fração é associada a um único ponto, observando a justaposição de segmentos congruentes correspondentes à 1/5 do segmento unitário. 
+  * No item (b) espera-se que o alunos identifique a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1.  
+  * 
 </WRAP>
 
-A faixa retangular a seguir está dividida em 5 partes iguais. 
+A faixa a seguir está dividida em 5 partes iguais. 
 
-{{ :undefined:unidade_em_quintos.png?100 |}}
-
-
-(a) Na imagem cinco dessas faixas estão alinhadas. indique, na reta numérica, a fração da faixa correspndente à parte pintada. 
-
-{{ :cap3:secoes:quintos.png?100 |}}
+{{ :undefined:unidade_em_quintos.png?300 |}}
 
 
+(a) Cinco dessas faixas estão alinhadas. Usando o desenho das faixas, escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$. 
+
+{{ :cap3:secoes:quintos.png?300 |}}
 
 
-Você pode observar que logo abaixo dos cinco retângulos há uma reta numerada com marcações destacadas por um “retângulo” azul.
-
-a)	Cada uma das frações deve ser escrita no “retângulo” azul, logo abaixo da reta numerada na posição que você considere mais conveniente.
-
-b)	Qual a relação entre o tamanho da faixa, a fração que a representa e a posição desta fração na reta numérica?
-
-c)	Se pintamos todos os retângulos da faixa que fração representará este caso?
-
-d)	Localize a fração do item c na reta numérica.
+(b) A faixa inteira é igual a quantos quintos? Escreva essa fração na forma simbólica. De que outra maneira é possível indicar essa quantidade? 
 
 
 
-/*<WRAP professor>
 
-Objetivos específicos: Levar o aluno a:
-  * Graduar a unidade com as frações 1/4, 1/2 e 3/4 a partir de um modelo linear e de uma unidade dada, em que estão marcados o 0 e o 1.
-
-Recomendações e sugestões para o desenvolvimento da atividade:
-  * Essa é uma atividade que o aluno pode fazer em grupos de 4 ou 5 alunos. 
-  * Para desenvolver essa atividade é necessário Cada grupo ição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
-  * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
-  * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
-  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
-
-
-</WRAP> */
-
-
-
-<hidden Comentários>
-A figura de referência apresenta a unidade de medida m e que não deve aparecer na figura construída pelo ilustrador. A reta abaixo das faixas deve iniciar antes do  zero e para cada valor esperado construir um pequeno box para o aluno escrever a fração que ali será marcada.
-</hidden>
