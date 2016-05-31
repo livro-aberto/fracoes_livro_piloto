@@ -29,10 +29,4 @@ A edição deste livro deve seguir a seguinte [[sintaxe]] que você pode testar 
 [[cap7:navega|Lição 7 - Divisão de frações]]
   * [[https://www.umlivroaberto.com/livro/doku.php?id=cap7:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]] - [[https://www.umlivroaberto.com/pdf/cap7_aluno.pdf|pdf do aluno]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap7/texto.txt|GitHub]].
 
-[[cap8:navega|Lição 8 - Divisão e medida]]
-  * [[https://www.umlivroaberto.com/livro/doku.php?id=cap8:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap8.pdf|pdf]] - [[https://www.umlivroaberto.com/pdf/cap8_aluno.pdf|pdf do aluno]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap8/texto.txt|GitHub]].
-
-[[cap9:navega|Lição 9 - Modelos discretos]]
-  * [[https://www.umlivroaberto.com/livro/doku.php?id=cap9:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap9.pdf|pdf]] - [[https://www.umlivroaberto.com/pdf/cap9_aluno.pdf|pdf do aluno]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap9/texto.txt|GitHub]].
-
 
