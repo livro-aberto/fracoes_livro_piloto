@@ -10,6 +10,16 @@ require_once('/var/www/livro/inc/search.php');
 require_once('/var/www/livro/inc/pageutils.php');
 require_once('/var/www/livro/inc/parserutils.php');
 
+function generateRandomString($length = 10) {
+    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    $charactersLength = strlen($characters);
+    $randomString = '';
+    for ($i = 0; $i < $length; $i++) {
+        $randomString .= $characters[rand(0, $charactersLength - 1)];
+    }
+    return $randomString;
+}
+
 class helper_plugin_discussion{
 
     function th() {
@@ -105,11 +115,12 @@ class helper_plugin_discussion{
         for ($i = ($line_num - 1); $i >= 0; $i--) {
             $rec = $this->_handleRecentComment($lines[$i], $ns, $seen);
             if ($rec !== false) {
-                print('usuario: '.$rec['user'].'
+                $randhead = generateRandomString(4);
+                print($randhead.' usuario: '.$rec['user'].'
 ');
-                print('pagina: '.$rec['id'].'
+                print($randhead.' pagina: '.$rec['id'].'
 ');
-                print('disse: '.$rec['desc']);
+                print($randhead.' disse: '.$rec['desc']);
 
                 //if (--$first >= 0) continue; // skip first entries
                 $result[$rec['date']] = $rec;
