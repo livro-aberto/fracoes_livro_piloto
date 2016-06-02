@@ -3,15 +3,15 @@
 Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. As figuras devem ser elaboradas em formato [[https://pt.wikipedia.org/wiki/SVG|svg]] ou em [[http://www.gnuplot.info/docs/tutorial.pdf|latex]] e postadas neste [[repositorio|link]] em seus formatos originais. Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
 
 
-^ Lição 1 - Prazo: 03/07/2016  ^ Autor                         ^
-| Atividade 4                  | Joaquim José da Silva Xavier  |
-| Atividade 5                  |                               |
-| Atividade 6                  |                               |
-| Atividade 7                  |                               |
-| Atividade 8                  |                               |
-| Atividade 9                  |                               |
-| Atividade 10                 |                               |
-| Atividade 11                 |                               |
+^ Lição 1 - Prazo: 03/07/2016  ^ Autor                                                           ^
+| Atividade 4                  | Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade 5                  |                                                                 |
+| Atividade 6                  |                                                                 |
+| Atividade 7                  |                                                                 |
+| Atividade 8                  |                                                                 |
+| Atividade 9                  |                                                                 |
+| Atividade 10                 |                                                                 |
+| Atividade 11                 |                                                                 |
 
 
 ^ Lição 2 - Prazo: 07/08/2016 ^ Autor  ^ 
