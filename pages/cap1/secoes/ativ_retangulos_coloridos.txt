@@ -28,7 +28,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP nota> PÁGINA PARA REPRODUÇÃO
 
-Esses retângulos também devem ser confeccionados para encartes a serem reproduzido pelo professor e distribuidos aos alunos. Neste Caso, os retângulos devem estar organizados em duas páginas conforme a ilustração. 
+Esses retângulos também devem ser confeccionados para encartes a serem reproduzidos pelo professor e distribuidos aos alunos. Neste Caso, os retângulos devem estar organizados em duas páginas conforme a ilustração. 
  {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
 </WRAP>
 
