@@ -70,7 +70,7 @@ doc = killunknown:match(doc)
 
 local special = P('**') + P('__') + P([[//]]) + P("''") + P('====') + P('$') + P('<WRAP')
    + P('</WRAP') + P('"') + P([[\\]]) + P('{{') + P('}}') + P('/*') + P('*/') + P('<hidden ') + P('</hidden>')
-   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n')
+   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n') + P(';;#')
 local harmless = known - special
 
 local simpletext = harmless^1
@@ -87,7 +87,7 @@ local titlechapter = P('======') * token('title', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * token('image', simpletext) * P('}}')
-local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/')
+local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#')
 local quote = surround('quote', '"', Ct( (bold + under + italic + mono + simplemath + token('simple', simpletext))^0 ))
 local decoline = bold + under + italic + mono + quote + simplemath + token('simple', simpletext)
 local item = P('\n  *') * token('item', Ct( decoline^0 ))
@@ -136,9 +136,9 @@ function texprint (tbl, indent)
      if (v.tag) == "atividade" then
         outstr = outstr .. formatting .. '\\section{Atividade}\n'
      elseif (v.tag) == "title" then
-        outstr = outstr .. formatting .. '{\\huge \\bf ' .. formatsimple:match(v.value) .. '}\n'
+        outstr = outstr .. formatting .. '\\section*{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titleless" then
-        outstr = outstr .. formatting .. '\\subsection{' .. formatsimple:match(v.value) .. '}\n'
+        outstr = outstr .. formatting .. '\\subsection*{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titlechapter" then
         outstr = outstr .. formatting .. '\\chapter{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "simplemath" then
@@ -150,7 +150,7 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'under' then
         outstr = outstr .. formatting .. '{' .. formatsimple:match(v.value) .. '}'
      elseif (v.tag) == 'quote' then
-        outstr = outstr .. formatting .. [[``]] .. texprint(v.value, indent + 1) .. [['']]
+        outstr = outstr .. formatting .. [[``]] .. texprint(v.value, 0) .. [['']]
      elseif (v.tag) == 'newline' then
         outstr = outstr .. formatting .. '\\mbox{} \\newline '
      elseif (v.tag) == 'linefeed' then
@@ -167,9 +167,11 @@ function texprint (tbl, indent)
            outstr = outstr .. formatting .. texprint(document:match(includestring))
         end
      elseif (v.tag) == 'image' then
-        outstr = outstr .. formatting .. '\n\n'
-           .. formatting .. '\\includegraphics[width=\\textwidth, height=4cm, keepaspectratio]{'
-           .. formatimage:match(v.value) .. '}\n\n'
+        if (formatimage:match(v.value)) then
+          outstr = outstr .. formatting .. '\n\n'
+             .. formatting .. '\\includegraphics[width=\\textwidth, height=4cm, keepaspectratio]{'
+             .. formatimage:match(v.value) .. '}\n\n'
+        end
      elseif (v.tag) == 'enumitem' then
         outstr = outstr .. formatting .. '\\item' .. texprint(v.value, indent + 1) .. '\n'
      elseif (v.tag) == 'doubleenumitem' then
