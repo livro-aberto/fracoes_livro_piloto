@@ -1,4 +1,4 @@
-Lista de figuras geométricas. 
+====== Lista de figuras geométricas ======
 
 Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. As figuras devem ser elaboradas em formato [[https://pt.wikipedia.org/wiki/SVG|svg]] ou em [[http://www.gnuplot.info/docs/tutorial.pdf|latex]] e postadas neste [[repositorio|link]] em seus formatos originais. Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
 
