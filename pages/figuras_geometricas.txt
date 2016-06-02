@@ -15,7 +15,8 @@ Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016  ^ Autor                                                           ^
-| Atividade 2                  | Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade 1                  | Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade 2                  |                                                                 |
 | Atividade 4                  |                                                                 |
 | Organizando as Ideias        |                                                                 |
 | Atividade 5                  |                                                                 |
