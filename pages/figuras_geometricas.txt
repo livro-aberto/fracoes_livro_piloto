@@ -1,6 +1,11 @@
 ====== Lista de figuras geométricas ======
 
-Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. As figuras devem ser elaboradas em formato [[https://pt.wikipedia.org/wiki/SVG|svg]] ou em [[http://www.gnuplot.info/docs/tutorial.pdf|latex]] e postadas neste [[repositorio|link]] em seus formatos originais. Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
+Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. 
+As figuras devem ser elaboradas em formato [[https://pt.wikipedia.org/wiki/SVG|svg]] ou em [[http://www.gnuplot.info/docs/tutorial.pdf|latex]] e postadas neste [[repositorio|link]] em seus formatos originais com o nome na forma licXativYZ (lição X atividade Y item Z) ou licXideiasY (lição X Organizando as Ideias figura Y). 
+Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
+Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
+
+Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
 
 
 ^ [[cap1:texto|Lição 1]] - Prazo: 03/07/2016  ^ Autor                                                           ^
