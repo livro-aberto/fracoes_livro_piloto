@@ -51,6 +51,10 @@
 {{anchor:massa}}
 {{page>cap4:secoes:massa}}
 
+{{anchor:equivalencia_encontre}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_encontre}}
+
 {{anchor:equivalencia_complete_os_quadrados}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_complete_os_quadrados}}
