@@ -13,6 +13,7 @@ Cy: COncordo com a Leticia, e chamo atenção que em uma atividade da Lição 2 
 Talvez isso possa ser usado para montar um exercício ou, pelo menos, avisar o professor.
 
 "Roadblock 2.1. Students try to partition the number line into fourths by drawing four hash marks rather than three, or they treat the whole number line as the unit."
+Cy: Acho que pode-se sugerir ao professor que retome a construção (COM O COMPASSO!) da reta numérica posicionando os naturais. Daí passa-se à divisão do segmento unitário em quartas partes e salienta-se esta obs.
 </hidden>
 
 /*
@@ -24,6 +25,8 @@ Problema da medida $\rightarrow$ régua $\rightarrow$ reta numérica.
 Este abordagem tem a vantagem de introduzir um elemento novo como uma maneira de se resolver um problema.
 
 L(2016-05-02): Acho que temos que discutir mais isso, pessoalmente. 
+
+Cydara: Cuidado! Medida presspõe número,  e é precisamente isso o que se quer construir: o número racional. E, na "estrutura da Lição" , a seguir, pergunto: a que "linguagem" estão ali se referindo? 
 
 </hidden>
 */
