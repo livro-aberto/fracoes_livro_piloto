@@ -107,6 +107,10 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_menor_menor}}
 
+{{anchor:equivalencia_fracoes_unitarias}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_fracoes_unitarias}}
+
 {{anchor:equivalencia_existe}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_existe}}
