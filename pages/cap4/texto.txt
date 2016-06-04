@@ -107,6 +107,10 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_menor_menor}}
 
+{{anchor:equivalencia_existe}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_existe}}
+
 {{anchor:equivalencia_densidade_1}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_densidade_1}}
