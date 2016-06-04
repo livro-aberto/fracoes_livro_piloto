@@ -1,0 +1,17 @@
+;;#
+Ir para [[cap4:texto#equivalencia_fracoes_unitarias]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Analisar a equivalência (igualdade) de frações unitárias.
+</WRAP>
+
+Dizemos que uma fração é **unitária** se o seu numerador é igual a $1$. 
+
+(A) Quais das frações a seguir é igual a alguma fração unitária? Justifique sua resposta.
+
+$\frac{4}{20}$, $\frac{21}{7}$, $\frac{4}{30}$, $\frac{6}{18}$.
+
+(B) Uma fração com numerador maior do que o denominador pode ser igual a uma fração unitária? Justifique sua resposta!
+
