@@ -10,7 +10,7 @@ Objetivo específico: Levar o aluno a
 Dadas duas frações, se o produto do numerador da primeira fração pelo denominador da segunda fração for igual ao produto do denominador da primeira fração pelo numerador da segunda fração, então as frações iguais. Vamos ver um exemplo: para as frações $\frac{14}{6}$ e $\frac{21}{9}$. Note que  $14 \times 9 = 126 = 6 \times 21$. Desta maneira,
 
 $
-\frac{14}{6} = \frac{9 \times 14}{9 \times 6} = \frac{6 \times 21}{9 \times 6} = \frac{6 \times 21}{6 \times 9} = \frac{21}{9}.
+\frac{14}{6} = \frac{9 \times 14}{9 \times 6} = \frac{14 \times 9}{9 \times 6} = \frac{6 \times 21}{9 \times 6} = \frac{6 \times 21}{6 \times 9} = \frac{21}{9}.
 $
 
 (A) Use a técnica descrita no exemplo para mostrar que $\frac{2}{8} = \frac{5}{20}$.
