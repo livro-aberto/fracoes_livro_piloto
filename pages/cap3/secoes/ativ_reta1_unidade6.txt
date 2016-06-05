@@ -3,13 +3,13 @@
 
 
 Objetivo específico: 
-  * Associar frações expressas a partir de modelos contínuos, com unidades variadas, à representação dessa fracões na reta numérica.
+  * Associar frações expressas a partir de modelos contínuos, com unidades variadas, à representação dessas fracões na reta numérica.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
-  * Estimule seus alunos a explicarem a resposta dada.
+  * Estimule seus alunos a explicarem suas respostas.
   * Nas imagens, as unidades são uma pizza, uma barra de chocolate, uma maçã, um sanduiche, uma torta, um biscoito, e a capacidade de um copo. Discuta isso com os alunos.
-  * Aproveite as imagens e faça perguntas tais como: (a) Que fração da pizza foi comida? (b) Essa qauntidade de chocolate é maior, menor ou igual a meia barra de chocolate? (c) Se a maçã estivesse inteira, que ponto da reta representaria  associada na reta?  
+  * Aproveite as imagens e faça perguntas tais como: (a) Que fração da pizza foi comida? (b) Essa quantidade de chocolate é maior, menor ou igual a meia barra de chocolate? (c) Se a maçã estivesse inteira, que ponto da reta representaria tal quantidade?  
 
 /* <WRAP nota> PREFERENCIALMENTE EM GRUPO de 3 a 5 alunos. 
 </WRAP>
