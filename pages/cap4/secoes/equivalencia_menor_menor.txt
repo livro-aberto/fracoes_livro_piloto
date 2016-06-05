@@ -11,4 +11,4 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 Jorge e Ana estão comparando as frações $\frac{2}{3}$ e $\frac{6}{10}$. Jorge afirma que 
-$\frac{2}{3} < \frac{6}{10}$ porque $2 < 6$ e $3 < 10$. Ana diz que as frações iguais. Use desenhos, palavras e números para ajudar Ana a explicar a Jorge porque ela está certa.
+$\frac{2}{3} < \frac{6}{10}$ porque $2 < 6$ e $3 < 10$. Ana diz que as frações iguais. Use desenhos, palavras e números para ajudar Ana a explicar a Jorge porque ele está errado.
