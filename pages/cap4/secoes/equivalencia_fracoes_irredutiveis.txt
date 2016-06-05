@@ -1,0 +1,12 @@
+;;#
+Ir para [[cap4:texto#equivalencia_fracoes_irredutiveis]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Simplificar frações de modo a obter uma fração igual irredutível.
+</WRAP>
+
+Dizemos que uma fração é **irredutível** se o máximo divisor comum entre o seu numerador e o seu denominador é igual a $1$. Encontre frações irredutíveis que sejam, respectivamente, iguais às frações dadas a seguir.
+
+$\frac{5}{35}$, $\frac{6}{9}$, $\frac{50}{100}$.
