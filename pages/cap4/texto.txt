@@ -99,6 +99,10 @@
 {{anchor:equivalencia_m_dividido_por_m_refletindo}}
 {{page>cap4:secoes:equivalencia_m_dividido_por_m_refletindo}}
 
+{{anchor:equivalencia_multiplicar_cruzado}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_multiplicar_cruzado}}
+
 
 {{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
