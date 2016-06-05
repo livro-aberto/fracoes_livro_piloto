@@ -119,6 +119,11 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_fracoes_irredutiveis}}
 
+{{anchor:equivalencia_fracoes_diferentes}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_fracoes_diferentes}}
+
+
 {{anchor:equivalencia_densidade_1}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_densidade_1}}
