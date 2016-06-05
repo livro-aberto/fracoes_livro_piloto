@@ -1,0 +1,19 @@
+;;#
+Ir para [[cap4:texto#equivalencia_multiplicar_cruzado]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber que se $a \cdot d = b \cdot c$, com $b \not = 0$ e $d \not = 0$, então as frações $\frac{a}{b}$ e $\frac{c}{d}$ são iguais (equivalentes).
+</WRAP>
+
+Dadas duas frações, se o produto do numerador da primeira fração pelo denominador da segunda fração for igual ao produto do denominador da primeira fração pelo numerador da segunda fração, então as frações iguais. Vamos ver um exemplo: para as frações $\frac{14}{6}$ e $\frac{21}{9}$. Note que  $14 \times 9 = 126 = 6 \times 21$. Desta maneira,
+
+$
+\frac{14}{6} = \frac{9 \times 14}{9 \times 6} = \frac{6 \times 21}{9 \times 6} = \frac{6 \times 21}{6 \times 9} = \frac{21}{9}.
+$
+
+(A) Use a técnica descrita no exemplo para mostrar que $\frac{2}{8} = \frac{5}{20}$.
+
+(B) Verdadeirou ou falso? Se duas frações são iguais, então o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração. Justifique sua resposta.
+
