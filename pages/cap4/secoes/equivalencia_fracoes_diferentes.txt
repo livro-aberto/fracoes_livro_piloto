@@ -1,0 +1,18 @@
+;;#
+Ir para [[cap4:texto#equivalencia_fracoes_diferentes]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber se duas frações são diferentes ou não dependendo se seus numeradores e denominadores são ou não diferentes.
+</WRAP>
+
+Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Justifique sua resposta.
+
+(A) Se duas frações têm numeradores e denominadores diferentes, então elas são diferentes.
+
+(B) Se duas frações têm denominadores iguais, mas numeradores diferentes, então elas são diferentes.
+
+(C) Se duas frações têm numeradores iguais, mas denominadores diferentes, então elas são diferentes.
+
+(D) Se duas frações **irredutíveis** têm numeradores e denominadores diferentes, então elas são diferentes.
