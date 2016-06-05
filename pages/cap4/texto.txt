@@ -103,6 +103,9 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_multiplicar_cruzado}}
 
+{{anchor:equivalencia_jogo}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_jogo}}
 
 {{anchor:refletindo}}
 {{page>cap4:secoes:refletindo}}
