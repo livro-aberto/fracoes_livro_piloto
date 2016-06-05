@@ -7,8 +7,8 @@ Ir para [[cap3:texto#conexoes]]
 Frações na reta numérica \\
 
 
-Já sabemos que os números naturais podem ser representados a partir de pontos na reta. 
-Para isso, é preciso identificar os pontos correspondentes ao 0 e ao 1 e, a partir deles,  os pontos que corresponderão aos demais números naturais.
+Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
+Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, é que marcamos os pontos que corresponderão aos demais números naturais.
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
