@@ -11,7 +11,7 @@ Objetivo específico: Levar o aluno a
 
 $24$ amigos estão querendo dividir igualmente $8$ panquecas circulares.
 
-Um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e que, então, cada amigo recebesse $8$ dessas partes.
+Luciano, um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e que, então, cada um dos 24 amigos recebesse $8$ dessas partes.
 
 {{:cap4:secoes:panquecas-24.png?70|}}
 {{:cap4:secoes:panquecas-24.png?70|}}
@@ -22,8 +22,8 @@ Um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e q
 {{:cap4:secoes:panquecas-24.png?70|}}
 {{:cap4:secoes:panquecas-24.png?70|}}
 
-(A) Com esta divisão sugerida, qual é a fração de uma panqueca que cada amigo vai receber?
+(A) Com a divisão sugerida por Luciano, qual a fração de uma panqueca que cada amigo vai receber?
 
-(B) Quantos cortes (do centro para a borda) da panqueca são necessários para esta divisão?
+(B) Quantos cortes da panqueca (do centro para a borda, como no desenho) são necessários para a divisão proposta?
 
-(C) É possível dividir igualmente as $8$ panquecas entre os $24$ amigos fazendo menos cortes? Se você acha que sim, quantos cortes serão necessários e qual é a fração de uma panqueca que cada amigo vai receber neste caso?
+(C) É possível dividir igualmente as $8$ panquecas entre os $24$ amigos fazendo menos cortes do que como sugerido por Luciano? Se você acha que sim, quantos cortes serão necessários e qual é a fração de uma panqueca que cada amigo vai receber neste caso?
