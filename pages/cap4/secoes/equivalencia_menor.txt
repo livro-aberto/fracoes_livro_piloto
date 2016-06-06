@@ -4,11 +4,22 @@ Ir para [[cap4:texto#equivalencia_menor]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber que, dada uma fração $p = \frac{n}{m}$, existe um quantidade finita de frações da forma $\frac{k}{m}$ que são menores do que $p$ e uma quantidade infinita de frações da forma $\frac{n}{k}$ que são menores do que $p$.
+  * Reconhecer que, dada uma fração $p = \frac{n}{m}$, existe um quantidade finita de frações da forma $\frac{k}{m}$ que são menores do que $p$ e uma quantidade infinita de frações da forma $\frac{n}{k}$ que são menores do que $p$.
 </WRAP>
 
-Considere a fração $p = \frac{3}{5}$.
+Considere a fração $\frac{3}{5}$.
 
 (A) Quantas frações existem com o mesmo denominador de $p$ e que sejam menores do que $p$?
 
 (B) Quantas frações existem com o mesmo numerador de $p$ e que sejam menores do que $p$?
+
+<hidden Comentário - a ser apagado>
+(i) Acredito que o enunciado possa ser integralmente todos incluído nos itens: 
+(a) Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+(b) Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+
+(ii) Nas orientações ao professor, alertar que alguns alunos podem ainda necessitar do apio de material concreto para responder à questão. Além disso, acredito que a reta numérica seja um sporte importante para discutir essa questão com os alunos.
+
+</hidden>
+
+
