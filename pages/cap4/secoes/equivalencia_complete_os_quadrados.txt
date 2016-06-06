@@ -21,3 +21,9 @@ Preencha os $\square$ com números de forma a tornar as igualdades verdadeiras.
 (E) $\frac{9}{12} = \frac{6}{\square}$
 
 (F) $\frac{6}{8} = \frac{\square}{12}$
+
+<hidden Comentário - a ser apagado>
+(i) Sugiro substituir a expressão "Construir uma fração". 
+
+</hidden>
+
