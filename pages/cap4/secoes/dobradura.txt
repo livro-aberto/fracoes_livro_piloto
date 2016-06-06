@@ -25,3 +25,15 @@ Junte-se a seus colegas e, por meio das dobras indicadas na coluna mais a esquer
 | {{:cap4:secoes:dobradura-04.png?200}} | | | |
 | <WRAP imagem>Figura equivalente dobrada em 6 partes</WRAP> | | | |
 | <WRAP imagem>Figura equivalente dobrada em 8 partes</WRAP> | | | |
+
+<hidden Comentário - a ser apagado>
+(i) Ressaltar, para o professor, que o desenvolvimento da atividade se baseia na dobradura da página de reprodução na direção perpendicular às linhas traças para a identificar os décimos.
+
+(ii) Sobre o enunciado, vale observação análoga às das atividades anteriores: A tabela não será preenchida por meio das dobraduras...
+Sugiro algo como: Junte-se a seus colegase e dobrem a página de reprodução como indicado na coluna mais a esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela.
+
+(iii) Trocaria a expressão "Número de retângulos pintados" por "quantidade de retângulos pintados". O mesmo para "Número total de retângulos".
+
+(iv) Aqui fiquei com uma dúvida que não tenho solução... Para decidir sobre a quantidade de retângulos pintados não podemos considerar os retãngulos determinados pela justaposição de dois ou mais retângulos, mas considerar as menores unidades dessa forma pintadas. Talvez possamos contornar o problema esclarecendo isso pelo menos nas observações aos professores.
+
+</hidden>
