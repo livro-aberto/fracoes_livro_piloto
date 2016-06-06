@@ -14,6 +14,6 @@ Objetivo específico: Levar o aluno a
 {{ :cap4:secoes:dobradura-escondida-01.png?300 |}}
 
 
-(B) O retângulo do item anterior foi dividido com o ascréscimo de duas linhas horizontais e coberto com um retângulo vermelho. Em quantas partes está dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul?
+(B) O retângulo do item anterior foi dividido com o ascréscimo de duas linhas horizontais e coberto com um retângulo vermelho. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul?
 
 {{ :cap4:secoes:dobradura-escondida-02.png?300 |}}
