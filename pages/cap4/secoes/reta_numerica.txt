@@ -15,5 +15,6 @@ Preencha os quadradinhos $\square$ com numeradores adequados de modo que a fraç
 
 <hidden Comentário - a ser apagado>
 (i) Nas informações ao professor, destacar que, nas retas numéricas apresentadas, a unidade corresponde a segmentos unitários congruentes. Essa decisão ampara o objetivo da atividade, mas que, de maneira geral, não é uma exigência para a representação da reta numérica.  
+(ii) Uma sugestão para o enunciado: Em cada reta numérica, preencha os quadradinhos ◻ com numeradores adequados de modo que a fração corresponda ao ponto P destacado.
 
 </hidden>
