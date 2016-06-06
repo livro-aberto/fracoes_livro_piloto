@@ -11,4 +11,10 @@ Você tem um copo cilíndrico graduado com $\frac{3}{4}$ de sua capacidade com l
 {{:cap4:secoes:equivalencia-copo-01.png?50|}} (note os $4$ níveis horizontais igualmente espaçados marcados no copo). Seu irmão tem um copo cilindrico idêntico mas graduado com $16$ níveis horizontais igualmente espaçados. Quantos níveis devem ser preenchidos para que ele fique com a mesma quantidade de leite que você?
 
 
+<hidden Comentário - a ser apagado>
+(i) Sugiro sbstituir por: Você tem um copo cilíndrico graduado com 4 marcas horizontais igualmente espaçadas. O copo tem leite até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}
+Seu irmão tem um copo cilindrico idêntico, mas graduado com 16 níveis horizontais igualmente espaçados. 
+Quantos níveis do copo do seu irmão devem ser preenchidos com leite para que ele fique com a mesma quantidade de leite que você?
+
+</hidden>
 
