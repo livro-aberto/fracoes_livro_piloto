@@ -17,3 +17,15 @@ $
 
 (B) Verdadeirou ou falso? Se duas frações são iguais, então o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração. Justifique sua resposta.
 
+
+<hidden Comentário - a ser apagado>
+(i) Sugiro substituir o "Desta maneira" por "Essa igualdade também pode ser observada por".
+
+(ii) No item (ii), a que técnica a que se refere é a de multiplicar os termos? Acho que isso tem que ficar explícito. Afnal, no exemplo, a igualdade é observada por dois caminhos.
+
+(iii) Fiquei com uma dúvida... será que não é cedo para apresentar essa regra? Talvez possamos deixar a atividade mas recomnedá-la para o 6o ou o 7o ano do EF, momento em que esse resultado pode ser justificado mais adequadamente.
+
+(iv) Será bastante delicado fazer as observações ao professor nesta atividade.  
+
+</hidden>
+
