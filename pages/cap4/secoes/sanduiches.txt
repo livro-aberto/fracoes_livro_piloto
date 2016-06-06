@@ -2,15 +2,27 @@
 Ir para [[cap4:texto#sanduiches]]
 ;;#
 
-A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou um sanduíche e, a seguir, equiparticionou-o de diferentes formas:
+A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiu o seu sanduiche:
+
+<WRAP imagem> 
 
 {{:cap4:secoes:sanduiches.jpg?200|}}
 
+<hidden imagem>
+Incluir imagem semelhante à apresentada 
+</hidden>
+</WRAP>
+
+i) Observe como alguns colegas repartiram o sanduiche. Em quais delas é possível comer metade do sanduiche apenas com as partes da repartição feita. 
+
+<WRAP imagem>
 {{:cap4:secoes:outros_sanduiches.png?200|}}
+<hidden imagem>
+Incluir imagem de sanduíches cortados como ilustrado nas imagens. Não há necessidade da indicação da primeira linha da tabela.  
+</hidden>
+</WRAP>
 
-i) Quais desses recortes permitem que se coma metade de um sanduíche? 
-
-ii) Nos recortes que permitem que se coma metade de um sanduíche, como você expressa tal quantidade (metade do sanduíche)? 
+ii) Observando as repartições feitas, para aquelas que permitem que se coma metade de um sanduíche, expresse, usando fração, essa quantidade.  
 
 <hidden Resposta>
 <WRAP resposta>
