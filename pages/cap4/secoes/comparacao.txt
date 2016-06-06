@@ -23,12 +23,14 @@ O que acontece com a fração $\frac{4}{7}$ (isto é, ela fica maior, menor ou i
 
 
 <hidden Comentário - a ser apagado>
-(i) Sugiro... Responda as seguintes questões: 
+(i) Sugiro... \\
+
+Responda às seguintes questões: 
 (a) A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$?
 (b) A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$?
 ...
 
-(ii) Fiz alteração no enunciado.
+(ii) Fiz alteração nos objetivos.
 
 
 </hidden>
