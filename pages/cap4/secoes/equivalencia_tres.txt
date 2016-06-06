@@ -13,3 +13,16 @@ $p = \frac{19}{7}$, $q = \frac{87}{32}$ e $r = \frac{106}{39}$.
 (A) Encontre três frações de mesmo denominador que sejam iguais, respectivamente, às frações $p$, $q$ e $r$.
 
 (B) Qual fração é maior? Qual fração é menor?
+
+
+<hidden Comentário - a ser apagado>
+(i) Acho o desafio grande demais. Talvez propor itens, iniciando por frações "mais simples", que facilitem a representação em modelos contínuos e a discussão em sala de aula;
+
+(ii) Acho que basta $\frac{a}{b}$, $\frac{c}{d}$ e $\frac{e}{f}$. Não vejo, aqui, a necessidade de nomear as frações. 
+
+(iii) Evitar o "encontre". ;) Também acho a expressão "respectivamente" pode adequada à faixa etária. 
+
+Talvez: Determine três frações com o mesmo denominador tais que cada uma delas seja igual a uma das frações $\frac{a}{b}$, $\frac{c}{d}$ e $\frac{e}{f}$. 
+
+
+</hidden>
