@@ -14,3 +14,8 @@ Objetivo específico: Levar o aluno a
 (C) Explique, usando retângulos, por que $\frac{2 \times 2}{2} = 2$. Em seguida, dê uma outra explicação usando a reta numérica.
 
 (D) Explique, usando retângulos, por que $\frac{3 \times 2}{2} = 3$. Em seguida, dê uma outra explicação usando a reta numérica.
+
+<hidden Comentário - a ser apagado>
+(i) acho o enunciado "explique, usando retângulos, por que $\frac{2}{2} = 1$. Em seguida, dê uma outra explicação usando a reta numérica. 
+
+</hidden>
