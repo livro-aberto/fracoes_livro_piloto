@@ -4,7 +4,7 @@ Ir para [[cap4:texto#comparacao]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Comparar o valor de uma fração com uma outra fração obtida alterando-se via somas e multiplicações seu numerador ou denominador.
+  * Comparar uma fração com uma outra fração determinada a partir da alteração dos termos (numerador ou denominador) da primeira fração a partir de somas e multiplicações por números naturais.
 </WRAP>
 
 O que acontece com a fração $\frac{4}{7}$ (isto é, ela fica maior, menor ou igual) se
@@ -20,3 +20,15 @@ O que acontece com a fração $\frac{4}{7}$ (isto é, ela fica maior, menor ou i
 (E) o seu numerador e o seu denominador são ambos multiplicados por $2$?
 
 (F) o seu numerador é aumentado de $1$ e o seu demoninador é diminuído de $1$?
+
+
+<hidden Comentário - a ser apagado>
+(i) Sugiro... Responda as seguintes questões: 
+(a) A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$?
+(b) A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$?
+...
+
+(ii) Fiz alteração no enunciado.
+
+
+</hidden>
