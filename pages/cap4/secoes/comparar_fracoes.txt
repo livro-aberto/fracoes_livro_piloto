@@ -19,7 +19,14 @@ preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que, em cada linh
 | (F) | $\frac{7}{12} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{9}{20}$ |
 
 <hidden Comentário - a ser apagado>
-(i) Nos objetivos, escreveria simplesmente "Comparar frações".
+(i) Nos objetivos, escreveria simplesmente "Comparar frações". Adecisão sobre igualdade ou não é consequência.
+
+(ii) Para o enunciado, sugiro: Para cada par de frações ma mesma linha da tabela a seguir, determine frações de mesmo denominador que sejam iguais (equivalentes) a cada uma das frações dadas. Em seguida, compare essas fraçoes, preenchendo a coluna em branco, com um dos símbolos "$>$", "$<$" ou "$=$", de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira.
+
+(iii) Sugiro ainda: 
+- A realizaçào de um exemplo resolvido, como modelo;
+- A inclusão de itens mais simples.
+
 
 </hidden>
 
