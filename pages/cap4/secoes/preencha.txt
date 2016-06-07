@@ -13,18 +13,18 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<WRAP nota>
-Nota para o ilustrador: o raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
-</WRAP>
+<hidden Nota para o ilustrador>
+O raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
+</hidden>
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
 </WRAP>
 </WRAP>
 
 O objetivo desta atividade é estudar a fração do círculo que está pintada de cinza no encarte que você recebeu.
 
-<WRAP nota>
-Nota para o ilustrador: é importante que o raio do círculo desta figura seja igual aos raios dos setores circulares da tabela.
-</WRAP>
+<hidden Nota para o ilustrador>
+É importante que o raio do círculo desta figura seja igual aos raios dos setores circulares da tabela.
+</hidden>
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
 
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade XX da Lição 1 para avaliar as suas respostas. 
