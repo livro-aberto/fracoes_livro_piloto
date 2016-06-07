@@ -16,3 +16,12 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Justifique sua 
 (C) Se duas frações têm numeradores iguais, mas denominadores diferentes, então elas são diferentes.
 
 (D) Se duas frações **irredutíveis** têm numeradores e denominadores diferentes, então elas são diferentes.
+
+<hidden Comentário - a ser apagado>
+(i) Sobre o objetivo da atividade, sugiro:
+Levar o aluno a
+  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes.
+
+(ii) sbre o enunciado, sugiro: Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua resposta com exemplos, desenhos ou palavras.
+
+</hidden>
