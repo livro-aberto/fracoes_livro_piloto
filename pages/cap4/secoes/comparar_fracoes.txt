@@ -17,3 +17,9 @@ preencha a coluna em branco com "$>$", "$<$" ou "$=$" de forma que, em cada linh
 | (D) | $\frac{5}{10} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{50}{100}$ |
 | (E) | $\frac{7}{5} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{17}{12}$ |
 | (F) | $\frac{7}{12} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{9}{20}$ |
+
+<hidden Comentário - a ser apagado>
+(i) Nos objetivos, escreveria simplesmente "Comparar frações".
+
+</hidden>
+
