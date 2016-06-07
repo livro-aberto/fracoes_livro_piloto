@@ -87,7 +87,7 @@ Um cuidado especial recomendado ao professor é com as frações impróprias, in
 
 OBJETIVOS ESPECÍFICOS DA LIÇÃO 2:
 O aluno deve ser capaz de:
-  * Compreender frações não unitárias (próprias e impróprias) a partir da /* adição por */ justaposição de partes correspondentes às frações unitárias,  
+  * Reconhecer frações não unitárias (próprias e impróprias) como a justaposição de partes correspondentes às frações unitárias,  
   * Utilizar as linguagens verbal e simbólica de frações para se referir a uma fração $\frac{a}{b}$.
   * Reconhecer e nomear os termos de uma fração.
   * Comparar frações com o mesmo denominador.
