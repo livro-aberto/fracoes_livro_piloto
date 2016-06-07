@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap1:secoes:refl_retangulos_coloridos]]
+Ir para [[cap1:texto#refl_retangulos_coloridos]]
 ;;#
 
 
