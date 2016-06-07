@@ -6,18 +6,35 @@ Ir para [[cap4:texto#preencha_fita]]
 Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais (equivalentes) usando modelos de área retangulares. 
 
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
+  * Os retângulos empregados na condução da atividade podem ser aproveitados da Atividade XX da Lição 3.
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes mas que, não obstante, estas frações são iguais (equivalentes) pois expressam uma mesma quantidade. 
+
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-A fita tem que ter a mesma dimensão da fita usada na Lição 3.
+<hidden Nota para o ilustrador>
+Este retângulo tem que ter a mesma dimensão do retângulo usado na Lição 3.
+</hidden>
 
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
 </WRAP>
 </WRAP>
 
-Com o encarte e os retângulos coloridos que você recebeu, complete a tabela a seguir. O objetivo é descobrir que fração do retângulo está pintado de cinza em termos dos retângulos coloridos.
+O objetivo desta atividade é estudar a fração do retângulo que está pintado de cinza no encarte que você recebeu. 
 
-| Tipo da peça |  Quantas peças cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte ficou sem preencher? |
+<hidden Nota para o ilustrador>
+este retângulo tem que ter dimensões compatíveis com os retângulos da tabela.
+</hidden>
+
+{{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
+
+
+
+Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade XX da Lição 3 para avaliar as suas respostas. 
+
+| Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
 | {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | | | |
 | {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | | | |
@@ -25,7 +42,17 @@ Com o encarte e os retângulos coloridos que você recebeu, complete a tabela a 
 | {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | | | |
 
+<WRAP resposta>
+| Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
+| {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
+| {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
+| {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | $3$ | $\frac{3}{6}$ | $\frac{3}{6}$ |
+| {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | $4$ | $\frac{4}{8}$ | $\frac{4}{8}$ |
+| {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | $5$ | $\frac{5}{10}$ | $\frac{5}{10}$ |
+| {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | $8$ | $\frac{8}{16}$ | $\frac{8}{16}$ |
+</WRAP>
 
+/*
 <hidden Comentário - a ser apagado>
 (i) Com relação à página para rerodução, vale observação análoga a da atividade anterior. 
 
@@ -34,3 +61,4 @@ Com o encarte e os retângulos coloridos que você recebeu, complete a tabela a 
 (iii) Sobre as perguntas na tabela, também sugiro alteração análoga a da atividade anterior
 
 </hidden> 
+*/
