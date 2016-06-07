@@ -20,3 +20,14 @@ Objetivo específico: Levar o aluno a
 (F) Existe uma fração menor do que 1 e que seja maior do que a fração que você escreveu no Item (E)? Em caso afirmativo, escreva uma tal fração.
 
 (G) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como obter tal fração.
+
+<hidden Comentário - a ser apagado>
+(i) Acho esta atividade muuuito difícil. Não apenas do ponto de vista da realaizaçào, mas da condução da discussão. 
+
+(ii) Gostei da frase do Francisco... Vamos devagar que o professor do EFI é de barro. As recomendaçoes ao professor precisariam ser bastante completas, criteriosas e detalhadas. 
+
+(iii) Além disso, considerando uma turma típica, com cerca de 20 alunos, seriam muitas as respostas em sala de aula. Nào e trivial conduzir a discussão. 
+
+(iv) Por fim, acho que sugere uma "criação" de frações, de maneira descolada de situações concretas ou de modelos visuais. Muuuuuito abstrato para o nível escolar.  
+
+</hidden>
