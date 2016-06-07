@@ -44,7 +44,7 @@ ilustração: Cambrainha
 
     - Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
     - Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?
-    - Em quais dos grupos as 4 crianças receberam a mesma quantidade de pizza? Em um tal grupo, considerando a pizza inteira, como você nomearia cada uma das fatias de pizza? 
+    - Em qual grupo as 4 crianças receberam a mesma quantidade de pizza? Nesse grupo, considerando a pizza inteira, como você nomearia cada uma das fatias de pizza? 
 
 <hidden Resposta>
 <WRAP resposta>
