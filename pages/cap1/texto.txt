@@ -29,6 +29,10 @@ page>cap1:secoes:intro
 ===== - Atividade =====
 {{page>cap1:secoes:ativ_retangulos_coloridos}}
 
+{{anchor:refl_retangulos_coloridos}}
+{{page>cap1:secoes:refl_retangulos_coloridos}}
+
+
 {{anchor:ativ_ident_terco}}
 ===== - Atividade =====
 {{page>cap1:secoes:ativ_ident_terco}}
