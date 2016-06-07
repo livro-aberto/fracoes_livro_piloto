@@ -15,14 +15,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}.
 
-Os alunos podem ainda recorrer à dobradura para ientificar as frações pedidas.
-
 Já as representações a seguir sugerem que os alunos precisam revisar os conceitos exigidos para a solução da atividade:
 
 {{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
 
   * A representação da unidade se dá de forma genérica por um quadrado. 
-  * Espera-se que os alunos reconheçam que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.   
+  * Espera-se que os alunos reconheçam que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.
+  * Recomende que os alunos usem dobradura para identificar as frações pedidas.Assim, por exemplo, a fração $\frac{1}{4}$ pode ser obtida por duas dobras do papel.    
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item. 
 </WRAP>
 </hidden>
