@@ -1,6 +1,6 @@
 <WRAP refletindo>
 Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos, etc.
-A unidade foi repartida em 2, 3, 4, 5, etc. de mesma quantidade.
-Na atividade acima, se os retângulos representam barras de chocolate, as quatro partes em que foram divididos os retângulos possuem mesma quantidade de chocolate.
+A unidade foi repartida em 2, 3, 4, 5, etc. partes de mesma quantidade.
+Na atividade acima, se os retângulos representam bolos (ou barras de chocolate), as quatro partes em que foram divididos os retângulos possuem mesma quantidade de bolo (ou chocolate).
 Os retângulos foram divididos em quartos, embora as partes não possuam mesma forma.
 </WRAP>
