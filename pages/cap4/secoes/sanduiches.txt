@@ -2,30 +2,28 @@
 Ir para [[cap4:texto#sanduiches]]
 ;;#
 
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * Reconhecer que as frações $\frac{1}{2}$ e $\frac{2}{4}$ são iguais (equivalentes) usando subdivisões em modelos de área retangulares.
+  * Reconhecer que, em uma equipartição de uma região retangular na qual é possível escolher uma quantidade de partes que corresponda à metade da área da região, a quantidade total de partes deve ser um número par.
+</WRAP>
+
 A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiu o seu sanduiche:
 
 <WRAP imagem> 
 
-{{:cap4:secoes:sanduiches.jpg?200|}}
+{{:cap4:secoes:sanduiches.jpg?400|}}
 
-<hidden imagem>
-Incluir imagem semelhante à apresentada 
-</hidden>
 </WRAP>
 
-i) Observe como alguns colegas repartiram o sanduiche. Em quais delas é possível comer metade do sanduiche apenas com as partes da repartição feita. 
-
-<WRAP imagem>
-{{:cap4:secoes:outros_sanduiches.png?200|}}
-<hidden imagem>
-Incluir imagem de sanduíches cortados como ilustrado nas imagens. Não há necessidade da indicação da primeira linha da tabela.  
-</hidden>
-</WRAP>
+i) Em quais delas é possível comer metade do sanduiche apenas com as partes da repartição feita?
 
 ii) Observando as repartições feitas, para aquelas que permitem que se coma metade de um sanduíche, expresse, usando fração, essa quantidade.  
 
-<hidden Resposta>
+
 <WRAP resposta>
-Resolução da atividade. 
+i) É possível comer metade do sanduíche apenas nas repartições (A), (C) e (D) pois, para elas, a quantidade de partes iguais é um número par.
+
+ii) Em (A): $\frac{1}{2}$. Em (C): $\frac{2}{4}$. Em (D): $\frac{2}{4}$.
 </WRAP>
-</hidden>
+
