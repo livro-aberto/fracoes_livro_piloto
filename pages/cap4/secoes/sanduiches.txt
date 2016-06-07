@@ -5,7 +5,7 @@ Ir para [[cap4:texto#sanduiches]]
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
   * Reconhecer que as frações $\frac{1}{2}$ e $\frac{2}{4}$ são iguais (equivalentes) usando subdivisões em modelos de área retangulares.
-  * Reconhecer que, em uma equipartição de uma região retangular na qual é possível escolher uma quantidade de partes que corresponda à metade da área da região, a quantidade total de partes deve ser um número par.
+  * Reconhecer que se, em uma equipartição de uma região retangular na qual é possível escolher uma quantidade de partes que corresponda à metade da área da região, então a quantidade total de partes deve ser um número par.
 </WRAP>
 
 A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiu o seu sanduiche:
