@@ -22,7 +22,7 @@
 
 ====== Examples for the Wrap Plugin ======
 
-As caixas abaixo estao maiores que antes.
+As caixas abaixo sao lindas!
 
 <WRAP imagem>
  Colocar uma triângulo.
