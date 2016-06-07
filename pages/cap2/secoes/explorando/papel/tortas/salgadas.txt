@@ -13,13 +13,18 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
-  * Em particular, no Item (1), não se espera que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceitas como resposta a solução indicada na figura a seguir.
+  * Em particular, no Item (1), não se espera, nem se recomenda, que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceita como resposta a solução indicada na figura a seguir.
 
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
 
   * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes das tortas em cada divisão e para as quantidades de torta que cada irmão recebe. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É importante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
   * Espera-se que, no final da atividade, o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso da terminologia de frações que se quer estabelecer nesta lição.
   * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+
+<hidden Folha reprodução>
+Página com a imagem das três tortas, exatamente como no corpo do texto.
+<\hidden>
+
   * Nos Itens (3) e (4), não basta uma resposta "Sim" ou "Não". É importante estimular os seus alunos a darem uma justificativa. 
 <WRAP nota> NECESSITA CÓPIA DA FOLHA DE REPRODUÇÃO - O que deve conter esta imagem?
 </WRAP>
