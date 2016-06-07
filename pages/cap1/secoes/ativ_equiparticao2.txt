@@ -44,12 +44,12 @@ ilustração: Cambrainha
 
     - Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
     - Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?
-    - Em algum dos grupos as 4 crianças receberam a mesma quantidade de pizza? Se sim, qual? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
+    - Em algum dos grupos as 4 crianças receberam a mesma quantidade de pizza? Se sim, em qual? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 
 <hidden Resposta>
 <WRAP resposta>
     - Sim. Cada grupo repartiu sua pizza em quatro fatias.
-    - Não, pois a quantidade de pizza de cada fatia não é a mesma.
+    - Não, pois algumas fatias têm quantidades de pizza diferentes das outras.
     - Apenas no grupo 1 as 4 crianças receberam a mesma quantidade de pizza. Cada fatia da pizza do grupo 1 é "um quarto" da pizza ou "a quarta parte" da pizza. Diferentemente das demais pizzas.
 </WRAP>
 </hidden>
