@@ -13,7 +13,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente. 
   * Como na atividade anterior, não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
   * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades nna unidade apresentada.
-  * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares. 
+  * Observe que a representação do todo se dá, de forma genérica, por uma figura que não convencional, determinada pela justaposição de dois hexágonos regulares, ainda em modelo contínuos (lembrando que as grandezas discretas serão tratadas lições posteriores) 
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 </WRAP>
 </hidden>
