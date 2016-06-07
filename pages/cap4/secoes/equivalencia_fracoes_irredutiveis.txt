@@ -14,6 +14,6 @@ $\frac{5}{35}$, $\frac{6}{9}$, $\frac{50}{100}$.
 <hidden Comentário - a ser apagado>
 (i) É imporante avaliar (ou recomendar ao rofessor a avaliação) sobre o alunos saber o que é o máximo divisor comum.
 
-(ii) Sugiro começar por emplos ainda mais simples, cuja representação em modelos seja mais fácil, caso o professor precse lançar mão desse recurso. 
+(ii) Sugiro começar por exemplos ainda mais simples, cuja representação em modelos seja mais fácil, caso o professor precse lançar mão desse recurso. 
 
 </hidden>
