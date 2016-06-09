@@ -8,15 +8,15 @@ Você receberá os créditos pela figura, mas ao postar está atestando que é o
 Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
 
 
-^ [[cap1:texto|Lição 1]] - Prazo: 03/07/2016  ^          Autor                                   ^
-| Atividade 4                  | Clique em editar e ponha o seu nome na figura que deseja fazer  |
-| Atividade 5                  |                                                                 |
-| Atividade 6                  |                                                                 |
-| Atividade 7                  |                                                                 |
-| Atividade 8                  |                                                                 |
-| Atividade 9                  |                                                                 |
-| Atividade 10                 |                                                                 |
-| Atividade 11                 |                                                                 |
+^ [[cap1:texto|Lição 1]] - Prazo: 03/07/2016  ^  Autor                                                          ^
+| Atividade 4                                 | Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade 5                                 |                                                                 |
+| Atividade 6                                 |                                                                 |
+| Atividade 7                                 |                                                                 |
+| Atividade 8                                 |                                                                 |
+| Atividade 9                                 |                                                                 |
+| Atividade 10                                |                                                                 |
+| Atividade 11                                |                                                                 |
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016  ^ Autor                                                           ^
