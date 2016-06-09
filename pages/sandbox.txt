@@ -4,6 +4,7 @@
     - Amarildo recebeu?
     - Amarildo Beto e Carlos receberam juntos?
 
+
 <WRAP professor>
  Conte que $2 + 2 = 4$.
 </WRAP>
