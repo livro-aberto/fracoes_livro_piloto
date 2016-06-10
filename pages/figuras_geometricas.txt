@@ -8,30 +8,31 @@ Você receberá os créditos pela figura, mas ao postar está atestando que é o
 Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
 
 
-^ [[cap1:texto|Lição 1]] - Prazo: 03/07/2016  ^  Autor                                                          ^
+^ [[cap1:texto|Lição 1]] - Prazo: 03/07/2016  ^           Autor          ^
 | Atividade [[cap1:secoes:ativ_retangulos_coloridos]]| Clique em editar e ponha o seu nome na figura que deseja fazer  |
-| Atividade [[cap1:secoes:ativ_ident_terco]]  |                                                                 |
-| Atividade [[cap1:secoes:ativ_recomportodo]]                                 |                                                                 |
-| Atividade [[cap1:secoes:ativ_desenhar]]                                 |                                                                 |
-| Atividade [[cap1:secoes:ativ_hexag]]                                |                                                                 |
-| Atividade [[cap1:secoes:ativ_meioemeio]]                                 |                                                                 |
-| Atividade [[cap1:secoes:ativ_variadas]]                                |                                                                 |
-| Atividade [[cap1:secoes:ativ_visual_linguagem]]                               |                                                                 |
+| Atividade [[cap1:secoes:ativ_ident_terco]]        |                 |
+| Atividade [[cap1:secoes:ativ_recomportodo]]       |                 |
+| Atividade [[cap1:secoes:ativ_desenhar]]           |                 |
+| Atividade [[cap1:secoes:ativ_hexag]]              |                 |
+| Atividade [[cap1:secoes:ativ_meioemeio]]          |                 |
+| Atividade [[cap1:secoes:ativ_variadas]]           |                 |
+| Atividade [[cap1:secoes:ativ_visual_linguagem]]   |                 |
 
 
-^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016  ^ Autor                                                           ^
-| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]                  | Clique em editar e ponha o seu nome na figura que deseja fazer  |
-| Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]                  |                                                                 |
-| Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]                 |                                                                 |
-| Organizando as Ideias [[cap2:secoes:conexoes]]       |                                                                 |
-| Atividade [[cap2:secoes:atividade_poder_da_notacao]]                 |                                                                 |
-| Atividade [[cap2:secoes:atividade_comparar_com_um_meio]]                  |                                                                 |
-| Atividade [[cap2:secoes:atividade_comparacao_de_fracoes]]                |                                                                 |
-| Atividade [[cap2:secoes:atividade_pinte]]                  |                                                                 |
-| Atividade [[cap2:secoes:atividade_pinte2]]                  |                                                                 |
-| Atividade [[cap2:secoes:atividade_copos_de_agua]]                 |           |
-| Atividade [[cap2:secoes:atividade_complete]]                 |                                                                 |
-| Atividade [[cap2:secoes:atividade_corrida]]                 |                                                                 |
-| Atividade [[cap2:secoes:atividade_importancia_da_unidade]]                |                                                                 |
-| Atividade [[cap2:secoes:atividade_sera_tres_quintos]]                 |                                                                 |
-| Atividade [[cap2:secoes:atividade_tres_setimos_ou_tres_quartos]]                 |                                                                 |
+^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016  ^             Autor                           ^
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]| Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]            |     |
+| Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]     |     |
+| Organizando as Ideias [[cap2:secoes:conexoes]]                        |     |
+| Atividade [[cap2:secoes:atividade_poder_da_notacao]]                  |     |
+| Atividade [[cap2:secoes:atividade_comparar_com_um_meio]]              |     |
+| Atividade [[cap2:secoes:atividade_comparacao_de_fracoes]]             |     |
+| Atividade [[cap2:secoes:atividade_pinte]]                             |     |   
+|Atividade [[cap2:secoes:atividade_pinte2]]                             |     |
+| Atividade [[cap2:secoes:atividade_copos_de_agua]]                     |     |
+| Atividade [[cap2:secoes:atividade_complete]]                          |     |
+| Atividade [[cap2:secoes:atividade_corrida]]                           |     |
+| Atividade [[cap2:secoes:atividade_importancia_da_unidade]]            |     |
+| Atividade [[cap2:secoes:atividade_sera_tres_quintos]]                 |     |
+| Atividade [[cap2:secoes:atividade_tres_setimos_ou_tres_quartos]]      |     |
+| Atividade [[cap2:secoes:atividade_tres_quintos_ou_cinco_tercos]]      |     |
