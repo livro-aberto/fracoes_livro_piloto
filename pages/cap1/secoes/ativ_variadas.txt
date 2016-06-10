@@ -5,7 +5,8 @@ Ir para [[cap1:texto#ativ_variadas]]
 <hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a 
-  * Conhecer e compreender as expressões correspondentes as frações unitárias com denominadores de 5 a 10.  
+  * Conhecer e compreender as expressões correspondentes as frações unitárias com denominadores de 5 a 10.
+  * Comparar frações da unidade através da representação visual de frações do círculo.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
@@ -15,25 +16,31 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Considere o círculo como unidade. Que afirmação corresponde à parte colorida em cada uma das figuras? \\
+Considere o círculo como unidade. 
+  -  Que afirmação corresponde à parte colorida em cada uma das figuras?  \\
     -	A parte colorida é um quinto do círculo.
     -	A parte colorida é a sexta parte do círculo.
     -	A parte colorida é um sétimo do círculo.
     -	A parte colorida é um oitavo do círculo.
     -	A parte colorida é a nona parte do círculo.
-    -	A parte colorida é um décimo do círculo.
-
-<WRAP imagem> 
+    -	A parte colorida é um décimo do círculo.\\ <WRAP imagem> 
 {{ :cap1:secoes:circulos.jpg?600 |}}
-</WRAP>
+</WRAP>\\
+  - Dentre as frações do círculo apresentadas, encontre uma que seja menor que um sexto do círculo.
+  - Dentre as frações do círculo apresentadas, encontre uma que seja maior que um nono do círculo.
+  - Encontre uma fração do círculo que seja menor que um sexto e maior que um nono do círculo.
 
 <hidden Resposta>
 <WRAP resposta>
+  - A correspondência adequada é:
     - A esta afirmação corresponde a figura G).
     - A esta afirmação corresponde a figura D).
     - A esta afirmação corresponde a figura I).
     - A esta afirmação corresponde a figura B).
     - A esta afirmação corresponde a figura A).
     - A esta afirmação corresponde a figura F).
+  - As frações um sétimo, um oitavo, um nono e um décimo do círculo são menores que um sexto do círculo. Qualquer uma delas está correta.
+  - As frações um meio, um terço, um quarto, um quinto, um sexto, um sétimo e um oitavo do círculo são maiores que um nono do círculo. Qualquer uma delas está correta.
+  - As frações um sétimo e um oitavo do círculo são menores que um sexto e maiores que um nono do círculo.
 </WRAP>
 </hidden>
