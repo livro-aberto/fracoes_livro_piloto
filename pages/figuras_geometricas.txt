@@ -24,7 +24,7 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 | Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]                  |                                                                 |
 | Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]                 |                                                                 |
 | Organizando as Ideias [[cap2:secoes:conexoes]]       |                                                                 |
-| Atividade [[cap2:secoes:atividade_poder_da_notacao                 |                                                                 |
+| Atividade [[cap2:secoes:atividade_poder_da_notacao]]                 |                                                                 |
 | Atividade [[cap2:secoes:atividade_comparar_com_um_meio]]                  |                                                                 |
 | Atividade [[cap2:secoes:atividade_comparacao_de_fracoes]]                |                                                                 |
 | Atividade [[cap2:secoes:atividade_pinte]]                  |                                                                 |
