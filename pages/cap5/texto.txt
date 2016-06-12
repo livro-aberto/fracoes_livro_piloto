@@ -22,7 +22,7 @@ Esta é uma seção de atividades exploratórias sobre o conteúdo da lição. P
 Esta é a seção de exercícios da lição. Caso seja necessário incluir alguma observação adcional ao estudante como uma conclusão do que foi tratado em algumas atividades, crie uma página Refletindo em qualquer lugar entre as atividades da seção.
 
 ===== - Atividade =====
-{{anchor:_5renomear}}
+{{anchor:renomear5}}
 {{page>cap5:ativ:_5renomear}}
 
 {{anchor:refletindo}}
