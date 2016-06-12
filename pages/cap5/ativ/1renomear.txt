@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap5:texto#ativ:1renomear]]
+;;#
 <hidden Para o professor>
 <WRAP professor>
  Objetivo específico: Levar o aluno a
