@@ -1,4 +1,6 @@
-
+;;#
+Ir para [[cap5:texto#preambulo]]
+;;#
 ====== LIÇÃO 5 - Adição e subtração de frações ======
 
 <hidden Estrutura da Lição>
