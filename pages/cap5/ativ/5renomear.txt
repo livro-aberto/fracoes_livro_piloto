@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap5:texto#_5renomear]]
+Ir para [[cap5:texto#renomear5]]
 ;;#
 
 <hidden Para o professor>
