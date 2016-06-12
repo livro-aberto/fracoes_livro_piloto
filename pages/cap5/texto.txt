@@ -38,4 +38,4 @@ Esta seção inclui exercícios que são desafios, atividades que levem a um apr
 
 ===== - Atividade =====
 {{anchor:renomear8}}
-{{page>cap5:ativ:7renomear}}
+{{page>cap5:ativ:renomear8}}
