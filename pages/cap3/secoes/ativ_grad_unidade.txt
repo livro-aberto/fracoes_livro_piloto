@@ -2,6 +2,7 @@
 Ir para [[cap3:texto#ativ_grad_unidade]]
 ;;#
 
+<hidden  PARA O PROFESSOR>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Associar, na reta numérica, a unidade ao número 1 a partir de modelos contínuos.
@@ -24,6 +25,7 @@ A página para reprodução deve ter uma fita com o maior comprimento possível 
 </hidden>
 
 </WRAP>
+</hidden>
 
 
 Você acabou de receber uma fita na qual estão marcados os números 0 e 1. 
