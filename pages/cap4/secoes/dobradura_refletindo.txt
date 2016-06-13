@@ -1,5 +1,5 @@
 <WRAP Refletindo>
-HJB para Wanderley (2016-05-24): a ideia é aqui é tentar explicar a generalização do processo, isto é, para o retângulo do encarte dobrado em $n$ partes, o número de retângulos pintados é $3 \times n$ e o número total de retângulos é $10 \times n$. Logo, a fração do retângulo original que está pintada é $ \frac{n \times 3}{n \times 10}$. Como a região pintada é a mesma, ganham-se as igualdades $\frac{3}{10} = \frac{6}{20} = \frac{9}{30} = \cdots$.
+HJB para Wanderley (2016-05-24): a ideia é aqui é tentar explicar a generalização do processo, isto é, para o retângulo do encarte dobrado em $n$ partes, o número de retângulos pintados é $n \times 3$ e o número total de retângulos é $n \times 10$. Logo, a fração do retângulo original que está pintada é $ \frac{n \times 3}{n \times 10}$. Como a região pintada é a mesma, ganham-se as igualdades $\frac{3}{10} = \frac{6}{20} = \frac{9}{30} = \cdots$.
 Notar que
 $\frac{6}{20} = \frac{2 \times 3}{2 \times 10}$,
 $\frac{9}{30} = \frac{3 \times 3}{3 \times 10}$, $\ldots$
