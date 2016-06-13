@@ -3,6 +3,7 @@
 
 
 Nesta parte pode vir uma introdução da lição para o estudante contendo uma história, um texto, etc. Mas também pode ficar vazia como na lição 1.
+
 {{anchor:intro}}
 {{page>cap5:secoes:intro}}
 
@@ -13,6 +14,10 @@ Esta é uma seção de atividades exploratórias sobre o conteúdo da lição. P
 ===== - Atividade =====
 {{anchor:renomear1}}
 {{page>cap5:ativ:_1renomear}}
+
+João e Maria estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois, esses recipientes serão destinados a empresas que usarão esses óleos para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
+
+
 
 {{anchor:organizando_as_ideias}}
 {{page>cap5:secoes:organizando_as_ideias}}
