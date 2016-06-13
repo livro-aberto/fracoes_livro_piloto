@@ -5,9 +5,9 @@ Ir para [[cap3:texto#ativ_grad_unidade]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Associar, na reta numérica, a unidade ao número 1 a partir de modelos contínuos.
-  * Associar as frações $\frac{a}{b}}$ a pontos na reta numérica a partir da equipartição da unidade e da justaposição de $a$  segmentos correspondentes à fração $\frac{1}{b}}$. 
+  * Associar as frações $\frac{a}{b}$ a pontos na reta numérica a partir da equipartição da unidade e da justaposição de $a$  segmentos correspondentes à fração $\frac{1}{b}$. 
   * 
-  * Mais especificamente, identificar frações $\frac{1}{4}}$, $\frac{1}{2}}$ e $\frac{3}{4}}$ e o 1.
+  * Mais especificamente, identificar frações $\frac{1}{4}$, $\frac{1}{2}$ e $\frac{3}{4}$ e o 1.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
