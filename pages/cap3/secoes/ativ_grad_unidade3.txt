@@ -22,8 +22,3 @@ Cada grupo vai receber do professor 10 faixas que devem ser divididas conforme o
 Observe as faixas abaixo, divididas em 2, 3, 4,5,6 7 8, 9, 10 e 16 partes, todas do mesmo tamanho. Pinte cada uma delas por cor diferente e escreva dentro de cada parte a sua representação por fração unitária.
 {{ :cap3:secoes:faixas_iniciais.png?200 |}}
 
-
-
-<hidden Comentários>
-
-</hidden>
