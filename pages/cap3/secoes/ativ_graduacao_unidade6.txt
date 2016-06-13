@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 
 Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
-Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma graduação. 
+Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma faixa graduada para indicar o nível de água na caixa. 
 
 <WRAP imagem>
 {{ :cap3:secoes:caixa_modelo.png?200 |}}
