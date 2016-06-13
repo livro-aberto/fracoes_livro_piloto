@@ -4,17 +4,27 @@ Ir para [[cap4:texto#reta_numerica]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que, para $0 \leq n \leq 3$, as frações $\frac{n}{3}$, $\frac{n \times 2}{3 \times 2}$, $\frac{n \times 3}{3 \times 3}$ e $\frac{n \times 4}{3 \times 4}$ são iguais (equivalentes) usando a reta numérica.
+  * Reconhecer que, para cada $0 \leq i \leq 3$, as frações $\frac{i}{3}$, $\frac{2 \times i}{2 \times 3 }$, $\frac{3 \times i}{3 \times 3}$ e $\frac{4 \times i}{4 \times 3}$ são iguais (equivalentes) usando, para isto, a reta numérica.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Nas retas numéricas apresentadas, as origens estão alinhadas e as unidades correspondem a segmentos unitários congruentes, o que garante que uma fração associada a um determinado ponto em uma reta seja a mesma fração nos pontos correspondentes nas demais retas.
+  * É importante, ao final da atividade, observar para os alunos que, nesta atividade, cada ponto marcado na reta numérica está sendo descritos por frações com numeradores e denominadores diferentes mas que, não obstante, estas frações são iguais (equivalentes), pois elas correspondem ao mesmo ponto da reta numérica.
 </WRAP>
 
-Preencha os quadradinhos $\square$ com numeradores adequados de modo que a fração corresponda ao ponto indicado em cada reta numérica.
+(A) Preencha os quadradinhos $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.
 
 {{ :cap4:secoes:fractions-01.jpg |}}
 
-É correto afirmar que $p = \frac{20}{15}$? Justifique sua resposta!
+(B) Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto p marcado na figura.
 
-<hidden Comentário - a ser apagado>
-(i) Nas informações ao professor, destacar que, nas retas numéricas apresentadas, a unidade corresponde a segmentos unitários congruentes. Essa decisão ampara o objetivo da atividade, mas que, de maneira geral, não é uma exigência para a representação da reta numérica.  
-(ii) Uma sugestão para o enunciado: Em cada reta numérica, preencha os quadradinhos ◻ com numeradores adequados de modo que a fração corresponda ao ponto P destacado.
+(C) É correto afirmar que $p = \frac{20}{15}$? Justifique sua resposta!
 
-</hidden>
+
+<WRAP resposta>
+(A) 
+
+{{ :cap4:secoes:fractions-01-resposta.jpg |}}
+
+(B) $p = \frac{4}{3} = \frac{8}{6} = \frac{12}{9} = \frac{16}{12}$.
+</WRAP>
