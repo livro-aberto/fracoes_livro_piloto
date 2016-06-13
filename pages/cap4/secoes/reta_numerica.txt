@@ -28,5 +28,5 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 (B) $\frac{4}{3} = \frac{8}{6} = \frac{12}{9} = \frac{16}{12}$.
 
-(C) O ponto $p$ 
+(C) Sim, é corretor afirmar que o ponto azul em destaque corresponde a fração $\frac{20}{15}$. No Item (B) foi estabelecido que o ponto azul corresponde a fração $\frac{4}{3}$ pois, ao se justapor quatro segmentos que são $\frac{1}{3}$ da unidade a partir da origem $0$, este ponto é a outra extremidade desta justaposição. Agora, ao se subdividir estes quatro segmentos que são $\frac{1}{3}$ da unidade em 5 partes iguais, obtêm-se segmentos que são $\frac{1}{15}$ da unidade e que o ponto azul é extremidade da justaposição, a partir da origem $0$, de 20 segmentos que são $\frac{1}{15}$ da unidade. Sendo assim, o ponto azul corresponde a fração $\frac{20}{15}$.
 </WRAP>
