@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 {{ :cap4:secoes:dobradura-escondida-01.png?300 |}}
 
 
-(B) O retângulo do item anterior foi dividido com o acréscimo de cinco linhas horizontais igualmente espaçadas e parcialmente coberto com um retângulo vermelho que impede a visualização dos retângulos menores que compõem a nova equipartição. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul?
+(B) O retângulo do item anterior foi dividido com o acréscimo de onze linhas horizontais igualmente espaçadas e parcialmente coberto com um retângulo vermelho que impede a visualização dos retângulos menores que compõem a nova equipartição. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul?
 
 {{ :cap4:secoes:dobradura-escondida-02.png?300 |}}
 
