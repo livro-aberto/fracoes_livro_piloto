@@ -3,7 +3,7 @@ Ir para [[cap4:texto#preencha_fita_refletindo]]
 ;;#
 
 <WRAP Refletindo>
-HJB para Cataldo (2016-05-23): aqui eu escreveria um texto observando para o aluno que nas seis últimas linhas da tabela que ele preencheu, as justaposições de cada tipo de retângulo está preenchendo uma mesma área (a área cinza do encarte). Assim, as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais pois especificam uma mesma quantidade.
+HJB para Wanderley (2016-05-23): aqui eu escreveria um texto observando para o aluno que nas seis últimas linhas da tabela que ele preencheu, as justaposições de cada tipo de retângulo está preenchendo uma mesma área (a área cinza do encarte). Assim, as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais pois especificam uma mesma quantidade.
 Notar que
 $\frac{2}{4} = \frac{2 \times 1}{2 \times 2}$, 
 $\frac{3}{6} = \frac{3 \times 1}{3 \times 2}$, 
