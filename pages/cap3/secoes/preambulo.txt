@@ -144,6 +144,8 @@ Estratégia:
 
 
 
+<hidden   PARA O PROFESSOR>
+
 <WRAP professor>
 
 
@@ -173,4 +175,5 @@ O aluno deve ser capaz de:
   * Comparar frações com mesmo numerador;
   * Amparado pela representação na reta numérica, comparar frações a patir de um referencial adequado.
 
+</hidden>
 </WRAP>
