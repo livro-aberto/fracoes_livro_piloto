@@ -8,54 +8,59 @@ Frações da unidade na reta numérica \\
 
 
 Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
-Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, é que marcamos os pontos que corresponderão aos demais números naturais.
+Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?850 |}} </WRAP>
 
 <hidden IMAGENS>
-As retas têm que ser congruentes
+As retas têm que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas; \\
+Os pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser obtidos pelo uso do compasso e não pela sugestão da justaposição de segmentos congruentes, como nas imagens. 
+
 </hidden>
 
-As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
+\\
+As frações da unidade também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
 <WRAP imagem> MESMA IMAGEM DAS RETAS ANTERIORES, MAS APENAS COM O SEGMENTO UNITÁRIO (DE EXTREMIDADES 0 E 1) EM DESTAQUE  </WRAP>
 
 Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
-Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente à fração $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
+Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente a $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}} </WRAP>
 
-A partir dele, por justaposição, são identificados na reta numérica os pontos correspondentes às frações $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
+A partir dele, por justaposição, são identificados na reta numérica os pontos correspondentes a $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
 
-A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações são os mesmos que os correspondentes a alguns números naturais. Por exemplo, a fração $\frac{3}{3}$ é igual a 1. 
+A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações da uniade são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
 
-<WRAP imagem> 3 IMAGENS, as duas primeiras lado a lado e a reta abaixo:
+<WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
 
   - (i) UMA PIZZA PARTIDA EM 3/3, 
   - (ii) UMA BARRA DE CHOCOLATE PARTIDA EM 3/3,
-  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRÊS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE 
+  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRÊS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
+  - (iv) $\frac{3}{3}=1$  
 </WRAP>
 
-Já a fração $\frac{6}{3}$ é igual a 2. 
+Já $\frac{6}{3}$ é igual a 2. 
 
-<WRAP imagem> 3 IMAGENS, as duas primeiras lado a lado e a reta abaixo:
+<WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
   - (i) DUAS PIZZA PARTIDAS EM TERÇOS,
   - (ii) DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS,
-  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE 
+  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
+  - (iv) $\frac{6}{3}=2$  
 </WRAP>
 
-E a fração $\frac{12}{3}$, é igual a que número natural? ________ \\
+E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
 
-Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
+Para identificar na reta numérica os pontos correspondentes às frações da unidade $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
 
-Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes. Observe e complete as frações em destaque.
+Na reta numérica a seguir estão destacados alguns pontos e as frações da unidade correspondentes a eles. Observe e complete as frações em destaque.
 
 <WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
 
@@ -65,7 +70,7 @@ Na reta numérica a seguir estão destacados alguns pontos e as frações corres
 
 A ordem na reta numérica\\
 
-Na reta numérica, os números ficam organizados em ordem crescente, a partir do zero no sentido do 1. 
+Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. 
 
 <WRAP imagem> INCLUIR RETA COM metades, quintos e décimos destacados </WRAP>
 
