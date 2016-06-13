@@ -13,10 +13,10 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<hidden Nota para o ilustrador>
+<WRAP imagem>
 O raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
-</hidden>
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
+</WRAP>
 </WRAP>
 </WRAP>
 
