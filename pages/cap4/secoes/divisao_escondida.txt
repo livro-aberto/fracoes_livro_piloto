@@ -4,7 +4,7 @@ Ir para [[cap4:texto#divisao_escondida]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{3 \times 3}{4 \times 3}$ são iguais (equivalentes) usando subdivisões em modelos de área retangulares sem a contagem um a um das partes que compõem as subdivisões.
+  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{6 \times 3}{6 \times 4}$ são iguais (equivalentes) usando subdivisões em modelos de área retangulares sem a contagem um a um das partes que compõem as subdivisões.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
