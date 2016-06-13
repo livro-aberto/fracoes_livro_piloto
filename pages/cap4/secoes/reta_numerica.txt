@@ -16,9 +16,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{ :cap4:secoes:fractions-01.jpg |}}
 
-(B) Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto p marcado na figura.
+(B) Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto azul em destaque na figura.
 
-(C) É correto afirmar que $p = \frac{20}{15}$? Justifique sua resposta!
+(C) É correto afirmar que o ponto azul em destaque corresponde a fração $\frac{20}{15}$? Justifique sua resposta usando uma reta numérica!
 
 
 <WRAP resposta>
@@ -26,7 +26,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{ :cap4:secoes:fractions-01-resposta.jpg |}}
 
-(B) $p = \frac{4}{3} = \frac{8}{6} = \frac{12}{9} = \frac{16}{12}$.
+(B) $\frac{4}{3} = \frac{8}{6} = \frac{12}{9} = \frac{16}{12}$.
 
 (C) O ponto $p$ 
 </WRAP>
