@@ -15,7 +15,7 @@ Esta é uma seção de atividades exploratórias sobre o conteúdo da lição. P
 {{anchor:renomear1}}
 {{page>cap5:ativ:_1renomear}}
 
-João e Maria estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois, esses recipientes serão destinados a empresas que usarão esses óleos para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
+João e Maria participarão de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois, esses recipientes serão destinados a empresas que usarão o óleo descartado para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
 
 
 
