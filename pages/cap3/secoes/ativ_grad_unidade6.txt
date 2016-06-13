@@ -2,6 +2,7 @@
 Ir para [[cap3:texto#ativ_grad_unidade6]]
 ;;#
 
+<hidden PARA O PROFESSOR>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Estender a representação de frações para a reta numérica a partir de modelos contínuos. 
@@ -15,6 +16,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Para registrar a identificação das representações em modelos contínuos à marcação da fração da unidade correspondente na reta numérica, o aluno pode simplesmente ligar, fazendo um linha, a representação em imagem à marcação na reta.
 
 </WRAP>
+</hidden>
+
 
 Para cada par de figuras a seguir, há uma reta numérica. Ligue as figuras aos números destacados na reta.
 
@@ -39,11 +42,3 @@ O quadrado das figuras (d) (e) (f) devem ter mesmo tamanho nas figuras (c) (d)
 </hidden>
 
 
-
-
-<hidden Comentários>
-(Francisco) Tenho dúvidas se para cada representação da reta numérica representamos todas as frações ou somente as frações representadas nas figuras. 
-Outra dúvida, na letra (e) representamos 1/3 ou 2/6?
-(L 16/05) Sobre a questão anterior, acho que pode ser 1/3, mas sugiro que essa dupla seja a quarta, e não a terceira.
-
-</hidden>
