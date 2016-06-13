@@ -24,7 +24,7 @@
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_grad_unidade}}
 
-{{anchor:ativ_grad_unidade3}}
+
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_grad_unidade3}}
 
@@ -86,3 +86,7 @@
 {{anchor:refletindo}}
 {{page>cap3:secoes:refletindo}}
 
+
+
+
+{{anchor:ativ_grad_unidade3}}
