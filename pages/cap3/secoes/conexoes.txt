@@ -4,7 +4,7 @@ Ir para [[cap3:texto#conexoes]]
 
 ====== ORGANIZANDO AS IDEIAS ======
 
-Frações na reta numérica \\
+Frações da unidade na reta numérica \\
 
 
 Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
