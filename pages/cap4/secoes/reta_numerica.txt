@@ -27,4 +27,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 {{ :cap4:secoes:fractions-01-resposta.jpg |}}
 
 (B) $p = \frac{4}{3} = \frac{8}{6} = \frac{12}{9} = \frac{16}{12}$.
+
+(C) O ponto $p$ 
 </WRAP>
