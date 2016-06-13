@@ -14,22 +14,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<hidden Nota para o ilustrador>
+<WRAP imagem>
 Este retângulo tem que ter a mesma dimensão do retângulo usado na Lição 3.
-</hidden>
 
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
+</WRAP>
 </WRAP>
 </WRAP>
 
 O objetivo desta atividade é estudar a fração do retângulo que está pintado de cinza no encarte que você recebeu. 
 
-<hidden Nota para o ilustrador>
-este retângulo tem que ter dimensões compatíveis com os retângulos da tabela.
-</hidden>
+<WRAP imagem>
+Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela.
 
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
-
+</WRAP>
 
 
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade XX da Lição 3 para avaliar as suas respostas. 
