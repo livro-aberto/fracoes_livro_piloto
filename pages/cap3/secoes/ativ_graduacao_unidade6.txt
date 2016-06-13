@@ -18,12 +18,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Inserir imagem semelhante a esta:
 {{ :cap3:secoes:copo_medida.jpg?100 |}}
 </WRAP> 
- 
-  * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
+   * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, a medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
   * Espera-se que os alunos descartem as faixas (c) e (d). No entanto, as faixas (a) e (b) e (e) encerram marcações possíveis. Discuta com os alunos as vantagens e desvantagens das marcações apresentadas nessas faixas. A faixa (a) traz a marcação da fração $\frac{1}{2}$ associada ao segmento e não ao ponto. Embora não esteja errada, ela apresenta dois inconvenientes: (i) esta forma de marcar não deixa claro que a linha-d'água deve estar na marcação para que o tanque esteja meio cheio (ii) ela dificulta marcações intermediárias (maiores que zero e menores que $\frac{1}{2}$). A escala (e), ainda que não tenha o mesmo problema que a faixa (a), oferece uma leitura menos precisa do que a possível na graduação apresentada em (b).
 
-</hidden>
 </WRAP>
+</hidden>
 
 Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
 Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma faixa graduada para indicar o nível de água na caixa. 
