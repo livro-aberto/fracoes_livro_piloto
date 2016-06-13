@@ -22,10 +22,10 @@ O raio do círculo deve ser igual ao raio dos setores circulares usados na Liç�
 
 O objetivo desta atividade é estudar a fração do círculo que está pintada de cinza no encarte que você recebeu.
 
-<hidden Nota para o ilustrador>
+<WRAP imagem>
 É importante que o raio do círculo desta figura seja igual aos raios dos setores circulares da tabela.
-</hidden>
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
+</WRAP>
 
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade XX da Lição 1 para avaliar as suas respostas. 
 
