@@ -81,7 +81,7 @@
 */
 
 {{anchor:refletindo}}
-{page>cap2:secoes:refletindo}}
+{{page>cap2:secoes:refletindo}}
 
 {{anchor:atividade_importancia_da_unidade}}
 ===== - Atividade =====
