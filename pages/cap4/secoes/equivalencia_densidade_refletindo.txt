@@ -3,5 +3,5 @@ Ir para [[cap4:texto#equivalencia_densidade_refletindo]]
 ;;#
 
 <WRAP Refletindo>
-HJB para Cataldo (2016-05-29): acho que vale a pena evidenciar neste refletindo a propriedade de densidade das frações apresentadas nas duas atividades anteriores.
+HJB para Wanderley (2016-05-29): acho que vale a pena evidenciar neste refletindo a propriedade de densidade das frações apresentadas nas duas atividades anteriores.
 </WRAP>
