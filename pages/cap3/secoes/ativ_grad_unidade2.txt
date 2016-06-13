@@ -2,7 +2,7 @@
 Ir para [[cap3:texto#ativ_grad_unidade2]]
 ;;#
 
-
+<hidden PARA O PROFESSOR>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Identificar, na reta numérica, os pontos correspondentes às frações do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para a>0, a partir de modelos contínuos.
@@ -16,6 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Observe que as faixas organizadas uma acima da outra estão alinhadas à esquerda, garantido a correspondência entre as frações da unidade destacadas. 
   * No item (b) espera-se que os alunos identifiquem a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1. Cabe aqui registrar a igualdade $\frac{5}{5}=1$ 
 </WRAP>
+</hidden>
 
 A faixa a seguir está dividida em 5 partes iguais. 
 
@@ -30,6 +31,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 (b) A faixa inteira é igual a quantos quintos? Escreva essa fração na forma simbólica. De que outra maneira é possível indicar essa quantidade? 
 
 <hidden RESPOSTA>
-teste
+(a) {{ :cap3:secoes:quintos.png?300 |}} completa
+(b) Cinco. $\frac{5}{5}$. 1. 
 
-<\hidden>
+</hidden>
