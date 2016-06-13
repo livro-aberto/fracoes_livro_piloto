@@ -29,6 +29,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 
 (b) A faixa inteira é igual a quantos quintos? Escreva essa fração na forma simbólica. De que outra maneira é possível indicar essa quantidade? 
 
+<hidden RESPOSTA>
+teste
 
-
-
+<\hidden>
