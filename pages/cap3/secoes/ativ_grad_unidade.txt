@@ -4,12 +4,14 @@ Ir para [[cap3:texto#ativ_grad_unidade]]
 
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Construir a ideia abstrata de fração como um número da reta numérica. 
-  * Associar na reta numérica, a partir de modelos contínuos a unidade ao número 1 e as frações unitárias como parte da unidade e não da faixa. Por exemplo, quando mencionamos 1/4, estaremos falando não mais 1/4 da faixa, mas, 1/4 da unidade.
+  * Associar, na reta numérica, a unidade ao número 1 a partir de modelos contínuos.
+  * Associar as frações $\frac{a}{b}}$ a pontos na reta numérica a partir da equipartição da unidade e da justaposição de $a$  segmentos correspondentes à fração $\frac{1}{b}}$. 
+  * 
+  * Mais especificamente, identificar frações $\frac{1}{4}}$, $\frac{1}{2}}$ e $\frac{3}{4}}$ e o 1.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
  
-  * Deve ser desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem sobre as possíveis soluções. 
+  * Deve ser desenvolvida em grupos de 2 ou 3 alunos. 
   * Faça cópias da fita necessária para o desenvolvimento da atividade, que está disponível para reprodução (**Inserir LINK de página para reprodução**).
   * No desenvolvimento da atividade, para identificar a marcação da fração 1/2 na fita, é possível que alguns alunos dobrem a fita ao meio no lugar de dobrar a parte da fita correpondente à unidade (metade do "caminho" entre 0 e 1). Nesse caso, discuta com os alunos, conduzindo-os à reflexão sobre a marcação correta.
   * É possível que alguns alunos façam procedimento análogo para marcar 1/4 e 3/4, fique atento;
