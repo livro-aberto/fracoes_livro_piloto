@@ -12,7 +12,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
   * Estimule seus alunos a explicarem a resposta dada.  
-  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo cotínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada a fração da unidade. No entano, na reta, a fração é associada a um único ponto, observando a justaposição de segmentos congruentes correspondentes à 1/5 do segmento unitário. 
+  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo contínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, todo a região determinada a fração da unidade. No entanto, na reta, a fração é associada a um único ponto, observando a justaposição de segmentos congruentes correspondentes à 1/5 do segmento unitário. 
+  * Observe que as faixas organizadas uma acima da outra estão alinhadas à esquerda. 
   * No item (b) espera-se que o alunos identifique a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1.  
   * 
 </WRAP>
@@ -22,7 +23,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 {{ :undefined:unidade_em_quintos.png?300 |}}
 
 
-(a) Cinco dessas faixas estão alinhadas. Usando o desenho das faixas, escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$. 
+(a) No desenho, estão cinco faixas como essa, uma acima da outra e alinhadas à esquerda. Escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$. 
 
 {{ :cap3:secoes:quintos.png?300 |}}
 
