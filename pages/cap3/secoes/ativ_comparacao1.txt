@@ -26,16 +26,16 @@ Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a l
 
 </WRAP>
 
-<hidden Imagem>
+<hidden Para o ilustrador>
 Incluir imagem de um mapa de tesouro que ocupe cerca de meia folha tamanho A4 – amarelado e com o contorno escurecido e irregular, como um pergaminho - que tenha em destaque uma imagem semelhante à ilustrada. Incluir as instruções logo abaixo. É importante que o caminho seja um segmento de reta com 16 cm e que a faixa avermelhada tenha 6cm de comprimento, ainda que essas medidas não estejam explícitas na imagem.  
 </hidden>
 
-<hidden Página para reprodução>
+<hidden Página para reprodução - Instruções>
 Apenas duas imagens da faixa avermelhada que determina a unidade exatamente como a que aparece no mapa.  
 </hidden>
 
-(a) Marque, no mapa, as localizações dos baús 1 e 2.
-(b) Qual o baú com o tesouro? Explique como chegou à sua conclusão. 
+  * (a) Marque, no mapa, as localizações dos baús 1 e 2.
+  * (b) Qual o baú com o tesouro? Explique como chegou à sua conclusão. 
 
 
 <hidden Resposta>
