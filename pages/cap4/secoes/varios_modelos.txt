@@ -20,3 +20,17 @@ O objetivo desta atividade é determinar uma fração de denominador $12$ que se
 (C) Desenhe uma reta numérica e, em seguida, marque os números $0$, $1$ e $\frac{5}{4}$. A partir deste desenho, obtenha uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
 
 
+<WRAP resposta>
+(A) Tomando um círculo como unidade, o dividimos em $4$ partes iguais e tomamos $5$ cópias de uma parte para obter $\frac{5}{4}$ da unidade. Dividindo cada uma das $5$ cópias em $3$ partes iguais, obtemos então $15$ cópias de $\frac{1}{12}$ da unidade. Portanto, $\frac{5}{4} = \frac{15}{12}$.
+
+{{ :cap4:secoes:varios-modelos-circulo-01.jpg?1200 |}}
+
+(B) Tomando um quadrado como unidade, o dividimos em $4$ partes iguais e tomamos $5$ cópias de uma parte para obter $\frac{5}{4}$ da unidade. Dividindo cada uma das $5$ cópias em $3$ partes iguais, obtemos então $15$ cópias de $\frac{1}{12}$ da unidade. Portanto, $\frac{5}{4} = \frac{15}{12}$.
+
+{{ :cap4:secoes:varios-modelos-quadrado-01.jpg?1200 |}}
+
+(C) Após marcar os números $0$ e $1$ na reta numérica, dividimos o segmento unitário (aquele de extremidades em $0$ e $1$) em $4$ partes iguais. Cada parte é um segmento que corresponde a $\frac{1}{4}$ da unidade. Ao se justapor $5$ segmentos que são $\frac{1}{4}$ da unidade a partir da origem 0, a fração $\frac{5}{4}$ corresponde ao ponto que é a outra extremidade desta justaposição. Agora, ao se subdividir estes 5 segmentos que são $\frac{1}{4}$ da unidade em 5 partes iguais, obtêm-se $15$ segmentos justapostos que são $\frac{1}{12}$ da unidade. Sendo o ponto que corresponde a $\frac{5}{4}$ extremo desta justaposição, segue-se que ele corresponde também a fração $\frac{15}{12}$.
+
+{{ :cap4:secoes:varios-modelos-reta-numerica-01.jpg?1200 |}}
+
+</WRAP>
