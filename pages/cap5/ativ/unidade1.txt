@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap5:texto#renomear1]]
+Ir para [[cap5:texto#unidade1]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
