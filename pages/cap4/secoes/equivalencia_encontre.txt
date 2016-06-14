@@ -4,24 +4,31 @@ Ir para [[cap4:texto#explorando_encontre]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Construir uma fração igual a uma dada fração mas com numerador ou denominador especificados.
+  * Determinar uma fração igual a uma dada fração com denominador especificado.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Espera-se, principalmente nos Itens (B) e (C), que os alunos consigam obter a fração solicitada sem recorrer a desenhos de modelos de área de frações.
 </WRAP>
 
-Considere a fração $p = \frac{7}{3}$. 
+Determine uma fração que seja igual a $\frac{7}{3}$ que tenha denominador
 
-(A) Determine uma fração de denominador $6$ que seja igual a $p$.
+(A) $6$;
 
-(B) Determine uma fração de denominador $21$ que seja igual a $p$.
+(B) $21$;
 
-(C) Determine uma fração de denominador $123$ que seja igual a $p$.
+(C) $123$;
 
-(D) Determine uma fração de denominador $210$ que seja igual a $p$.
+(D) $210.
 
-<hidden Comentário - a ser apagado>
-(i) Achei estranho a expressão "construir uma fração". Sugiro determinar.
+<WRAP resposta>
+(A) Como $6 = 2 \times 3$, segue-se que $\frac{7}{3} = \frac{2 \times 7}{2 \times 3} = \frac{14}{6}$.
 
-(ii) Para a faixa etária a que se destina o texto, sugiro que o enunciado seja apenas: Determine uma que seja igual a fração \frac{7}{3}$ e que tenha denominador: ....
+(B) Como $21 = 7 \times 3$, segue-se que $\frac{7}{3} = \frac{7 \times 7}{7 \times 3} = \frac{49}{21}$.
 
-(iii) Acho a atividade abstrata para ser a primeira deste tipo. Sugiro que seja proposta imediatamente antes uma atividade equivalente que seja amparada por um modelo visual.
+(C) Como $123 = 41 \times 3$, segue-se que $\frac{7}{3} = \frac{41 \times 7}{41 \times 3} = \frac{287}{123}$.
 
-</hidden>
+(D) Como $210 = 70 \times 3$, segue-se que $\frac{7}{3} = \frac{70 \times 7}{70 \times 3} = \frac{490}{210}$.
+
+</WRAP>
