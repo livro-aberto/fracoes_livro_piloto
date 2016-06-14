@@ -25,6 +25,23 @@
 {{page>cap3:secoes:ativ_grad_unidade}}
 
 
+{{anchor:ativ_comparacao1}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_comparacao1}}
+
+
+{{anchor:ativ_comparacao2}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_comparacao2}}
+
+
+{{anchor:ativ_comparacao3}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_comparacao3}}
+
+
+
+
 {{anchor:conexoes}}
 {{page>cap3:secoes:conexoes}}
 
