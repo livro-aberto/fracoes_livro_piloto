@@ -19,8 +19,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, observarem que há diferentes representações para a equipartição. Por exemplo, 
 
 <WRAP nota>
-PÁGINA DE REPRODUÇÃO 
-Imagens: exatamente a mesma barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
+PÁGINA DE REPRODUÇÃO - FIGURA ARTÍSTICA
+Imagens: a mesma barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
 
 {{ :cap1:secoes:chocolate_2.jpg?200 |}}  
 
@@ -34,7 +34,8 @@ Imagens: exatamente a mesma barra de chocolate que aparece na figura corresponde
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
-<WRAP imagem> Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode ser cadeirante, por exemplo), observando uma única barra de chocolate retangular (preferencialemnte, imagem tridimensional sem subdivisões) repartida em três partes com tamanhos diferentes. Por exemplo:
+<WRAP imagem> - FIGURA ARTÍSTICA 
+Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode ser cadeirante, por exemplo), observando uma única barra de chocolate retangular (preferencialemnte, imagem tridimensional sem subdivisões) repartida em três partes com tamanhos diferentes. Por exemplo:
 
 {{:cap1:secoes:licao1_1.png?300|}}
 
