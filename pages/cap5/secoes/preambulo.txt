@@ -80,14 +80,14 @@ O Mão na Massa deve ter problemas variados que contemplem os diversos significa
 
 <hidden Para o professor>
 <WRAP professor>
-Esta lição tem por objetivo... nesta lição serão apresentados...
 
-As atividades visam ...
+Em muitos casos, a adição e a subtração de frações são apresentadas na educação básica simplesmente a partir de um procedimento de cálculo, em que se determina um denominador comum (em geral, obtido pelo mmc dos denominadores originais) e se operam os numeradores.
+Na construção de significado para as operações de adição e de subtração de frações, é importante que fique claro para os alunos que encontrar um denominador comum corresponde a encontrar uma subunidade comum entres as quantidades que se deseja operar (no caso, somar ou subtrair).
 
-OBJETIVOS ESPECÍFICOS DA LIÇÃO 5: O aluno deve ser capaz de: 
-    * objetivo
-    * outro objetivo
-    * outro mais
+Desenvolver mais a explicação para o professor, incluindo um exemplo.
+A reescrita de uma fração a partir de determinada subunidade implicará na escrita de uma fração equivalente. Desse modo, a determinação de frações equivalentes poderá nortear nosso processo de realização de cálculos de soma e diferença. No entanto, nesta lição, temos por objetivo não perder de vista a finalidade desse processo, de modo a constantemente chamar a atenção para subunidade em questão.
+
+Resgatar as intepretações para adição e subtração, discutidas em números naturais.
     
 </WRAP>
 </hidden>
