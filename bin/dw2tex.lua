@@ -121,9 +121,12 @@ local document = Ct( ( decotext + wrap + bighidden + token('error', special) + t
 
 local finalsymb = (P('#') / [[\#]]) + (P('$') / [[\$]]) + (P([[%]]) / [[\%%]]) + (P('&') / [[\&]]) + (P([[\]]) / [[\textbackslash{}]]) + (P('^') / [[\textasciicircum{}]]) + (P('_') / [[\_]]) + (P('{') / [[\{]]) + (P('}') / [[\}]]) + (P('~') / [[\textasciitilde{}]]) + (P('"') / 'QUOTES')
 
+function twothirds(x) return tostring(math.min(6*tonumber(x)/10,600)) end
+
 local formatimagesize = Cs( ( (1 - P('?')) / '' )^1 * ( P('?') / '' )
-      * ( ( P('') / ',width=' ) * C(digit^1) * ( P('') / 'pt' ) )^-1
-      * ( ( P('x') / ',height=' ) * C(digit^1) * ( P('') / 'pt' ) )^-1
+      * ( P('direct&') / '' )^-1
+      * ( ( P('') / 'width=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
+      * ( ( P('x') / ',height=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( simpletext / '' )^0 )
 local formatimage = Cs( ( P('') / '/var/www/livro/data/gitrepo/media' ) * ( C(alpha + digit + S('-_.'))
                     + ( P(' ') / '' ) + ( P(':') / '/' ) )^1 * ( simpletext / '' )^0 )
@@ -172,12 +175,12 @@ function texprint (tbl, indent)
         end
      elseif (v.tag) == 'image' then
         if (formatimage:match(v.value)) then
-           local tempsize = ',width=\textwidth,height=4cm'
+           local tempsize = 'width=\textwidth,height=4cm'
            if (formatimagesize:match(v.value)) then
               tempsize = formatimagesize:match(v.value)
            end
            outstr = outstr .. formatting .. ''
-             .. formatting .. '\\includegraphics[width=\\textwidth'
+             .. formatting .. '\\includegraphics['
              .. tempsize .. ', keepaspectratio]{'
              .. formatimage:match(v.value) .. '}'
              --.. 'value =<' .. v.value .. '>\n'
