@@ -20,7 +20,7 @@ Determine uma fração que seja igual a $\frac{7}{3}$ e que tenha denominador
 
 (C) $123$;
 
-(D) $210.
+(D) $210$.
 
 <WRAP resposta>
 (A) Como $6 = 2 \times 3$, segue-se que $\frac{7}{3} = \frac{2 \times 7}{2 \times 3} = \frac{14}{6}$.
