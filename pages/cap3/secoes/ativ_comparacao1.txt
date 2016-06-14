@@ -31,15 +31,15 @@ Incluir imagem de um mapa de tesouro que ocupe cerca de meia folha tamanho A4 �
 </hidden>
 
 <hidden Página para reprodução>
-Apenas duas imagens da faixa avermelhada que determina a unidade extamente como a que aparece no mapa.  
+Apenas duas imagens da faixa avermelhada que determina a unidade exatamente como a que aparece no mapa.  
 </hidden>
 
 (a) Marque, no mapa, as localizações dos baús 1 e 2.
 (b) Qual o baú com o tesouro? Explique como chegou à sua conclusão. 
 
 
-<WRAP Imagem>
+<hidden Resposta>
 (a) Imagem do mapa com os pontos correspondentes aos baús 1 e 2 marcados - necessita da imagem e do ilustrador.
 (b) O baú 2.
-</WRAP>
+</hidden>
 
