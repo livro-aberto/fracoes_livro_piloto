@@ -1,0 +1,21 @@
+;;#
+Ir para [[cap5:texto#unidade3]]
+;;#
+
+<hidden Para o professor>
+
+<WRAP professor>
+
+Essa atividade pode ser feira com material concreto. Daí ao invés de inicialmente apresentar as frações coloridas, o professor – ofertando um disco dividido em 24 partes - pode solicitar que os selecionem as frações 5/12, 1/6 e 3/8. 
+
+Foi utilizado um disco dividido em 24 parte, assim como na lição anterior. 
+
+Essas  atividades são iniciadas com comparação de fração, que foi o assunto abordado na lição anterior. 
+
+O professor deve chamar atenção que escrever as frações a partir de um mesmo denominador equivale a encontrar uma unidade de medida comum. Daí tomaremos como estratégia, para operar adição e subtração de frações, escrevê-las a partir de um mesmo denominador (que é a unidade ou subunidade comum). 
+
+</WRAP>
+
+Amanda, Bruno e Caio pediram três pizzas com saberes diferentes e mesmo tamanho. Todas as pizzas nessa pizzaria são servidas em 24 fatias iguais. Amanda comeu   de uma pizza, Bruno comeu   de outra, e Caio comeu   da pizza que pediu. 
+
+</hidden>
