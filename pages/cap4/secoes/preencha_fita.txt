@@ -4,12 +4,12 @@ Ir para [[cap4:texto#preencha_fita]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais (equivalentes) usando modelos de área retangulares. 
+  * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais a partir da observação da representação destas frações em modelos de área retangulares. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
   * Os retângulos empregados na condução da atividade podem ser aproveitados da Atividade XX da Lição 3.
-  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes mas que, não obstante, estas frações são iguais (equivalentes) pois expressam uma mesma quantidade. 
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
 
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
