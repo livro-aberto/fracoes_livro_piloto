@@ -4,11 +4,11 @@ Ir para [[cap4:texto#divisao_escondida]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{12 \times 3}{12 \times 4}$ são iguais (equivalentes) usando subdivisões em modelos de área retangulares sem a contagem um a um das partes que compõem as subdivisões.
+  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{12 \times 3}{12 \times 4}$ são iguais a partir da observação das representações destas frações em modelos de área sem a contagem um a um das partes que compõem as subdivisões destas representações.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de azul) está sendo descrita por frações com numeradores e denominadores diferentes mas que, não obstante, estas frações são iguais (equivalentes) pois expressam uma mesma quantidade.
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de azul) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
 
 </WRAP>
 
