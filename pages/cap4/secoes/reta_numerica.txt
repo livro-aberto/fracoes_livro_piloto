@@ -18,7 +18,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 (B) Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto azul em destaque na figura.
 
-(C) Determine uma fração de denominador $15$ que corresponda ao ponto azul em destaque? Justifique sua resposta usando uma reta numérica!
+(C) Determine uma fração de denominador $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
 
 
 <WRAP resposta>
