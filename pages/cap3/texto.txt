@@ -25,18 +25,6 @@
 {{page>cap3:secoes:ativ_grad_unidade}}
 
 
-===== - Atividade =====
-{{page>cap3:secoes:ativ_grad_unidade3}}
-
-{{anchor:ativ_grad_unidade4}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_grad_unidade4}}
-
-{{anchor:ativ_grad_unidade5}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_grad_unidade5}}
-
-
 {{anchor:conexoes}}
 {{page>cap3:secoes:conexoes}}
 
@@ -55,18 +43,6 @@
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_gr_subdiv}}
 
-{{anchor:ativ_indiv_subdiv}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_indiv_subdiv}}
-
-{{anchor:ativ_ordem_mesmo_denom}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_ordem_mesmo_denom}}
-
-{{anchor:ativ_boa_subunidade}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_boa_subunidade}}
-
 {{anchor:ativ_reta_numerada}}
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_reta_numerada}}
@@ -75,13 +51,12 @@
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_reta_numerica2}}
 
-{{anchor:ativ_comparacao_unit}}
-===== - Atividade =====
-{{page>cap3:secoes:ativ_comparacao_unit}}
-
 {{anchor:ativ_reta2_unidade6}}
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_reta2_unidade6}}
+
+
+
 
 {{anchor:refletindo}}
 {{page>cap3:secoes:refletindo}}
@@ -89,4 +64,38 @@
 
 
 
+SOBRAS
+
 {{anchor:ativ_grad_unidade3}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_grad_unidade3}}
+
+
+{{anchor:ativ_grad_unidade4}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_grad_unidade4}}
+
+
+{{anchor:ativ_grad_unidade5}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_grad_unidade5}}
+
+
+{{anchor:ativ_indiv_subdiv}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_indiv_subdiv}}
+
+
+{{anchor:ativ_ordem_mesmo_denom}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_ordem_mesmo_denom}}
+
+
+{{anchor:ativ_boa_subunidade}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_boa_subunidade}}
+
+
+{{anchor:ativ_comparacao_unit}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_comparacao_unit}}
