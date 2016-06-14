@@ -7,7 +7,7 @@ Frações: seu lugar é na reta numerada
 <WRAP professor>
 As ideias iniciais das frações pela representação de partes que subdividimos a unidade tem a vantagem de abordar um assunto tão importante e com reconhecido difícil acesso para os alunos por meio de atividades lúdicas nas quais é possível visualizar alguns conceitos. Por outro lado, há a necessidade de identificar as frações com suas localizações na reta numérica, como forma do aluno perceber a fração como representante de um novo tipo de número que ele começa a conhecer. 
 
-A noção de frações equivalentes, pode ser justificada pela construção de diversas faixas divididas em partes diferente e que em algumas subdivisões observamos diferentes representações para um mesmo tamanho de faixa. Trata-se de verificar que a mesma parte do ‘‘todo’’ ou da  unidade pode ser dividida num número diferente de pedaços, por meio de subdivisões e/ou agrupamentos. 
+A noção de frações equivalentes, pode ser justificada pela construção de diversas faixas divididas em partes diferente e que em algumas subdivisões observamos diferentes representações para um mesmo tamanho de faixa. Trata-se de verificar que a mesma parte do "todo" ou da  unidade pode ser dividida num número diferente de pedaços, por meio de subdivisões e/ou agrupamentos. 
 
 A localização dos números dados por frações na reta numérica pode ser um recurso didático precioso para destacar que frações equivalentes representam o mesmo número. De fato, ao marcar estas frações na reta numérica, teremos que subdividir a unidade entre 0 e 1, ora em 2 partes iguais (sempre de mesmo comprimento), ora em 4 e ora em 12.
 
