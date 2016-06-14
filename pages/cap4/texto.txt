@@ -45,6 +45,12 @@
 {{anchor:reta_numerica_refletindo}}
 {{page>cap4:secoes:reta_numerica_refletindo}}
 
+{{anchor:varios_modelos}}
+===== - Atividade =====
+{{page>cap4:secoes:varios_modelos}}
+
+
+
 {{anchor:organizando_ideias}}
 {{page>cap4:secoes:organizando_ideias}}
 
