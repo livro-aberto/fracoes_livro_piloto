@@ -7,7 +7,3 @@ Na reta numérica já estão marcados o 0, o 1 e a fração 1/2. Marque as fraç
 {{ :cap3:secoes:reta.png?200 |}}
 
 
-<hidden Comentários>
-
-
-</hidden>
