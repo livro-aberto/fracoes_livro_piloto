@@ -4,7 +4,7 @@ Ir para [[cap4:texto#preencha]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais a partir da observação da representação destas frações em modelos de área circulares. 
+  * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais a partir da observação das representações destas frações em modelos de área circulares. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
