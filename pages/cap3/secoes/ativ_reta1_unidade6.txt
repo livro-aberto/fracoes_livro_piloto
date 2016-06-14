@@ -29,11 +29,11 @@ Reta 1: 0, 3/8, 5/8, 1
 Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três não aparecem e 
 Reta 2: 0, 3/8, 5/8, 1
 
-  - ½ de uma maçã;
+  - 1/2 de uma maçã;
 {{ :cap3:secoes:meia_maca.jpg?100 |}}
 Reta 3: 0, 1/4, 1/2, 3/4, 1
 
-  - ¼ de um  sanduiche de queijo com presunto
+  - 1/4 de um  sanduiche de queijo com presunto
 {{ :cap3:secoes:um_quarto_sanduiche.png?100 |}}
 Reta 4: 0, 1/4, 1/2, 3/4, 1
 

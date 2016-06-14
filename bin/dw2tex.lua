@@ -125,6 +125,7 @@ function twothirds(x) return tostring(math.min(6*tonumber(x)/10,600)) end
 
 local formatimagesize = Cs( ( (1 - P('?')) / '' )^1 * ( P('?') / '' )
       * ( P('direct&') / '' )^-1
+      * ( ( P('0x') / 'height=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( ( P('') / 'width=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( ( P('x') / ',height=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( simpletext / '' )^0 )
