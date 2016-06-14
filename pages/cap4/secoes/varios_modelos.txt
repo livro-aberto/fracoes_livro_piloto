@@ -1,0 +1,22 @@
+;;#
+Ir para [[cap4:texto#varios_modelos]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Determinar uma fração igual (equivalente) a uma dada fração com denominador especificado usando, para isto, diversos modelos de frações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 alunos (cada aluno do grupo poderá usar um modelo diferente para obter a fração solicitada).
+</WRAP>
+
+
+O objetivo desta atividade é determinar uma fração de denominador $12$ que seja igual a fração $\frac{5}{4}$.
+
+(A) Tomando um círculo como unidade, faça um desenho que represente $\frac{5}{4}$ da unidade e, a partir deste desenho, obtenha uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+
+(B) Tomando um quadrado como unidade, faça um desenho que represente $\frac{5}{4}$ da unidade e, a partir deste desenho, obtenha uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+
+(C) Desenhe uma reta numérica e, em seguida, marque os números $0$, $1$ e $\frac{5}{4}$. A partir deste desenho, obtenha uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+
+
