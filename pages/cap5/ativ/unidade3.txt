@@ -16,6 +16,7 @@ O professor deve chamar atenção que escrever as frações a partir de um mesmo
 
 </WRAP>
 
+</hidden>
+
 Amanda, Bruno e Caio pediram três pizzas com saberes diferentes e mesmo tamanho. Todas as pizzas nessa pizzaria são servidas em 24 fatias iguais. Amanda comeu   de uma pizza, Bruno comeu   de outra, e Caio comeu   da pizza que pediu. 
 
-</hidden>
