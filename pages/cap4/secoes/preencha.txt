@@ -4,12 +4,12 @@ Ir para [[cap4:texto#preencha]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais (equivalentes) usando modelos de área circulares. 
+  * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais a partir da observação da representação destas frações em modelos de área circulares. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
   * Os setores circulares empregados na condução da atividade podem ser aproveitados da Atividade XX da Lição 1.
-  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do círculo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes mas que, não obstante, estas frações são iguais (equivalentes) pois expressam uma mesma quantidade. 
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do círculo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, estas frações, por expressarem uma mesma quantidade, são iguais. 
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
