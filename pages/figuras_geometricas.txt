@@ -19,8 +19,8 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016  ^             Autor                           ^
-| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]] - [[figuras:cap2:secoes:explorando:mais:de:uma:barra|link]]| Clique em editar e ponha o seu nome na figura que deseja fazer  |
-| Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]] - [[figuras:cap2:secoes:explorando:papel:tortas:salgadas|link]]            |     |
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]] - [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]| Clique em editar e ponha o seu nome na figura que deseja fazer  |
+| Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]] - [[figuras:cap2:secoes:explorando_papel_tortas_salgadas|link]]            |     |
 | Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]] - [[figuras:cap2:secoes:explorando_atividade_entender_linguagem|link]]     |     |
 | Organizando as Ideias [[cap2:secoes:conexoes]] - [[figuras:cap2:secoes:conexoes|link]]                        |     |
 | Atividade [[cap2:secoes:atividade_poder_da_notacao]] - [[figuras:cap2:secoes:atividade_poder_da_notacao|link]]                  |     |
