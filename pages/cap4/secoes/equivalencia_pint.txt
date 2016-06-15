@@ -10,5 +10,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
 </WRAP>
 
-Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu irmão tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  Quantos níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você?
+Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu irmão tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  Quantos níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você? Justifique sua resposta!
 
+<WRAP resposta>
+As 17 marcações no copo do seu irmão divide a capacidade do copo em 16 partes iguais. Quantas destas partes correspondem a $\frac{3}{4}$ da capacidade do copo (que é fração da capacidade do copo que está preenchida com suco)? Para responder a esta pergunta, devemos calcular $\square$ tal que
+
+$\frac{3}{4} = \frac{\square}{16}$.
+
+Como $16 = 4 \times 4$, segue-se que
+
+$\frac{3}{4} = \frac{4 \times 3}{4 \times 4} = \frac{12}{16}$. 
+
+Assim, não necessárias $12$ partes de $\frac{1}{16}$ da capacidade do copo. Consequentemente,
+17 níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você.
+
+
+
+{{:cap4:secoes:equivalencia-copo-01-resposta.jpg?50|}}
+</WRAP>
