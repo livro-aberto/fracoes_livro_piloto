@@ -8,6 +8,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * O propósito de encobrir as divisões do retângulo é para evitar que os alunos façam a contagem dar partes uma a uma e que, assim, sejam estimulados a perceber a estrutura multiplicativa $12 \times 3$ e $12 \times 4$ na divisão do retângulo.
   * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de azul) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
 
 </WRAP>
