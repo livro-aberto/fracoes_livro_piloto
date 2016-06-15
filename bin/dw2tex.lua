@@ -70,9 +70,10 @@ doc = killunknown:match(doc)
 
 local special = P('**') + P('__') + P([[//]]) + P("''") + P('====') + P('$') + P('<WRAP')
    + P('</WRAP') + P('"') + P([[\\]]) + P('{{') + P('}}') + P('/*') + P('*/') + P('<hidden ') + P('</hidden>')
-   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n') + P(';;#')
+   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n') + P(';;#') + P('|')
 local harmless = known - special
 
+local whitespace = P(' ')^0
 local simpletext = harmless^1
 local bold = surround('bold', '**', simpletext)
 local under = surround('under', '__', simpletext)
@@ -80,13 +81,13 @@ local italic = surround('italic', [[//]], (harmless - P([[//]]))^1 )
 local mono = surround('mono', "''", simpletext)
 local newline = token('newline', [[\\]])
 local linefeed = token('linefeed', '\n')
-local simplemath = surround('simplemath', '$', simpletext)
+local simplemath = surround('simplemath', '$', (simpletext + S('<>'))^1)
 local atividade = token('atividade', '===== - Atividade =====')
 local title = P('=====') * token('title', simpletext) * P('=====')
 local titlechapter = P('======') * token('title', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
-local image = P('{{') * token('image', simpletext) * P('}}')
+local image = P('{{') * S(':|')^0 * token('image', simpletext) * P('|')^0 * P('}}')
 local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#')
 local quote = surround('quote', '"', Ct( (bold + under + italic + mono + simplemath + token('simple', simpletext))^0 ))
 local decoline = bold + under + italic + mono + quote + simplemath + token('simple', simpletext)
@@ -101,8 +102,13 @@ local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
 --local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath
 --                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
-
-local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath + atividade + titlechapter
+local cellcontent = token('cellcontent', Ct( (bold + under + italic + mono + quote
+                                                 + simplemath + image + token('simple', simpletext))^1 ) )
+local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcontent )^1
+                                * ( P('|') * whitespace )) * linefeed)
+local tabular = token('tabular', Ct(tabularline^1))
+local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
+   + doubleitemize + simplemath + atividade + titlechapter + tabular
    + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
 
 local W = V'W'
@@ -129,7 +135,7 @@ local formatimagesize = Cs( ( (1 - P('?')) / '' )^1 * ( P('?') / '' )
       * ( ( P('') / 'width=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( ( P('x') / ',height=' ) * (digit^1 / twothirds) * ( P('') / 'pt' ) )^-1
       * ( simpletext / '' )^0 )
-local formatimage = Cs( ( P('') / '/var/www/livro/data/gitrepo/media' ) * ( C(alpha + digit + S('-_.'))
+local formatimage = Cs( ( P('') / '/var/www/livro/data/gitrepo/media/' ) * ( C(alpha + digit + S('-_.'))
                     + ( P(' ') / '' ) + ( P(':') / '/' ) )^1 * ( simpletext / '' )^0 )
 local formatinclude = Cs( ( P('') / '/var/www/livro/data/gitrepo/pages/' )
       * ( C(alpha + digit + S('-_.')) + ( P(' ') / '' ) + ( P(':') / '/' ) )^1
@@ -176,7 +182,7 @@ function texprint (tbl, indent)
         end
      elseif (v.tag) == 'image' then
         if (formatimage:match(v.value)) then
-           local tempsize = 'width=\textwidth,height=4cm'
+           local tempsize = 'width=\\textwidth,height=4cm'
            if (formatimagesize:match(v.value)) then
               tempsize = formatimagesize:match(v.value)
            end
@@ -190,6 +196,20 @@ function texprint (tbl, indent)
         else
            outstr = outstr .. formatting .. 'only value =<' .. v.value .. '>\n'
         end
+     elseif (v.tag) == 'cellcontent' then
+        outstr = outstr .. texprint(v.value, 0)
+     elseif (v.tag) == 'tabularline' then
+        outstr = outstr .. formatting
+        for k, cell in pairs(v.value) do
+           if (k > 1) then outstr = outstr .. '& ' end
+           outstr = outstr .. texprint(cell.value, 0)
+        end
+        outstr = outstr .. '\\\\\n' .. formatting .. '\\hline \\\\\n'
+     elseif (v.tag) == 'tabular' then
+        outstr = outstr .. formatting .. '\n\\begin{center}\n'.. formatting .. '  \\begin{tabulary}{0.8\\textwidth}{*{50}{L}}\n'
+           .. formatting .. '    \\hline \\hline \\\\\n'
+           .. texprint(v.value, indent + 2)
+           .. formatting .. '  \\end{tabulary}\n'.. formatting .. '\\end{center}\n'
      elseif (v.tag) == 'enumitem' then
         outstr = outstr .. formatting .. '\\item' .. texprint(v.value, indent + 1) .. '\n'
      elseif (v.tag) == 'doubleenumitem' then
@@ -235,6 +255,8 @@ outstring = outstring .. texprint(document:match(doc)) .. '\\end{document}'
 file = io.open (arg[2], "w")
 file:write(outstring)
 io.close(file)
+
+
 
 
 
