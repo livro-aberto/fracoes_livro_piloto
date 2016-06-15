@@ -22,7 +22,7 @@ Como $16 = 4 \times 4$, segue-se que
 $\frac{3}{4} = \frac{4 \times 3}{4 \times 4} = \frac{12}{16}$. 
 
 Assim, não necessárias $12$ partes de $\frac{1}{16}$ da capacidade do copo. Consequentemente,
-17 níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você.
+13 níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você.
 
 
 
