@@ -7,8 +7,9 @@ Objetivo específico: Levar o aluno a
   * Reconhecer que, dada uma fração $p = \frac{n}{d}$, existe um quantidade finita de frações da forma $\frac{k}{d}$ que são menores do que $p$ e uma quantidade infinita de frações da forma $\frac{n}{k}$ que são menores do que $p$.
 </WRAP>
 
-(a) Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
-(b) Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+(A) Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+
+(B) Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
 
 <hidden Comentário - a ser apagado>
 (ii) Nas orientações ao professor, alertar que alguns alunos podem ainda necessitar do apio de material concreto para responder à questão. Além disso, acredito que a reta numérica seja um sporte importante para discutir essa questão com os alunos.
