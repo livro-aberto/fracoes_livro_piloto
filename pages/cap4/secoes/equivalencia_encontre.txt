@@ -9,7 +9,7 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Espera-se, principalmente nos Itens (C) e (D), que os alunos consigam obter a fração solicitada sem recorrer a desenhos de modelos de área de frações.
+  * Espera-se, principalmente nos Itens (C) e (D), que os alunos consigam obter a fração solicitada usando a propriedade que $\frac{m \times a}{m \times b}$ é equivalente a $\frac{a}{b}$ e sem recorrer a desenhos de modelos de área de frações.
 </WRAP>
 
 Determine uma fração que seja igual a $\frac{7}{3}$ e que tenha denominador
