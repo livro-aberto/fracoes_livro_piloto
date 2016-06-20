@@ -2,7 +2,7 @@
 
   - Considerando uma torta, qual quantidade:
     - Amarildo recebeu?
-    - Amarildo Beto e Carlos receberam juntos?
+    - Amarildo Beto e Carlos receberam juntos? $\fbox{4}$!
 
 
 <WRAP professor>
