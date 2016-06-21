@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap5:texto#renomear5]]
+Ir para [[cap5:texto#mesma_subunidade]]
 ;;#
 
 <hidden Para o professor>
