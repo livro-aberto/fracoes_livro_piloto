@@ -4,14 +4,23 @@ Ir para [[cap4:texto#equivalencia_fracoes_unitarias]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Analisar a equivalência (igualdade) de frações unitárias.
+  * Analisar quando uma fração é igual a uma fração unitária.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Observe para seus alunos que as frações estudadas na Lição 1 são justamente as frações unitárias e que, pela Lição 2, toda fração é a justaposição de frações unitárias. Em outras palavras, as frações unitárias constituem a estrutura básica a partir da qual as demais frações são obtidas.
 </WRAP>
 
 Uma fração é dita **unitária** se o seu numerador é igual a $1$. 
 
-(A) Quais das frações a seguir é igual a alguma fração unitária? Justifique sua resposta.
+(A) Quais das frações a seguir são iguais a alguma fração unitária? Justifique sua resposta.
 
 $\frac{4}{20}$, $\frac{21}{7}$, $\frac{4}{30}$, $\frac{6}{18}$.
 
 (B) Uma fração com numerador maior do que o denominador pode ser igual a uma fração unitária? Justifique sua resposta!
 
+<WRAP resposta>
+(A) Pelo Item (B) da Atividade 17, se uma dada fração é igual a alguma fração unitária, então o produto do numerador da fração dada pelo denominador da fração unitária tem que ser igual ao denominador da fração dada, isto é, o denominador da fração dada tem que ser um múltiplo inteiro do seu numerador. Isto só acontece para as frações $\frac{4}{20}$ e $\frac{6}{18}$.
+
+(B) Não, pois frações unitárias são sempre menores ou iguais a 1, enquanto que uma fração com numerador maior do que o denominador é sempre maior do que 1.
+</WRAP>
