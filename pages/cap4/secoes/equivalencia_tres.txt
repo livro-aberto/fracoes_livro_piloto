@@ -4,18 +4,39 @@ Ir para [[cap4:texto#equivalencia_tres]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Comparar mais do que duas frações (no caso, três) usando frações iguais (equivalentes).
+  * Comparar mais do que duas frações (no caso, três) usando frações equivalentes.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * É possível saber ordenar  é menor tomando-se duas frações por vez. 
 </WRAP>
 
-Considere as frações
-$p = \frac{19}{7}$, $q = \frac{87}{32}$ e $r = \frac{106}{39}$.
+O objetivo desta atividade é determinar qual é a maior e qual é a menor fração entre
+as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
-(A) Encontre três frações de mesmo denominador que sejam iguais, respectivamente, às frações $p$, $q$ e $r$.
+(A) Determine três frações de mesmo denominador que sejam iguais às frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
-(B) Qual fração é maior? Qual fração é menor?
+(B) Usando as frações do Item (A), determine qual é a maior e qual é a menor fração entre
+as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+
+<WRAP resposta>
+(A) $60$ é um múltiplo comum de $6$, $20$ e $15$: $60 = 10 \times 6$, $60 = 4 \times 15$ e $60 = 3 \times 20$. Portanto,
+
+$\frac{11}{6} = \frac{10 \times 11}{10 \times 6} = \frac{110}{60}$,
+$\frac{28}{15} = \frac{4 \times 28}{4 \times 15} = \frac{112}{60}$ e
+$\frac{37}{20} = \frac{3 \times 37}{3 \times 20} = \frac{111}{60}$.
+
+(B) Tem-se que $\frac{110}{60} < \frac{111}{60} < \frac{112}{60}$. Logo,
+$\frac{11}{6} < \frac{37}{20} < \frac{28}{15}$.
+</WRAP>
 
 
-<hidden Comentário - a ser apagado>
+<hidden Comentário - a ser apagado (com réplica do Humberto)>
+Réplica do Humberto:
+(i) A atividade foi concebida para ser resolvida usando a notação de fração, sem o uso do recurso de modelos de frações pensando que, neste estágio, o aluno já deveria ter o domínio desta técnica (estou supondo que um objetivo deste capítulo é que o aluno seja capaz de gerar e identificar frações iguais por meio desta manipulação aritmética).Vou manter esta atividade aqui para reconsideração mas caso achem que ela está realmente difícil, podemos removê-la. 
+
+
+Letícia:
 (i) Acho o desafio grande demais. Talvez propor itens, iniciando por frações "mais simples", que facilitem a representação em modelos contínuos e a discussão em sala de aula;
 
 (ii) Acho que basta $\frac{a}{b}$, $\frac{c}{d}$ e $\frac{e}{f}$. Não vejo, aqui, a necessidade de nomear as frações. 
