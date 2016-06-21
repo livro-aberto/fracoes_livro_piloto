@@ -41,7 +41,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear8}}
-{{page>cap5:ativ:8renomear}}
+{{page>cap5:ativ:reta_mais}}
 
 
 ===== - Atividade =====
