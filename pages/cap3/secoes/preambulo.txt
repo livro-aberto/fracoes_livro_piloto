@@ -39,7 +39,8 @@ Lição 3: Linguagem, representação simbólica, representação na reta numér
 
 "**The number line is a representation of numbers on a straight line** where points represent integers or real numbers and the distance between points matches the arithmetical difference between the corresponding numbers. [...] Having defined the number line as a representation, it should be understood as a model for reasoning, teaching and understanding concepts and properties in mathematics." (Albrecht Heeffer).
 
-Para Wu, número é ponto na reta: 
+Para Wu, número é ponto na reta: The  Number  Line: The discussion  of numbers in this book win revolve around the so-called number line, a line each of whose points is uniquely identified with a (real) number. We now turn to its definition. […] In this section, we identify the whole numbers 0, 1, 2,... as certain equis-paced points (i.e., the distances between consecutive points are all equal) on the line. ** Part 2 will identify the fractions on this line, and Part 3, the rational numbers**.
+
 
 
 **Conteúdos utilizados das lições anteriores**
