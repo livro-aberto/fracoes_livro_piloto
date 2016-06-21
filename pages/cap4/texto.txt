@@ -85,10 +85,6 @@
 ===== - Atividade =====
 {{page>cap4:secoes:comparacao}}
 
-{{anchor:equivalencia_cinco_tres}}
-===== - Atividade =====
-{{page>cap4:secoes:equivalencia_cinco_tres}}
-
 
 {{anchor:equivalencia_panquecas}}
 ===== - Atividade =====
@@ -123,6 +119,10 @@
 {{anchor:equivalencia_fracoes_unitarias}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_fracoes_unitarias}}
+
+{{anchor:equivalencia_cinco_tres}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_cinco_tres}}
 
 {{anchor:equivalencia_existe}}
 ===== - Atividade =====
