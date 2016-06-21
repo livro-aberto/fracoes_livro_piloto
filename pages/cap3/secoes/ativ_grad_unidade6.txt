@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Para cada par de figuras a seguir, há uma reta numérica. Ligue as figuras aos números correspondentes, destacados na reta numérica.
+Para cada par de figuras a seguir, há uma reta numérica. Considerando a região colorida, ligue as figuras aos números correspondentes, destacados na reta numérica.
 
 {{:cap3:secoes:fracoes_e_retas2.jpg|}}
 
