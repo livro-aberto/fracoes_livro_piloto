@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap5:texto#renomear13]]
+Ir para [[cap5:texto#canteiro]]
 ;;#
 
 <hidden Para o professor>
