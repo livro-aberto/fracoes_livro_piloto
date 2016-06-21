@@ -23,7 +23,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 {{ :undefined:unidade_em_quintos.png?300 |}}
 
 
-(a) No desenho, estão cinco faixas como essa, uma acima da outra e alinhadas à esquerda. Escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$. 
+(a) No desenho, estão cinco faixas como essa, uma acima da outra e alinhadas à esquerda. Considerando a região colorida em cada uma das faixas, escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$. 
 
 {{ :cap3:secoes:quintos.png?300 |}}
 
