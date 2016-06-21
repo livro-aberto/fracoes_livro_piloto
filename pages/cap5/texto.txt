@@ -51,7 +51,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear10}}
-{{page>cap5:ativ:10renomear}}
+{{page>cap5:ativ:sete_e_dois_tercos}}
 
 
 ===== - Atividade =====
