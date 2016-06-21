@@ -9,31 +9,29 @@
 
 \\
 **Conteúdos da lição:** 
-      * Multiplicação de número natural por fração - sustentando o sginificado de adição de parcelas iguais.
-      * Multiplicação de uma fração por um número natural - sutentando o significado de ampliaçao e de redução.
+      * Multiplicação de número natural por fração - sustentando o significado de adição de parcelas iguais.
+      * Multiplicação de uma fração por um número natural - sutentando os significados de ampliaçao e de redução.
 
 OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado àa multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
 
-OBS: Recomenda-se que, como na seçào anterior, sejam usados como recurso didático o modelo de blocos para representar e ilusrar o processo operatório. 
+OBS: Recomenda-se que, como na seção anterior, sejam usados como recurso didático o modelo de blocos para representar e ilustrar o processo operatório. 
 
 \\
 **Esqueleto da lição:**
 
-Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicaçào não deve ser explicitamente sugerida no texto.
-
-Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
-
-Ressaltar que a forma como as frações $\frac{a}{b}$ foram construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exemplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
+  - Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicação não deve ser explicitamente sugerida no texto.
+  - Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
+  - Ressaltar que a forma como as frações $\frac{a}{b}$ foram construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exemplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
 
 
 \\
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
-  * Atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$) de "alguma coisa". Nesse contexto, cabe explorar a ideia de multilicação implícita nas expressões "fração de". 
+  * Atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$) de "alguma coisa". Nesse contexto, cabe explorar a ideia de multiplicação implícita nas expressões "fração de". 
   * Abordar a multiplicação por 1.
-  * Ainda não serão tratados conjuntos discretos. (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio)
-  * Devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
+  * Ainda não serão tratados conjuntos discretos (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio).
+  * Nesta seção, devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda nem artificial.
 
 
@@ -44,18 +42,18 @@ Destacar, para o professor,:
   * Lembrar que não são objetivos desta seção a multiplicação de fração por fração nem as propriedades da multiplicação.
 
 Para o aluno:
-  * Organizar o texto ressaltando a importância de se determinar os significados da multiplicaçào tratados na seção, procurando o apoio em exemplos e em representações pictóricas.
+  * Organizar o texto ressaltando a importância de se determinar os significados da multiplicaçào tratados na seção, procurando o apoio em exemplos e em representações em modelos diversos e, em particular, no modelo de barras.
   * Registrar a multiplicação por 1.
 
 
 \\
 **MÃO NA MASSA**
 
-Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais. Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos\\
+Nesta seção, as atividades têm um caráter pedagógico diferente das iniciais: Passam a usar os conceitos construídos visando fixação, aprofundamentos e desdobramentos\\
 
-  * Ampliar a realizaçào da operação de multiplicaçào a aprtir de problemas sustentados por representações genéricas da unidade a partir de figuras.\\
-  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação. 
-  * Seria muito bem vinda a incusão de um jogo.
+  * Ampliar a realização da operação de multiplicaçào a partir de problemas sustentados por representações genéricas da unidade - Amparar a abordagem por modelos contínuos e figuras.
+  * É importante que, nesta seção, sejam também contempladas atividades de simples aplicação de estratégias de cálculo, sem que haja uma situação contextual envolvida. 
+  * Seria muito bem vinda a inclusão de um jogo.
 
 
 \\
