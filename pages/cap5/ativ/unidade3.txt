@@ -28,8 +28,8 @@ $$\frac{3}{8} - \frac{1}{6} = \frac{9}{24} - \frac{4}{24} = \frac{5}{24}$$
 
 Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **24 fatias** iguais. Amanda comeu $\frac{5}{12}$ de uma pizza, Bruno comeu $\frac{1}{6}$ de outra, e Caio comeu $\frac{3}{8}$ da pizza que pediu.
 <WRAP imagem> figura geométrica
-| {{:cap5:ativ:circulo_azul.png?300|}} | {{:cap5:ativ:circulo_marrom.png?300|}} | {{:cap5:ativ:circulo_verde.png?300|}} |
-|Fração de pizza consumida por Amanda $\frac{5}{12}$  |Fração de pizza consumida por Bruno $\frac{1}{6}$  | Fração de pizza consumida por Caio $\frac{3}{8}$ |
+| {{:cap5:ativ:circulo_azul.png?200}}                  | {{:cap5:ativ:circulo_marrom.png?200}}              | {{:cap5:ativ:circulo_verde.png?200}}              |
+| Fração de pizza consumida por Amanda $\frac{5}{12}$  | Fração de pizza consumida por Bruno $\frac{1}{6}$  | Fração de pizza consumida por Caio $\frac{3}{8}$  |
 </WRAP>
 
 Lembremos que todas as pizzas estão inicialmente divididas em 24 fatias do mesmo tamanho. Neste caso, podemos considerar que a **fatia da pizza é uma subunidade de medida comum**, pois é possível observar a fração que cada um comeu a partir do número de fatias. Com base nessa ideia, responda às questões a seguir.
