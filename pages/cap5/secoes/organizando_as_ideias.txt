@@ -15,5 +15,8 @@ Como o exemplo acima ilustra, escrever diferentes frações a partir de uma subu
 
 $$\frac{5}{12} + \frac{3}{8} = \frac{10}{24} + \frac{9}{24} = \frac{19}{24}.$$
 
+<hidden Comentários>
+  * Na expressão "Na Atividade 2 temos que a unidade é a barra de chocolate e a subunidade é o pedaço de chocolate", o pedaço de chocolate precisa ser identificado, não é qualquer pedaço. Observação análoga vale para as fatias de pizza.
 
+<\hidden>
 
