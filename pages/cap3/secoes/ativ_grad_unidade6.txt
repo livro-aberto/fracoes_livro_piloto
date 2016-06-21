@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Para cada par de figuras a seguir, há uma reta numérica. Ligue as figuras aos números destacados na reta.
+Para cada par de figuras a seguir, há uma reta numérica. Ligue as figuras aos números correspondentes, destacados na reta numérica.
 
 {{:cap3:secoes:fracoes_e_retas2.jpg|}}
 
@@ -29,16 +29,17 @@ observar a sequência 1, 2, 3 e 4 nesta ilustração.
 </hidden>
 
 
-Para cada trio abaixo,  (a) (b) ( c), (d) (e) (f) faça a associação com as frações correspondentes em cada reta numérica. Justifique cada escolha para representação.
+Agira são trios de figuras. Ligue as figuras aos números correspondentes, destacados na reta numérica.
+
 
 {{:cap3:secoes:fracoes_e_retas2_extras.jpg|}}
 
 <hidden Para o ilustrador>
-nomear como (a) (b) ( c)  as tres primeiras e neste caso embaralhar a ordem.
+nomear como (a) (b) (c) as três primeiras e neste caso embaralhar a ordem.
 
-nomear como (d) (e) (f) para as três últimas e embaralhar.
+nomear como (d) (e) (f) as três últimas e embaralhar.
 
-O quadrado das figuras (d) (e) (f) devem ter mesmo tamanho nas figuras (c) (d)
+Os quadrados das figuras (d),(e) e (f) devem ter o mesmo tamanho nas figuras (c) (d)
 </hidden>
 
 
