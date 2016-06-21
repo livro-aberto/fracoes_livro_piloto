@@ -1,0 +1,31 @@
+;;#
+Ir para [[cap5:texto#mesma_subunidade]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+ Diferentemente das atividades anteriores (em que a subunidade era dada) nesta atividade o aluno é solicitado a encontrar a subunidade comum entre as unidades operadas. Além disso, é proposta a discussão sobre a não unicidade da subunidade comum. Como nas atividades anteriores e nas próximas desta lição, o uso obrigatório do MMC não é recomendado. Ao contrário, objetiva-se justamente provocar explicitamente a percepção de que **essa subunidade não é única**. Assim, podem ser apresentadas, por exemplo, as seguintes frações equivalentes às frações dadas na atividade:
+$$\frac{6}{10} \,{\rm e} \, \frac{7}{10}$$
+$$\frac{12}{20} \,{\rm e} \, \frac{14}{20}$$
+$$\frac{24}{40} \,{\rm e} \, \frac{28}{40}$$
+
+A partir dessas diferentes frações equivalentes, o professor deve procurar **articular com os estudantes a relação entre diferentes subunidades com a sistematização de frações equivalentes**. Deve-se retomar a reflexão iniciada na sessão Organizando as Ideias de que escrever quantidades em relação a uma subunidade comum corresponde a determinar frações equivalentes com um denominador comum.
+</WRAP>
+</hidden>
+
+As frações $\frac{3}{5}$ e  $\frac{7}{10}$ estão representadas nas figuras a seguir. 
+<WRAP imagem> figura geométrica
+{{:cap5:ativ:retanguloa.png?300}} 
+
+</WRAP>
+
+  - Encontre uma subunidade de medida comum para as duas frações indicadas. Exiba geometricamente essa subunidade. Se desejar, use as figuras acima.
+  - Reescreva as frações $\frac{3}{5}$ e $\frac{7}{10}$ a partir dessa subunidade.
+  - Há somente uma subunidade comum possível para essas duas frações?
+  - Que fração do retângulo teremos se juntarmos as quantidades representadas em vermelho e em amarelo?
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
