@@ -37,5 +37,7 @@ Resolução da atividade.
 
 
 <hidden Comentários>
-LET(21/06/2016): se um recipiente tem o dobro da capacidade do outro, não é imediato decidir qual tem maior capacidade?
+LET(21/06/2016): 
+  * Se um recipiente tem cerca de o dobro da capacidade do outro, não é imediato decidir qual tem maior capacidade?
+  * Fiquei com outra dúvida: Como diferenciar, para a criança, as ideias de unidade comum, subunidade comum e unidade? 
 </hidden>
