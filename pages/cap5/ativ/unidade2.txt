@@ -5,32 +5,32 @@ Ir para [[cap5:texto#unidade2]]
 <hidden Para o professor>
 
 <WRAP professor>
+Esta atividade tem por objetivo apresentar a comparação de frações a partir de uma subunidade comum. Essa comparação envolve a determinação de uma **medida** baseado em um **processo de dupla contagem**, no qual estão envolvidas
+  * **uma unidade** (no caso, a barra de chocolate), com base na qual são contadas quantidades inteiras;
+  * **uma subunidade**, obtida pela subdivisão dessa unidade em partes iguais (no caso, cada "pedaço de chocolate" de $\frac{1}{16}$ da unidade), cuja contagem permite **medir** quantidades menores que a unidade.
 
-Essa atividade visa destacar que a constituição de uma unidade em quantidades fracionarias será chamada de subunidade. Isso acontece porque já chamamos de unidade a parte inteira da fração. Essa subunidade será a medida comum para as frações que se deseja operar. Daí, chamar atenção de que o pedaço de chocolate será uma subunidade porque a partir dele conseguimos mensurar as duas frações.  
-Discussões sobre os itens
-  - Exercício de identificação geométrica de fração. Espera-se como resposta 1/16. 
-  - Esse exercício permite resgatar atividade de frações equivalentes, de forma análoga as realizadas na lição 4. Observe que aqui há uma recontagem das frações a partir da subunidade pedaço de chocolate. Aqui a fração equivalente indica a recontagem da fração ½ a partir da subunidade 1/16. 
-  - Nesse item trabalha-se com o significado de "juntar" em relação a operação de adição. Aqui pretende-se que o professor tenha a possibilidade de sistematizar a adição de modo a tomar como apoio a resposta dos alunos dadas por observações visuais. Isto é, o estudante pode dizer que juntos Maria e João comeram 11 pedaços e depois identifica-los como 11/16 da barra de chocolate (e dessa forma intuitiva que pode ser encaminhada a discussão, caso os alunos não consigam uma resposta inicial); então o professor terá a possibilidade de apresentar de forma sistemática  . Sugerimos que não se aborde mmc, apoie nas frações equivalentes do item anterior para apresentar a igualdade acima. 
-  - Esse item pode ser encaminhado de forma análoga ao anterior. Especificamente aqui pode se retomar que 1 = n/n, como discutido na lição anterior, daí apresentar  .
+Neste sentido, a fração $\frac{3}{16}$, por exemplo, expressa a medida de uma fração da barra de chocolate, obtida pela contagem de 3 pedaços de $\frac{1}{16}$ da unidade.
 
+Esta atividade visa uma primeira familiarização com esse processo de dupla contagem. A subunidade já é dada, e ainda não é pedida a sua determinação pelo aluno, o que será objetivo das próximas atividades.
+  - Este item visa à identificação geométrica de fração da unidade que terá o papel de subunidade. Espera-se  $\frac{1}{16}$ como resposta.
+  - Este item permite resgatar atividades sobre frações equivalentes, como aquelas realizadas na lição 4. Observe que aqui há uma recontagem das frações a partir da subunidade "pedaço de chocolate". Aqui a fração equivalente indica a recontagem da fração  $\frac{1}{2}$ a partir da subunidade  $\frac{1}{16}$.
+  - Neste item, trabalha-se com a interpretação de adição como "juntar". Aqui pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identificá-los como  $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subunidade comum:  $\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} =\frac{11}{16}$.
+  - Este item pode ser encaminhado de forma análoga ao anterior. Especificamente aqui pode se retomar a ideia de que $1 = \frac{n}{n}$, discutida na lição anterior, daí apresentar $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
 </WRAP>
-
 </hidden>
 
-A reescrita de uma fração a partir de determinada subunidade implicará na escrita de uma fração equivalente. Desse modo, a determinação de frações equivalentes poderá nortear nosso processo de realização de cálculos de soma e diferença. No entanto, nessa lição, temos por objetivo não perder de vista a finalidade desse processo, de modo a constantemente chamar a atenção para subunidade em questão. 
-
-Uma barra de chocolate é vendida em 16 pedaços. 
- 
-
-Maria comeu a metade dessa barra de chocolate (em amarelo), e João comeu 3 dos pedaços (em verde). 
- 
-Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são:   por Maria e  por João.
-Observe que ambas as frações da barra de chocolate comidas por Maria e João podem ser obtidas a partir de um pedaço. Por exemplo, Maria comeu 8 pedaços e João comeu 3 pedaços. Por isso o pedaço é a subunidade de medida comum. 
-
-  - Um pedaço (a subunidade) indica que fração da barra de chocolate?
-  - Complete a parte em branco (numerador) para indicar, a partir da subunidade, a fração da barra de chocolate que Maria comeu. 
-  - Qual a fração do chocolate foi comida por Maria e João juntos?
-  - Qual a fração da barra de chocolate que não foi comida?  
-
-
+Uma barra de chocolate é vendida em 16 pedaços.
+<WRAP imagem> figura artística
+{{ :cap5:ativ:chocolate_16_pedacos.png?300 |}}
+</WRAP>
+Alice comeu a metade dessa barra de chocolate (em amarelo), e Miguel comeu 3 dos pedaços (em verde).
+<WRAP imagem> figura geométrica
+{{ :cap5:ativ:chocolate_geometrico.png?300 |}}
+</WRAP>
+Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são: $\frac{1}{2}$ por Alice e $\frac{3}{16}$ por Miguel.
+Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir de um pedaço. Por exemplo, __Alice comeu 8 pedaços__ e __Miguel comeu 3 pedaços__. Por isso o **pedaço é a subunidade de medida comum** entre as quantidades de chocolate comidas por Alice e por Miguel.
+  - Um pedaço (a subunidade) corresponde a que fração da barra de chocolate?
+  - Complete a parte em branco (numerador) para indicar, a partir da subunidade, a fração da barra de chocolate que Alice comeu. 
+  - Qual a fração do chocolate foi comida por Alice e Miguel juntos?
+  - Qual a fração da barra de chocolate que não foi comida?
 
