@@ -19,27 +19,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Para cada par de figuras a seguir, há uma reta numérica. Considerando a região colorida, ligue as figuras aos números correspondentes, destacados na reta numérica.
+Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida, ligue as figuras aos números correspondentes, destacados na reta numérica.
 
-{{:cap3:secoes:fracoes_e_retas2.jpg|}}
+{{ :undefined:retasgrad1.jpg?200 |}} {{ :cap3:secoes:retasgrad2.jpg?200 |}}
+
 
 <hidden Para o ilustrador>
-observar a sequência 1, 2, 3 e 4 nesta ilustração.
-
-</hidden>
-
-
-Agira são trios de figuras. Ligue as figuras aos números correspondentes, destacados na reta numérica.
-
-
-{{:cap3:secoes:fracoes_e_retas2_extras.jpg|}}
-
-<hidden Para o ilustrador>
-nomear como (a) (b) (c) as três primeiras e neste caso embaralhar a ordem.
-
-nomear como (d) (e) (f) as três últimas e embaralhar.
-
-Os quadrados das figuras (d),(e) e (f) devem ter o mesmo tamanho nas figuras (c) (d)
+Em cada par ou trio, as figuras devem ser congruentes. Podem ser usadas cores diferentes em cada par ou trio.
 </hidden>
 
 
