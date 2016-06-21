@@ -8,7 +8,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * A discussão do exercício pode incluir o uso de outras estratégias, que não a igualdade de frações, para se estabelecer a comparação das frações apresentadas. 
+  * A discussão da atividade pode incluir o uso de outras estratégias, que não a igualdade de frações, para se estabelecer a comparação das frações apresentadas. 
 </WRAP>
 
 Para cada par de frações ma mesma linha da tabela a seguir, determine frações de mesmo denominador que sejam iguais a cada uma das frações dadas. Em seguida, compare essas frações, preenchendo a coluna em branco, com um dos símbolos "$>$", "$<$" ou "$=$", de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira. Vamos fazer o Item (A) juntos: observe que
