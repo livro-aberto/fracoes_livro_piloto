@@ -8,7 +8,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * É possível saber ordenar  é menor tomando-se duas frações por vez. 
+  * Sugere-se que seja observado para os alunos que o procedimento descrito nesta atividade para ordenar três frações pode ser aplicado para um número arbitrário de frações.
 </WRAP>
 
 O objetivo desta atividade é determinar qual é a maior e qual é a menor fração entre
