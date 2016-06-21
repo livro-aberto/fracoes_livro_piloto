@@ -33,17 +33,50 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 {{anchor:renomear5}}
 {{page>cap5:ativ:_5renomear}}
 
-{{anchor:refletindo}}
-{{page>cap5:secoes:refletindo}}
 
 ===== - Atividade =====
-{{anchor:renomear7}}
-{{page>cap5:ativ:7renomear}}
+{{anchor:renomear6}}
+{{page>cap5:ativ:6renomear}}
 
-====== QUEBRANDO A CUCA ======
-
-Esta seção inclui exercícios que são desafios, atividades que levem a um aprofundamento da visão do estudante sobre o conteúdo, etc. Aqui também pode-se incluir seções Refletindo.
 
 ===== - Atividade =====
 {{anchor:renomear8}}
-{{page>cap5:ativ:renomear8}}
+{{page>cap5:ativ:8renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear9}}
+{{page>cap5:ativ:9renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear10}}
+{{page>cap5:ativ:10renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear11}}
+{{page>cap5:ativ:11renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear12}}
+{{page>cap5:ativ:12renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear13}}
+{{page>cap5:ativ:13renomear}}
+
+
+===== - Atividade =====
+{{anchor:renomear14}}
+{{page>cap5:ativ:14renomear}}
+
+
+====== QUEBRANDO A CUCA ======
+
+
+===== - Atividade =====
+{{anchor:renomear15}}
+{{page>cap5:ativ:renomear15}}
