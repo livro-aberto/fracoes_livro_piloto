@@ -34,3 +34,8 @@ Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, respo
 Resolução da atividade. 
 </WRAP>
 </hidden>
+
+
+<hidden Comentários>
+LET(21/06/2016): se um recipiente tem o dobro da capacidade do outro, não é imediato decidir qual tem maior capacidade?
+</hidden>
