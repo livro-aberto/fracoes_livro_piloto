@@ -4,21 +4,43 @@ Ir para [[cap4:texto#equivalencia_multiplicar_cruzado]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber que se $a \cdot d = b \cdot c$, com $b \not = 0$ e $d \not = 0$, então as frações $\frac{a}{b}$ e $\frac{c}{d}$ são iguais (equivalentes).
+  * Verificar que se $a \cdot d = b \cdot c$, com $b \not = 0$ e $d \not = 0$, então as frações $\frac{a}{b}$ e $\frac{c}{d}$ são iguais (equivalentes).
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Note que para as frações usadas no exemplo e no Item (A), os numeradores e denominadores de uma fração não são múltiplos inteiros dos numeradores e denominadores da outra fração.
 </WRAP>
 
-Dadas duas frações, se o produto do numerador da primeira fração pelo denominador da segunda fração for igual ao produto do denominador da primeira fração pelo numerador da segunda fração, então as frações iguais. Vamos ver um exemplo: para as frações $\frac{14}{6}$ e $\frac{21}{9}$. Note que  $14 \times 9 = 126 = 6 \times 21$. Desta maneira,
+Dadas duas frações, se o produto do numerador da primeira fração pelo denominador da segunda fração for igual ao produto do denominador da primeira fração pelo numerador da segunda fração, então as frações são iguais. 
+
+Vamos ver um exemplo: para as frações $\frac{14}{6}$ e $\frac{21}{9}$, note que  $14 \times 9 = 126 = 6 \times 21$. Vamos agora usar este fato de que $14 \times 9 = 6 \times 21$
+para concluir que $\frac{14}{6} = \frac{21}{9}$:
 
 $
 \frac{14}{6} = \frac{9 \times 14}{9 \times 6} = \frac{14 \times 9}{9 \times 6} = \frac{6 \times 21}{9 \times 6} = \frac{6 \times 21}{6 \times 9} = \frac{21}{9}.
 $
 
-(A) Use a técnica descrita no exemplo para mostrar que $\frac{2}{8} = \frac{5}{20}$.
+(A) Use o procedimento do exemplo para mostrar que $\frac{2}{8} = \frac{5}{20}$.
 
 (B) Verdadeirou ou falso? Se duas frações são iguais, então o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração. Justifique sua resposta.
 
+<WRAP resposta>
+(A) Para as frações $\frac{2}{8}$ e $\frac{5}{20}$, tem-se que  $2 \times 20 = 40 = 8 \times 5$. Agora,
 
-<hidden Comentário - a ser apagado>
+$
+\frac{2}{8} = \frac{20 \times 2}{20 \times 8} = \frac{2 \times 20}{20 \times 8} = \frac{8 \times 5}{20 \times 8} = \frac{8 \times 5}{8 \times 20} = \frac{5}{20}.
+$
+
+(B) A afirmação é verdadeira. Ao se multiplicar o numerador e o denominador da primeira fração pelo denominador da segunda fração obtém-se uma fração de igual valor cujo numerador é o produto do numerador da primeira fração pelo denominador da segunda fração e cujo denominador é o produto do numerador da primeira fração pelo denominador da segunda fração. Do mesmo modo, 
+Ao se multiplicar o numerador e o denominador da segunda fração pelo denominador da primeira fração obtém-se uma fração de igual valor cujo numerador é igual ao denominador da primeira fração multiplicado pelo numerador da segunda fração e cujo denominador é o produto do denominadora da primeira fração pelo denominador da segunda fração. Como as frações iniciais são iguais, estas novas frações também são iguais e têm o mesmo denominador. Portanto, seus numeradores devem ser iguais, isto é, o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração.
+</WRAP>
+
+<hidden Comentário - a ser apagado (com réplica do Humberto)>
+Humberto:
+(iii) Pois é, precisamos decidir como estamos pensando a distribuição do conteúdo ao longo das séries. Será que no Ensino Fundamental I não ficariam apenas as 3 primeiras lições, sendo esta colocada já no Ensino Fundamental II? Ou não vamos escrever para o Ensino Fundamental II? Como achei uma propriedade importante, escrevi esta atividade. Vou deixá-la aqui para reconsideração, mas caso achem que ela está realmente difícil, podemos removê-la. 
+(v) Mudei "perceber" para "verificar". Quando coloquei "perceber", foi "perceber" do sentido do aluno, talvez, perceber que o procedimento descrito para o exemplo particular, de fato, é um exemplo que contém a essência de uma demonstração que funciona para qualquer outro par de frações que satisfazem a hipótese da propriedade.
+
+Letícia:
 (i) Sugiro substituir o "Desta maneira" por "Essa igualdade também pode ser observada por".
 
 (ii) No item (ii), a que técnica a que se refere é a de multiplicar os termos? Acho que isso tem que ficar explícito. Afnal, no exemplo, a igualdade é observada por dois caminhos.
