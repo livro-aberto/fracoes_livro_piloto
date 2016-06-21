@@ -46,7 +46,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear9}}
-{{page>cap5:ativ:9renomear}}
+{{page>cap5:ativ:a_para_chegar_em_b}}
 
 
 ===== - Atividade =====
