@@ -69,12 +69,7 @@ a) Em sua opinião, como essa numeração deveria ser feita:
 Incluir caso certo e casos errados.
 b) Que outras frações Fulana pode marcar nessa nessa faixa?*/
 
-
-Livro canadense tem boas inspirações:
-
-{{ :cap3:secoes:livro_canadense_1.jpg?300 |}}
-
-{{ :cap3:secoes:livro_canadense_2.jpg?300 |}}
+O livro canadense tem boas inspirações.
 
 
 Atividade 2: Atividade de revisão que visa resgatar a equipartição e a representação simbólica em um modelo que também remeta à reta. 
