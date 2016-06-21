@@ -1,0 +1,19 @@
+;;#
+Ir para [[cap5:texto#a_para_chegar_em_b]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Esta atividade envolve a associação de frações a pontos na reta. 
+Em etapas escolares futuras, a associação entre essas duas formas de representação será fundamental para a consolidação do conceito de número racional. 
+Essas atividades usam a ideia de que $1 = \frac{n}{n}$, ou de forma mais geral, de que, se $a$ é um número natural, então $a = \frac{an}{n}$ qualquer que seja $n \neq 0$.
+Essas atividades envolvem os chamados "números mistos" (números expressos por uma parte inteira e uma parte fracionária). No entanto, não há necessidade de apresentar essa nomenclatura aos alunos.</WRAP>
+</hidden>
+
+Qual é a parte inteira devemos acrescentar a $\frac{3}{8}$ para obter $\frac{27}{8}$?
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
