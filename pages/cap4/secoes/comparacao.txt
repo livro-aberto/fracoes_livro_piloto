@@ -5,6 +5,10 @@ Ir para [[cap4:texto#comparacao]]
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar uma fração com uma outra fração determinada a partir da alteração dos termos (numerador ou denominador) da primeira fração a partir de somas e multiplicações por números naturais.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Enquanto que esta atividade usa a fração $\frac{4}{7}$ como referência, a discussão da atividade com os alunos pode incluir a questão se as conclusões obtidas para $\frac{4}{7}$ mudam se a fração de referência mudar. Neste contexto, o Item (D) é especialmente interessante pois, neste caso, a conclusão (se a fração ficará menor, maior ou igual a fração original) de fato dependerá se a fração original é maior, menor ou igual a $1$.
 </WRAP>
 
 Responda às seguintes questões: 
