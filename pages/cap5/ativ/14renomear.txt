@@ -1,0 +1,23 @@
+;;#
+Ir para [[cap5:texto#renomear14]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Esta atividade retoma a noção de fração como parte de uma unidade em situações concretas. Além disso, envolvem as interpretações de adição como juntar e comparar.
+</WRAP>
+</hidden>
+
+Há três garradas de água com o mesmo tamanho. Na primeira garrafa, a água ocupa dois terços de sua capacidade. Na segunda garrafa, a água ocupa metade de sua capacidade. Na terceira garrafa, a água ocupa cinco oitavos de sua capacidade. 
+<WRAP imagem>
+figura artística
+
+{{ :cap5:ativ:garrafas.png?400 |}}
+</WRAP>
+
+É possível redistribuir a água de todos os recipientes em somente duas garrafas?
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
