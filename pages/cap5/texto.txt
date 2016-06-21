@@ -79,4 +79,4 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear15}}
-{{page>cap5:ativ:renomear15}}
+{{page>cap5:ativ:verd_falso}}
