@@ -71,7 +71,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear14}}
-{{page>cap5:ativ:14renomear}}
+{{page>cap5:ativ:garrafas_tres_duas}}
 
 
 ====== QUEBRANDO A CUCA ======
