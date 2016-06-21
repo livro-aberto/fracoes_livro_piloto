@@ -36,7 +36,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear6}}
-{{page>cap5:ativ:6renomear}}
+{{page>cap5:ativ:calcule}}
 
 
 ===== - Atividade =====
