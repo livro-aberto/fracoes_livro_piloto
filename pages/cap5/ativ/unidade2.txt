@@ -34,3 +34,9 @@ Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel 
   - Qual a fração do chocolate foi comida por Alice e Miguel juntos?
   - Qual a fração da barra de chocolate que não foi comida?
 
+<hidden comentários>
+Let (21/06/2016)
+  * Para o ennciado, sugiro: Uma barra de chocolate vem com uma divisão em 16 pedaços, como ilustra a figura:
+  * Será que o luno vai entender "subunidade"?
+
+</hidden>
