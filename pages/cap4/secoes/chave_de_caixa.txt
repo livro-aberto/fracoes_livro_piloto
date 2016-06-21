@@ -5,34 +5,31 @@ Ir para [[cap4:texto#chave_de_caixa]]
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Existem outros tipos de ferramentas cujas peças componentes também são identificadas por frações: brocas de furadeiras, chaves de boca e aperto, chaves biela, $\ldots$
+  * Recomenda-se que, caso seja viável, algumas destas ferramentas sejam levadas para sala de aula para conhecimento dos alunos.
 </WRAP>
 
-Os soquetes que são usados em chaves de caixa são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e no Reino Unido).
+A chave de caixa é uma ferramenta usada para apertar (ou afrouxar) porcas e parafusos. Ela consiste 
+de um braço no qual, em uma de suas extremidades, é possível acoplar soquetes de tamanhos variados.
+Estes soquetes são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e no Reino Unido).
 
-Na figura a seguir, identifique cada um dos soquetes pelas frações:
-$\frac{1}{2}$, 
-$\frac{3}{4}$,
-$\frac{3}{8}$
-$\frac{5}{8}$, 
-$\frac{7}{8}$, 
-$\frac{7}{16}$
-$\frac{9}{16}$, 
-$\frac{11}{16}$ e 
-$\frac{13}{16}$.
+Na figura a seguir, Observando o tamanho dos "soquetes" e associe cada um deles a uma das seguintes frações $\frac{1}{2}$, $\frac{3}{4}$, $\frac{3}{8}$, $\frac{5}{8}$, $\frac{7}{8}$, $\frac{7}{16}$, $\frac{9}{16}$, $\frac{11}{16}$ e $\frac{13}{16}$.
 
 {{ :cap4:secoes:chave-de-caixa.jpg?400 |}}
 
+<WRAP resposta>
+Uma vez que $\frac{1}{2} = \frac{8}{16}$, $\frac{3}{4} = \frac{12}{16}$, $\frac{3}{8} = \frac{6}{16}$, $\frac{5}{8} = \frac{10}{16}$ e $\frac{7}{8} = \frac{14}{16}$, os tamanhos dos soquetes são os seguintes:
 
-<hidden Comentário - a ser apagado>
-(i) Sugiro que o início seja:  Algumas ferramentas, como a ilustrada a seguir, são identificadas por frações que especificam seus tamanhos em polegadas (a polegada é uma unidade de medida de comprimento usada nos Estados Unidos e no Reino Unido).
-
-(ii) Se possível, incluir links que tragam imformações sobre essa tal ferramenta e sobre a unidade de medida polegada. 
-Outro recurso importante é identificar as peças apresentadas com os respectivos nomes. Assim, fica claro o que são os "soquetes".
-
-(iii) Observando o tamanho dos "soquetes" e associe cada um deles a uma das seguintes frações $\frac{1}{2}$, $\frac{3}{4}$, $\frac{3}{8}$, $\frac{5}{8}$, $\frac{7}{8}$, $\frac{7}{16}$, $\frac{9}{16}$, $\frac{11}{16}$ e $\frac{13}{16}$.
-
-(iv) Para facilitar a comunicação do professor com a turma, especialmente durante a correção da atividade, sugiro identificar os "soquetes" por letras. 
-
-(v) Uma questão pessoal: Eu não conhecia essas ferramentas... :| Nem imagino para que servem. rsrsrsrs
-
-</hidden>
+(A): $\frac{7}{8}$,
+(B): $\frac{13}{16}$,
+(C): $\frac{3}{4}$, 
+(D): $\frac{11}{16}$,
+(E): $\frac{5}{8}$,
+(F): $\frac{9}{16}$,
+(G): $\frac{1}{2}$,
+(H): $\frac{7}{16}$,
+(I): $\frac{3}{8}$.
+</WRAP>
