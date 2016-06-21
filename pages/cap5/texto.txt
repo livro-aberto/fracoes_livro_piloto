@@ -66,7 +66,7 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 ===== - Atividade =====
 {{anchor:renomear13}}
-{{page>cap5:ativ:13renomear}}
+{{page>cap5:ativ:canteiro}}
 
 
 ===== - Atividade =====
