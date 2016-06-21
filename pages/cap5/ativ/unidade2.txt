@@ -30,7 +30,7 @@ Alice comeu a metade dessa barra de chocolate (em amarelo), e Miguel comeu 3 dos
 Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são: $\frac{1}{2}$ por Alice e $\frac{3}{16}$ por Miguel.
 Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir de um pedaço. Por exemplo, __Alice comeu 8 pedaços__ e __Miguel comeu 3 pedaços__. Por isso o **pedaço é a subunidade de medida comum** entre as quantidades de chocolate comidas por Alice e por Miguel.
   - Um pedaço (a subunidade) corresponde a que fração da barra de chocolate?
-  - Complete a parte em branco (numerador) para indicar, a partir da subunidade, a fração da barra de chocolate que Alice comeu.\\ $$\frac{1}{2} = \frac{}{16}$$ 
+  - Complete a parte em branco (numerador) para indicar, a partir da subunidade, a fração da barra de chocolate que Alice comeu.\\ $$\frac{1}{2} = \frac{ }{16}$$ 
   - Qual a fração do chocolate foi comida por Alice e Miguel juntos?
   - Qual a fração da barra de chocolate que não foi comida?
 
