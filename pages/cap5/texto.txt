@@ -30,47 +30,47 @@
 Esta é a seção de exercícios da lição. Caso seja necessário incluir alguma observação adcional ao estudante como uma conclusão do que foi tratado em algumas atividades, crie uma página Refletindo em qualquer lugar entre as atividades da seção.
 
 ===== - Atividade =====
-{{anchor:renomear5}}
+{{anchor:mesma_subunidade}}
 {{page>cap5:ativ:mesma_subunidade}}
 
 
 ===== - Atividade =====
-{{anchor:renomear6}}
+{{anchor:calcule}}
 {{page>cap5:ativ:calcule}}
 
 
 ===== - Atividade =====
-{{anchor:renomear8}}
+{{anchor:reta_mais}}
 {{page>cap5:ativ:reta_mais}}
 
 
 ===== - Atividade =====
-{{anchor:renomear9}}
+{{anchor:a_para_chegar_em_b}}
 {{page>cap5:ativ:a_para_chegar_em_b}}
 
 
 ===== - Atividade =====
-{{anchor:renomear10}}
+{{anchor:sete_e_dois_tercos}}
 {{page>cap5:ativ:sete_e_dois_tercos}}
 
 
 ===== - Atividade =====
-{{anchor:renomear11}}
+{{anchor:dois_para_chegar_em}}
 {{page>cap5:ativ:dois_para_chegar_em}}
 
 
 ===== - Atividade =====
-{{anchor:renomear12}}
+{{anchor:reta_menos}}
 {{page>cap5:ativ:reta_menos}}
 
 
 ===== - Atividade =====
-{{anchor:renomear13}}
+{{anchor:canteiro}}
 {{page>cap5:ativ:canteiro}}
 
 
 ===== - Atividade =====
-{{anchor:renomear14}}
+{{anchor:garrafas_tres_duas}}
 {{page>cap5:ativ:garrafas_tres_duas}}
 
 
@@ -78,5 +78,5 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 
 
 ===== - Atividade =====
-{{anchor:renomear15}}
+{{anchor:verd_falso}}
 {{page>cap5:ativ:verd_falso}}
