@@ -117,10 +117,6 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_cinco_tres}}
 
-{{anchor:equivalencia_existe}}
-===== - Atividade =====
-{{page>cap4:secoes:equivalencia_existe}}
-
 {{anchor:equivalencia_fracoes_irredutiveis}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_fracoes_irredutiveis}}
