@@ -15,6 +15,9 @@ Nos itens b) e c), respectivamente, são trabalhadas as interpretações de //ju
 Miguel e Alice estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois esses recipientes serão destinados a empresas que usarão o óleo descartado para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
 
 <WRAP imagem>
+
+|  {{:cap5:ativ:garrafa_alice.png?100|}}   |  {{:cap5:ativ:garrafa_miguel.png?100|}}   |
+|Recipiente 1: proposto pela Alice | Recipiente 2: proposto pelo Miguel |
 Incluir imagens de dois recipientes de formatos bem diferentes, e mais ou menos um com o dobro da capacidade do outro.
 </WRAP>
 Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d’água como unidade de medida. 
