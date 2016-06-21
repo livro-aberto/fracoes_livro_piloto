@@ -1,0 +1,29 @@
+;;#
+Ir para [[cap5:texto#renomear8]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Esta atividade envolve a associação de frações a pontos na reta. 
+Em etapas escolares futuras, a associação entre essas duas formas de representação será fundamental para a consolidação do conceito de número racional. 
+Essas atividades usam a ideia de que $1 = \frac{n}{n}$, ou de forma mais geral, de que, se $a$ é um número natural, então $a = \frac{an}{n}$ qualquer que seja $n \neq 0$.
+Essas atividades envolvem os chamados "números mistos" (números expressos por uma parte inteira e uma parte fracionária). No entanto, não há necessidade de apresentar essa nomenclatura aos alunos.</WRAP>
+</hidden>
+
+{{ :cap5:ativ:reta_vertical1.png?100|}}
+Miguel deseja calcular a soma $s = 2 + \frac{1}{3}$ e inicialmente marcou na reta numérica o valor correspondente a $s$. Para fazer essa conta, Miguel desenhou duas retas, e usou a subunidade $\frac{1}{3}$, como na figura abaixo. 
+
+Miguel relacionou essa figura com o seguinte cálculo: 
+$$ 2 + \frac{1}{3} =  \frac{6}{3} + \frac{1}{3} = \frac{7}{3}$$
+{{ :cap5:ativ:reta_vertical2.png?300 |}}
+
+
+Realize o mesmo processo feito por Miguel em cada item abaixo, exibindo a subunidade na reta e o cálculo associado a soma.
+
+a. {{:cap5:ativ:reta_verticala.png?100|}} b. {{:cap5:ativ:reta_verticalb.png?100|}} c. {{:cap5:ativ:reta_verticalc.png?100|}}
+
+<hidden Resposta>
+<WRAP resposta>
+Resolução da atividade. 
+</WRAP>
+</hidden>
