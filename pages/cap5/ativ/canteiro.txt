@@ -19,3 +19,8 @@ Faça um desenho que ajude a explicar as suas respostas para as questões de Mig
 Resolução da atividade. 
 </WRAP>
 </hidden>
+
+<hidden Comentário>
+Let (21/06/2016): Nesta questão, a orientação ao professor é especialemnte importante. Perceber que a unidade e a "área resevada ao canteiro" pode não ser simples para a criança. Além disso, acho que (c) e (d) correspondem a um mesmo item, condicionado ao item (b). 
+
+</hidden>
