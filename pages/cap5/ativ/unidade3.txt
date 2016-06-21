@@ -48,3 +48,4 @@ LET(21/06/2016)
   * Na expressão: "...as frações a partir de um mesmo denominador corresponde a expressar as quantidades que elas representam em uma unidade de medida comum". As frações já estão expressa a partir de uma unidade comum, o 1. 
   * No item (c), "Coloque as frações 512512, 1616 ,3838 em ordem crescente, indicando qual das pessoas comeu menos, e qual comeu mais", que tal não dizer o caminho das pedras? Simplesmente perguntar quem comeu mais pizza?
   * Talvez aqui, em uma seção introdutória, as questões pudessem ser menos dirigidas, evolvendo mais reflexão. Por exemplo, a questão "Que fração de pizza teremos se retirarmos a quantidade consumida por Caio da quantidade consumida por Amanda?" não poderia ser "Quanta pizza Caio comeu a menos do que Amanda?"?
+</hidden>
