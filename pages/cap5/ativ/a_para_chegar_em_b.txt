@@ -17,3 +17,7 @@ Qual é a parte inteira devemos acrescentar a $\frac{3}{8}$ para obter $\frac{27
 Resolução da atividade. 
 </WRAP>
 </hidden>
+
+<hiddem Comentários>
+Let (21/06/2016): Creio que o aluno não vai entender a expressão "parte inteira" em "Qual é a parte inteira devemos acrescentar... "
+</hidden>
