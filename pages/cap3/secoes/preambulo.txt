@@ -35,6 +35,13 @@ Cydara: Cuidado! Medida presspõe número,  e é precisamente isso o que se quer
 
 Lição 3: Linguagem, representação simbólica, representação na reta numérica e ordenação das frações a/b.
 
+\\Algumas referências para o entendimento da reta numérica:
+
+"**The number line is a representation of numbers on a straight line** where points represent integers or real numbers and the distance between points matches the arithmetical difference between the corresponding numbers. [...] Having defined the number line as a representation, it should be understood as a model for reasoning, teaching and understanding concepts and properties in mathematics." (Albrecht Heeffer).
+
+Para Wu, número é ponto na reta: 
+
+
 **Conteúdos utilizados das lições anteriores**
     - Equipartição;
     - Frações não necessariamente unitárias;
