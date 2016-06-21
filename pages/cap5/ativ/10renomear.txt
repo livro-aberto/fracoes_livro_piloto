@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap5:texto#renomear10]]
+Ir para [[cap5:texto#sete_e_dois_tercos]]
 ;;#
 
 <hidden Para o professor>
