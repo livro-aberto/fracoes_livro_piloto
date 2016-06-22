@@ -4,10 +4,15 @@ Ir para [[cap4:texto#equivalencia_fracoes_diferentes]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber se duas frações são diferentes ou não dependendo se seus numeradores e denominadores são ou não diferentes.
+  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Um resultado que pode ser comentado com os alunos, mas cuja a justificativa foge do escopo do Ensino Fundamental é o seguinte: se duas frações **irredutíveis** têm numeradores e denominadores diferentes, então elas são diferentes. A prova deste resultado usa o seguinte lema: se $b$, $c$ e $d$ são números naturais tais que $d$ divide $bc$ e o máximo divisor comum de $d$ e $c$ é 1, então $d$ divide $b$ (este lema, por sua vez, é consequência do Teorema Fundamental da Aritmética). Sejam $\frac{a}{b}$ e $\frac{c}{d}$ duas frações irredutíveis tais que $\frac{a}{b} = \frac{c}{d}$. Se $\frac{a}{b} = \frac{c}{d}$, então $ad = bc$. Logo, $d$ é divisor de $bc$. Pela lema, $d$ é divisor de $b$, uma vez que o máximo divisor comum de $d$ e $c$ é 1. Assim, existe natural $k$ tal que $b = kd$. Portanto, $ad = bc \Rightarrow akb = bc \Rightarrow ak = c$. Assim, $ad = bc \Rightarrow ad = bka \Rightarrow d = bk$. Mas, então, $k = 1$, de modo que $a = c$ e $b = d$.
+
 </WRAP>
 
-Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Justifique sua resposta.
+Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua resposta com exemplos, desenhos ou palavras.
 
 (A) Se duas frações têm numeradores e denominadores diferentes, então elas são diferentes.
 
@@ -15,13 +20,13 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Justifique sua 
 
 (C) Se duas frações têm numeradores iguais, mas denominadores diferentes, então elas são diferentes.
 
-(D) Se duas frações **irredutíveis** têm numeradores e denominadores diferentes, então elas são diferentes.
 
-<hidden Comentário - a ser apagado>
-(i) Sobre o objetivo da atividade, sugiro:
-Levar o aluno a
-  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes.
+<WRAP resposta>
+(A) A sentença é falsa, pois as frações $\frac{1}{2}$ e $\frac{3}{6}$ têm numeradores e denominadores diferentes, mas elas são iguais uma vez que $\frac{1}{2} = \frac{3 \times 1}{3 \times 2} = \frac{3}{6}$.
 
-(ii) sbre o enunciado, sugiro: Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua resposta com exemplos, desenhos ou palavras.
+(B) A senteça é verdadeira: se duas frações têm denominadores iguais, é maior a fração que tem o maior numerador e, em particular, elas são diferentes. De fato: lembrando que o denominador de fração especifica o número de partes em que a unidade foi dividida e o numerador especifica quantas cópias desta parte foram tomadas, para um mesmo denominador, quanto maior o numerador, mais cópias são tomadas e, portanto, maior é a quantidade representada pela fração.
 
-</hidden>
+(C) A senteça é verdadeira: se duas frações têm numeradores iguais, é maior a fração que tem o menor denominador e, em particular, elas são diferentes. De fato: considerando que o numerador especifica o número de cópias da unidade que está sendo dividido por um número de pessoas, número este especificado pelo denominador da fração, para um mesmo numerador, quanto menor o denominador, maior a porção que cada pessoa vai receber, quantidade esta representada pela fr4ação, pois o mesmo número de cópias da unidade está sendo divivido por um número menor de pessoas.
+
+
+</WRAP>
