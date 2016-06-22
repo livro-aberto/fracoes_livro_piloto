@@ -35,11 +35,3 @@ Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, respo
 Resolução da atividade. 
 </WRAP>
 </hidden>
-
-
-<hidden Comentários>
-LET(21/06/2016): 
-  * Se um recipiente tem cerca de o dobro da capacidade do outro, não é imediato decidir qual tem maior capacidade? 
-  * Mais uma coisinha, o copo poderia não caber uma quantidade inteira de vezes em cada recipiente. Sugiro não usar a palavra precisamente. 
-  * Fiquei com outra dúvida: Como diferenciar, para a criança, as ideias de unidade comum, subunidade comum e unidade? 
-</hidden>
