@@ -31,12 +31,3 @@ Resolução da atividade.
 </WRAP>
 </hidden>
 
-
-<hidden Comentários>
-LET (21/06/2016)
-  * O que se quer com "Determinar seis diferentes valores possíveis para um ponto M entre C e D"? Se forem, de fato, seis números diferentes sugiro: Determine seis números que correspondam a pontos entre C e D. Como está, para a criança, pode sugerir que a um mesmo ponto, no caso M, podem ser associados mais do que um número. 
-  * Rever o uso das expressões "distância entre C e D" e "tamanho do segmento CD". É importante ter unidade na nomenclatura. 
-  * O aluno vai entender esta expressão: "Determinar quatro valores possíveis para uma fração $\frac{n}{m}$ de modo que $\frac{5}{4}+ \frac{n}{m}< \frac{11}{6}$." 
-  * O mesmo para o item (e).
-
-</hidden>
