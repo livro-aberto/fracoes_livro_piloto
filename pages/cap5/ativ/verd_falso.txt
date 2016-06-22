@@ -19,9 +19,3 @@ Diga se as afirmações a seguir são verdadeiras ou falsas. Dê exemplos para i
 Resolução da atividade. 
 </WRAP>
 </hidden>
-
-
-<hidden Comentários>
-Let (21/06/2016): Creio que a expressão "fração inteira" nova no material. Rever o uso ou avaliar inclusão em seção anterior.
-</hidden>
-
