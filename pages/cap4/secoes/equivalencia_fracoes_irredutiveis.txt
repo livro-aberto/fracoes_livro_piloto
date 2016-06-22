@@ -9,7 +9,7 @@ Objetivo específico: Levar o aluno a
 
 Dizemos que uma fração é **irredutível** se o máximo divisor comum entre o seu numerador e o seu denominador é igual a $1$. Determine frações irredutíveis que sejam, respectivamente, iguais às frações dadas a seguir.
 
-$\frac{5}{35}$, $\frac{6}{9}$, $\frac{50}{100}$.
+$\frac{2}{4}$, $\frac{4}{2}$, $\frac{5}{35}$, $\frac{6}{9}$, $\frac{50}{100}$.
 
 <hidden Comentário - a ser apagado>
 (i) É imporante avaliar (ou recomendar ao rofessor a avaliação) sobre o alunos saber o que é o máximo divisor comum.
