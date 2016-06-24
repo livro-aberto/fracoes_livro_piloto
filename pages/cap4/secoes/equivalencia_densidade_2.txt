@@ -24,8 +24,8 @@ Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}
 e $\frac{4}{5} = \frac{2 \times 4}{2 \times 5} = \frac{8}{10}$. Portanto, $\frac{7}{10}$ é tal que $\frac{3}{5} < \frac{7}{10} < \frac{4}{5}$.
 
 (B) Note que $\frac{11}{10} = \frac{3 \times 11}{3 \times 10} = \frac{33}{30}$ 
-e $\frac{12}{10} = \frac{3 \times 12}{3 \times 10} = \frac{36}{30}$. Portanto, $\frac{34}{30}$ e $\frac{35}{30}$ são tais que tal que $\frac{11}{10} < \frac{34}{30} < \frac{35}{30} < \frac{36}{30}$.
+e $\frac{12}{10} = \frac{3 \times 12}{3 \times 10} = \frac{36}{30}$. Portanto, $\frac{34}{30}$ e $\frac{35}{30}$ são tais que $\frac{11}{10} < \frac{34}{30} < \frac{35}{30} < \frac{36}{30}$.
 
 (C) Note que $\frac{19}{20} = \frac{4 \times 19}{4 \times 20} = \frac{76}{80}$ 
-e $\frac{20}{20} = \frac{4 \times 20}{4 \times 20} = \frac{80}{80}$. Portanto, $\frac{77}{80}$, $\frac{78}{80}$ e $\frac{79}{80}$ são tais que tal que $\frac{19}{20} < \frac{77}{80} < \frac{78}{80} < \frac{79}{80} < \frac{80}{80}$.
+e $\frac{20}{20} = \frac{4 \times 20}{4 \times 20} = \frac{80}{80}$. Portanto, $\frac{77}{80}$, $\frac{78}{80}$ e $\frac{79}{80}$ são tais que $\frac{19}{20} < \frac{77}{80} < \frac{78}{80} < \frac{79}{80} < \frac{80}{80}$.
 </WRAP>
