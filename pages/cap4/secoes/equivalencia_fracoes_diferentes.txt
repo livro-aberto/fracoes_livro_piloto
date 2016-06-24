@@ -26,7 +26,7 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua 
 
 (B) A senteça é verdadeira: se duas frações têm denominadores iguais, é maior a fração que tem o maior numerador e, em particular, elas são diferentes. De fato: lembrando que o denominador de fração especifica o número de partes em que a unidade foi dividida e o numerador especifica quantas cópias desta parte foram tomadas, para um mesmo denominador, quanto maior o numerador, mais cópias são tomadas e, portanto, maior é a quantidade representada pela fração.
 
-(C) A senteça é verdadeira: se duas frações têm numeradores iguais, é maior a fração que tem o menor denominador e, em particular, elas são diferentes. De fato: considerando que o numerador especifica o número de cópias da unidade que está sendo dividido por um número de pessoas, número este especificado pelo denominador da fração, para um mesmo numerador, quanto menor o denominador, maior a porção que cada pessoa vai receber, quantidade esta representada pela fr4ação, pois o mesmo número de cópias da unidade está sendo divivido por um número menor de pessoas.
+(C) A senteça é verdadeira: se duas frações têm numeradores iguais, é maior a fração que tem o menor denominador e, em particular, elas são diferentes. De fato: considerando que o numerador especifica o número de cópias da unidade que está sendo dividido por um número de pessoas, número este especificado pelo denominador da fração, para um mesmo numerador, quanto menor o denominador, maior a porção que cada pessoa vai receber, quantidade esta representada pela fração, pois o mesmo número de cópias da unidade está sendo divivido por um número menor de pessoas.
 
 
 </WRAP>
