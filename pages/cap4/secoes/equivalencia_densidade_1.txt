@@ -5,13 +5,18 @@ Ir para [[cap4:texto#equivalencia_densidade_1]]
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber a propriedade de densidade das frações ao obter frações arbitrariamente próximas de $0$ e arbitrariamente próximas de $1$.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, para facilitar a logística de condução desta atividade, que ela seja feita com as perguntas sendo propostas uma a uma por você para a turma, de modo que a resposta de uma pergunta dada por um aluno seja então usada como referência para a pergunta subsequente. Outra possibilidade é dividir a turma em grupos de 3 a 5 alunos. Cada grupo responde a primeira pergunta e então passa sua resposta para um outro grupo que deve então responder a próxima questão tendo como referência a resposta recebida e assim sucessivamente.
+  * Caso seja viável, recomenda-se, na discussão da atividade, o uso de um software (o GeoGebra, por exemplo) para marcar na reta numérica as sucessivas frações dadas pelos alunos. O recurso de ampliação e redução pode ser usado visualizar as frações quando estas se acumulam em $0$ e em $1$.
 </WRAP>
+
 
 (A) Escreva uma fração que seja menor do que $1$.
 
-(B) Existe uma fração menor do que a fração que você escreveu no Item (A)? Em caso afirmativo, escreva uma tal fração?
+(B) Existe uma fração menor do que a fração que você escreveu no Item (A)? Em caso afirmativo, escreva uma tal fração.
 
-(C) Existe uma fração menor do que a fração que você escreveu no Item (B)? Em caso afirmativo, escreva uma tal fração?
+(C) Existe uma fração menor do que a fração que você escreveu no Item (B)? Em caso afirmativo, escreva uma tal fração.
 
 (D) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor ainda? Em caso afirmativo, explique como obter tal fração.
 
@@ -21,13 +26,18 @@ Objetivo específico: Levar o aluno a
 
 (G) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como obter tal fração.
 
-<hidden Comentário - a ser apagado>
-(i) Acho esta atividade muuuito difícil. Não apenas do ponto de vista da realaizaçào, mas da condução da discussão. 
+<WRAP resposta>
+(A) $\frac{1}{2}$, por exemplo.
 
-(ii) Gostei da frase do Francisco... Vamos devagar que o professor do EFI é de barro. As recomendaçoes ao professor precisariam ser bastante completas, criteriosas e detalhadas. 
+(B) Sim, $\frac{1}{3}$.
 
-(iii) Além disso, considerando uma turma típica, com cerca de 20 alunos, seriam muitas as respostas em sala de aula. Nào e trivial conduzir a discussão. 
+(C) Sim, $\frac{1}{4}$. 
 
-(iv) Por fim, acho que sugere uma "criação" de frações, de maneira descolada de situações concretas ou de modelos visuais. Muuuuuito abstrato para o nível escolar.  
+(D) Sim: $\frac{1}{5} < \frac{1}{4}$, $\frac{1}{6} < \frac{1}{5}$, $\frac{1}{7} < \frac{1}{6}$, etc.
 
-</hidden>
+(E) Sim, $\frac{2}{3}$. Enquanto que para $\frac{1}{2}$, é necessário $\frac{1}{2}$ para completar a unidade, para $\frac{2}{3}$ é necessário $\frac{1}{3}$ que é menor que $\frac{1}{2}$, logo $\frac{3}{4} > \frac{1}{2}$.
+
+(F) Sim, $\frac{3}{4}$. Enquanto que para $\frac{2}{3}$, é necessário $\frac{1}{3}$ para completar a unidade, para $\frac{3}{4}$ é necessário $\frac{1}{4}$ que é menor que $\frac{1}{3}$, logo $\frac{3}{4} > \frac{2}{3}$.
+
+(G) Sim, $\frac{4}{5} > \frac{3}{4}$, $\frac{5}{6} > \frac{4}{5}$, $\frac{6}{7} > \frac{5}{6}$, etc.
+</WRAP>
