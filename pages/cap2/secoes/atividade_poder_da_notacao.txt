@@ -35,9 +35,9 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 <hidden Resposta>
 <WRAP resposta>
 | Tipo de representação  |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
-| Pinte a fração de pizza consumida   |  {{cap2:secoes:pizza-notacao-pedro.png?70}} | {{cap2:secoes:pizza-notacao-isabella.png?70}}  |  {{cap2:secoes:pizza-notacao-bernardo.png?70}}  |   {{cap2:secoes:pizza-notacao-manuela.png?70}} |
-| Escreva a fração de pizza consumida por extenso   | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
-| Escreva a fração de pizza consumida usando notação simbólica matemática   | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
+| Pinte a fração de pizza consumida por cada pessoa  |  {{cap2:secoes:pizza-notacao-pedro.png?70}} | {{cap2:secoes:pizza-notacao-isabella.png?70}}  |  {{cap2:secoes:pizza-notacao-bernardo.png?70}}  |   {{cap2:secoes:pizza-notacao-manuela.png?70}} |
+| Escreva, por extenso, a fração de pizza consumida por cada pessoa | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
+| Escreva, usando notação simbólica matemática, a fração de pizza consumida por cada pessoa  | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
 
   - A que usa a notação simbólica matemática.
   - As respostas podem variar de pessoa para pessoa. No entanto, a justificativa deve ser coerente com a resposta. Discuta com a turma as diferentes respostas.
