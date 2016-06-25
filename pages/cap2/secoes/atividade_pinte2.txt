@@ -35,7 +35,7 @@ Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fraçã
 
 <hidden Resposta>
 <WRAP resposta>
-|  Fração da figura que deve ser pintada  |  Uma possível figura                                 |  Fração da figura que ficou sem pintar  |
+|  Fração da figura que deve ser pintada  |  Uma possível pintura para a figura                  |  Fração da figura que ficou sem pintar  |
 |  $\frac{5}{6}$                          |  {{cap2:secoes:pinte-resposta-cinco-sextos.png?50}}  |  $\frac{1}{6}$                          |
 |  $\frac{3}{4}$                          |  {{cap2:secoes:pinte-resposta-tres-quartos.png?50}}  |  $\frac{1}{4}$                          |
 |  $\frac{2}{5}$                          |  {{cap2:secoes:pinte-resposta-dois-quintos.png?60}}  |  $\frac{3}{5}$                          |
