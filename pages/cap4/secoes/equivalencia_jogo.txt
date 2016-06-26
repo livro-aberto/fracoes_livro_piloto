@@ -4,12 +4,29 @@ Ir para [[cap4:texto#equivalencia_jogo]]
 
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer frações iguais (equivalentes).
+  * Reconhecer frações iguais por meio de um jogo de trilha.
+
+
+<WRAP nota>
+FOLHA DE REPRODUÇÃO
+
+{{ :cap4:secoes:caminho-reproducao-01.jpg?400 |}}
 </WRAP>
 
-Um caminho com 50 passos deve ser percorrido com passos que equivalem à fração $\frac{1}{12}$. 
+<WRAP nota>
+FOLHA DE REPRODUÇÃO
+
+{{ :cap4:secoes:caminho-reproducao-02.jpg?400 |}}
+</WRAP>
+</WRAP>
+
+**Trilha dos doze avos**
+
+Junte-se a seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro onde há uma trilha com as posições de partida e chegada marcadas. 
 
 {{ :cap4:secoes:caminho.jpg?400 |}}
+
+Escreva o seu nome 
 
 Os jogadores recebem o tabuleiro, um dado de 12 faces, numeradas de 1 a 12, e, cada um recebe um peão que o identifique durante o jogo (por exemplo, um peão de jogo de xadrez, bonequinho miniatura ou uma semente colorida).
 
