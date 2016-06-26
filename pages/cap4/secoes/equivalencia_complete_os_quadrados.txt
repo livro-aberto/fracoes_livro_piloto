@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_complete_os_quadrados]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Determinar uma fração igual a uma dada fração com numerador ou denominador especificados.
@@ -9,7 +10,13 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Espera-se que, neste estágio, os alunos consigam obter as respostas usando a propriedade que $\frac{m \times a}{m \times b}$ é equivalente a $\frac{a}{b}$ e sem recorrer a desenhos de modelos de área de frações.
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: discriminar
 </WRAP>
+</hidden>
 
 (Van de Walle, 2009)
 Preencha os $\square$ com números de forma a tornar as igualdades verdadeiras.
@@ -26,6 +33,7 @@ Preencha os $\square$ com números de forma a tornar as igualdades verdadeiras.
 
 (F) $\frac{6}{8} = \frac{\square}{12}$
 
+<hidden Resposta>
 <WRAP resposta>
 (A) Uma vez que $6 = 2 \times 3$, então $\frac{5}{3} = \frac{2 \times 5}{2 \times 3} = \frac{10}{6}$. Logo, $\square$ deve ser preenchido com $10$.
 
@@ -40,3 +48,4 @@ $\frac{3}{4} = \frac{2 \times 3}{2 \times 4} = \frac{6}{8}$. Logo, $\square$ dev
 
 (F) Pela solução do Item (E), $\square$ deve ser preenchido com $9$.
 </WRAP>
+</hidden>
