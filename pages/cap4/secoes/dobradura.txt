@@ -2,7 +2,7 @@
 Ir para [[cap4:texto#dobradura]]
 ;;#
 
-<WRAP Para o professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{3}{10}$, $\frac{6}{20}$, $\ldots$, $\frac{3 \times m}{10 \times m}$ são iguais a partir da observação das representações destas frações em modelos de área retangulares e dobraduras. 
