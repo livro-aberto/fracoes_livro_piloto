@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_menor]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que, dada uma fração $p = \frac{n}{d}$, existe um quantidade finita de frações da forma $\frac{k}{d}$ que são menores do que $p$ e uma quantidade infinita de frações da forma $\frac{k}{d}$ que são maiores do que $p$.
@@ -13,14 +14,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 {{ :cap4:secoes:comparacao-de-fracoes-quintos.jpg?1200 |}}
 
+Classificações
+  * Heid et al.: Conceito: elaborar
+  * Nicely, Jr.: Nível 4: categorizar
+  * UERJ: Interpretar: classificar
 </WRAP>
+</hidden>
 
 (A) Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
 
 (B) Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
 
+<hidden Para o professor>
 <WRAP resposta>
 (A) Três frações: $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$.
 
 (B) Infinitas frações $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc.
 </WRAP>
+</hidden>
