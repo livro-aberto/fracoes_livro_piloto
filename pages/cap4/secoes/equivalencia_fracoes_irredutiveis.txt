@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_fracoes_irredutiveis]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Simplificar frações de modo a obter uma fração igual irredutível.
@@ -10,12 +11,19 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Um pré-requisito desta atividade é o conceito de máximo divisor comum. Assim, avalie a necessidade de uma revisão deste conceito com seus alunos.
   * A discussão desta atividade pode incluir o uso de materiais concretos na linha da proposta da Atividade 15, isto é, relacionar a simplificação de frações com a minimização de cortes em uma equipartição.
+
+lassificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: discriminar
 </WRAP>
+</hidden>
 
 Dizemos que uma fração é **irredutível** se o máximo divisor comum entre o seu numerador e o seu denominador é igual a $1$. Para cada fração indicada a seguir, determine uma fração igual que seja irredutível.
 
 (A)$\frac{2}{4}$, (B) $\frac{6}{9}$, (C) $\frac{4}{2}$, (D) $\frac{5}{35}$, (E) $\frac{50}{100}$.
 
+<hidden Resposta>
 <WRAP resposta>
 (A) Note que o máximo divisor comum de $2$ e $4$ é 2. Assim, 
 $\frac{2}{4} = \frac{2 \times 1}{2 \times 2} = \frac{1}{2}$. Resposta: $\frac{1}{2}$.
@@ -32,3 +40,4 @@ $\frac{5}{35} = \frac{5 \times 1}{5 \times 7} = \frac{1}{7}$. Resposta: $\frac{1
 (E) Note que o máximo divisor comum de $50$ e $100$ é 50. Assim, 
 $\frac{50}{100} = \frac{50 \times 1}{50 \times 2} = \frac{1}{2}$. Resposta: $\frac{1}{2}$.
 </WRAP>
+</hidden>
