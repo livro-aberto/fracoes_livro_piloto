@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#comparar_fracoes]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar frações por meio de igualdade de frações.
@@ -9,7 +10,13 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * A discussão da atividade pode incluir o uso de outras estratégias, que não a igualdade de frações, para se estabelecer a comparação das frações apresentadas. 
+
+Classificações
+  * Heid et al.: Conceito: elaborar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: comparar
 </WRAP>
+</hidden>
 
 Para cada par de frações ma mesma linha da tabela a seguir, determine frações de mesmo denominador que sejam iguais a cada uma das frações dadas. Em seguida, compare essas frações, preenchendo a coluna em branco, com um dos símbolos "$>$", "$<$" ou "$=$", de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira. Vamos fazer o Item (A) juntos: observe que
 
@@ -28,6 +35,7 @@ Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenche
 | (H) | $\frac{7}{5} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{17}{12}$ |
 | (I) | $\frac{7}{12} = \frac{\square}{\square}$ | | $\frac{\square}{\square} = \frac{9}{20}$ |
 
+<hidden Resposta>
 <WRAP resposta>
 | Item | Fração | "$>$", "$<$" ou "$=$" | Fração | 
 | (A) | $\frac{5}{6} = \frac{25}{30}$ |  $>$  | $\frac{24}{30} = \frac{4}{5}$ |
@@ -40,3 +48,4 @@ Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenche
 | (H) | $\frac{7}{5} = \frac{84}{60}$ |  $<$  | $\frac{85}{60} = \frac{17}{12}$ |
 | (I) | $\frac{12}{6} = \frac{2}{1}$ |  $<$  | $\frac{3}{1} = \frac{9}{3}$ |
 </WRAP>
+</hidden>
