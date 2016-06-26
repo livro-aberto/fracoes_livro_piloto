@@ -21,7 +21,6 @@ FOLHA DE REPRODUÇÃO
 
 <WRAP imagem>
 Este retângulo tem que ter a mesma dimensão do retângulo usado na Lição 3.
-
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
 </WRAP>
 </WRAP>
@@ -31,8 +30,9 @@ Este retângulo tem que ter a mesma dimensão do retângulo usado na Lição 3.
 O objetivo desta atividade é estudar a fração do retângulo que está pintado de cinza no encarte que você recebeu. 
 
 <WRAP imagem>
+<WRAP nota>
 Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela.
-
+</WRAP>
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
 </WRAP>
 
