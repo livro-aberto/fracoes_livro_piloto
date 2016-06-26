@@ -90,6 +90,10 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_panquecas}}
 
+{{anchor:equivalencia_fracoes_irredutiveis}}
+===== - Atividade =====
+{{page>cap4:secoes:equivalencia_fracoes_irredutiveis}}
+
 {{anchor:equivalencia_tres}}
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_tres}}
@@ -118,10 +122,6 @@
 ===== - Atividade =====
 {{page>cap4:secoes:equivalencia_cinco_tres}}
  */
-
-{{anchor:equivalencia_fracoes_irredutiveis}}
-===== - Atividade =====
-{{page>cap4:secoes:equivalencia_fracoes_irredutiveis}}
 
 {{anchor:equivalencia_fracoes_diferentes}}
 ===== - Atividade =====
