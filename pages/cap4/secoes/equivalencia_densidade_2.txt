@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_densidade_2]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber a propriedade de densidade das frações ao obter frações que estão entre duas frações diferentes quaisquer.
@@ -9,7 +10,13 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Caso seja viável, recomenda-se, na discussão da atividade, o uso de um software (o GeoGebra, por exemplo) para marcar na reta numérica as sucessivas frações dadas pelos alunos. 
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
 </WRAP>
+</hidden>
 
 Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}$ (isto é, maiores de que $\frac{3}{5}$ e menores do que $\frac{4}{5}$) porque $3 < 4$ e não existe número natural entre $3$ e $4$. Fabrício cotinua: "Pelo mesmo motivo, não existem frações entre $\frac{11}{10}$ e $\frac{12}{10}$ e entre $\frac{19}{20}$ e $\frac{20}{20}$!". Você concorda com as afirmações e argumentos de Fabrício? Se você acha que Fabrício está errado, encontre:
 
@@ -19,6 +26,7 @@ Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}
 
 (C) uma fração entre $\frac{19}{20}$ e $\frac{20}{20}$.
 
+<hidden Resposta>
 <WRAP resposta>
 (A) Note que $\frac{3}{5} = \frac{2 \times 3}{2 \times 5} = \frac{6}{10}$ 
 e $\frac{4}{5} = \frac{2 \times 4}{2 \times 5} = \frac{8}{10}$. Portanto, $\frac{7}{10}$ é tal que $\frac{3}{5} < \frac{7}{10} < \frac{4}{5}$.
@@ -29,3 +37,4 @@ e $\frac{12}{10} = \frac{3 \times 12}{3 \times 10} = \frac{36}{30}$. Portanto, $
 (C) Note que $\frac{19}{20} = \frac{4 \times 19}{4 \times 20} = \frac{76}{80}$ 
 e $\frac{20}{20} = \frac{4 \times 20}{4 \times 20} = \frac{80}{80}$. Portanto, $\frac{77}{80}$, $\frac{78}{80}$ e $\frac{79}{80}$ são tais que $\frac{19}{20} < \frac{77}{80} < \frac{78}{80} < \frac{79}{80} < \frac{80}{80}$.
 </WRAP>
+</hidden>
