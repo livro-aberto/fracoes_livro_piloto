@@ -47,6 +47,7 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 | {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | | | |
 
+<hidden Resposta>
 <WRAP resposta>
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
 | {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
@@ -56,6 +57,7 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 | {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | $5$ | $\frac{5}{10}$ | $\frac{5}{10}$ |
 | {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | $8$ | $\frac{8}{16}$ | $\frac{8}{16}$ |
 </WRAP>
+</hidden>
 
 /*
 <hidden Comentário - a ser apagado>
