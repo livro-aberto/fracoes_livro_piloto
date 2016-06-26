@@ -12,7 +12,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Um pré-requisito desta atividade é o conceito de máximo divisor comum. Assim, avalie a necessidade de uma revisão deste conceito com seus alunos.
   * A discussão desta atividade pode incluir o uso de materiais concretos na linha da proposta da Atividade 15, isto é, relacionar a simplificação de frações com a minimização de cortes em uma equipartição.
 
-lassificações
+Classificações
   * Heid et al.: Produto: gerar
   * Nicely, Jr.: Nível 3: comparar
   * UERJ: Interpretar: discriminar
