@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_densidade_1]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Perceber a propriedade de densidade das frações ao obter frações arbitrariamente próximas de $0$ e arbitrariamente próximas de $1$.
@@ -9,7 +10,13 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, para facilitar a logística de condução desta atividade, que ela seja feita com as perguntas sendo propostas uma a uma por você para a turma, de modo que a resposta de uma pergunta dada por um aluno seja então usada como referência para a pergunta subsequente. Outra possibilidade é dividir a turma em grupos de 3 a 5 alunos. Cada grupo responde a primeira pergunta e então passa sua resposta para um outro grupo que deve então responder a próxima questão tendo como referência a resposta recebida e assim sucessivamente.
   * Caso seja viável, recomenda-se, na discussão da atividade, o uso de um software (o GeoGebra, por exemplo) para marcar na reta numérica as sucessivas frações dadas pelos alunos. O recurso de ampliação e redução pode ser usado visualizar as frações quando estas se acumulam em $0$ e em $1$.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
 </WRAP>
+</hidden>
 
 
 (A) Escreva uma fração que seja menor do que $1$.
@@ -26,6 +33,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 (G) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como obter tal fração.
 
+<hidden Resposta>
 <WRAP resposta>
 (A) $\frac{1}{2}$, por exemplo.
 
@@ -41,3 +49,4 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 (G) Sim, $\frac{4}{5} > \frac{3}{4}$, $\frac{5}{6} > \frac{4}{5}$, $\frac{6}{7} > \frac{5}{6}$, etc.
 </WRAP>
+</hidden>
