@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#reta_numerica]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que, para cada $0 \leq i \leq 3$, as frações $\frac{i}{3}$, $\frac{2 \times i}{2 \times 3 }$, $\frac{3 \times i}{3 \times 3}$ e $\frac{4 \times i}{4 \times 3}$ são iguais a partir da observação das representações destas frações na reta numérica.
@@ -10,7 +11,18 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Nas retas numéricas apresentadas, as origens estão alinhadas e as unidades correspondem a segmentos unitários congruentes, o que garante que uma fração associada a um determinado ponto em uma reta seja a mesma fração nos pontos correspondentes nas demais retas.
   * É importante, ao final da atividade, observar para os alunos que, nesta atividade, cada ponto marcado na reta numérica está sendo descritos por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, por corresponderem ao mesmo ponto da reta numérica, estas frações são iguais.
+
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+
+Para o Item (C):
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: discriminar
 </WRAP>
+</hidden>
 
 (A) Preencha os quadradinhos $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.
 
@@ -20,7 +32,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 (C) Determine uma fração de denominador $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
 
-
+<hidden Resposta>
 <WRAP resposta>
 (A) 
 
@@ -34,3 +46,4 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 </WRAP>
+</hidden>
