@@ -32,14 +32,15 @@ Seu grupo também receberá peões que identificarão as posições dos jogadore
 
 O dado pode ser usada para decidir a ordem de jogada. As regras do jogo são as seguintes:
 
-(1º) No desenvolvimento do jogo, cada jogador lança o dado duas vezes. Esses lançamentos determinam a fração que correspondente ao movimento que o jogador fará: O primeiro lançamento registra o denominador da fração e o segundo o numerador. Assim, por exemplo, se o primeiro lançamento do dado resulta no número 7 e o segundo lançamento resulta no número 12, a fração correspondente é $\frac{12}{7}$. Outro exemplo: se o número do primeiro lançamento do dado é $5$ e o número do segundo lançamento é $7$, a fração correspondente é $\frac{7}{5}$.
+(1º) No desenvolvimento do jogo, cada jogador lança o dado duas vezes. Esses lançamentos determinam a fração que correspondente ao movimento que o jogador fará: o primeiro lançamento registra o denominador da fração e o segundo o numerador. Assim, por exemplo, se o primeiro lançamento do dado resulta no número 12 e o segundo lançamento resulta no número 10, a fração correspondente é $\frac{10}{12}$. Outro exemplo: se o número do primeiro lançamento do dado é $6$ e o número do segundo lançamento é $3$, a fração correspondente é $\frac{3}{6}$. Mais um exemplo: se o número do primeiro lançamento do dado é $5$ e o número do segundo lançamento é $7$, a fração correspondente é $\frac{7}{5}$.
 
-(2º) Se a fração obtida com o lançamento dos dados for equivalente a uma fraçào de denominador 12, ou seja, a certa quantidade de doze avos, o peão “caminha” essa quantidade de passos. Caso contrário, ele não sai do lugar que está. assim, por exemplo:….INCLUIR EXEMPLO, se possível mais do que 1.
+(2º) Se a fração obtida com o lançamento dos dados for equivalente a uma fraçào de denominador 12, ou seja, a certa quantidade de doze avos, o peão “caminha” essa quantidade de passos. Caso contrário, ele não sai do lugar que está e se passa a vez. Assim, por exemplo: se a fração obtida for $\frac{10}{12}$, seu peão andará 10 casas. Se a fração obtida for $\frac{3}{6}$, seu peão andará $6$ casas, pois $\frac{3}{6} = \frac{6}{12}$. Se a fração obtida for $\frac{7}{5}$, seu peão permanecerá na casa em que está e você passará a vez.
 
 (3º) Vence o jogo aquele jogador que, em primeiro lugar, atingir o ponto de chegada. 
 
 
-Depois de jogar algumas vezes responda as questões. 
+
+Depois de jogar algumas vezes responda às questões a seguir. 
 
 (A) Quantos passos um jogador deu se ele obteve nos dois lançamentos respectivamente os seguintes números:
 
@@ -62,44 +63,14 @@ Depois de jogar algumas vezes responda as questões.
 9º) 6 e 3?
 
 10º) 3 e 6?
-
                            
-(B) Considere as frações sorteadas pelo primeiro e pelo segundo jogador escritas em duas colunas. Compare os números de passos dados pelos dois jogadores e complete as lacunas deixadas abaixo com uma das frases: maior do que, menor do que ou igual a.
+(B)  Em 5 jogadas o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. O segundo em 5 jogadas deu 47 passos. Nesse momento, qual deles está a frente? 
 
-| 1º  jogador | é ...................... | 2º jogador |
-| $\frac{9}{12}$ | | $\frac{7}{12}$ |
-| $\frac{11}{12}$ | | $\frac{5}{4}$ |
-| $\frac{8}{12}$ | | $\frac{2}{3}$ |
-| $\frac{10}{12}$ | | $\frac{6}{39}$ |
-| $\frac{18}{12}$ | | $\frac{15}{12}$ |
-| $\frac{14}{12}$ | | $\frac{14}{6}$ |
 
-(C)  Em 5 jogadas o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. O segundo em 5 jogadas deu 47 passos. Nesse momento, qual deles está a frente? 
+<WRAP resposta>
+(A)
+1º) 7 casas. 2º) 10 casas. 3º) 9 casas. 4º) Fica parado e passa a vez. 5º) 16 casas. 6º) Fica parado e passa a vez. 7º) Fica parado e passa a vez. 8º) 12 casas. 9º) 6 casas.
+10º) 24 casas.
 
-<hidden Comentário - a ser apagado>
-(i) Nas orientações ao professor, identificar a atividade como um jogo de trilha. 
-
-(ii) Acho esta informação irrelevante e abstrata para o aluno: "Um caminho com 50 passos deve ser percorrido com passos que equivalem à fração $\frac{1}{12}$". Sugiro apenas incluir um nome para o jogo... \\
-
-Talvez, nas orientações sobre o jogo, incluir como primeiro item a informação de que se trata de um jogo de trilha com 50 casas e que cada movimento é determinado por uma fração de denominador 12, determinada pelo lançamento de dados, como descrito a seguir. 
-
-(iii) Revisar as regras do jogo: Seguem sugestões...
-
-(1º) No desenvolvimento do jogo, cada jogador lança o dado duas vezes. Esses lançamentos determinam a fração que correspondente ao movimento que o jogador fará: O primeiro lançamento registra o denominador da fração e o segundo o numerador. Assim, por exemplo, ....INCLUIR EXEMPLO, se possível mais do que 1.
-
-(2º) Se a fração obtida com o lançamento dos dados for equivalente a uma fraçào de denominador 12, ou seja, a certa quantidade de doze avos, o peão “caminha” essa quantidade de passos. Caso contrário, ele não sai do lugar que está. assim, por exemplo:....INCLUIR EXEMPLO, se possível mais do que 1. 
-
-(3º) Vence o jogo aquele jogador que, em primeiro lugar, atingir o ponto de chegada. Depois de jogar algumas vezes responda as questões.
-
-(iv) No item (b) (Considere as frações sorteadas pelo primeiro e pelo segundo jogador escritas em duas colunas. Compare os números de passos dados pelos dois jogadores e complete as lacunas deixadas abaixo com uma das frases: maior do que, menor do que ou igual a), algumas considerações.
-- nomear os jogadores;
-- Achei esquisito comparar as frações que correspondem a cada jogada... Talvez identificar, em cada jogada, aquele jogador que "andou" e, se ambos andaram, qual "andou mais". Dependendo da série, pode ficar como desafio identificar se algum desses jogadores chegou à casa final da trilha.
-
-(v) No item, é importante registrar que não são os mesmos jogadores do item anterior. 
-
-(vi) As regras do jogo precisam ser bem detalhadas para o professor.
-
-(vii) Pecisa ser elaborada uma página de reprodução com o tabuleio e possíveis modelos de montar para os peões. Além disso, tem a questão do dado... seria bom ter uma planificação para ser montada.
-
-</hidden>
-
+(B) O primeiro jogador andou $7 + 0 + 4 + 18 + 24 = 53$ casas. Portanto, o primeiro jogador está na frente e venceu o jogo.
+</WRAP>
