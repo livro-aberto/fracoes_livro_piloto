@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#preencha]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Reconhecer que as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais a partir da observação das representações destas frações em modelos de área circulares. 
@@ -10,6 +11,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
   * Os setores circulares empregados na condução da atividade podem ser aproveitados da Atividade XX da Lição 1.
   * É importante, ao final da atividade, observar para os alunos que uma mesma parte do círculo (a área da região pintada de cinza) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
+
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
@@ -19,6 +26,7 @@ O raio do círculo deve ser igual ao raio dos setores circulares usados na Liç�
 </WRAP>
 </WRAP>
 </WRAP>
+</hidden>
 
 O objetivo desta atividade é estudar a fração do círculo que está pintada de cinza no encarte que você recebeu.
 
@@ -34,12 +42,14 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 | $\frac{1}{6}$ {{:cap4:secoes:peca-um-sexto.png?300|}}  | | | |
 | $\frac{1}{12}$ {{:cap4:secoes:peca-um-doze-avos.png?300|}}  | | | |
 
+<hidden Resposta>
 <WRAP resposta>
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo?  | Que fração do círculo não está colorida de cinza? |
 | $\frac{1}{3}$ {{:cap4:secoes:peca-um-terco.png?300|}}  | $2$ | $\frac{2}{3}$ | $\frac{1}{3}$ |
 | $\frac{1}{6}$ {{:cap4:secoes:peca-um-sexto.png?300|}}  | $4$ | $\frac{4}{6}$ | $\frac{2}{6}$ |
 | $\frac{1}{12}$ {{:cap4:secoes:peca-um-doze-avos.png?300|}}  | $8$ | $\frac{8}{12}$ | $\frac{4}{12}$ |
 </WRAP>
+</hidden>
 
 /*
 <hidden Comentário - a ser apagado>
