@@ -10,34 +10,36 @@ Objetivo específico: Levar o aluno a
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-{{ :cap4:secoes:caminho-reproducao-01.jpg?400 |}}
+{{ :cap4:secoes:caminho-reproducao-01.jpg?700 |}}
 </WRAP>
 
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-{{ :cap4:secoes:caminho-reproducao-02.jpg?400 |}}
+{{ :cap4:secoes:caminho-reproducao-02.jpg?700 |}}
 </WRAP>
 </WRAP>
 
 **Trilha dos doze avos**
 
-Junte-se a seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro onde há uma trilha com as posições de partida e chegada marcadas. 
+Junte seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro onde há uma trilha com as posições de partida e chegada indicadas e um dado com 12 faces marcadas com os números de 1 a 12. 
 
 {{ :cap4:secoes:caminho.jpg?400 |}}
 
-Escreva o seu nome 
+Seu grupo também receberá peões que identificarão as posições dos jogadores na trilha. Cada jogador deve escrever o seu nome no peão (na imagem a seguir, o peão está com o nome "Antônio").
 
-Os jogadores recebem o tabuleiro, um dado de 12 faces, numeradas de 1 a 12, e, cada um recebe um peão que o identifique durante o jogo (por exemplo, um peão de jogo de xadrez, bonequinho miniatura ou uma semente colorida).
+{{ :cap4:secoes:caminho-peao.jpg?50 |}}
 
-O jogo consiste em:
+O dado pode ser usada para decidir a ordem de jogada. As regras do jogo são as seguintes:
 
-(1º) cada jogador lança o dado duas vezes. O primeiro lançamento registra o denominador da fração e o segundo o numerador.
+(1º) No desenvolvimento do jogo, cada jogador lança o dado duas vezes. Esses lançamentos determinam a fração que correspondente ao movimento que o jogador fará: O primeiro lançamento registra o denominador da fração e o segundo o numerador. Assim, por exemplo, se o primeiro lançamento do dado resulta no número 7 e o segundo lançamento resulta no número 12, a fração correspondente é $\frac{12}{7}$. Outro exemplo: se o número do primeiro lançamento do dado é $5$ e o número do segundo lançamento é $7$, a fração correspondente é $\frac{7}{5}$.
 
-(2º) se a fração obtida equivale a certa quantidade de doze avos, o peão “caminha” essa quantidade de passos. Caso contrário, ele não sai do lugar que está.
+(2º) Se a fração obtida com o lançamento dos dados for equivalente a uma fraçào de denominador 12, ou seja, a certa quantidade de doze avos, o peão “caminha” essa quantidade de passos. Caso contrário, ele não sai do lugar que está. assim, por exemplo:….INCLUIR EXEMPLO, se possível mais do que 1.
 
-(3º) vence o jogo aquele que, em primeiro lugar, atingir o ponto de chegada.
-Depois de jogar algumas vezes responda as questões.
+(3º) Vence o jogo aquele jogador que, em primeiro lugar, atingir o ponto de chegada. 
+
+
+Depois de jogar algumas vezes responda as questões. 
 
 (A) Quantos passos um jogador deu se ele obteve nos dois lançamentos respectivamente os seguintes números:
 
