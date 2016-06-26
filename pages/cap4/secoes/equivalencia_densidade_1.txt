@@ -12,8 +12,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Caso seja viável, recomenda-se, na discussão da atividade, o uso de um software (o GeoGebra, por exemplo) para marcar na reta numérica as sucessivas frações dadas pelos alunos. O recurso de ampliação e redução pode ser usado visualizar as frações quando estas se acumulam em $0$ e em $1$.
 
 Classificações
-  * Heid et al.: Raciocínio: corroborar
-  * Nicely, Jr.: Nível 6: justificar
+  * Heid et al.: Produto: prever
+  * Nicely, Jr.: Nível 7: levantar hipóteses
   * UERJ: Avaliar: julgar
 </WRAP>
 </hidden>
