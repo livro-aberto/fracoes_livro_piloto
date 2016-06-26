@@ -2,6 +2,7 @@
 Ir para [[cap4:texto#equivalencia_tres]]
 ;;#
 
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
   * Comparar mais do que duas frações (no caso, três) usando frações equivalentes.
@@ -9,7 +10,13 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Sugere-se que seja observado para os alunos que o procedimento descrito nesta atividade para ordenar três frações pode ser aplicado para um número arbitrário de frações.
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: ordenar
 </WRAP>
+</hidden>
 
 O objetivo desta atividade é determinar qual é a maior e qual é a menor fração entre
 as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
@@ -19,6 +26,7 @@ as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 (B) Usando as frações do Item (A), determine qual é a maior e qual é a menor fração entre
 as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
+<hidden Resposta>
 <WRAP resposta>
 (A) $60$ é um múltiplo comum de $6$, $20$ e $15$: $60 = 10 \times 6$, $60 = 4 \times 15$ e $60 = 3 \times 20$. Portanto,
 
@@ -29,7 +37,7 @@ $\frac{37}{20} = \frac{3 \times 37}{3 \times 20} = \frac{111}{60}$.
 (B) Tem-se que $\frac{110}{60} < \frac{111}{60} < \frac{112}{60}$. Logo,
 $\frac{11}{6} < \frac{37}{20} < \frac{28}{15}$.
 </WRAP>
-
+</hidden>
 
 <hidden Comentário - a ser apagado (com réplica do Humberto)>
 Réplica do Humberto:
