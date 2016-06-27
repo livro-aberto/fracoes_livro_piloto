@@ -36,7 +36,7 @@ Seu grupo também receberá peões que identificarão as posições dos jogadore
 
 {{ :cap4:secoes:caminho-peao.jpg?50 |}}
 
-O dado pode ser usada para decidir a ordem de jogada. As regras do jogo são as seguintes:
+O dado pode ser usado para decidir a ordem de jogada. As regras do jogo são as seguintes:
 
 (1º) No desenvolvimento do jogo, cada jogador lança o dado duas vezes. Esses lançamentos determinam a fração que correspondente ao movimento que o jogador fará: o primeiro lançamento registra o denominador da fração e o segundo o numerador. Assim, por exemplo, se o primeiro lançamento do dado resulta no número 12 e o segundo lançamento resulta no número 10, a fração correspondente é $\frac{10}{12}$. Outro exemplo: se o número do primeiro lançamento do dado é $6$ e o número do segundo lançamento é $3$, a fração correspondente é $\frac{3}{6}$. Mais um exemplo: se o número do primeiro lançamento do dado é $5$ e o número do segundo lançamento é $7$, a fração correspondente é $\frac{7}{5}$.
 
