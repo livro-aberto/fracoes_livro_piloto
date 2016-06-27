@@ -21,7 +21,7 @@ OBS: Recomenda-se que, como na seção anterior, sejam usados como recurso didá
 
   - Preâmbulo (exemplo ou atividade):  Talvez,  neste preâmbulo, possa ser proposta uma atividade que envolva a adição de quatro (ou cinco) parcelas, todas frações, nem todas unitárias, duas a duas (ou duas e três) iguais. A operação de multiplicação não deve ser explicitamente sugerida no texto.
   - Na introdução da seção,  lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomnedar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. 
-  - Ressaltar que a forma como as frações $\frac{a}{b}$ foram construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exemplo, $\frac{2}{3}$ é igual a $2.\frac{a}{b}$.
+  - Ressaltar que a forma como as frações $\frac{a}{b}$ foram construídas ao longo do texto traz embutida a operação de multiplicação. Assim, por exemplo, $\frac{2}{3}$ é igual a $2.\frac{1}{3}$.
 
 
 \\
