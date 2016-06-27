@@ -25,13 +25,13 @@ Classificações
 
 (C) Existe uma fração menor do que a fração que você escreveu no Item (B)? Em caso afirmativo, escreva uma tal fração.
 
-(D) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor ainda? Em caso afirmativo, explique como obter tal fração.
+(D) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre possível encontrar uma outra fração menor ainda? Em caso afirmativo, explique como tal fração pode ser obtida.
 
 (E) Existe uma fração menor do que 1 e que seja maior do que a fração que você escreveu no Item (A)? Em caso afirmativo, escreva uma tal fração.
 
 (F) Existe uma fração menor do que 1 e que seja maior do que a fração que você escreveu no Item (E)? Em caso afirmativo, escreva uma tal fração.
 
-(G) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre encontrar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como obter tal fração.
+(G) É possível continuar este processo, isto é, dada uma fração menor do que $1$, é sempre possível encontrar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como tal fração pode ser obtida.
 
 <hidden Resposta>
 <WRAP resposta>
