@@ -83,7 +83,7 @@ lowest terms.) It is important that students understand that although the numera
 a fraction in simplest form are smaller than the numerator and denominator of the original fraction, the
 two fractions are equivalent. This means that both fractions show the same relationship between the
 part and the whole.
- 
+ Cydara comenta: "forma mais simples" pode não ser a de menor denominador. Por exemplo, 5/10 pode ser encarada como "mais simples" do que, porque corresponde (futuramente para o aluno) diretamente a 0,5.
 
 **Decisões tomadas:**
 A completar....
