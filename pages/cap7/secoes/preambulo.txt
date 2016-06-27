@@ -6,20 +6,20 @@ Estrutura da Lição\\
 
 **Conteúdos utilizados de lições anteriores ou acumulados pelos alunos**
   * Compreensão da operação de divisão com os significados de equipartição e de medida.
-  * Compreensão da igualdade (equivalencia) entre frações, para reduzir ao mesmo denominador frações.
+  * Compreensão da igualdade (equivalência) entre frações, para reduzir ao mesmo denominador frações.
 \\
 **Conteúdos da lição:** 
-  * Item de lista não ordenadaDivisão envolvendo frações. 
+  * Divisão envolvendo frações. 
 \\
 **Esqueleto da lição:**
 Preâmbulo:  Neste preâmbulo, é importante resgatar atividades que abordem a operação de divisão com seus diferentes significados, especialmente o significado de medida, sem necessariamente envolver frações. Essas atividades serão importantes para que o professor possa verificar o conhecimento acumulado dos alunos para a abordagem da operação de divisão em contextos que envolvam frações. 
 \\
-Na introdução da seção, lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomendar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. Em particular, no caso da divisão, a representaçào em modelos contínuos, que destacam a unidade, é um recurso importante.
+Na introdução da seção, lembrar ao professor que é fundamental que sejam valorizadas as estratégias pessoais (corretas, claro) dos alunos. Recomendar que, sempre que possível, o professor conduza a discussão de diferentes estratégias de cálculo com a turma. Em particular, no caso da divisão, a representação em modelos contínuos, que destacam a unidade, é um recurso importante.
 \\
 **EXPLORANDO O ASSUNTO**
 As atividades iniciais devem contemplar:
   * A divisão como equipartição:
-  - Reconheer a fração como o resultado da divisão entre dois inteiros é fundamental.  Atividades com esse objetivo já compõem outras seções. Por exemplo, dividir três pizzas entre 4 ou 5 pessoas. Nesse contexto, espera-se que o aluno consiga responder a um problema que solicite, por exmplo, a divisão de 12 : 20 com a fração $\frac{3}{5}$ da unidade. 
+  - Reconhecer a fração como o resultado da divisão entre dois inteiros é fundamental.  Atividades com esse objetivo já compõem outras seções. Por exemplo, dividir três pizzas entre 4 ou 5 pessoas. Nesse contexto, espera-se que o aluno consiga responder a um problema que solicite, por exmplo, a divisão de 12 : 20 com a fração $\frac{3}{5}$ da unidade. 
   - Outro caso importante é o da divisão de uma fração por um número natural. Por exemplo, três irmãos têm a metade de uma torta para repartir igualmente entre eles. Que fração da torta inteira caberá a cada um deles? 
   - O caso da divisão entre frações traduzindo uma “equipartição” pode ser um desafio – tanto para propor um problema como para a cmpreensão da situação como uma divisão. No texto do Wu, aparece uma versão do seguinte problema: A capacidade de um pequeno tanque é de 60L. Esse tanque pode ser completamente enchido por 2½ baldes de água. Qual a capacidade, em litros, do balde usado nessa tarefa? **Para pensar.... **
   * A divisão como medida:
@@ -36,8 +36,8 @@ Ainda:
 **DÚVIDAS:**
   - Como (e se devemos) chegar à divisão de fração por fração?
   - Que contextos concretos, adequados a alunos do ensino fundamental, solicitam a divisão de fração por fração? 
-  - Em que série introduzir a divisão? Fazer a bordagem em etapas?
-  - Vamos abordar o algoritmo tradicial? Se sim, em que momento e como?
+  - Em que série introduzir a divisão de fração por fração de maneira geral? Fazer a bordagem em etapas?
+  - Vamos abordar o algoritmo tradicional? Se sim, em que momento e como?
 
 **ORGANIZANDO AS IDEIAS**
 Destacar, **para o professor**, que:
