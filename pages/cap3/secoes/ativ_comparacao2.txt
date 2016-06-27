@@ -18,10 +18,15 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 Três amigos foram a uma pizzaria. João comeu 3/4 de uma pizza calabresa, Maria comeu  2/4 de uma pizza de presunto e Miguel comeu 3/5 de uma pizza de milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
+
 i)	Quem comeu mais, João ou Maria? Explique.
+
 ii)	Quem comeu mais, João ou Miguel? Explique.
+
 iii)	Entre os três amigos, quem comeu mais? Explique.
+
 iv)	Marque na reta numérica abaixo as porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em (iii) .
+
 <hidden Para o ilustrador>
-RETA NUMÉRICA, onde está marcados o 0 e o 1
+RETA NUMÉRICA, onde estão marcados o 0 e o 1
 </hidden>
