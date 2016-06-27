@@ -20,7 +20,7 @@ Recomendações:
 Esse trabalho deve ser desenvolvido em grupos de 3 ou 4 alunos e deve usar as representações das frações obtidas nas atividades anteriores desta lição.
 
 </WRAP>
-Na ilustração abaixo, ao lado de cada reta numerada temos uma fração para ser representada. Localize-as em cada reta.
+Na ilustração abaixo, ao lado de cada reta numerada temos uma fração da unidade para ser representada. Localize-as em cada reta.
 
 {{ :cap3:secoes:retas_equivalentes.png?300 |}}
 Descreva os resultados desta atividade com suas palavras.
