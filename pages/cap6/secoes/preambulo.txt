@@ -79,16 +79,3 @@ Nos textos franceses não há operação com frações nesta etapa da escolarida
 
 
 
-<hidden Para o professor>
-<WRAP professor>
-Esta lição tem por objetivo... nesta lição serão apresentados...
-
-As atividades visam ...
-
-OBJETIVOS ESPECíFICOS DA LIÇÃO 6: O aluno deve ser capaz de: 
-    * objetivo
-    * outro objetivo
-    * outro mais
-    
-</WRAP>
-</hidden>
