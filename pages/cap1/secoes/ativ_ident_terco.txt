@@ -20,7 +20,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Em cinco das figuras a seguir a parte em vermelho é um terço da figura. Identifique estas figuras.
+<WRAP imagem> - FIGURA GEOMÉTRICA - Estas figuras devem ser produzidas individualmente, importante levar em conta a fração. Não se deve colocar os itens A), B), etc.
 {{ :cap1:secoes:um_terco_vermelho.jpg?500 |}}
+</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
