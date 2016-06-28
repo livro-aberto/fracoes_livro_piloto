@@ -2,7 +2,7 @@
 Ir para [[cap2:texto#quadrinho]]
 ;;#
 
-<WRAP imagem>
+<WRAP imagem> FIGURA ARTÍSTICA
 HISTÓRIA EM QUADRINHOS
 
 Miguel é um menino negro de cabelos cheios e cacheados.
