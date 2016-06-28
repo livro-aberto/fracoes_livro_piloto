@@ -30,11 +30,11 @@ Na figura, há várias retas paralelas igualmente espaçadas e outra reta, desta
 <hidden Para o Ilustrador>
 A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em vermelho. Devem estar destacados nessa reta, além do 0 e do 1, 9 pontos, como ilustra a figura.
 
-Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta
+Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta. Ver orientações.
 </hidden>
 	
 </WRAP>
 <hidden resposta>
 a)Inserir a imagem semelhante a do enunciado, com a frações $\frac{1}{2}$ destacada no ponto correspondente.
-b)Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$ ..
+b)Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
 </hidden>
