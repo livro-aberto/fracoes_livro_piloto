@@ -29,16 +29,14 @@ A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma
 
 </WRAP>
 
-i) Em quais delas é possível comer metade do sanduiche apenas com as partes da repartição feita?
-
-ii) Observando as repartições feitas, para aquelas que permitem que se coma metade de um sanduíche, expresse, usando fração, essa quantidade.  
+  - Em quais delas é possível comer metade do sanduiche apenas com as partes da repartição feita?
+  - Observando as repartições feitas, para aquelas que permitem que se coma metade de um sanduíche, expresse, usando fração, essa quantidade.  
 
 
 <hidden Resposta>
 <WRAP resposta>
-i) É possível comer metade do sanduíche apenas nas repartições (A), (C) e (D) pois, para elas, a quantidade de partes iguais em que o sanduíche foi dividido é um número par.
-
-ii) Em (A): $\frac{1}{2}$. Em (C): $\frac{2}{4}$. Em (D): $\frac{2}{4}$.
+  - É possível comer metade do sanduíche apenas nas repartições (A), (C) e (D) pois, para elas, a quantidade de partes iguais em que o sanduíche foi dividido é um número par.
+  - Em (A): $\frac{1}{2}$. Em (C): $\frac{2}{4}$. Em (D): $\frac{2}{4}$.
 </WRAP>
 </hidden>
 
