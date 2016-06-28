@@ -20,32 +20,21 @@ Classificações
 
 Responda às seguintes questões: 
 
-(A) A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
-
-(B) A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
-
-(C) A fração determinada pela subtração de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
-
-(D) A fração determinada pela adição de 2 ao numerador e ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
-
-(E) A fração determinada pela multiplicação por 2 do numerador e do denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
-
-(F) A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela subtração de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela adição de 2 ao numerador e ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela multiplicação por 2 do numerador e do denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
+    - A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração $\frac{4}{7}$ é maior, menor ou igual a $\frac{4}{7}$? Por quê?
 
 <hidden Resposta>
 <WRAP resposta>
-(A) A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é a fração $\frac{5}{7}$ que é maior do que $\frac{4}{7}$.
-
-(B) (A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{5}{8}$ que é menor do que $\frac{4}{7}$.
-
-(C) A fração determinada pela subtração de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{3}{7}$ que é menor do que $\frac{4}{7}$.
-
-(D) A fração determinada pela adição de 2 ao numerador e ao denominador da fração $\frac{4}{7}$ é a fração $\frac{6}{9}$ que é maior do que $\frac{4}{7}$, pois $\frac{6}{9} = \frac{2}{3} = \frac{7 \times 2}{7 \times 3} = \frac{14}{21}$, $\frac{4}{7} = \frac{3 \times 4}{3 \times 7} = \frac{12}{21}$ e $14 > 12$.
-
-(E) A fração determinada pela multiplicação por 2 do numerador e do denominador da fração $\frac{4}{7}$ é a fração $\frac{8}{14}$ que é igual a $\frac{4}{7}$.
-
-(F) A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{5}{6}$ que é maior do que $\frac{4}{7}$, pois
-$\frac{5}{6} > \frac{4}{6} > \frac{4}{7}$.
+  - A fração determinada pela adição de 1 ao numerador da fração $\frac{4}{7}$ é a fração $\frac{5}{7}$ que é maior do que $\frac{4}{7}$.
+  - A fração determinada pela adição de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{5}{8}$ que é menor do que $\frac{4}{7}$.
+  - A fração determinada pela subtração de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{3}{7}$ que é menor do que $\frac{4}{7}$.
+  - A fração determinada pela adição de 2 ao numerador e ao denominador da fração $\frac{4}{7}$ é a fração $\frac{6}{9}$ que é maior do que $\frac{4}{7}$, pois $\frac{6}{9} = \frac{2}{3} = \frac{7 \times 2}{7 \times 3} = \frac{14}{21}$, $\frac{4}{7} = \frac{3 \times 4}{3 \times 7} = \frac{12}{21}$ e $14 > 12$.
+  - A fração determinada pela multiplicação por 2 do numerador e do denominador da fração $\frac{4}{7}$ é a fração $\frac{8}{14}$ que é igual a $\frac{4}{7}$.
+  - A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração $\frac{4}{7}$ é a fração $\frac{5}{6}$ que é maior do que $\frac{4}{7}$, pois $\frac{5}{6} > \frac{4}{6} > \frac{4}{7}$.
 
 </WRAP>
 </hidden>
