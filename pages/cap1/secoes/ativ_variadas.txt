@@ -23,7 +23,7 @@ Considere o círculo como unidade.
     -	A parte colorida é um sétimo do círculo.
     -	A parte colorida é um oitavo do círculo.
     -	A parte colorida é a nona parte do círculo.
-    -	A parte colorida é um décimo do círculo.\\ <WRAP imagem> 
+    -	A parte colorida é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
 {{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>\\
   - Dentre as frações do círculo apresentadas, encontre uma que seja menor que um sexto do círculo.
