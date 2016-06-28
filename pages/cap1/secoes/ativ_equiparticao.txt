@@ -18,8 +18,10 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * O item (d), provavelmente, pode não ser respondido corretamente pelos alunos. Se for o caso, as expressões "um terço de" e "a terça parte de" devem ser apresentadas. 
   * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, observarem que há diferentes representações para a equipartição. Por exemplo, 
 
-<WRAP nota>
-PÁGINA DE REPRODUÇÃO - FIGURA ARTÍSTICA
+<WRAP imagem>
+PÁGINA DE REPRODUÇÃO
+
+- FIGURA ARTÍSTICA -
 
 Imagens: a mesma barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
 
@@ -45,7 +47,7 @@ Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode se
 
     - Você concorda com essa divisão? Explique.
     - Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
-    - Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate. <WRAP imagem> Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apenas a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.</WRAP>
+    - Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate. <WRAP imagem>  - FIGURA ARTÍSTICA - Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apenas a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.</WRAP>
     - Considerando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a quantidade de chocolate que cada irmão receberia? 
 
 <hidden Resposta>
