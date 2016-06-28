@@ -22,7 +22,7 @@ Classificações
 
 Complete as afirmações com uma das frações: "dois meios", "dois terços", "dois quintos", "três quartos", "oito sextos" e "nove meios" para que sejam verdadeiras.
 
-<WRAP imagem>
+<WRAP imagem> FIGURAS GEOMÉTRICAS -  fazer as figuras individialmente (são 10 figuras, 2 para cada item), sem o texto. 
 {{ :cap2:secoes:preencha-01.png?700 |}}
 </WRAP>
 
