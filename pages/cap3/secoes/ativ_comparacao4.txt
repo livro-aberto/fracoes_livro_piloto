@@ -1,3 +1,4 @@
+
 <hidden PARA O PROFESSOR>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
@@ -21,8 +22,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Na figura, há várias retas paralelas igualmente espaçadas e outra reta, destacada em vermelho, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em vermelho pontos também igualmente espaçados. Dois desses pontos correspondem ao 0 e ao 1, determinando uma reta numérica, como ilustra a figura. 
 
-(a)	Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
-(b)	Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.
+  - Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
+  - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.
 
 <WRAP Imagem>
 {{ :cap3:secoes:parelas.jpg?300 |}}
@@ -34,6 +35,7 @@ Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de respos
 </hidden>
 	
 </WRAP>
+
 <hidden resposta>
 a)Inserir a imagem semelhante a do enunciado, com a frações $\frac{1}{2}$ destacada no ponto correspondente.
 b)Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
