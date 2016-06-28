@@ -28,7 +28,7 @@ Classificações
 
 Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que as tortas estavam divididas em 8 fatias, como na figura abaixo. 
 
-<WRAP imagem> Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria.
+<WRAP imagem> FIGURA ARTÍSTICA - Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria. Atenção: também há figura na resposta.
 </WRAP>
 
   - Que fração de uma torta é uma fatia? Explique.
@@ -40,7 +40,7 @@ Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que a
 <WRAP resposta>
   - Cada fatia é um oitavo de torta, pois cada torta está dividida em oito partes iguais.
   - Havia para a sobremesa quatro oitavos de torta.
-  - Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.{{ :cap2:secoes:tortas-circulares-01.png?100 |}}
+  - Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.\\ <WRAP imagem> FIGURA ARTÍSTICA {{ :cap2:secoes:tortas-circulares-01.png?100 |}}</WRAP>
   - Algumas respostas possíveis: dez oitavos de torta;  uma torta inteira e dois oitavos de torta; uma torta inteira e um quarto de torta.
 </WRAP>
 </hidden>
