@@ -28,7 +28,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Em cada uma das imagens, a parte colorida é uma fração da figura. Essas frações podem ser "um meio", "um quarto" ou "um décimo" da figura. Associe cada imagem à fração correspondente.
 
-<WRAP imagem> 
+<WRAP imagem> FIGURAS GEOMÉTRICAS - Devem ser feitas individualmente sem os itens A), B), etc.
 
 {{ :undefined:ummeio_umquarto_um_decimo.jpg?600 |}}
 
