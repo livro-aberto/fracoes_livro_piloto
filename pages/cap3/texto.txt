@@ -39,7 +39,9 @@
 ===== - Atividade =====
 {{page>cap3:secoes:ativ_comparacao3}}
 
-
+{{anchor:ativ_comparacao4}}
+===== - Atividade =====
+{{page>cap3:secoes:ativ_comparacao4}}
 
 
 {{anchor:conexoes}}
