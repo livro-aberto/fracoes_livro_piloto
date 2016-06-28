@@ -54,7 +54,7 @@ Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode se
 <WRAP resposta>
     - Este item não possui resposta correta, apenas respostas coerentes com a explicação do aluno. Por exemplo, um estudante pode dizer que sim e explicar que o irmão mais velho deve ficar com uma parte maior porque precisa de mais energia. Mas a resposta esperada é que a divisão não é justa porque as quantidades de chocolate são diferentes.
     - Não, eles receberão quantidades diferentes de chocolate, embora cada um receba um único pedaço do chocolate.
-    - Respostas possíveis:<WRAP imagem> {{:cap1:secoes:licao1_atv1.png?600|}}\\ ilustração: Cambrainha </WRAP>
+    - Respostas possíveis:<WRAP imagem>  - FIGURA ARTÍSTICA -\\ {{:cap1:secoes:licao1_atv1.png?600|}}\\ ilustração: Cambrainha </WRAP>
     - Cada parte é "um terço" da barra ou a "terça parte" da barra.
 </WRAP>
 </hidden>
