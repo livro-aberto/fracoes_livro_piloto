@@ -20,7 +20,7 @@ Classificações:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<WRAP imagem>
+<WRAP imagem> FIGURA GEOMÉTRICA 
 
 O raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
 
@@ -34,7 +34,7 @@ O raio do círculo deve ser igual ao raio dos setores circulares usados na Liç�
 
 O objetivo desta atividade é estudar a fração do círculo que está pintada de cinza no encarte que você recebeu.
 
-<WRAP imagem>
+<WRAP imagem> FIGURA GEOMÉTRICA - As figuras são individuais. Observe que são apenas 4 figuras.
 É importante que o raio do círculo desta figura seja igual aos raios dos setores circulares da tabela.
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
 </WRAP>
@@ -54,21 +54,3 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 | $\frac{1}{12}$ {{:cap4:secoes:peca-um-doze-avos.png?300|}}  | $8$ | $\frac{8}{12}$ | $\frac{4}{12}$ |
 </WRAP>
 </hidden>
-
-/*
-<hidden Comentário - a ser apagado>
-(i) Acho que o enunciado ao aluno não está claro. "Usando o encarte e os setores circulares coloridos que você recebeu, complete a tabela a seguir. O objetivo é descobrir que fração do círculo está pintada de cinza em termos dos setores circulares". Não sei se está claro o que é o encarte e a expressão "em termos dos setores circulares". 
-
-Sugiro algo como: Responda às perguntas na tabela a seguir usando frações. Se necessário, use as peças coloridas que você recortou para avaliar as suas respondas.
-
-(ii) A folha de reprodução só terá a região a ser medida ou também os demais setores? Acho que a imgem da página (ou as imagens das páginas) a ser(em) reproduzida(s) tem (têm) que estar completa(s).
-
-(iii) Na primeira coluna, a ideia é essa mesmo... ter a fração em linguagem simbólica e na representação em setor circular?
-
-(iv) Alterei as perguntas na tabela. 
-| Tipo da peça |  Quantas peças cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo do encarte?  | Que fração do círculo ficou sem preencher? |
-
-| Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo?  | Que fração do círculo não está colorida de cinza? |
-
-</hidden> 
-*/
