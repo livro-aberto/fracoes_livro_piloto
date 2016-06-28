@@ -18,20 +18,20 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do ponto de partida ao de chegada. Observe a posição da tartaruga na imagem e avalie se as afirmações a seguir estão corretas ou não. Em cada item, explique a sua avaliação por escrito.
-  - (a)	A tartaruga já percorreu mais do que a metade do percurso total.
-  - (b)	A tartaruga já percorreu mais do que $\frac{3}{4}$ do percurso total.
-  - (c)	A tartaruga já percorreu mais do que $\frac{3}{8}$ do percurso total.
-  - (d)	A tartaruga já percorreu menos do que $\frac{3}{4}$ do percurso total.
-  - (e)	A tartaruga já percorreu menos do que $\frac{2}{8}$ do percurso total.
-  - (f)	A tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total.
-  - (g)	A tartaruga já percorreu cerca de $\frac{3}{4}$ do percurso total.
-  - (h)	A tartaruga já percorreu pelo menos $\frac{5}{8}$ do percurso total.
-  - (i)	Para alcançar a chegada, a tartaruga deve percorrer mais do que a metade do caminho.
-  - (j)	Para alcançar a chegada, a tartaruga deve percorrer menos do que $\frac{2}{3}$ do caminho.
+  - A tartaruga já percorreu mais do que a metade do percurso total.
+  - A tartaruga já percorreu mais do que $\frac{3}{4}$ do percurso total.
+  - A tartaruga já percorreu mais do que $\frac{3}{8}$ do percurso total.
+  - A tartaruga já percorreu menos do que $\frac{3}{4}$ do percurso total.
+  - A tartaruga já percorreu menos do que $\frac{2}{8}$ do percurso total.
+  - A tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total.
+  - A tartaruga já percorreu cerca de $\frac{3}{4}$ do percurso total.
+  - A tartaruga já percorreu pelo menos $\frac{5}{8}$ do percurso total.
+  - Para alcançar a chegada, a tartaruga deve percorrer mais do que a metade do caminho.
+  - Para alcançar a chegada, a tartaruga deve percorrer menos do que $\frac{2}{3}$ do caminho.
 
 <WRAP imagem>
 
-{{ :cap3:secoes:tartaruga.jpg?300 |}}
+{{ :cap3:secoes:tartaruga.jpg |}}
 
 <hidden para o ilustrador>
 O percurso deve estar dividido em 24 partes congruentes, como ilustra a imagem. A tartaruga deve estar na 11a marcação. 
