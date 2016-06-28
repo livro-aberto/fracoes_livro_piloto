@@ -25,7 +25,8 @@ José comeu $\frac{1}{2}$ de uma pizza. Ella comeu $\frac{1}{2}$ de uma outra pi
 <hidden Resposta>
 <WRAP resposta>
 José está certo se a pizza da qual comeu metade for maior do que a pizza da qual Ella comeu metade, como ilustra a figura a seguir.
-
+<WRAP imagem> FIGURA GEOMÉTRICA 
 {{ :cap2:secoes:naep-resposta-01.png?700 |}}
+</WRAP>
 </WRAP>
 </hidden>
