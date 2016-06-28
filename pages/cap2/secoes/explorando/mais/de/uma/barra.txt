@@ -23,9 +23,10 @@ Classificações:
   * Nicely, Jr.: Nível 1: reconhecer
   * UERJ: Observar: identificar e reconhecer
 
-
+<WRAP imagem> FIGURA GEOMÉTRICA - As figuras desta lição são todas geométricas. Devem conter as chaves e o texto logo abaixo das chaves além da seta. Observe que serão três figuras (uma para a página de reprodução, uma da barra inteira e a outra com a divisão proposta contendo seta, chaves e texto)
 <WRAP nota> FOLHA DE REPRODUÇÃO
 Figura das barras de chocolate com as que estão no texto da atividade.
+</WRAP>
 </WRAP>
 </WRAP>
 </hidden>
