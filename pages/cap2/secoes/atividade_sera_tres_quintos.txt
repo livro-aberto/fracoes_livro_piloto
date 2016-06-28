@@ -20,9 +20,9 @@ Classificações
 </hidden>
 
 Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
-
+<WRAP imagem> FIGURA GEOMÉTRICA.
 {{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
-
+</WRAP>
 <hidden Resposta>
 <WRAP resposta>
 Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{3}{5}$ da figura. De fato: partindo-se a parte pintada em $3$ partes iguais e justapondo-se $5$ cópias de uma destas partes, a figura é recomposta apenas parcialmente.
