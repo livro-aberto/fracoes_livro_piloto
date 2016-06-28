@@ -27,6 +27,8 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
   * Discuta com os estudantes que quanto maior o número de partes iguais em que se particiona o quadrado, menor fica cada uma das partes.
 </WRAP>
 </hidden>
+<WRAP imagem> FIGURAS GEOMÉTRICAS - Observe que há figuras no "Para o professor" e na "Resposta".
+</WRAP>
 
     - Pinte metade do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
     - Pinte um quarto do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
