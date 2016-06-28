@@ -21,12 +21,14 @@ Classificações:
 FOLHA DE REPRODUÇÃO
 
 <WRAP imagem>
-<WRAP nota>
+
 O raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
-</WRAP>
+
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
 </WRAP>
+
 </WRAP>
+
 </WRAP>
 </hidden>
 
