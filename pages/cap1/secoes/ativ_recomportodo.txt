@@ -6,7 +6,7 @@ Ir para [[cap1:texto#ativ_recomportodo]]
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
     * Recompor a unidade a partir de uma fração unitária dada em modelos contínuos. 
-    * Relacionar uma fração da unidade à quantidade necessária dessas partes para compor a unidade. Assim, por exemplo, é necessário reunir cinco //quintas partes// para recompor o todo.  
+    * Relacionar uma fração da unidade à quantidade necessária dessas partes para compor a unidade. Assim, por exemplo, é necessário reunir cinco //quintas partes// para recompor o todo.
     
 
 Recomendações e sugestões para o desenvolvimento da atividade:
@@ -17,6 +17,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
+<WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras das linhas devem ser feitas individualmente. Observe que há figuras no "Para o professor" e na "Resposta".
+</WRAP>
   - {{:undefined:completar-o-todo-disco.jpg?30}} é metade de uma figura. Complete a figura para obter a unidade.
   - {{:undefined:completar-o-todo-disco.jpg?30}} é um terço de uma figura. Complete a figura para obter a unidade.
   - {{:undefined:completar-o-todo-disco.jpg?30}} é um quarto de uma figura. Complete a figura para obter a unidade.
