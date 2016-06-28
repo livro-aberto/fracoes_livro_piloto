@@ -9,8 +9,12 @@ Tikz é uma linguagem para fazer figuras.
 Usando essa linguagem podemos desenhar figuras geométricas com muita precisão e posteriormente fazer mudanças sem muito trabalho.
 
 Para quem quiser aprender mais sobre o Tikz:
-
-([[https://latexbr.blogspot.com.br/2011/01/desenhando-com-tikz.html|exemplo]]), e postadas nos links abaixo.
+  * Um lugar para fazer suas primeiras figuras em Tikz ([[https://www.overleaf.com/5580925mnmxfq|link]])
+  * Um exemplo de figura desse livro já feita em Tikz ([[https://www.overleaf.com/5580912gcpbtn|link]])
+  * Um exemplo comentado de figuras ([[https://latexbr.blogspot.com.br/2011/01/desenhando-com-tikz.html|link]])
+  * Um editor de Tikz gratuito para baixar (Windows) ([[http://www.tikzedt.org/|link]])
+  * Muitos exemplos de figuras em Tikz (Inglês) ([[http://www.texample.net/|link]])
+  * Manual do Tikz (Inglês) ([[www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf|link]])
 
 ===== Como colaborar =====
 
