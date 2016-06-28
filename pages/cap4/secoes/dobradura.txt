@@ -17,21 +17,23 @@ Classificações:
   * Nicely, Jr.: Nível 1: reconhecer
   * UERJ: Observar: identificar e reconhecer
 
-
-<WRAP nota>
+<WRAP imagem> FIGURA GEOMÉTRICA
+<WRAP nota> 
 FOLHA DE REPRODUÇÃO
 
 {{ :cap4:secoes:fracoes-equivalentes-dobradura.jpg?400 |}}
 </WRAP>
 </WRAP>
+</WRAP>
+
 </hidden>
 
 Junte-se a seus colegas e dobrem o retângulo da página de reprodução como indicado na coluna mais a esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela. Lembre-se: as dobraduras devem ser feitas perpendicularmente às várias linhas desenhadas no retângulo da página de reprodução.
-
+<WRAP imagem> FIGURA GEOMÉTRICA - as divisões e a parte pintada de amarelo do encarte devem aparecer! Também há figuras em Resposta. </WRAP>
 | Como dobrar                                                                                                        | Quantidade de retângulos pintados  | Quantidade total de retângulos  | Fração do retângulo do encarte que está pintada  |
 | {{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}}                                                            | 3                                  | 10                              | $\frac{3}{10}$                                   |
 | {{:cap4:secoes:dobradura-02.jpg?200}}                                                                              |                                    |                                 |                                                  |
-| {{:cap4:secoes:dobradura-03.png?200}} Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!    |                                    |                                 |                                                  |
+| {{:cap4:secoes:dobradura-03.png?200}}     |                                    |                                 |                                                  |
 | {{:cap4:secoes:dobradura-04.png?200}}                                                                              |                                    |                                 |                                                  |
 | Figura equivalente dobrada em 6 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!  |                                    |                                 |                                                  |
 | Figura equivalente dobrada em 8 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!  |                                    |                                 |                                                  |
@@ -39,11 +41,11 @@ Junte-se a seus colegas e dobrem o retângulo da página de reprodução como in
 <hidden Resposta>
 <WRAP resposta>
 | Como dobrar | Quantidade de retângulos pintados | Quantidade total de retângulos | Fração do retângulo do encarte que está pintada |
-| <WRAP imagem>{{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}}</WRAP> | 3 | 10 | $\frac{3}{10}$ |
-| <WRAP imagem>{{:cap4:secoes:dobradura-02.jpg?200}}</WRAP> | 6 | 20 | $\frac{6}{20}$ |
-| <WRAP imagem>{{:cap4:secoes:dobradura-03.png?200}}Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!</WRAP> | 9 | 30 | $\frac{9}{30}$ |
-| <WRAP imagem>{{:cap4:secoes:dobradura-04.png?200}}Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!</WRAP> | 12 | 40 | $\frac{12}{40}$ |
-| <WRAP imagem>Figura equivalente dobrada em 6 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!</WRAP> | 18 | 60 | $\frac{18}{60}$ |
-| <WRAP imagem>Figura equivalente dobrada em 8 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!</WRAP> | 24 | 80 | $\frac{24}{80}$ |
+| {{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}} | 3 | 10 | $\frac{3}{10}$ |
+| {{:cap4:secoes:dobradura-02.jpg?200}} | 6 | 20 | $\frac{6}{20}$ |
+| {{:cap4:secoes:dobradura-03.png?200}} | 9 | 30 | $\frac{9}{30}$ |
+| {{:cap4:secoes:dobradura-04.png?200}} | 12 | 40 | $\frac{12}{40}$ |
+| Figura equivalente dobrada em 6 partes.| 18 | 60 | $\frac{18}{60}$ |
+| Figura equivalente dobrada em 8 partes.| 24 | 80 | $\frac{24}{80}$ |
 </WRAP>
 </hidden>
