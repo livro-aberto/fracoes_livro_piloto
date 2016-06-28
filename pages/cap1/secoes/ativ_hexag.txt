@@ -17,7 +17,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 </WRAP>
 </hidden>
-
+<WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras das linhas devem ser feitas individualmente. Observe que também há figuras na "Resposta".
+</WRAP>
     - Pinte metade da figura. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
     - Pinte metade da figura de forma diferente do item anterior. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
     - Pinte a metade da figura de forma diferente dos três anteriores. \\ {{ :cap1:secoes:fracoes-unitarias-dois-hexagonos-03.jpg?150 |}}
