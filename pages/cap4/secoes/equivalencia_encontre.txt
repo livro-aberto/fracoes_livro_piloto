@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap4:texto#explorando_encontre]]
+Ir para [[cap4:texto#equivalencia_encontre]]
 ;;#
 
 <hidden Para o professor>
