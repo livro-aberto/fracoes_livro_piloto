@@ -11,8 +11,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Alguns alunos podem ainda necessitar de apoio de material concreto para responder à questão.
   * Recomenda-se que, na discussão da atividade, uma reta numérica com quintos marcados seja usada como uma contrapartida visual para as respostas das perguntas.
-
+<WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:comparacao-de-fracoes-quintos.jpg?1200 |}}
+</WRAP>
 
 Classificações
   * Heid et al.: Conceito: elaborar
@@ -21,14 +22,12 @@ Classificações
 </WRAP>
 </hidden>
 
-(A) Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+  - Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+  - Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
 
-(B) Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
-
-<hidden Para o professor>
+<hidden Resposta>
 <WRAP resposta>
-(A) Três frações: $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$.
-
-(B) Infinitas frações $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc.
+    - Três frações: $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$.
+    - Infinitas frações $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc.
 </WRAP>
 </hidden>
