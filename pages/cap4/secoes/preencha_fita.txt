@@ -40,7 +40,7 @@ Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade XX da Lição 3 para avaliar as suas respostas. 
 
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
-| {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | | | |
+| {{ :cap4:secoes:fita-um-meio.jpg?0x150 |}}  | | | |
 | {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | | | |
 | {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | | | |
@@ -50,7 +50,7 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 <hidden Resposta>
 <WRAP resposta>
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
-| {{ :cap4:secoes:fita-um-meio.jpg?1200 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
+| {{ :cap4:secoes:fita-um-meio.jpg?0x150 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
 | {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
 | {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | $3$ | $\frac{3}{6}$ | $\frac{3}{6}$ |
 | {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | $4$ | $\frac{4}{8}$ | $\frac{4}{8}$ |
