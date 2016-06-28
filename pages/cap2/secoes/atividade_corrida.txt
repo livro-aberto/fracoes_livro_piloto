@@ -29,7 +29,7 @@ Para a pergunta sobre as posições dos carrinhos de Rafael e Samuel:
 Lucas, Matheus, Heitor, Rafael, Enzo, Nicolas, Lorenzo, Guilherme e Samuel estavam brincando de empurrar seus carrinhos de brinquedo para ver qual carrinho ia mais longe em uma pista reta.
 
 A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou na pista com relação ao ponto de largada.
-
+<WRAP imagem> FIGURA ARTÍSTICA - deve incluir o texto. Entendendo bem a atividade pode tentar fazer algo mais bonito. Obseve que há figura similar na Resposta</WRAP>
 {{ :cap2:secoes:corrida-01.png?1200 |}}
 
 Sabe-se que:
