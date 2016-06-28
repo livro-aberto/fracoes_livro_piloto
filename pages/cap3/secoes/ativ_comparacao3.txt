@@ -1,0 +1,47 @@
+<hidden PARA O PROFESSOR>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Estabelecer a comparação entre frações a partir da representação na reta numérica;
+  * Comparar frações, tanto com o mesmo numerador como com mesmo denominador.
+
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * É solicitado que os alunos escrevam a justificativa para a avaliação de cada item. Essa decisão tem como objetivo fazer com que aluno vá além da argumentação oral, mas que consiga organizar as ideias para se expressar por escrito. 
+  * Observe que o caminho está repartido em 24 partes coongruentes, ainda que não haja frações sugeridas. A ideia é que o alunos possa sozinho decidir sobre os pontos correspondentes à metade, quartos, oitavos e terços. Se necessário discuta essas marcações com os alunos. 
+  * Cabe observar que cada item pode ser resolvido de forma independente. Por exemplo, para decidir se a posição da tartaruga corresponde a mais do que $\frac{3}{8}$ do percurso total, o aluno deve identificar oitavos na reta numérica. Já para decidir se a tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total, deve identificar terços. Assimm, não há necessidade de comparar oitavos com terços.  
+  * Os itens (g) e (h) envolvem termos compartivos menos precisos do que maior do que e menor do que. As expressões "cerca de" e "pelo menos" oferecemm outras formas de se avaliar a comparação. 
+  * Os itens (i) e (j) exigem que os estudantes façam uma "leitura" da reta numérica ainda não experimentada. Precisam observar, em relação ao percurso total, ou seja, à unidade, a fração correspondente ao que ao que falta ser percorrido. 
+  * Há várias raciocínios possíveis para responder aos diversos itens desta atividade. Incentive seus alunos a explicarem como raciocinaram, ressaltando, sempre que possível, as diferentes soluções. 
+   
+</WRAP>
+</hidden>
+
+A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do ponto de partida ao de chegada. Observe a posição da tartaruga na imagem e avalie se as afirmações a seguir estão corretas ou não. Em cada item, explique a sua avaliação por escrito.
+  - (a)	A tartaruga já percorreu mais do que a metade do percurso total.
+  - (b)	A tartaruga já percorreu mais do que $\frac{3}{4}$ do percurso total.
+  - (c)	A tartaruga já percorreu mais do que $\frac{3}{8}$ do percurso total.
+  - (d)	A tartaruga já percorreu menos do que $\frac{3}{4}$ do percurso total.
+  - (e)	A tartaruga já percorreu menos do que $\frac{2}{8}$ do percurso total.
+  - (f)	A tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total.
+  - (g)	A tartaruga já percorreu cerca de $\frac{3}{4}$ do percurso total.
+  - (h)	A tartaruga já percorreu pelo menos $\frac{5}{8}$ do percurso total.
+  - (i)	Para alcançar a chegada, a tartaruga deve percorrer mais do que a metade do caminho.
+  - (j)	Para alcançar a chegada, a tartaruga deve percorrer menos do que $\frac{2}{3}$ do caminho.
+
+<WRAP imagem>
+
+{{ :cap3:secoes:tartaruga.jpg?300 |}}
+
+<hidden para o ilustrador>
+O percurso deve estar dividido em 24 partes congruentes, como ilustra a imagem. A tartaruga deve estar na 11a marcação. 
+
+</hidden>
+
+</WRAP>
+
+<hidden Resposta>
+FALTA
+
+</hidden>
+
