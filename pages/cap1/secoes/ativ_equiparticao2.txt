@@ -21,7 +21,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Na ilustração, as crianças dos grupos em que a pizza não possui fatias com iguais quantidades de pizza parecem contrariadas. Recomenda-se levantar a questão: "por que será que elas estão parecendo zangadas?"
   * Essa atividade pode ser adaptada para alunos com deficiência visual. Para isso, sugere-se confeccionar os modelos das três pizzas repartidas, que estão disponíveis para reprodução (**Inserir LINK de página para reprodução**), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado. 
 
-<WRAP imagem> 
+<WRAP imagem>  - FIGURA ARTÍSTICA 
 <WRAP nota> NA PÁGINA PARA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
 </WRAP>
 
@@ -34,7 +34,7 @@ ilustração: Cambrainha
 
 Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de uma turma. Para isso, a turma foi dividida em três grupos com quatro crianças cada. Veja como cada grupo repartiu a sua pizza.
 
-<WRAP imagem> A imagem deve conter 3 GRUPOS com 4 CRIANÇAS cada (Diversificar as características físicas das crianças). Cada um dos grupos deve estar observando uma pizza. Colocar duas das crianças do grupo 3 com feições "contrariadas". As pizzas devem ter mesmos tamanho e formato. As pizzas devem estar repartidas de três maneiras diferentes, como indicado nas imagens a seguir: Grupo 1, Grupo 2 e Grupo 3: 
+<WRAP imagem>  - FIGURA ARTÍSTICA - A imagem deve conter 3 GRUPOS com 4 CRIANÇAS cada (Diversificar as características físicas das crianças). Cada um dos grupos deve estar observando uma pizza. Colocar duas das crianças do grupo 3 com feições "contrariadas". As pizzas devem ter mesmos tamanho e formato. As pizzas devem estar repartidas de três maneiras diferentes, como indicado nas imagens a seguir: Grupo 1, Grupo 2 e Grupo 3: 
 
 {{:cap1:secoes:licao1_atv2.png?500|}}
 
