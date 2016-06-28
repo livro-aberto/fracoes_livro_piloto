@@ -1,3 +1,4 @@
+/*
 <hidden Estrutura da Lição>
 
 Lição 4: Frações equivalentes e comparação de frações
@@ -7,27 +8,26 @@ Lição 4: Frações equivalentes e comparação de frações
     * Frações gerais como justaposição de frações unitárias.
     * Representação de frações em modelos de comprimento, área, volume, massa e na reta numérica.
 
-/*
     - Associação da unidade ao 1. 
     - Equivalência observada a partir da reta numérica - Por exemplo, reconhecer que 1/2 = 3/6.
-*/
+
 
 
 **Conteúdos da lição:** 
     * Equivalência abordada no contexto de representações diferentes para uma mesma quantidade.
     * Comparação de frações via equivalência.
     
-/*    
+
     - Porcentagem como uma representação particular de frações 
- */
+
 
 
 **Esqueleto da lição:**
 
 Preâmbulo:
-/*
+
 Atividade que revise a representação de fraçoes equivalentes na reta numerada.
-*/
+
 
 Atividade 1: Equivalência aproveitando os discos de pano que talvez Letícia inclua na Lição 1. Ver também as Lições 8 e 9 do Rational Number Project.
 
@@ -95,36 +95,7 @@ A completar....
   * A general development of operational capacity required for multiplicative reasoning appeared to be responsible for the initial understanding and representing an equivalence fraction. Second, the performance patterns suggest a subconstruct-by-subconstruct course of acquiring the concept of fraction equivalence. This makes the process of constructing fraction equivalence concept a recursive one. It is ‘‘recursive’’ in two senses. One is that children have to construct the concept of fraction equivalence for one semantic domain after another. The other, related to the first, is that children’s concept of fraction equivalence undergoes qualitative changes. Children’s initial idea of fraction equivalence may be associated with particular contents and representations that are associated with particular actions and operations.
   * Algumas crianças não concordam que $\frac{3}{12} = \frac{1}{4}$ apesar de reconhecerem que elas descrevem uma mesma quantidade. As crianças argumentam que uma vez que as linhas separatórias são desenhadas elas não podem ser removidas e, daí, $\frac{3}{12} \not = \frac{1}{4}$.
 </hidden>
-<hidden Para o professor>
-<WRAP professor>
- Objetivo específico: Levar o aluno a
-
-    * Identificar BLÁBLÁ
-    * BLÉBLÉ
-
-Recomendações e sugestões para o desenvolvimento da atividade:
-
-    * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
-    * Outras sugestões...
-
-<WRAP nota>
-PREFERENCIALMENTE EM GRUPO de 3 a 5 alunos.
-</WRAP>
-
-<WRAP nota>
-PÁGINA PARA REPRODUÇÃO
-</WRAP>
-
-<WRAP nota>
-MATERIAL CONCRETO
-</WRAP>
-
-<WRAP nota>
-NECESSÁRIO (POSSIBILIDADE DE) USAR RECURSO DIGITAL
-</WRAP>
-
-</WRAP>
-</hidden>
 
 
+*/
 ====== Lição 4: Frações Equivalentes e Comparação de Frações ======
