@@ -19,16 +19,14 @@ Classificações
 </hidden>
 
 Para cada figura a seguir, indique a fração da figura que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual à metade de figura?
-
+<WRAP imagem> FIGURA GEOMÉTRICA - Figuras devem ser feitas individualmente sem os itens.
 {{ :cap2:secoes:comparacao-01.png?500 |}}
-
+</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
-(A) A parte pintada da figura é exatamente igual a $\frac{1}{2}$ da figura.
-
-(B) A parte pintada da figura é menor do que $\frac{1}{2}$ da figura.
-
-(C) A parte pintada da figura é maior do que $\frac{1}{2}$ da figura.
+  - A parte pintada da figura é exatamente igual a $\frac{1}{2}$ da figura.
+  - A parte pintada da figura é menor do que $\frac{1}{2}$ da figura.
+  - A parte pintada da figura é maior do que $\frac{1}{2}$ da figura.
 </WRAP>
 </hidden>
