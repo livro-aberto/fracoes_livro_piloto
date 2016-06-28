@@ -1,7 +1,19 @@
 ====== Lista de figuras geométricas ======
 
 Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. 
-As figuras devem ser elaboradas em Tikz ([[https://latexbr.blogspot.com.br/2011/01/desenhando-com-tikz.html|exemplo]]), e postadas nos links abaixo. 
+As figuras devem ser elaboradas em Tikz:
+
+===== Tikz =====
+
+Tikz é uma linguagem para fazer figuras.
+Usando essa linguagem podemos desenhar figuras geométricas com muita precisão e posteriormente fazer mudanças sem muito trabalho.
+
+Para quem quiser aprender mais sobre o Tikz:
+
+([[https://latexbr.blogspot.com.br/2011/01/desenhando-com-tikz.html|exemplo]]), e postadas nos links abaixo.
+
+===== Como colaborar =====
+
 Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
 Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
 
