@@ -19,7 +19,7 @@ Classificações
 
 Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu irmão tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  Quantos níveis do copo do seu irmão devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você? Justifique sua resposta!
 
-<WRAP imagem> FIGURAS ARTÍSTICAS</WRAP>
+<WRAP imagem> FIGURAS GEOMÉTRICAS</WRAP>
 <hidden Resposta>
 <WRAP resposta>
 As 17 marcações no copo do seu irmão divide a capacidade do copo em 16 partes iguais. Quantas destas partes correspondem a $\frac{3}{4}$ da capacidade do copo (que é fração da capacidade do copo que está preenchida com suco)? Para responder a esta pergunta, devemos calcular o numerador de uma fração de denominador 16 que seja igual a $\frac{3}{4}$, isto é, devemos preencher $\square$ com um número tal que
