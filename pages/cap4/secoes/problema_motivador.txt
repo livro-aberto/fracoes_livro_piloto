@@ -11,7 +11,7 @@ Miguel é um menino negro de cabelos cheios e cacheados. Alice é uma menina mor
 
 Alice: Miguel, qual fração é maior? $\frac{1}{3}$ ou $\frac{8}{25}$?
 
-Miguel: Hummm...
+Miguel: Hummm $\cdots$
 
 **Quadrinho 2**
 
