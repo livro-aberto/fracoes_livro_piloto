@@ -21,21 +21,14 @@ Classificações
 O objetivo desta atividade é determinar qual é a maior e qual é a menor fração entre
 as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
-(A) Determine três frações de mesmo denominador que sejam iguais às frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
-
-(B) Usando as frações do Item (A), determine qual é a maior e qual é a menor fração entre
-as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+  - Determine três frações de mesmo denominador que sejam iguais às frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+  - Usando as frações do Item (A), determine qual é a maior e qual é a menor fração entre as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
 <hidden Resposta>
 <WRAP resposta>
-(A) $60$ é um múltiplo comum de $6$, $20$ e $15$: $60 = 10 \times 6$, $60 = 4 \times 15$ e $60 = 3 \times 20$. Portanto,
-
-$\frac{11}{6} = \frac{10 \times 11}{10 \times 6} = \frac{110}{60}$,
-$\frac{28}{15} = \frac{4 \times 28}{4 \times 15} = \frac{112}{60}$ e
-$\frac{37}{20} = \frac{3 \times 37}{3 \times 20} = \frac{111}{60}$.
-
-(B) Tem-se que $\frac{110}{60} < \frac{111}{60} < \frac{112}{60}$. Logo,
-$\frac{11}{6} < \frac{37}{20} < \frac{28}{15}$.
+  - $60$ é um múltiplo comum de $6$, $20$ e $15$: $60 = 10 \times 6$, $60 = 4 \times 15$ e $60 = 3 \times 20$. Portanto, $$\frac{11}{6} = \frac{10 \times 11}{10 \times 6} = \frac{110}{60},$$ $$\frac{28}{15} = \frac{4 \times 28}{4 \times 15} = \frac{112}{60} \quad {\rm  e}$$ $$\frac{37}{20} = \frac{3 \times 37}{3 \times 20} = \frac{111}{60}.$$\\
+  - Tem-se que $\frac{110}{60} < \frac{111}{60} < \frac{112}{60}$. Logo,
+$$\frac{11}{6} < \frac{37}{20} < \frac{28}{15}.$$
 </WRAP>
 </hidden>
 
