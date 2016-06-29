@@ -84,7 +84,7 @@ local linefeed = token('linefeed', '\n')
 local simplemath = surround('simplemath', '$', (simpletext + S('<>'))^1)
 local atividade = token('atividade', '===== - Atividade =====')
 local title = P('=====') * token('title', simpletext) * P('=====')
-local titlechapter = P('======') * token('title', simpletext) * P('======')
+local titlechapter = P('======') * token('titlechapter', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * S(':|')^0 * token('image', simpletext) * P('|')^0 * P('}}')
@@ -239,7 +239,11 @@ function texprint (tbl, indent)
    return outstr
 end
 
-file = io.open ('/var/www/livro/data/gitrepo/bin/header.tex', "r")
+if arg[3] == "aluno" then
+  file = io.open ("/var/www/livro/data/gitrepo/bin/header.tex", "r")
+else
+  file = io.open ("/var/www/livro/data/gitrepo/bin/headerprofessor.tex", "r")
+end
 outstring = file:read("*a")
 io.close(file)
 
