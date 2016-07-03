@@ -1,4 +1,3 @@
-====== ORGANIZANDO AS IDEIAS ======
 ;;#
 Ir para [[cap4:texto#organizando_ideias]]
 ;;#
