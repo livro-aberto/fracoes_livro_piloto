@@ -1,5 +1,8 @@
-
+;;#
+Ir para [[cap6:texto#preambulo]]
+;;#
 ====== LIÇÃO 6 - Multiplicação de frações ======
+
 
 <hidden Estrutura da lição>
 
