@@ -8,8 +8,7 @@
 
 /*{{page>cap2:secoes:intro}}*/
 
-{{anchor:explorando_intro}}
-{{page>cap2:secoes:explorando_intro}}
+===== EXPLORANDO O ASSUNTO =====
 
 {{anchor:barra}}
 ==== - Atividade ====
