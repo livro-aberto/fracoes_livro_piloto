@@ -1,0 +1,3 @@
+;;#
+Ir para [[cap6:texto#renomear1]]
+;;#
