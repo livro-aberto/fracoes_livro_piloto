@@ -1,7 +1,7 @@
 ;;#
 Ir para [[cap7:texto#preambulo]]
 ;;#
-====== LIÇÃO 7 -  Divisão de frações ======
+====== LIÇÃO 7 -  Multiplicação de frações por frações ======
 <hidden Estrutura da Lição>
 
 Estrutura da Lição\\
