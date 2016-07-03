@@ -27,9 +27,12 @@
 ==== - Atividade ====
 {{page>cap2:secoes:explorando_atividade_entender_linguagem}}
 
+===== ORGANIZANDO AS IDEIAS =====
 {{anchor:conexoes}}
 {{page>cap2:secoes:conexoes}}
 
+
+===== MÃO NA MASSA =====
 {{anchor:massa}}
 {{page>cap2:secoes:massa}}
 
