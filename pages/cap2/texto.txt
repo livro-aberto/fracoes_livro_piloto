@@ -33,8 +33,6 @@
 
 
 ===== MÃO NA MASSA =====
-{{anchor:massa}}
-{{page>cap2:secoes:massa}}
 
 {{anchor:atividade_poder_da_notacao}}
 ==== - Atividade ====
