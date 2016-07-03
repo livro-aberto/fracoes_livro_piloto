@@ -1,4 +1,6 @@
-
+;;#
+Ir para [[cap7:texto#preambulo]]
+;;#
 ====== LIÇÃO 7 -  Divisão de frações ======
 <hidden Estrutura da Lição>
 
