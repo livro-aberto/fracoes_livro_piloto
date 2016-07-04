@@ -4,7 +4,7 @@ Ir para [[cap1:texto#ativ_enfeite]]
 
 <hidden Para o Professor>
 <WRAP professor>
-Objetivo específico:
+Objetivo específico:Levar o aluno a
   * Abordar a equipartição em um modelo linear.
   * Reconhecer a quarta parte como a metade da metade.
 
@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, quer cortar o barbante em pedaços iguais, para que os enfeites fiquem todos da mesma altura. Ajude Alice a cortar o barbante.
+Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, quer cortar o barbante em pedaços iguais, para que os enfeites fiquem todos na mesma altura. Ajude Alice a cortar o barbante.
 
 <WRAP imagem>  - FIGURA ARTÍSTICA - Incluir imagem de um pedaço de barbante e de 4 estrelas congruentes, como ilustrado a seguir:
 Alice é uma menina morena de rabo de cavalo. Ela será um personagem frequente deste livro.
@@ -29,12 +29,12 @@ Alice é uma menina morena de rabo de cavalo. Ela será um personagem frequente 
 
 <WRAP imagem> - FIGURA ARTÍSTICA -
 <WRAP nota> 
-INCLUIR PÁGINA DE REPRODUÇÃO COM apenas 1 ESTRELA com aproximadamente 10 cm de altura para ser recortada.
+INCLUIR PÁGINA DE REPRODUÇÃO COM apenas 1 ESTRELA com aproximadamente 15 cm de altura para ser recortada.
 </WRAP>
 </WRAP>
 
 <hidden Resposta>
-<WRAP resposta> Uma maneira de se cortar o barbante é dobrar ao meio e depois dobrar novamente ao meio obtendo quatro partes iguais como ilustrado na figura a seguir.
+<WRAP resposta> Uma maneira de se cortar o barbante é dobrar ao meio e depois dobrar novamente ao meio, obtendo quatro partes iguais, como ilustrado na figura a seguir.
 <WRAP imagem> - FIGURA ARTÍSTICA - Sequência de duas imagens que ilustrem um barbante sendo dobrado sobre ele mesmo duas vezes sucessivas, até que se obtenha quartos. Por exemplo, como a imagem a seguir:
 {{ :cap1:secoes:barbante_dobras.jpg?300 |}}
 </WRAP>
