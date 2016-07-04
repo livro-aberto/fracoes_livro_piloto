@@ -4,19 +4,19 @@ Ir para [[cap1:texto#ativ_equiparticao]]
 
 <hidden Para o Professor>
 <WRAP professor> Objetivos específicos: Levar o aluno a 
-  * Diferenciar a divisão da unidade em partes "quaisquer" da divisão da unidade em partes "iguais" (equipartição). 
+  * Diferenciar a partição da unidade em partes "quaisquer" da partição da unidade em partes "iguais" (equipartição). 
   * Reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
-  * Diferenciar "a divisão da unidade em três partes quaisquer" da "divisão da unidade em três partes iguais". 
-  * Compreender as expressões "um terço de" e "terça parte de" como forma de identicar uma das partes da equipartição da unidade em três partes. 
+  * Diferenciar "a partição da unidade em três partes quaisquer" da "partição da unidade em três partes iguais". 
+  * Compreender as expressões "um terço de" e "terça parte de" como formas de identicar uma das partes da equipartição da unidade em três partes. 
 
 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos. 
-  * Busque conduzir a discussão nos grupos de modo que os estudantes percebam que, para que os irmãos recebam a mesma quantidade de chocolate, a divisão proposta para a barra de chocolate deve ser em "partes iguais", no sentido de ganharem todos a mesma quantidade de chocolate, não necessariamente pedaços de mesma forma.
-  * Na discussão, procure destacar que a referência à "divisão em três partes iguais" se dá (igualmente) a partir das expressões "um terço" da barra de chocolate ou "a terça parte" da barra de chocolate.
+  * Busque conduzir a discussão nos grupos de modo que os estudantes percebam que, para que os irmãos recebam a mesma quantidade de chocolate, a partição proposta para a barra de chocolate deve ser em "partes iguais", no sentido de ganharem todos a mesma quantidade de chocolate, não necessariamente pedaços de mesma forma.
+  * Na discussão, procure destacar que a referência à "partição em três partes iguais" se dá (igualmente) a partir das expressões "um terço" da barra de chocolate ou "a terça parte" da barra de chocolate.
   * O item (d), provavelmente, pode não ser respondido corretamente pelos alunos. Se for o caso, as expressões "um terço de" e "a terça parte de" devem ser apresentadas. 
-  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "divisão em três partes iguais". Ou ainda, observarem que há diferentes representações para a equipartição. Por exemplo, 
+  * Fique atento às falas dos alunos. Observe que os alunos podem representar e verbalizar as respostas de diferentes modos e que não há uma resposta única para a atividade. Por exemplo, alguns alunos podem precisar de mais tempo do que outros para usar a expressão "um terço" no lugar de "partição em três partes iguais" ou "divisão em três partes iguais". Ou ainda, observarem que há diferentes representações para a equipartição. Por exemplo, 
 
 <WRAP imagem>
 PÁGINA DE REPRODUÇÃO
@@ -52,7 +52,7 @@ Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode se
 
 <hidden Resposta>
 <WRAP resposta>
-    - Este item não possui resposta correta, apenas respostas coerentes com a explicação do aluno. Por exemplo, um estudante pode dizer que sim e explicar que o irmão mais velho deve ficar com uma parte maior porque precisa de mais energia. Mas a resposta esperada é que a divisão não é justa porque as quantidades de chocolate são diferentes.
+    - Este item não possui resposta correta, apenas respostas coerentes com a explicação do aluno. Por exemplo, um estudante pode dizer que sim e explicar que o irmão mais velho deve ficar com uma parte maior porque precisa de mais energia. Mas a resposta esperada é que a divisão não é justa porque as quantidades de chocolate são diferentes. Discuta com os alunos para que entendam a divisão correspondente à resposta esperada.
     - Não, eles receberão quantidades diferentes de chocolate, embora cada um receba um único pedaço do chocolate.
     - Respostas possíveis:<WRAP imagem>  - FIGURA ARTÍSTICA -\\ {{:cap1:secoes:licao1_atv1.png?600|}}\\ ilustração: Cambrainha </WRAP>
     - Cada parte é "um terço" da barra ou a "terça parte" da barra.
