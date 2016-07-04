@@ -13,17 +13,17 @@ Objetiva-se a expressão verbal e não a representação simbólica. Espera-se, 
 </hidden>
 
 Os números que você havia estudado até aqui são usados para contar, ordenar e rotular, e são chamados números naturais.
-<WRAP imagem> - FIGURA ARTÍSTICA - E**STA IMAGEM PRECISA SER REFEIT**A.
+<WRAP imagem> - FIGURA ARTÍSTICA - **ESTA IMAGEM PRECISA SER REFEITA**.
 {{ :cap1:secoes:numeros-naturais-01.png?600 |}}
 </WRAP>
 
-Para que servem os números naturais?
+<del>Para que servem os números naturais?</del>
 
-As atividades que foram apresentadas nesta lição lidam com quantidades não inteiras: um terço de uma barra de chocolate, um quarto de pizza, por exemplo. 
-Outros exemplos aparecem no nosso dia a dia: "o ser humano passa um terço de sua vida dormindo", "eu tomei a metade de um copo de leite". 
-Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram repartidos em partes iguais. 
-Nesses casos, a barra de chocolate, uma pizza e o pedaço de barbante são vistos como unidades. 
-Cada uma das partes em que essas unidades foram repartidas igualmente é uma fração da unidade.
+Nas atividades que foram realizadas nesta lição, as quantidades registradas exigem a partição da unidade. Por exemplo, para obter um terço de uma barra de chocolate é necessário partir a barra de chocolate. Já para obter um quarto de pizza, é necessário partir a pizza. Outros exemplos aparecem no dia a dia: "eu tomei a metade de um copo de leite" ou 
+
+Nas atividades que realizamos, uma barra de chocolate, pizzas e um pedaço de barbante foram partidos em partes iguais. 
+Em cada um dos casos, o que foi  a barra de chocolate, uma pizza e o pedaço de barbante são, cada um, uma **unidade**. 
+Cada uma das partes em que essas unidades foram repartidas igualmente é uma **fração da unidade**.
 
 <WRAP imagem> - FIGURA ARTÍSTICA -
 **Imagem de uma pizza e de um pedaço de barbante, cada um dividido em 4 partes.**
