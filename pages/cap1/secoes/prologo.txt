@@ -26,3 +26,12 @@ O aluno deve ser capaz de:
 </hidden>
 
 
+/*
+PENDÊNCIAS E OBSERVAÇÕES INTERNAS:
+  * Quando for o caso, incluir ícone e link para atividade digital;
+  * Revisarba lição explorando mais a expressão unidade; 
+  * Atividade 6 - rever enunciaado / forma
+  * Incluir aividade 12 - Discos (Leticia)
+  * 
+*/
+
