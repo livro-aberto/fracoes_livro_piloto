@@ -12,7 +12,7 @@ Objetiva-se a expressão verbal e não a representação simbólica. Espera-se, 
 </WRAP>  
 </hidden>
 
-Os números que você havia estudado até aqui são usados para contar, ordenar e rotular, e são chamados números naturais.
+Os números que você havia estudado até aqui são usados para contar, medir, ordenar e rotular, e são chamados números naturais.
 <WRAP imagem> - FIGURA ARTÍSTICA - **ESTA IMAGEM PRECISA SER REFEITA**.
 {{ :cap1:secoes:numeros-naturais-01.png?600 |}}
 </WRAP>
