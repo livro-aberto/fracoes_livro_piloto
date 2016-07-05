@@ -17,7 +17,7 @@ Ir para [[cap6:texto#preambulo]]
 
 OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado àa multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
 
-OBS: No entanto, mesmo que não formalmente, a comutatividade precisa ser abordada para que a o aluno compreenda que, por exemplo, 5 x $\frac{3}{4}$ = \frac{3}{4}$ x 5 = \frac{15}{4}$.
+OBS: No entanto, mesmo que não formalmente, a comutatividade precisa ser abordada para que a o aluno compreenda que, por exemplo, 5 x $\frac{3}{4}$ = $\frac{3}{4}$ x 5 = $\frac{15}{4}$.
 
 OBS: Recomenda-se que, como na seção anterior, sejam usados como recurso didático o modelo de blocos para representar e ilustrar o processo operatório. 
 
