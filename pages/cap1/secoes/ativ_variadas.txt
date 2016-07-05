@@ -16,21 +16,18 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Considere o círculo como unidade. 
-Associe cada afirmação à figura cuja pate colorida é a fração correspondente do círculo. \\
-    -	A parte colorida é um quinto do círculo.
-    -	A parte colorida é a sexta parte do círculo.
-    -	A parte colorida é um sétimo do círculo.
-    -	A parte colorida é um oitavo do círculo.
-    -	A parte colorida é a nona parte do círculo.
-    -	A parte colorida é um décimo do círculo.\\ 
-    
-<WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
+Nas figuras a seguir cada um dos círculos está dividido em partes iguais. Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras. 
+    -	A parte colorida do círculo  é um quinto do círculo.
+    -	A parte colorida do círculo  é a sexta parte do círculo.
+    -	A parte colorida do círculo  é um sétimo do círculo.
+    -	A parte colorida do círculo  é um oitavo do círculo.
+    -	A parte colorida do círculo  é a nona parte do círculo.
+    -	A parte colorida do círculo  é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
 {{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>\\
-  - Dentre as frações do círculo apresentadas, identifique uma que seja menor que um sexto do círculo.
-  - Dentre as frações do círculo apresentadas, identifique uma que seja maior que um nono do círculo.
-  - identifique uma fração do círculo que seja menor que um sexto e maior que um nono do círculo.
+    - Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
+    - Dentre as frações do círculo apresentadas, identifique uma que seja maior do que um nono do círculo.
+    - Identifique uma fração do círculo que seja menor do que um sexto e maior do que um nono do círculo.
 
 <hidden Resposta>
 <WRAP resposta>
