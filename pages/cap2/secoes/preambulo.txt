@@ -72,7 +72,7 @@ Estratégia: Não escreveremos explicitamente uma adição de frações unitári
 
 <hidden Para o professor>
 <WRAP professor> 
-Nesta seção, serão estudadas as frações com numeradores diferentes de 1, tanto as próprias (caso em que o numerador é menor do que ou igual ao denominador) como as impróprias (caso em que o numerador é maior do que o denominador).
+Nesta seção, serão estudadas as frações com numeradores diferentes de 1, tanto as próprias (caso em que o numerador é menor do que o denominador) como as impróprias (caso em que o numerador é maior do que ou igual ao denominador).
 Também serão abordadas a notação simbólica de frações e a comparação entre frações que tenham o mesmo denominador. 
 
 As frações com numerador diferente de 1 são apresentadas a partir da /* ** justaposição de frações unitárias com mesmo denominador ou simplesmente contando-se essas frações** */ ** justaposição de partes correspondentes às frações unitárias com mesmo denominador ou simplesmente contando-se essas frações **. Para isso, tem-se a representação pictórica como um apoio importante. 
