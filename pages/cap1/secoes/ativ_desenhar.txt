@@ -11,8 +11,8 @@ Objetivos específicos: Levar o aluno a:
   * Comparar as frações unitárias metade, um quarto e um oitavo de um mesmo quadrado.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * Essa é uma atividade que o aluno pode fazer individualmente. 
-  * Não se espera que, nesta atividade, os alunos usem a medida para fazer a equipartição de maneira mais precisa. O objetivo é que fazer a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas
+  * Esta é uma atividade que o aluno pode fazer individualmente. 
+  * Não se espera que, nesta atividade, os alunos usem a medida para fazer a equipartição de maneira mais precisa. O objetivo é fazer a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas:
 
 {{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}.
 
@@ -21,19 +21,19 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
 {{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
 
   * A representação da unidade se dá de forma genérica por um quadrado. 
-  * Espera-se que os alunos reconheçam que para obter um quarto pode determinar a metade da metade. E que, para obter um oitavo pode dividir um quarto ao meio.
-  * Recomende que os alunos usem dobradura para identificar as frações pedidas.Assim, por exemplo, a fração $\frac{1}{4}$ pode ser obtida por duas dobras do papel.    
+  * Espera-se que os alunos reconheçam que para obter um quarto da unidade basta tomar a metade da metade. E que, para determinar um oitavo pode dividir um quarto ao meio.
+  * Recomende que os alunos usem dobradura para identificar as frações pedidas. Assim, por exemplo, a fração $\frac{1}{4}$ pode ser obtida por duas dobras do papel.    
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
   * Discuta com os estudantes que quanto maior o número de partes iguais em que se particiona o quadrado, menor fica cada uma das partes.
 </WRAP>
 </hidden>
-<WRAP imagem> FIGURAS GEOMÉTRICAS - Observe que há figuras no "Para o professor" e na "Resposta".
+<WRAP imagem> FIGURAS GEOMÉTRICAS - Observe que há figuras no "Para o professor" e na "Resposta". IMPORTANTE: Substituir as figuras do para o proofessor por figuras pintadas como as da foto, sem muita "precisão".
 </WRAP>
 
     - Pinte metade do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
     - Pinte um quarto do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
     - Pinte um oitavo do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
-    - Observando os quadrados acima pintados. Qual é a maior das frações do quadrado: metade, quarto ou oitavo?
+    - Observando os quadrados pintados nos itens , qual é a maior das frações do quadrado: metade, quarto ou oitavo?
 <hidden Resposta>
 <WRAP resposta>
 
@@ -42,7 +42,7 @@ Algumas soluções possíveis, convencionais e outras menos convencionais são:
       - Metade: \\ {{:cap1:secoes:licao1_atv7_metade.png?400|}}
       - Um quarto:\\ {{:cap1:secoes:licao1_atv7_quarto.png?400|}}
       - Um oitavo: \\ {{:cap1:secoes:licao1_atv7_oitavo.png?400|}}\\ Incluir também as soluções abaixo.\\ {{ :cap1:secoes:fracoes_unitarias_do_quadrado.jpg?200 |}}\\ ilustração: Cambrainha
-      - Dentre as opções apresentadas a maior fração do quadrado é metade.
+      - Dentre as opções apresentadas, a maior fração do quadrado é metade.
 
 
 
