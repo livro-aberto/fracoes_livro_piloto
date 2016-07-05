@@ -8,7 +8,7 @@ A edição deste livro deve seguir a seguinte [[sintaxe]] que você pode testar 
 [[cap0:navega|Introdução]]
   * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap0/texto.txt|GitHub]].
 
-[[cap1:navega|Lição 1 - Equipartição; frações unitárias: conceito, linguagem, comparação simples contextualizada.]]
+[[cap1:navega|Lição 1 - Começando a falar sobre frações]]
   * [[https://www.umlivroaberto.com/livro/doku.php?id=cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]] - [[https://www.umlivroaberto.com/pdf/cap1_aluno.pdf|pdf do aluno]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
 
 [[cap2:navega|Lição 2 - Frações não-unitárias]]
