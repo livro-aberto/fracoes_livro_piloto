@@ -33,7 +33,7 @@ INCLUIR AINDA AS SEGUINTES IMAGENS:
 {{ :cap1:secoes:fig_ativ_9_sec_1_5_.jpg?200 |}}
 {{ :cap1:secoes:fig_ativ_9_sec_1_6_.jpg?200 |}}
 {{ :cap1:secoes:fig_ativ_9_sec_1_7_.jpg?200 |}}
-{{:cap1:secoes:fig_ativ_9_sec_1_8_.jpg?200 |}}
+{{ :cap1:secoes:fig_ativ_9_sec_1_8_.jpg?200 |}}
 
 
 </WRAP>
