@@ -12,10 +12,10 @@ Ir para [[cap6:texto#preambulo]]
 
 \\
 **Conteúdos da lição:** 
-      * Multiplicação de número natural por fração - sustentando o significado de adição de parcelas iguais.
-      * Multiplicação de uma fração por um número natural - sutentando os significados de ampliaçao e de redução.
+      * Multiplicação de número natural por fração - como adição de parcelas iguais. Assim, 5 x $\frac{3}{4}$ = $\frac{3}{4}$ + $\frac{3}{4}$ + $\frac{3}{4}$ + $\frac{3}{4}$ + $\frac{3}{4}$ 
+      * Multiplicação de uma fração por um número natural - dando significado à expressão "fração de".  
 
-OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado àa multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
+OBS: Não será tratada, nesta seção, a multiplicação de fração por fração, que dá significado à multiplicação envolvendo duas grandezas. Também não estão em foco as propriedades da multiplicação.
 
 OBS: No entanto, mesmo que não formalmente, a comutatividade precisa ser abordada para que a o aluno compreenda que, por exemplo, 5 x $\frac{3}{4}$ = $\frac{3}{4}$ x 5 = $\frac{15}{4}$.
 
@@ -35,7 +35,7 @@ As atividades iniciais devem contemplar:
   * A multiplicação com o significado de adição de parcelas iguais, portanto, multiplicação de um número natural por uma fração.
   * Atividades que envolvam as ideias de ampliação e de redução: Por exemplo, metade ou ($\frac{3}{2}$) de "alguma coisa". Nesse contexto, cabe explorar a ideia de multiplicação implícita nas expressões "fração de". 
   * Abordar a multiplicação por 1.
-  * Ainda não serão tratados conjuntos discretos (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio).
+  * Ainda não serão tratados conjuntos discretos (mantendo uma decisão anterior, confirmada em 24/05 - Victor, Leticia e Fábio). Em discussão no dia 05/07, voltamos a considerar essa questão... Talvez algumas atividades e um box refletindo chamando atenção para o fato de que, em conjuntos discretos, a unidade não é divisível (presentes Leticia, Humberto e Fábio). 
   * Nesta seção, devem ser propostos exclusivamente problemas, e não exercícios de cálculo sem contexto (do tipo, resolva). 
   * Atenção para que não sejam propostas situações de contextualização absurda nem artificial.
 
