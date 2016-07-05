@@ -23,13 +23,16 @@ PÁGINA DE REPRODUÇÃO
 
 - FIGURA ARTÍSTICA -
 
-Imagens: a mesma barra de chocolate que aparece na figura correspondente à atividade, divida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
+Imagens: a mesma barra de chocolate que aparece na figura correspondente à atividade, dividida exatamente como na imagem (instrução a seguir), e as partes separadas para serem reproduzidas isoladamente (como no exemplo).
 
 {{ :cap1:secoes:chocolate_2.jpg?200 |}}  
 
 {{ :cap1:secoes:chocolate_3.jpg?200 |}}
 </WRAP>
 
+  * As variadas respostas do ítem (c ) não aparecerão gratuitamente, e sim apenas aquela em que as partes são as de mesmo formato. Para motivar tais respostas, acho que o quarto desenho da resposta do ítem (c ) deveria ser proposto como item (c ), com a mesma pergunta do item (a) . Os atuais itens (c ) e (d) passsariam então a ser, respectivamente, ítens (d) e (e).
+
+Outra sugestão: para o que proponho como item (d), eu sugeriria ao professor oferecer ao aluno papel quadriculado, que vai oportunizar mais opções ainda de equipartição.
   * Esta atividade pode ser adaptada para alunos com deficiência de visão. Para isso, sugere-se confeccionar os modelos da barra de chocolate  inteira e repartida, que estão disponíveis para reprodução (**Inserir LINK de página para reprodução**), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado.  
 
 </WRAP>
