@@ -2,7 +2,7 @@
 Ir para [[cap3:texto#ativ_grad_unidade6]]
 ;;#
 
-<hidden PARA O PROFESSOR>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Estender a representação de frações para a reta numérica a partir de modelos contínuos. 
@@ -20,12 +20,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida, ligue as figuras aos números correspondentes, destacados na reta numérica.
+<WRAP imagem> FIGURA GEOMÉTRICA - Em cada par ou trio, as figuras devem ser congruentes. Podem ser usadas cores diferentes em cada par ou trio.
+{{ :undefined:retasgrad1.jpg?400 |}} {{ :cap3:secoes:retasgrad2.jpg?400 |}}
+</WRAP>
 
-{{ :undefined:retasgrad1.jpg?200 |}} {{ :cap3:secoes:retasgrad2.jpg?200 |}}
-
-
-<hidden Para o ilustrador>
-Em cada par ou trio, as figuras devem ser congruentes. Podem ser usadas cores diferentes em cada par ou trio.
-</hidden>
 
 
