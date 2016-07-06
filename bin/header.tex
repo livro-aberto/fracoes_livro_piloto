@@ -33,6 +33,7 @@ footskip=.7in
 \else
    \usepackage[utf8]{inputenc}
    \usepackage[sfdefault,thin]{roboto}  %% sfdefault is the base font
+   \usepackage{helvet}
    \newcommand\titlefont{\fontfamily{helvet}\selectfont}
    \newcommand\thickfont{\fontfamily{cmss}\selectfont}
    \newcommand\bigtitlefont{\fontfamily{cmss}\selectfont}
@@ -47,6 +48,7 @@ footskip=.7in
 % To define colors
 \usepackage[dvipsnames]{xcolor}
 \definecolor{titleblue}{RGB}{21,101,175}
+\definecolor{titlegreen}{RGB}{154,195,33}
 \definecolor{myblue}{RGB}{204,216,241}
 \definecolor{mediumblue}{RGB}{108,153,215}
 \definecolor{myred}{RGB}{210,32,39}
@@ -69,7 +71,8 @@ footskip=.7in
 
 %%%%%%%%%%%%%%%%%%%% Chapter and section titles %%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[explicit]{titlesec} % needed for define chapter and section style.
-\setcounter{chapter}{1}
+\setcounter{chapter}{0}
+%\setcounter{subsection}{1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{titling}
 
@@ -87,10 +90,10 @@ footskip=.7in
     -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
   \end{tikzpicture}
 } % before title
-[\vspace{3cm} \hfill {\bf\bigtitlefont \color{mygreen} #1}] % after title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{titlegreen} #1}] % after title
 %\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
 
-% Section style %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Section style ---- EXPLORANDO O ASSUNDO, ORGANIZANDO AS IDEIAS, MÃO NA MASSA, etc.
 %\newcommand*\sectionlabel{}
 \titleformat{\section}
   {\titlefont\bf}
@@ -103,7 +106,23 @@ footskip=.7in
    \end{tikzpicture}
  }
 \titlespacing*{\section}{0pt}{20pt}{20pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Subsection style
+\renewcommand{\thesubsection}{\arabic{subsection}}% to define subsection numbering without section number
+\titleformat{\subsection}[block]{\normalfont\normalsize\bfseries\color{titleblue}}
+{Atividade \thesubsection}{20pt}{\Huge}
+% 
+% \titleformat*{\subsection} % redefining subsection appearence - Atividade
+% {\normalsize}
+% {}
+% {0pt}
+% \titlespacing*{\subsection}{0pt}{20pt}{20pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+
+
+
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%% Custom headers and footers %%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{extramarks} % Required for headers and footers
@@ -128,7 +147,7 @@ footskip=.7in
   {\tikz{\draw[color=myred, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
   {\tikz[x=1mm,y=1mm]{\filldraw [myred, overlay] (-20,-3) -- (-5 ,-3)
       arc (-90:90:3) --(-5,3) -- (-20,3) (-8, 0) node{\color{white} {\bf \thepage}};}}
-  {\small\color{gray} Capítulo \thechapter \, - \, \leftmark}
+  {\small\color{gray} \leftmark}
 }
 
 % Right footer
@@ -157,7 +176,7 @@ footskip=.7in
 \fill[fill=myblue]
   ([yshift=2mm,xshift=-2mm]current page.north west) rectangle ([yshift=-5mm,xshift=2mm]current page.north east);
 %\node[font=\sffamily\bfseries\color{white},anchor=east, % Texto dentro do cabeçalho acima
-  xshift=-1.5cm,yshift=-1.3cm] at (current page.north east)
+%  xshift=-1.5cm,yshift=-1.3cm] at (current page.north east)
  % {\fontsize{50}{60}\selectfont  };
 \end{tikzpicture}%
 }
@@ -174,9 +193,9 @@ footskip=.7in
 \usepackage{environ}
 
 % Atividade
-\newcounter{atividade}
-\newenvironment{atividade}[1][]{\refstepcounter{atividade}\par\medskip
-   \noindent \textbf{\textcolor{titleblue}{Atividade~\theatividade #1 \rmfamily \rmfamily}}}{\medskip}
+% \newcounter{atividade}
+% \newenvironment{atividade}[1][]{\refstepcounter{atividade}\par\medskip
+%    \noindent \textbf{\textcolor{titleblue}{Atividade~\theatividade #1 \rmfamily \rmfamily}}}{\medskip}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Refletindo

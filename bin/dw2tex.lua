@@ -82,7 +82,7 @@ local mono = surround('mono', "''", simpletext)
 local newline = token('newline', [[\\]])
 local linefeed = token('linefeed', '\n')
 local simplemath = surround('simplemath', '$', (simpletext + S('<>'))^1)
-local atividade = token('atividade', '===== - Atividade =====')
+local atividade = token('atividade', '==== - Atividade ====')
 local title = P('=====') * token('title', simpletext) * P('=====')
 local titlechapter = P('======') * token('titlechapter', simpletext) * P('======')
 local titleless = P('====') * token('title', simpletext) * P('====')
@@ -148,7 +148,7 @@ function texprint (tbl, indent)
   for k, v in pairs(tbl) do
      local formatting = string.rep("  ", indent)
      if (v.tag) == "atividade" then
-        outstr = outstr .. formatting .. '\\section{Atividade}\n'
+        outstr = outstr .. formatting .. '\\subsection{Atividade}\n'
      elseif (v.tag) == "title" then
         outstr = outstr .. formatting .. '\\section*{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titleless" then
