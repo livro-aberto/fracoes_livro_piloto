@@ -4,7 +4,7 @@ Proposta da Cydara de Atividade 7 (ou 8, se aceitarem incluir a minha proposta d
 Ir para [[cap3:texto#ativ_comparação_unidade6]]
 ;;#
 
-<hidden PARA O PROFESSOR>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Comparar frações tanto com o mesmo numerador como com mesmo denominador.
@@ -12,21 +12,22 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * No item (i), espera-se que os alunos façam a comparação baseados no fato de que as frações envolvidas têm o mesmo denominador; no item (ii), espera-se que os alunos façam a comparação baseados no fato de que as frações envolvidas têm o mesmo numerador. Já no item (iii), espera-se que os alunos façam uso intuitivamente da propriedade transitiva da relação de ordem, a partir de suas respostas aos ítens (i) e (ii). Recomenda-se ressaltar que, na segunda parte do ítem (iv), a resposta ao item (iii) pode ser conferida também pela reta numérica porque ela também explicita a ordem entre as frações da unidade.  
+  * No item a., espera-se que os alunos façam a comparação baseados no fato de que as frações envolvidas têm o mesmo denominador; no item b., espera-se que os alunos façam a comparação baseados no fato de que as frações envolvidas têm o mesmo numerador. Já no item c., espera-se que os alunos façam uso intuitivamente da propriedade transitiva da relação de ordem, a partir de suas respostas aos ítens a. e b.. Recomenda-se ressaltar que, na segunda parte do ítem d., a resposta ao item c. pode ser conferida também pela reta numérica porque ela também explicita a ordem entre as frações da unidade.  
    
 
 </WRAP>
 </hidden>
-Três amigos foram a uma pizzaria. João comeu 3/4 de uma pizza calabresa, Maria comeu  2/4 de uma pizza de presunto e Miguel comeu 3/5 de uma pizza de milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
+Três amigos foram a uma pizzaria. João comeu $\frac{3}{4}$ de uma pizza calabresa, Maria comeu  $\frac{2}{4}$ de uma pizza de presunto e Miguel comeu $\frac{3}{5}$ de uma pizza de milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
 
-i)	Quem comeu mais, João ou Maria? Explique.
+  - Quem comeu mais, João ou Maria? Explique.
+  - Quem comeu mais, João ou Miguel? Explique.
+  - Entre os três amigos, quem comeu mais? Explique.
+  - Marque na reta numérica abaixo as porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em c.
 
-ii)	Quem comeu mais, João ou Miguel? Explique.
+<WRAP imagem> FIGURA GEOMÉTRICA
 
-iii)	Entre os três amigos, quem comeu mais? Explique.
+Desenhar uma reta numérica onde estão marcados o 0 e o 1. O tamanho pode ser 12 cm, com 0 e 1 próximos às extremidades.
+</WRAP>
 
-iv)	Marque na reta numérica abaixo as porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em (iii) .
 
-Para o ilustrador
-RETA NUMÉRICA, onde estão marcados o 0 e o 1
 
