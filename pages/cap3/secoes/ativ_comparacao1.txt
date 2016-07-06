@@ -17,9 +17,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Para responder ao item (b), e decidir qual o baú que contém o tesouro, de fato, não é necessário fazer a marcação dos pontos correspondentes aos locais dos dois baús no mapa. Basta comparar as frações $\frac{5}{6}$ e $\frac{5}{8}$. Como  $\frac{5}{6}$ > $\frac{5}{8}$, o tesouro está no baú 2.  Espera-se que a discussão com a turma leve a essa constatação. 
   * Finalmente, observe que a reta numérica se apresenta nesta atividade fora do padrão tradicinal, paralelo ao menor lado da página do livro.
 
-<nota Página para reprodução>
+<WRAP nota>  Página para reprodução
 Apenas duas imagens da faixa avermelhada que determina a unidade exatamente como a que aparece no mapa.  
-</nota>
+</WRAP>
 
 </WRAP> 
 </hidden>
