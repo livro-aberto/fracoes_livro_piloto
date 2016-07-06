@@ -31,9 +31,9 @@ Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a l
 
 Incluir imagem de um mapa de tesouro que ocupe cerca de meia folha tamanho A4 – amarelado e com o contorno escurecido e irregular, como um pergaminho - que tenha em destaque uma imagem semelhante à ilustrada. Incluir as instruções logo abaixo. É importante que o caminho seja um segmento de reta com 16 cm e que a faixa avermelhada tenha 6cm de comprimento, ainda que essas medidas não estejam explícitas na imagem.  
 
-{{ :cap3:secoes:mapa_tesouro.jpg?500 |}}
+{{ :cap3:secoes:mapa_tesouro.jpg?700 |}}
 
-{{ :cap3:secoes:instrucoes.png?500 |}}
+{{ :cap3:secoes:instrucoes.png?700 |}}
 </WRAP>
 
   - Marque, no mapa, as localizações dos baús 1 e 2.
