@@ -43,15 +43,6 @@
   * [[https://www.umlivroaberto.com/pdf/cap5_aluno.pdf|pdf do aluno]]  
   * [[cap5:secoes:atividades_extras|atividades extras]]
 </hidden>
-<hidden Lição 6>
-  * [[cap6:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap6.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap6_aluno.pdf|pdf do aluno]]  
-  * [[cap6:secoes:atividades_extras|atividades extras]]
-</hidden>
-<hidden Lição 7>
-  * [[cap7:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap7.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap7_aluno.pdf|pdf do aluno]]  
-  * [[cap7:secoes:atividades_extras|atividades extras]]
-</hidden>
+
 
 
