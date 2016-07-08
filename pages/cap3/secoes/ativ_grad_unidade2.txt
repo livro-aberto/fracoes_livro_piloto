@@ -27,6 +27,6 @@ A faixa a seguir está dividida em 5 partes iguais.
   - A faixa inteira é igual a quantos quintos? Escreva essa fração na forma simbólica. De que outra maneira é possível indicar essa quantidade? 
 
 <hidden Resposta>
-  - INCLUIR IMAGEM \\ <WRAP IMAGEM> Incluir imagem da reta que aparece na figura {{ :cap3:secoes:quintos.png?300 |}} completa com as indicações das frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$ </WRAP>
-  - Cinco. $\frac{5}{5}$. $\frac{5}{5}=1$. 
+  - \\ <WRAP IMAGEM> FIGURAS GEOMÉTRICAS - Incluir imagem da reta que aparece na figura {{ :cap3:secoes:quintos.png?300 |}} completa com as indicações das frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$ </WRAP>
+  - A faixa inteira é igual a cinco quintos. Esta fração pode ser representada simbolicamente como $\frac{5}{5}$. A fração $\frac{5}{5}$ da barra é igual a uma barra inteira, isto é, $\frac{5}{5}=1$. 
 </hidden>
