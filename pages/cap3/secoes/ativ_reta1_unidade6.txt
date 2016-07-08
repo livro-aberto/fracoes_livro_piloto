@@ -1,3 +1,6 @@
+;;#
+Ir para [[cap3:texto#ativ_reta1_unidade6]]
+;;#
 <hidden Para o professor>
 <WRAP professor>
 
