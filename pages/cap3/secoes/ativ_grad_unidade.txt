@@ -20,18 +20,20 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * A discussão sobre esta atividade deve levar os alunos a refletirem sobre a marcação do $\frac{4}{4}$ e a sua coincidência com a marcação da unidade, ou seja, do 1, reconhecendo que $\frac{4}{4}=1$. 
   * Na discussão sobre o item (b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
 
-<hidden imagem reprodução>
+<WRAP nota>
+<WRAP imagem>
 A página para reprodução deve ter uma fita com o maior comprimento possível semelhante a {{:cap3:secoes:fita_1.jpg?200|}}. É importante que estejam identificadas marcar correspondentes ao 0 e ao 1, como em uma fta métrica.
-</hidden>
+</WRAP>
+</WRAP>
 
 </WRAP>
 </hidden>
 
 
 Você acabou de receber uma fita na qual estão marcados os números 0 e 1. 
-
+<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
 {{:cap3:secoes:fita_1.jpg?200|}}
-
+</WRAP>
   - Faça uma marcação nessa fita correspondente a $\frac{1}{2}$. Explique como você fez essa marcação. 
   - Faça marcações nessa fita correspondentes a $\frac{1}{4}$ e a $\frac{3}{4}$. Explique como você fez essas marcações.
   - Onde deve ser feita a marcação correspondente a $\frac{4}{4}$?
