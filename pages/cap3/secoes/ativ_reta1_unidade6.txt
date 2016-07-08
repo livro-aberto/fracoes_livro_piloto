@@ -34,11 +34,11 @@ Reta 2: 0, 3/8, 5/8, 1
 Reta 3: 0, 1/4, 1/2, 3/4, 1
 
   - 1/4 de um  sanduiche de queijo com presunto
-{{ :cap3:secoes:um_quarto_sanduiche.png?100 |}}
+{{ :cap3:secoes:um_quarto_sanduiche.png?200 |}}
 Reta 4: 0, 1/4, 1/2, 3/4, 1
 
   - Uma  torta inteira (mas fatiada)
-{{ :cap3:secoes:bolo_fatiado.jpg?100 |}}
+{{ :cap3:secoes:bolo_fatiado.jpg?200 |}}
 Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2
 
   - Dois biscoitos e meio
