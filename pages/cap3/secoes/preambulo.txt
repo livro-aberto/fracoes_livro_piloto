@@ -1,4 +1,7 @@
 ====== LIÇÃO 3 - Uma fração do número 1 é um número ======
+;;#
+Ir para [[cap3:texto#preambulo]]
+;;#
 
 <hidden H (2016-05-01): vamos tratar nesta lição dos casos $\frac{8}{1}$ e $\frac{0}{8}$?>
 
