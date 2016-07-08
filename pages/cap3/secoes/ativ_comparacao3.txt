@@ -1,3 +1,7 @@
+;;#
+Ir para [[cap3:texto#ativ_comparacao3]]
+;;#
+
 <hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
