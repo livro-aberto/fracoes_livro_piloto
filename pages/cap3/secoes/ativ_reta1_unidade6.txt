@@ -9,57 +9,36 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
   * Estimule seus alunos a explicarem suas respostas.
   * Nas imagens, as unidades são uma pizza, uma barra de chocolate, uma maçã, um sanduiche, uma torta, um biscoito, e a capacidade de um copo. Discuta isso com os alunos.
-  * Aproveite as imagens e faça perguntas tais como: (a) Que fração da pizza foi comida? (b) Essa quantidade de chocolate é maior, menor ou igual a meia barra de chocolate? (c) Se a maçã estivesse inteira, que ponto da reta representaria tal quantidade?  
+  * Aproveite as imagens e faça perguntas tais como: a) Que fração da pizza foi comida? b) Essa quantidade de chocolate é maior, menor ou igual a meia barra de chocolate? c) Se a maçã estivesse inteira, que ponto da reta representaria tal quantidade?  
 
 
 </WRAP> 
-</hidden>
+</hidden> As partes geométricas são as retas numeradas.
 
 Para cada uma das figuras a seguir, marque na reta numérica o ponto correspondente à fração da unidade destacada na imagem:
 
 
-<WRAP Imagem>
-Incluir apenas imagens como as apresentadas (sem a descrição), seguidas, cada uma, de uma reta numérica como descrito:
-
-  - 5/8 de uma pizza;
-{{ :cap3:secoes:cinco_oitavos_de_pizza.png?100 |}}
-Reta 1: 0, 3/8, 5/8, 1 
-
-  - 3/8 de uma barra de chocolate;
-Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três não aparecem e 
-Reta 2: 0, 3/8, 5/8, 1
-
-  - 1/2 de uma maçã;
-{{ :cap3:secoes:meia_maca.jpg?100 |}}
-Reta 3: 0, 1/4, 1/2, 3/4, 1
-
-  - 1/4 de um  sanduiche de queijo com presunto
-{{ :cap3:secoes:um_quarto_sanduiche.png?200 |}}
-Reta 4: 0, 1/4, 1/2, 3/4, 1
-
-  - Uma  torta inteira (mas fatiada)
-{{ :cap3:secoes:bolo_fatiado.jpg?200 |}}
-Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2
-
-  - Dois biscoitos e meio
-{{ :cap3:secoes:dois_biscoitos_e_meio.png?100 |}}
-Reta 6: 0, 1/2, 1, 3/2, 2 e 5/2
-
-  - copo vazio
-{{ :cap3:secoes:copo.jpg?100 |}}
-Reta 7: 0, 1/2, 1, 3/2, 2 e 5/2
-
+<WRAP Imagem> Nas figuras abaixo incluir apenas imagens como as apresentadas (sem a descrição), seguidas, cada uma, de uma reta numérica como descrito:
 </WRAP>
+
+  - A unidade é a pizza. <WRAP imagem> FIGURA ARTÍSTICA e GEOMÉTRICA \\  5/8 de uma pizza \\ {{ :cap3:secoes:cinco_oitavos_de_pizza.png?100 |}} \\ Reta 1: 0, 3/8, 5/8, 1 </WRAP>
+  - A unidade é uma barra de chocolate <WRAP imagem> FIGURA ARTÍSTICA \\ 3/8 de uma barra de chocolate; \\ Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três não aparecem e \\ Reta 2: 0, 3/8, 5/8, 1 </WRAP>
+  - A unidade é uma maçã. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA \\ 1/2 de uma maçã {{ :cap3:secoes:meia_maca.jpg?100 |}} \\ Reta 3: 0, 1/4, 1/2, 3/4, 1 </WRAP>
+  - A unidade é um sanduíche de queijo com presunto. <WRAP imagem> FIGURA ARTÍSTICA \\ 1/4 de um  sanduiche de queijo com presunto \\ {{ :cap3:secoes:um_quarto_sanduiche.png?200 |}} \\ Reta 4: 0, 1/4, 1/2, 3/4, 1 </WRAP>
+  - A unidade é uma fatia da torta. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA\\ Uma  torta inteira (mas fatiada) \\ {{ :cap3:secoes:bolo_fatiado.jpg?200 |}} \\ Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP>
+  - A unidade é um biscoito. <WRAP imagem> FIGURA ARTÍSTICA \\ Dois biscoitos e meio \\ {{ :cap3:secoes:dois_biscoitos_e_meio.png?100 |}} \\ Reta 6: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP>
+  - A unidade é um copo cheio. <WRAP imagem> FIGURA ARTÍSTICA e GEOMÉTRICA\\  copo vazio \\ {{ :cap3:secoes:copo.jpg?100 |}} \\ Reta 7: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
-(a) Mostrar a reta numérica correspondente com o ponto 5/8 destacado 
-(b) Mostrar a reta numérica correspondente com o ponto 3/8 destacado 
-(c) Mostrar a reta numérica correspondente com o ponto 1/2 destacado 
-(d) Mostrar a reta numérica correspondente com o ponto 1/4 destacado 
-(e) Mostrar a reta numérica correspondente com o ponto 1 destacado 
-(f) Mostrar a reta numérica correspondente com o ponto 5/2 destacado
-(g) Mostrar a reta numérica correspondente com o ponto 0 destacado 
-
+<WRAP imagem> FIGURAS GEOMÉTRICAS - figuras independentes para cada item. São iguais aquelas do enunciado, mas com o ponto correspondente à resposta destacado.
+  - Mostrar a reta numérica correspondente com o ponto 5/8 destacado 
+  - Mostrar a reta numérica correspondente com o ponto 3/8 destacado 
+  - Mostrar a reta numérica correspondente com o ponto 1/2 destacado 
+  - Mostrar a reta numérica correspondente com o ponto 1/4 destacado 
+  - Mostrar a reta numérica correspondente com o ponto 1 destacado 
+  - Mostrar a reta numérica correspondente com o ponto 5/2 destacado
+  - Mostrar a reta numérica correspondente com o ponto 0 destacado 
+</WRAP>
 </WRAP>
 </hidden>
