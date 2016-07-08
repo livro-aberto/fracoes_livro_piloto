@@ -1,4 +1,4 @@
-<hidden PARA O PROFESSOR>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Estabelecer a comparação entre frações a partir da representação na reta numérica;
