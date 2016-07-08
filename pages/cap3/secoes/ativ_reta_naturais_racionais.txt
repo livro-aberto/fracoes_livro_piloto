@@ -1,0 +1,24 @@
+;;#
+Ir para [[cap3:texto#ativ_reta_naturais_racionais]]
+;;#
+<hidden Para o professor>
+<WRAP professor>
+relembrar com os alunos como é construída a reta numérica e como se posicionam os números naturais nela
+</WRAP>
+</hidden>
+
+Relembrando a representação na reta numérica: você já construiu em anos anteriores a reta numérica posicionando números naturais :
+<WRAP imagem> FIGURA GEOMÉTRICA
+
+ILUSTRAÇÃO DA RETA NUMÉRICA
+</WRAP>
+
+  - Represente as quantidades de pizza a seguir na reta numérica? \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas </WRAP>
+  - Represente na reta numérica as quantidades de pizza a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/8 pizza, 3/8 pizza, 1 e meia pizzas \\ as 38 fatias da Atividade que propus na Lição 2, tendo para unidade 1 pizza. </WRAP>
+
+ 	 
+<hidden Resposta>
+<WRAP resposta>
+
+</WRAP>
+</hidden>
