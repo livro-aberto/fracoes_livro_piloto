@@ -7,6 +7,11 @@
 ==== - Atividade ====
 {{page>cap3:secoes:ativ_graduacao_unidade6}}
 
+
+{{anchor:ativ_reta_naturais_racionais}}
+==== - Atividade ====
+{{page>cap3:secoes:ativ_reta_naturais_racionais}}
+
 {{anchor:ativ_grad_unidade6}}
 ==== - Atividade ====
 {{page>cap3:secoes:ativ_grad_unidade6}}
