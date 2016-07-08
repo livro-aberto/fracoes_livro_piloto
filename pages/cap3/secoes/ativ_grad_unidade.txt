@@ -18,7 +18,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * É possível que alguns alunos façam procedimento análogo para marcar $\frac{1}{4}$ e $\frac{3}{4}$, fique atento. 
   * Observe que a marcação de $\frac{3}{4}$ pode se dar pela justaposição de "pedaços" da fita correspondentes a $\frac{1}{4}$ da unidade ou, reconhecendo que $\frac{1}{2}$ = $\frac{2}{4}$, pela identificação do ponto médio do "pedaço" de fita de extremos $\frac{1}{2}$ e 1.    
   * A discussão sobre esta atividade deve levar os alunos a refletirem sobre a marcação do $\frac{4}{4}$ e a sua coincidência com a marcação da unidade, ou seja, do 1, reconhecendo que $\frac{4}{4}=1$. 
-  * Na discussão sobre o item (b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
+  * Na discussão sobre o item b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
 
 <WRAP nota>
 <WRAP imagem>
@@ -46,5 +46,7 @@ Repetir a imagem da fita 4 vezes (são figuras separadas) com as marcações das
 </WRAP>
   - A marcação foi feita dobrando a fita fazendo as marcas do 0 e do 1 coincidirem. A marca da dobra corresponde a $\frac{1}{2}$ da fita pois os comprimentos de 0 a $\frac{1}{2}$ e de $\frac{1}{2}$ a 1 são iguais (vemos isso com a sobreposição obtida pela dobra), logo a marca $\frac{1}{2}$ divide o comprimento zero-um em duas parte iguais.
   - A marcação do $\frac{1}{4}$ foi feita dobrando-se a fita de modo a fazer coincidir as marcas 0 e  $\frac{1}{2}$. A seguir dobra-se a fita fazendo a marca de $\frac{1}{4}$ coincidir com a de $\frac{1}{2}$. A marca de $\frac{3}{4}$ da fita foi obtida na posição em que estava a marca do 0 quando dobrado. As marcas são essas porque os comprimentos de 0 a $\frac{1}{4}$, de $\frac{1}{4}$ a $\frac{1}{2}$, de $\frac{1}{2}$ a $\frac{3}{4}$ e de $\frac{3}{4}$ a 1 são iguais, isso pode ser observado quando sobrepomos os segmentos.
+  - Dobrando-se na marca do $\frac{3}{4}$, observa-se que de $\frac{3}{4}$ para 1 temos o último quarto da unidade, logo a marca $\frac{4}{4}$ corresponde à marca do 1.
+  - A marca $\frac{5}{4}$ do segmento zero-um está um quarto do segmento após o $\frac{4}{4}$, logo basta dobrar fazendo a marca do $\frac{1}{4}$ coincidir com o $\frac{4}{4}$ para obter a marca do $\frac{5}{4}$ na posição que coincide com o 0.
 </WRAP>
 </hidden>
