@@ -41,7 +41,7 @@ Incluir imagem de um mapa de tesouro que ocupe cerca de meia folha tamanho A4 �
 
 
 <hidden Resposta>
-  - Imagem do mapa com os pontos correspondentes aos baús 1 e 2 marcados - necessita da imagem e do ilustrador.
+  - <WRAP imagem> FIGURA ARTÍSTICA - Imagem do mapa com os pontos correspondentes aos baús 1 e 2 marcados.</WRAP>
   - O baú 2.
 </hidden>
 
