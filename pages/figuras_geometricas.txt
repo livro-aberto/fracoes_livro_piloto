@@ -19,6 +19,9 @@ Para quem quiser aprender mais sobre o Tikz:
 ===== Como colaborar =====
 
 Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
+Você precisa se cadastrar para editar a tabela. 
+O cadastro é feito no canto superior direito desta página onde está escrito "Cadastre-se".
+Uma vez logado, você poderá editar no link "Editar esta página" na barra lateral direita.
 Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
 
 Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
@@ -52,7 +55,7 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 | Atividade [[cap2:secoes:atividade_tres_setimos_ou_tres_quartos]]   | [[figuras:cap2:secoes:atividade_tres_setimos_ou_tres_quartos|link]]   | Eduardo Filipe de Miranda Souto                                                                         |
 | Atividade [[cap2:secoes:atividade_tres_quintos_ou_cinco_tercos]]   | [[figuras:cap2:secoes:atividade_tres_quintos_ou_cinco_tercos|link]]   | Eduardo Filipe de Miranda Souto                                                                         |
 
-Na tabela abaixo, por favor, apenas coloque seu nome em uma das figuras até que o código da mesma seja postado no local correspondente.
+Na tabela abaixo, por favor, coloque seu nome em apenas uma das figuras até que o código da mesma seja postado no local correspondente. Isso vai favorecer que mais pessoas possam colaborar.
 
 ^ [[cap4:texto|Lição 4]] - Prazo: 17/07/2016           ^ link                                                    ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^
 | Atividade [[cap4:secoes:sanduiches]]  | [[figuras:cap4:secoes:sanduiches|link]]  |                                                                                                       |
