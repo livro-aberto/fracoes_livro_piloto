@@ -1,30 +1,26 @@
 <code latex>
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=0.75cm,y=0.75cm]
-\clip(-3.4980800638137213,-6.153579218723066) rectangle (19.625701507537602,5.549065019995593);
-\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (0.,5.) -- (9.,5.) -- (9.,-5.) -- (0.,-5.) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=1.0] (0.,5.) -- (0.,0.) -- (9.,0.) -- (9.,5.) -- cycle;
-\draw [line width=1.6pt] (0.,5.)-- (9.,5.);
-\draw [line width=1.6pt] (9.,5.)-- (9.,-5.);
-\draw [line width=1.6pt] (9.,-5.)-- (0.,-5.);
-\draw [line width=1.6pt] (0.,-5.)-- (0.,5.);
-\draw [line width=1.6pt] (0.,5.)-- (0.,0.);
-\draw [line width=1.6pt] (0.,0.)-- (9.,0.);
-\draw [line width=1.6pt] (9.,0.)-- (9.,5.);
-\draw [line width=1.6pt] (9.,5.)-- (0.,5.);
-\draw [line width=1.6pt] (0.,5.)-- (9.,5.);
-\draw [line width=1.6pt] (9.,0.)-- (0.,0.);
-\draw [line width=1.6pt] (0.,0.)-- (0.,5.);
-\draw [line width=1.6pt] (9.,5.)-- (9.,0.);
-\draw [line width=1.6pt] (3.,0.)-- (3.,5.);
-\draw [line width=1.6pt] (6.,5.)-- (6.,0.);
-\draw [line width=1.6pt] (4.5,-5.)-- (4.5,0.);
-\draw [line width=1.6pt] (0.,-5.)-- (9.,-5.);
-\draw [line width=1.6pt] (9.,-5.)-- (9.,0.);
-\draw [line width=1.6pt] (9.,0.)-- (0.,0.);
-\draw [line width=1.6pt] (0.,0.)-- (0.,-5.);
-\begin{scriptsize}
-\draw[color=ffqqqq] (4.725943121127749,2.6736730506884316) node {$pol2$};
-\end{scriptsize}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{black}{rgb}{1.,1.,1.}
+\definecolor{red}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-4.3,-5.34) rectangle (18.7,6.3);
+\fill(1.,3.) -- (6.,3.) -- (6.,0.02) -- (1.,0.) -- cycle;
+\fill[line width=0.pt,color=red,fill=red,fill opacity=1.0] (1.,3.) -- (4.,3.) -- (4.,0.012) -- (1.,0.) -- cycle;
+\fill[line width=0.pt,color=black,fill=black,fill opacity=1.0] (4.,3.) -- (4.,0.012) -- (6.,0.04) -- (6.,3.) -- cycle;
+\draw (1.,3.)-- (1.,0.);
+\draw (2.,0.)-- (2.,3.);
+\draw (3.,3.)-- (3.,0.);
+\draw (4.,0.)-- (4.,3.);
+\draw (5.,3.)-- (5.,0.);
+\draw (6.,0.)-- (6.,3.);
+\draw (1.,3.)-- (6.,3.);
+\draw (6.,3.)-- (6.,0.02);
+\draw (6.,0.02)-- (1.,0.);
+\draw (1.,0.)-- (1.,3.);
 \end{tikzpicture}
 </code>
 
