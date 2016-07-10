@@ -1,5 +1,4 @@
 <code latex>
-\begin{tikzpicture}
 \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=0.75cm,y=0.75cm]
 \clip(-3.4980800638137213,-6.153579218723066) rectangle (19.625701507537602,5.549065019995593);
 \fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (0.,5.) -- (9.,5.) -- (9.,-5.) -- (0.,-5.) -- cycle;
@@ -26,7 +25,6 @@
 \begin{scriptsize}
 \draw[color=ffqqqq] (4.725943121127749,2.6736730506884316) node {$pol2$};
 \end{scriptsize}
-\end{tikzpicture}
 \end{tikzpicture}
 </code>
 
