@@ -15,6 +15,7 @@ Classificações
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
+
 {{ :cap4:secoes:caminho-reproducao-01.jpg?700 |}}
 </WRAP>
 
@@ -29,9 +30,9 @@ FOLHA DE REPRODUÇÃO
 **Trilha dos doze avos**
 
 Junte seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro onde há uma trilha com as posições de partida e chegada indicadas e um dado com 12 faces marcadas com os números de 1 a 12. 
-
+<WRAP imagem> FIGURAS GEOMÉTRICAS - Há figuras em "Para o professor".
 {{ :cap4:secoes:caminho.jpg?400 |}}
-
+</WRAP>
 Seu grupo também receberá peões que identificarão as posições dos jogadores na trilha. Cada jogador deve escrever o seu nome no peão (na imagem a seguir, o peão está com o nome "Antônio").
 
 {{ :cap4:secoes:caminho-peao.jpg?50 |}}
