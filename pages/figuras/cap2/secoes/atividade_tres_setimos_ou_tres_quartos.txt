@@ -1,6 +1,4 @@
 <code latex>
-\begin{tikzpicture}
-\documentclass[10pt]{article}
 \usepackage{pgf,tikz}
 \usepackage{mathrsfs}
 \usetikzlibrary{arrows}
