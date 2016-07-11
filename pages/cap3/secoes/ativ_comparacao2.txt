@@ -1,4 +1,3 @@
-Proposta da Cydara de Atividade  8 para a Lição 3.
 
 ;;#
 Ir para [[cap3:texto#ativ_comparação2]]
