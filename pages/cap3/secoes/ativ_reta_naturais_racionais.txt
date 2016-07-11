@@ -19,7 +19,7 @@ ILUSTRAÇÃO DA RETA NUMÉRICA
 </WRAP>
 
   - Represente as quantidades de pizza a seguir na reta numérica. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas </WRAP>
-  - Represente na reta numérica as quantidades de pizza a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/8 pizza, 3/8 pizza, 1 e meia pizzas \\ as 38 fatias da Atividade que propus na Lição 2, tendo uma pizza para unidade. </WRAP>
+  - Represente na reta numérica as quantidades de pizza a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/8 pizza, 3/8 pizza, 1 e meia pizzas \\ as 38 fatias da Atividade que Cydara propos na Lição 2, tendo uma pizza para unidade. </WRAP>
 
  	 
 <hidden Resposta>
