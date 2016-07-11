@@ -1,5 +1,37 @@
 <code latex>
 \begin{tikzpicture}
-
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-5.202053414134226,0.) -- (14.897618989297525,0.);
+\foreach \x in {-4.,-2.,2.,4.,6.,8.,10.,12.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-3.4384175973036992) -- (0.,10.503696386147633);
+\foreach \y in {-2.,2.,4.,6.,8.,10.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-5.202053414134226,-3.4384175973036992) rectangle (14.897618989297525,10.503696386147633);
+\fill[color=ffqqqq] (2.751940473786517,5.805130612242991) -- (0.755698863511798,2.343499483414452) -- (4.755698863511798,2.343499483414452) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=1.0] (2.125768132111823,-4.427365846904403) -- (5.125768132111823,-4.427365846904403) -- (5.125768132111823,-2.4273658469044026) -- (2.125768132111823,-2.4273658469044026) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=1.0] (4.437293507086871,-7.638509549645783) -- (7.437293507086867,-7.638509549645783) -- (7.437293507086867,-5.638509549645783) -- (4.437293507086871,-5.638509549645783) -- cycle;
+\draw (0.07942962088955938,6.1984116372183165) node[anchor=north west] {$A)$};
+\draw [line width=3.2pt,,color=ffqqqq] (2.751940473786517,5.805130612242991)-- (0.755698863511798,2.343499483414452);
+\draw [line width=2.8pt,color=qqqqff] (0.755698863511798,2.343499483414452)-- (4.755698863511798,2.343499483414452);
+\draw [line width=2.pt,color=qqqqff] (4.755698863511798,2.343499483414452)-- (2.751940473786517,5.805130612242991);
+\draw [color=ffffff] (2.125768132111823,-4.427365846904403)-- (5.125768132111823,-4.427365846904403);
+\draw [color=ffffff] (5.125768132111823,-4.427365846904403)-- (5.125768132111823,-2.4273658469044026);
+\draw [color=ffffff] (2.125768132111823,-2.4273658469044026)-- (2.125768132111823,-4.427365846904403);
+\draw [color=ffffff] (4.437293507086871,-7.638509549645783)-- (7.437293507086867,-7.638509549645783);
+\draw [color=ffffff] (7.437293507086867,-7.638509549645783)-- (7.437293507086867,-5.638509549645783);
+\draw [color=ffffff] (4.437293507086871,-5.638509549645783)-- (4.437293507086871,-7.638509549645783);
+\end{tikzpicture}
+\end{document}
 \end{tikzpicture}
 </code>
