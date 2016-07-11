@@ -12,7 +12,8 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
  
  * Esta atividade, diferentemente da seguinte, trabalha com frações de uma mesma unidade. A próxima atividade trabalha com unidades diferentes.
- * Recomenda-se que o professor relembre com os alunos como é construída a reta numérica e como se posicionam os números naturais nela, enfatizando que o número 1 representa uma unidade e que, a partir daí, o 2 será o extremo do segmento que é o dobro do segmento de origem em 0 e que é o dobro do segmento de extremos 0 e 1. 
+ * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+ * Recomenda-se que o professor inicie a atividade relembrando com os alunos como é construída a reta numérica e como se posicionam os números naturais nela, enfatizando que o número 1 representa uma unidade e que, a partir daí, o 2 será o extremo do segmento que é o dobro do segmento de origem em 0 e que é o dobro do segmento de extremos 0 e 1. 
 INSERIR FIGURA  
  * Espera-se que os alunos, a partir de tal revisão, não tenham dificuldades em resolver o item (i). A novidade está no ítem (ii), para a qual os alunos são solicitados a representar frações. Espera-se que proponham que, assim como 2 é o dobro de 1 e 3 é o triplo de 1 e o 1 é a unidade, então, para marcar-se 2/3 de pizza na reta, deve-se determinar  2/3 da unidade, ou seja, 2/3 do segmento de extremos 0 e 1.  
 
