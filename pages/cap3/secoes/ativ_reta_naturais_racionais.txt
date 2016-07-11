@@ -3,7 +3,9 @@ Ir para [[cap3:texto#ativ_reta_naturais_racionais]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
-relembrar com os alunos como é construída a reta numérica e como se posicionam os números naturais nela
+Relembre com os alunos como é construída a reta numérica e como se posicionam os números naturais nela, enfatizando que o número 1 representa uma unidade e que, a partir daí, o 2 será o extremo do segmento que é o dobro do segmento de origem em 0 e que é o dobro do segmento de extremos 0 e 1. 
+INSERIR FIGURA  
+Espera-se que os alunos, a partir de tal revisão, não tenham dificuldades em resolver o item (i). A novidade está no ítem (ii), para a qual os alunos são solicitados a representar frações. Espera-se que proponham que, assim como 2 é o dobro de 1 e 3 é o triplo de 1 e o 1 é a unidade, então, para marcar-se 2/3 de pizza na reta, deve-se determinar  2/3 da unidade, ou seja, 2/3 do segmento de extremos 0 e 1.  
 </WRAP>
 </hidden>
 
@@ -13,8 +15,8 @@ Relembrando a representação na reta numérica: você já construiu em anos ant
 ILUSTRAÇÃO DA RETA NUMÉRICA
 </WRAP>
 
-  - Represente as quantidades de pizza a seguir na reta numérica? \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas </WRAP>
-  - Represente na reta numérica as quantidades de pizza a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/8 pizza, 3/8 pizza, 1 e meia pizzas \\ as 38 fatias da Atividade que propus na Lição 2, tendo para unidade 1 pizza. </WRAP>
+  - Represente as quantidades de pizza a seguir na reta numérica. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas </WRAP>
+  - Represente na reta numérica as quantidades de pizza a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/8 pizza, 3/8 pizza, 1 e meia pizzas \\ as 38 fatias da Atividade que propus na Lição 2, tendo uma pizza para unidade. </WRAP>
 
  	 
 <hidden Resposta>
