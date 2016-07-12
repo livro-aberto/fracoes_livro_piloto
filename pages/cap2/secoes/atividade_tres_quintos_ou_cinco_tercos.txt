@@ -5,7 +5,7 @@ Ir para [[cap2:texto#atividade_tres_quintos_ou_cinco_tercos]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber a ambiguidade, em termos de quantidades, de especificações de frações sem referência a unidade. 
+  * Perceber a ambiguidade, em termos de quantidades, de especificações incompletas de frações sem referência a unidade. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma.
@@ -27,7 +27,7 @@ Júlia disse: "A parte em vermelho representa $\frac{3}{5}$". Davi retrucou: "N�
 
 <hidden Resposta>
 <WRAP resposta>
-Existe ambiguidade nas afirmações de Júlia, David e Laura: ao especificarem as frações $\frac{3}{5}$, $\frac{3}{2}$ e $\frac{3}{1}$, eles não informaram a **unidade** a qual estas frações se referem. Se a unidade for
+As afirmações de Júlia, David e Laura estão incompletas, pois ao especificarem as frações $\frac{3}{5}$, $\frac{3}{2}$ e $\frac{3}{1}$, eles não informaram a **unidade** a qual estas frações se referem. Desta maneira, não é possível decidir quem está certo. De fato, dependendo da escolha da unidade, cada um deles pode estar certo e os demais estão errados. Por exemplo, se a unidade for
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos-resposta-01.png?300 |}}
 
@@ -35,7 +35,7 @@ então a parte pintada de vermelho em
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 
-de fato corresponde a $\frac{3}{5}$ desta unidade. Contudo, se a unidade for
+de fato corresponde a $\frac{3}{5}$ desta unidade, de modo que, nesta situação, Júlia está certa e David e Laura estão errados. Contudo, se a unidade for
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos-resposta-02.png?300 |}}
 
@@ -43,7 +43,7 @@ então a parte pintada de vermelho em
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 
-corresponde a $\frac{3}{2}$ desta unidade. Finalmente, se a unidade for
+corresponde a $\frac{3}{2}$ desta unidade,  de modo que, nesta situação, David está certo e Júlia e Laura estão errados. Finalmente, se a unidade for
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos-resposta-03.png?300 |}}
 
@@ -51,6 +51,6 @@ então a parte pintada de vermelho em
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 
-corresponde a $\frac{3}{1}$ desta unidade.
+corresponde a $\frac{3}{1}$ desta unidade e, neste caso, Laura está certa e David e Júlia estão errados.
 </WRAP>
 </hidden>
