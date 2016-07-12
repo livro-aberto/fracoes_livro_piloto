@@ -50,7 +50,7 @@ Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter perc
     * que doze peças rosas cobrem o círculo inteiro; <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_6.png?200 |}}</WRAP>
     * que quatro peças rosas cobrem uma peça azul; <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_7.png?200 |}}</WRAP> $\left(\frac{1}{3} = \frac{4}{12}\right)$
     * e que oito peças  rosas  preencheram a área da região cinza. <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_8.png?200 |}} </WRAP> $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
-Logo a área cinza é igual a $\frac{8}{12}$ da área do círculo. <WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+Logo a área cinza é igual a $\frac{8}{12}$ da área do círculo. 
 
 Podemos representar este raciocínio do seguinte modo:
 
