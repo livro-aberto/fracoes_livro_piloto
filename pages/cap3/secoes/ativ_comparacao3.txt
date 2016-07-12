@@ -12,12 +12,11 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * É solicitado que os alunos escrevam a justificativa para a avaliação de cada item. Essa decisão tem como objetivo fazer com que aluno vá além da argumentação oral, mas que consiga organizar as ideias para se expressar por escrito. 
-  * Observe que o caminho está repartido em 24 partes coongruentes, ainda que não haja frações sugeridas. A ideia é que o alunos possa sozinho decidir sobre os pontos correspondentes à metade, quartos, oitavos e terços. Se necessário discuta essas marcações com os alunos. 
-  * Cabe observar que cada item pode ser resolvido de forma independente. Por exemplo, para decidir se a posição da tartaruga corresponde a mais do que $\frac{3}{8}$ do percurso total, o aluno deve identificar oitavos na reta numérica. Já para decidir se a tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total, deve identificar terços. Assimm, não há necessidade de comparar oitavos com terços.  
-  * Os itens (g) e (h) envolvem termos compartivos menos precisos do que maior do que e menor do que. As expressões "cerca de" e "pelo menos" oferecemm outras formas de se avaliar a comparação. 
-  * Os itens (i) e (j) exigem que os estudantes façam uma "leitura" da reta numérica ainda não experimentada. Precisam observar, em relação ao percurso total, ou seja, à unidade, a fração correspondente ao que ao que falta ser percorrido. 
-  * Há várias raciocínios possíveis para responder aos diversos itens desta atividade. Incentive seus alunos a explicarem como raciocinaram, ressaltando, sempre que possível, as diferentes soluções. 
-   
+  * Observe que o caminho está repartido em 24 partes congruentes, ainda que não haja frações sugeridas. A ideia é que o alunos possa sozinho decidir sobre os pontos correspondentes à metade, quartos, oitavos e terços. Se necessário discuta essas marcações com os alunos. 
+  * Cabe observar que cada item pode ser resolvido de forma independente. Por exemplo, para decidir se a posição da tartaruga corresponde a mais do que $\frac{3}{8}$ do percurso total, o aluno deve identificar oitavos na reta numérica. Já para decidir se a tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total, deve identificar terços. Assim, não há necessidade de comparar oitavos com terços.  
+  * Os itens g) e h) envolvem termos compartivos menos precisos do que maior do que e menor do que. As expressões "cerca de" e "pelo menos" oferecemm outras formas de se avaliar a comparação. 
+  * Os itens i) e j) exigem que os estudantes façam uma "leitura" da reta numérica ainda não experimentada. Precisam observar, em relação ao percurso total, ou seja, à unidade, a fração correspondente ao que falta ser percorrido. 
+  * Há vários raciocínios possíveis para responder aos diversos itens desta atividade. Incentive seus alunos a explicarem como raciocinaram, ressaltando, sempre que possível, as diferentes soluções. 
 </WRAP>
 </hidden>
 
@@ -40,7 +39,16 @@ A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do
 
 <hidden Resposta>
 <WRAP Resposta>
-Falta
+  - Não está correta porque marcando na figura o meio do caminho obtém-se que a tartaruga ainda não chegou no meio do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão da fração $\frac{1}{2}$ </WRAP>
+  - Não está correta porque dividindo o percurso em quartos como mostra a figura a seguir, fica claro que $\frac{3}{4}$ é mais do que foi percorrido pela tartaruga. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão das frações $\frac{1}{4}$, $\frac{2}{4}$ e $\frac{3}{4}$. \\ </WRAP>
+  - Está correta porque a dividir a figura em oitavos como na figura a seguir, observa-se que a tartaruga encontra-se entre o $\frac{3}{8}$ e o $\frac{4}{8}$ do caminho, então ela percorreu mais do que $\frac{3}{8}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as frações $\frac{1}{8}$, $\frac{2}{8}$, $\frac{3}{8}$, $\frac{4}{8}$, $\frac{5}{8}$, $\frac{6}{8}$ e $\frac{7}{8}$.</WRAP>
+  - Está correta porque dividindo o caminho em quartos, a posição da tartaruga é anterior à marca dos $\frac{3}{4}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do item b)</WRAP>
+  - Não está correta porque ao dividir o caminho em oito partes iguais e marcar os oitavos, a tartaruga fica depois da posição que marca $\frac{2}{8}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do item c)</WRAP>
+  - Está correta porque ao marcar os extremos dos terços do caminho, a posição da tartaruga fica anterior à marca dos $\frac{2}{3}$ do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as marcas dos terços como na figura a seguir. </WRAP>
+  - Está correta porque a posição da tartaruga está próxima da marca de $\frac{3}{4}$ do caminho.
+  - Não está correta porque a tartaruga percorreu menos do que $\frac{5}{8}$ do percurso.
+  - Está correta porque o percurso total é maior do que metade do percurso.
+  - Não está correta porque o percurso total é maior do que dois terços do caminho.
 </WRAP>
 </hidden>
 
