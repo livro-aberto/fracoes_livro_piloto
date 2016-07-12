@@ -32,7 +32,7 @@ A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do
   - Para alcançar a chegada, a tartaruga deve percorrer mais do que a metade do caminho.
   - Para alcançar a chegada, a tartaruga deve percorrer menos do que $\frac{2}{3}$ do caminho.
 
-<WRAP imagem> FIGURA ARTÍSTICA - O percurso deve estar dividido em 24 partes iguais, como ilustra a imagem. A tartaruga deve estar na 11a marcação. 
+<WRAP imagem> FIGURAS ARTÍSTICAS - O percurso deve estar dividido em 24 partes iguais, como ilustra a imagem. A tartaruga deve estar na 11a marcação. Atenção: também há figuras em "Resposta".
 
 {{ :cap3:secoes:tartaruga.jpg |}}
 </WRAP>
