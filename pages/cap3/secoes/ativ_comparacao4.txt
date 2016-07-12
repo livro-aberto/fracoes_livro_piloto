@@ -5,7 +5,8 @@ Ir para [[cap1:texto#ativ_comparacao4]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Representar frações na reta numérica, a partir da identificação da unidade;
-  * Reconhecer a reta numérica em uma situação espacial não convencional (paralela a uma das margens da página do livro, na direção tradicionamente reconhecida como horizontal)
+  * Reconhecer a reta numérica em uma representação não comum.
+ 
 
   
 Recomendações e sugestões para o desenvolvimento da atividade:
