@@ -38,15 +38,14 @@ A página para reprodução deve conter 9 fitas de comprimento igual à largura 
 {{ :cap3:secoes:fita_1_rodrigo.jpg?400 |}}
 </WRAP>
 
-Pedro trouxe a seguinte marcação: 
+Pedro trouxe a seguinte marcação 
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{ :cap3:secoes:fita_3_rodrigo.jpg?400 |}}
+{{ :cap3:secoes:fita_3.jpg?400 |}}
 </WRAP>
 
-Miguel trouxe uma outra marcação:
-
+Miguel trouxe esta
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{ :cap3:secoes:fita_2_rodrigo.jpg?400 |}}
+{{ :cap3:secoes:fita_2.jpg?400 |}}
 </WRAP>
 
   - Qual dos dois está correto? Por quê? 
