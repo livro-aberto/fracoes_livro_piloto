@@ -5,7 +5,8 @@ Ir para [[cap2:texto#atividade_tres_quintos_ou_cinco_tercos]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber a ambiguidade, em termos de quantidades, de especificações incompletas de frações sem referência a unidade. 
+  * Perceber a importância da unidade na representação de quantidades.
+ 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma.
