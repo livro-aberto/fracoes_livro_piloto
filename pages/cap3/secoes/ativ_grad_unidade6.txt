@@ -21,7 +21,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida, ligue as figuras aos números correspondentes, destacados na reta numérica.
 <WRAP imagem> FIGURA GEOMÉTRICA - Em cada par ou trio, as figuras devem ser congruentes. Podem ser usadas cores diferentes em cada par ou trio.
-{{ :undefined:retasgrad1.jpg?400 |}} {{ :cap3:secoes:retasgrad2.jpg?400 |}}
+{{ :cap3:secoes:retasgrad1.jpg?400 |}} 
+{{ :cap3:secoes:retasgrad2.jpg?400 |}}
 </WRAP>
 
 
