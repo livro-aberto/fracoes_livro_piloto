@@ -2,7 +2,63 @@
 Ir para [[cap4:texto#preencha_refletindo]]
 ;;#
 
-<WRAP Refletindo>
-HJB para Wanderley (2016-05-23): aqui eu escreveria um texto observando para o aluno que nas três últimas linhas da tabela que ele preencheu, as justaposições de cada tipo de setor circular está preenchendo uma mesma área (a área cinza do encarte). Assim, as frações $\frac{2}{3}$, $\frac{4}{6}$ e $\frac{8}{12}$ são iguais pois especificam uma mesma quantidade. Notar que
-$\frac{4}{6} = \frac{2 \times 2}{2 \times 3}$, $\frac{8}{12} = \frac{4 \times 2}{4 \times 3}$.
+<WRAP Refletindo> Ao resolver esta última atividade você deve ter percebido que as justaposições de cada tipo de setor circular 
+
+<WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+
+preencheram uma mesma área (a área cinza do encarte).
+
+<WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+
+Quanto menor a área do setor circular, mais peças você precisou para preencher a área cinza.
+
+Assim, para preencher a **primeira linha da tabela** você deve ter percebido que três peças azuis correspondem  ao círculo inteiro
+
+<WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+
+e que duas peças  azuis preencheram a área cinza.
+
+<WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+
+Logo a área da região cinza é igual a $\frac{2}{3}$ da área do círculo.
+
+Para preencher a **segunda linha da tabela** você deve ter percebido:
+  * que seis peças lilás  cobrem o círculo inteiro; \\ <WRAP imagem> FIGURA GEOMÉTRICA</WRAP>
+  * que duas peças lilás cobrem uma peça azul; \\ <WRAP imagem>FIGURA GEOMÉTRICA </WRAP> $\left(\frac{1}{3} = \frac{2}{6}\right)$
+  * e que quatro peças  lilás  preencheram a área da região cinza. <WRAP imagem>FIGURA GEOMÉTRICA </WRAP> $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
+
+Logo a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
+
+Podemos representar este raciocínio do seguinte modo:
+
+$\frac{1}{3}$ é igual a 2 vezes $\frac{1}{6}$, isto é, $\frac{2}{6}$
+
+Logo
+
+$\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$
+
+Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
+    * que doze peças rosas cobrem o círculo inteiro; <WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+    * que quatro peças rosas cobrem uma peça azul; <WRAP imagem> FIGURA GEOMÉTRICA </WRAP> $\left(\frac{1}{3} = \frac{4}{12}\right)$
+    * e que oito peças  rosas  preencheram a área da região cinza. <WRAP imagem> FIGURA GEOMÉTRICA </WRAP> $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
+Logo a área cinza é igual a $\frac{8}{12}$ da área do círculo. <WRAP imagem> FIGURA GEOMÉTRICA </WRAP>
+
+Podemos representar este raciocínio do seguinte modo:
+
+$\frac{1}{3}$ é igual a 4 vezes $\frac{1}{12}$, isto é, $\frac{4}{12}$
+
+Logo
+
+$\frac{2}{3} = 2 \times \frac{4}{12} = \frac{8}{12} = \frac{2\times 4}{3 \times 4}$, onde 4 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
+
+Assim, podemos concluir que a área da região cinza, que é $\frac{2}{3}$ da área do círculo, também é igual a $\frac{4}{6}$ da área do círculo ou igual a $\frac{8}{12}$ da área do círculo; isto é, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ são iguais, pois elas representam a mesma quantidade (a medida da área da região cinza tendo a área do círculo como unidade).
+
+Para finalizar, observe as seguintes igualdades:
+
+$$\frac{2}{3} = \frac{4}{6} = \frac{8}{12}$$
+
+$$\frac{2}{3} = \frac{2 \times 2}{3 \times 2} = \frac{2 \times 4}{3 \times 4}$$
+
+Retornaremos a esta última mais adiante
+
 </WRAP>
