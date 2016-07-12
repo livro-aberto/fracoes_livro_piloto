@@ -4,11 +4,27 @@ Ir para [[cap4:texto#preencha_fita_refletindo]]
 
 <WRAP Refletindo>
 Você deve ter observado que as atividades 2 e 3 são muito parecidas. A diferença é que nesta última utilizamos para o estudo de frações figuras retangulares (na atividade 2 usamos figuras circulares). 
-Ao resolver esta atividade você deve ter percebido que 
+Ao resolver esta atividade você deve ter percebido que \\
 $\frac{1}{2}=\frac{2}{4}=\frac{3}{6}=\frac{4}{8}=\frac{5}{10}=\frac{8}{16}$,\\
 pois todas as frações representam a mesma quantidade: a medida da área da região retangular cinza em relação a área do retângulo do encarte.
-Observe ainda que podemos reescrever as igualdades acima do seguinte modo:
-$\frac{1}{2}=\frac{1 \times 1}{1 \times 2}= \frac{2 \times 1}{2 \times 2} =\frac{3 \times 1}{3 \times 2} = \frac{4 \times 1}{4 \times 2} = \frac{5 \times 1}{5 \times 2}= \frac{8 \times 1}{8 \times 2}$.
+Observe ainda que podemos reescrever as igualdades acima do seguinte modo:\\
+$\frac{1}{2}=\frac{1 \times 1}{1 \times 2}= \frac{2 \times 1}{2 \times 2} =\frac{3 \times 1}{3 \times 2} = \frac{4 \times 1}{4 \times 2} = \frac{5 \times 1}{5 \times 2}= \frac{8 \times 1}{8 \times 2}$. \\
+Na verdade, para qualquer subdivisão da fração $\frac{1}{2}$  em n partes iguais, deveremos considerar n dessas novas partes para obter uma fração igual a anterior. Matematicamente falando, isto significa que:\\
+$\frac{1}{2}= \frac{n \times 1}{n \times 2}$ \\
+qualquer que seja n um número natural maior que zero.
+De modo geral, para qualquer fração  $\frac{p}{q}$ ,  temos que \\
+$\frac{p}{q}=\frac{1 \times p}{1 \times q}= \frac{2 \times p}{2 \times q} =\frac{3 \times p}{3 \times q} = \frac{4 \times p}{4 \times q} = \frac{5 \times p}{5 \times q}=... =  \frac{n \times p}{n \times q}= ...$ \\
+qualquer que seja o número natural n > 0 .
+Com isso você aprendeu uma técnica para obter frações iguais a uma fração dada: basta multiplicar o numerador e o denominador da fração dada por um mesmo número natural 
+n > 0. Isto será muito útil para nós.
+
+
+
+
+
+
+
+
 
 
 
