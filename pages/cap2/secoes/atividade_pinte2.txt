@@ -5,8 +5,7 @@ Ir para [[cap2:texto#atividade_pinte2]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a
-
-  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área incluindo casos onde divisões parciais ou redundantes são fornecidas.
+  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área, incluindo casos em que as subdivisões apresentadas não são determinadas pelo denominador da fração dada.
   * Identificar a fração complementar de uma fração própria da unidade usando notação simbólica matemática.
   * Reconhecer (e gerar) oitavos como metades de quartos, sextos como metades de terços e décimos como metades de quintos. 
 
