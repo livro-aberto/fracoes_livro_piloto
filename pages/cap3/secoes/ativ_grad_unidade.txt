@@ -32,7 +32,7 @@ A página para reprodução deve conter 9 fitas de comprimento igual à largura 
 </WRAP>
 </hidden>
 
- A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem 1/2 em uma fita como esta que vocês também receberam:
+ A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem $\frac{1}{2}$ em uma fita como esta que vocês também receberam:
 
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
 {{ :cap3:secoes:fita_1_rodrigo.jpg?400 |}}
