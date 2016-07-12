@@ -35,14 +35,14 @@ A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou 
 
 Sabe-se que:
 
-  - O carrinho de Matheus só conseguiu ir metade da distância do carrinho de Lucas.
-  - O carrinho de Heitor conseguiu ir até $\frac{3}{2}$ da distância do carrinho de Lucas. 
-  - O carrinho de Rafael conseguiu ir até $\frac{4}{2}$ da distância do carrinho de Lucas.
-  - O carrinho de Enzo conseguiu ir até $\frac{5}{2}$ da distância do carrinho de Lucas. 
-  - O carrinho de Nicolas conseguiu ir até $\frac{6}{2}$ da distância do carrinho de Lucas. 
-  - O carrinho de Lorenzo conseguiu ir até $\frac{6}{4}$ da distância do carrinho de Lucas. 
-  - O carrinho de Guilherme conseguiu ir até o dobro da distância do carrinho de Lucas.
-  - O carrinho de Samuel conseguiu ir até $\frac{6}{3}$ da distância do carrinho de Lucas. 
+  - O carrinho de Matheus só conseguiu ir metade da distância percorrida pelo carrinho de Lucas.
+  - O carrinho de Heitor conseguiu ir até $\frac{3}{2}$ da distância percorrida pelo carrinho de Lucas. 
+  - O carrinho de Rafael conseguiu ir até $\frac{4}{2}$ da distância percorrida pelo carrinho de Lucas.
+  - O carrinho de Enzo conseguiu ir até $\frac{5}{2}$ da distância percorrida pelo carrinho de Lucas. 
+  - O carrinho de Nicolas conseguiu ir até $\frac{6}{2}$ da distância percorrida pelo carrinho de Lucas. 
+  - O carrinho de Lorenzo conseguiu ir até $\frac{6}{4}$ da distância percorrida pelo carrinho de Lucas. 
+  - O carrinho de Guilherme conseguiu ir até o dobro da distância percorrida pelo carrinho de Lucas.
+  - O carrinho de Samuel conseguiu ir até $\frac{6}{3}$ da distância percorrida pelo carrinho de Lucas. 
 
 Com estas informações, marque as posições de parada dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
 
