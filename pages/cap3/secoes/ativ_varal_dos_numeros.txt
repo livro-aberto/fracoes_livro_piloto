@@ -8,7 +8,7 @@ Ir para [[cap3:texto#ativ_varal_dos_numeros]]
 
 
 Objetivos específicos: Levar o aluno a:
-  * Reconhecer a representação das frações na reta numerada;
+  * Reconhecer a representação das frações na reta numérica;
   * Ordenar frações. 
 
 Material necessário:\\
