@@ -39,14 +39,14 @@ A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do
 
 <hidden Resposta>
 <WRAP Resposta>
-  - Não está correta porque marcando na figura o meio do caminho obtém-se que a tartaruga ainda não chegou no meio do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão da fração $\frac{1}{2}$ </WRAP>
-  - Não está correta porque dividindo o percurso em quartos como mostra a figura a seguir, fica claro que $\frac{3}{4}$ é mais do que foi percorrido pela tartaruga. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão das frações $\frac{1}{4}$, $\frac{2}{4}$ e $\frac{3}{4}$. \\ </WRAP>
-  - Está correta porque a dividir a figura em oitavos como na figura a seguir, observa-se que a tartaruga encontra-se entre o $\frac{3}{8}$ e o $\frac{4}{8}$ do caminho, então ela percorreu mais do que $\frac{3}{8}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as frações $\frac{1}{8}$, $\frac{2}{8}$, $\frac{3}{8}$, $\frac{4}{8}$, $\frac{5}{8}$, $\frac{6}{8}$ e $\frac{7}{8}$.</WRAP>
+  - Não está correta porque marcando na figura o meio do caminho obtém-se que a tartaruga ainda não chegou no meio do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão da fração $\frac{1}{2}$ \\ {{ :undefined:tartaruga_meio.jpg? |}} </WRAP>
+  - Não está correta porque dividindo o percurso em quartos como mostra a figura a seguir, fica claro que $\frac{3}{4}$ é mais do que foi percorrido pela tartaruga. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, exceto pela inclusão das frações $\frac{1}{4}$, $\frac{2}{4}$ e $\frac{3}{4}$.  \\ {{ :undefined:tartaruga_quartos.jpg? |}} </WRAP>
+  - Está correta porque a dividir a figura em oitavos como na figura a seguir, observa-se que a tartaruga encontra-se entre o $\frac{3}{8}$ e o $\frac{4}{8}$ do caminho, então ela percorreu mais do que $\frac{3}{8}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as frações $\frac{1}{8}$, $\frac{2}{8}$, $\frac{3}{8}$, $\frac{4}{8}$, $\frac{5}{8}$, $\frac{6}{8}$ e $\frac{7}{8}$.  \\ {{ :undefined:tartaruga_oitavos.jpg? |}}</WRAP>
   - Está correta porque dividindo o caminho em quartos, a posição da tartaruga é anterior à marca dos $\frac{3}{4}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do item b)</WRAP>
   - Não está correta porque ao dividir o caminho em oito partes iguais e marcar os oitavos, a tartaruga fica depois da posição que marca $\frac{2}{8}$ do caminho. \\ <WRAP imagem> Imagem idêntica aquela do item c)</WRAP>
-  - Está correta porque ao marcar os extremos dos terços do caminho, a posição da tartaruga fica anterior à marca dos $\frac{2}{3}$ do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as marcas dos terços como na figura a seguir. </WRAP>
+  - Está correta porque ao marcar os extremos dos terços do caminho, a posição da tartaruga fica anterior à marca dos $\frac{2}{3}$ do caminho.\\ <WRAP imagem> Imagem idêntica aquela do enunciado, mas com as marcas dos terços como na figura a seguir.  \\ {{ :undefined:tartaruga_tercos.jpg? |}} </WRAP>
   - Está correta porque a posição da tartaruga está próxima da marca de $\frac{3}{4}$ do caminho.
-  - Não está correta porque a tartaruga percorreu menos do que $\frac{5}{8}$ do percurso.
+  - Não está correta porque a tartaruga percorreu menos do que $\frac{5}{8}$ do percurso. \\ <WRAP imagem> identica à imagem de c. {{ :undefined:tartaruga_oitavos.jpg? |}}</WRAP>
   - Está correta porque o percurso total é maior do que metade do percurso.
   - Não está correta porque o percurso total é maior do que dois terços do caminho.
 </WRAP>
