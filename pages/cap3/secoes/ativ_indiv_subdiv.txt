@@ -9,20 +9,28 @@ Objetivos específicos:
 Aprofundar a ideia de divisão do inteiro e associá-las às representações 1/b e a/b
 
 Recomendações:
-Peça para os alunos construírem com papel A4 duas faixas de 1m de comprimento e por dupla dobra uma divisão destas unidades em quatro partes.  Ao cortar uma delas cada aluno poderá comparar cada parte com a fração unitária ¼ e por justaposição faz partes visualizar 2/4, ¾ e 4/4.
+Peça para os alunos construírem com papel A4 duas faixas de igual tamanho, uma rosa e outra amarela dividindo, por dupla dobra, a faixa rosa em quatro partes iguais.  A seguir, peça-lhes que recortem tais partes. Desta forma, poderão trabalhar com  a fração unitária ¼ e, por justaposição, com as frações 2/4, ¾ e 4/4.
 
-O professor deve observar aqui que ainda teremos respostas que serão equivalentes e outras abertas que devemos esperar diversas respostas.
+O professor deve observar aqui que ainda teremos respostas que serão equivalentes e outras abertas que devemos esperar diversas respostas, por exemplo, no item (c). 
+
+O item (e) é um convite ao aluno para se libertar do concreto e explicar como pode-se calcular, em geral, a fração da parte descoberta se conhecermos a fração da faixa que foi coberta.
 
 </WRAP>
-Com a orientação do professor construa duas faixas (uma amarela e outra rosa) com 1m de comprimento cada. Em cada uma delas faça duas dobras de modo a dividir a unidade de 1m em quatro partes. Recorte cada uma das partes de uma das faixas (rosa).
+Com a orientação do professor construa duas faixas de mesmo tamanho, uma amarela e outra rosa. Na faixa rosa, faça duas dobras de modo a dividi-la em quatro partes iguais. Recorte cada uma das partes da faixa rosa.
 {{ :cap3:secoes:faixas.jpg?300 |}}
 
 Agora que você já tem os “pedaços” rosa e a faixa completa amarela, responda:
 
-a)	Que parte da faixa inteira pode ser coberta por uma das partes cortadas da segunda faixa? Como representamos esta fração?
+a)	Que parte da faixa amarela corresponde uma parte rosa? Como representamos esta fração?
 
-b)	Se justapomos dois pedaços na faixa anterior qual a fração obtida?
+b)	Se colocarmos uma parte rosa sobre a faixa amarela, como na figura abaixo, que parte da faixa amarela ficará descoberta?
 
-c)	Faça o mesmo para três e quatro pedaços. Quais as frações obtidas? Explique esse resultado com suas palavras. 
+ILUSTRADOR: inserir uma figura
+
+c) Se justapomos dois pedaços rosa sobre a faixa amarela, qual fração da faixa amarela ficará coberta? E qual fração ficará descoberta?
+
+d)	Faça o mesmo para três e quatro pedaços, respondendo a cada vez: qual fração da faixa amarela ficará coberta? E qual fração ficará descoberta? 
+
+e) Uma faixa foi dividida em 13 partes iguais e 5 delas foram cobertas. Qual fração da faixa amarela ficou descoberta? Explique como você chegou a esse resultado. 
 
 
