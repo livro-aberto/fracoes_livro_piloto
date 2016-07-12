@@ -27,7 +27,7 @@ Júlia disse: "A parte em vermelho representa $\frac{3}{5}$". Davi retrucou: "N�
 
 <hidden Resposta>
 <WRAP resposta>
-As afirmações de Júlia, David e Laura estão incompletas, pois ao especificarem as frações $\frac{3}{5}$, $\frac{3}{2}$ e $\frac{3}{1}$, eles não informaram a **unidade** a qual estas frações se referem. Desta maneira, não é possível decidir quem está certo. De fato, dependendo da escolha da unidade, cada um deles pode estar certo e os demais estão errados. Por exemplo, se a unidade for
+As afirmações de Júlia, David e Laura estão incompletas, pois ao especificarem as frações $\frac{3}{5}$, $\frac{3}{2}$ e $\frac{3}{1}$, eles não informaram a **unidade** a qual estas frações se referem. Desta maneira, não é possível decidir quem está certo. De fato, dependendo da escolha da unidade, cada um deles pode estar certo e os demais errados. Por exemplo, se a unidade for
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos-resposta-01.png?300 |}}
 
