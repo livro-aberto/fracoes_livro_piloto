@@ -25,7 +25,7 @@ Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias (alternativa: simpl
 
 Sabendo que nessa pizzaria cada pizza é equiparticionada em 8 partes, pergunta-se: 
   - Quantas pizzas inteiras comerarm os 7 amigos? 
-  - Quanto de pizza comeram os amigos ao todo? 
+  - Que fração de pizza comeram os amigos ao todo? 
   - É possível que todos os amigos tenham comido o mesmo número de fatias de pizza? Explique.
 
 <hidden Resposta>
