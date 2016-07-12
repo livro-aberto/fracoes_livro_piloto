@@ -1,3 +1,4 @@
+<code latex>
 \documentclass[10pt]{article}
 \usepackage{pgf,tikz}
 \usepackage{mathrsfs}
@@ -24,3 +25,4 @@
 \draw [color=ffffff] (4.437293507086871,-5.638509549645783)-- (4.437293507086871,-7.638509549645783);
 \end{tikzpicture}
 \end{document}
+</code>
