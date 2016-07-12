@@ -28,7 +28,7 @@ Os pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser obtidos 
 </hidden>
 
 \\
-As frações da unidade também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
+As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
 <WRAP imagem> MESMA IMAGEM DAS RETAS ANTERIORES, MAS APENAS COM O SEGMENTO UNITÁRIO (DE EXTREMIDADES 0 E 1) EM DESTAQUE  </WRAP>
 
@@ -42,7 +42,7 @@ A partir dele, por justaposição, são identificados na reta numérica os ponto
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
 
-A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações da uniade são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
+A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
 
 <WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
 
@@ -63,11 +63,11 @@ Já $\frac{6}{3}$ é igual a 2.
 
 E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
 
-Para identificar na reta numérica os pontos correspondentes às frações da unidade $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
+Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
 
-Na reta numérica a seguir estão destacados alguns pontos e as frações da unidade correspondentes a eles. Observe e complete as frações em destaque.
+Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes a eles. Observe e complete as frações em destaque.
 
 <WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
 
