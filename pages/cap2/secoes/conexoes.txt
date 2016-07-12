@@ -54,7 +54,8 @@ $\frac{1}{8}\rightarrow$ um oitavo; $\frac{1}{9}\rightarrow$ um nono; $\frac{1}{
 Para a fração $\frac{1}{11}$, fala-se um onze avos. O mesmo procedimento se aplica para frações cujo denominador é maior do que 11: $\frac{1}{12}\rightarrow$  um doze avos; $\frac{1}{13}\rightarrow$ um treze avos; $\frac{5}{13}\rightarrow$ cinco treze avos.\\
 Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O que importa é que para denominadores maiores 11 usaremos esse sufixo “avos” ao final da leitura.\\
 Contudo, para frações cujo denominador é uma potência de 10, usamos outra formar de ler:
-$\frac{1}{12}\rightarrow$ 
+$\frac{1}{100}\rightarrow$  um centésimo ; $\frac{13}{100}\rightarrow$  treze centésimos ; $\frac{33}{1000}\rightarrow$ trinta e três milésimos.\\
+**Pronto! Agora você já é capaz de ler diversos tipos de frações.**
 
 
 
