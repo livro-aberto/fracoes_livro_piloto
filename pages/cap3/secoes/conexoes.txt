@@ -19,17 +19,12 @@ Frações na reta numérica \\
 Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
 Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
 
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
+<WRAP imagem> FIGURAS GEOMÉTRICAS - As retas têm que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas; \\
+Os pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser obtidos pelo uso do compasso e não pela sugestão da justaposição de segmentos congruentes, como nas imagens. 
+{{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?850 |}} </WRAP>
 
-<hidden IMAGENS>
-As retas têm que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas; \\
-Os pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser obtidos pelo uso do compasso e não pela sugestão da justaposição de segmentos congruentes, como nas imagens. 
-
-</hidden>
-
-\\
 As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
 
 <WRAP imagem> MESMA IMAGEM DAS RETAS ANTERIORES, MAS APENAS COM O SEGMENTO UNITÁRIO (DE EXTREMIDADES 0 E 1) EM DESTAQUE  </WRAP>
@@ -44,23 +39,23 @@ A partir dele, por justaposição, são identificados na reta numérica os ponto
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
 
-A representação dos números na reta numerada ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
+A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
 
 <WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
 
-  - (i) UMA PIZZA PARTIDA EM 3/3, 
-  - (ii) UMA BARRA DE CHOCOLATE PARTIDA EM 3/3,
-  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRÊS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
-  - (iv) $\frac{3}{3}=1$  
+  - UMA PIZZA PARTIDA EM 3/3, 
+  - UMA BARRA DE CHOCOLATE PARTIDA EM 3/3,
+  - RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE TRÊS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
+  - $\frac{3}{3}=1$  
 </WRAP>
 
 Já $\frac{6}{3}$ é igual a 2. 
 
 <WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
-  - (i) DUAS PIZZA PARTIDAS EM TERÇOS,
-  - (ii) DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS,
-  - (iii) RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
-  - (iv) $\frac{6}{3}=2$  
+  - DUAS PIZZA PARTIDAS EM TERÇOS,
+  - DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS,
+  - RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
+  - $\frac{6}{3}=2$  
 </WRAP>
 
 E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
