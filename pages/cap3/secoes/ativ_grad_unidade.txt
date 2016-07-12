@@ -24,7 +24,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP nota>
 <WRAP imagem>
-A página para reprodução deve ter uma fita com o maior comprimento possível semelhante a {{:cap3:secoes:fita_1.jpg?200|}}. É importante que estejam identificadas marcar correspondentes ao 0 e ao 1, como em uma fita métrica.
+A página para reprodução deve conter 9 fitas de comprimento igual à largura da página e altura igual à 3 cm. Semelhante à {{ :cap3:secoes:fita_1.jpg?200| }}. É importante que estejam identificadas as marcar correspondentes ao 0 e ao 1, de modo que a marca do zero esteja na extremidade esquerda e a marca do 1 esteja a 4/5 da faixa distante do zero, assim vai sobrar 1/5 da faixa após a marca do 1.
 </WRAP>
 </WRAP>
 
