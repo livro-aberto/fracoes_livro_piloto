@@ -2,6 +2,15 @@
 Ir para [[cap3:texto#conexoes]]
 ;;#
 
+<hidden Para o Professor>
+
+<WRAP professor>
+
+
+
+</WRAP>
+</hidden>
+
 Frações da unidade na reta numérica \\
 
 
