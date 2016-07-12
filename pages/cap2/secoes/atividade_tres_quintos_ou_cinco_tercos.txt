@@ -23,7 +23,7 @@ Júlia, Davi e Laura estavam estudando a figura a seguir.
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 </WRAP>
 
-Júlia disse: "A parte em vermelho representa $\frac{3}{5}$". Davi retrucou: "Não, não! A parte em vermelho representa $\frac{3}{2}$!". Laura, então acrescentou: "Eu acho que a parte em vermelho representa $\frac{3}{1}$!". Quem está certo? Júlia, Davi ou Laura? Explique!
+Júlia disse: "A parte em vermelho representa $\frac{3}{5}$". Davi retrucou: "Não, não! A parte em vermelho representa $\frac{3}{2}$!". Laura, então acrescentou: "Eu acho que a parte em vermelho representa $3$!". Quem está certo? Júlia, Davi ou Laura? Explique!
 
 <hidden Resposta>
 <WRAP resposta>
@@ -51,6 +51,6 @@ então a parte pintada de vermelho em
 
 {{ :cap2:secoes:tres-quintos-ou-cinco-tercos.png?300 |}}
 
-corresponde a $\frac{3}{1}$ desta unidade e, neste caso, Laura está certa e David e Júlia estão errados.
+corresponde a $3$ desta unidade e, neste caso, Laura está certa e David e Júlia estão errados.
 </WRAP>
 </hidden>
