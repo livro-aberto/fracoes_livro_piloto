@@ -5,7 +5,7 @@ Ir para [[cap1:texto#ativ_comparacao4]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
 
-  * Estabelecer a comparação entre frações a partir da representação na reta numérica;
+  * Representar frações na reta numérica a ;
   * Comparar frações, tanto com o mesmo numerador como com mesmo denominador.
 
   
