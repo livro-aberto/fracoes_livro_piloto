@@ -32,12 +32,24 @@ A página para reprodução deve conter 9 fitas de comprimento igual à largura 
 </WRAP>
 </hidden>
 
+ A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem 1/2 em uma fita como esta que vocês também receberam:
 
-Você acabou de receber uma fita na qual estão marcados os números 0 e 1. 
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
 {{ :cap3:secoes:fita_1_rodrigo.jpg?400 |}}
 </WRAP>
-  - Faça uma marcação nessa fita correspondente a $\frac{1}{2}$. Explique como você fez essa marcação. 
+
+Pedro trouxe a seguinte marcação: 
+<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
+{{ :cap3:secoes:fita_3_rodrigo.jpg?400 |}}
+</WRAP>
+
+Miguel trouxe uma outra marcação:
+
+<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
+{{ :cap3:secoes:fita_2_rodrigo.jpg?400 |}}
+</WRAP>
+
+  - Qual dos dois está correto? Por quê? 
   - Faça marcações nessa fita correspondentes a $\frac{1}{4}$ e a $\frac{3}{4}$. Explique como você fez essas marcações.
   - Onde deve ser feita a marcação correspondente a $\frac{4}{4}$?
   - E a marcação de $\frac{5}{4}$? 
