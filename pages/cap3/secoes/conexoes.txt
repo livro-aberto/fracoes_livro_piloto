@@ -6,12 +6,12 @@ Ir para [[cap3:texto#conexoes]]
 
 <WRAP professor>
 
-
+Após o Organizando as Idéias, passaremos a falar apenas em "fração" ao nos referirmos a frações na reta numérica, subentendendo que já esteja claro aos alunos que nos referimos a uma "fração da unidade", unidade que já está identificada na reta pelo segmento de extremos 0 e 1, mesmo que estes estejam implícitos a partir de alguma outra infomração.
 
 </WRAP>
 </hidden>
 
-Frações da unidade na reta numérica \\
+Frações na reta numérica \\
 
 
 Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
