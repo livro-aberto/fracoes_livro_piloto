@@ -23,8 +23,10 @@ A faixa a seguir está dividida em 5 partes iguais.
 {{ :undefined:unidade_em_quintos.png?300 |}}
 </WRAP>
 
-  - Considerando a região colorida em cada uma das faixas, escreva na reta numérica as frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$ da faixa. \\ {{ :cap3:secoes:quintos.png?300 |}} \\ 
-  - A faixa inteira é igual a quantos quintos da faixa? Escreva essa fração na forma simbólica. De que outra maneira é possível indicar essa quantidade? 
+  - Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas.
+\\ {{ :cap3:secoes:quintos.png?300 |}} \\ 
+
+  - Escreva, em linguagem simbólica, a fração correspondente à faixa inteira. De que outra maneira é possível indicar essa quantidade? 
 
 <hidden Resposta>
   - \\ <WRAP IMAGEM> FIGURAS GEOMÉTRICAS - Incluir imagem da reta que aparece na figura {{ :cap3:secoes:quintos.png?300 |}} completa com as indicações das frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$ </WRAP>
