@@ -8,6 +8,8 @@ Ir para [[cap3:texto#conexoes]]
 
 Após o Organizando as Idéias, passaremos a falar apenas em "fração" ao nos referirmos a frações na reta numérica, subentendendo que já esteja claro aos alunos que nos referimos a uma "fração da unidade", unidade que já está identificada na reta pelo segmento de extremos 0 e 1, mesmo que estes estejam implícitos a partir de alguma outra infomração.
 
+Espera-se que, ao longo desta lição, o aluno já tenha associado fração a uma quantidade. Assim, no  parágrafo que trata  sobre a ordem na reta numérica, fala-se nos "números representados na reta numérica", incluindo-se, entre eles, as frações.
+
 </WRAP>
 </hidden>
 
