@@ -44,6 +44,18 @@ Já o número que aparece "acima" do traço de fração informa quantos terços 
 Esses mesmos nomes valem para outras frações, mesmo que o denominador seja diferente de 3:\\
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
 Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. 
+Como você viu, o nome da fração depende principalmente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome da fração do tipo $\frac{1}{b}$**, nessa ordem. Veja:
+$\frac{1}{3}\rightarrow$ um terço; $\frac{5}{3}\rightarrow$ cinco terços ; $\frac{1}{8}\rightarrow$ um oitavo ;
+$\frac{3}{8}\rightarrow$ três oitavos ; $\frac{7}{8}\rightarrow$ sete oitavos.
+Anote agora os nomes de algumas frações do tipo $\frac{1}{b}$:
+$\frac{1}{2}\rightarrow$um meio; $\frac{1}{3}\rightarrow$ um terço; $\frac{1}{4}\rightarrow$ um quarto;
+$\frac{1}{5}\rightarrow$ um quinto; $\frac{1}{6}\rightarrow$; $\frac{1}{7}\rightarrow$ um sétimo ;
+$\frac{1}{8}\rightarrow$ um oitavo; $\frac{1}{9}\rightarrow$ um nono; $\frac{1}{10}\rightarrow$ um décimo.\\
+Para a fração $\frac{1}{11}$, fala-se um onze avos. O mesmo procedimento se aplica para frações cujo denominador é maior do que 11: $\frac{1}{12}\rightarrow$  um doze avos; $\frac{1}{13}\rightarrow$ um treze avos; $\frac{5}{13}\rightarrow$ cinco treze avos.\\
+Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O que importa é que para denominadores maiores 11 usaremos esse sufixo “avos” ao final da leitura.\\
+Contudo, para frações cujo denominador é uma potência de 10, usamos outra formar de ler:
+$\frac{1}{12}\rightarrow$ 
+
 
 
 /* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
