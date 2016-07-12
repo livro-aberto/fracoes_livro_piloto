@@ -16,11 +16,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 </WRAP>
 </hidden>
-Três amigos foram a uma pizzaria e cada um pediu uma pizza média. João comeu $\frac{3}{4}$ de uma pizza calabresa, Maria comeu  $\frac{2}{4}$ de uma pizza de presunto e Miguel comeu $\frac{3}{5}$ de uma pizza de milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
-  - Quem comeu mais, João ou Maria? Explique.
-  - Quem comeu mais, João ou Miguel? Explique.
-  - Entre os três amigos, quem comeu mais? Explique.
-  - Marque na reta numérica abaixo as porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em c.
+Três amigos foram a uma pizzaria e cada um pediu uma pizza média, de três sabores diferentes: João comeu $\frac{3}{4}$ da pizza de calabresa, Maria comeu  $\frac{2}{4}$ da pizza de presunto e Miguel comeu $\frac{3}{5}$ da pizza de Milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
+  - Quem comeu mais pizza, João ou Maria? Explique.
+  - E no caso de João e Miguel, quem comeu mais pizza? Explique.
+  - Dos três amigos, quem comeu mais pizza? Explique.
+  - Marque na reta numérica a seguir as frações correspondentes às porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em c.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
 
