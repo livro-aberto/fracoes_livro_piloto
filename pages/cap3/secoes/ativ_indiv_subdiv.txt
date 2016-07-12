@@ -2,7 +2,6 @@
 Ir para [[cap3:texto#ativ_indiv_subdiv]]
 ;;#
 
-Frações: a fração como uma subdivisão da unidade
 
 <WRAP professor>
 Objetivos específicos:
