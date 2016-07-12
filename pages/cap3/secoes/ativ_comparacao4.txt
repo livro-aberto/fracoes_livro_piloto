@@ -7,16 +7,15 @@ Objetivos específicos: Levar o aluno a
   * Representar frações na reta numérica, a partir da identificação da unidade;
   * Reconhecer a reta numérica em uma representação não comum.
  
-
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * É solicitado que os alunos escrevam a justificativa para a avaliação de cada item. Essa decisão tem como objetivo fazer com que aluno vá além da argumentação oral, mas que consiga organizar as ideias para se expressar por escrito. 
-  * Observe que o caminho está repartido em 24 partes coongruentes, ainda que não haja frações sugeridas. A ideia é que o alunos possa sozinho decidir sobre os pontos correspondentes à metade, quartos, oitavos e terços. Se necessário discuta essas marcações com os alunos. 
-  * Cabe observar que cada item pode ser resolvido de forma independente. Por exemplo, para decidir se a posição da tartaruga corresponde a mais do que $\frac{3}{8}$ do percurso total, o aluno deve identificar oitavos na reta numérica. Já para decidir se a tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total, deve identificar terços. Assimm, não há necessidade de comparar oitavos com terços.  
-  * Os itens (g) e (h) envolvem termos compartivos menos precisos do que maior do que e menor do que. As expressões "cerca de" e "pelo menos" oferecemm outras formas de se avaliar a comparação. 
-  * Os itens (i) e (j) exigem que os estudantes façam uma "leitura" da reta numérica ainda não experimentada. Precisam observar, em relação ao percurso total, ou seja, à unidade, a fração correspondente ao que ao que falta ser percorrido. 
-  * Há várias raciocínios possíveis para responder aos diversos itens desta atividade. Incentive seus alunos a explicarem como raciocinaram, ressaltando, sempre que possível, as diferentes soluções. 
+  * Observe que a reta numérica não é apresentada da forma mais tradicioal, paralela a uma das margens da página e na direção comunmente chamada de horizontal. O objetivo é ampliar e variar o contato com esse modelo de representação. 
+  * Além disso, os pontos que identificam frações da unidade (no caso, décimos) também são determinados de uma forma não tradicional. A divisão é estabelecida a partir de um feixe de retas paralelas igualmente espaçadas  e transversal a reta numérica em destaque. 
+  * A primeira atividade é bastante simples, apesar da representação não tradicional. 
+  * A segunda atividade objetiva que o aluno reconheça que os pontos correspondentes ao 0 e ao 1 identificam a unidade na reta numérica e que a distância entre esses pontos pode variar de uma representação para outra. 
+  * Estmule seus alunos a fazerem representações variadas. 
+  * Explore as diversar representações apresentadas pelos alunos. Se possível, exponha em um mural físico ou digital, co fotos. 
  
 </WRAP>
 </hidden>
