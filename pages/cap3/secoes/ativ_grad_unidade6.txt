@@ -6,7 +6,7 @@ Ir para [[cap3:texto#ativ_grad_unidade6]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Estender a representação de frações para a reta numérica a partir de modelos contínuos. 
-  * Associar, a partir de comparação entre os modelos contínuos e a reta numérica, o segmento unitário à unidade, e admitir a representacão de quantidades entre 0 e 1. 
+  * Associar, a partir de comparação entre os modelos contínuos e a reta numérica, o segmento unitário à unidade, e admitir a representacão de quantidades quantidades não inteiras apresentadas em modelos conínuos. 
   * Associar, na reta numérica e a partir de modelos contínuos, a unidade ao número 1. 
   
 Recomendações e sugestões para o desenvolvimento da atividade:
@@ -25,4 +25,11 @@ Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando 
 </WRAP>
 
 
+<hidden Para o professor>
+<WRAP professor> 
 
+FALTA RESPOSTA
+
+
+</WRAP>
+</hidden>
