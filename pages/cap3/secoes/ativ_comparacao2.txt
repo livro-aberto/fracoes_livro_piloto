@@ -6,8 +6,8 @@ Ir para [[cap3:texto#ativ_comparação2]]
 <hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Comparar frações tanto com o mesmo numerador como com mesmo denominador.
-  * Perceber que a comparação entre frações da unidade pode ser "lida" também na reta numérica.
+  * Comparar frações, tanto com o mesmo numerador como com mesmo denominador.
+  * Comparar frações da unidade a partir da sua representação na reta numérica.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
