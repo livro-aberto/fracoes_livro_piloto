@@ -6,13 +6,13 @@ Ir para [[cap2:texto#ativ_pizzaria_rodizio]]
 Objetivos da Atividade:
 
   * Relembrar divisão com resto (ou divisão euclidiana). 
-  * Selecionar, dentro de uma situação plausível do dia a dia, os dados relevantes para o problema. 
+  * Selecionar, dentro de uma situação plausível do dia a dia, dados relevantes para resolver um problema. 
 
 
 Observações para o professor:
 
-  * A atividade deve ser conduzida de forma a chegar-se na divisão inteira. Ou seja, o aluno pode começar montando as pizzas (tanto na proposta digital como com material concreto). Se não for possível oferecer a atividade na forma digital, recomenda-se que os alunos tenham à mão o material concreto: fatias de pizza cortadas em papel ou em E.V.A.
-  * É possível que algum aluno e trabalhe direto com a divisão euclidiana para resolver o item (a), dividindo 39 por 8. Se isso não acontecer, recomenda-se que o professor, ao final do ítem b., dê um fechamento relembrando o raciocínio fazendo uso da divisão com resto. Esta será necessária para o item c.
+  * A atividade deve ser conduzida de forma a chegar-se na divisão euclidiana. Ou seja, o aluno pode começar montando as pizzas (tanto na proposta digital como com material concreto). Se não for possível oferecer a atividade na forma digital, recomenda-se que os alunos tenham à mão o material concreto: fatias de pizza cortadas em papel ou em E.V.A.
+  * É possível que algum aluno e trabalhe direto com a divisão euclidiana para resolver o item (a), dividindo 38 por 8. Se isso não acontecer, recomenda-se que o professor, ao final do ítem b., dê um fechamento relembrando o raciocínio fazendo uso da divisão com resto. Esta será necessária para o item c.
   * Faz parte da atividade a tarefa de selecionar dados relevantes para o problema, o que a torna um tanto complexa, por isso é a última Atividade da Lição 2. Para os itens (a) e (b), a quantidade de amigos é irrelevante, mas o é para o ítem c.. A atividade tem também o objetivo de evidenciar que, no dia a dia, nem toda partição é uma equipartição: 38 fatias de pizza para 7 amigos é um exemplo.
   * Observe que o resto, que é um número inteiro representando o número de fatias agora também pode ser expresso por meio de uma fração da unidade pizza. 
 
@@ -25,7 +25,7 @@ Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias (alternativa: simpl
 
 Sabendo que nessa pizzaria cada pizza é equiparticionada em 8 partes, pergunta-se: 
   - Quantas pizzas inteiras comerarm os 7 amigos? 
-  - Que fração de pizza comeram os amigos ao todo? 
+  - Que fração de pizza comeram  ao todo os amigos ? 
   - É possível que todos os amigos tenham comido o mesmo número de fatias de pizza? Explique.
 
 <hidden Resposta>
