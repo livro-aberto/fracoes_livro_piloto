@@ -24,7 +24,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP nota>
 <WRAP imagem>
-A página para reprodução deve conter 9 fitas de comprimento igual à largura da página e altura igual à 3 cm. Semelhante à {{ :cap3:secoes:fita_1.jpg?200| }}. É importante que estejam identificadas as marcar correspondentes ao 0 e ao 1, de modo que a marca do zero esteja na extremidade esquerda e a marca do 1 esteja a 4/5 da faixa distante do zero, assim vai sobrar 1/5 da faixa após a marca do 1.
+A página para reprodução deve conter 9 fitas de comprimento igual à largura da página e altura igual à 3 cm. Semelhante à {{ :cap3:secoes:fita_1_rodrigo.jpg?300 |}}. É importante que estejam identificadas as marcar correspondentes ao 0 e ao 1, de modo que a marca do zero esteja na extremidade esquerda e a marca do 1 esteja a 4/5 da faixa distante do zero, assim vai sobrar 1/5 da faixa após a marca do 1.
 </WRAP>
 </WRAP>
 
@@ -34,7 +34,7 @@ A página para reprodução deve conter 9 fitas de comprimento igual à largura 
 
 Você acabou de receber uma fita na qual estão marcados os números 0 e 1. 
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{:cap3:secoes:fita_1.jpg?200|}}
+{{ :cap3:secoes:fita_1_rodrigo.jpg?400 |}}
 </WRAP>
   - Faça uma marcação nessa fita correspondente a $\frac{1}{2}$. Explique como você fez essa marcação. 
   - Faça marcações nessa fita correspondentes a $\frac{1}{4}$ e a $\frac{3}{4}$. Explique como você fez essas marcações.
