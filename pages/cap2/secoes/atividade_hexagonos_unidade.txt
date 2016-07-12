@@ -5,11 +5,11 @@ Ir para [[cap2:texto#atividade_hexagonos_unidade]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber a ambiguidade, em termos de quantidades, de especificações incompletas de frações sem referência a unidade. 
+  * Perceber a importância da unidade na representação de quantidades.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma.
-  * Recomenda-se que os itens da atividade sejam feitos e corrigidos um a um, de forma a permitir que um aluno que tenha errado um item
+  * Recomenda-se que os itens da atividade sejam feitos e corrigidos um a um, de forma a permitir que um aluno que tenha errado um item possa acertar o seguinte.
   * No final de cada item da atividade, é importante enfatizar para seus alunos a propriedade matemática que esta atividade quer destacar, ou seja, que uma mesma quantidade pode ser expressa por frações diferentes dependendo da unidade escolhida. Observe para eles que, no contexto "frações de", é fundamental saber a que o "de" se refere, isto é, qual é a unidade que está sendo considerada. Neste sentido, esta atividade está fortemente relacionada com as Atividades 8 e 13. Ela também é uma preparação para a Atividade 17, onde a mesma questão é posta, mas agora com um modelo mais comumente usado e, portanto, mais resistente à reflexão que se deseja estabelecer.
 
 Classificações
