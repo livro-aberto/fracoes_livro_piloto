@@ -18,3 +18,8 @@ Classificações
   * UERJ: Avaliar: julgar
 </WRAP>
 </hidden>
+
+  - A parte em vermelho na figura a seguir representa $\frac{1}{2}$ ou $\frac{1}{4}$? <WRAP imagem> FIGURA GEOMÉTRICA.{{ :undefined:hexagonos-unidade-01.png?0x100 |}}</WRAP>
+  - A parte em vermelho na figura a seguir representa $\frac{1}{2}$ ou $\frac{3}{2}$? <WRAP imagem> FIGURA GEOMÉTRICA.{{ :undefined:hexagonos-unidade-02.png?0x100 |}}</WRAP>
+  - A parte em vermelho na figura a seguir representa $\frac{3}{5}$ ou $3$?<WRAP imagem> FIGURA GEOMÉTRICA.{{ :undefined:hexagonos-unidade-03.png?0x100 |}}</WRAP>
+
