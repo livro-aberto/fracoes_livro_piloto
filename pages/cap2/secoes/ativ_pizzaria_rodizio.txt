@@ -29,12 +29,15 @@ Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias (alternativa: simpl
 
 Sabendo que nessa pizzaria cada pizza é equiparticionada em 8 partes, pergunta-se: 
   - Quantas pizzas inteiras comerarm os 7 amigos? 
-  - Que fração de pizza comeram  ao todo os amigos ? 
+  - Que fração de uma pizza comeram  ao todo os amigos? 
   - É possível que todos os amigos tenham comido o mesmo número de fatias de pizza? Explique.
 
 <hidden Resposta>
 <WRAP resposta>
 
-Para o item a. é o quociente da divisão euclidiana, mas a resposta para o item b. diz respeito à divisão e ao resto: 4 pizzas e 6 oitavos ou 38/8. O resto 6 corresponde a 6 fatias, que são, na verdade, $\frac{6}{8}$ de pizza. Para o item c. , a divisão inteira de 38 por 7 nos fornece resto diferente de zero, o que indica que não é possível que todos os amigos tenham comido o mesmo número de fatias de pizza.
+  - (a) A solução corresponde ao quociente da divisão euclidiana de 38 por 8: 4
+  - (b) Compreendendo que cada fatia é $\frac{1}{8}$  de uma pizza: 4 pizzas e $\frac{6}{8}$ ou $\frac{38}{8}$. 
+  - (c) A divisão euclidiana de 38 por 7 nos fornece resto diferente de zero, o que indica que não é possível que todos os amigos tenham comido o mesmo número de fatias de pizza, ou, a mesma quantidade de pizza.
+
 </WRAP>
 </hidden>
