@@ -15,21 +15,21 @@ O professor deve observar aqui que ainda teremos respostas que serão equivalent
 O item (e) é um convite ao aluno para se libertar do concreto e explicar como pode-se calcular, em geral, a fração da parte descoberta se conhecermos a fração da faixa que foi coberta.
 
 </WRAP>
-Com a orientação do professor construa duas faixas de mesmo tamanho, uma amarela e outra rosa. Na faixa rosa, faça duas dobras de modo a dividi-la em quatro partes iguais. Recorte cada uma das partes da faixa rosa.
+Construa duas faixas de mesmo tamanho, uma amarela e outra rosa. Na faixa rosa, faça duas dobras de modo a dividi-la em quatro partes iguais. Recorte cada uma das partes da faixa rosa.
 
 Agora que você já tem os “pedaços” rosa e a faixa completa amarela, responda:
 
-a)	Que parte da faixa amarela corresponde uma parte rosa? Como representamos esta fração?
+a)	Que fração da faixa amarela corresponde uma parte rosa? Como representamos esta fração?
 
-b)	Se colocarmos uma parte rosa sobre a faixa amarela, como na figura abaixo, que parte da faixa amarela ficará descoberta?
+b)	Se colocarmos uma parte rosa sobre a faixa amarela, como na figura abaixo, que fração da faixa amarela ficará descoberta?
 
 ILUSTRADOR: inserir uma figura com a abaixo, mas sendo uma parte rosa sobre a faixa amarela (não precisa ser na ponta!) 
 {{ :cap3:secoes:faixas.jpg?300 |}}
 
-c) Se justapomos dois pedaços rosa sobre a faixa amarela, qual fração da faixa amarela ficará coberta? E qual fração ficará descoberta?
+c) Se justapomos dois pedaços rosa sobre a faixa amarela, que fração da faixa amarela ficará coberta? E que fração ficará descoberta?
 
-d)	Faça o mesmo para três e quatro pedaços, respondendo a cada vez: qual fração da faixa amarela ficará coberta? E qual fração ficará descoberta? 
+d)	Faça o mesmo para três e quatro pedaços, respondendo a cada vez: que fração da faixa amarela ficará coberta? E que fração ficará descoberta? 
 
-e) Uma faixa foi dividida em 13 partes iguais e 5 delas foram cobertas. Qual fração da faixa amarela ficou descoberta? Explique como você chegou a esse resultado. 
+e) Uma faixa foi dividida em 13 partes iguais e 5 delas foram cobertas. Que fração da faixa amarela ficou descoberta? Explique como você chegou a esse resultado. 
 
 
