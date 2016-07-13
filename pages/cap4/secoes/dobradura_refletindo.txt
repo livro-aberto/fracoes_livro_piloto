@@ -37,8 +37,8 @@ Assim, generalizando o processo de "dobrar" a folha, temos que, ao dobrar a folh
 
 $\frac{3}{10}=\frac{n \times 3}{n \times 10}$; onde n é o numero de partes em que você dobrou a folha.
 
-[[http://tube.geogebra.org/m/X52U83TR]]
+Agora, recomendamos que você utilize o aplicativo disponível no link a seguir [[http://tube.geogebra.org/m/X52U83TR]] para dobrar a folha em partes cada vez menores (basta aumentar o valor de m no aplicativo). Mexa à vontade! Qualquer dúvida pergunte ao seu professor.
 
-{{ :cap4:secoes:dobradura-geogebra.png?300 |}}
+{{ :cap4:secoes:dobradura-geogebra.png?500 |}}
 
 </WRAP>
