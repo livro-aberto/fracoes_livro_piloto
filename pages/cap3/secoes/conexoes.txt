@@ -34,7 +34,7 @@ Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O pont
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_umterco.png?400 |}} </WRAP>
 
-A partir dele, por justaposição, são identificados na reta numérica os pontos correspondentes a $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
+A partir dele, por justaposições desse segmento, são identificados na reta numérica os pontos correspondentes a $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
 
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_doistercos.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta_numerica_tercos.png?600 |}} </WRAP>
