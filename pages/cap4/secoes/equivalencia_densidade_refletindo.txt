@@ -8,7 +8,7 @@ Nas atividades 23 e 24 estudamos uma propriedade importante do conjunto das fra�
 
 Isto é, dadas duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes (suponha $\frac{a}{b}<\frac{c}{d}$), sempre é possível determinar uma terceira fração $\frac{p}{q}$ tal que:
 
-$$\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$$
+$$\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}.$$
 
 Para explicar melhor o nosso procedimento, veremos primeiro um exemplo.
 
@@ -45,17 +45,17 @@ Agora sim, apresentaremos o nosso procedimento em uma linguagem mais geral.
 
 Dadas duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes (suponha $\frac{a}{b}<\frac{c}{d}$) , queremos determinar uma terceira fração $\frac{p}{q}$ tal que:
 
-$$\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$$
+$$\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}.$$
 
 O primeiro passo é encontrar frações iguais às anteriores, mas que tenham o mesmo denominador.
 
 Para isso, basta multiplicarmos multiplicar os numeradores e os denominadores de cada fração pelo denominador da outra fração. Veja:
 
-$$\dfrac{a}{b} = \dfrac{d \times a}{d \times b} \text{ onde $d$ é o denominador da segunda fração,}$$
+$$\dfrac{a}{b} = \dfrac{d \times a}{d \times b} \text{, onde $d$ é o denominador da segunda fração,}$$
 
 e
 
-$$\dfrac{c}{d} = \dfrac{b \times c}{b \times d} \text{ onde $b$ é o denominador da primeira fração,}$$
+$$\dfrac{c}{d} = \dfrac{b \times c}{b \times d} \text{, onde $b$ é o denominador da primeira fração,}$$
 
 Além disso, como $\frac{a}{b}<\frac{c}{d}$, o produto $d \times a$ é diferente do produto $b \times c$.
 
