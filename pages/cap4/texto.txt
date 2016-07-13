@@ -29,12 +29,13 @@
 ==== - Atividade ====
 {{page>cap4:secoes:dobradura}}
 
+{{anchor:dobradura_refletindo}}
+{{page>cap4:secoes:dobradura_refletindo}}
+
 {{anchor:divisao_escondida}}
 ==== - Atividade ====
 {{page>cap4:secoes:divisao_escondida}}
 
-{{anchor:dobradura_refletindo}}
-{{page>cap4:secoes:dobradura_refletindo}}
 
 {{anchor:reta_numerica}}
 ==== - Atividade ====
