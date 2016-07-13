@@ -3,9 +3,17 @@ Ir para [[cap4:texto#reta_numerica_refletindo]]
 ;;#
 
 <WRAP Refletindo>
-HJB para Wanderley (2016-05-28): a ideia é aqui é tentar explicar a generalização do processo, isto é, se as frações da forma $\frac{n}{d}$, com $d$ fixo, estão marcadas na reta numérico, ao dividirmos cada subintervalo em $m$ partes iguais, então $\frac{n}{d} = \frac{m \times n}{m \times d}$.
 
-Pode-se incluir uma nota para o professor indicando que o seguinte applet do GeoGebra pode ser útil (via projeção para observação de toda a sala) para o processo de generalização.
+Na atividade 6, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de forma diferentes.
+
+Na primeira figura, cada intervalo unitário da reta foi subdividido em três partes iguais. Para representar o ponto azul na reta numérica da primeira figura, você considerou quatro cópias justapostas, a partir da origem, do subintervalo medindo $\frac{1}{3}$. 
+Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
+
+<WRAP imagem> FIGURA GEOMÉTRICA
+
+</WRAP>
+FALTA CONCLUIR A DIGITAÇÃO...
+
 
 [[http://tube.geogebra.org/m/Pr3s9vak]]
 
