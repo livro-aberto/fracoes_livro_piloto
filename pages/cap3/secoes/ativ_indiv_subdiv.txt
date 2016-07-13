@@ -24,8 +24,13 @@ a)	Que fração da faixa amarela corresponde uma parte rosa? Como representamos 
 
 b)	Se colocarmos uma parte rosa sobre a faixa amarela, como na figura abaixo, que fração da faixa amarela ficará descoberta?
 
-ILUSTRADOR: inserir uma figura com a abaixo, mas sendo uma parte rosa sobre a faixa amarela (não precisa ser na ponta!) 
+<WRAP imagem> FIGURA GEOMÉTRICA
+
+inserir uma figura como a abaixo, mas sendo uma parte rosa SOBRE a faixa amarela (não precisa ser na ponta!) 
 {{ :cap3:secoes:faixas.jpg?300 |}}
+
+</WRAP>
+
 
 c) Se justapomos dois pedaços rosa sobre a faixa amarela, que fração da faixa amarela ficará coberta? E que fração ficará descoberta?
 
