@@ -5,14 +5,15 @@ Ir para [[cap3:texto#ativ_indiv_subdiv]]
 
 <WRAP professor>
 Objetivos específicos:
-Aprofundar a ideia de divisão do inteiro e associá-las às representações 1/b e a/b
+Aprofundar a ideia de divisão da unidade e associá-las às representações 1/b e a/b
+
 
 Recomendações:
-Peça para os alunos construírem com papel A4 duas faixas de igual tamanho, uma rosa e outra amarela dividindo, por dupla dobra, a faixa rosa em quatro partes iguais.  A seguir, peça-lhes que recortem tais partes. Desta forma, poderão trabalhar com  a fração unitária ¼ e, por justaposição, com as frações 2/4, ¾ e 4/4.
+Peça para os alunos construírem com papel A4 duas faixas de igual tamanho, uma rosa e outra amarela dividindo, por dupla dobra, a faixa rosa em quatro partes iguais.  A seguir, peça-lhes que recortem as partes da faixa rosa. O objetivo é de, dessa forma, facilitar o trabalho com a fração unitária ¼ e, por justaposição da quarta parte da faixa, com as frações 2/4, ¾ e 4/4.
 
-O professor deve observar aqui que ainda teremos respostas que serão equivalentes e outras abertas que devemos esperar diversas respostas, por exemplo, no item (c). 
+Observe que poderão aparecer respostas variadas, por conta da equivalência de frações, por exemplo, no item (c). 
 
-O item (e) é um convite ao aluno para se libertar do concreto e explicar como pode-se calcular, em geral, a fração da parte descoberta se conhecermos a fração da faixa que foi coberta.
+O item (e) é um convite ao aluno para se libertar do concreto e tentar explicar como se pode, em geral, calcular a fração da parte descoberta a partir do conhececimento da fração da faixa que está coberta.
 
 </WRAP>
 Construa duas faixas de mesmo tamanho, uma amarela e outra rosa. Na faixa rosa, faça duas dobras de modo a dividi-la em quatro partes iguais. Recorte cada uma das partes da faixa rosa.
