@@ -14,7 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Deve ser desenvolvida em grupos de 2 ou 3 alunos. 
   * Faça cópias da fita necessária para o desenvolvimento da atividade, que está disponível para reprodução (**Inserir LINK de página para reprodução**).
-  * No enunciado a unidade está propositalmente indefinida de modo que alguns estudantes podem considerar a faixa inteira e outros o segmento zero-um como unidade. O objetivo é que eles discutam esta imprecisão e reconheçam ao final que o entendimento da unidade como a fita inteira é incompatível com as marcações pré-existentes na fita.
+  * Ao ler o enunciado, como a faixa lembra modelos contínuos tratados na abordagem inicial de frações (por exemplo, barra de chocolate ou retângulos), é natural que alguns estudantes considerem a faixa inteira como unidade. Já outros, observando a indicação da reta numérica na faixa, identifiquem o segmento unitário como unidade. O objetivo é que eles discutam essa questão e reconheçam ao final que o entendimento da unidade como a fita inteira é incompatível com as marcações pré-existentes na fita. Objetiva-se a representação das frações na reta numérica e não a identificação de partes de um modelo contínuo. 
   * Do item b) em diante a unidade já estará subentendida como sendo o segmento zero-um pois isso foi discutido no item a).
   * Recomenda-se que os alunos usem dobradura para realizar essa atividade. Instrua-os nesse sentido. Não se espera, nem se recomenda, que a atividade seja realizada a partir da medida do comprimento da faixa.
   * Pode ser muito enriquecedor para o estudante descrever cuidadosamente o processo de obtenção das frações, nos itens b) em diante.
