@@ -4,45 +4,63 @@ Ir para [[cap4:texto#reta_numerica_refletindo]]
 
 <WRAP Refletindo>
 
-Na atividade 6, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de forma diferentes.
+Na Atividade 6, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de forma diferentes.
 
 Na primeira figura, cada intervalo unitário da reta foi subdividido em três partes iguais. Para representar o ponto azul na reta numérica da primeira figura, você considerou quatro cópias justapostas, a partir da origem, do subintervalo medindo $\frac{1}{3}$. 
 Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
+
+{{ :cap4:secoes:w_9.png?600 |}}
 </WRAP>
 
 Na segunda figura, cada subintervalo da reta medindo $\frac{1}{3}$ foi dividido em duas partes iguais. Cada um desses subintervalos mede $\frac{1}{6}$ do intervalo unitário. Para representar o ponto azul na reta numérica da segunda figura, foram necessárias então oito (o dobro da quantidade anterior) cópias desses subintervalos. Logo, o ponto azul representa também a fração $\frac{8}{6}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
+
+{{ :cap4:secoes:w_10.png?600 |}}
 </WRAP>
 
 Daí,
 
 $$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{2 \times 4}{2 \times 3}$$
 
-onde o número dois indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
+onde o número **dois** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
 
 Na terceira figura, cada subintervalo da reta medindo $\frac{1}{3}$  foi dividido em três partes iguais. Cada um desses subintervalos mede $\frac{1}{9}$  do intervalo unitário. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial)  cópias de cada um desses subintervalos.  Logo, o ponto azul representa também a fração $\frac{12}{9}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
+
+{{ :cap4:secoes:w_11.png?600 |}}
 </WRAP>
 
 Daí, 
 
 $$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{3 \times 4}{3 \times 3}$$
 
-onde o número três  indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
+onde o número **três** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
 
 Na quarta figura, cada intervalo de comprimento igual a $\frac{1}{3}$ foi subdividido em 4 partes iguais.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
+{{ :cap4:secoes:w_12.png?600 |}}
 </WRAP>
-
+De modo análogo, conclui-se que o ponto azul representa a fração $\frac{16}{12}$ e
 
 $$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12} = \dfrac{4 \times 4}{4 \times 3}$$
-[[http://tube.geogebra.org/m/Pr3s9vak]]
 
-{{ :cap4:secoes:reta-numerica-geogebra.png?300 |}}
+onde o número **quatro** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
+
+Assim, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, temos que
+
+$$\dfrac{4}{3} = \dfrac{m \times 4}{m \times 3}$$
+
+De modo geral, dada uma fração $\frac{n}{d}$, podemos representá-la de forma equivalente, subdividindo cada subintervalo de comprimento $\frac{1}{d}$ em $m$ partes iguais. 
+
+Neste caso precisaremos ($m \times n$) cópias de subintervalos de comprimento $\frac{1}{m \times d}$, isto é:
+
+$$\dfrac{n}{d} = \dfrac{m \times n}{m \times d}$$
+
+qualquer que seja o número natural $m > 0$.
 
 </WRAP>
