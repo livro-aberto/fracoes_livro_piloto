@@ -40,11 +40,11 @@ Logo a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
 
 Podemos representar este raciocínio do seguinte modo:
 
-$\frac{1}{3}$ é igual a 2 vezes $\frac{1}{6}$, isto é, $\frac{2}{6}$
+$\frac{1}{3}$ é igual a 2 vezes $\frac{1}{6}$, isto é, $\frac{2}{6}$.
 
 Logo
 
-$\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$
+$\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
 
 Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
     * que doze peças rosas cobrem o círculo inteiro; <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_6.png?200 |}}</WRAP>
