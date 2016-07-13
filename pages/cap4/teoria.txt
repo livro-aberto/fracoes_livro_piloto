@@ -1,5 +1,5 @@
 ====== Referencial teórico para o capítulo ======
 
-  * Vamvakoussi, Xenia; Vosniadou,Stella. Bridging the Gap Between the Dense and the Discrete: The Number Line and the “Rubber Line” Bridging Analogy. Mathematical Thinking and Learning, v. 14, n. 4, p. 265-284, 2012. DOI: 10.1080/10986065.2012.717378
+  * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
 
-Este artigo faz um resumo histórico de como a noção de densidade surgiu.
+  * Vamvakoussi, Xenia; Vosniadou,Stella. Bridging the Gap Between the Dense and the Discrete: The Number Line and the “Rubber Line” Bridging Analogy. Mathematical Thinking and Learning, v. 14, n. 4, p. 265-284, 2012. DOI: 10.1080/10986065.2012.717378. \\ Este artigo faz um resumo histórico de como a noção de densidade surgiu.
