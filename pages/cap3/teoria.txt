@@ -46,5 +46,5 @@ A história do uso da reta numérica em livros textos dos Estados Unidos. Mostra
 Hans Freudenthal. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).\\
 Grande entusiasta do uso da reta numérica no ensino de matemática, enfatiza o uso dela para observar a densidade dos racionais e a continuidade.
 
-* IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction
+  * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction
 for Kindergarten Through 8th Grade]]. Dá evidências de estudos que mostram evidência na efetividade do uso da reta numérica no ensino de frações.
