@@ -11,19 +11,19 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
   * É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
-  * Aproveite esta atividade para revisar e discutir o vocabulário que é objetivo nesta seção: //unidade//, //metade//, //um meio//, //um terço//, //terça parte//, //um quarto//, //quarta parte//, //um quinto//, //quinta parte//, //um sexto//, //sexta parte//, //um sétimo//, //sétima parte//, //um oitavo//, //oitava parte//, //um nono//, //nona parte//, //um décimo// e //décima parte//.
+  * Aproveite esta atividade para revisar e discutir o vocabulário que é objetivo nesta seção: //unidade,// //metade,// //um meio,// //um terço,// //terça parte,// //um quarto,// //quarta parte,// //um quinto,// //quinta parte,// //um sexto,// //sexta parte,// //um sétimo,// //sétima parte,// //um oitavo,// //oitava parte,// //um nono,// //nona parte,// //um décimo// e //décima parte//.
 
 </WRAP>
 </hidden>
 
 Nas figuras a seguir cada um dos círculos está dividido em partes iguais. 
   - Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras. 
-    -	A parte colorida do círculo _ _ _ _ é um quinto do círculo.
-    -	A parte colorida do círculo _ _ _ _ é a sexta parte do círculo.
-    -	A parte colorida do círculo _ _ _ _ é um sétimo do círculo.
-    -	A parte colorida do círculo _ _ _ _ é um oitavo do círculo.
-    -	A parte colorida do círculo _ _ _ _ é a nona parte do círculo.
-    -	A parte colorida do círculo _ _ _ _ é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
+    -	A parte colorida do círculo _ _ _ _ _ é um quinto do círculo.
+    -	A parte colorida do círculo _ _ _ _ _ é a sexta parte do círculo.
+    -	A parte colorida do círculo _ _ _ _ _ é um sétimo do círculo.
+    -	A parte colorida do círculo _ _ _ _ _ é um oitavo do círculo.
+    -	A parte colorida do círculo _ _ _ _ _ é a nona parte do círculo.
+    -	A parte colorida do círculo _ _ _ _ _ é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
 {{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>\\
   - Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
