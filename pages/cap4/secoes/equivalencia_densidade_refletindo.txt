@@ -51,11 +51,11 @@ O primeiro passo é encontrar frações iguais às anteriores, mas que tenham o 
 
 Para isso, basta multiplicarmos multiplicar os numeradores e os denominadores de cada fração pelo denominador da outra fração. Veja:
 
-$$\dfrac{a}{b} = \dfrac{d \times a}{d \times b} \text{, onde $d$ é o denominador da segunda fração,}$$
+$$\dfrac{a}{b} = \dfrac{d \times a}{d \times b}$$
+onde $d$ é o denominador da segunda fração e
 
-e
-
-$$\dfrac{c}{d} = \dfrac{b \times c}{b \times d} \text{, onde $b$ é o denominador da primeira fração,}$$
+$$\dfrac{c}{d} = \dfrac{b \times c}{b \times d}$$
+onde $b$ é o denominador da primeira fração.
 
 Além disso, como $\frac{a}{b}<\frac{c}{d}$, o produto $d \times a$ é diferente do produto $b \times c$.
 
