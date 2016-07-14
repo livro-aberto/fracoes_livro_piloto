@@ -1,10 +1,11 @@
 ====== Referencial teórico para a lição ======
 
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
+   * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
 
 
 
-
+/*
    * Discussão no fórum sobre abordagem da reta numérica na lição:
 https://www.umlivroaberto.com/forum/viewtopic.php?f=19&t=55
 
@@ -50,4 +51,4 @@ A história do uso da reta numérica em livros textos dos Estados Unidos. Mostra
 
 Hans Freudenthal. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).\\
 Grande entusiasta do uso da reta numérica no ensino de matemática, enfatiza o uso dela para observar a densidade dos racionais e a continuidade.
-
+*/
