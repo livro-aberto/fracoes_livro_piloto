@@ -3,6 +3,4 @@
 As páginas a seguir estão disponíveis para cada uma das lições do livro.
 
    * [[cap2:texto|Texto]] - Versão atual desta lição. Entre aqui se você quer conhecer ou editar o texto. A versão em pdf está revisada, use-a para impressão.
-   * [[cap2:teoria|Referencial teórico para o capítulo]] - Livros e artigos que podem embasar a pesquisa para produção desta lição.
-   * [[cap2:material|Referências a materiais didáticos pertinentes]] - Recursos educacionais que podem servir de modelo para alguns aspectos da lição. 
-
+   * [[cap2:teoria|Referencial teórico para o capítulo]] - Livros e artigos que podem embasar a pesquisa para produção desta lição.  
