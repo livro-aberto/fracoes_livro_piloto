@@ -2,39 +2,33 @@
 Ir para [[cap4:texto#preencha_refletindo]]
 ;;#
 
-<WRAP Refletindo> Ao resolver esta última atividade você deve ter percebido que as justaposições de cada tipo de setor circular 
+<WRAP refletindo> Ao resolver esta última atividade você deve ter percebido que as justaposições de cada tipo de setor circular 
 
-<WRAP imagem> FIGURA GEOMÉTRICA
+<WRAP imagem> FIGURAS GEOMÉTRICAS (todas as imagens desta seção refletindo)
+</WRAP>
 
 {{:cap4:secoes:peca-um-terco.png?200}} {{:cap4:secoes:peca-um-sexto.png?200}} {{:cap4:secoes:peca-um-doze-avos.png?200}}
-</WRAP>
 
 preencheram uma mesma área (a área cinza do encarte).
 
-<WRAP imagem> FIGURA GEOMÉTRICA 
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?266 |}}
-</WRAP>
 
 Quanto menor a área do setor circular, mais peças você precisou para preencher a área cinza.
 
 Assim, para preencher a **primeira linha da tabela** você deve ter percebido que três peças azuis correspondem  ao círculo inteiro
 
-<WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_azul.png?200 |}}
-</WRAP>
 
 e que duas peças  azuis preencheram a área cinza.
 
-<WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_2.png?200 |}}
-</WRAP>
 
 Logo a área da região cinza é igual a $\frac{2}{3}$ da área do círculo.
 
 Para preencher a **segunda linha da tabela** você deve ter percebido:
-  * que seis peças lilás  cobrem o círculo inteiro; \\ <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_3.png?200 |}}</WRAP>
-  * que duas peças lilás cobrem uma peça azul; \\ <WRAP imagem>FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_4.png?200 |}} </WRAP> $\left(\frac{1}{3} = \frac{2}{6}\right)$
-  * e que quatro peças  lilás  preencheram a área da região cinza. <WRAP imagem>FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_5.png?200 |}} </WRAP> $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
+  * que seis peças lilás  cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_3.png?200 |}}
+  * que duas peças lilás cobrem uma peça azul; \\ {{ :cap4:secoes:w_4.png?200 |}} $\left(\frac{1}{3} = \frac{2}{6}\right)$
+  * e que quatro peças  lilás  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
 
 Logo a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
 
@@ -47,9 +41,9 @@ Logo
 $\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
 
 Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
-    * que doze peças rosas cobrem o círculo inteiro; <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_6.png?200 |}}</WRAP>
-    * que quatro peças rosas cobrem uma peça azul; <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_7.png?200 |}}</WRAP> $\left(\frac{1}{3} = \frac{4}{12}\right)$
-    * e que oito peças  rosas  preencheram a área da região cinza. <WRAP imagem> FIGURA GEOMÉTRICA \\ {{ :cap4:secoes:w_8.png?200 |}} </WRAP> $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
+    * que doze peças rosas cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_6.png?200 |}}
+    * que quatro peças rosas cobrem uma peça azul; \\ {{ :cap4:secoes:w_7.png?200 |}} $\left(\frac{1}{3} = \frac{4}{12}\right)$
+    * e que oito peças  rosas  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
 Logo a área cinza é igual a $\frac{8}{12}$ da área do círculo. 
 
 Podemos representar este raciocínio do seguinte modo:
