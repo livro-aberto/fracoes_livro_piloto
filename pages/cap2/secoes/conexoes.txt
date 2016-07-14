@@ -49,25 +49,16 @@ Como você viu, o nome da fração depende principalmente do denominador da fra�
 $$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
 $$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
 Anote agora os nomes de algumas frações do tipo $\frac{1}{b}$:
-$$\frac{1}{2}\rightarrow \text{  um meio;}$$ 
-$$\frac{1}{3}\rightarrow\text{  um terço;}$$
-$$\frac{1}{4}\rightarrow\text{  um quarto;}$$
-$$\frac{1}{5}\rightarrow\text{  um quinto;}$$
-$$\frac{1}{6}\rightarrow\text{  um sexto;}$$
-$$\frac{1}{7}\rightarrow\text{  um sétimo;}$$
-$$\frac{1}{8}\rightarrow\text{  um oitavo;}$$ 
-$$\frac{1}{9}\rightarrow\text{  um nono;}$$
-$$\frac{1}{10}\rightarrow\text{  um décimo.}$$
+$$\frac{1}{2}\rightarrow \text{  um meio;} \quad \frac{1}{3}\rightarrow\text{  um terço;} \quad \frac{1}{4}\rightarrow\text{  um quarto;}$$
+$$\frac{1}{5}\rightarrow\text{  um quinto;}\quad \frac{1}{6}\rightarrow\text{  um sexto;} \quad \frac{1}{7}\rightarrow\text{  um sétimo;}$$
+$$\frac{1}{8}\rightarrow\text{  um oitavo;}\quad \frac{1}{9}\rightarrow\text{  um nono;}\quad \frac{1}{10}\rightarrow\text{  um décimo.}$$
 Para a fração $\frac{1}{11}$, fala-se um onze avos. O mesmo procedimento se aplica para frações cujo denominador é maior do que 11: 
-$$\frac{1}{12}\rightarrow \text{  um doze avos;}$$ 
-$$\frac{1}{13}\rightarrow \text{ um treze avos;}$$
-$$\frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
+$$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
 Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O que importa é que para denominadores maiores 11 usaremos esse sufixo "avos" ao final da leitura.
 
 Contudo, para frações cujo denominador é uma potência de 10, usamos outra formar de ler:
-$$\frac{1}{100}\rightarrow \text{ um centésimo;}$$
-$$\frac{13}{100}\rightarrow \text{ treze centésimos;}$$
-$$\frac{33}{1000}\rightarrow \text{ trinta e três milésimos.}$$
+$$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100}\rightarrow \text{ treze centésimos;}\quad
+\frac{33}{1000}\rightarrow \text{ trinta e três milésimos.}$$
 
 **Pronto! Agora você já é capaz de ler diversos tipos de frações.**
 
