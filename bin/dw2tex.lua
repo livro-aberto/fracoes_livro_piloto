@@ -36,7 +36,7 @@ end
 
 local digit = R('09')
 local alpha = R('AZ', 'az') + S('áéíóúàèìòôùâêÂÊÁÉÍÓÚÀÈÌÒÙüãẽõçÇÃẼÕ')
-local symb = S('():/+-!?.,;\\{}$&#^*|_~%=<>"\' \n\t')
+local symb = S('[]():/+-!?.,;\\{}$&#^*|_~%=<>"\' \n\t')
 local known = digit + alpha + symb
 
 -- replacing unknown symbols by a string
@@ -120,9 +120,9 @@ local wrap = P{
 }
 
 --local bighidden = P('<hidden ') * token('comment', decotext + wrap)^1 * P('</hidden>')
-local bighidden = P('<hidden ') * (decotext + wrap)^1 * P('</hidden>')
+local bighidden = P('<hidden ') * (known - P('>'))^0 * P('>') * (decotext + wrap)^0 * P('</hidden>')
 
-local document = Ct( ( decotext + wrap + bighidden + token('error', special) + token('error', known) )^1 )
+local document = Ct( ( bighidden + decotext + wrap + token('error', special) + token('error', known) )^1 )
 
 --tprint(document:match(doc))
 
