@@ -1,6 +1,5 @@
 ====== Referencial teórico para a lição ======
   * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction On A Number Line]]. Proceedings of the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference, v. 3, p. 17-24, 2003.
-
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
    * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
 
