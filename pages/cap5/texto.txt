@@ -8,15 +8,15 @@
 ===== EXPLORANDO O ASSUNTO =====
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:unidade1}}
 {{page>cap5:ativ:unidade1}}
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:unidade2}}
 {{page>cap5:ativ:unidade2}}
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:unidade3}}
 {{page>cap5:ativ:unidade3}}
 
@@ -29,47 +29,47 @@
 
 Esta é a seção de exercícios da lição. Caso seja necessário incluir alguma observação adcional ao estudante como uma conclusão do que foi tratado em algumas atividades, crie uma página Refletindo em qualquer lugar entre as atividades da seção.
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:mesma_subunidade}}
 {{page>cap5:ativ:mesma_subunidade}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:calcule}}
 {{page>cap5:ativ:calcule}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:reta_mais}}
 {{page>cap5:ativ:reta_mais}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:a_para_chegar_em_b}}
 {{page>cap5:ativ:a_para_chegar_em_b}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:sete_e_dois_tercos}}
 {{page>cap5:ativ:sete_e_dois_tercos}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:dois_para_chegar_em}}
 {{page>cap5:ativ:dois_para_chegar_em}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:reta_menos}}
 {{page>cap5:ativ:reta_menos}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:canteiro}}
 {{page>cap5:ativ:canteiro}}
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:garrafas_tres_duas}}
 {{page>cap5:ativ:garrafas_tres_duas}}
 
@@ -77,6 +77,6 @@ Esta é a seção de exercícios da lição. Caso seja necessário incluir algum
 ===== QUEBRANDO A CUCA =====
 
 
-==== - Atividade ====
+==== Atividade - ====
 {{anchor:verd_falso}}
 {{page>cap5:ativ:verd_falso}}
