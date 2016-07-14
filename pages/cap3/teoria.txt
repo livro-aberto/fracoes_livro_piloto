@@ -1,4 +1,5 @@
 ====== Referencial teórico para a lição ======
+  * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction On A Number Line]]. Proceedings of the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference, v. 3, p. 17-24, 2003.
 
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
    * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
@@ -9,8 +10,8 @@
    * Discussão no fórum sobre abordagem da reta numérica na lição:
 https://www.umlivroaberto.com/forum/viewtopic.php?f=19&t=55
 
-   * Locating Fraction on a Number Line\\
-Hannula, Markku S.
+   * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction on a Number Line]]\\
+
 
 International Group for the Psychology of Mathematics Education, Paper presented at the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference (Honolulu, HI, Jul 13-18, 2003), v3 p17-24
 Based on a survey of 3067 Finnish 5th and 7th graders and a task-based interview of 20 7th graders we examine student's understanding of fraction. Two tasks frame a specific fraction (3/4) in different contexts: as part of an eight-piece bar (area context) and as a location on a number line. The results suggest that students' understanding of fraction develops substantially from 5th to 7th grade. However, Part-to-Whole comparison is strongly dominating students' thinking, and students have difficulties in perceiving a fraction as a number on a number line even on 7th grade. 
