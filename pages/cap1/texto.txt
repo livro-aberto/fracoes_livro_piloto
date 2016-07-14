@@ -9,7 +9,7 @@ page>cap1:secoes:intro
 ===== EXPLORANDO O ASSUNTO =====
 
 {{anchor:ativ_equiparticao}}
-==== - Atividade ====
+==== Atividade - ====
 {{page>cap1:secoes:ativ_equiparticao}}
 
 {{anchor:ativ_equiparticao2}}
