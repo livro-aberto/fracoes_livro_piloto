@@ -34,8 +34,8 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 | Atividade [[cap1:secoes:ativ_desenhar]]              | [[figuras:cap1:secoes:ativ_desenhar|link]]              | Gimair Augusto Lemos Reis                                                                                                  | não postado     |
 | Atividade [[cap1:secoes:ativ_hexag]]                 | [[figuras:cap1:secoes:ativ_hexag|link]]                 | Gabriel de Paulo Costa       ,     Gimair Augusto Lemos Reis                                                               | não postado     |
 | Atividade [[cap1:secoes:ativ_meioemeio]]             | [[figuras:cap1:secoes:ativ_meioemeio|link]]             | vitoria da mota souza                                                                                                      | não postado     |
-| Atividade [[cap1:secoes:ativ_variadas]]              | [[figuras:cap1:secoes:ativ_variadas|link]]              | vitoria da mota souza                                                                                                      | não postado     |
-| Atividade [[cap1:secoes:ativ_visual_linguagem]]      | [[figuras:cap1:secoes:ativ_visual_linguagem|link]]      | vitoria da mota souza                                                                                                      | em verificação  |
+| Atividade [[cap1:secoes:ativ_variadas]]              | [[figuras:cap1:secoes:ativ_variadas|link]]              | vitoria da mota souza                                                                                                      | em verificação  |
+| Atividade [[cap1:secoes:ativ_visual_linguagem]]      | [[figuras:cap1:secoes:ativ_visual_linguagem|link]]      | vitoria da mota souza                                                                                                      | não postado     |
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 07/08/2016                         ^ link                                                                  ^ Autor \\ Ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status ^
