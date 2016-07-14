@@ -19,7 +19,7 @@ Classificações:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter a mesma dimensão do retângulo usado na Atividade [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto#ativ_grad_unidade3|15]] da Lição 3.
+<WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter a mesma dimensão do retângulo usado na Atividade 15 <hidden [[cap3:texto#ativ_grad_unidade3|(link)]]></hidden> da Lição 3.
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
 </WRAP>
 </WRAP>
