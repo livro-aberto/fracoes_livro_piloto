@@ -2,7 +2,7 @@
 Ir para [[cap4:texto#reta_numerica_refletindo]]
 ;;#
 
-<WRAP Refletindo>
+<WRAP refletindo>
 
 Na Atividade 6, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de forma diferentes.
 

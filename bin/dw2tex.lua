@@ -70,13 +70,14 @@ doc = killunknown:match(doc)
 
 local special = P('**') + P('__') + P([[//]]) + P("''") + P('====') + P('$') + P('<WRAP')
    + P('</WRAP') + P('"') + P([[\\]]) + P('{{') + P('}}') + P('/*') + P('*/') + P('<hidden ') + P('</hidden>')
-   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n') + P(';;#') + P('|')
+   + P('\n  *') + P('\n  -') + P('\n    *') + P('\n    -') + P('\n') + P(';;#') + P('|') + P('[') + P(']')
 local harmless = known - special
 
 local whitespace = P(' ')^0
 local simpletext = harmless^1
 local bold = surround('bold', '**', simpletext)
 local under = surround('under', '__', simpletext)
+local link = P('[[') * token('link', (known - P(']'))^0) * P(']]')
 local italic = surround('italic', [[//]], (harmless - P([[//]]))^1 )
 local mono = surround('mono', "''", simpletext)
 local newline = token('newline', [[\\]])
@@ -90,8 +91,8 @@ local titleless = P('====') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * S(':|')^0 * token('image', simpletext) * P('|')^0 * P('}}')
 local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#')
-local quote = surround('quote', '"', Ct( (bold + under + italic + mono + simplemath + token('simple', simpletext))^0 ))
-local decoline = bold + under + italic + mono + quote + supermath + simplemath + token('simple', simpletext)
+local quote = surround('quote', '"', Ct( (bold + under + link + italic + mono + simplemath + token('simple', simpletext))^0 ))
+local decoline = link + bold + under + italic + mono + quote + supermath + simplemath + token('simple', simpletext)
 local item = P('\n  *') * token('item', Ct( decoline^0 ))
 local itemize = token('itemize', Ct( item^1 ))
 local doubleitem = P('\n    *') * token('doubleitem', Ct( decoline^0 ))
@@ -103,15 +104,14 @@ local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
 --local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + supermath + simplemath
 --                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
-local link = P('[[') * token('link', (known - P(']'))^0) * P(']')
-local cellcontent = token('cellcontent', Ct( (bold + under + italic + mono + quote
+local cellcontent = token('cellcontent', Ct( (bold + under + link + italic + mono + quote
                                                  + simplemath + image + token('simple', simpletext))^1 ) )
 local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcontent )^1
                                 * ( P('|') * whitespace )) * linefeed)
 local tabular = token('tabular', Ct(tabularline^1))
-local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
+local decotext = link + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
    + doubleitemize + supermath + simplemath + atividade + titlechapter + tabular
-   + title + titleless + include + image + newline + linefeed + comment + link + hidden + token('simple', simpletext)
+   + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
 
 local W = V'W'
 local envname = P('professor') + P('exercicio') + P('resposta') + P('abstrato') + P('conexoes') + P('explorando') + P('imagem') + P('introdutorio') + P('massa') + P('refletindo') + P('figura') + P('nota')
@@ -176,6 +176,8 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'simple' then
         outstr = outstr .. formatting .. formatsimple:match(v.value)
         --print(formatting .. v.value)
+     elseif (v.tag) == 'link' then
+        outstr = outstr .. '\\emph{' .. v.value .. '}'
      elseif (v.tag) == 'include' then
         local includefilename = formatinclude:match(v.value)
         includefile = io.open(includefilename, 'r')
