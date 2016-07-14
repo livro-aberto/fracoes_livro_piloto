@@ -2,7 +2,7 @@
 Ir para [[cap4:texto#preencha_fita_refletindo]]
 ;;#
 
-<WRAP Refletindo>
+<WRAP refletindo>
 Você deve ter observado que as atividades 2 e 3 são muito parecidas. A diferença é que nesta última utilizamos para o estudo de frações figuras retangulares (na atividade 2 usamos figuras circulares). 
 Ao resolver esta atividade você deve ter percebido que 
 $$\dfrac{1}{2}=\dfrac{2}{4}=\dfrac{3}{6}=\dfrac{4}{8}=\dfrac{5}{10}=\dfrac{8}{16},$$

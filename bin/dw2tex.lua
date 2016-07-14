@@ -81,6 +81,7 @@ local italic = surround('italic', [[//]], (harmless - P([[//]]))^1 )
 local mono = surround('mono', "''", simpletext)
 local newline = token('newline', [[\\]])
 local linefeed = token('linefeed', '\n')
+local supermath = surround('supermath', '$$', (simpletext + S('<>'))^1)
 local simplemath = surround('simplemath', '$', (simpletext + S('<>'))^1)
 local atividade = token('atividade', '==== - Atividade ====')
 local title = P('=====') * token('title', simpletext) * P('=====')
@@ -90,7 +91,7 @@ local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * S(':|')^0 * token('image', simpletext) * P('|')^0 * P('}}')
 local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#')
 local quote = surround('quote', '"', Ct( (bold + under + italic + mono + simplemath + token('simple', simpletext))^0 ))
-local decoline = bold + under + italic + mono + quote + simplemath + token('simple', simpletext)
+local decoline = bold + under + italic + mono + quote + supermath + simplemath + token('simple', simpletext)
 local item = P('\n  *') * token('item', Ct( decoline^0 ))
 local itemize = token('itemize', Ct( item^1 ))
 local doubleitem = P('\n    *') * token('doubleitem', Ct( decoline^0 ))
@@ -99,7 +100,7 @@ local enumitem = P('\n  -') * token('enumitem', Ct( decoline^0 ))
 local enumerate = token('enumerate', Ct( enumitem^1 ))
 local doubleenumitem = P('\n    -') * token('doubleenumitem', Ct( decoline^0 ))
 local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
---local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + simplemath
+--local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + supermath + simplemath
 --                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
 local cellcontent = token('cellcontent', Ct( (bold + under + italic + mono + quote
@@ -108,7 +109,7 @@ local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcon
                                 * ( P('|') * whitespace )) * linefeed)
 local tabular = token('tabular', Ct(tabularline^1))
 local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
-   + doubleitemize + simplemath + atividade + titlechapter + tabular
+   + doubleitemize + supermath + simplemath + atividade + titlechapter + tabular
    + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
 
 local W = V'W'
@@ -155,6 +156,8 @@ function texprint (tbl, indent)
         outstr = outstr .. formatting .. '\\subsection*{' .. formatsimple:match(v.value) .. '}\n'
      elseif (v.tag) == "titlechapter" then
         outstr = outstr .. formatting .. '\\chapter{' .. formatsimple:match(v.value) .. '}\n'
+     elseif (v.tag) == "supermath" then
+        outstr = outstr .. formatting .. '$$' .. v.value .. '$$'
      elseif (v.tag) == "simplemath" then
         outstr = outstr .. formatting .. '$' .. v.value .. '$'
      elseif (v.tag) == 'bold' then
