@@ -26,7 +26,6 @@ Miguel: Os numeradores também são diferentes...
 Miguel: Parece difícil comparar. Você tem alguma figura?
 
 Alice: Sim, aqui está:
-</WRAP>
 
 {{ :undefined:problema-motivador.png?350 |}}
 
@@ -47,3 +46,4 @@ Professora: Na lição de hoje, aprenderemos uma maneira de comparar duas fraç�
 **Quadrinho 8**
 
 Professora: Vamos começar?
+</WRAP>
