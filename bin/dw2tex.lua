@@ -103,6 +103,7 @@ local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
 --local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + supermath + simplemath
 --                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
+local link = P('[[') * token('link', (known - P(']'))^0) * P(']')
 local cellcontent = token('cellcontent', Ct( (bold + under + italic + mono + quote
                                                  + simplemath + image + token('simple', simpletext))^1 ) )
 local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcontent )^1
@@ -110,7 +111,7 @@ local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcon
 local tabular = token('tabular', Ct(tabularline^1))
 local decotext = bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
    + doubleitemize + supermath + simplemath + atividade + titlechapter + tabular
-   + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
+   + title + titleless + include + image + newline + linefeed + comment + link + hidden + token('simple', simpletext)
 
 local W = V'W'
 local envname = P('professor') + P('exercicio') + P('resposta') + P('abstrato') + P('conexoes') + P('explorando') + P('imagem') + P('introdutorio') + P('massa') + P('refletindo') + P('figura') + P('nota')
