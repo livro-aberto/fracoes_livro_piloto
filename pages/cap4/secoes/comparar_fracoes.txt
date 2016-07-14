@@ -24,7 +24,7 @@ $\frac{5}{6} = \frac{5 \times 5}{5 \times 6} = \frac{25}{30}$ e $\frac{4}{5} = \
 
 Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenchemos a coluna em branco da primeira linha com $>$.
 
-| Item | Fração | "$>$", "$<$" ou "$=$" | Fração | 
+| Item | Fração | $>$, $<$ ou $=$ | Fração | 
 | (A) | $\frac{5}{6} = \frac{25}{30}$ |  $>$  | $\frac{24}{30} = \frac{4}{5}$ |
 | (B) | $\frac{3}{4} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{2}{3}$ |
 | (C) | $\frac{2}{10} = \frac{\square}{\square}$ |  | $\frac{\square}{\square} = \frac{3}{15}$ |
