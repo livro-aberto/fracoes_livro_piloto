@@ -2,7 +2,7 @@
 Ir para [[cap4:texto#equivalencia_densidade_refletindo]]
 ;;#
 
-<WRAP Refletindo>
+<WRAP refletindo>
 
 Nas atividades 23 e 24 estudamos uma propriedade importante do conjunto das frações: a densidade.
 
