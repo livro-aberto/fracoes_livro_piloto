@@ -23,7 +23,7 @@ Classificações
 
 Uma pizza gigante foi dividida em doze fatias iguais. 
 Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela apenas uma fatia.
-<WRAP imagem> FIGURA GEOMÉTRICA – Também há figuras em Resposta
+<WRAP imagem> FIGURA GEOMÉTRICA  Também há figuras em Resposta
 </WRAP>
 |                                                                            |                                 Pedro |  Isabella                             |  Bernardo                              |  Manuela                              |
 | Pinte a fração de pizza consumida  por cada pessoa      |  {{cap2:secoes:pizza-notacao.png?70}} | {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}} |
