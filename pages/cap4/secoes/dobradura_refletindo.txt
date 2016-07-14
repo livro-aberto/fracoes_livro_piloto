@@ -2,7 +2,7 @@
 Ir para [[cap4:texto#dobradura_refletindo]]
 ;;#
 
-<WRAP Refletindo>
+<WRAP refletindo>
 
 Na atividade 4 a folha foi divida inicialmente em dez retângulos iguais, dos quais três deles foram pintados de amarelo.
 
