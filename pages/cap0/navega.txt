@@ -17,6 +17,8 @@ Este livro busca explorar os assuntos de cada uma das lições através de uma s
 
 Os conceitos matemáticos nesta etapa da escolaridade provêm de noções comuns do dia a dia, valendo-se de linguagens já utilizadas pelos estudantes em expressoes como metade, um terço, três quartos, um décimo, 3 centésimos, etc. Nas primeiras duas lições buscou-se utilizar a linguagem verbal e dos conhecimentos anteriores dos estudantes sobre situações em que aquelas expressões são utilizadas antes de se introduzir símbolos matemáticos.
 
+O aluno já conhece e usa a reta numérica para representar os números Naturais lá, a reta numérica é construída por meio de uma graduação de uma reta com o uso de um compasso: uma vez escolhidos dois pontos distintos sobre a reta (que etiquetamos por 0 e 1), toma-se um compasso com abertura tal que suas pontas coincidam com os pontos 0 e 1 marcados sobre a reta. (INCLUIR UMA FIGURA). A seguir, com uma ponta sobre o ponto etiquetado por 1, marcamos, com a mesma abertura, outro ponto sobre a reta (aquele que não é o já etiquetado por zero) e o etiquetamos com o natural 2. (INCLUIR UMA FIGURA) E assim seguimos: uma vez etiquetado um ponto com o natural n, e sempre com a mesma abertura do compasso, marcamos um novo ponto sobre a reta, e o etiquetamos com o número natural n+1. (INCLUIR UMA FIGURA) Com uma tal visualização dos naturais na reta numérica, a contagem operações com naturais podem ser visualizadas por meio de saltos sobre a reta, simulando a contagem. (INCLUIR UMA FIGURA)
+
 Características de forma:
     * Texto baseado na problematização dos conteúdos a serem estudados 
     * Baseado em pesquisas científicas (esta pesquisa deveria ter sido referenciada ao professor)
