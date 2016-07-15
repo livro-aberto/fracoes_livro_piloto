@@ -1,4 +1,5 @@
 ====== Referencial teórico para a lição ======
+  * Freitag, Mark A. Mathematics for Elementary School Teachers: A Process Approach. Cengale Learning, 2014.
   * Freudenthal, Hans. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).  
   * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction On A Number Line]]. Proceedings of the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference, v. 3, p. 17-24, 2003.
   * Heeffer, Albrecht. {{:cap3:heeffer_-_historical_objections_against_the_number_line.pdf|Historical Objections Against the Number Line}}. Sci & Educ, v. 20, p. 863–880, 2011.
