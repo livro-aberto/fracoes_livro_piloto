@@ -152,3 +152,45 @@
 \end{document}
 \end{tikzpicture}
 </code>
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{xdxdff}{rgb}{0.49019607843137253,0.49019607843137253,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-1.82,0.) -- (14.34,0.);
+\foreach \x in {-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-8.44) -- (0.,3.34);
+\foreach \y in {-8.,-7.,-6.,-5.,-4.,-3.,-2.,-1.,1.,2.,3.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-1.82,-8.44) rectangle (14.34,3.34);
+\draw [domain=-1.82:14.34] plot(\x,{(-18.-0.*\x)/9.});
+\draw (-0.14,-1.02) node[anchor=north west] {$0$};
+\draw (2.86,-1.04) node[anchor=north west] {$1$};
+\draw (5.84,-1.1) node[anchor=north west] {$2$};
+\draw (8.86,-1.08) node[anchor=north west] {$3$};
+\draw (-0.24,-2.06) node[anchor=north west] {$\frac{0}{15}$};
+\draw (0.76,-2.18) node[anchor=north west] {$\frac{5}{15}$};
+\draw (1.76,-2.16) node[anchor=north west] {$\frac{10}{15}$};
+\draw (2.74,-2.16) node[anchor=north west] {$\frac{15}{15}$};
+\draw (3.76,-2.22) node[anchor=north west] {$\frac{20}{15}$};
+\draw (4.74,-2.2) node[anchor=north west] {$\frac{25}{15}$};
+\draw (5.78,-2.2) node[anchor=north west] {$\frac{30}{15}$};
+\draw (6.78,-2.22) node[anchor=north west] {$\frac{35}{15}$};
+\draw (7.76,-2.26) node[anchor=north west] {$\frac{40}{15}$};
+\draw (8.76,-2.26) node[anchor=north west] {$\frac{45}{15}$};
+\begin{scriptsize}
+\draw[color=black] (-1.66,-2.14) node {$f$};
+\draw [fill=xdxdff] (4.,-2.) circle (2.5pt);
+\draw[color=xdxdff] (4.14,-1.64) node {$F$};
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
