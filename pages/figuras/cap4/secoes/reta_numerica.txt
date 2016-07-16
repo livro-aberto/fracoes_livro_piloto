@@ -96,3 +96,59 @@
 \end{document}
 \end{tikzpicture}
 </code>
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{xdxdff}{rgb}{0.49019607843137253,0.49019607843137253,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (0.,-10.004132231404958) -- (0.,-0.26859504132231493);
+\foreach \y in {-10.,-9.,-8.,-7.,-6.,-5.,-4.,-3.,-2.,-1.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\clip(-2.4282644628099184,-10.004132231404958) rectangle (10.927107438016543,-0.26859504132231493);
+\draw [domain=-2.4282644628099184:10.927107438016543] plot(\x,{(-18.-0.*\x)/9.});
+\draw (-0.11421487603305604,-1.0785123966942156) node[anchor=north west] {$0$};
+\draw (2.8775206611570296,-1.1611570247933891) node[anchor=north west] {$1$};
+\draw (5.91884297520662,-1.2107438016528933) node[anchor=north west] {$2$};
+\draw (8.927107438016542,-1.1942148760330586) node[anchor=north west] {$3$};
+\draw (3.836198347107444,-2.0537190082644634) node[anchor=north west] {$\frac{8}{6}$};
+\draw [domain=-2.4282644628099184:10.927107438016543] plot(\x,{(-36.-0.*\x)/9.});
+\draw (2.927107438016534,-3.161157024793389) node[anchor=north west] {$1$};
+\draw (5.8692561983471165,-3.210743801652893) node[anchor=north west] {$2$};
+\draw (-0.11421487603305604,-3.194214876033058) node[anchor=north west] {$0$};
+\draw (8.877520661157037,-3.2272727272727275) node[anchor=north west] {$3$};
+\draw (3.7866115702479397,-4.053719008264463) node[anchor=north west] {$\frac{16}{12}$};
+\draw [domain=-2.4282644628099184:10.927107438016543] plot(\x,{(-54.-0.*\x)/9.});
+\draw (-0.11421487603305604,-5.260330578512397) node[anchor=north west] {$0$};
+\draw (2.8940495867768647,-5.243801652892562) node[anchor=north west] {$1$};
+\draw (5.902314049586786,-5.243801652892562) node[anchor=north west] {$2$};
+\draw (8.877520661157037,-5.260330578512397) node[anchor=north west] {$3$};
+\draw (3.803140495867775,-6.136363636363636) node[anchor=north west] {$\frac{24}{18}$};
+\draw [domain=-2.4282644628099184:10.927107438016543] plot(\x,{(-72.-0.*\x)/9.});
+\draw (-0.11421487603305604,-7.210743801652892) node[anchor=north west] {$0$};
+\draw (2.9105785123966994,-7.260330578512396) node[anchor=north west] {$1$};
+\draw (5.902314049586786,-7.276859504132231) node[anchor=north west] {$2$};
+\draw (8.894049586776871,-7.276859504132231) node[anchor=north west] {$3$};
+\draw (3.7866115702479397,-8.070247933884296) node[anchor=north west] {$\frac{32}{24}$};
+\begin{scriptsize}
+\draw[color=black] (-2.29603305785124,-2.119834710743802) node {$f$};
+\draw [fill=xdxdff] (4.,-2.) circle (2.5pt);
+\draw[color=xdxdff] (4.117190082644635,-1.7066115702479345) node {$F$};
+\draw[color=black] (-2.29603305785124,-4.1198347107438025) node {$g$};
+\draw [fill=xdxdff] (4.,-4.) circle (2.5pt);
+\draw[color=xdxdff] (4.117190082644635,-3.7066115702479343) node {$O$};
+\draw[color=black] (-2.29603305785124,-5.723140495867769) node {$h$};
+\draw [fill=xdxdff] (4.,-6.) circle (2.5pt);
+\draw[color=xdxdff] (4.117190082644635,-5.706611570247934) node {$S$};
+\draw[color=black] (-2.29603305785124,-7.723140495867769) node {$i$};
+\draw [fill=xdxdff] (4.,-8.) circle (2.5pt);
+\draw[color=xdxdff] (4.117190082644635,-7.706611570247934) node {$Z$};
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
