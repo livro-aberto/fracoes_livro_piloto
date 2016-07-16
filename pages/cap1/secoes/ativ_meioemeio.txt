@@ -26,6 +26,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Identique as figuras em que a parte pintada é a metade da figura.
 <WRAP imagem>  FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente. As dimensões para a página de reprodução são: retângulos 10 por 3 cm, círculo de raios 3 cm e hexágonos de diâmetro 6 cm. Aqui elas podem ser um pouco menores para ficarem bem na página.
+
 {{ :cap1:secoes:1_10_meio_e_meio.jpg |}}
 
 </WRAP>
