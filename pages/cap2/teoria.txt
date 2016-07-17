@@ -5,6 +5,7 @@
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
    * Litwiller, Bonnie H. Making Sense of Fractions, Ratios, and Proportions: 2002 Yearbook. National Council of Teache rs of Mathematics. 2002.
    * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
+   * MEC, Brasil. Números Racionais: Conceito e Representação (TP6). Programa Gestão da Aprendizagem Escolar GESTAR I. 2007.
    * Monteiro, Cecília; Pinto, Hélio. Desenvolvendo O Sentido de Número Racional. Associação de Professores de Matemática, 2009. 
    * Musser, Gary L.; Peterson, Blacke E.; Burger, William F. Mathematics for Elementary Teachers: A Contemporary Approach. John Wiley & Sons, Inc., 2014. 
    * Pereira, Ana Paula Cabral Couto. O Ensino de Frações na Escola Básica: O Currículo Common Core nos EUA, Hung-Hsi Wu e Uma Análise Comparativa em Dois Livros Didáticos do PNLD. Dissertação (Mestrado Profissional em Rede Nacional PROFMAT), Universidade Federal Fluminense, 2015.
