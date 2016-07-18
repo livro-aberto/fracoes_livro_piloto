@@ -34,7 +34,9 @@ O objetivo desta atividade é estudar a fração do retângulo que está pintado
 </WRAP>
 
 
-Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade [[cap3:texto#ativ_grad_unidade3|17]] da Lição 3 para avaliar as suas respostas. 
+Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade 17 da Lição 3 para avaliar as suas respostas.
+<hidden [[cap3:texto#ativ_grad_unidade3|(link para Atividade 17)]]></hidden>
+
 
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
 | {{ :cap4:secoes:fita-um-meio.jpg?0x50 |}}  | | | |
