@@ -1,6 +1,6 @@
 ====== Referencial teórico para o capítulo ======
 
-* Confrey, J.; Maloney, A.; Nguyen, K.; Mojica, G.; Myers, M. Equipartitioning/Splitting as A Foundation of Rational Number Reasoning using Learning Trajectories. Proceedings of the 33rd Conference of the International Group for the Psychology of Mathematics Education (p. 345–353). Thessaloniki, Greece, 2009.  
+  * Confrey, J.; Maloney, A.; Nguyen, K.; Mojica, G.; Myers, M. Equipartitioning/Splitting as A Foundation of Rational Number Reasoning using Learning Trajectories. Proceedings of the 33rd Conference of the International Group for the Psychology of Mathematics Education (p. 345–353). Thessaloniki, Greece, 2009.  
   * Cramer, Kathleen; Behr, Merlyn; Post, Thomas; Lesh, Richard. [[http://www.cehd.umn.edu/ci/rationalnumberproject/RNP1-09/RNP1-09_withBlankPages.pdf|Rational Number Project: Initial Fraction Ideas]]. University of Minnesota, 2009.
   * Freitag, Mark A. Mathematics for Elementary School Teachers: A Process Approach. Cengale Learning, 2014. 
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
