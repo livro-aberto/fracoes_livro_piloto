@@ -35,9 +35,9 @@ Sabendo que nessa pizzaria cada pizza é equiparticionada em 8 partes, pergunta-
 <hidden Resposta>
 <WRAP resposta>
 
-  - (a) A solução corresponde ao quociente da divisão euclidiana de 38 por 8: 4
-  - (b) Compreendendo que cada fatia é $\frac{1}{8}$  de uma pizza: 4 pizzas e $\frac{6}{8}$ ou $\frac{38}{8}$. 
-  - (c) A divisão euclidiana de 38 por 7 nos fornece resto diferente de zero, o que indica que não é possível que todos os amigos tenham comido o mesmo número de fatias de pizza, ou, a mesma quantidade de pizza.
+  - A solução corresponde ao quociente da divisão euclidiana de 38 por 8: 4
+  - Compreendendo que cada fatia é $\frac{1}{8}$  de uma pizza: 4 pizzas e $\frac{6}{8}$ ou $\frac{38}{8}$. 
+  - A divisão euclidiana de 38 por 7 fornece um resto diferente de zero, o que indica que não é possível que todos os amigos tenham comido o mesmo número de fatias de pizza, ou, a mesma quantidade de pizza.
 
 </WRAP>
 </hidden>
