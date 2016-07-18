@@ -19,8 +19,8 @@ Frações na reta numérica \\
 Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
 Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
 
-<WRAP imagem> FIGURAS GEOMÉTRICAS - As retas têm que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas; \\
-Os pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser obtidos pelo uso do compasso e não pela sugestão da justaposição de segmentos congruentes, como nas imagens. 
+<WRAP imagem> FIGURAS GEOMÉTRICAS - **As imagens das retas têm que ser congruentes, os segmentos 0-1 em todas elas tê que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas. ** \\
+A determinação dos pontos correspondentes ao  2, 3, 4, 5, e assim por diante, devem ser ilustradas pelo uso do compasso, sustentando a justaposição de segmentos congruentes, como nas imagens. 
 {{ :cap3:secoes:reta_numerica_unidade.png?400 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta012.png?500 |}}  </WRAP>
 <WRAP imagem> {{ :cap3:secoes:reta0127.png?850 |}} </WRAP>
@@ -74,11 +74,11 @@ Na reta numérica a seguir estão destacados alguns pontos e as frações corres
 
 A ordem na reta numérica\\
 
-Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. 
+Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. Assim, o que vale para o 0, o 1, o 2, o, 3, etc. também valerá para as frações: 
 
 <WRAP imagem> INCLUIR RETA COM metades, quintos e décimos destacados </WRAP>
 
-Assim, na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao número, maior será o número. 
+Na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao número, maior será o número. 
 
 <WRAP imagem>  IMAGEM DA RETA NUMÉRICA destacando os pontos correspondentes ao 4/5 e 4/3:
 
