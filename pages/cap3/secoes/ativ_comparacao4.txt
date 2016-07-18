@@ -5,6 +5,7 @@ Ir para [[cap1:texto#ativ_comparacao4]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Representar frações na reta numérica, a partir da identificação da unidade;
+  * Identificar, na reta numérica, os pontos correspondentes ao 0 e ao 1, a partir da represetação de duas frações (no caso, as frações $\frac{1}{2}$ e $\frac{3}{2}$).
   * Reconhecer a reta numérica em uma representação não comum.
  
   
@@ -36,7 +37,15 @@ Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de respos
 Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
 
   - Marque, usando os pontos destacados na reta numérica, os pontos correpsondentes ao 0 e ao 1
-  - Marque nesta mesma reta numerada . Agora é a sua vez, trace uma reta numérica transversal ao feixe de paralelas, destaque dois pontos
+  - Marque, nesta mesma reta numérica, as frações $\frac{3}{4}$ e $\frac{5}{4}$.
+
+<WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em vermelho. Devem estar destacados nessa reta, além das frações $\frac{1}{2}$ e $\frac{3}{2}$, outros 8 pontos, como ilustra a figura.
+
+Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta. Ver orientações.
+
+{{ :cap3:secoes:reta_meios.jpg?300 |}}
+
+</WRAP>
 
 
 <hidden Resposta>
@@ -45,7 +54,7 @@ Como na figura anterior, há várias retas paralelas igualmente espaçadas e out
   - Inserir a imagem semelhante a do enunciado, com a frações $\frac{1}{2}$ destacada no ponto correspondente.
   - Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
   - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes ao 0 e ao 1 identificados.
-  - Inserir a imagem semelhante a do enunciado, com a$\frac{9}{10}$.
+  - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes às frações $\frac{3}{4}$ e $\frac{5}{4}$  identificados.
 </WRAP>
 </WRAP>
 </hidden>
