@@ -50,7 +50,7 @@ Ana propôs que cada barra fosse dividida em três partes iguais e que cada irm�
 <hidden Resposta>
 <WRAP resposta>
     - Um terço.
-    - Sim, pois a divisão foi justa no seguinte sentido: cada irmã recebeu a mesma quantidade de chocolate. 
+    - Sim, pois a divisão foi justa no sentido de cada irmã ter recebido a mesma quantidade de chocolate. 
     - Sim, pois cada irmã recebeu dois um terços de barra de chocolate. 
     - Dois terços. 
     - Três terços ou uma barra inteira de chocolate. 
