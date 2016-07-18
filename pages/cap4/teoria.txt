@@ -16,6 +16,7 @@
    * Post, Thomas R.; Wachsmuth, Ipke; Lesh, Richard; Behr, Merlyn J. Order and Equivalence of Rational Number: A Cognitive Analysis. Journal for Research in Mathematics Education v. 16, v. 1, p. 18-36, 1985.
    * Small, Marian. Uncomplicating FRACTIONS To Meet Common Core Standards in Math, K-7. Teachers College Press, 2013.
    * Spangler, David B. Strategies for Teaching Fractions: Using Error Analysis for Intervention and Assessment. Corwin, 2011.
-   * Vamvakoussi, Xenia; Vosniadou,Stella. Bridging the Gap Between the Dense and the Discrete: The Number Line and the “Rubber Line” Bridging Analogy. Mathematical Thinking and Learning, v. 14, n. 4, p. 265-284, 2012. DOI: 10.1080/10986065.2012.717378. \\ Este artigo faz um resumo histórico de como a noção de densidade surgiu
+   * Vamvakoussi, Xenia; Vosniadou,Stella. Bridging the Gap Between the Dense and the Discrete: The Number Line and the “Rubber Line” Bridging Analogy. Mathematical Thinking and Learning, v. 14, n. 4, p. 265-284, 2012. DOI: 10.1080/10986065.2012.717378. \\ Este artigo faz um resumo histórico de como a noção de densidade surgiu.
+   * Vance, James H. Understanding Equivalence: A Number by Any Other Name. School Science and Mathematics, v. 92, n. 5, p. 263-266, 1992.
    * Van de Walle, John A. Matemática no Ensino Fundamental. Formação de Professores e Aplicação em Sala de Aula. Sexta edição. Artmed, 2009. 
    * Wu, Hung-Hsi. Understanding Numbers in Elementary School Mathematics. American Mathematical Society, 2011.
