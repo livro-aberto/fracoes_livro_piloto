@@ -1,7 +1,8 @@
 ====== Referencial teórico para o capítulo ======
 
   * Behr, Merlyn J.; Wachsmuth, Ipke; Post, Thomas R.; Lesh, Richard. Order and Equivalence of Rational Numbers: A Clinical Teaching Experiment. Journal for Research in Mathematics Education, v. 15, n. 15, p. 323-341, 1984.
-  * Cramer, Kathleen; Behr, Merlyn; Post, Thomas; Lesh, Richard. [[http://www.cehd.umn.edu/ci/rationalnumberproject/RNP1-09/RNP1-09_withBlankPages.pdf|Rational Number Project: Initial Fraction Ideas]]. University of Minnesota, 2009
+  * Cramer, Kathleen; Behr, Merlyn; Post, Thomas; Lesh, Richard. [[http://www.cehd.umn.edu/ci/rationalnumberproject/RNP1-09/RNP1-09_withBlankPages.pdf|Rational Number Project: Initial Fraction Ideas]]. University of Minnesota, 2009.
+  * Empson, Susan B. Equal Sharing and The Roots of Fraction Equivalence. Teaching Children Mathematics, March, 2001.
   * Freitag, Mark A. Mathematics for Elementary School Teachers: A Process Approach. Cengale Learning, 2014.
   * Garcez, Wagner Rohr. Tópicos sobre O Ensino de Frações: Equivalência. Trabalho de Conclusão de Curso do PROFMAT, Instituto de Matemática Pura e Aplicada, 2013.
   * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
