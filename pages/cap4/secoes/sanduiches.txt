@@ -12,7 +12,7 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Reforce para seus alunos que o Item i) deve ser respondido com a partição apresentada, isto é, sem gerar novas partições.
+  * Reforce para seus alunos que o Item a) deve ser respondido com a partição apresentada, isto é, sem gerar novas partições.
 
 Classificações:
   * Heid et al.: Conceito: identificar e descrever
