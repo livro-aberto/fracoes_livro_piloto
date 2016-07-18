@@ -13,6 +13,7 @@
    * Schliemann, Analúcia; Carraher, David W.; Caddle, Mary C. From Seeing Points To Seeing Intervals in Number Lines in Graphs. Em: Brizuela, Bárbara M.; Gravel, Brian E. (Ed.). Show Me What You Know, Teachers College, Columbia University, 2013.
    * Thomaidis, Yannis; Tzanakis, Constantinos. The Notion of Historical "parallelism" Revisited: Historical Evolution and Students' Conception of The Order Relation On The Number Line. Educational Studies in Mathematics, v. 66, p. 165-183, 2007.
    * Van de Walle, John A. Matemática no Ensino Fundamental. Formação de Professores e Aplicação em Sala de Aula. Sexta edição. Artmed, 2009. 
+   * Ventura, Hélia Margarida Gaspar Lopes. A Aprendizagem de Números Racionais através das Conexões entre As Suas Representações: Uma Experiência de Ensino no 2.__o__ Ciclo do Ensino Básico. Tese de doutorado, Instituto de Educação, Universidade de Lisboa, 2013.
    * Wu, Hung-Hsi. Understanding Numbers in Elementary School Mathematics. American Mathematical Society, 2011.
 
 /*
