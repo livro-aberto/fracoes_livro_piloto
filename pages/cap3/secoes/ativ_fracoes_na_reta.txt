@@ -6,7 +6,7 @@ Ir para [[cap3:texto#ativ_fracoes_na_reta]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Representar uma fração na reta numérica
+  * Representar frações na reta numérica
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
