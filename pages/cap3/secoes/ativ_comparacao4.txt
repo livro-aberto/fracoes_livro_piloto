@@ -12,10 +12,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Observe que a reta numérica não é apresentada da forma mais tradicioal, paralela a uma das margens da página e na direção comunmente chamada de horizontal. O objetivo é ampliar e variar o contato com esse modelo de representação. 
   * Além disso, os pontos que identificam frações da unidade (no caso, décimos) também são determinados de uma forma não tradicional. A divisão é estabelecida a partir de um feixe de retas paralelas igualmente espaçadas  e transversal a reta numérica em destaque. 
-  * A primeira atividade é bastante simples, apesar da representação não tradicional. 
-  * A segunda atividade objetiva que o aluno reconheça que os pontos correspondentes ao 0 e ao 1 identificam a unidade na reta numérica e que a distância entre esses pontos pode variar de uma representação para outra. 
-  * Estmule seus alunos a fazerem representações variadas. 
-  * Explore as diversar representações apresentadas pelos alunos. Se possível, exponha em um mural físico ou digital, co fotos. 
+  * Os dois primeiros itens desta atividade são bastante simples, apesar da representação não tradicional. 
+  * O teceiro item desta atividade objetiva que o aluno identifique os pontos correspondentes ao 0 e ao 1, que determinam o segmento unitário na reta numérica, a partir dos pontos correspondenres às frações $\frac{1}{2}$ e $\frac{3}{2}$.  
  
 </WRAP>
 </hidden>
@@ -25,6 +23,7 @@ Na figura, há várias retas paralelas igualmente espaçadas e outra reta, desta
 
   - Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
   - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.
+ 
 
 <WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em vermelho. Devem estar destacados nessa reta, além do 0 e do 1, 9 pontos, como ilustra a figura.
 
@@ -34,11 +33,19 @@ Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de respos
 
 </WRAP>
 
+Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
+
+  - Marque, usando os pontos destacados na reta numérica, os pontos correpsondentes ao 0 e ao 1
+  - Marque nesta mesma reta numerada . Agora é a sua vez, trace uma reta numérica transversal ao feixe de paralelas, destaque dois pontos
+
+
 <hidden Resposta>
 <WRAP Resposta>
 <WRAP imagem>
   - Inserir a imagem semelhante a do enunciado, com a frações $\frac{1}{2}$ destacada no ponto correspondente.
   - Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
+  - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes ao 0 e ao 1 identificados.
+  - Inserir a imagem semelhante a do enunciado, com a$\frac{9}{10}$.
 </WRAP>
 </WRAP>
 </hidden>
