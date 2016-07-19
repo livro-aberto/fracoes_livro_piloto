@@ -5,9 +5,14 @@ Ir para [[cap5:texto#unidade3]]
 <hidden Para o professor>
 
 <WRAP professor>
-Esta atividade pode ser mais aproveitada pelos alunos se for realizada com apoio de materiais concretos. Neste caso, o professor poderá disponibilizar aos alunos discos divididos em 24 partes, e pedir que eles marquem as frações $\frac{5}{12}$, $\frac{1}{6}$ e $\frac{3}{8}$, colorindo esses discos. A atividade tem início com a comparação de frações, o que já foi abordado na lição anterior.
+Esta atividade pode ser mais aproveitada pelos alunos se for realizada com apoio de materiais concretos.
+Sugerimos, caso seja possível, que os estudantes desenvolvam o material. 
+Caso não seja possível, disponibilizamos uma página para reprodução no final dessa lição.  
+Neste caso, o professor poderá disponibilizar aos alunos discos divididos em 12 partes, e pedir que eles marquem as frações $\frac{5}{12}$, $\frac{1}{6}$ e $\frac{3}{8}$, colorindo esses discos. 
+A atividade tem início com a comparação de frações, o que já foi abordado na lição anterior.
 
-É importante chamar atenção para o fato de que escrever as frações a partir de um mesmo denominador corresponde a expressar as quantidades que elas representam em uma unidade de medida comum. Portando, tomaremos como estratégia, para operar a adição e a subtração de frações, escrevê-las a partir de um mesmo denominador (que determina a unidade medida ou **subunidade** comum).
+É importante chamar atenção para o fato de que escrever as frações a partir de um mesmo denominador corresponde a expressar as quantidades que elas representam como múltiplos inteiros de uma subunidade de medida comum.
+Portando, tomaremos como estratégia, para operar a adição e a subtração de frações, escrevê-las a partir de um mesmo denominador (que determina a unidade medida ou **subunidade** comum).
 
 No item b), o professor deverá explorar e evidenciar as articulações entre as diferentes estratégias dos alunos, sendo as principais:
   - Multiplicar o numerador e o denominador por um mesmo número (algoritmo discutido na lição anterior)
@@ -26,18 +31,26 @@ $$\frac{3}{8} - \frac{1}{6} = \frac{9}{24} - \frac{4}{24} = \frac{5}{24}$$
 </WRAP>
 </hidden>
 
-Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **24 fatias** iguais. Amanda comeu $\frac{5}{12}$ de uma pizza, Bruno comeu $\frac{1}{6}$ de outra, e Caio comeu $\frac{3}{8}$ da pizza que pediu.
+Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **12 fatias** iguais. Amanda comeu $\frac{1}{6}$ de uma pizza, Bruno comeu $\frac{3}{4}$ de outra, e Caio comeu $\frac{2}{3}$ da pizza que pediu.
 <WRAP imagem> figura geométrica
-| {{:cap5:ativ:circulo_azul.png?200}}                  | {{:cap5:ativ:circulo_marrom.png?200}}              | {{:cap5:ativ:circulo_verde.png?200}}              |
-| Fração de pizza consumida por Amanda $\frac{5}{12}$  | Fração de pizza consumida por Bruno $\frac{1}{6}$  | Fração de pizza consumida por Caio $\frac{3}{8}$  |
+
+|  {{ :cap5:ativ:vw1.png?200 |   }}   |   {{ :cap5:ativ:vw2.png?200 |   }}     |   {{ :cap5:ativ:vw3.png?200 |   }}       |
+| Fração de pizza consumida por Amanda $\frac{1}{6}$  | Fração de pizza consumida por Bruno $\frac{3}{4}$  | Fração de pizza consumida por Caio $\frac{2}{3}$  |
 </WRAP>
 
-Lembremos que todas as pizzas estão inicialmente divididas em 24 fatias do mesmo tamanho. Neste caso, podemos considerar que a **fatia da pizza é uma subunidade de medida comum**, pois é possível observar a fração que cada um comeu a partir do número de fatias. Com base nessa ideia, responda às questões a seguir.
+Lembremos que todas as pizzas estão inicialmente divididas em 12 fatias do mesmo tamanho. 
+Neste caso, podemos considerar que a **fatia da pizza é uma subunidade comum**, pois é possível observar a fração que cada um comeu a partir do número de fatias. 
+Com base nessa ideia, responda às questões a seguir.
   - Que fração da pizza essa subunidade de medida comum (a fatia) representa?
-  - Complete os espaços (numeradores) abaixo para escrever as frações que cada criança comeu a partir dessa subunidade comum. $$\frac{5}{12} =\frac{}{24}  \quad \quad \frac{1}{6} =\frac{}{24} \quad \quad \frac{3}{8} =\frac{}{24}$$ **Dica:** Em cada situação você pode usar as ideias de frações equivalentes (estudadas na lição anterior) ou simplesmente contar a quantidade de fatias observando as imagens acima. Esta dica também é válida para os próximos exercícios. Você pode indicar a solução de cada um deles observando as fatias nas imagens acima ou usar este item b), que apresenta frações equivalentes.
-  - Coloque as frações $\frac{5}{12}$, $\frac{1}{6}$ ,$\frac{3}{8}$  em ordem crescente, indicando qual das pessoas comeu menos, e qual comeu mais.
-  - Que fração de pizza devemos adicionar à quantidade consumida por Bruna para obter a mesma quantidade de pizza comida por Caio?
-  - Que fração de pizza teremos se juntarmos as quantidades comidas por Amanda e por Bruna?
+  - Complete os espaços (numeradores) abaixo para escrever as frações que cada criança comeu a partir dessa subunidade comum. $$\dfrac{1}{6} =\frac{}{12}  \quad \quad \frac{3}{4} =\frac{}{12} \quad \quad \frac{2}{3} =\frac{}{12}$$ **Dica:** Em cada situação você pode usar as ideias de frações equivalentes (estudadas na lição anterior) ou simplesmente contar a quantidade de fatias observando as imagens acima. Esta dica também é válida para os próximos exercícios. Você pode indicar a solução de cada um deles observando as fatias nas imagens acima ou usar este item b), que apresenta frações equivalentes.
+  - Quem comeu mais pizza? Quem comeu menos pizza?
+  - Que quantidade de pizza Bruna comeu a mais que Caio?
+  - Que quantidade de pizza Amanda e Bruna comeram juntas?
   - Que fração de pizza teremos se retirarmos a quantidade consumida por Caio da quantidade consumida por Amanda?
-  - Quanto a mais de pizza Amanda consumiu, em relação a Bruna?
+  - Quanto a mais de pizza Amanda Bruna consumiu, em relação a Amanda?
 
+<hidden Resposta>
+<WRAP resposta>
+Falta a resposta
+</WRAP>
+</hidden>
