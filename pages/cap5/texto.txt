@@ -28,7 +28,6 @@
 
 ===== MÃO NA MASSA =====
 
-Esta é a seção de exercícios da lição. Caso seja necessário incluir alguma observação adcional ao estudante como uma conclusão do que foi tratado em algumas atividades, crie uma página Refletindo em qualquer lugar entre as atividades da seção.
 
 ==== Atividade - ====
 {{anchor:mesma_subunidade}}
