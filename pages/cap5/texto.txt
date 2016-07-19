@@ -1,10 +1,6 @@
 {{anchor:preambulo}}
 {{page>cap5:secoes:preambulo}}
 
-
-{{anchor:intro}}
-{{page>cap5:secoes:intro}}
-
 ===== EXPLORANDO O ASSUNTO =====
 
 
