@@ -8,6 +8,11 @@
 {{anchor:unidade1}}
 {{page>cap5:ativ:unidade1}}
 
+
+==== Atividade - ====
+{{anchor:fitas}}
+{{page>cap5:ativ:fitas}}
+
 ==== Atividade - ====
 {{anchor:unidade2}}
 {{page>cap5:ativ:unidade2}}
