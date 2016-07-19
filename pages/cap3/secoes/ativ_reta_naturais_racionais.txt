@@ -21,7 +21,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 Relembrando a representação na reta numérica: você já construiu em anos anteriores a reta numérica posicionando números naturais :
-<WRAP imagem> FIGURA GEOMÉTRICA
+<WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também.
 
 ILUSTRAÇÃO DA RETA NUMÉRICA
 </WRAP>
@@ -34,6 +34,7 @@ ILUSTRAÇÃO DA RETA NUMÉRICA
  	 
 <hidden Resposta>
 <WRAP resposta>
-
+  - <WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também. Reta numérica (com numeração apenas de zero a 6) como a do enuciado, com pontos circulares azuis nas posições 1, 2 e 4. </WRAP>
+  - <WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também. Reta numérica (com numeração apenas de zero a 2) como a do enuciado, com pontos circulares azuis nas posições $\frac{1}{2}$, $\frac{1}{8}$, $\frac{3}{8}$ e $\frac{3}{2}$. </WRAP>
 </WRAP>
 </hidden>
