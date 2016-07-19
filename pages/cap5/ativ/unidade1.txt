@@ -3,8 +3,16 @@ Ir para [[cap5:texto#unidade1]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
-O objetivo desta primeira atividade da lição é destacar o papel de se procurar uma unidade comum para comparar, somar ou subtrair duas quantidades. Por exemplo, no caso da situação apresentada nesta atividade, a unidade comum empregada - copo - permite saber, precisamente, que volume de óleo o recipiente 2 comporta a mais que o recipiente 1, neste caso, 17 copos. Isto é, a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 17 copos. Uma unidade comum também permite determinar, precisamente, o volume correspondente à soma de duas quantidades dadas, que neste caso seria de 63 copos.
-Entretanto, é importante destacar que essas não são as únicas formas de interpretar concretamente as ações de determinar a diferença e a soma dos volumes de óleo. No item a), espera-se que o aluno use o copo como unidade como um meio de comparação. Porém, em sala de aula, os alunos podem argumentar, por exemplo, que para determinar a diferença entre os dois recipientes, basta encher o menor e despejar o conteúdo no maior. É fundamental que o professor não desqualifique estratégias como essa, quando propostas pelos alunos. Ao contrário, é importante incentivar e destacar essas iniciativas por parte dos alunos. Neste caso, o professor deve aproveitar para argumentar que a determinação de uma unidade comum permite não apenas saber que recipiente comporta mais líquido, como também determinar uma **medida** precisa para a diferença entre os volumes.
+O objetivo desta primeira atividade da lição é destacar o papel de se procurar uma unidade comum para comparar, somar ou subtrair duas quantidades. 
+Por exemplo, no caso da situação apresentada nesta atividade, a unidade comum empregada - copo - permite saber que volume de óleo o recipiente 2 comporta a mais que o recipiente 1, neste caso, 17 copos. 
+Isto é, a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 17 copos. 
+Uma unidade comum também permite determinar o volume correspondente à soma de duas quantidades dadas, que neste caso seria de 63 copos.
+Entretanto, é importante destacar que essas não são as únicas formas de interpretar concretamente as ações de determinar a diferença e a soma dos volumes de óleo. 
+No item a), espera-se que o aluno use o copo como unidade como um meio de comparação. 
+Porém, em sala de aula, os alunos podem argumentar, por exemplo, que para determinar a diferença entre os dois recipientes, basta encher o menor e despejar o conteúdo no maior. 
+É fundamental que o professor não desqualifique estratégias como essa, quando propostas pelos alunos. 
+Ao contrário, é importante incentivar e destacar essas iniciativas por parte dos alunos. 
+Neste caso, o professor pode aproveitar para argumentar que a determinação de uma unidade comum permite não apenas saber que recipiente comporta mais líquido, como também determinar uma **medida** precisa para a diferença entre os volumes.
 
 É neste sentido que discutiremos, nesta atividade e nas atividades subsequentes, a busca por uma unidade comum entre duas quantidades dadas. Uma unidade comum estabelece uma forma comum de medir, em relação a qual se pode expressar as duas quantidades, bem como sua soma e sua diferença.
 
@@ -15,14 +23,16 @@ Nos itens b) e c), respectivamente, são trabalhadas as interpretações de //ju
 Miguel e Alice estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois esses recipientes serão destinados a empresas que usarão o óleo descartado para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
 
 <WRAP imagem>
-figura artística
+FIGURA ARTÍSTICA
+
+Para o ilustrador: Incluir imagem de dois recipientes. Um em formato cilíndrico e outro em formato de cone (como sugerido pelas imagens). Ambas as figuras devem ter áreas de base próximas, sendo que a altura da figura em formato de cone deve ser 1,5 vezes a altura da figura em formato cilíndrico.
 
 |  {{:cap5:ativ:garrafa_alice.png?100|}}   |  {{:cap5:ativ:garrafa_miguel.png?100|}}   |
 |Recipiente 1: proposto pela Alice | Recipiente 2: proposto pelo Miguel |
-Incluir imagens de dois recipientes de formatos bem diferentes, e mais ou menos um com o dobro da capacidade do outro.
+
 </WRAP>
-Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d’água como unidade de medida. 
-  * __A partir do recipiente completo Alice encheu 23 copos.__
+Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d'água como unidade de medida. 
+  * __A partir do recipiente completo Alice encheu 26 copos.__
   * __A partir do recipiente completo Miguel encheu 40 copos.__
 Eles então observaram que a partir de **uma unidade de medida comum** (nesse caso o copo), poderiam não só dizer qual recipiente tinha maior capacidade, mas também o quanto era maior e qual seria a capacidade dos dois recipientes juntos. 
 Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, responda:
