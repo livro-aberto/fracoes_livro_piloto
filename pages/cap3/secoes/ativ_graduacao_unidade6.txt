@@ -14,7 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Como esta atividade envolve a ideia de capacidade, recomenda-se que, antes de realizá-la, o professor leve para a sala de aula um recipiente transparente, na forma de um paralelepípedo (como um pequeno áquario, por exemplo) ou cilíndrico  (como um copo, por exemplo), e que, a partir do recipiente inicialmente cheio, discuta com a turma o que seria necessário observar para se verificar que metade da quantidade inicial de líquido foi derramada. Espera-se que os alunos identifiquem que essa verificação está associada à altura da quantidade de líquido no recipiente, que deve ser metade da original.  
   * O formato da caixa, um paralelepípedo, determina uma escala linear de medida (o mesmo valeria para um cilindro). No entanto, se a caixa tivesse outro formato, poderia não admitir uma escala linear. Por exemplo, é o caso dos tradicionais copos de medida usados na cozinha. Com esta observação, não se está recomendando que essa discussão seja trazida para a sala de aula neste momento. 
-<WRAP imagem>
+<WRAP imagem> Figura Artística
 Inserir imagem semelhante a esta:
 {{ :cap3:secoes:copo_medida.jpg?100 |}}
 </WRAP> 
@@ -27,7 +27,8 @@ Inserir imagem semelhante a esta:
 Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
 Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma faixa graduada para indicar o nível de água na caixa. 
 
-<WRAP imagem>
+<WRAP imagem>Figura Artística
+
 {{ :cap3:secoes:caixa_modelo.png?200 |}}
 A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa-d'água cheia. Abaixo de cada quadrinho, indicar: momento 1, momento 2, momento 3 e momento 4.
 </WRAP>
@@ -35,7 +36,8 @@ A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima d
 Escolha, para cada um dos momentos, a graduação que lhe parece mais adequada para registrar a quantidade de representada em cada uma das imagens. Explique sua escolha.
 
 
-<WRAP imagem>
+<WRAP imagem>Figura Artística
+
 {{ :cap3:secoes:caixa_graduada_modelo.png?200 |}}
 Apresentar a imagem da caixa-d'água acima 4 vezes, cada uma com uma das graduações mostradas abaixo. APESAR DO QUE ESTÁ NA FIGURA, ESTAS CAIXAS GRADUADAS DEVEM ESTAR VAZIAS (sem água).
 Atenção:     
