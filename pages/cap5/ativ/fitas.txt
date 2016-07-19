@@ -31,6 +31,8 @@ Para isso, algumas observações são fundamentais:
 
 <WRAP imagem>
 FIGURA GEOMÉTRICA
+
+{{:cap5:ativ:vw5.png?500|}}
 </WRAP>
 
 Desta forma, cada pedaço tem a mesma medida de 2 pedaços de $\frac{1}{6}$ da unidade, e cada pedaço azul tem a mesma medida de 3 pedaços de $\frac{1}{6}$ da unidade:
@@ -40,12 +42,16 @@ $$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6} = \frac{5}{6}.$$
 
 <WRAP imagem>
 FIGURA GEOMÉTRICA
+
+{{:cap5:ativ:vw6.png?500|}}
 </WRAP>
 
 Essa subunidade comum permite ainda determinar a diferença entre os tamanhos da fita original e da nova fita vermelha e azul, associando-se a unidade a 6 pedaços de $\frac{1}{6}$:
 $$1 - \dfrac{5}{6} =  \dfrac{6}{6} - \dfrac{5}{6} =  \dfrac{1}{6}.$$
 <WRAP imagem>
 FIGURA GEOMÉTRICA
+
+{{:cap5:ativ:vw7.png?500|}}
 </WRAP>
 Como observado anteriormente, essas construções podem ser feitas por meio de corte e colagem de materiais concretos.
 O item c) deve ser desenvolvido de forma análoga ao item b).
@@ -55,12 +61,16 @@ O item c) deve ser desenvolvido de forma análoga ao item b).
 A professora Estela quer enfeitar sua sala de aula para uma festa da escola. Para isso ela comprou várias fitas, todas de mesmo tamanho, nas cores vermelho, azul e amarelo.
 <WRAP imagem>
 FIGURA GEOMÉTRICA
+
+{{:cap5:ativ:vw8.png?500|}}
 </WRAP>
 Depois, a professora cortou cada fita vermelha em 3 partes iguais, cada fita azul em 2 partes iguais e cada fita amarela em 4 partes iguais.
 <WRAP imagem>
 FIGURA GEOMÉTRICA
+
+{{:cap5:ativ:vw9.png?500|}}
 </WRAP>
-  - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?\\ \\ Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço e dois pedaços amarelos. \\ <WRAP imagem> FIGURA GEOMÉTRICA </WRAP>\\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é equivalente a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
+  - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?\\ \\ Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço e dois pedaços amarelos. \\ <WRAP imagem> FIGURA GEOMÉTRICA \\  {{:cap5:ativ:vw10.png?500|}}</WRAP>\\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é equivalente a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
   - Agora, professora Estela formou uma fita colorida juntando um pedaço vermelho e um pedaço azul. Essa nova fita vermelha e azul é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e azul?
   - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
 
