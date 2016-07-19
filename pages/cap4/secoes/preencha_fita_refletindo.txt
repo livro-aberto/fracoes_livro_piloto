@@ -3,18 +3,20 @@ Ir para [[cap4:texto#preencha_fita_refletindo]]
 ;;#
 
 <WRAP refletindo>
-Você deve ter observado que as atividades 2 e 3 são muito parecidas. A diferença é que nesta última utilizamos para o estudo de frações figuras retangulares (na atividade 2 usamos figuras circulares). 
+Você deve ter observado que as atividades 2 e 3 são muito parecidas. 
+A diferença é que, nesta última foram utilizadas figuras retangulares (na atividade 2 foram usadas figuras circulares). 
 Ao resolver esta atividade você deve ter percebido que 
 $$\dfrac{1}{2}=\dfrac{2}{4}=\dfrac{3}{6}=\dfrac{4}{8}=\dfrac{5}{10}=\dfrac{8}{16},$$
 pois todas as frações representam a mesma quantidade: a medida da área da região retangular cinza em relação a área do retângulo do encarte.
-Observe ainda que podemos reescrever as igualdades acima do seguinte modo:
+Observe ainda que as igualdades acima podem ser reescritas do seguinte modo:
 $$\dfrac{1}{2}=\dfrac{1 \times 1}{1 \times 2}= \dfrac{2 \times 1}{2 \times 2} =\dfrac{3 \times 1}{3 \times 2} = \dfrac{4 \times 1}{4 \times 2} = \dfrac{5 \times 1}{5 \times 2}= \dfrac{8 \times 1}{8 \times 2}.$$
-Na verdade, para qualquer subdivisão da fração $\frac{1}{2}$  em $n$ partes iguais, deveremos considerar $n$ dessas novas partes para obter uma fração igual a anterior. Matematicamente falando, isto significa que:
+Na verdade, para qualquer subdivisão da fração $\frac{1}{2}$  em $n$ partes iguais, deve-se considerar $n$ dessas novas partes para obter uma fração igual a anterior. Matematicamente falando, isto significa que:
 $$\dfrac{1}{2}= \dfrac{n \times 1}{n \times 2}$$ 
 qualquer que seja $n$ um número natural maior que zero.
 De modo geral, para qualquer fração  $\frac{p}{q}$,  temos que
 $$\dfrac{p}{q}=\dfrac{1 \times p}{1 \times q}= \dfrac{2 \times p}{2 \times q} =\dfrac{3 \times p}{3 \times q} = \dfrac{4 \times p}{4 \times q} = \dfrac{5 \times p}{5 \times q}=\cdots =  \dfrac{n \times p}{n \times q}= \cdots$$
 qualquer que seja o número natural $n > 0$.
-Com isso você aprendeu uma técnica para obter frações iguais a uma fração dada: basta multiplicar o numerador e o denominador da fração dada por um mesmo número natural 
-$n > 0$. Isto será muito útil para nós.
+Com isso, você aprendeu uma técnica para obter frações iguais a uma fração dada: basta multiplicar o numerador e o denominador da fração dada por um mesmo número natural $n > 0$. 
+
+Isto será muito útil para a realização de outras atividades com frações.
 </WRAP>
