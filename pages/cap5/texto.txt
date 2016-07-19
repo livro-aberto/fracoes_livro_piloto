@@ -35,6 +35,10 @@
 
 
 ==== Atividade - ====
+{{anchor:calcule0}}
+{{page>cap5:ativ:calcule0}}
+
+==== Atividade - ====
 {{anchor:calcule}}
 {{page>cap5:ativ:calcule}}
 
