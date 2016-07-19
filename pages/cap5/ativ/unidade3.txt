@@ -28,6 +28,13 @@ $$\frac{3}{8} - \frac{1}{6} = \frac{9}{24} - \frac{4}{24} = \frac{5}{24}$$
 É interessante que o professor encoraje e traga para a discussão com a turma as diferentes estratégias que tiverem sido propostas pelos alunos, inclusive aquelas que não estiverem inteiramente corretas. O objetivo não é destacar soluções "mais eficientes" ou separar as "certas" das "erradas", e sim evidenciar como diferentes estratégias permitem obter os resultados pedidos nesta atividade a partir da determinação da subunidade comum. Por exemplo, no caso do item d), um aluno pode sobrepor o desenho das fatias comidas por Bruna no desenho das comidas por Caio, e contar quantas fatias faltam para atingir a quantidade consumida por Caio.
 
 É importante que o professor apresente o registro das operações em notação de fração, com o objetivo de articular esse registro com as estratégias geométricas, baseadas na contagem direta das subunidades.
+
+<WRAP nota> Página para reprodução
+<WRAP imagem> Figura Geométrica 
+
+{{:cap5:ativ:vw4.png?200|}}
+</WRAP>
+</WRAP>
 </WRAP>
 </hidden>
 
@@ -36,6 +43,7 @@ Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores dife
 
 |  {{ :cap5:ativ:vw1.png?200 |   }}   |   {{ :cap5:ativ:vw2.png?200 |   }}     |   {{ :cap5:ativ:vw3.png?200 |   }}       |
 | Fração de pizza consumida por Amanda $\frac{1}{6}$  | Fração de pizza consumida por Bruno $\frac{3}{4}$  | Fração de pizza consumida por Caio $\frac{2}{3}$  |
+
 </WRAP>
 
 Lembremos que todas as pizzas estão inicialmente divididas em 12 fatias do mesmo tamanho. 
