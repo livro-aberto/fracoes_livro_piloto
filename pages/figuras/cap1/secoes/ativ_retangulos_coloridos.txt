@@ -1,3 +1,5 @@
+
+<code >
 \begin{tikzpicture}
 \usetikzlibrary{calc}
 \begin{document}
@@ -18,5 +20,5 @@
   \draw[green] (15,0) rectangle (19,3);
   \draw[green] (15,3) rectangle (19,6);
 \end{tikzpicture}
-
+</code>
 Falta completar...
