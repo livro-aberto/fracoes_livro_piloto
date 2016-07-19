@@ -23,20 +23,20 @@ e que duas peças  azuis preencheram a área cinza.
 
 {{ :cap4:secoes:w_2.png?200 |}}
 
-Logo a área da região cinza é igual a $\frac{2}{3}$ da área do círculo.
+Logo, a área da região cinza é igual a $\frac{2}{3}$ da área do círculo.
 
 Para preencher a **segunda linha da tabela** você deve ter percebido:
   * que seis peças lilás  cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_3.png?200 |}}
   * que duas peças lilás cobrem uma peça azul; \\ {{ :cap4:secoes:w_4.png?200 |}} $\left(\frac{1}{3} = \frac{2}{6}\right)$
   * e que quatro peças  lilás  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
 
-Logo a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
+Logo, a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
 
-Podemos representar este raciocínio do seguinte modo:
+Este raciocínio pode ser representado do seguinte modo:
 
 $\frac{1}{3}$ é igual a 2 vezes $\frac{1}{6}$, isto é, $\frac{2}{6}$.
 
-Logo
+Logo,
 
 $\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
 
@@ -44,24 +44,24 @@ Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter perc
     * que doze peças rosas cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_6.png?200 |}}
     * que quatro peças rosas cobrem uma peça azul; \\ {{ :cap4:secoes:w_7.png?200 |}} $\left(\frac{1}{3} = \frac{4}{12}\right)$
     * e que oito peças  rosas  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
-Logo a área cinza é igual a $\frac{8}{12}$ da área do círculo. 
+Logo, a área cinza é igual a $\frac{8}{12}$ da área do círculo. 
 
-Podemos representar este raciocínio do seguinte modo:
+Este raciocínio pode ser representado do seguinte modo:
 
 $\frac{1}{3}$ é igual a 4 vezes $\frac{1}{12}$, isto é, $\frac{4}{12}$
 
-Logo
+Logo,
 
 $\frac{2}{3} = 2 \times \frac{4}{12} = \frac{8}{12} = \frac{2\times 4}{3 \times 4}$, onde 4 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
 
-Assim, podemos concluir que a área da região cinza, que é $\frac{2}{3}$ da área do círculo, também é igual a $\frac{4}{6}$ da área do círculo ou igual a $\frac{8}{12}$ da área do círculo; isto é, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ são iguais, pois elas representam a mesma quantidade (a medida da área da região cinza tendo a área do círculo como unidade).
+Assim, pode-se concluir que a área da região cinza, que é $\frac{2}{3}$ da área do círculo, também é igual a $\frac{4}{6}$ da área do círculo ou igual a $\frac{8}{12}$ da área do círculo; isto é, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ são iguais, pois elas representam a mesma quantidade (a medida da área da região cinza tendo a área do círculo como unidade).
 
 Para finalizar, observe as seguintes igualdades:
 
 $$\frac{2}{3} = \frac{4}{6} = \frac{8}{12}$$
-
+e
 $$\frac{2}{3} = \frac{2 \times 2}{3 \times 2} = \frac{2 \times 4}{3 \times 4}$$
 
-Retornaremos a esta última mais adiante
+Estas últimas igualdades serão retomadas mais adiante.
 
 </WRAP>
