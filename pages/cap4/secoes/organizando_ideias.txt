@@ -4,39 +4,41 @@ Ir para [[cap4:texto#organizando_ideias]]
 
 Olá! É chegada a hora de ajudar Miguel e Alice, nossos amigos da história em quadrinhos do início da lição, a compararem as frações $\frac{1}{3}$ e $\frac{8}{25}$.
 
-Ora, na lição anterior aprendemos a comparar frações com o mesmo denominador. Neste caso, para comparar as frações bastaria comparar os numeradores da fração. 
+Ora, na lição anterior você aprendeu a comparar frações com o mesmo denominador. Neste caso, como os denominadores eram iguais, você precisou comparar apenas os numeradores da fração. 
+
 Mas, Miguel e Alice querem comparar duas frações com denominadores diferentes. Alguma sugestão? Não?!
 
-Daremos uma pista.  A ideia é utilizarmos o que aprendemos até aqui nesta lição para encontrar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ mas que possuem o mesmo denominador. 
+Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para encontrar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ mas que possuem o mesmo denominador. 
 
-Deste modo transformaremos um "novo problema" em um "velho problema": o de comparar frações com o mesmo denominador.
+Deste modo transforma-se um "novo problema" em um "velho problema": o de comparar frações com o mesmo denominador.
 
-Já sabemos, pelas atividades anteriores, que 
+Usando o que você aprendeu com as atividades anteriores, pode-se, por exemplo, construir as seguintes igualdades:  
 
 $$\dfrac{1}{3} = \dfrac{2 \times 1}{2 \times 3} = \dfrac{3 \times 1}{3 \times 3} = \dfrac{4 \times 1}{4 \times 3} = \dfrac{5 \times 1}{5 \times 3} = \cdots = \dfrac{n \times 1}{n\times 3} = \cdots$$
 e
-$$\dfrac{8}{25} = \dfrac{2 \times 8}{2 \times 25} = \dfrac{3 \times 8}{3 \times 25} = \dfrac{4 \times 8}{4 \times 25} = \dfrac{5 \times 8}{5 \times 25} = \cdots = \dfrac{n \times 8}{n\times 25} = \cdots$$
+$$\dfrac{8}{25} = \dfrac{2 \times 8}{2 \times 25} = \dfrac{3 \times 8}{3 \times 25} = \dfrac{4 \times 8}{4 \times 25} = \dfrac{5 \times 8}{5 \times 25} = \cdots = \dfrac{m \times 8}{m\times 25} = \cdots$$
 quaisquer que sejam $m$ e $n$ números naturais, $m > 0$, $n > 0$.
 
-Ao observar a lista de frações iguais à fração $\frac{1}{3}$, percebemos que os denominadores dessas frações são múltiplos de 3.  Do mesmo modo, temos que os denominadores das frações iguais à fração $\frac{8}{25}$ são múltiplos de 25. Assim, para efeito de comparação, precisamos encontrar frações iguais às frações dadas que possuem denominadores que sejam simultaneamente múltiplos de 3 e de 25. O primeiro número que satisfaz essa condição é o número $75 = 3\times 25$.
+Ao observar a lista de frações iguais à fração $\frac{1}{3}$, enunciada acima, você deve ter percebido que os denominadores dessas frações são múltiplos de 3.  Do mesmo modo, com relação à lista de frações iguais à fração $\frac{8}{25}$, você deve ter percebido que os denominadores dessas frações são múltiplos de 25. Assim, para efeito de comparação, será necessário encontrar frações iguais às frações dadas que possuem denominadores que sejam, simultaneamente, múltiplos de 3 e de 25. O primeiro número que satisfaz essa condição é o número $75 = 3\times 25$.
 
-Desta maneira temos
+Desta maneira, obtém-se que
 
 $$\dfrac{1}{3} = \dfrac{25}{75} = \dfrac{25 \times 1}{25 \times 3}$$
-e
+e que 
 $$\dfrac{8}{25} = \dfrac{3 \times 8}{3 \times 25} = \dfrac{24}{75}.$$ 
 
-Agora é só comparar as frações $\frac{25}{75}$ e $\frac{24}{75}$. Mas, isto, nós já sabemos resolver.
-Como $25 > 24$, temos que 
+Agora é só comparar as frações $\frac{25}{75}$ e $\frac{24}{75}$. Mas, isto, já é conhecido.
+Como $25 > 24$, tem-se que 
 
 $$\dfrac{1}{3} = \dfrac{25}{75} > \dfrac{24}{75} =  \dfrac{8}{25};$$
 isto é, 
 $$\dfrac{1}{3} > \dfrac{8}{25}.$$
 
-Agora, vamos generalizar o procedimento apresentado aqui para quaisquer duas frações $\frac{a}{b}$ e $\frac{c}{d}$ .
+**Generalização do procedimento**
 
-Vimos no exemplo anterior, que para compará-las, basta comparamos as frações iguais a elas, mas que possuem o mesmo denominador. 
-Vimos também que uma forma simples para realizar tal tarefa é procurarmos frações iguais às frações $\frac{a}{b}$ e $\frac{c}{d}$ cujos denominadores são iguais ao número $d\times b$ que é um múltiplo comum de $b$ e $d$.
+Para generalizar o procedimento apresentado aqui, considere duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes.
+
+Com base na solução dada para o problema do Miguel e da Alice, você deve ter percebido que para comparar duas frações, basta comparar as frações iguais a elas, mas que possuem o mesmo denominador. Uma forma simples para realizar tal tarefa é procurar frações iguais às frações  $\frac{a}{b}$ e $\frac{c}{d}$ cujos denominadores são iguais ao número $d\times b$ que é um múltiplo comum de $b$ e $d$.
 
 Ora, para obter uma fração igual à fração $\frac{a}{b}$ cujo denominador seja igual a $d\times b$ basta multiplicar tanto o numerador e como o denominador da fração por $d$ (denominador da segunda fração):
 $$\dfrac{d\times a}{d \times b} =  \dfrac{a}{b}.$$
