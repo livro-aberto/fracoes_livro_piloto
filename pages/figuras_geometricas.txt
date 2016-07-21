@@ -1,6 +1,12 @@
-====== Lista de figuras geométricas ======
+====== Figuras geométricas ======
 
 Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. 
+Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
+Você precisa se cadastrar para editar a tabela. 
+O cadastro é feito no canto superior direito desta página onde está escrito "Cadastre-se".
+Uma vez logado, você poderá editar no link "Editar esta página" na barra lateral direita.
+Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
+
 As figuras devem ser elaboradas em Tikz:
 
 ===== Tikz =====
@@ -17,13 +23,7 @@ Para quem quiser aprender mais sobre o Tikz:
   * Manual do Tikz (Inglês) ([[http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf|link]])
   * Geogebra exporta para Tikz: vá em Arquivo -> Exportar -> Tikz. ([[https://pt.sharelatex.com/blog/2013/08/28/tikz-series-pt2.html|link]])
 
-===== Como colaborar =====
-
-Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
-Você precisa se cadastrar para editar a tabela. 
-O cadastro é feito no canto superior direito desta página onde está escrito "Cadastre-se".
-Uma vez logado, você poderá editar no link "Editar esta página" na barra lateral direita.
-Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
+===== Lista de figuras =====
 
 Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
 
