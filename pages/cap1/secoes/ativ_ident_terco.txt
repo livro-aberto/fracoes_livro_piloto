@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_ident_terco]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivo específico: Levar o aluno a:
 
