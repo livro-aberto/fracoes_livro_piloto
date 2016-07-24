@@ -64,9 +64,11 @@
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_fracoes_na_reta}}
 
+/*
 {{anchor:ativ_gr_subdiv}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_gr_subdiv}}
+*/
 
 {{anchor:ativ_reta_numerada}}
 ==== Atividade - ====
