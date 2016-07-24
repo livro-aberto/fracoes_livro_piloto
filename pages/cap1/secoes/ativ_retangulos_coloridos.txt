@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_retangulos_coloridos]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivo específico: Levar o aluno a:
   * Reconhecer que, em uma equipartição, as partes podem não ter a mesma forma. 
