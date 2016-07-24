@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_equiparticao]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> Objetivos específicos: Levar o aluno a 
   * Diferenciar a partição da unidade em partes "quaisquer" da partição da unidade em partes "iguais". A partição em partes iguais será chamada equipartição. 
   * Reconhecer a necessidade de uma expressão verbal que identifique uma das partes iguais em uma equipartição da unidade.
