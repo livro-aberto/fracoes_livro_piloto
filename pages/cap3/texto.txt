@@ -86,11 +86,11 @@
 
 ===== QUEBRANDO A CUCA =====
 
-
+/*
 {{anchor:ativ_grad_unidade3}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_grad_unidade3}}
-
+*/
 
 {{anchor:ativ_grad_unidade4}}
 ==== Atividade - ====
