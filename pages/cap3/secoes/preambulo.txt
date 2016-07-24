@@ -182,6 +182,5 @@ O aluno deve ser capaz de:
   * Reconhecer a organização, segundo a ordem, das frações na reta numérica; 
   * Comparar frações com mesmo numerador;
   * Amparado pela representação na reta numérica, comparar frações a patir de um referencial adequado.
-
-</hidden>
 </WRAP>
+</hidden>
