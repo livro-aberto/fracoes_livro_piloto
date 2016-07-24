@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_recomportodo]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a:
     * Recompor a unidade a partir de uma fração unitária dada em modelos contínuos. 
