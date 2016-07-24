@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#conexoes]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor> 
 
 Nesta etapa, espera que os alunos compreendam as frações como forma de expressar quantidades. O objetivo é que percebam seu papel para expressar quantidades em situações de equipartição da unidade. Assim, as frações podem ser utilizadas no dia a dia para identificar quantidades do mesmo modo que os números naturais, já conhecidos dos alunos. Por exemplo, como nas expressões: "dois ovos", "duas xícaras de farinha", "um terço de xícara de cacau" e "meio litro de leite".
