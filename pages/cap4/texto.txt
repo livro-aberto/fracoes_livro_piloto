@@ -135,3 +135,16 @@
 {{anchor:equivalencia_densidade_refletindo}}
 {{page>cap4:secoes:equivalencia_densidade_refletindo}}
 
+{{anchor:ativ_reta2_unidade6}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_reta2_unidade6}}
+
+
+{{anchor:ativ_reta_numerica2}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_reta_numerica2}}
+
+
+
+
+
