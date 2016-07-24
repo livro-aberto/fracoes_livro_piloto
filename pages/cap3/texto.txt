@@ -74,14 +74,16 @@
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta_numerada}}
 
+/*
 {{anchor:ativ_reta_numerica2}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta_numerica2}}
 
+
 {{anchor:ativ_reta2_unidade6}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta2_unidade6}}
-
+*/
 
 
 ===== QUEBRANDO A CUCA =====
