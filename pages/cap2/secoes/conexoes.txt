@@ -56,7 +56,7 @@ Para a fração $\frac{1}{11}$, fala-se um onze avos. O mesmo procedimento se ap
 $$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
 Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O que importa é que para denominadores maiores 11 usaremos esse sufixo "avos" ao final da leitura.
 
-Contudo, para frações cujo denominador é uma potência de 10, usamos outra formar de ler:
+Contudo, para frações cujo denominador é uma potência de 10, usa-se outra formar de ler:
 $$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100}\rightarrow \text{ treze centésimos;}\quad
 \frac{33}{1000}\rightarrow \text{ trinta e três milésimos.}$$
 
