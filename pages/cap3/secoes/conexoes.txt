@@ -2,7 +2,7 @@
 Ir para [[cap3:texto#conexoes]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 
 <WRAP professor>
 
