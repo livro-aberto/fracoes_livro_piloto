@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_meioemeio]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivos específicos: Levar o aluno a:
   * Reconhecer a metade de uma unidade pela reunião de partes menores e em partições diversas. 
