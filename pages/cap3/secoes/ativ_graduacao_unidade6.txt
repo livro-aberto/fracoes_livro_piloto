@@ -2,7 +2,7 @@
 Ir para [[cap3:texto#ativ_graduacao_unidade6]]
 ;;#
 
-<hidden PARA O PROFESSOR>
+<hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Representar das frações na reta numérica, a partir da graduação em uma escala linear em um modelo contínuo.
