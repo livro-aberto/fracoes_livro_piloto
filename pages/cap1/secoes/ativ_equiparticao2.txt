@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_equiparticao2]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 
 Objetivos específicos: Levar o aluno a
