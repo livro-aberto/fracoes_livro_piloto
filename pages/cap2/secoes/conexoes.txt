@@ -41,10 +41,10 @@ Se uma torta é repartida em três partes iguais, cada fatia é um terço da tor
 
 Já o número que aparece "acima" do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de //numerador// da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
 
-Esses mesmos nomes valem para outras frações, mesmo que o denominador seja diferente de 3:\\
+Esses mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\\
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
-Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. 
-Como você viu, o nome da fração depende principalmente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome da fração do tipo** $\frac{1}{b}$, nessa ordem. Veja:
+Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. \\
+Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome que identifica a fração do tipo** $\frac{1}{b}$, nessa ordem. Veja:
 
 $$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
 $$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
@@ -52,9 +52,13 @@ Anote agora os nomes de algumas frações do tipo $\frac{1}{b}$:
 $$\frac{1}{2}\rightarrow \text{  um meio;} \quad \frac{1}{3}\rightarrow\text{  um terço;} \quad \frac{1}{4}\rightarrow\text{  um quarto;}$$
 $$\frac{1}{5}\rightarrow\text{  um quinto;}\quad \frac{1}{6}\rightarrow\text{  um sexto;} \quad \frac{1}{7}\rightarrow\text{  um sétimo;}$$
 $$\frac{1}{8}\rightarrow\text{  um oitavo;}\quad \frac{1}{9}\rightarrow\text{  um nono;}\quad \frac{1}{10}\rightarrow\text{  um décimo.}$$
+
 Para a fração $\frac{1}{11}$, fala-se um onze avos. O mesmo procedimento se aplica para frações cujo denominador é maior do que 11: 
 $$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
-Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O que importa é que para denominadores maiores 11 usaremos esse sufixo "avos" ao final da leitura.
+
+Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. 
+
+O que importa é que para denominadores maiores 11 acrescenta-se a expressão "avos" ao final da leitura.
 
 Contudo, para frações cujo denominador é uma potência de 10, usa-se outra formar de ler:
 $$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100}\rightarrow \text{ treze centésimos;}\quad
