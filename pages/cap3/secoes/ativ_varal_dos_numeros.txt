@@ -2,7 +2,7 @@
 Ir para [[cap3:texto#ativ_varal_dos_numeros]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 
 <WRAP professor>
 
