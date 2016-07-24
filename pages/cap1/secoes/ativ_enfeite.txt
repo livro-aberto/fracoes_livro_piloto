@@ -2,7 +2,7 @@
 Ir para [[cap1:texto#ativ_enfeite]]
 ;;#
 
-<hidden Para o Professor>
+<hidden Para o professor>
 <WRAP professor>
 Objetivo específico:Levar o aluno a
   * Abordar a equipartição em um modelo linear.
