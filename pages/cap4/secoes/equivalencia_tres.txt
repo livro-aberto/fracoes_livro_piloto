@@ -32,6 +32,7 @@ $$\frac{11}{6} < \frac{37}{20} < \frac{28}{15}.$$
 </WRAP>
 </hidden>
 
+/*
 <hidden Comentário - a ser apagado (com réplica do Humberto)>
 Réplica do Humberto:
 (i) A atividade foi concebida para ser resolvida usando a notação de fração, sem o uso do recurso de modelos de frações pensando que, neste estágio, o aluno já deveria ter o domínio desta técnica (estou supondo que um objetivo deste capítulo é que o aluno seja capaz de gerar e identificar frações iguais por meio desta manipulação aritmética).Vou manter esta atividade aqui para reconsideração mas caso achem que ela está realmente difícil, podemos removê-la. 
@@ -48,3 +49,4 @@ Talvez: Determine três frações com o mesmo denominador tais que cada uma dela
 
 
 </hidden>
+*/
