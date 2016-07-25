@@ -40,6 +40,7 @@ Ao se multiplicar o numerador e o denominador da segunda fração pelo denominad
 </WRAP>
 </hidden>
 
+/*
 <hidden Comentário - a ser apagado (com réplica do Humberto)>
 Humberto:
 (iii) Pois é, precisamos decidir como estamos pensando a distribuição do conteúdo ao longo das séries. Será que no Ensino Fundamental I não ficariam apenas as 3 primeiras lições, sendo esta colocada já no Ensino Fundamental II? Ou não vamos escrever para o Ensino Fundamental II? Como achei uma propriedade importante, escrevi esta atividade. Vou deixá-la aqui para reconsideração, mas caso achem que ela está realmente difícil, podemos removê-la. 
@@ -57,4 +58,4 @@ Letícia:
 (v) Entend que, como posta, a atividade não leva o aluno a perceber a propriedade apresentada, mas verificar. 
 
 </hidden>
-
+*/
