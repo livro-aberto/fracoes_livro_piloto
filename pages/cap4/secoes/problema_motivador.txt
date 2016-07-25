@@ -11,17 +11,9 @@ Miguel é um menino negro de cabelos cheios e cacheados. Alice é uma menina mor
 
 Alice: Miguel, qual fração é maior? $\frac{1}{3}$ ou $\frac{8}{25}$?
 
-Miguel: Hummm...
+Miguel: Hummm... Os denominadores são diferentes... Os numeradores também são diferentes...
 
 **Quadrinho 2**
-
-Miguel: Os denominadores são diferentes...
-
-**Quadrinho 3**
-
-Miguel: Os numeradores também são diferentes...
-
-**Quadrinho 4**
 
 Miguel: Parece difícil comparar. Você tem alguma figura?
 
@@ -29,21 +21,13 @@ Alice: Sim, aqui está:
 
 {{ :undefined:problema-motivador.png?350 |}}
 
-**Quadrinho 5**
+**Quadrinho 3**
 
 Miguel: Parecem iguais na figura!
 
 Alice: Será que são iguais?
  
-**Quadrinho 6**
+**Quadrinho 4**
 
-Professora: Miguel e Alice, as frações $\frac{1}{3}$ e $\frac{8}{25}$ não são iguais!
-
-**Quadrinho 7**
-
-Professora: Na lição de hoje, aprenderemos uma maneira de comparar duas frações quaisquer e, com isso, saberemos qual é maior:  $\frac{1}{3}$ ou $\frac{8}{25}$.
-
-**Quadrinho 8**
-
-Professora: Vamos começar?
+Professora: Miguel e Alice, as frações $\frac{1}{3}$ e $\frac{8}{25}$ não são iguais! Com a aula de hoje, saberemos qual é maior:  $\frac{1}{3}$ ou $\frac{8}{25}$. Vamos começar?
 </WRAP>
