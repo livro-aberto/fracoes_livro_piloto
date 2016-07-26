@@ -41,7 +41,7 @@ A partir dele, por justaposições desse segmento, são identificados na reta nu
 
 A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
 
-<WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
+<WRAP imagem> FIGURAS ARTÍSTICAS (2) E GEOMÉTRICAS (2), as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
 
   - UMA PIZZA PARTIDA EM 3/3, 
   - UMA BARRA DE CHOCOLATE PARTIDA EM 3/3,
@@ -51,7 +51,7 @@ A representação dos números na reta numérica ajuda a perceber que os pontos 
 
 Já $\frac{6}{3}$ é igual a 2. 
 
-<WRAP imagem> 4 IMAGENS, as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
+<WRAP imagem> FIGURAS ARTÍSTICAS (2) E GEOMÉTRICAS (2), as duas primeiras lado a lado, a reta abaixo e a igualdade abaixo da reta:
   - DUAS PIZZA PARTIDAS EM TERÇOS,
   - DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS,
   - RETA NUMÉRICA DESTACANDO A JUSTAPOSICAO DE SEIS SEGMENTOS CORRESPONDENTES A 1/3 DA UNIDADE
@@ -62,11 +62,13 @@ E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
 
 Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
 
-<WRAP imagem> {{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
+<WRAP imagem> FIGURA GEOMÉTRICA
+
+{{ :cap3:secoes:reta_numerica_quartos.png?600 |}} </WRAP>
 
 Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes a eles. Observe e complete as frações em destaque.
 
-<WRAP imagem>  IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
+<WRAP imagem>  FIGURA GEOMÉTRICA - IMAGEM DA RETA NUMERICA COM SEXTOS DESTACADOS:
 
 {{ :cap3:secoes:reta_sextos.jpg?direct&200 |}}
 
@@ -76,22 +78,24 @@ A ordem na reta numérica\\
 
 Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. Assim, o que vale para o 0, o 1, o 2, o, 3, etc. também valerá para as frações: 
 
-<WRAP imagem> INCLUIR RETA COM metades, quintos e décimos destacados </WRAP>
+<WRAP imagem> FIGURA GEOMÉTRICA - INCLUIR RETA COM metades, quintos e décimos destacados </WRAP>
 
 Na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao número, maior será o número. 
 
-<WRAP imagem>  IMAGEM DA RETA NUMÉRICA destacando os pontos correspondentes ao 4/5 e 4/3:
+<WRAP imagem>  FIGURA GEOMÉTRICA - IMAGEM DA RETA NUMÉRICA destacando os pontos correspondentes ao 4/5 e 4/3:
 
 </WRAP>
 
-$\frac{4}{3}$ é maior do que $\frac{4}{5}$\\
+$\frac{4}{3}$ é maior do que $\frac{4}{5}$
 
 
-O símbolo é usado $<$ para dizer "menor do que".\\
+O símbolo é usado $<$ para dizer "menor do que".
 
-Por exemplo, a frase "oito é menor do que quinze" pode ser expressa de modo mais resumido com "$8<15$". Já a expressão $\frac{1}{2}<\frac{3}{2}$ indica que "um meio é menor do que três meios". \\
+Por exemplo, a frase "oito é menor do que quinze" pode ser expressa de modo mais resumido com "$8<15$". Já a expressão $\frac{1}{2}<\frac{3}{2}$ indica que "um meio é menor do que três meios".
 
 Do mesmo modo, o símbolo $>$ é usado para significar "maior do que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior do que oito" ou $\frac{3}{2}>\frac{1}{2}$  para expressar "três meios é maior do que um meio"
 
-<WRAP imagem> {{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}} </WRAP>
+<WRAP imagem> FIGURA ARTÍSTICA
+
+{{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}} </WRAP>
 
