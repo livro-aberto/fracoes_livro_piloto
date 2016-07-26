@@ -20,7 +20,11 @@ Observe as faixas pintadas na atividade anterior.
   - Corte agora 2 partes da faixa dividida em 6 partes e que foi pintada de rosa claro. Que fração da unidade estas duas partes cortadas representam? Marque esta fração na mesma reta numerica abaixo.
   - Corte agora 3 partes da faixa dividida em 9 partes e que foi pintada de vermelho. Que fração da unidade estas três partes cortadas representam? Marque esta fração na mesma reta numérica
 
+<WRAP imagem> FIGURA GEOMÉTRICA
+
 {{ :cap3:secoes:reta.jpg?300 |}}.
+
+</WRAP>
 
 Como ficou a marcação? O que podemos inferir do resultado obtido nos itens a), b) e c)?
 
