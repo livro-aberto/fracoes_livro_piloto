@@ -15,7 +15,10 @@ A ideia é ainda continuar usando as faixas para reafirmar que só uma boa escol
 </WRAP>
 
 Na figura abaixo temos faixas divididas em 3, 4 e 5 partes. 
+
+<WRAP imagem> FIGURAS GEOMÉTRICAS
 {{ :cap3:secoes:figura_iniciaal.jpg |}}
+</WRAP>
 
 Compare cada uma delas com a parte que sobrou na atividade anterior.  
 Qual a melhor subdivisão nesse caso?
@@ -25,8 +28,3 @@ Observe as faixas abaixo e em cada caso dê uma representação fracionária rel
 
 {{ :cap3:secoes:faixas_ate_2.png |}}
 
-
-
-<hidden OBS>
-**FS:** Na recomendação ao professor a frase "A ideia é ainda continuar usando as faixas para reafirmar que só uma boa escolha da subdivisão a que a unidade será submetida permitirá uma representação pra esta parte ou para todo o elemento envolvido." Não está muito clara para mim.
-</hidden>
