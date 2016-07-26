@@ -23,8 +23,9 @@ b)	Observando a faixa o que podemos afirmar sobre a fração 2/4 obtida por just
 
 Agora considere a faixa da figura abaixo: 
 
+<WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap3:secoes:parte_que_sobra.jpg |}}
-
+</WRAP>
 
 Observe a figura e responda:
 
