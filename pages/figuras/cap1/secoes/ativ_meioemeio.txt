@@ -1,5 +1,15 @@
 <code latex>
-\begin{tikzpicture}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
 
+\definecolor{ttttqq}{rgb}{0.2,0.2,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-0.8107753537834005,-1.3928723224829567) rectangle (10.410703524740237,4.28617177082204);
+\fill[line width=0.4pt,color=ttttqq] (0.,3.) -- (0.,0.) -- (10.,0.) -- (10.,3.) -- cycle;
+\draw [line width=0.4pt,color=ttttqq] (0.,3.)-- (0.,0.);
+\draw [line width=0.4pt,color=ttttqq] (0.,0.)-- (10.,0.);
+\draw [line width=0.4pt,color=ttttqq] (10.,0.)-- (10.,3.);
+\draw [line width=0.4pt,color=ttttqq] (10.,3.)-- (0.,3.);
 \end{tikzpicture}
 </code>
