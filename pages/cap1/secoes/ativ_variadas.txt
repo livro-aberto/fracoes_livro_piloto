@@ -16,14 +16,14 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Nas figuras a seguir um mesmo círculo está diferentemente dividido em partes iguais. 
+Nas figuras a seguir, um mesmo círculo aparece diferentemente dividido em partes iguais. 
   - Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras. 
-    -	A parte colorida do círculo _ _ _ _ _ é um quinto do círculo.
-    -	A parte colorida do círculo _ _ _ _ _ é a sexta parte do círculo.
-    -	A parte colorida do círculo _ _ _ _ _ é um sétimo do círculo.
-    -	A parte colorida do círculo _ _ _ _ _ é um oitavo do círculo.
-    -	A parte colorida do círculo _ _ _ _ _ é a nona parte do círculo.
-    -	A parte colorida do círculo _ _ _ _ _ é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um quinto do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é a sexta parte do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um sétimo do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um oitavo do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é a nona parte do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
 {{ :cap1:secoes:circulos.jpg?600 |}}
 </WRAP>\\
   - Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
