@@ -23,6 +23,7 @@ Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando ped
 
 <WRAP imagem>  - FIGURA ARTÍSTICA - Incluir imagem de um pedaço de barbante e de 4 estrelas congruentes, como ilustrado a seguir:
 Alice é uma menina morena de rabo de cavalo. Ela será um personagem frequente deste livro.
+**NÃO REPRODUZIR A IMAGEM DO PENSAMENTO DE ALICE**, mas colocar uma em que apareça uma da estrelas pendurada em um pedaço de barbante. 
 
 {{ :cap1:secoes:alice_barbante_estrelas.jpg?300 |}}
 </WRAP>
