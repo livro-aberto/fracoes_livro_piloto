@@ -33,14 +33,14 @@ os retângulos devem estar organizados em duas páginas conforme a ilustração.
 </WRAP>
 </hidden>
 
-    - Quais dos retângulos a seguir foram repartidos em //quartos//?
+a) Quais dos retângulos a seguir foram repartidos em //quartos//?
 
 <WRAP imagem> - FIGURA GEOMÉTRICA - A imagem deve conter oito retângulos **congruentes** coloridos, cada um com uma cor diferente das demais. Os retângulos devem estar divididos em partes conforme a imagem 
 {{ :cap1:secoes:quartos.jpg?direct&200 |}}
 
 </WRAP>
 
-    - Desenhe um retângulo e faça uma partição desse retângulo em quatro partes que não sejam todas quartos.
+b) Desenhe um retângulo e faça uma partição desse retângulo em quatro partes que não sejam todas quartos.
 
 
 <hidden Resposta>
