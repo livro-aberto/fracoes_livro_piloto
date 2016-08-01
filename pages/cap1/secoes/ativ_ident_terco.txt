@@ -6,7 +6,7 @@ Ir para [[cap1:texto#ativ_ident_terco]]
 <WRAP professor> 
 Objetivo específico: Levar o aluno a:
 
-  * Identificar uma mesma fração unitária (no caso, a terça parte) em representações diversas, ou seja, em representações da unidade não necessariamente congruentes.
+  * Identificar uma mesma fração unitária (no caso, a terça parte) em representações diversas, ou seja, em representações de unidades não necessariamente congruentes.
  
 
 Recomendações e sugestões para o desenvolvimento da atividade:
