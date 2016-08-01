@@ -6,7 +6,7 @@ Ir para [[cap2:texto#conexoes]]
 <WRAP professor>
 Nesta etapa, espera-se que os alunos compreendam as frações $\frac{a}{b}$ como adição por justaposição de //a// frações $\frac{1}{b}$ da unidade. Observe que esse entendimento é construído a partir de modelos contínuos e amparado por situações concretas. Assim, como explicado na introdução desta seção, por exemplo, "dois terços" de uma unidade dada são obtidos pela justaposição de duas partes correspondentes a "um terço" da mesma unidade. 
 
-Esse entendimento terá reflexos na forma como são lidas as frações $\frac{a}{b}$. Não se espera, nem se recomenda, que seja sugerida aos alunos a leitura de $\frac{a}{b}$ como "//a sobre b//" nem como "//a dividido por b//". Nesta etapa, espera-se que pos alunos leiam essas frações, por exemplo, como "dois terços" ou "dois um terços" da unidade. As outras formas de leitura serão tratadas em seções posteriores.
+Esse entendimento terá reflexos na forma como são lidas as frações $\frac{a}{b}$. Não se espera, nem se recomenda, que seja sugerida aos alunos a leitura de $\frac{a}{b}$ como "//a sobre b//" nem como "//a dividido por b//". Nesta etapa, espera-se que os alunos leiam essas frações, por exemplo, como "dois terços" ou "dois um terços" da unidade. As outras formas de leitura serão tratadas em seções posteriores.
 
 Nesse contexto, é importante também discutir com os alunos as frações que representam números naturais. Por exemplo, na atividade 2, a fração $\frac{3}{3}$ da torta é a torta inteira e a fração $\frac{6}{3}$ da torta são duas tortas. 
 
