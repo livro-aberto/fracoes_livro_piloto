@@ -16,7 +16,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Nas figuras a seguir cada um dos círculos está dividido em partes iguais. 
+Nas figuras a seguir um mesmo círculo está diferentemente dividido em partes iguais. 
   - Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras. 
     -	A parte colorida do círculo _ _ _ _ _ é um quinto do círculo.
     -	A parte colorida do círculo _ _ _ _ _ é a sexta parte do círculo.
