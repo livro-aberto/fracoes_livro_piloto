@@ -11,7 +11,7 @@ Objetivos específicos: Levar o aluno a:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Essa é uma atividade que o aluno pode fazer individualmente. 
-  * Como na atividade anterior, não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça o equipartição livremente e de forma coerente. 
+  * Como na atividade anterior, não se espera que, nesta atividade, o aluno use a medida para fazer a equipartição de maneira mais precisa. O objetivo é que o aluno faça a equipartição livremente e de forma coerente. 
   * Incentive os alunos a usar dobradura para decidir sobre as diferentes formas de identificar metades na unidade apresentada.
 * Observe que a representação da unidade se dá de forma genérica, ainda em modelo contínuo, por uma figura não tradicional como retângulos e círculo, que é determinada pela justaposição de dois hexágonos regulares.
   * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
