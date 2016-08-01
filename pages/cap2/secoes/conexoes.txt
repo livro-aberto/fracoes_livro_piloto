@@ -41,7 +41,7 @@ Se uma torta é repartida em três partes iguais, cada fatia é um terço da tor
 
 Já o número que aparece "acima" do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de //numerador// da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
 
-Esses mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\\
+Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\\
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
 Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. \\
 Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome que identifica a fração do tipo** $\frac{1}{b}$, nessa ordem. Veja:
