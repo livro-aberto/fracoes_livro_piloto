@@ -10,6 +10,17 @@
 ==== Atividade - ====
 {{page>cap4:secoes:sanduiches}}
 
+{{anchor:dobradura}}
+==== Atividade - ====
+{{page>cap4:secoes:dobradura}}
+
+{{anchor:dobradura_refletindo}}
+{{page>cap4:secoes:dobradura_refletindo}}
+
+{{anchor:divisao_escondida}}
+==== Atividade - ====
+{{page>cap4:secoes:divisao_escondida}}
+
 {{anchor:ativ_reta2_unidade6}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta2_unidade6}}
@@ -28,17 +39,6 @@
 
 {{anchor:preencha_fita_refletindo}}
 {{page>cap4:secoes:preencha_fita_refletindo}}
-
-{{anchor:dobradura}}
-==== Atividade - ====
-{{page>cap4:secoes:dobradura}}
-
-{{anchor:dobradura_refletindo}}
-{{page>cap4:secoes:dobradura_refletindo}}
-
-{{anchor:divisao_escondida}}
-==== Atividade - ====
-{{page>cap4:secoes:divisao_escondida}}
 
 
 {{anchor:reta_numerica}}
