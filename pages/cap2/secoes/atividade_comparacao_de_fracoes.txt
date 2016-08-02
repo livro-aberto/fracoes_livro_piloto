@@ -31,7 +31,7 @@ Um grupo de amigos está dividindo duas pizzas circulares do mesmo tamanho. A pr
 <WRAP resposta>
   - $\frac{1}{4}$.
   - $\frac{1}{8}$.
-  - A primeira fatia tem mais quantidade pizza: o dobro da quantidade. Isto acontece porque são necessárias duas fatias da segunda pizza, como mostra o desenho a seguir.
+  - Uma fatia da primeira pizza tem mais quantidade que uma fatia da segunda pizza: precisamente, o dobro da quantidade. Isto acontece porque são necessárias duas fatias da segunda pizza para ter-se a mesma quantidade de pizza que uma fatia da primeira pizza, como mostra o desenho a seguir.
 <WRAP imagem> FIGURA GEOMÉTRICA - Figuras devem ser feitas individualmente.
 {{ :cap2:secoes:comparar-fatias-resposta-01.png?300 |}}
 </WRAP>
