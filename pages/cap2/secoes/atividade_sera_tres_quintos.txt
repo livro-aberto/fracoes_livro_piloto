@@ -25,7 +25,7 @@ Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corre
 </WRAP>
 <hidden Resposta>
 <WRAP resposta>
-Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{3}{5}$ da figura. De fato: partindo-se a parte pintada em $3$ partes iguais e justapondo-se $5$ cópias de uma destas partes, a figura é recomposta apenas parcialmente.
-Outra justificativa possível é: a figura não está equiparticionada em 5 partes para que as 3 partes pintadas correspondam a $\frac{3}{5}$ da mesma. 
+Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{3}{5}$ da figura porque a figura não está dividida em 5 partes iguais, ou seja, a figura não está equiparticionada em 5 partes para que as 3 partes pintadas correspondam a $\frac{3}{5}$ da mesma. Outra justificativa possível é: partindo-se a parte pintada em 3 partes iguais e justapondo-se 5 cópias de uma destas partes, pode-se recompor a figura apenas parcialmente.
+
 </WRAP>
 </hidden>
