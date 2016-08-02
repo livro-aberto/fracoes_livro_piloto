@@ -29,8 +29,8 @@ A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma
 
 </WRAP>
 
-  - Em quais delas é possível comer metade do sanduíche apenas com as partes da repartição feita?
-  - Observando as repartições feitas, para aquelas que permitem que se coma metade de um sanduíche, expresse, usando fração, essa quantidade.  
+  - Em quais delas é possível comer metade do sanduíche apenas com as partes da repartição feita? Justifique sua resposta!
+  - Expresse, por meio de frações, a metade do sanduíche para cada uma das repartições que você escolheu no Item (a).
 
 
 <hidden Resposta>
