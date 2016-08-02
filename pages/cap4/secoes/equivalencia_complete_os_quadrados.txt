@@ -10,6 +10,8 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Espera-se que, neste estágio, os alunos consigam obter as respostas usando a propriedade que $\frac{m \times a}{m \times b}$ é equivalente a $\frac{a}{b}$ e sem recorrer a desenhos de modelos de área de frações.
+  * Observe que, no Item (e), não existe um número natural $n$ tal que $6 \times n = 9$. Para resolver o item, o aluno pode usar o resultado do Item (d) e substituir $\frac{9}{12}$ por $\frac{3}{4}$ e proceder com o exercício. A mesma observação aplica-se ao Item (f).
+  * Observe para seus alunos que os Itens (e) e (f) são exemplos de frações iguais para os quais não é possível obter uma fração multiplicando-se o numerador e o denominador da outra por um mesmo número natural.
 
 Classificações
   * Heid et al.: Produto: gerar
