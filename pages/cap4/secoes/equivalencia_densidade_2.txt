@@ -5,7 +5,7 @@ Ir para [[cap4:texto#equivalencia_densidade_2]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Perceber a propriedade de densidade das frações ao obter frações que estão entre duas frações diferentes quaisquer.
+  * Perceber a propriedade de densidade das frações ao obter frações que estão entre duas frações diferentes quaisquer, mesmo no caso de numeradores consecutivos e denominadores iguais.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
