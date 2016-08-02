@@ -5,7 +5,7 @@ Ir para [[cap4:texto#equivalencia_panquecas]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Simplificar frações e relacionar esta simplificação no contexto de minimização de cortes em uma equipartição.
+  * Obter uma fração irredutível equivalente a uma fração dada e relacionar esta equivalência no contexto de minimização de cortes em uma equipartição.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
@@ -43,6 +43,6 @@ Luciano, um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes i
 <WRAP resposta>
   - Cada amigo vai receber $\frac{8}{24}$ de panqueca.
   - $8 \times 24 = 192$ cortes.
-  - Sim: basta dividir cada panqueca $3$ partes iguais e dar uma parte ($\frac{1}{3}$ de panqueca para cada amigo. Para esta equipartição, são necessários $8 \times 3 = 24$ cortes apenas. Note que $\frac{1}{3} = \frac{8 \times 1}{8 \times 3} = \frac{8}{24}$.
+  - Sim! Como $\frac{8}{24} = \frac{8 \times 1}{8 \times 3} = \frac{1}{3}$, basta dividir cada panqueca $3$ partes iguais e dar uma parte ($\frac{1}{3}$ de panqueca para cada amigo. Para esta equipartição, são necessários $8 \times 3 = 24$ cortes apenas.
 </WRAP>
 </hidden>
