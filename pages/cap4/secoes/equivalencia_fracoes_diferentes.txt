@@ -5,7 +5,7 @@ Ir para [[cap4:texto#equivalencia_fracoes_diferentes]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes.
+  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes, incluindo a questão da recíproca da seguinte propriedade: "se existe número natural $n$ tal que $\frac{a}{b} = \frac{n \times c}{n \times d}$, então $\frac{a}{b} = \frac{c}{d}$". 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
