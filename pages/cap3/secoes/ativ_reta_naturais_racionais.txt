@@ -7,7 +7,7 @@ Objetivos específicos: Levar o aluno a
   * Revisar a construçção da reta numérica, associando quantidades inteiras aos números naturais. Em particular, objetiva-se que a unidade seja associada ao número 1.
   * Estender a representação de frações para a reta numérica a partir de modelos contínuos. 
   * Identificar a partir de comparação entre o modelos contínuo e a reta numérica, o segmento unitário à unidade identificada no modelo (No caso, uma pizza).
-  * Representar na reta numérica de quantidades não inteiras registradas por frações da unidade. 
+  * Representar na reta numérica quantidades não inteiras registradas por frações da unidade. 
    
   
 Recomendações e sugestões para o desenvolvimento da atividade:
