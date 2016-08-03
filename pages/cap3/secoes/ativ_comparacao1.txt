@@ -5,8 +5,8 @@ Ir para [[cap3:texto#ativ_comparacao1]]
 <hidden Para o professor>
 <WRAP professor>
 
-Objetivo específico: 
-   * Item de lista não ordenadaComparação de frações com o mesmo numerador.
+Objetivo específico:
+  * Comparar frações com o mesmo numerador.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
