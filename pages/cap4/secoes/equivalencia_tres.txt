@@ -11,6 +11,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Sugere-se que seja observado para os alunos que o procedimento descrito nesta atividade para ordenar três frações pode ser aplicado para um número arbitrário de frações.
   * Esta atividade foi concebida para ser resolvida usando a notação de fração, sem o uso do recurso de modelos de frações uma vez que, neste estágio, espera-se que o aluno já tenha o domínio desta técnica de manipulação aritmética.
+  * Observe que a ordenação poderia ser feita comparando-se duas frações por vez. A solução indicada reduz a ordenação à ordenação de números naturais (os numeradores das frações iguais às frações dadas e todas de mesmo denominador).
 
 Classificações
   * Heid et al.: Produto: gerar
