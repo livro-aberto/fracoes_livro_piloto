@@ -21,7 +21,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Na reta numérica a seguir estão destacados os pontos correspondentes ao 0, ao 1 e a $\frac{1}{2}$ e alguns outros pontos. Esses pontos correspondem às frações apresentadas a seguir. Associe cada fração ao ponto correspondente.  
+Na reta numérica a seguir estão destacados os pontos correspondentes ao 0, ao 1 e a $\frac{1}{2}$. Os demais pontos correspondem às frações apresentadas a seguir. Associe cada fração ao ponto correspondente.  
 
 <WRAP Imagem> FIGURAS GEOMÉTRICAS - Há figura na resposta também.
 Os pontos em destaque na reta numérica desta atividade têm que corresponder corretamente aas frações da unidade em destaque.
