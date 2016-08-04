@@ -6,8 +6,7 @@ Ir para [[cap3:texto#ativ_reta_numerada]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Comparação de frações com o mesmo numerador.
-  * Comparação de frações a partir de um referencial
+  * Comparação de frações com o mesmo numerador< com mesmo denominador, a partir de um referencial.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   - Recomenda-se que esta atividade seja realizada em duplas. No entanto, a discussão das resposta deve ser feita com toda a turma.
