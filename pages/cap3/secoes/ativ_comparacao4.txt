@@ -20,7 +20,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Na figura, há várias retas paralelas igualmente espaçadas e outra reta, destacada em vermelho, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em vermelho pontos também igualmente espaçados. Dois desses pontos correspondem ao 0 e ao 1, determinando uma reta numérica, como ilustra a figura. 
+Na figura, há várias retas paralelas igualmente espaçadas e outra reta, destacada em vermelho, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em vermelho pontos também igualmente espaçados. Dois desses pontos correspondem ao 0 e ao 1. A reta vermelha torna-se uma reta numérica, como ilustra a figura. 
 
   - Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
   - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.
