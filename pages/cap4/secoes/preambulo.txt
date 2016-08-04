@@ -106,7 +106,7 @@ Ir para [[cap4:texto#preambulo]]
 
 <hidden Para o professor>
 <WRAP professor>
-Nesta lição, serão estudados a igualdade de frações, a comparação de frações com denominadores distintos e a propriedade de densidade do conjunto das frações (números racionais não negativos). Tanto a comparação de frações arbitrárias e o estudo da propriedade de densidade terão como procedimento base a procura por representações equivalentes das frações dadas.
+Nesta lição, serão estudadas a igualdade de frações, a comparação de frações com denominadores distintos e a propriedade de densidade do conjunto das frações (números racionais não negativos). Tanto a comparação de frações arbitrárias e o estudo da propriedade de densidade terão como procedimento base a procura por representações equivalentes das frações dadas.
 
 No início da lição apresenta-se, como motivação, uma situação problema, em formato de história em quadrinho, que suscita a comparação de duas frações com denominadores diferentes. A solução deverá ser retomada apenas na seção //Organizando as ideias//, depois que forem realizadas as sete primeiras atividades.
 
