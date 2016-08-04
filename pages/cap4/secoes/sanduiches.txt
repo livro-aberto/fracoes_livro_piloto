@@ -12,8 +12,8 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Reforce para seus alunos que o Item (a) deve ser respondido com a partição apresentada, isto é, sem gerar novas partições.
-  * Observe que  item (b) pode ser respondido apenas pela fração $\frac{1}{2}$. No entando, é importante estimular os alunos a pereceberem que a metade do sanduíche pode ser obtida por $\frac{2}{4}$ do sanduíche. 
+  * Reforce para seus alunos que o Item (b) deve ser respondido com a partição apresentada, isto é, sem gerar novas partições.
+  * Observe que o Item (c) pode ser respondido apenas pela fração $\frac{1}{2}$. No entanto, é importante estimular os alunos a pereceberem que a metade do sanduíche pode ser obtida por $\frac{2}{4}$ do sanduíche. 
 
 Classificações:
   * Heid et al.: Conceito: identificar e descrever
@@ -22,20 +22,21 @@ Classificações:
 </WRAP>
 </hidden>
 
-A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiram o seu sanduiche:
-
+A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiram o seu sanduiche: 
 <WRAP imagem> FIGURA GEOMÉTRICA - incluir a itemização.
 
 {{:cap4:secoes:sanduiches.jpg?400|}}
 
 </WRAP>
 
-  - Em quais delas é possível comer metade do sanduíche apenas com as partes da repartição feita? Justifique sua resposta!
-  - Expresse, por meio de frações, a metade do sanduíche para cada uma das repartições que você escolheu no Item (a).
+  - Nessas repartições, que fração do sanduíche pode representar cada uma das partes em que o sanduíche foi repartido?
+  - Em quais dessas repartições é possível comer metade do sanduíche apenas com as partes em que o sanduíche foi repartido? Justifique sua resposta!
+  - Para cada uma das repartições que você deu como resposta no Item (b), expresse, por meio de frações, a metade do sanduíche.
 
 
 <hidden Resposta>
 <WRAP resposta>
+  - Em (A): $\frac{1}{2}$. Em (B): $\frac{1}{3}$. Em (C): $\frac{1}{4}$. Em (D): $\frac{1}{4}$.
   - É possível comer metade do sanduíche apenas nas repartições (A), (C) e (D) pois, para elas, a quantidade de partes iguais em que o sanduíche foi dividido é um número par.
   - Em (A): $\frac{1}{2}$. Em (C): $\frac{2}{4}$. Em (D): $\frac{2}{4}$.
 </WRAP>
