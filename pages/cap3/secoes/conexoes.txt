@@ -86,7 +86,7 @@ Na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao n
 
 </WRAP>
 
-$\frac{4}{3}$ é maior do que $\frac{4}{5}$
+$\frac{4}{3}$ é maior do que $\frac{4}{5}$. Também dizemos que $\frac{4}{5}$ é menor do que $\frac{4}{3}$.
 
 
 O símbolo é usado $<$ para dizer "menor do que".
