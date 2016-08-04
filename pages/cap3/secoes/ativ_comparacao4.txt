@@ -11,7 +11,7 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Observe que a reta numérica não é apresentada da forma mais tradicioal, paralela a uma das margens da página e na direção comunmente chamada de horizontal. O objetivo é ampliar e variar o contato com esse modelo de representação. 
+  * Observe que a reta numérica não é apresentada da forma mais tradicioal, paralela a uma das margens da página e na direção comumente chamada de horizontal. O objetivo é ampliar e variar o contato com esse modelo de representação. 
   * Além disso, os pontos que identificam frações da unidade (no caso, décimos) também são determinados de uma forma não tradicional. A divisão é estabelecida a partir de um feixe de retas paralelas igualmente espaçadas  e transversal a reta numérica em destaque. 
   * Os dois primeiros itens desta atividade são bastante simples, apesar da representação não tradicional. 
   * O teceiro item desta atividade objetiva que o aluno identifique os pontos correspondentes ao 0 e ao 1, que determinam o segmento unitário na reta numérica, a partir dos pontos correspondenres às frações $\frac{1}{2}$ e $\frac{3}{2}$.  
