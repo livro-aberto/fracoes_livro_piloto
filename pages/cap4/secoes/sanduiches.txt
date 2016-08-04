@@ -40,3 +40,9 @@ A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma
 </WRAP>
 </hidden>
 
+*/
+A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiram o seu sanduiche:
+(a) Nessas repartições, que fração do sanduíche pode representar cada uma das partes em que o sanduíche foi repartido?
+(b) Em quais dessas repartições é possível comer metade do sanduíche apenas com as partes em que o sanduíche foi repartido? Justifique sua resposta!
+(c) Para cada uma das repartições que você deu como resposta no item (a) , expresse, por meio de frações, a metade do sanduíche.
+/*
