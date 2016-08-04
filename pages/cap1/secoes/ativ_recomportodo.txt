@@ -20,18 +20,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras das linhas devem ser feitas individualmente. Observe que há figuras no "Para o professor" e na "Resposta".
 </WRAP>
-  - A figura {{:undefined:completar-o-todo-disco.jpg?30}} é metade de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-disco.jpg?30}} é um terço de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-disco.jpg?30}} é um quarto de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-quadrado.jpg?30}} é metade de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-quadrado.jpg?30}} é um terço de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-quadrado.jpg?30}} é um quarto de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-segmento.jpg?30}} é metade de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-segmento.jpg?30}} é um terço de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-segmento.jpg?30}} é um quarto de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-triangulo.jpg?40}} é metade de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-triangulo.jpg?40}} é um terço de uma unidade. Complete a figura para obter a unidade.
-  - A figura {{:undefined:completar-o-todo-triangulo.jpg?40}} é um quarto de uma unidade. Complete a figura para obter a unidade.
+Na tabela a seguir, a coluna à esquerda exibe figuras que são frações de uma unidade, frações estas indicadas na coluna do meio na mesma linha. Na coluna à direita, faça um desenho da unidade correspondente completando a figura na coluna à esquerda na mesma linha.
+
+|  Parte da unidade  |  Fração da unidade  |  Unidade  |
+|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  metade  | |
+|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um terço  | |
+|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um quarto  | |
+|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  metade  | |
+|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um terço  | |
+|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um quarto  | |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  metade  | |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um terço  | |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um quarto  | |
+|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  metade  | |
+|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um terço  | |
+|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um quarto  | |
 
 <hidden Resposta>
 <WRAP resposta>
