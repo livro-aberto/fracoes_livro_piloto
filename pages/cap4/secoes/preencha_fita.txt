@@ -26,7 +26,7 @@ FOLHA DE REPRODUÇÃO
 </WRAP>
 </hidden>
 
-O objetivo desta atividade é estudar a fração do retângulo que está pintado de cinza no encarte que você recebeu. 
+O objetivo desta atividade é estudar a fração do retângulo que está pintada de cinza no encarte que você recebeu. 
 
 <WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela. Atenção: Há figuras no "Para o professor" e na "Resposta".
 
