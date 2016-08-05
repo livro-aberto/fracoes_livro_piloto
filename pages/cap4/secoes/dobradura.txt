@@ -28,7 +28,7 @@ FOLHA DE REPRODUÇÃO
 
 </hidden>
 
-Junte-se a seus colegas e dobrem o retângulo da página de reprodução como indicado na coluna mais a esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela. Lembre-se: as dobraduras devem ser feitas perpendicularmente às várias linhas desenhadas no retângulo da página de reprodução.
+Junte-se a seus colegas e dobrem o retângulo da página de reprodução como indicado na coluna mais à esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela. Lembre-se: as dobraduras devem ser feitas perpendicularmente às várias linhas desenhadas no retângulo da página de reprodução.
 <WRAP imagem> FIGURA GEOMÉTRICA - as divisões e a parte pintada de amarelo do encarte devem aparecer! Também há figuras em Resposta. </WRAP>
 | Como dobrar                                                                                                        | Quantidade de retângulos pintados  | Quantidade total de retângulos  | Fração do retângulo do encarte que está pintada  |
 | {{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}}                                                            | 3                                  | 10                              | $\frac{3}{10}$                                   |
