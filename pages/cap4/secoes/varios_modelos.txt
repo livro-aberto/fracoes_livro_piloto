@@ -5,7 +5,7 @@ Ir para [[cap4:texto#varios_modelos]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Determinar uma fração igual a uma dada fração com denominador especificado a partir da observação das representações destas frações em diversos modelos de frações.
+  * Determinar uma fração igual a uma dada fração com denominador especificado a partir da observação das representações destas frações em diversos modelos de frações, incluindo a reta numérica.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 alunos (cada aluno do grupo poderá usar um modelo diferente para obter a fração solicitada).
