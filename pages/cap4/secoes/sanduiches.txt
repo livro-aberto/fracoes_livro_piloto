@@ -22,7 +22,7 @@ Classificações:
 </WRAP>
 </hidden>
 
-A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou e repartiu um sanduíche. Veja como alguns dos colegas repartiram o seu sanduiche: 
+A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma preparar sanduíches. Cada colega preparou um sanduíche e partiu-o em partes iguais. Veja como alguns dos colegas repartiram o seu sanduiche: 
 <WRAP imagem> FIGURA GEOMÉTRICA - incluir a itemização.
 
 {{:cap4:secoes:sanduiches.jpg?400|}}
