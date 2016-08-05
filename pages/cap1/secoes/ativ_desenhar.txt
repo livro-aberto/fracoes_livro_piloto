@@ -23,8 +23,16 @@ Já as representações a seguir sugerem que os alunos precisam revisar os conce
   * A representação da unidade se dá de forma genérica por um quadrado. 
   * Espera-se que os alunos reconheçam que para obter um quarto da unidade basta tomar a metade da metade. E que, para determinar um oitavo pode dividir um quarto ao meio.
   * Recomende que os alunos usem dobradura para identificar as frações pedidas. Assim, por exemplo, a fração $\frac{1}{4}$ pode ser obtida por duas dobras do papel.    
-  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
   * Discuta com os estudantes que quanto maior o número de partes iguais em que se particiona o quadrado, menor fica cada uma das partes.
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
+  * As diferentes soluções apresentadas pelos alunos podem enriquecer a discussão. Por exemplo, a comparação  tome uma metade proveniente da dobradura pela diagonal, um quarto proveniente da dobradura proveniente de “+” e um oitavo proveniente por dobraduras do tipo “-” (fatiamentos horizontais). O objetivo da atividade é que os alunos, reconhecendo como iguais em quantidade, percebam que é possível substituir a metade, o quarto e/ou o oitavo por outra metade, quarto e/ou oitavo, respectivamente, mais convenientes, e assim justificar a resposta à pergunta do professor ainda com dobraduras 
+
+
+  * Como parte da discussão desta atividade, a partir da avaliação do professor,  
+  * Observe que a partir de várias representações de metades, quartas partes ou de oitavos, e reconhecendos como iguais em quantidade, decide-se por usar as mais convenientes para justificar a resposta ao último item
+  * Avalie se, na sua turma, cabe a seguinte atividade como desdobramento desta: depois que cada aluno tenha respondido “a metade do quadrado” a partir de suas próprias dobraduras, o professor toma metade, quarto e oitavo provenientes de dobraduras diferentes e repita a pergunta ao grupo. Por exemplo, tome uma metade proveniente da dobradura pela diagonal, um quarto proveniente da dobradura proveniente de “+” e um oitavo proveniente por dobraduras do tipo “-” (fatiamentos horizontais). O objetivo da atividade é que os alunos, reconhecendo como iguais em quantidade, percebam que é possível substituir a metade, o quarto e/ou o oitavo por outra metade, quarto e/ou oitavo, respectivamente, mais convenientes, e assim justificar a resposta à pergunta do professor ainda com dobraduras.
+
+
 </WRAP>
 </hidden>
 <WRAP imagem> FIGURAS GEOMÉTRICAS - Observe que há figuras no "Para o professor" e na "Resposta". IMPORTANTE: Substituir as figuras do para o professor por figuras pintadas como as da foto. A linha incerta no "Para o professor" serve para ilustrar que não tem problema se o estudante fizer a figura a mão.
