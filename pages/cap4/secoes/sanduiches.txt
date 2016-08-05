@@ -13,7 +13,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Reforce para seus alunos que o Item (b) deve ser respondido com a partição apresentada, isto é, sem gerar novas partições.
-  * Observe que o Item (c) pode ser respondido apenas pela fração $\frac{1}{2}$. No entanto, é importante estimular os alunos a pereceberem que a metade do sanduíche pode ser obtida por $\frac{2}{4}$ do sanduíche. 
+  * Observe que o Item (c ) pode ser respondido apenas pela fração $\frac{1}{2}$. No entanto, é importante estimular os alunos a pereceberem que a metade do sanduíche pode ser obtida por $\frac{2}{4}$ do sanduíche. 
 
 Classificações:
   * Heid et al.: Conceito: identificar e descrever
