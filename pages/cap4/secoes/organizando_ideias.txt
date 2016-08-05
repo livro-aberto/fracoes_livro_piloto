@@ -4,9 +4,9 @@ Ir para [[cap4:texto#organizando_ideias]]
 
 Olá! É chegada a hora de ajudar Miguel e Alice, nossos amigos da história em quadrinhos do início da lição, a compararem as frações $\frac{1}{3}$ e $\frac{8}{25}$.
 
-Ora, na lição anterior você aprendeu a comparar frações com o mesmo denominador. Neste caso, como os denominadores eram iguais, você precisou comparar apenas os numeradores da fração. 
+Ora, na lição anterior você aprendeu a comparar frações com o mesmo denominador. Neste caso, como os denominadores eram iguais, você precisou comparar apenas os numeradores da fração. Você também aprendeu a comparar frações com o com mesmo numerador. Neste caso, como os numeradores eram iguais, você precisou comparar apenas os denominadores da fração.
 
-Mas, Miguel e Alice querem comparar duas frações com denominadores diferentes. Alguma sugestão? Não?!
+Mas Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
 
 Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para encontrar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ mas que possuem o mesmo denominador. 
 
