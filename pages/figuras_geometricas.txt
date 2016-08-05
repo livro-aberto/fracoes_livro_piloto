@@ -56,14 +56,25 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 | Atividade [[cap2:secoes:atividade_tres_setimos_ou_tres_quartos]]   | [[figuras:cap2:secoes:atividade_tres_setimos_ou_tres_quartos|link]]   | Eduardo Filipe de Miranda Souto                                                                         | aprovado  |
 | Atividade [[cap2:secoes:atividade_tres_quintos_ou_cinco_tercos]]   | [[figuras:cap2:secoes:atividade_tres_quintos_ou_cinco_tercos|link]]   | Eduardo Filipe de Miranda Souto                                                                         | aprovado  |
 
-Na tabela abaixo, por favor, coloque seu nome em apenas uma das figuras até que o código da mesma seja postado no local correspondente. Isso vai favorecer que mais pessoas possam colaborar.
+Nas tabelas abaixo, por favor, coloque seu nome em apenas uma das figuras até que o código da mesma seja postado no local correspondente. Isso vai favorecer que mais pessoas possam colaborar.
+
+^ [[cap3:texto|Lição 3]] - Prazo: 3 dias após por o nome  ^ link      ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status   ^
+| [[cap3:secoes:preambulo|Preâmbulo da lição]]   | [[figuras:cap3:secoes:preambulo|link]]    |     |    |
+| Atividade [[cap3:texto#ativ_reta_naturais_racionais]]      | [[figuras:cap3:secoes:ativ_reta_naturais_racionais|link]]      |        |     |
+| Atividade [[cap3:texto#ativ_grad_unidade6]]                  | [[figuras:cap3:secoes:ativ_grad_unidade6|link]]                |        |     |
+| Atividade [[cap3:texto#ativ_reta1_unidade6]]  | [[figuras:cap3:secoes:ativ_reta1_unidade6|link]]     |        |     |
+| Atividade [[cap3:texto#ativ_grad_unidade2]]      | [[figuras:cap3:secoes:ativ_grad_unidade2|link]]      |  |     |
+| Atividade [[cap3:texto#ativ_grad_unidade]]                  | [[figuras:cap3:secoes:ativ_grad_unidade|link]]                |        |     |
+| Falta incluir [[cap3:texto#]]                  | [[figuras:cap3:secoes:|link]]                |        |     |
+| Falta incluir [[cap3:texto#]]                  | [[figuras:cap3:secoes:|link]]                |        |     |
+
 
 ^ [[cap4:texto|Lição 4]] - Prazo: 02/08/2016          ^ link                                                 ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status   ^
 | Atividade [[cap4:secoes:sanduiches]]                | [[figuras:cap4:secoes:sanduiches|link]]              | Caio Felipe da Silva Evangelista                                                                                           | postado  |
 | Atividade [[cap4:secoes:preencha]]                  | [[figuras:cap4:secoes:preencha|link]]                | Lucas Hideo Maekawa                                                                                                        | postado  |
 | Atividade [[cap4:secoes:preencha_fita]]             | [[figuras:cap4:secoes:preencha_fita|link]]           | Lucas Oliveira Machado de Sousa                                                                                            | postado  |
 | Atividade [[cap4:secoes:dobradura]]                 | [[figuras:cap4:secoes:dobradura|link]]               |                                                                                                   |          |
-| Atividade [[cap4:secoes:divisao_escondida]]         | [[figuras:cap4:secoes:divisao_escondida|link]]       | Gimair Augusto Lemos Reis                                                                                                  |          |
+| Atividade [[cap4:secoes:divisao_escondida]]         | [[figuras:cap4:secoes:divisao_escondida|link]]       |                                                                                                   |          |
 | Atividade [[cap4:secoes:reta_numerica]]             | [[figuras:cap4:secoes:reta_numerica|link]]           | Kayky Zigart Carlos                                                                                                        | postado  |
 | Atividade [[cap4:secoes:varios_modelos]]            | [[figuras:cap4:secoes:varios_modelos|link]]          | Briza Aiki Matsumura                                                                                                       | postado  |
 | Atividade [[cap4:secoes:equivalencia_pint]]         | [[figuras:cap4:secoes:equivalencia_pint|link]]       | Kayky Zigart Carlos                                                                                                        | postado  |
