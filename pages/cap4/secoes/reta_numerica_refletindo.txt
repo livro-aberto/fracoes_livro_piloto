@@ -4,7 +4,7 @@ Ir para [[cap4:texto#reta_numerica_refletindo]]
 
 <WRAP refletindo>
 
-Na Atividade 6, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de formas diferentes.
+Na Atividade 7, foram apresentadas quatro figuras que mostravam os três primeiros intervalos da reta numérica subdivididos em partes iguais, mas de formas diferentes.
 
 Na primeira figura, cada intervalo unitário da reta foi subdividido em três partes iguais. Para representar o ponto azul na reta numérica da primeira figura, você considerou quatro cópias justapostas do subintervalo medindo $\frac{1}{3}$ a partir da origem. 
 Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
