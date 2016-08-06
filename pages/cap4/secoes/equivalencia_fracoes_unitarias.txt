@@ -27,7 +27,7 @@ $\frac{4}{20}$, $\frac{21}{7}$, $\frac{4}{30}$, $\frac{6}{18}$.
 
 (B) Uma fração com numerador maior do que o denominador pode ser igual a uma fração unitária? Justifique sua resposta!
 
-(C) Existe uma fração de denominador ímpar que seja igual a fração unitária $\frac{1}{2}$? Justifique sua resposta! 
+(C) Existe uma fração de denominador ímpar que seja igual aa fração unitária $\frac{1}{2}$? Justifique sua resposta! 
 
 <hidden Resposta>
 <WRAP resposta>
