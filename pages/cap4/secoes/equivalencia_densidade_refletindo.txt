@@ -4,9 +4,10 @@ Ir para [[cap4:texto#equivalencia_densidade_refletindo]]
 
 <WRAP refletindo>
 
-Nas atividades 23 e 24 você estudou uma propriedade importante do conjunto das frações: a densidade.
+Nas atividades 23 e 24 você estudou uma propriedade importante do conjunto das frações:
 
-Isto é, dadas duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes (suponha $\frac{a}{b}<\frac{c}{d}$), sempre é possível determinar uma terceira fração $\frac{p}{q}$ tal que $\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$.
+dadas quaisquer duas frações que representam diferentes quantidades, sempre é possível encontrar uma  fração entre elas. 
+
 
 Ora, se sempre é possível, como se pode então determinar uma terceira fração entre as frações dadas? Para explicar melhor o procedimento, veja primeiro um exemplo.
 
