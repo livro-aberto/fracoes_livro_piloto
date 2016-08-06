@@ -31,7 +31,7 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua 
 
 <hidden Resposta>
 <WRAP resposta>
-(A) A sentença é falsa, pois as frações $\frac{1}{2}$ e $\frac{3}{6}$ têm numeradores e denominadores diferentes, mas elas são iguais uma vez que $\frac{1}{2} = \frac{3 \times 1}{3 \times 2} = \frac{3}{6}$.
+(A) A sentença é falsa. Por exemplo, as frações $\frac{1}{2}$ e $\frac{3}{6}$ têm numeradores e denominadores diferentes, mas elas são iguais, uma vez que $\frac{1}{2} = \frac{3 \times 1}{3 \times 2} = \frac{3}{6}$.
 
 (B) A sentença é verdadeira: se duas frações têm denominadores iguais, é maior a fração que tem o maior numerador e, em particular, elas são diferentes. De fato: lembrando que o denominador de fração especifica o número de partes em que a unidade foi dividida e o numerador especifica quantas cópias desta parte foram tomadas, para um mesmo denominador, quanto maior o numerador, mais cópias são tomadas e, portanto, maior é a quantidade representada pela fração.
 
