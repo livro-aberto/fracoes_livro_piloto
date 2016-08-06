@@ -9,7 +9,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Um pré-requisito desta atividade é o conceito de máximo divisor comum. Assim, avalie a necessidade de uma revisão deste conceito com seus alunos.
+  * Um pré-requisito desta atividade é o conceito de máximo divisor comum. Assim, avalie a necessidade de uma revisão deste conceito com seus alunos. Os alunos devem perceber que se dois números são divididos pelo maior divior comum entre eles, os dois novos números obtidos são agora primos entre si, isto é, o máximo divisor comum entre eles é 1. Este fato vai apoiar o "assim" das respostas. 
   * A discussão desta atividade pode incluir o uso de materiais concretos na linha da proposta da [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto#equivalencia_panquecas|Atividade 16]], isto é, relacionar  frações equivalentes com a minimização de cortes em uma equipartição.
 
 Classificações
