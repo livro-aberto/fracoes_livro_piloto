@@ -27,7 +27,7 @@ $\frac{4}{20}$, $\frac{21}{7}$, $\frac{4}{30}$, $\frac{6}{18}$.
 
 (B) Uma fração com numerador maior do que o denominador pode ser igual a uma fração unitária? Justifique sua resposta!
 
-(C) Existe uma fração de denominador ímpar que seja igual aa fração unitária $\frac{1}{2}$? Justifique sua resposta! 
+(C) Existe uma fração de denominador ímpar que seja igual à fração unitária $\frac{1}{2}$? Justifique sua resposta! 
 
 <hidden Resposta>
 <WRAP resposta>
@@ -35,6 +35,6 @@ $\frac{4}{20}$, $\frac{21}{7}$, $\frac{4}{30}$, $\frac{6}{18}$.
 
 (B) Não, pois frações unitárias são sempre menores ou iguais a 1, enquanto que uma fração com numerador maior do que o denominador é sempre maior do que 1.
 
-(C) Não, pois pelo Item (b) da [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto#equivalencia_multiplicar_cruzado|Atividade 19]], se existisse uma fração com denominador ímpar que fosse igual a fração $\frac{1}{2}$, então o numerador da fração dada multiplicado por $2$, um número par, teria que igual ao denominador da fração dada, um número ímpar, o que não é possível. 
+(C) Não, pois pelo Item (b) da [[https://www.umlivroaberto.com/livro/doku.php?id=cap4:texto#equivalencia_multiplicar_cruzado|Atividade 19]], se existisse uma fração com denominador ímpar que fosse igual à fração $\frac{1}{2}$, então o numerador da fração dada multiplicado por $2$, um número par, teria que ser igual ao denominador da fração dada multiplicado por 1, o que dá um número ímpar. Portanto, um número par teria que ser igual a um número ímpar, o que não é possível. 
 </WRAP>
 </hidden>
