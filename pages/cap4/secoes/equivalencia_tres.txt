@@ -24,7 +24,7 @@ O objetivo desta atividade é determinar qual é a maior e qual é a menor fraç
 as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
   - Determine três frações de mesmo denominador que sejam iguais às frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
-  - Usando as frações do Item (A), determine qual é a maior e qual é a menor fração entre as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+  - Usando as frações do Item (a), determine qual é a maior e qual é a menor fração entre as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
 <hidden Resposta>
 <WRAP resposta>
