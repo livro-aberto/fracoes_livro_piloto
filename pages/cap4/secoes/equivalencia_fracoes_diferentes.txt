@@ -37,7 +37,7 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua 
 
 (C) A sentença é verdadeira: se duas frações têm numeradores iguais, é maior a fração que tem o menor denominador e, em particular, elas são diferentes. De fato: considerando que o numerador especifica o número de cópias da unidade que está sendo dividida por um número de pessoas, número este especificado pelo denominador da fração, para um mesmo numerador, quanto menor o denominador, maior a porção que cada pessoa vai receber, quantidade esta representada pela fração, pois o mesmo número de cópias da unidade está sendo divivido por um número menor de pessoas.
 
-(D) A sentença é falsa: $\frac{2}{4}$ e $\frac{3}{6}$ são frações iguais, pois $\frac{2}{4}
- $ é igual a $\frac{1}{2}$ e $\frac{3}{6}$ também é igual a $\frac{1}{2}$, mas não existe um número natural que multiplicado por $2$ dê $3$ como não existe número natural que multiplicado por $3$ dê $2$.
+(D) A sentença é falsa. Por exemplo, $\frac{2}{4}$ e $\frac{3}{6}$ são frações iguais, pois $\frac{2}{4}
+ $ é igual a $\frac{1}{2}$ e $\frac{3}{6}$ também é igual a $\frac{1}{2}$, mas não existe um número natural que multiplicado por $2$ dê igual a $3$, bem como não existe número natural que multiplicado por $3$ dê $2$.
 </WRAP>
 </hidden>
