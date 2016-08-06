@@ -42,6 +42,10 @@ Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, respo
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+a) O recipiente 2 tem maior capacidade, porque lá cabem 40 copos de água, enquanto que no recipiente 1 cabem apenas 26 copos.
+
+b) A capacidade dos dois recipientes juntos é de 40 + 26 = 66 copos
+
+c)  Como a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 17 copos, deve-se retirar 17 copos do Recipiente 2. 
 </WRAP>
 </hidden>
