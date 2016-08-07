@@ -57,7 +57,7 @@
 ===== MÃO NA MASSA =====
 
 {{anchor:ativ_varal_dos_numeros}}
-==== - Atividade ====
+==== Atividade - ====
 {{page>cap3:secoes:ativ_varal_dos_numeros}}
 
 {{anchor:ativ_fracoes_na_reta}}
