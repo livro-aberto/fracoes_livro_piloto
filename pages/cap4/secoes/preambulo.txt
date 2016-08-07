@@ -112,7 +112,7 @@ No início da lição apresenta-se, como motivação, uma situação problema, e
 
 As sete primeiras atividades abordam basicamente a igualdade de frações. Todas elas encontram-se organizadas em ordem crescente de dificuldade, obedecendo também uma hierarquia de habilidades cognitivas necessárias para a sua compreensão.  Na [[cap4:secoes:sanduiches|atividade 1]], por exemplo, explora-se o reconhecimento da igualdade das frações 1/2  e 2/4, caso bastante simples, utilizando-se representações equivalentes em modelos de área retangulares. Nas atividades [[cap4:secoes:preencha|5]] e [[cap4:secoes:preencha_fita|atividade 6]], incentiva-se a construção de representações equivalentes de frações,  por meio da justaposição de figuras geométricas obtidas pela subdivisão das figuras originais dadas. 
 
-A [[cap4:secoes:preencha|atividade 5]] trabalha com modelos de áreas circulares, enquanto a [[cap4:secoes:preencha_fita|atividade 6]], com modelos retangulares de áreas. 
+A [[cap4:secoes:preencha|atividade 5]] trabalha com modelos de áreas circulares, enquanto a [[cap4:secoes:preencha_fita|atividade 6]], com modelos de áreas retangulares. 
 
 Na [[cap4:secoes:reta_numerica|atividade 7]] explora-se a representação de uma fração e suas representações equivalentes na reta numérica, por subdivisão dos intervalos unitários em 3, 6, 9 e 12 partes iguais.  Já na [[cap4:secoes:varios_modelos|atividade 8]], explora-se a representação de uma fração igual a outra fração dada, mas com denominador diferente, na reta numérica e a partir de  modelos de áreas circulares e retangulares. 
 
