@@ -25,7 +25,11 @@ Alice: Sim, aqui está:
 
 Miguel: Parecem iguais na figura!
 
-Alice: Será que são iguais?
+Alice: Será que são iguais? E se compararmos usando retângulos?
+
+{{ :cap4:secoes:fracoes-unitarias-no-retangulo-comparacao.jpg?300 |}}
+
+Miguel: Também parecem iguais! O que fazer?
  
 **Quadrinho 4**
 
