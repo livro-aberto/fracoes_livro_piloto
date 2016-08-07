@@ -87,6 +87,6 @@ c) Como cada pedaço da fita vermelha corresponde a um terço da mesma e cada pe
 
 dois pedaços vermelhos + três pedaços amarelos = $\frac{2}{3}$ + $\frac{3}{4}$ = $\frac{8}{12}$ + $\frac{9}{12}$ = $\frac{17}{12}$ e $\frac{17}{12}$ > $\frac{12}{12}$ = 1. Logo, a fita vermelha e amarela á maior do que as fitas originais (que servem de unidade). A fita vermelha e amarela corresponde a $\frac{17}{12}$ da fita original.  
 
-d) $\frac{17}{12}$-$\frac{12}{12}$ = $\frac(5}{12}$. Adiferença entre as fitas vermelha e amarela e a priginal é de  $\frac(5}{12}$.
+d) $\frac{17}{12}$-$\frac{12}{12}$ = $\frac{5}{12}$. Adiferença entre as fitas vermelha e amarela e a priginal é de  $\frac{5}{12}$.
 </WRAP>
 </hidden>
