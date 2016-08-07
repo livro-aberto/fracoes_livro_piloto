@@ -8,9 +8,9 @@ Ora, na lição anterior você aprendeu a comparar frações com o mesmo denomin
 
 Mas Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
 
-Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para encontrar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ mas que possuem o mesmo denominador. 
+Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para determinar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ que possuem o mesmo denominador. 
 
-Deste modo transforma-se um "novo problema" em um "velho problema": o de comparar frações com o mesmo denominador.
+Deste modo, transforma-se um "novo problema" em um "velho problema": o de comparar frações com o mesmo denominador.
 
 Usando o que você aprendeu com as atividades anteriores, pode-se, por exemplo, construir as seguintes igualdades:  
 
