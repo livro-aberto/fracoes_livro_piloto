@@ -84,6 +84,6 @@ b) Um pedaço vermelho + um pedaço azul = $\frac{1}{3}$ + $\frac{1}{2}$, que é
 
 c) Como cada pedaço da fita vermelha corresponde a um terço da mesma e cada pedaço da fita amarela corresponde a um quarto da mesma, tem-se 
 
-dois pedaços vermelhos + três pedaços amarelos = $\frac{2}{3}$ + $\frac{3}{4}$ = $\frac{8}{12}$ + $\frac{9}{12}$ = $\frac{17}{12}$ e $\frac{17}{12}$ > $\frac{12}{12}$ = 1. Logo, a fita amarela e   
+dois pedaços vermelhos + três pedaços amarelos = $\frac{2}{3}$ + $\frac{3}{4}$ = $\frac{8}{12}$ + $\frac{9}{12}$ = $\frac{17}{12}$ e $\frac{17}{12}$ > $\frac{12}{12}$ = 1. Logo, a fita vermelha e amarela á maior do que as fitas originais (que servem de unidade).   
 </WRAP>
 </hidden>
