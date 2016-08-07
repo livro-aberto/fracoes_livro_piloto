@@ -31,6 +31,10 @@ Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel 
 
 <hidden Resposta>
 <WRAP resposta>
-Falta a resposta.
+a) $$\frac{1}{2} = \frac{8}{16}$$
+
+b) Alice e Miguel comeram juntos 11 pedaços. Como cada pedaço corresponde a  $\frac{1}{16}$ da barra, tem-se que Alice e Miguel comeram juntos $\frac{11}{16}$ da barra.
+
+c) Como a barra corresponde à unidade, a parte não comida é calculada pela diferença 1 - $\frac{11}{16}$ = $\frac{16}{16}$ - $\frac{11}{16}$ = $\frac{5}{16}$. Outra maneira é dizer que não foram comidos 5 pedaços, e como cada pedaço corresponde a $\frac{1}{16}$ da barra, tem-se que $\frac{5}{16}$ da barra não foram comidos.
 </WRAP>
 </hidden>
