@@ -5,7 +5,7 @@ Ir para [[cap4:texto#preencha_fita]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais a partir da observação das representações destas frações em modelos retangulares de área. 
+  * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais a partir da observação das representações destas frações em modelos de área retangulares. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
