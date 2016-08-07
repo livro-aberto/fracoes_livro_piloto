@@ -18,7 +18,7 @@ Classificações
 </WRAP>
 </hidden>
 
-Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}$ (isto é, maiores de que $\frac{3}{5}$ e menores do que $\frac{4}{5}$) porque $3 < 4$ e não existe número natural entre $3$ e $4$. Fabrício cotinua: "Pelo mesmo motivo, não existem frações entre $\frac{11}{10}$ e $\frac{12}{10}$ e entre $\frac{19}{20}$ e $\frac{20}{20}$!". Você concorda com as afirmações e argumentos de Fabrício? Se você acha que Fabrício está errado, encontre:
+Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}$ (isto é, maiores de que $\frac{3}{5}$ e menores do que $\frac{4}{5}$) porque $3 < 4$ e não existe número natural entre $3$ e $4$. Fabrício cotinua: "Pelo mesmo motivo, não existem frações entre $\frac{11}{10}$ e $\frac{12}{10}$ e entre $\frac{19}{20}$ e $\frac{20}{20}$!". Você concorda com as afirmações e argumentos de Fabrício? Se você acha que Fabrício está errado, determine:
 
 (A) uma fração entre $\frac{3}{5}$ e $\frac{4}{5}$;
 
