@@ -71,7 +71,7 @@ Depois de jogar algumas vezes responda às questões a seguir.
 
 10º) 3 e 6?
                            
-(B)  Em 5 jogadas o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. O segundo em 5 jogadas deu 47 passos. Nesse momento, qual deles está a frente? 
+(B)  Em 5 rodadas consecutivas, o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. Já o segundo jogador, nessas 5 rodadas, deu ao todo 47 passos. Ao final dessas rodadas, qual deles está a frente? 
 
 <hidden Resposta>
 <WRAP resposta>
