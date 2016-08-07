@@ -1,4 +1,4 @@
-====== LIÇÃO 3 - Uma fração do número 1 é um número ======
+====== LIÇÃO 3 - Frações e a reta numérica ======
 ;;#
 Ir para [[cap3:texto#preambulo]]
 ;;#
