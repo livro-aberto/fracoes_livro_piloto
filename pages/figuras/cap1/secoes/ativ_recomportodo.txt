@@ -1,4 +1,4 @@
-Solução editada pela organização.
+Figuras parcialmente modificadas pela organização. Os créditos são do autor original.
 
 <code>
 \documentclass{standalone}
