@@ -48,11 +48,11 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
 
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
   - Considerando-se uma torta, como você nomearia, usando frações, a quantidade de torta que: 
-        - Amarildo recebeu? 
-        - Amarildo e Beto receberam juntos? 
-        - Amarildo, Beto e Carlos receberam juntos? 
-        - Amarildo, Beto, Carlos e Davi receberam juntos?
-        - Amarildo, Beto, Carlos, Davi e Edilson receberam juntos?
+    - Amarildo recebeu? 
+    - Amarildo e Beto receberam juntos? 
+    - Amarildo, Beto e Carlos receberam juntos? 
+    - Amarildo, Beto, Carlos e Davi receberam juntos?
+    - Amarildo, Beto, Carlos, Davi e Edilson receberam juntos?
   - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? E do que dois quintos de torta? Explique sua resposta.
   - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
 
