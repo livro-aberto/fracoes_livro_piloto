@@ -19,7 +19,7 @@ Na segunda figura, cada uma das subdivisões da unidade foram divididas em duas 
 </WRAP>
 
 Isto é,
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{2 \times 4}{2 \times 3},$$.
+$$\dfrac{4}{3} = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6} ,$$.
 
 Na terceira figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em três partes iguais. Assim, cada unidade fica subdividida em nove partes iguais, ou seja, em nonos. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial) cópias de $\frac{1}{96}$. Portanto, o ponto azul representa também a fração $\frac{12}{9}$.
 
@@ -28,7 +28,7 @@ Na terceira figura, cada uma das três subdivisões da unidade apresentadas na p
 </WRAP>
 
 Isto é, 
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{3 \times 4}{3 \times 3},$$.
+$$\dfrac{4}{3} = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9},$$.
 
 Na quarta figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em quatro partes iguais.
 
@@ -36,14 +36,18 @@ Na quarta figura, cada uma das três subdivisões da unidade apresentadas na pri
 {{ :cap4:secoes:w_12.png?600 |}}
 </WRAP>
 
-Assi, como nos casos anteriores, conclui-se que o ponto azul representa a fração $\frac{16}{12}$:
+Assim, como nos casos anteriores, conclui-se que o ponto azul representa a fração $\frac{16}{12}$:
 
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12} = \dfrac{4 \times 4}{4 \times 3},$$.
+$$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12} ,$$.
 
-Assim, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
+Portano, o ponto azul representa qualquer uma das frações iguais
+
+$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}$$.
+
+Mais geralmente, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
 $$\dfrac{4}{3} = \dfrac{m \times 4}{m \times 3}.$$
 
-De modo geral, dada uma fração $\frac{n}{d}$, pode-se representá-la de forma equivalente, subdividindo cada subintervalo de comprimento $\frac{1}{d}$ em $m$ partes iguais. 
+Esse raciocínio vale para qualquer fração. Ou seja, dada uma fração $\frac{n}{d}$, pode-se representá-la de forma equivalente, subdividindo cada subintervalo de comprimento $\frac{1}{d}$ em $m$ partes iguais. 
 
 Neste caso serão necessárias ($m \times n$) cópias de subintervalos de comprimento $\frac{1}{m \times d}$, isto é:
 
@@ -74,7 +78,7 @@ Na segunda figura, cada subintervalo da reta medindo $\frac{1}{3}$ foi dividido 
 </WRAP>
 
 Isto é,
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{2 \times 4}{2 \times 3},$$
+$$\dfrac{4}{3}  = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6},$$
 
 onde o número **dois** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
 
@@ -86,7 +90,7 @@ Na terceira figura, cada subintervalo da reta medindo $\frac{1}{3}$  foi dividid
 </WRAP>
 
 Isto é, 
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{3 \times 4}{3 \times 3},$$
+$$\dfrac{4}{3}  = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9} ,$$
 onde o número **três** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
 
 Na quarta figura, cada intervalo de comprimento igual a $\frac{1}{3}$ foi subdividido em 4 partes iguais.
@@ -95,7 +99,7 @@ Na quarta figura, cada intervalo de comprimento igual a $\frac{1}{3}$ foi subdiv
 {{ :cap4:secoes:w_12.png?600 |}}
 </WRAP>
 De modo análogo, conclui-se que o ponto azul representa a fração $\frac{16}{12}$:
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12} = \dfrac{4 \times 4}{4 \times 3},$$
+$$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12} ,$$
 onde o número **quatro** indica em quantas partes cada subintervalo de comprimento igual a $\frac{1}{3}$ foi subdividido.
 
 Assim, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
