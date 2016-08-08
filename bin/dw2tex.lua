@@ -90,17 +90,17 @@ local titlechapter = P('====== ') * harmless^-12 * token('titlechapter', simplet
 local titleless = P('==== ') * token('title', simpletext) * P('====')
 local include = P('{{page>') * token('include', simpletext) * P('}}')
 local image = P('{{') * S(':|')^0 * token('image', simpletext) * P('|')^0 * P('}}')
-local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#')
+local comment = P('/*') * token('comment', 1 - P('*/'))^0 * P('*/') + P(';;#') * token('comment', 1 - P(';;#'))^0 * P(';;#') + P('{{anchor:') * token('comment', 1 - P('}}'))^0 * P('}}') 
 local quote = surround('quote', '"', Ct( (bold + under + link + italic + mono + simplemath + token('simple', simpletext))^0 ))
 local decoline = link + bold + under + italic + mono + quote + supermath + simplemath + token('simple', simpletext)
-local item = P('\n  *') * token('item', Ct( decoline^0 ))
-local itemize = token('itemize', Ct( item^1 ))
 local doubleitem = P('\n    *') * token('doubleitem', Ct( decoline^0 ))
 local doubleitemize = token('doubleitemize', Ct( doubleitem^1 ))
-local enumitem = P('\n  -') * token('enumitem', Ct( decoline^0 ))
-local enumerate = token('enumerate', Ct( enumitem^1 ))
 local doubleenumitem = P('\n    -') * token('doubleenumitem', Ct( decoline^0 ))
 local doubleenumerate = token('doubleenumerate', Ct( doubleenumitem^1 ))
+local item = P('\n  *') * token('item', Ct( (decoline + doubleitemize + doubleenumerate)^0 ))
+local itemize = token('itemize', Ct( item^1 ))
+local enumitem = P('\n  -') * token('enumitem', Ct( (decoline + doubleitemize + doubleenumerate)^0 ))
+local enumerate = token('enumerate', Ct( enumitem^1 ))
 --local hidden = P('<hidden ') * token('comment', simpletext + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate + doubleitemize + supermath + simplemath
 --                                        + newline + linefeed + atividade + titlechapter + title + titleless + comment)^0 * P('</hidden>')
 local hidden = ( P('<hidden ') * (known - P('>'))^0 * P('>') ) + P('</hidden>')
@@ -111,7 +111,7 @@ local tabularline = token('tabularline', Ct( ( ( whitespace * P('|') ) * cellcon
 local tabular = token('tabular', Ct(tabularline^1))
 local decotext = link + bold + under + italic + mono + quote + enumerate + itemize + doubleenumerate
    + doubleitemize + supermath + simplemath + atividade + titlechapter + tabular
-   + title + titleless + include + image + newline + linefeed + comment + hidden + token('simple', simpletext)
+   + title + titleless + include + newline + linefeed + comment + image + hidden + token('simple', simpletext)
 
 local W = V'W'
 local envname = P('professor') + P('exercicio') + P('resposta') + P('abstrato') + P('conexoes') + P('explorando') + P('imagem') + P('introdutorio') + P('massa') + P('refletindo') + P('figura') + P('nota')
@@ -223,7 +223,7 @@ function texprint (tbl, indent)
      elseif (v.tag) == 'enumerate' then
         outstr = outstr .. formatting .. '\n\\begin{enumerate} [\\quad a)] %s\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %s\n'
      elseif (v.tag) == 'doubleenumerate' then
-        outstr = outstr .. formatting .. '\n\\begin{enumerate} [\\quad a)] %d\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %d\n'
+        outstr = outstr .. formatting .. '\n\\begin{enumerate} [\\quad I)] %d\n' .. texprint(v.value, indent + 1) .. '\\end{enumerate} %d\n'
      elseif (v.tag) == 'item' then
         outstr = outstr .. formatting .. '\\item' .. texprint(v.value, indent + 1) .. '\n'
      elseif (v.tag) == 'doubleitem' then
