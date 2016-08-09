@@ -1,6 +1,7 @@
-Figuras parcialmente modificadas pela organização. Os créditos são do autor original.
+Figuras modificadas pela organização. Os créditos são do autor original.
 
 <code>
+
 \documentclass{standalone}
 \usepackage{pgf,tikz}
 \usepackage{mathrsfs}
@@ -18,433 +19,248 @@ Figuras parcialmente modificadas pela organização. Os créditos são do autor 
 
 \begin{document}
 
-% As figuras do ``Para o professor'' estão entre as demais.
-
 
 %Enunciado
 
-\begin{tikzpicture}%[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.151348441635307,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
 \end{tikzpicture}
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.308,-5.144) -- (-19.33,-9.28) -- (-15.194,-9.302) -- (-15.172,-5.166) -- cycle;
-\draw [color=ffqqqq] (-19.33,-9.28)-- (-15.194,-9.302);
-\draw [color=ffqqqq] (-15.194,-9.302)-- (-15.172,-5.166);
-\draw [color=ffqqqq] (-15.172,-5.166)-- (-19.308,-5.144);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
 \end{tikzpicture}
 
-\begin{tikzpicture}%[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.41,-6.288)-- (-19.682,-3.428);
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
 \end{tikzpicture}
 
-
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.264,-5.408) -- (-18.186,-7.52) -- (-13.104,-7.63) -- cycle;
-\draw [color=ffqqqq] (-19.264,-5.408)-- (-18.186,-7.52);
-\draw [color=ffqqqq] (-18.186,-7.52)-- (-13.104,-7.63);
-\draw [color=ffqqqq] (-13.104,-7.63)-- (-19.264,-5.408);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
 \end{tikzpicture}
 
+% Respostas
 
-%Respostas
+% arcos de círculos 
 
-\begin{tikzpicture}%[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.151348441635307,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=0.004444415180959585:1.5896112500406139,variable=\t]({1.*4.950048888647465*cos(\t r)+0.*4.950048888647465*sin(\t r)},{0.*4.950048888647465*cos(\t r)+1.*4.950048888647465*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.151348441635307,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\draw [shift={(-9.518,-13.636)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5885722320425177:3.1658597335712524,variable=\t]({1.*4.950782160426773*cos(\t r)+0.*4.950782160426773*sin(\t r)},{0.*4.950782160426773*cos(\t r)+1.*4.950782160426773*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.151348441635307,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\draw [shift={(-14.556,-8.818)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-1.5574637835007508:0.,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.49,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.151348441635307,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\draw [shift={(-14.556,-8.818)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-1.5574637835007508:0.,variable=\t]({1.*4.950439980446183*cos(\t r)+0.*4.950439980446183*sin(\t r)},{0.*4.950439980446183*cos(\t r)+1.*4.950439980446183*sin(\t r)}) -- cycle ;
-\draw [shift={(-19.462,-13.768)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-1.5574637835007508:0.,variable=\t]({1.*4.950439980446181*cos(\t r)+0.*4.950439980446181*sin(\t r)},{0.*4.950439980446181*cos(\t r)+1.*4.950439980446181*sin(\t r)}) -- cycle ;
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:180:3) -- (0,0) -- cycle;
+\draw (-3,0) -- (-3,3);
 \end{tikzpicture}
 
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.402,-13.702)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890426:3.146265516774089,variable=\t]({1.*4.950439980446181*cos(\t r)+0.*4.950439980446181*sin(\t r)},{0.*4.950439980446181*cos(\t r)+1.*4.950439980446181*sin(\t r)}) -- cycle ;
-\draw [shift={(-14.402,-13.702)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-0.008928334179836739:1.5841288700890426,variable=\t]({1.*4.928196424656792*cos(\t r)+0.*4.928196424656792*sin(\t r)},{0.*4.928196424656792*cos(\t r)+1.*4.928196424656792*sin(\t r)}) -- cycle ;
-\draw [shift={(-14.402,-13.702)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-1.5707963267948966:0.,variable=\t]({1.*4.928*cos(\t r)+0.*4.928*sin(\t r)},{0.*4.928*cos(\t r)+1.*4.928*sin(\t r)}) -- cycle ;
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\draw [fill=gray] (-3,0) arc (270:180:3) -- (-3,3) -- cycle;
 \end{tikzpicture}
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-14.358,-13.68)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890421:3.146265516774089,variable=\t]({1.*4.950439980446181*cos(\t r)+0.*4.950439980446181*sin(\t r)},{0.*4.950439980446181*cos(\t r)+1.*4.950439980446181*sin(\t r)}) -- cycle ;
-\draw [shift={(-9.408,-13.658)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890426:3.146265516774089,variable=\t]({1.*4.950439980446181*cos(\t r)+0.*4.950439980446181*sin(\t r)},{0.*4.950439980446181*cos(\t r)+1.*4.950439980446181*sin(\t r)}) -- cycle ;
-\draw [shift={(-4.414,-13.622)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5841288700890426:3.146265516774089,variable=\t]({1.*4.950439980446181*cos(\t r)+0.*4.950439980446181*sin(\t r)},{0.*4.950439980446181*cos(\t r)+1.*4.950439980446181*sin(\t r)}) -- cycle ;
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\draw [fill=gray] (3,0) arc (0:90:3) -- (0,0) -- cycle;
 \end{tikzpicture}
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-18.5,-10.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.556511584207501:3.141592653589793,variable=\t]({1.*1.5401571348404672*cos(\t r)+0.*1.5401571348404672*sin(\t r)},{0.*1.5401571348404672*cos(\t r)+1.*1.5401571348404672*sin(\t r)}) -- cycle ;
-\draw [shift={(-17.,-10.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.556511584207501:3.141592653589793,variable=\t]({1.*1.5401571348404672*cos(\t r)+0.*1.5401571348404672*sin(\t r)},{0.*1.5401571348404672*cos(\t r)+1.*1.5401571348404672*sin(\t r)}) -- cycle ;
-\draw [shift={(-15.5,-10.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5565115842075:3.141592653589793,variable=\t]({1.*1.5401571348404672*cos(\t r)+0.*1.5401571348404672*sin(\t r)},{0.*1.5401571348404672*cos(\t r)+1.*1.5401571348404672*sin(\t r)}) -- cycle ;
-\draw [shift={(-20.,-10.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.556511584207501:3.141592653589793,variable=\t]({1.*1.5401571348404672*cos(\t r)+0.*1.5401571348404672*sin(\t r)},{0.*1.5401571348404672*cos(\t r)+1.*1.5401571348404672*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=-1.5707963267948966:0.,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=3.141592653589793:4.71238898038469,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=0.:1.5707963267948966,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5707963267948966:3.141592653589793,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=3.141592653589793:4.71238898038469,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-6.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=1.5707963267948966:3.141592653589793,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-10.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=0.:1.5707963267948966,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\draw [shift={(-16.,-2.)},color=ffqqqq,fill=ffqqqq,fill opacity=0.5]  (0,0) --  plot[domain=4.71238898038469:6.256875589926664,variable=\t]({1.*4.*cos(\t r)+0.*4.*sin(\t r)},{0.*4.*cos(\t r)+1.*4.*sin(\t r)}) -- cycle ;
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.308,-5.144) -- (-19.33,-9.28) -- (-15.194,-9.302) -- (-15.172,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-15.172,-5.166) -- (-15.172,-9.346) -- (-10.992,-9.346) -- (-10.992,-5.166) -- cycle;
-\draw [color=ffqqqq] (-19.33,-9.28)-- (-15.194,-9.302);
-\draw [color=ffqqqq] (-15.194,-9.302)-- (-15.172,-5.166);
-\draw [color=ffqqqq] (-15.172,-5.166)-- (-19.308,-5.144);
-\draw [color=ffqqqq] (-15.172,-9.346)-- (-10.992,-9.346);
-\draw [color=ffqqqq] (-10.992,-9.346)-- (-10.992,-5.166);
-\draw [color=ffqqqq] (-10.992,-5.166)-- (-15.172,-5.166);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.308,-5.144) -- (-19.33,-9.28) -- (-15.194,-9.302) -- (-15.172,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.338208321468187,-13.408880599061368) -- (-15.203129483731544,-13.408880599061366) -- (-15.203129483731544,-9.273801761324723) -- cycle;
-\draw [color=ffqqqq] (-19.308,-5.144)-- (-19.33,-9.28);
-\draw [color=ffqqqq] (-19.33,-9.28)-- (-15.194,-9.302);
-\draw [color=ffqqqq] (-15.194,-9.302)-- (-15.172,-5.166);
-\draw [color=ffqqqq] (-15.172,-5.166)-- (-19.308,-5.144);
-\draw [color=ffqqqq] (-19.338208321468187,-13.408880599061368)-- (-15.203129483731544,-13.408880599061366);
-\draw [color=ffqqqq] (-15.203129483731544,-13.408880599061366)-- (-15.203129483731544,-9.273801761324723);
-\draw [color=ffqqqq] (-15.203129483731544,-9.273801761324723)-- (-19.338208321468187,-9.273801761324723);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.308,-5.144) -- (-19.33,-9.28) -- (-15.194,-9.302) -- (-15.172,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.338208321468187,-13.408880599061368) -- (-15.203129483731544,-13.408880599061366) -- (-15.203129483731544,-9.273801761324723) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-15.205461393239526,-9.253673089701024) -- (-15.227461393239526,-13.389673089701024) -- (-11.091461393239529,-13.411673089701022) -- (-11.069461393239528,-9.275673089701025) -- cycle;
-\draw [color=ffqqqq] (-19.308,-5.144)-- (-19.33,-9.28);
-\draw [color=ffqqqq] (-19.33,-9.28)-- (-15.194,-9.302);
-\draw [color=ffqqqq] (-15.194,-9.302)-- (-15.172,-5.166);
-\draw [color=ffqqqq] (-15.172,-5.166)-- (-19.308,-5.144);
-\draw [color=ffqqqq] (-19.338208321468187,-13.408880599061368)-- (-15.203129483731544,-13.408880599061366);
-\draw [color=ffqqqq] (-15.203129483731544,-13.408880599061366)-- (-15.203129483731544,-9.273801761324723);
-\draw [color=ffqqqq] (-15.203129483731544,-9.273801761324723)-- (-19.338208321468187,-9.273801761324723);
-\draw [color=ffqqqq] (-15.205461393239526,-9.253673089701024)-- (-15.227461393239526,-13.389673089701024);
-\draw [color=ffqqqq] (-15.227461393239526,-13.389673089701024)-- (-11.091461393239529,-13.411673089701022);
-\draw [color=ffqqqq] (-11.091461393239529,-13.411673089701022)-- (-11.069461393239528,-9.275673089701025);
-\draw [color=ffqqqq] (-11.069461393239528,-9.275673089701025)-- (-15.205461393239526,-9.253673089701024);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-11.064966724674354,-9.276746928228665) -- (-11.086966724674355,-13.412746928228664) -- (-6.950966724674357,-13.434746928228662) -- (-6.928966724674357,-9.298746928228665) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.338208321468187,-13.408880599061368) -- (-15.203129483731544,-13.408880599061366) -- (-15.203129483731544,-9.273801761324723) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-15.19905968464917,-9.293466519010762) -- (-15.22105968464917,-13.429466519010761) -- (-11.085059684649172,-13.45146651901076) -- (-11.063059684649172,-9.315466519010762) -- cycle;
-\draw [color=ffqqqq] (-11.064966724674354,-9.276746928228665)-- (-11.086966724674355,-13.412746928228664);
-\draw [color=ffqqqq] (-11.086966724674355,-13.412746928228664)-- (-6.950966724674357,-13.434746928228662);
-\draw [color=ffqqqq] (-6.950966724674357,-13.434746928228662)-- (-6.928966724674357,-9.298746928228665);
-\draw [color=ffqqqq] (-6.928966724674357,-9.298746928228665)-- (-11.064966724674354,-9.276746928228665);
-\draw [color=ffqqqq] (-19.338208321468187,-13.408880599061368)-- (-15.203129483731544,-13.408880599061366);
-\draw [color=ffqqqq] (-15.203129483731544,-13.408880599061366)-- (-15.203129483731544,-9.273801761324723);
-\draw [color=ffqqqq] (-15.203129483731544,-9.273801761324723)-- (-19.338208321468187,-9.273801761324723);
-\draw [color=ffqqqq] (-15.19905968464917,-9.293466519010762)-- (-15.22105968464917,-13.429466519010761);
-\draw [color=ffqqqq] (-15.22105968464917,-13.429466519010761)-- (-11.085059684649172,-13.45146651901076);
-\draw [color=ffqqqq] (-11.085059684649172,-13.45146651901076)-- (-11.063059684649172,-9.315466519010762);
-\draw [color=ffqqqq] (-11.063059684649172,-9.315466519010762)-- (-15.19905968464917,-9.293466519010762);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-11.064966724674354,-9.276746928228665) -- (-11.086966724674355,-13.412746928228664) -- (-6.950966724674357,-13.434746928228662) -- (-6.928966724674357,-9.298746928228665) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.338208321468187,-13.408880599061368) -- (-15.203129483731544,-13.408880599061366) -- (-15.203129483731544,-9.273801761324723) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-15.176599103517491,-5.160719590782097) -- (-15.198599103517491,-9.296719590782093) -- (-11.062599103517497,-9.318719590782093) -- (-11.040599103517495,-5.182719590782099) -- cycle;
-\draw [color=ffqqqq] (-11.064966724674354,-9.276746928228665)-- (-11.086966724674355,-13.412746928228664);
-\draw [color=ffqqqq] (-11.086966724674355,-13.412746928228664)-- (-6.950966724674357,-13.434746928228662);
-\draw [color=ffqqqq] (-6.950966724674357,-13.434746928228662)-- (-6.928966724674357,-9.298746928228665);
-\draw [color=ffqqqq] (-6.928966724674357,-9.298746928228665)-- (-11.064966724674354,-9.276746928228665);
-\draw [color=ffqqqq] (-19.338208321468187,-13.408880599061368)-- (-15.203129483731544,-13.408880599061366);
-\draw [color=ffqqqq] (-15.203129483731544,-13.408880599061366)-- (-15.203129483731544,-9.273801761324723);
-\draw [color=ffqqqq] (-15.203129483731544,-9.273801761324723)-- (-19.338208321468187,-9.273801761324723);
-\draw [color=ffqqqq] (-15.176599103517491,-5.160719590782097)-- (-15.198599103517491,-9.296719590782093);
-\draw [color=ffqqqq] (-15.198599103517491,-9.296719590782093)-- (-11.062599103517497,-9.318719590782093);
-\draw [color=ffqqqq] (-11.062599103517497,-9.318719590782093)-- (-11.040599103517495,-5.182719590782099);
-\draw [color=ffqqqq] (-11.040599103517495,-5.182719590782099)-- (-15.176599103517491,-5.160719590782097);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.33820832146819,-12.577839097189297) -- (-16.034170985603616,-12.577839097189301) -- (-16.034170985603613,-9.273801761324727) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-16.034170985603627,-9.273801761324727) -- (-16.034170985603616,-12.577839097189301) -- (-12.730133649739045,-12.57783909718929) -- (-12.730133649739054,-9.273801761324718) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-12.706751906344035,-9.298133670832689) -- (-12.70675190634402,-12.602171006697265) -- (-9.402714570479446,-12.60217100669725) -- (-9.40271457047946,-9.298133670832675) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-9.402714570479475,-9.298133670832689) -- (-9.402714570479457,-12.602171006697267) -- (-6.098677234614879,-12.60217100669725) -- (-6.098677234614897,-9.298133670832671) -- cycle;
-\draw [color=ffqqqq] (-19.338208321468187,-9.273801761324723)-- (-19.33820832146819,-12.577839097189297);
-\draw [color=ffqqqq] (-19.33820832146819,-12.577839097189297)-- (-16.034170985603616,-12.577839097189301);
-\draw [color=ffqqqq] (-16.034170985603616,-12.577839097189301)-- (-16.034170985603613,-9.273801761324727);
-\draw [color=ffqqqq] (-16.034170985603613,-9.273801761324727)-- (-19.338208321468187,-9.273801761324723);
-\draw [color=ffqqqq] (-16.034170985603616,-12.577839097189301)-- (-12.730133649739045,-12.57783909718929);
-\draw [color=ffqqqq] (-12.730133649739045,-12.57783909718929)-- (-12.730133649739054,-9.273801761324718);
-\draw [color=ffqqqq] (-12.730133649739054,-9.273801761324718)-- (-16.034170985603627,-9.273801761324727);
-\draw [color=ffqqqq] (-12.70675190634402,-12.602171006697265)-- (-9.402714570479446,-12.60217100669725);
-\draw [color=ffqqqq] (-9.402714570479446,-12.60217100669725)-- (-9.40271457047946,-9.298133670832675);
-\draw [color=ffqqqq] (-9.40271457047946,-9.298133670832675)-- (-12.706751906344035,-9.298133670832689);
-\draw [color=ffqqqq] (-9.402714570479457,-12.602171006697267)-- (-6.098677234614879,-12.60217100669725);
-\draw [color=ffqqqq] (-6.098677234614879,-12.60217100669725)-- (-6.098677234614897,-9.298133670832671);
-\draw [color=ffqqqq] (-6.098677234614897,-9.298133670832671)-- (-9.402714570479475,-9.298133670832689);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.338208321468187,-9.273801761324723) -- (-19.33820832146819,-12.577839097189297) -- (-16.034170985603616,-12.577839097189301) -- (-16.034170985603613,-9.273801761324727) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-16.034170985603627,-9.273801761324727) -- (-16.034170985603616,-12.577839097189301) -- (-12.730133649739045,-12.57783909718929) -- (-12.730133649739054,-9.273801761324718) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.360668902599883,-5.972096334968141) -- (-19.36066890259988,-9.27613367083271) -- (-16.056631566735312,-9.276133670832706) -- (-16.056631566735316,-5.972096334968138) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-16.056631566735316,-5.972096334968132) -- (-16.056631566735312,-9.276133670832706) -- (-12.752594230870734,-9.276133670832703) -- (-12.75259423087074,-5.972096334968127) -- cycle;
-\draw [color=ffqqqq] (-19.338208321468187,-9.273801761324723)-- (-19.33820832146819,-12.577839097189297);
-\draw [color=ffqqqq] (-19.33820832146819,-12.577839097189297)-- (-16.034170985603616,-12.577839097189301);
-\draw [color=ffqqqq] (-16.034170985603616,-12.577839097189301)-- (-16.034170985603613,-9.273801761324727);
-\draw [color=ffqqqq] (-16.034170985603613,-9.273801761324727)-- (-19.338208321468187,-9.273801761324723);
-\draw [color=ffqqqq] (-16.034170985603616,-12.577839097189301)-- (-12.730133649739045,-12.57783909718929);
-\draw [color=ffqqqq] (-12.730133649739045,-12.57783909718929)-- (-12.730133649739054,-9.273801761324718);
-\draw [color=ffqqqq] (-12.730133649739054,-9.273801761324718)-- (-16.034170985603627,-9.273801761324727);
-\draw [color=ffqqqq] (-19.360668902599883,-5.972096334968141)-- (-19.36066890259988,-9.27613367083271);
-\draw [color=ffqqqq] (-19.36066890259988,-9.27613367083271)-- (-16.056631566735312,-9.276133670832706);
-\draw [color=ffqqqq] (-16.056631566735312,-9.276133670832706)-- (-16.056631566735316,-5.972096334968138);
-\draw [color=ffqqqq] (-16.056631566735316,-5.972096334968138)-- (-19.360668902599883,-5.972096334968141);
-\draw [color=ffqqqq] (-16.056631566735316,-5.972096334968132)-- (-16.056631566735312,-9.276133670832706);
-\draw [color=ffqqqq] (-16.056631566735312,-9.276133670832706)-- (-12.752594230870734,-9.276133670832703);
-\draw [color=ffqqqq] (-12.752594230870734,-9.276133670832703)-- (-12.75259423087074,-5.972096334968127);
-\draw [color=ffqqqq] (-12.75259423087074,-5.972096334968127)-- (-16.056631566735316,-5.972096334968132);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.946,-5.166) -- (-19.946,-6.794) -- (-18.318,-6.794) -- (-18.318,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-18.318,-5.166) -- (-18.318,-6.794) -- (-16.69,-6.794) -- (-16.69,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-16.668,-5.166) -- (-16.668,-6.794) -- (-15.04,-6.794) -- (-15.04,-5.166) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.946,-3.56) -- (-19.946,-5.188) -- (-18.318,-5.188) -- (-18.318,-3.56) -- cycle;
-\draw [color=ffqqqq] (-19.946,-5.166)-- (-19.946,-6.794);
-\draw [color=ffqqqq] (-19.946,-6.794)-- (-18.318,-6.794);
-\draw [color=ffqqqq] (-18.318,-6.794)-- (-18.318,-5.166);
-\draw [color=ffqqqq] (-18.318,-5.166)-- (-19.946,-5.166);
-\draw [color=ffqqqq] (-18.318,-5.166)-- (-18.318,-6.794);
-\draw [color=ffqqqq] (-18.318,-6.794)-- (-16.69,-6.794);
-\draw [color=ffqqqq] (-16.69,-6.794)-- (-16.69,-5.166);
-\draw [color=ffqqqq] (-16.69,-5.166)-- (-18.318,-5.166);
-\draw [color=ffqqqq] (-16.668,-5.166)-- (-16.668,-6.794);
-\draw [color=ffqqqq] (-16.668,-6.794)-- (-15.04,-6.794);
-\draw [color=ffqqqq] (-15.04,-6.794)-- (-15.04,-5.166);
-\draw [color=ffqqqq] (-15.04,-5.166)-- (-16.668,-5.166);
-\draw [color=ffqqqq] (-19.946,-3.56)-- (-19.946,-5.188);
-\draw [color=ffqqqq] (-19.946,-5.188)-- (-18.318,-5.188);
-\draw [color=ffqqqq] (-18.318,-5.188)-- (-18.318,-3.56);
-\draw [color=ffqqqq] (-18.318,-3.56)-- (-19.946,-3.56);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.41,-6.288)-- (-19.11,-3.384);
-\draw (-19.11,-3.384)-- (-16.382,-6.31);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.41,-6.288)-- (-19.682,-3.428);
-\draw (-22.3,-3.384)-- (-19.77,-6.332);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.41,-6.288)-- (-19.682,-3.428);
-\draw (-21.024,-6.508)-- (-18.296,-3.648);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.41,-6.288)-- (-19.682,-3.428);
-\draw (-21.024,-6.508)-- (-18.296,-3.648);
-\draw (-19.616,-6.816)-- (-16.888,-3.956);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:270:3) -- (-3,0) -- cycle;
+\draw (-3,0) -- (-6,0);
+\draw (-3,0) -- (-3,3);
 \end{tikzpicture}
 
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.542,-6.618)-- (-19.814,-3.758);
-\draw (-17.768,-6.882)-- (-15.04,-4.022);
-\draw (-19.82448060478374,-3.768987730821664)-- (-17.768,-6.882);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\draw [fill=gray] (-3,0) arc (270:180:3) -- (-3,3) -- cycle;
+\draw [fill=gray] (-3,0) arc (180:270:3) -- (0,0) -- cycle;
 \end{tikzpicture}
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.542,-6.618)-- (-19.814,-3.758);
-\draw (-21.794,-6.662)-- (-19.066,-3.802);
-\draw (-22.08,-3.692)-- (-19.836,-6.75);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\draw [fill=gray] (3,0) arc (0:90:3) -- (0,0) -- cycle;
+\draw [fill=gray] (6,0) arc (0:90:3) -- (3,0) -- cycle;
 \end{tikzpicture}
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.542,-6.618)-- (-19.814,-3.758);
-\draw (-21.794,-6.662)-- (-19.066,-3.802);
-\draw (-22.08,-3.692)-- (-19.836,-6.75);
-\draw (-21.398,-3.516)-- (-19.154,-6.574);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:360:3) -- (-3,0) -- cycle;
+\draw (-3,0) -- (-6,0);
+\draw (-3,0) -- (-3,3);
+\draw (-3,0) -- (-3,-3);
 \end{tikzpicture}
 
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw (-22.542,-6.618)-- (-19.814,-3.758);
-\draw (-21.794,-6.662)-- (-19.066,-3.802);
-\draw (-21.068,-6.772)-- (-18.34,-3.912);
-\draw (-20.276,-6.794)-- (-17.548,-3.934);
+\begin{tikzpicture}
+\draw [fill=gray] (0,3) arc (90:270:3) -- (0,3) -- cycle;
+ \draw [fill=gray] (3,3) arc (0:-90:3) -- (0,3) -- cycle;
+ \draw [fill=gray] (0,0) arc (90:0:3) -- (0,-3) -- cycle;
+ \draw  (0,0) -- (-3,0);
 \end{tikzpicture}
 
-
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-18.01,-5.628) -- (-17.988,-8.84) -- (-14.776,-8.818) -- (-14.798,-5.606) -- cycle;
-\draw [color=ffqqqq] (-18.01,-5.628)-- (-17.988,-8.84);
-\draw [color=ffqqqq] (-17.988,-8.84)-- (-14.776,-8.818);
-\draw [color=ffqqqq] (-14.776,-8.818)-- (-14.798,-5.606);
-\draw [color=ffqqqq] (-14.798,-5.606)-- (-18.01,-5.628);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\draw [fill=gray] (3,0) arc (0:90:3) -- (0,0) -- cycle;
+\draw [fill=gray] (6,0) arc (0:90:3) -- (3,0) -- cycle;
+\draw [fill=gray] (9,0) arc (0:90:3) -- (6,0) -- cycle;
 \end{tikzpicture}
 
-
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.452) -- (-18.164,-7.564) -- (-13.082,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.452) -- (-13.082,-7.63) -- (-14.16,-5.496) -- cycle;
-\draw [color=ffqqqq] (-19.242,-5.452)-- (-18.164,-7.564);
-\draw [color=ffqqqq] (-18.164,-7.564)-- (-13.082,-7.63);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-19.242,-5.452);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-14.16,-5.496);
-\draw [color=ffqqqq] (-14.16,-5.496)-- (-19.242,-5.452);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (3,0) rectangle (6,3);
 \end{tikzpicture}
 
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (0,3) rectangle (3,6);
+\end{tikzpicture}
 
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (3,0) rectangle (6,3);
+\draw [fill=gray] (6,0) rectangle (9,3);
+\end{tikzpicture}
 
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.452) -- (-18.164,-7.564) -- (-13.082,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-24.346,-5.408) -- (-18.186,-7.586) -- (-19.264,-5.452) -- cycle;
-\draw [color=ffqqqq] (-19.242,-5.452)-- (-18.164,-7.564);
-\draw [color=ffqqqq] (-18.164,-7.564)-- (-13.082,-7.63);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-19.242,-5.452);
-\draw [color=ffqqqq] (-18.186,-7.586)-- (-19.264,-5.452);
-\draw [color=ffqqqq] (-19.264,-5.452)-- (-24.346,-5.408);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (0,3) rectangle (3,6);
+\draw [fill=gray] (3,0) rectangle (6,3);
 \end{tikzpicture}
 
 
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.452) -- (-18.164,-7.564) -- (-13.082,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-14.116,-5.496) -- (-13.038,-7.608) -- (-7.956,-7.674) -- cycle;
-\draw [color=ffqqqq] (-19.242,-5.452)-- (-18.164,-7.564);
-\draw [color=ffqqqq] (-18.164,-7.564)-- (-13.082,-7.63);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-19.242,-5.452);
-\draw [color=ffqqqq] (-14.116,-5.496)-- (-13.038,-7.608);
-\draw [color=ffqqqq] (-13.038,-7.608)-- (-7.956,-7.674);
-\draw [color=ffqqqq] (-7.956,-7.674)-- (-14.116,-5.496);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.452) -- (-18.164,-7.564) -- (-13.082,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-14.116,-5.496) -- (-13.038,-7.608) -- (-7.956,-7.674) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-8.99,-5.562) -- (-7.912,-7.674) -- (-2.83,-7.74) -- cycle;
-\draw [color=ffqqqq] (-19.242,-5.452)-- (-18.164,-7.564);
-\draw [color=ffqqqq] (-18.164,-7.564)-- (-13.082,-7.63);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-19.242,-5.452);
-\draw [color=ffqqqq] (-14.116,-5.496)-- (-13.038,-7.608);
-\draw [color=ffqqqq] (-13.038,-7.608)-- (-7.956,-7.674);
-\draw [color=ffqqqq] (-7.956,-7.674)-- (-14.116,-5.496);
-\draw [color=ffqqqq] (-8.99,-5.562)-- (-7.912,-7.674);
-\draw [color=ffqqqq] (-7.912,-7.674)-- (-2.83,-7.74);
-\draw [color=ffqqqq] (-2.83,-7.74)-- (-8.99,-5.562);
-\end{tikzpicture}
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.242,-5.408) -- (-18.164,-7.52) -- (-13.082,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-20.298,-3.274) -- (-19.22,-5.386) -- (-13.786,-5.386) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.22,-5.408) -- (-13.082,-7.63) -- (-13.764,-5.386) -- cycle;
-\draw [color=ffqqqq] (-19.242,-5.408)-- (-18.164,-7.52);
-\draw [color=ffqqqq] (-18.164,-7.52)-- (-13.082,-7.63);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-19.242,-5.408);
-\draw [color=ffqqqq] (-20.298,-3.274)-- (-19.22,-5.386);
-\draw [color=ffqqqq] (-19.22,-5.386)-- (-13.786,-5.386);
-\draw [color=ffqqqq] (-13.786,-5.386)-- (-20.298,-3.274);
-\draw [color=ffqqqq] (-13.082,-7.63)-- (-13.764,-5.386);
-\draw [color=ffqqqq] (-13.764,-5.386)-- (-19.22,-5.408);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (3,3) rectangle (6,6);
+\draw [fill=gray] (6,0) rectangle (9,3);
 \end{tikzpicture}
 
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.264,-5.408) -- (-18.186,-7.52) -- (-13.104,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.22,-5.408) -- (-13.104,-7.63) -- (-14.138,-5.408) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-14.094,-5.43) -- (-13.082,-7.608) -- (-8.,-7.718) -- cycle;
-\draw [color=ffqqqq] (-19.264,-5.408)-- (-18.186,-7.52);
-\draw [color=ffqqqq] (-18.186,-7.52)-- (-13.104,-7.63);
-\draw [color=ffqqqq] (-13.104,-7.63)-- (-19.264,-5.408);
-\draw [color=ffqqqq] (-13.104,-7.63)-- (-14.138,-5.408);
-\draw [color=ffqqqq] (-14.138,-5.408)-- (-19.22,-5.408);
-\draw [color=ffqqqq] (-14.094,-5.43)-- (-13.082,-7.608);
-\draw [color=ffqqqq] (-13.082,-7.608)-- (-8.,-7.718);
-\draw [color=ffqqqq] (-8.,-7.718)-- (-14.094,-5.43);
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (3,0) rectangle (6,3);
+\draw [fill=gray] (6,0) rectangle (9,3);
+\draw [fill=gray] (9,0) rectangle (12,3);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (0,3) rectangle (3,6);
+\draw [fill=gray] (3,0) rectangle (6,3);
+\draw [fill=gray] (3,3) rectangle (6,6);
 \end{tikzpicture}
 
 
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.264,-5.408) -- (-18.186,-7.52) -- (-13.104,-7.63) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.22,-5.408) -- (-13.104,-7.63) -- (-14.138,-5.408) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-14.094,-5.43) -- (-13.082,-7.608) -- (-8.,-7.718) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-20.408,-3.186) -- (-19.264,-5.386) -- (-14.248,-5.408) -- cycle;
-\draw [color=ffqqqq] (-19.264,-5.408)-- (-18.186,-7.52);
-\draw [color=ffqqqq] (-18.186,-7.52)-- (-13.104,-7.63);
-\draw [color=ffqqqq] (-13.104,-7.63)-- (-19.264,-5.408);
-\draw [color=ffqqqq] (-13.104,-7.63)-- (-14.138,-5.408);
-\draw [color=ffqqqq] (-14.138,-5.408)-- (-19.22,-5.408);
-\draw [color=ffqqqq] (-14.094,-5.43)-- (-13.082,-7.608);
-\draw [color=ffqqqq] (-13.082,-7.608)-- (-8.,-7.718);
-\draw [color=ffqqqq] (-8.,-7.718)-- (-14.094,-5.43);
-\draw [color=ffqqqq] (-20.408,-3.186)-- (-19.264,-5.386);
-\draw [color=ffqqqq] (-19.264,-5.386)-- (-14.248,-5.408);
-\draw [color=ffqqqq] (-14.248,-5.408)-- (-20.408,-3.186);
+\begin{tikzpicture}
+\draw [fill=gray] (0,3) rectangle (3,6);
+\draw [fill=gray] (0,0) rectangle (3,3);
+\draw [fill=gray] (3,0) rectangle (6,3);
+\draw [fill=gray] (6,0) rectangle (9,3);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3) -- (6,0);
 \end{tikzpicture}
 
 
-
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-19.22,-5.232) -- (-18.142,-7.344) -- (-13.06,-7.454) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-18.142,-7.322) -- (-17.064,-9.434) -- (-11.982,-9.544) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-11.982,-9.544) -- (-13.06,-7.454) -- (-18.142,-7.344) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-13.082,-7.432) -- (-14.16,-5.342) -- (-19.242,-5.232) -- cycle;
-\draw [color=ffqqqq] (-19.22,-5.232)-- (-18.142,-7.344);
-\draw [color=ffqqqq] (-18.142,-7.344)-- (-13.06,-7.454);
-\draw [color=ffqqqq] (-13.06,-7.454)-- (-19.22,-5.232);
-\draw [color=ffqqqq] (-18.142,-7.322)-- (-17.064,-9.434);
-\draw [color=ffqqqq] (-17.064,-9.434)-- (-11.982,-9.544);
-\draw [color=ffqqqq] (-11.982,-9.544)-- (-18.142,-7.322);
-\draw [color=ffqqqq] (-11.982,-9.544)-- (-13.06,-7.454);
-\draw [color=ffqqqq] (-13.06,-7.454)-- (-18.142,-7.344);
-\draw [color=ffqqqq] (-18.142,-7.344)-- (-11.982,-9.544);
-\draw [color=ffqqqq] (-13.082,-7.432)-- (-14.16,-5.342);
-\draw [color=ffqqqq] (-14.16,-5.342)-- (-19.242,-5.232);
-\draw [color=ffqqqq] (-19.242,-5.232)-- (-13.082,-7.432);
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (2,0) -- (5,3);
 \end{tikzpicture}
 
 
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (3,0) -- (0,3);
+\end{tikzpicture}
 
-\begin{tikzpicture}%[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-22.212,-7.19) -- (-21.618,-8.07) -- (-19.704,-8.136) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-20.276,-7.234) -- (-19.682,-8.114) -- (-17.768,-8.18) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-18.34,-7.3) -- (-17.746,-8.18) -- (-15.832,-8.246) -- cycle;
-\fill[color=ffqqqq,fill=ffqqqq,fill opacity=0.5] (-16.404,-7.344) -- (-15.81,-8.224) -- (-13.896,-8.29) -- cycle;
-\draw [color=ffqqqq] (-22.212,-7.19)-- (-21.618,-8.07);
-\draw [color=ffqqqq] (-21.618,-8.07)-- (-19.704,-8.136);
-\draw [color=ffqqqq] (-19.704,-8.136)-- (-22.212,-7.19);
-\draw [color=ffqqqq] (-20.276,-7.234)-- (-19.682,-8.114);
-\draw [color=ffqqqq] (-19.682,-8.114)-- (-17.768,-8.18);
-\draw [color=ffqqqq] (-17.768,-8.18)-- (-20.276,-7.234);
-\draw [color=ffqqqq] (-18.34,-7.3)-- (-17.746,-8.18);
-\draw [color=ffqqqq] (-17.746,-8.18)-- (-15.832,-8.246);
-\draw [color=ffqqqq] (-15.832,-8.246)-- (-18.34,-7.3);
-\draw [color=ffqqqq] (-16.404,-7.344)-- (-15.81,-8.224);
-\draw [color=ffqqqq] (-15.81,-8.224)-- (-13.896,-8.29);
-\draw [color=ffqqqq] (-13.896,-8.29)-- (-16.404,-7.344);
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3) -- (6,0) -- (9,3);
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (2,0) -- (5,3);
+\draw  (4,0) -- (7,3);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (4,0) -- (1,3);
+\draw  (2,0) -- (5,3);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3) -- (0,6) -- (-3,3) -- (0,0);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (2,0) -- (5,3);
+\draw  (4,0) -- (7,3);
+\draw  (6,0) -- (9,3);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw  (0,0) -- (3,3);
+\draw  (4,0) -- (1,3);
+\draw  (2,0) -- (5,3);
+\draw (2,0) -- (-1,3);
+\end{tikzpicture}
+
+%triängulos
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (6,0) -- (1.5,1.5) -- cycle;
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (-1.5,1.5) -- (1.5,1.5) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (0,0) -- (-1.5,1.5) -- (-4.5,1.5) -- cycle;
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (6,0) -- (1.5,1.5) -- cycle;
+\draw [fill=gray] (6,0) -- (9,0) -- (4.5,1.5) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (-1.5,1.5) -- (1.5,1.5) -- cycle;
+\draw [fill=gray] (-1.5,1.5) -- (1.5,1.5) -- (-3,3) -- cycle;
+%\draw [fill=gray] (1.5,1.5) -- (-3,3) -- (0,3) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (0,0) -- (-1.5,1.5) -- (-4.5,1.5) -- cycle;
+\draw [fill=gray] (-3,0) -- (0,0) -- (-4.5,1.5) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (6,0) -- (1.5,1.5) -- cycle;
+\draw [fill=gray] (6,0) -- (9,0) -- (4.5,1.5) -- cycle;
+\draw [fill=gray] (9,0) -- (12,0) -- (7.5,1.5) -- cycle;
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (3,0) -- (-1.5,1.5) -- (1.5,1.5) -- cycle;
+\draw [fill=gray] (-1.5,1.5) -- (1.5,1.5) -- (-3,3) -- cycle;
+\draw [fill=gray] (1.5,1.5) -- (-3,3) -- (0,3) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw [fill=gray] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=gray] (0,0) -- (-1.5,1.5) -- (-4.5,1.5) -- cycle;
+\draw [fill=gray] (-3,0) -- (0,0) -- (-4.5,1.5) -- cycle;
+\draw [fill=gray] (-4.5,1.5) -- (-1.5,1.5) -- (-6,3) -- cycle;
 \end{tikzpicture}
 
 \end{document}
+
+
 </code>
