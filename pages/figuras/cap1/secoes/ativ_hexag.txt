@@ -1,22 +1,15 @@
 <code>
-\documentclass{standalone}%\documentclass[a4paper,10pt]{scrartcl}
+\documentclass{standalone}
 
 \usepackage[active,pdftex,tightpage]{preview}
 \usepackage{tikz}
 \usepackage{mathrsfs}
 \usetikzlibrary{arrows}
 
-%\usepackage[brazilian]{babel}
-
 \PreviewEnvironment{tikzpicture}
 \usetikzlibrary{calc}
 
-\definecolor{ttttff}{rgb}{0.2,0.2,1.}
-\definecolor{ffqqtt}{rgb}{1.,0.,0.2}
-\definecolor{qqffqq}{rgb}{0.,1.,0.}
-
 \begin{document}
-%\maketitle
 
 %Enunciado
 
