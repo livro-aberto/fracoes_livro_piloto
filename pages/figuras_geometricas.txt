@@ -39,7 +39,7 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 3 dias após por o nome             ^ link                                                                  ^ Autor \\ Ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status    ^
-| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]             |                                                                                                         |           |
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             |Vinicius Marcondes de Paula Silva [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]             |                                                                                                         |           |
 | Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]         | [[figuras:cap2:secoes:explorando_papel_tortas_salgadas|link]]         |                                                                                                         |           |
 | Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]  | [[figuras:cap2:secoes:explorando_atividade_entender_linguagem|link]]  |                                                                                                         |           |
 | Organizando as Ideias [[cap2:secoes:conexoes]]                     | [[figuras:cap2:secoes:conexoes|link]]                                 |                                                                                                         |           |
