@@ -39,7 +39,47 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 3 dias após por o nome             ^ link                                                                  ^ Autor \\ Ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status    ^
-| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]             |Vinicius Marcondes de Paula Silva                                                                                                      |           |
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]    \documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{wwttqq}{rgb}{0.4,0.2,0.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{uuuuuu}{rgb}{0.26666666666666666,0.26666666666666666,0.26666666666666666}
+\definecolor{xdxdff}{rgb}{0.49019607843137253,0.49019607843137253,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.3,0.) -- (22.7,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.,19.,20.,21.,22.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-3.) -- (0.,6.3);
+\foreach \y in {-3.,-2.,-1.,1.,2.,3.,4.,5.,6.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.3,-3.) rectangle (22.7,6.3);
+\fill[line width=5.2pt,color=wwttqq,fill=wwttqq,fill opacity=1.0] (0.,3.) -- (0.,0.) -- (9.,0.) -- (9.,3.) -- cycle;
+\fill[line width=5.2pt,color=wwttqq,fill=wwttqq,fill opacity=1.0] (10.,0.) -- (10.,3.) -- (19.,3.) -- (19.,0.) -- cycle;
+\draw [line width=5.2pt,color=wwttqq] (0.,3.)-- (0.,0.);
+\draw [line width=5.2pt,color=wwttqq] (0.,0.)-- (9.,0.);
+\draw [line width=5.2pt,color=wwttqq] (9.,0.)-- (9.,3.);
+\draw [line width=5.2pt,color=wwttqq] (9.,3.)-- (0.,3.);
+\draw [line width=5.2pt,color=wwttqq] (10.,0.)-- (10.,3.);
+\draw [line width=5.2pt,color=wwttqq] (10.,3.)-- (19.,3.);
+\draw [line width=5.2pt,color=wwttqq] (19.,3.)-- (19.,0.);
+\draw [line width=5.2pt,color=wwttqq] (19.,0.)-- (10.,0.);
+\begin{scriptsize}
+\draw [fill=xdxdff] (0.,3.) circle (2.5pt);
+\draw [fill=uuuuuu] (0.,0.) circle (1.5pt);
+\draw [fill=xdxdff] (9.,0.) circle (2.5pt);
+\draw [fill=qqqqff] (9.,3.) circle (2.5pt);
+\draw [fill=xdxdff] (10.,0.) circle (2.5pt);
+\draw [fill=qqqqff] (10.,3.) circle (2.5pt);
+\draw [fill=qqqqff] (19.,3.) circle (2.5pt);
+\draw [fill=xdxdff] (19.,0.) circle (2.5pt);
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}         |Vinicius Marcondes de Paula Silva                                                                                                      |           |
 | Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]         | [[figuras:cap2:secoes:explorando_papel_tortas_salgadas|link]]         |                                                                                                         |           |
 | Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]  | [[figuras:cap2:secoes:explorando_atividade_entender_linguagem|link]]  |                                                                                                         |           |
 | Organizando as Ideias [[cap2:secoes:conexoes]]                     | [[figuras:cap2:secoes:conexoes|link]]                                 |                                                                                                         |           |
