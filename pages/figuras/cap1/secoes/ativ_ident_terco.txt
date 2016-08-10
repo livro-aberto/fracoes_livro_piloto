@@ -1,4 +1,4 @@
-<code>
+<code latex>
 \documentclass{standalone}
 
 \usepackage[active,pdftex,tightpage]{preview}
