@@ -4,7 +4,7 @@ Ir para [[cap4:texto#equivalencia_densidade_refletindo]]
 
 <WRAP refletindo>
 
-Nas atividades 23 e 24 você estudou uma propriedade importante do conjunto das frações:
+Nas atividades 24 e 25 você estudou uma propriedade importante do conjunto das frações:
 
 dadas quaisquer duas frações que representam diferentes quantidades, sempre é possível encontrar uma  fração entre elas. 
 
