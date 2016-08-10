@@ -1,6 +1,6 @@
 Figuras modificadas pela organização. Os créditos são do autor original.
 
-<code>
+<code latex>
 
 \documentclass{standalone}
 \usepackage{pgf,tikz}
