@@ -1,5 +1,5 @@
 Para o Professor
-<code >
+<code latex>
 \begin{tikzpicture}[scale=0.6]
   \draw (0,0) rectangle (4,3);
   \draw (0,3) rectangle (4,6);
@@ -21,7 +21,7 @@ Para o Professor
 </code>
 
 Página para reprodução
-<code>
+<code latex>
 
 \pagestyle{empty}
  \begin{tikzpicture}[scale=1.4]
@@ -74,7 +74,7 @@ Página para reprodução
 
 
 Texto para o estudante
-<code>
+<code latex>
 \begin{tikzpicture}[scale=0.6]
   \draw[orange] (0,0) rectangle (1,6);
   \draw[orange] (1,0) rectangle (2,6);
