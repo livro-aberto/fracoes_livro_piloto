@@ -24,19 +24,21 @@ Relembrando a representação na reta numérica: Você já conhece a reta numér
 
 <WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também.
 
-ILUSTRAÇÃO DA RETA NUMÉRICA COM OS NÜMEROS NATURAIS DESTACADOS - de 1 a 5
+ILUSTRAÇÃO DA RETA NUMÉRICA COM OS NÚMEROS NATURAIS DESTACADOS - de 1 a 5
 </WRAP>
 
   - Marque na reta numérica pontos que representem as quantidades de pizza nas imagens a seguir. 
 
-\\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas  e a imagem de uma reta numérica com marcações de 0 a 5 e submarcações correspondentes a metades, como na imagem. </WRAP>
+\\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas  e a imagem de uma reta numérica com marcações de 0 a 5 e submarcações correspondentes a metades, como na imagem: {{ :cap3:secoes:reta_1_a_5.jpg?300 |}}
+
+</WRAP>
 
 
   - E no caso destas imagens, que pontos na reta numérica representam as quantidades de pizza ilustradas?
 
 \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/4 pizza, 3/4 pizza, 1 e meia pizzas. OBS: No caso de 1/4 e 3/4 de pizza, as ilustrações têm que deixar clara a partição da pizza em 4, das quais 1 ou 3 partes estão destacadas 
 
-Essas imagens são seguidas de uma reta numérca em que estão destacados as marcações do 0, do 1 e do 2 e submarcações que identifiquem quartos, como na imagem </WRAP>
+Essas imagens são seguidas de uma reta numérca em que estão destacados as marcações do 0, do 1 e do 2 e submarcações que identifiquem quartos, como na imagem: {{ :cap3:secoes:reta_quartos.jpg?300 |}} </WRAP>
 
  	 
 <hidden Resposta>
