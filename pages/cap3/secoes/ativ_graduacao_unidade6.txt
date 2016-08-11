@@ -33,7 +33,7 @@ Para saber que fração da capacidade da caixa-d'água já está com água, ser�
 A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa-d'água cheia. Abaixo de cada quadrinho, indicar: momento 1, momento 2, momento 3 e momento 4.
 </WRAP>
 
-Escolha, para cada um dos momentos, a graduação que lhe parece mais adequada para registrar a quantidade de representada em cada uma das imagens. Explique sua escolha.
+Escolha, para cada um dos momentos, a graduação que lhe parece mais adequada para registrar a quantidade de agua representada em cada uma das imagens. Explique sua escolha.
 
 
 <WRAP imagem>Figura Artística
