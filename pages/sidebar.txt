@@ -15,32 +15,33 @@
 ===== Lições ======
 
 <hidden Introdução>
-  * [[cap0:navega|html]] - [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
+  * [[cap0:navega|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap0.pdf|pdf]]
 </hidden>
 <hidden Lição 1>
-  * [[cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap1_aluno.pdf|pdf do aluno]]
-  * [[cap1:secoes:atividades_extras|atividades extras]]
+  * [[cap1:texto|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap1_aluno.pdf|pdf aluno]]
+  * [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf professor]]
 </hidden>
 <hidden Lição 2>
-  * [[cap2:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap2_aluno.pdf|pdf do aluno]]
-  * [[cap2:secoes:atividades_extras|atividades extras]]
+  * [[cap2:texto|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap2_aluno.pdf|pdf aluno]]
+  * [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf professor]]
 </hidden>
 <hidden Lição 3>
-  * [[cap3:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap3_aluno.pdf|pdf do aluno]]  
-  * [[cap3:secoes:atividades_extras|atividades extras]]
+  * [[cap3:texto|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap3_aluno.pdf|pdf aluno]]  
+  * [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf professor]]
 </hidden>
 <hidden Lição 4>
-  * [[cap4:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap4_aluno.pdf|pdf do aluno]]  
-  * [[cap4:secoes:atividades_extras|atividades extras]]
+  * [[cap4:texto|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap4_aluno.pdf|pdf aluno]]  
+  * [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf professor]]
 </hidden>
 <hidden Lição 5>
-  * [[cap5:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf]]
-  * [[https://www.umlivroaberto.com/pdf/cap5_aluno.pdf|pdf do aluno]]  
-  * [[cap5:secoes:atividades_extras|atividades extras]]
+  * [[cap5:texto|html]] 
+  * [[https://www.umlivroaberto.com/pdf/cap5_aluno.pdf|pdf aluno]] 
+  * [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf professor]]
 </hidden>
 
 
