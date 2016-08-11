@@ -46,17 +46,17 @@ Na imagem devem estar 3 irmãos, aparentando idades diferentes (um deles pode se
 
 </WRAP>
 
-    - Você concorda com essa divisão? Explique.
-    - Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
-    - Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate. <WRAP imagem>  - FIGURA ARTÍSTICA - Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apenas a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.</WRAP>
-    - Considerando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a quantidade de chocolate que cada irmão receberia? 
+ - Você concorda com essa divisão? Explique.
+ - Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
+ - Use a imagem a seguir para mostrar uma divisão da barra de chocolate que permita que os 3 irmãos recebam quantidades iguais de chocolate. <WRAP imagem>  - FIGURA ARTÍSTICA - Inserir imagem da mesma barra retangular de chocolate da ilustração anterior sem qualquer partição sugerida. Apenas a imagem da barra de chocolate. Não há necessidade de ilustrar os irmãos.</WRAP>
+ - Considerando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a quantidade de chocolate que cada irmão receberia? 
 
 <hidden Resposta>
 <WRAP resposta>
-    - Este item não possui resposta correta, apenas respostas coerentes com a explicação do aluno. Por exemplo, um estudante pode dizer que sim e explicar que o irmão mais velho deve ficar com uma parte maior porque precisa de mais energia. Mas a resposta esperada é que a divisão não é justa porque as quantidades de chocolate são diferentes. Discuta com os alunos para que entendam a divisão correspondente à resposta esperada.
-    - Não, eles receberão quantidades diferentes de chocolate, embora cada um receba um único pedaço do chocolate.
-    - Respostas possíveis:<WRAP imagem>  - FIGURA ARTÍSTICA -\\ {{:cap1:secoes:licao1_atv1.png?600|}}\\ ilustração: Cambrainha </WRAP>
-    - Cada parte é "um terço" da barra ou a "terça parte" da barra.
+ - Este item não possui resposta correta, apenas respostas coerentes com a explicação do aluno. Por exemplo, um estudante pode dizer que sim e explicar que o irmão mais velho deve ficar com uma parte maior porque precisa de mais energia. Mas a resposta esperada é que a divisão não é justa porque as quantidades de chocolate são diferentes. Discuta com os alunos para que entendam a divisão correspondente à resposta esperada.
+ - Não, eles receberão quantidades diferentes de chocolate, embora cada um receba um único pedaço do chocolate.
+ - Respostas possíveis:<WRAP imagem>  - FIGURA ARTÍSTICA -\\ {{:cap1:secoes:licao1_atv1.png?600|}}\\ ilustração: Cambrainha </WRAP>
+ - Cada parte é "um terço" da barra ou a "terça parte" da barra.
 </WRAP>
 </hidden>
 
