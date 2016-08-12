@@ -73,7 +73,7 @@ Nas tabelas abaixo, por favor, coloque seu nome em apenas uma das figuras até q
 | Atividade [[cap3:secoes:ativ_fracoes_na_reta]]          | [[figuras:cap3:secoes:ativ_fracoes_na_reta|link]]          | Maurício Menegatti Andrade                                                                                              | postado  |
 | Atividade [[cap3:secoes:ativ_reta_numerada]]            | [[figuras:cap3:secoes:ativ_reta_numerada|link]]            | Maurício Menegatti Andrade                                                                                              |          |
 | Atividade [[cap3:secoes:ativ_grad_unidade4]]            | [[figuras:cap3:secoes:ativ_grad_unidade4|link]]            |                                                                                                                         |          |
-| Atividade [[cap3:secoes:ativ_grad_unidade5]]            | [[figuras:cap3:secoes:ativ_grad_unidade5|link]]            |                                                                                                                         |          |
+| Atividade [[cap3:secoes:ativ_grad_unidade5]]            | [[figuras:cap3:secoes:ativ_grad_unidade5|link]]            | Maurício Menegatti Andrade                                                                                              |          |
 
 
 ^ [[cap4:texto|Lição 4]] - Prazo: 3 dias após por o nome  ^ link                                                 ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status   ^
