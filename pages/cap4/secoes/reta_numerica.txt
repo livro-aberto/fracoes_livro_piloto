@@ -10,6 +10,7 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Nas retas numéricas apresentadas, as origens estão alinhadas e as unidades correspondem a segmentos unitários congruentes, o que garante que uma fração associada a um determinado ponto em uma reta seja a mesma fração nos pontos correspondentes nas demais retas.
+  * Caso seus alunos não percebam, aponte para o fato de que as segunda, terceira e quarta retas numéricas são obtidas por meio de subdivisões dos terços da primeira reta numérica em duas, três e quatro partes iguais, respectivamente. Para resolver o Item (c) desta atividade, se faz necessário dividir cada terço em cinco partes iguais.
   * É importante, ao final da atividade, observar para os alunos que, nesta atividade, cada ponto marcado na reta numérica está sendo descrito por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, por corresponderem ao mesmo ponto da reta numérica, estas frações são iguais.
 
 Classificações:
