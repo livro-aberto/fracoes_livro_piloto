@@ -21,19 +21,20 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Associe as fraçoes às representações na reta numérica:
 
-^  I     ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
-|  II    | $\frac{1}{3}$   |   | (........)  | Imagem  |
-|  III   | $\frac{1}{4}$   |   | (........)  | Imagem  |
-|  IV    | $\frac{1}{5}$   |   | (........)  | Imagem  |
-|  V     | $\frac{1}{6}$   |   | (........)  | Imagem  |
-|  VI    | $\frac{1}{7}$   |   | (........)  | Imagem  |
-|  VII   | $\frac{1}{8}$   |   | (........)  | Imagem  |
-|  VIII  | $\frac{1}{9}$   |   | (........)  | Imagem  |
-|  IX    | $\frac{1}{10}$  |   | (........)  | Imagem  |
+^  A  ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
+|  B  | $\frac{1}{3}$   |   | (........)  | Imagem  |
+|  C  | $\frac{1}{4}$   |   | (........)  | Imagem  |
+|  D  | $\frac{1}{5}$   |   | (........)  | Imagem  |
+|  E  | $\frac{1}{6}$   |   | (........)  | Imagem  |
+|  F  | $\frac{1}{7}$   |   | (........)  | Imagem  |
+|  G  | $\frac{1}{8}$   |   | (........)  | Imagem  |
+|  H  | $\frac{1}{9}$   |   | (........)  | Imagem  |
+|  I  | $\frac{1}{10}$  |   | (........)  | Imagem  |
 
 
 <WRAP IMAGEM>
 INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela
+{{ :cap3:secoes:unitarias_na_reta.jpg?300 |}}
 </WRAP>
 
 
@@ -41,15 +42,15 @@ INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabel
 <WRAP resposta>
 <WRAP IMAGEM>
 Incluir a seguinte tabela
-^   ^ REPETIR IMAGENS  ^
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
-|   | REPETIR IMAGENS  |
+^ I  ^ REPETIR IMAGENS ENUNCIADO  ^
+| A | REPETIR IMAGENS ENUNCIADO |
+| B | REPETIR IMAGENS ENUNCIADO |
+| H | REPETIR IMAGENS ENUNCIADO |
+| F | REPETIR IMAGENS ENUNCIADO |
+| C | REPETIR IMAGENS ENUNCIADO |
+| E | REPETIR IMAGENS ENUNCIADO |
+| D | REPETIR IMAGENS ENUNCIADO |
+| G | REPETIR IMAGENS ENUNCIADO |
 </WRAP>
 </WRAP>
 </hidden>
