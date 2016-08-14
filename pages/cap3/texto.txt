@@ -70,14 +70,23 @@
 {{page>cap3:secoes:ativ_gr_subdiv}}
 */
 
+
 {{anchor:ativ_Comparacao fracoes unitarias na reta}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_Comparacao fracoes unitarias na reta}}
 
 
+
+{{anchor:ativ_Comparacao fracoes referencia 0 e 1}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_Comparacao fracoes referencia 0 e 1}}
+
+
+
 {{anchor:ativ_reta_numerada}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta_numerada}}
+
 
 /*
 {{anchor:ativ_reta_numerica2}}
