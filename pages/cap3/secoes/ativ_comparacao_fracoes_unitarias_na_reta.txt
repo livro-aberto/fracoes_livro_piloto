@@ -6,17 +6,19 @@ Ir para [[cap3:texto#ativ_comparacao_fracoes_unitarias_na_reta]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Representar frações unitárias na reta numérica.
-  * Comparar frações unitárias.
+  * Representar de frações na reta numérica.
+  * Comparação de frações unitárias na reta numérica.
+  * Comparar frações tendo o 0 e o 1 como referência.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
-   - 
+   - Observe e discuta com seus alunos que quanto maior o denominador, menor a fração. Portanto, sua representação na reta numérica está mais perto do zero. 
+   - Aproveite para propor e discutir com seus alunos algumas reflexões tais como: (i) Alguma fração unitária (ou seja, com numerador igual a 1) pode ter sua represtação na reta numérica entre $\frac{1}{2}$ e 1? (ii) Qual a fração unitária é maior $\frac{1}{4}$ ou $\frac{1}{10}$?  (iii) Que fração unitária tem sua representação na reta numérica mais próxima de 0,  $\frac{1}{5}$ ou $\frac{1}{6}$?
   
 </WRAP> 
 </hidden>
 
-Associe as fraçoes às representações na reta numérica:
+(a) Associe as fraçoes às representações na reta numérica:
 
 ^  I     ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
 |  II    | $\frac{1}{3}$   |   | (........)  | Imagem  |
@@ -29,12 +31,25 @@ Associe as fraçoes às representações na reta numérica:
 |  IX    | $\frac{1}{10}$  |   | (........)  | Imagem  |
 
 
+
+<WRAP IMAGEM>
+INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela
+
+</WRAP>
 </WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
-<WRAP imagem>
-.
+<WRAP IMAGEM>
+^   ^ REPETIR IMAGENS  ^
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
+|   | REPETIR IMAGENS  |
 </WRAP>
 </WRAP>
 </hidden>
