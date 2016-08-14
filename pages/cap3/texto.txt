@@ -72,7 +72,7 @@
 
 {{anchor:ativ_Comparacao fracoes unitarias na reta}}
 ==== Atividade - ====
-{{page>cap3:secoes:Comparacao fracoes unitarias na reta}}
+{{page>cap3:secoes:ativ_Comparacao fracoes unitarias na reta}}
 
 
 {{anchor:ativ_reta_numerada}}
