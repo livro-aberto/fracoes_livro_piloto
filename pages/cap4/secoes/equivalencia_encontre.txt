@@ -5,7 +5,7 @@ Ir para [[cap4:texto#equivalencia_encontre]]
 <hidden Para o professor>
 <WRAP professor>
 Objetivo específico: Levar o aluno a
-  * Determinar uma fração igual a uma dada fração com denominador especificado mas ainda uma fração irredutível.
+  * Determinar uma fração igual a uma dada fração irredutível com denominador especificado.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
