@@ -6,24 +6,30 @@ Ir para [[cap3:texto#ativ_fracoes_na_reta]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Representar frações na reta numérica
+  * Representar frações na reta numérica.
+  * Comparar frações.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
    - A associação das frações aos pontos correspondentes exigirá estratégias e comparações variadas. Procure identificar e discutir as argumentações apresentadas pelos alunos. 
-   - Inicialmente os alunos precisam identificar que as marcações em destaque identificam oitavos. Assim, 
-   - Espera-se que os alunos percebam que nem todos os pontos necessários para estabelecer as associações solicitadas estão evidenciados na figura, e que ainda é necessário subdividir cada quarta parte da unidade ao meio para obterem os pontos que estarão associados a algumas das frações de denominador 8. 
-  - 
-  - Se achar necessário, discuta a comparação entre alguns pares das frações apresentadas durante a resolução da atividade. Por exemplo, questione-os enter que pontos j´´a "etiquetados" posiciona-se a fração $\frac{7}{8}$ ou que comparem $\frac{7}{8}$ com a fração $\frac{3}{4}$ já posicionada na reta.
+   - Todos os pontos necessários para estabelecer as associações solicitadas estão evidenciados na figura, no entanto, nm todos são imediatos.
+   - Inicialmente os alunos precisam identificar que as marcações em destaque identificam oitavos. Assim, por exemplo, para identificar quartos, precisará reunir dois oitavos e para marcar $\frac{3}{2}$ precisará contar 12 oitavos.
+   - Esta atividade oferece também, de forma indireta, a oportunidade de os alunos estabelcerem comparações. Por exemplo, reconhecer que $\frac{3}{4}$ é menor do que 1 e que $\frac{5}{4}$ é maior, que $\frac{8}{4}$ = 2 e que $\frac{10}{4}$ é menor do que $\frac{10}{8}$. Destaque e discuta essas e outras comparações com os seus alunos. 
   
-
 </WRAP> 
 </hidden>
 
-Na reta numérica já estão marcados o 0, o 1 e a fração 1/2. Marque 3/2, 3/4, 5/4, 8/4, 10/4, 1/8, 7/8, 10/8 e 2 .
+Na reta numérica já estão marcados o 0, o 1 e a fração $\frac{1}{2}$. Marque $\frac{3}{2}$, $\frac{3}{4}$, $\frac{5}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{1}{8}$, $\frac{7}{8}$, $\frac{10}{8}$ e 2.
 <WRAP imagem> FIGURA GEOMÉTRICA
 
 {{ :cap3:secoes:reta.png?400 |}}
 </WRAP>
 
+<hidden Resposta>
+<WRAP resposta>
+<WRAP imagem>
+Incluir a imagem da reta apresentada no enunciado com os pontos correspondentes a $\frac{3}{2}$, $\frac{3}{4}$, $\frac{5}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{1}{8}$, $\frac{7}{8}$, $\frac{10}{8}$ e 2 devidamente identificados.
+</WRAP>
+</WRAP>
+</hidden>
