@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Associe as fraçoes às representações na reta numérica:
+Associe cada uma das frações à sua representação na reta numérica:
 
 ^  A  ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
 |  B  | $\frac{1}{3}$   |   | (........)  | Imagem  |
