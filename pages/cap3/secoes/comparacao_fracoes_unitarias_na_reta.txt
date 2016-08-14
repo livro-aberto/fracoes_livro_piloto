@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap3:texto#ativ_comparacao_fracoes_unitarias_na_reta]]
+Ir para [[cap3:texto#comparacao_fracoes_unitarias_na_reta]]
 ;;#
 
 <hidden Para o professor>
@@ -30,22 +30,12 @@ Associe as fraçoes às representações na reta numérica:
 |  X     |                |   | (........)  |   |
 
 
-
-
-
-
-
-
-
-
-
-{{ :cap3:secoes:reta.png?400 |}}
 </WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
 <WRAP imagem>
-Incluir a imagem da reta apresentada no enunciado com os pontos correspondentes a $\frac{3}{2}$, $\frac{3}{4}$, $\frac{5}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{1}{8}$, $\frac{7}{8}$, $\frac{10}{8}$ e 2 devidamente identificados.
+.
 </WRAP>
 </WRAP>
 </hidden>
