@@ -18,7 +18,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP> 
 </hidden>
 
-(a) Associe as fraçoes às representações na reta numérica:
+
+Associe as fraçoes às representações na reta numérica:
 
 ^  I     ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
 |  II    | $\frac{1}{3}$   |   | (........)  | Imagem  |
@@ -31,16 +32,15 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 |  IX    | $\frac{1}{10}$  |   | (........)  | Imagem  |
 
 
-
 <WRAP IMAGEM>
 INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela
+</WRAP>
 
-</WRAP>
-</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
 <WRAP IMAGEM>
+Incluir a seguinte tabela
 ^   ^ REPETIR IMAGENS  ^
 |   | REPETIR IMAGENS  |
 |   | REPETIR IMAGENS  |
