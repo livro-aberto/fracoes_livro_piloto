@@ -42,7 +42,7 @@ $$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12}.$$
 
 Portanto, o ponto azul representa qualquer uma das frações iguais
 
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}$$.
+$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}.$$
 
 Mais geralmente, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
 $$\dfrac{4}{3} = \dfrac{m \times 4}{m \times 3}.$$
