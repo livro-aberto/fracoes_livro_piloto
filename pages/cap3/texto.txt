@@ -88,6 +88,10 @@
 {{page>cap3:secoes:ativ_reta_numerada}}
 
 
+{{anchor:ativ_Comparacao fracoes}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_Comparacao_fracoes}}
+
 /*
 {{anchor:ativ_reta_numerica2}}
 ==== Atividade - ====
