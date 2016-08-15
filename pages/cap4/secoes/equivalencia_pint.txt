@@ -17,7 +17,8 @@ Classificações
   * UERJ: Interpretar: explicar
 </hidden>
 
-Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu colega tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  Quantos níveis do copo do seu colega devem ser preenchidos com suco de laranja para que ele fique com a mesma quantidade suco de laranja que você? Justifique sua resposta!
+Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu colega tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  
+Verifique se é possível completar um número inteiro de níveis do copo de seu colega de modo a ficar com a mesma quantidade de suco. Em caso afirmativo, explique sua resposta.
 
 <WRAP imagem> FIGURAS GEOMÉTRICAS</WRAP>
 <hidden Resposta>
