@@ -19,7 +19,7 @@ Na segunda figura, cada uma das subdivisões da unidade foram divididas em duas 
 </WRAP>
 
 Isto é,
-$$\dfrac{4}{3} = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6} ,$$.
+$$\dfrac{4}{3} = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6}.$$
 
 Na terceira figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em três partes iguais. Assim, cada unidade fica subdividida em nove partes iguais, ou seja, em nonos. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial) cópias de $\frac{1}{96}$. Portanto, o ponto azul representa também a fração $\frac{12}{9}$.
 
@@ -28,7 +28,7 @@ Na terceira figura, cada uma das três subdivisões da unidade apresentadas na p
 </WRAP>
 
 Isto é, 
-$$\dfrac{4}{3} = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9},$$.
+$$\dfrac{4}{3} = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9}.$$
 
 Na quarta figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em quatro partes iguais.
 
@@ -38,9 +38,9 @@ Na quarta figura, cada uma das três subdivisões da unidade apresentadas na pri
 
 Assim, como nos casos anteriores, conclui-se que o ponto azul representa a fração $\frac{16}{12}$:
 
-$$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12} ,$$.
+$$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12}.$$
 
-Portano, o ponto azul representa qualquer uma das frações iguais
+Portanto, o ponto azul representa qualquer uma das frações iguais
 
 $$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}$$.
 
@@ -51,7 +51,7 @@ Esse raciocínio vale para qualquer fração. Ou seja, dada uma fração $\frac{
 
 Neste caso serão necessárias ($m \times n$) cópias de subintervalos de comprimento $\frac{1}{m \times d}$, isto é:
 
-$$\dfrac{n}{d} = \dfrac{m \times n}{m \times d}$$
+$$\dfrac{n}{d} = \dfrac{m \times n}{m \times d},$$
 
 qualquer que seja o número natural $m > 0$.
 
