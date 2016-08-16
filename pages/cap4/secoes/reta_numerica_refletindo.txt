@@ -6,13 +6,13 @@ Ir para [[cap4:texto#reta_numerica_refletindo]]
 
 Na Atividade 7, foram apresentadas quatro figuras que mostravam a reta numérica com subdivisões em partes iguais, mas de formas diferentes.
 
-Na primeira figura, as subdivisões da unidade eram em três partes iguais, ou seja, em terços. Para representar o ponto azul na reta numérica da primeira figura, foram consideradas quatro cópias de $\frac{1}{3}$, justapostas a partir da origem. Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
+Na primeira figura, as subdivisões do segmento unitário (que está, aqui, servindo como unidade) eram em três partes iguais, ou seja, em terços. Para representar o ponto azul na reta numérica da primeira figura, foram consideradas quatro cópias de $\frac{1}{3}$, justapostas a partir da origem. Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_9.png?600 |}}
 </WRAP>
 
-Na segunda figura, cada uma das subdivisões da unidade foram divididas em duas partes iguais. Assim, cada unidade fica subdividida em seis partes iguais, ou seja, em sextos. Para representar o ponto azul na reta numérica da segunda figura, foram necessárias então oito (o dobro da quantidade anterior) cópias de  $\frac{1}{6}$. Logo, o ponto azul representa também a fração $\frac{8}{6}$.
+Na segunda figura, cada uma das subdivisões do segmento unitário foram divididas em duas partes iguais. Assim, as justaposições dos segmentos unitários ficam subdivididos em seis partes iguais, ou seja, em sextos. Para representar o ponto azul na reta numérica da segunda figura, foram necessárias então oito (o dobro da quantidade anterior) cópias de  $\frac{1}{6}$. Logo, o ponto azul representa também a fração $\frac{8}{6}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_10.png?600 |}}
@@ -21,7 +21,7 @@ Na segunda figura, cada uma das subdivisões da unidade foram divididas em duas 
 Isto é,
 $$\dfrac{4}{3} = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6}.$$
 
-Na terceira figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em três partes iguais. Assim, cada unidade fica subdividida em nove partes iguais, ou seja, em nonos. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial) cópias de $\frac{1}{96}$. Portanto, o ponto azul representa também a fração $\frac{12}{9}$.
+Na terceira figura, cada uma das três subdivisões do segmento unitário apresentadas na primeira figura foi dividida em três partes iguais. Assim, as justaposições dos segmentos unitários ficam subdivididos em nove partes iguais, ou seja, em nonos. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial) cópias de $\frac{1}{96}$. Portanto, o ponto azul representa também a fração $\frac{12}{9}$.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_11.png?600 |}}
@@ -30,7 +30,7 @@ Na terceira figura, cada uma das três subdivisões da unidade apresentadas na p
 Isto é, 
 $$\dfrac{4}{3} = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9}.$$
 
-Na quarta figura, cada uma das três subdivisões da unidade apresentadas na primeira figura foi dividida em quatro partes iguais.
+Na quarta figura, cada uma das três subdivisões do segmento unitário apresentadas na primeira figura foi dividida em quatro partes iguais.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap4:secoes:w_12.png?600 |}}
