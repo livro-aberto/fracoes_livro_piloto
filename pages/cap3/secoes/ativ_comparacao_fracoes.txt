@@ -10,25 +10,34 @@ Objetivo específico:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
-   -
+   - Nesta atividade, as frações são apresentadas apenas em sua representação simbólica na forma a/b. Espera-se que os alunos consigam compará-las a partir da ideia de quantidade, sem necessariamente recorrer às representações em modelos cotínuos ou na reta numérica. Assim, por exemplo, a comparação entre $\frac{1}{2}$ e $\frac{1}{3}$ fica estabelecida pelo fato de que a primeira identifica uma das partes da equipartição da unidade por dois, enquanto que $\frac{1}{3}$ identifica uma das partes da equipartição da mesma unidade por três. Logo, $\frac{1}{2}$ > $\frac{1}{3}$. 
+   - No entanto, é importante observar que alguns alunos podem precisar do apoio das demais representações citadas. Assim, sugere-se que os alunos sejam convidados a compartilharem com a turma as suas estratégias e que, na discussão de cada item, o professor ampare a reflexão com as representações em modelos cotínuos e na reta numérica. 
+   - Observe que os primeiros itens envolvem a comparação entre frações que têm o mesmo denminador. Portanto, a comparação se estabelece a partir da cpomparacão entre 
+   - Os itens seguintes envolvem a comparaçãode frações com o mesmo numerador. Portanto, a acomparação se estabelece a partir da comparação entre os numeradores, compreendendo que quanto maior o denominador, menor a parte da unidade. 
+   
   
 </WRAP> 
 </hidden>
 
 
 Complete as sentenças a seguir com os sinais **>** (maior), **<** (menor) ou **=** (igual) de modo a torná-las verdadeiras. 
-  - $\frac{1}{2}$ _________ $\frac{1}{3}$
-  - $\frac{1}{7}$ _________ $\frac{1}{6}$
-  - $\frac{2}{5}$ _________ $\frac{2}{7}$
-  - $\frac{5}{9}$ _________ $\frac{4}{9}$
-  - $\frac{3}{6}$ _________ $\frac{5}{6}$
-  - $\frac{7}{6}$ _________ $\frac{7}{8}$
-  - $\frac{8}{9}$ _________ $\frac{7}{6}$
-  - $\frac{5}{5}$ _________ $\frac{6}{6}$
-  - $\frac{1}{2}$ _________ $\frac{1}{2}$
-  - $\frac{1}{2}$ _________ $\frac{1}{2}$
-  - $\frac{1}{2}$ _________ $\frac{1}{2}$
-  - $\frac{1}{2}$ _________ $\frac{1}{2}$
+  - $\frac{5}{9}$ ________________________ $\frac{4}{9}$
+  - $\frac{3}{6}$ ________________________ $\frac{5}{6} 
+
+  - $\frac{1}{2}$   ________________________   $\frac{1}{3}$
+  - $\frac{1}{7}$   ________________________   $\frac{1}{6}$
+  - $\frac{2}{5}$   ________________________   $\frac{2}{7}$
+  - $\frac{4}{5}$   ________________________   $\frac{4}{3}$
+  - $\frac{12}{15}$ ________________________   $\frac{2}{7}$
+  - $\frac{2}{5}$   ________________________   $\frac{2}{7}$
+  - 
+ 
+  - $\frac{7}{6}$ ________________________ $\frac{7}{8}$
+  - $\frac{8}{9}$ ________________________ $\frac{7}{6}$
+  - $\frac{1}{2}$ ________________________ $\frac{1}{2}$
+  - $\frac{1}{2}$ ________________________ $\frac{1}{2}$
+  - $\frac{1}{2}$ ________________________ $\frac{1}{2}$
+  - $\frac{1}{2}$ ________________________ $\frac{1}{2}$
 
 
 <hidden Resposta>
