@@ -20,7 +20,7 @@
 </hidden>
 <hidden Lição 1>
   * [[cap1:texto|html]] 
-  * [[https://www.umlivroaberto.com/pdf/cap1_aluno.pdf|pdf aluno]]
+  * [[https://www.umlivroaberto.com/pdf/final_cap1_aluno.pdf|pdf aluno]]
   * [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf professor]]
 </hidden>
 <hidden Lição 2>
