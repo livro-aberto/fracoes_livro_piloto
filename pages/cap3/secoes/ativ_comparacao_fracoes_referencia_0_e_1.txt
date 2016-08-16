@@ -6,9 +6,7 @@ Ir para [[cap3:texto#ativ_comparacao_fracoes_referencia_0_e_1]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Representar de frações na reta numérica.
-  * Comparação de frações unitárias na reta numérica.
-  * Comparar frações tendo o 0 e o 1 como referência.
+  * Comparação de frações unitárias.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
@@ -18,9 +16,18 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP> 
 </hidden>
 
+Observando a atividade anterior (Atividade 13), complete as sentenças a seguir com os sinais > (maior) ou < (menor) de modo a torná-las verdadeiras.
 
-Associe 
 
+^     ^   |   |   |
+| a)  |  $\frac{1}{2}$     |   |  $\frac{1}{5}$     |
+| b)  |  $\frac{1}{4}$     |   |  $\frac{1}{3}$     |
+| c)  |  $\frac{1}{10}$    |   |  $\frac{1}{10}$    |
+| d)  |  $\frac{1}{12}$    |   |  $\frac{1}{12}$    |
+| e)  |  $\frac{1}{100}$  |   |  $\frac{1}{100}$  |
+| e)  |  $\frac{1}{100}$  |   |  $\frac{1}{100}$  |
+| e)  |  $\frac{1}{100}$  |   |  $\frac{1}{100}$  |
+| e)  |  $\frac{1}{100}$  |   |  $\frac{1}{100}$  |
 
 
 <WRAP IMAGEM>
