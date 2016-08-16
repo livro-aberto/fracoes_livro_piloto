@@ -23,16 +23,16 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha um desenho da unidade correspondente.
 
 |  Parte da unidade  |  Fração da unidade  |  Unidade  |
-|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  metade  | |
+|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um meio  | |
 |  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um terço  | |
 |  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um quarto  | |
 |  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  metade  | |
 |  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um terço  | |
 |  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um quarto  | |
-|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  metade  | |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um meio  | |
 |  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um terço  | |
 |  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um quarto  | |
-|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  metade  | |
+|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um meio  | |
 |  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um terço  | |
 |  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um quarto  | |
 
