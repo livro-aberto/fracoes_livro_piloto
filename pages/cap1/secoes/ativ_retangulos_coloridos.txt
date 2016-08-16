@@ -17,9 +17,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de uma unidade genérica. 
   * Recomenda-se que os alunos recortem as partes de cada um dos retângulos para realizar a comparação por sobreposição. No entanto, essa estratégia não será suficiente para todos os 8 casos. Em alguns casos, a comparação se dará pela identificação da fração unitária correspondente a cada parte. Nesses casos, o aluno deve reconhecer que a quarta parte é equivalente à metade da metade. Por exemplo, como no caso seguir.
 
-<WRAP imagem> Incluir imagem como a exemplificada a seguir, inclusive com os comentários indicados
-{{ :cap1:secoes:metade_da_metade.jpg?direct&200 |}}
-</WRAP>
+{{ :cap1:ativ_retangulos_coloridos_professor.png?direct&400 |}}
+
 
   * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem quatro das oito imagens, Página A, e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras quatro, para concluir a atividade. Para as figuras da Página B, será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
 
@@ -33,7 +32,7 @@ os retângulos devem estar organizados em duas páginas conforme a ilustração.
 </WRAP>
 </hidden>
 
-  - Quais dos retângulos a seguir foram repartidos em //quartos//? \\ <WRAP imagem> - FIGURA GEOMÉTRICA - A imagem deve conter oito retângulos **congruentes** coloridos, cada um com uma cor diferente das demais. Os retângulos devem estar divididos em partes conforme a imagem \\ {{ :cap1:secoes:quartos.jpg?direct&200 |}} </WRAP>
+  - Quais dos retângulos a seguir foram repartidos em //quartos//? \\ {{ :cap1:ativ_retangulos_coloridos.png?direct&400 |}}
   - Desenhe um retângulo e faça uma partição desse retângulo em quatro partes que não sejam todas quartos.
 
 
