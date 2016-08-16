@@ -23,23 +23,19 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Como nas atividades anteriores, não se espera que os alunos usem a medida para confirmar a metade. O objetivo é que identifiquem a representação da metade (ou não) por sobreposição e justaposição dasa partes, decompondo e recompondo a figura.
   * Cada aluno deve receber as imagens das figuras, disponíveis para reprodução (**Inserir LINK de página para reprodução**) para que possa manipular como achar melhor e conduzir a sua decisão. 
   * Incentive os alunos a argumentar, justificando a sua decisão. Para isso, podem, por exemplo, se apoiar em dobraduras ou no recorte das partes da figura.
-  * Procure apresentar e discutir com a turma mais do que uma solução para cada item   
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
 </WRAP>
 </hidden>
 
 Em cada uma das imagens, a parte colorida é uma fração da figura. Essas frações podem ser "um meio", "um quarto" ou "um décimo" da figura. Associe cada imagem à fração correspondente.
 
-<WRAP imagem> FIGURAS GEOMÉTRICAS - Devem ser feitas individualmente sem os itens A), B), etc.
-
-{{ :undefined:ummeio_umquarto_um_decimo.jpg?600 |}}
-
-
-</WRAP>
+{{ :cap1:ativ_linguagem_visual.png?600 |}}
 
 <hidden Resposta>
-<WRAP resposta> (A) um meio,  (B) um décimo, (C) um quarto, (D) um quarto,\\
-(E) um quarto, (F) um meio, (G) um quarto, (H) um décimo,\\
-(I) um quarto, (J) um décimo, (L) um quarto, (M) um meio
+<WRAP resposta> a) um meio,  b) um décimo, c) um quarto,\\ 
+d) um quarto, e) um quarto, f) um meio,\\ 
+g) um quarto, h) um décimo, i) um quarto,\\
+j) um décimo, l) um quarto, m) um meio
 </WRAP>
 </hidden>
 
