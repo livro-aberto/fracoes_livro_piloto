@@ -23,9 +23,7 @@ Nas figuras a seguir, um mesmo círculo aparece diferentemente dividido em parte
     -	A parte colorida do círculo na figura _ _ _ _ _ é um sétimo do círculo.
     -	A parte colorida do círculo na figura _ _ _ _ _ é um oitavo do círculo.
     -	A parte colorida do círculo na figura _ _ _ _ _ é a nona parte do círculo.
-    -	A parte colorida do círculo na figura _ _ _ _ _ é um décimo do círculo.\\ <WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras devem ser feitas individualmente e não devem conter os itens A), B), etc.
-{{ :cap1:secoes:circulos.jpg?600 |}}
-</WRAP>\\
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um décimo do círculo.\\ {{ :cap1:ativ_variadas.png?600 |}}\\
   - Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
   - Dentre as frações do círculo apresentadas, identifique uma que seja maior do que um nono do círculo.
   - Identifique uma fração do círculo que seja menor do que um sexto e maior do que um nono do círculo.
