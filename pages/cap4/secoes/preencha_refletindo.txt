@@ -22,18 +22,18 @@ Para preencher a **segunda linha da tabela** você deve ter percebido que
   * que duas peças lilás cobrem uma peça azul; 
 \\ {{ :cap4:secoes:w_4.png?200 |}} $\left(\frac{1}{3} = \frac{2}{6}\right)$
   * e que quatro peças lilás cobrem a região do círculo destacada em cinza. 
-\\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
+\\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{4}{6} = \frac{2\times 2}{2\times 3} = \frac{2}{3} \right)$
 Portanto, a região do círculo destacada em cinza é igual a $\frac{4}{6}$ do círculo.
 
 Este raciocínio pode ser escrito da seguinte maneira:
-$\frac{1}{3}$ é igual a duas vezes $\frac{1}{6}$, ou, simplesmente, 
+$\frac{1}{3}$ é igual a dois $\frac{1}{6}$, ou, simplesmente, 
 $\frac{1}{3}$ = $\frac{2}{6}$.
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E DUAS PECAS LILAS 
 </WRAP>
 Logo,
 
-$\frac{2}{3} = \frac{2 \times 2}{2 \times 3} = \frac{4}{6}$.
+$\frac{4}{6} = \frac{2 \times 2}{2 \times 3} = \frac{2}{3}$.
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E QUATRO PECAS LILAS 
 </WRAP>
@@ -45,17 +45,17 @@ Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter perc
     * que quatro peças rosas cobrem uma peça azul; 
 \\ {{ :cap4:secoes:w_7.png?200 |}} $\left(\frac{1}{3} = \frac{4}{12}\right)$
     * e que oito peças rosas cobrem a região do círculo destacada em cinza. 
-\\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
+\\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right)$
 Logo, a região do círculo destacada em cinza é igual a $\frac{8}{12}$ do círculo. 
 
 Este raciocínio pode ser representado do seguinte modo:
-$\frac{1}{3}$ é igual a quatro vezes $\frac{1}{12}$, ou, simplesmente, 
+$\frac{1}{3}$ é igual a quatro $\frac{1}{12}$, ou, simplesmente, 
 $\frac{1}{3}$=$\frac{4}{12}$
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E QUATRO PECAS ROSAS
 </WRAP>
 Logo,
-$\frac{2}{3} = \frac{4\times 2}{4 \times 3} = \frac{8}{12}$.
+$\frac{8}{12} = \frac{4\times 2}{4 \times 3} = \frac{2}{3}$.
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E OITO PECAS LILAS
 </WRAP>
