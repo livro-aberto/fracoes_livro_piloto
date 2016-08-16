@@ -22,19 +22,19 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha um desenho da unidade correspondente.
 
-|  Parte da unidade  |  Fração da unidade  |  Unidade  |
-|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um meio  | |
-|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um terço  | |
-|  {{:undefined:completar-o-todo-disco.jpg?30}}  |  um quarto  | |
-|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  metade  | |
-|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um terço  | |
-|  {{:undefined:completar-o-todo-quadrado.jpg?30}}  |  um quarto  | |
-|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um meio  | |
-|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um terço  | |
-|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um quarto  | |
-|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um meio  | |
-|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um terço  | |
-|  {{:undefined:completar-o-todo-triangulo.jpg?40}}  |  um quarto  | |
+|  Parte da unidade                                 |  Fração da unidade  |  Unidade  |
+|  {{:cap1:ativ_recomportodo1.png?50}}              |  um meio            |           |
+|  {{:cap1:ativ_recomportodo1.png?50}}              |  um terço           |           |
+|  {{:cap1:ativ_recomportodo1.png?50}}              |  um quarto          |           |
+|  {{:cap1:ativ_recomportodo2.png?50}}              |  metade             |           |
+|  {{:cap1:ativ_recomportodo2.png?50}}              |  um terço           |           |
+|  {{:cap1:ativ_recomportodo2.png?50}}              |  um quarto          |           |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um meio            |           |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um terço           |           |
+|  {{:undefined:completar-o-todo-segmento.jpg?30}}  |  um quarto          |           |
+|  {{:cap1:ativ_recomportodo3.png?70}}              |  um meio            |           |
+|  {{:cap1:ativ_recomportodo3.png?70}}              |  um terço           |           |
+|  {{:cap1:ativ_recomportodo3.png?70}}              |  um quarto          |           |
 
 <hidden Resposta>
 <WRAP resposta>
