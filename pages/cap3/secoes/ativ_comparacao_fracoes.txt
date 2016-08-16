@@ -21,6 +21,24 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Complete as sentenças a seguir com os sinais **>** (maior), **<** (menor) ou **=** (igual) de modo a torná-las verdadeiras. 
+
+^   ^   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
   - $\frac{5}{9}$ ________________________ $\frac{4}{9}$
   - $\frac{3}{6}$ ________________________ $\frac{5}{6} 
 
