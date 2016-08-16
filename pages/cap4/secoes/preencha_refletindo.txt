@@ -28,11 +28,15 @@ Portanto, a região do círculo destacada em cinza é igual a $\frac{4}{6}$ do c
 Este raciocínio pode ser escrito da seguinte maneira:
 $\frac{1}{3}$ é igual a duas vezes $\frac{1}{6}$, ou, simplesmente, 
 $\frac{1}{3}$ = $\frac{2}{6}$.
+<WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E DUAS PECAS LILAS 
+</WRAP>
 Logo,
 
-$\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$.
+$\frac{2}{3} = \frac{2 \times 2}{3 \times 2} = \frac{4}{6}$.
+<WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E QUATRO PECAS LILAS 
+</WRAP>
 
 
 Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
@@ -47,10 +51,14 @@ Logo, a região do círculo destacada em cinza é igual a $\frac{8}{12}$ do cír
 Este raciocínio pode ser representado do seguinte modo:
 $\frac{1}{3}$ é igual a quatro vezes $\frac{1}{12}$, ou, simplesmente, 
 $\frac{1}{3}$=$\frac{4}{12}$
+<WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E QUATRO PECAS ROSAS
+</WRAP>
 Logo,
-$\frac{2}{3} = 2 \times \frac{4}{12} = \frac{8}{12} = \frac{2\times 4}{3 \times 4}$.
+$\frac{2}{3} = \frac{2\times 4}{3 \times 4} = \frac{8}{12}$.
+<WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E OITO PECAS LILAS
+</WRAP>
 
 Portanto, a região do círculo destacada em cinza, que é $\frac{2}{3}$ do círculo, também é igual a $\frac{4}{6}$ do círculo e igual a $\frac{8}{12}$ do círculo, ou seja, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ representam a mesma quantidade e, portanto, são iguais:
 $\frac{2}{3}$ = $\frac{4}{6}$ = $\frac{8}{12}$
