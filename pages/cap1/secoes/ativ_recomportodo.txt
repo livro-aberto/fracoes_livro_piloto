@@ -18,8 +18,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-<WRAP imagem> FIGURAS GEOMÉTRICAS - As figuras das linhas devem ser feitas individualmente. Observe que há figuras no "Para o professor" e na "Resposta".
-</WRAP>
 Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha um desenho da unidade correspondente.
 
 |  Parte da unidade                                 |  Fração da unidade  |  Unidade  |
