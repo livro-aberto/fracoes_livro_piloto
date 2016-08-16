@@ -33,7 +33,7 @@ INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E DUAS PECAS LILAS
 </WRAP>
 Logo,
 
-$\frac{2}{3} = \frac{2 \times 2}{3 \times 2} = \frac{4}{6}$.
+$\frac{2}{3} = \frac{2 \times 2}{2 \times 3} = \frac{4}{6}$.
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E QUATRO PECAS LILAS 
 </WRAP>
@@ -55,7 +55,7 @@ $\frac{1}{3}$=$\frac{4}{12}$
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E QUATRO PECAS ROSAS
 </WRAP>
 Logo,
-$\frac{2}{3} = \frac{2\times 4}{3 \times 4} = \frac{8}{12}$.
+$\frac{2}{3} = \frac{4\times 2}{4 \times 3} = \frac{8}{12}$.
 <WRAP imagem>
 INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E OITO PECAS LILAS
 </WRAP>
