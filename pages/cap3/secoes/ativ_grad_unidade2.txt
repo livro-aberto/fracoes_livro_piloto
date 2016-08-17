@@ -5,7 +5,7 @@ Ir para [[cap3:texto#ativ_grad_unidade2]]
 <hidden Para o professor>
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
-  * Identificar, na reta numérica e a partir de modelos contínuos, os pontos correspondentes às frações da unidade do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para a>0.
+  * Identificar, na reta numérica e a partir de modelos contínuos, os pontos correspondentes às frações da unidade do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para $a>0$.
   * Mais especficamente, identificar na reta numérica e a partir de um modelo contínuo, os pontos correspondentes às frações da unidade $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$.
   
 Recomendações e sugestões para o desenvolvimento da atividade:
