@@ -13,7 +13,7 @@ Objetivo específico:
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
    - Observe e discuta com seus alunos que quanto maior o denominador, menor a fração. Portanto, sua representação na reta numérica está mais perto do zero. 
-   - Aproveite para propor e discutir com seus alunos algumas reflexões tais como: (i) Alguma fração unitária (ou seja, com numerador igual a 1) pode ter sua represtação na reta numérica entre $\frac{1}{2}$ e 1? (ii) Qual a fração unitária é maior $\frac{1}{4}$ ou $\frac{1}{10}$?  (iii) Que fração unitária tem sua representação na reta numérica mais próxima de 0,  $\frac{1}{5}$ ou $\frac{1}{6}$?
+   - Aproveite para propor e discutir com seus alunos algumas reflexões tais como: (i) Alguma fração unitária (ou seja, com numerador igual a 1) pode ter sua representação na reta numérica entre $\frac{1}{2}$ e 1? (ii) Qual fração unitária é maior, $\frac{1}{4}$ ou $\frac{1}{10}$?  (iii) Que fração unitária tem sua representação na reta numérica mais próxima de 0,  $\frac{1}{5}$ ou $\frac{1}{6}$?
   
 </WRAP> 
 </hidden>
