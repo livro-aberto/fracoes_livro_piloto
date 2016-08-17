@@ -1,5 +1,17 @@
 <code latex>
 
+
+\begin{center}
+\begin{tikzpicture}
+ \fill[attention] (0,0) -- (-90:10) arc (-90:30:10) -- (0,0) -- cycle;
+ \draw (0,0) circle (10);
+ \draw (0,0) -- (-90:10);
+ \draw (0,0) -- (30:10);
+ \draw (0,0) -- (150:10);
+ \node at (0,-14) {$\frac{1}{3}$ da torta};
+\end{tikzpicture}
+\end{center}
+
 \begin{center}
 \begin{tikzpicture}
  \fill[attention] (0,0) -- (-210:10) arc (-210:30:10) -- (0,0) -- cycle;
