@@ -22,7 +22,7 @@ Classificações:
 (Garcez, 2013)
 
   - O retângulo desenhado a seguir está dividido em $4$ partes iguais, dais quais $3$ estão pintadas de azul. Que fração do retângulo está pintada de azul?\\ <WRAP imagem> FIGURA GEOMÉTRICA -  {{ :cap4:secoes:dobradura-escondida-01.png?300 |}} </WRAP>
-  - O retângulo do item anterior foi dividido com o acréscimo de onze linhas horizontais igualmente espaçadas e parcialmente coberto com um retângulo vermelho que impede a visualização dos retângulos menores que compõem a nova equipartição. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul? \\ <WRAP imagem> FIGURA GEOMÉTRICA - {{ :cap4:secoes:dobradura-escondida-02.png?300 |}}</WRAP>
+  - O retângulo do item anterior foi dividido com o acréscimo de onze linhas horizontais igualmente espaçadas e ele está parcialmente coberto com um retângulo vermelho que impede a visualização dos retângulos menores que compõem a nova equipartição. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul? \\ <WRAP imagem> FIGURA GEOMÉTRICA - {{ :cap4:secoes:dobradura-escondida-02.png?300 |}}</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
