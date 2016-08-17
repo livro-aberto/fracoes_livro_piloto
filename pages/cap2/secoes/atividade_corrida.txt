@@ -60,6 +60,8 @@ Os carrinhos de Rafael e Samuel pararam no mesmo lugar? Explique.
 <hidden Resposta>
 <WRAP resposta>
 {{ :cap2:secoes:corrida-resposta-01.png?1500 |}}
+
+Observe que os carrinhos de Rafael e Samuel pararam no mesmo lugar!
 </WRAP>
 </hidden>
 
