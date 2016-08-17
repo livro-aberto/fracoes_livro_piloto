@@ -6,7 +6,7 @@ Ir para [[cap3:texto#ativ_grad_unidade]]
 <WRAP professor> 
 Objetivos específicos: Levar o aluno a
   * Associar, na reta numérica, a unidade ao número 1 a partir de modelos contínuos.
-  * Associar as frações $\frac{a}{b}$ da unidade a pontos na reta numérica a partir da equipartição da unidade e da justaposição de $a$ segmentos correspondentes à fração $\frac{1}{b}$ da unidade. 
+  * Associar as frações $\frac{n}{d}$ da unidade a pontos na reta numérica a partir da equipartição da unidade em $d$ partes e da justaposição, a partir do $0$ de $n$ segmentos correspondentes à fração $\frac{1}{d}$ da unidade. 
   * Mais especificamente, identificar as frações $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $\frac{4}{4}$ e $\frac{5}{4}$ da unidade a pontos da reta numérica, reconhecendo que $\frac{4}{4}=1$ e que $\frac{5}{4}>1$.
   * Defender verbalmente um ponto de vista.
   
@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que os alunos usem dobradura para realizar essa atividade. Instrua-os nesse sentido. Não se espera, nem se recomenda, que a atividade seja realizada a partir da medida do comprimento da faixa.
   * Pode ser muito enriquecedor para o estudante descrever cuidadosamente o processo de obtenção das frações, nos itens b) em diante.
   * Espera-se que eles sigam o modelo e façam traços para representar as marcações das frações. Este é um momento importante em que a fração é representada por um ponto na reta e não por uma região. Uma vez realizadas as marcações, pode ser interessante reiterar que a fração da unidade expressa em dada marcação é a fração da unidade que corresponde à região compreendida entre tal marca e a marca do zero.
-  * Observe que a marcação de $\frac{3}{4}$ pode se dar pela justaposição de "pedaços" da fita correspondentes a $\frac{1}{4}$ da unidade ou, reconhecendo que $\frac{1}{2}$ = $\frac{2}{4}$, pela identificação do ponto médio do "pedaço" de fita de extremos $\frac{1}{2}$ e 1.    
+  * Observe que a marcação de $\frac{3}{4}$ pode se dar pela justaposição, a partir do $0$, de "pedaços" da fita correspondentes a $\frac{1}{4}$ da unidade ou, reconhecendo que $\frac{1}{2}$ = $\frac{2}{4}$, pela identificação do ponto médio do "pedaço" de fita de extremos $\frac{1}{2}$ e $1$.    
   * A discussão sobre esta atividade deve levar os alunos a refletirem sobre a marcação do $\frac{4}{4}$ e a sua coincidência com a marcação da unidade, ou seja, do 1, reconhecendo que $\frac{4}{4}=1$. 
   * Na discussão sobre o item b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
 
