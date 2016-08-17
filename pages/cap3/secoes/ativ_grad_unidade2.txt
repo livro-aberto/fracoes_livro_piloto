@@ -14,7 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Estimule seus alunos a explicarem a resposta dada.  
   * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo contínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, a região colorida identifica a fração da unidade. No entanto, na reta, a fração da unidade é associada a um único ponto (no caso, observando a justaposição de segmentos congruentes correspondentes a $\frac{1}{5}$ do segmento unitário). 
   * Observe que as faixas organizadas uma acima da outra estão alinhadas à esquerda, garantido a correspondência entre as frações da unidade destacadas. 
-  * No item (b) espera-se que os alunos identifiquem a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1. Cabe aqui registrar a igualdade $\frac{5}{5}=1$ 
+  * No item (b) espera-se que os alunos identifiquem a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1. Cabe aqui registrar a igualdade $\frac{5}{5}=1$. 
 </WRAP>
 </hidden>
 
