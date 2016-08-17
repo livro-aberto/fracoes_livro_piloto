@@ -27,7 +27,7 @@ Classificações
 
 <hidden Resposta>
 <WRAP resposta>
-    - Três frações: $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$.
-    - Infinitas frações $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc.
+    - Três frações: $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$. Justificativa: $\frac{3}{5}$ são três "cópias" de $\frac{1}{5}$. Qualquer outra fração de denominador $5$ também é composta por uma quantidade inteira de "cópias" de $\frac{1}{5}$, quantidade esta determinada pelo numerador de fração. Para se ter então uma fração de denominador $5$ menor do que $\frac{3}{5}$, devemos ter menos do que $3$ "cópias" de $\frac{1}{5}$: $2$ "cópias", $1$ "cópia" ou $0$ "cópia". Assim, as frações de denominador $5$ menor do que $\frac{3}{5}$ são $\frac{0}{5}$, $\frac{1}{5}$ e $\frac{2}{5}$. 
+    - Infinitas frações $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc. Justificativa: $\frac{3}{5}$ são três "cópias" de $\frac{1}{5}$. Qualquer outra fração de denominador $5$ também é composta por uma quantidade inteira de "cópias" de $\frac{1}{5}$, quantidade esta determinada pelo numerador de fração. Para se ter então uma fração de denominador $5$ maior do que $\frac{3}{5}$, devemos ter mais do que $3$ "cópias" de $\frac{1}{5}$: $4$ "cópias", $5$ "cópias", $6$ "cópias", $7$ "cópias", etc. Assim, as frações de denominador $5$ maiores do que $\frac{3}{5}$ são $\frac{4}{5}$, $\frac{5}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, etc.
 </WRAP>
 </hidden>
