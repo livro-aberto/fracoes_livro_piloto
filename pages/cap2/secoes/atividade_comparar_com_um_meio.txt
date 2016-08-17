@@ -25,8 +25,8 @@ Para cada figura a seguir, indique a fração da figura que está pintada de ver
 
 <hidden Resposta>
 <WRAP resposta>
-  - A parte pintada da figura é exatamente igual a $\frac{1}{2}$ da figura.
-  - A parte pintada da figura é menor do que $\frac{1}{2}$ da figura.
-  - A parte pintada da figura é maior do que $\frac{1}{2}$ da figura.
+  - A parte pintada é exatamente igual a $\frac{1}{2}$ da figura.
+  - A parte pintada é igual a $\frac{4}{10}$ e é menor do que $\frac{1}{2}$ da figura.
+  - A parte pintada é igual a $\frac{6}{10}$ e é maior do que $\frac{1}{2}$ da figura.
 </WRAP>
 </hidden>
