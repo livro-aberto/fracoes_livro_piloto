@@ -14,6 +14,14 @@ Em cada um dos itens a seguir, escreva as frações dadas a partir de uma subdiv
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+
+  - $\frac{3}{9}$ e $\frac{2}{9}$. 	Fração unitária com denominador comum: $\frac{1}{9}$.		
+  - $\frac{3}{10}$ e $\frac{8}{10}$.	Fração unitária com denominador comum: $\frac{1}{10}$.
+  - $\frac{7}{7}$ e $\frac{3}{7}$. 	Fração unitária com denominador comum: $\frac{1}{7}$.		
+  - $\frac{9}{15}$ e $\frac{40}{15}$. Fração unitária com denominador comum: $\frac{1}{15}$.
+  - $\frac{21}{24}$ e $\frac{26}{24}$.	Fração unitária com denominador comum: $\frac{1}{24}$.	
+  - $\frac{7}{4}$ e $\frac{20}{4}$. 	Fração unitária com denominador comum: $\frac{1}{24}$.
+
+Observação: Todos esses itens admitem outras diferentes respostas, por conta de ser possível escrever a partir de outras frações unitárias. Por exemplo, na letra e temos como outra solução possível: $\frac{42}{48}$ e $\frac{52}{48}$. Fração unitária comum: $\frac{1}{48}$.
 </WRAP>
 </hidden>
