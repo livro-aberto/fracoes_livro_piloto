@@ -11,6 +11,6 @@ Quanto o número $\frac{19}{7}$ é maior que o inteiro 2?
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+$\frac{19}{7} – 2 =  \frac{19}{7} - \frac{14}{7}= \frac{5}{7}$.
 </WRAP>
 </hidden>
