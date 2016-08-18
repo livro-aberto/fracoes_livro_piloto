@@ -4,7 +4,7 @@ Ir para [[cap5:texto#calcule0]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade seguir deve ser conduzida com a mesma abordagem das atividades anteriores. Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$ para $n\neq 0$.
+Esta atividade deve ser conduzida com a mesma abordagem da atividade 4. Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$ para $n\neq 0$.
 </WRAP>
 </hidden>
 Em cada um dos itens a seguir, escreva as frações dadas a partir de uma subunidade comum. 
