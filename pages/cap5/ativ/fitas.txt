@@ -3,58 +3,23 @@ Ir para [[cap5:texto#fitas]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade tem por objetivo introduzir a soma de frações a partir da determinação de uma subunidade comum entre as parcelas, isto é, uma subdivisão da unidade da qual ambas são múltiplas inteiras. 
-Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subunidade dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas:
+Esta atividade tem por objetivo introduzir a soma de frações a partir da determinação de uma subunidade comum entre as parcelas, isto é, uma subdivisão da unidade que seja comum ambas sejam múltiplas inteiras. 
+Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subdivisão dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas:
   * **a unidade**, associada ao número 1, com base na qual são contadas quantidades inteiras;
-  * **subunidades**, obtidas pela subdivisão da unidade em partes iguais (no caso, os pedaços coloridos das fitas), cuja contagem permite **medir** quantidades menores que a unidade.
+  * subdivisões da unidade em partes iguais (no caso, os pedaços coloridos das fitas), cuja contagem permite **medir** quantidades menores que a unidade.
 
 A atividade envolve a subdivisão de fitas coloridas em pedaços de mesmo tamanho. 
 É recomendável que o professor desenvolva a atividade em sala de aula utilizando materiais concretos. 
-As fitas coloridas podem ser feitas com papel e cartolinda, e os alunos podem recortá-las e juntar os pedaços de acordo com o que é pedido nos itens da atividade. 
+As fitas coloridas podem ser feitas com papel e cartolina, e os alunos podem recortá-las e juntar os pedaços de acordo com o que é pedido nos itens da atividade.
 Nesta etapa de familiarização inicial com as operações com frações, a manipulação concreta é importante para a construção de significado.
 
 O item a) visa ao reconhecimento pelo aluno das frações envolvidas na situação apresentada. 
 Assim, espera-se que o aluno responda , $\frac{1}{3}$, $\frac{1}{2}$ e $\frac{1}{4}$.
 
-Em seguida, a apresentada uma situação em que simples em que uma subunidade comum, no caso o pedaço de fita amarelo, permite a determinação da soma:
+Em seguida, é apresentada uma situação simples em que uma subdivisão comum, no caso o pedaço de fita amarelo, permite a determinação da soma:
 $$ \frac{1}{2} + \frac{2}{4} = \frac{1}{2} + \frac{1}{2} = 1.$$
-Os itens b) e c) visam à generalização dessa ideia, em situações não tão imediatas.
 
-No item b), em primeiro lugar, os alunos devem perceber que a nova fita vermelha e azul formada é menor que a fita original. 
-Para chegar a essa conclusão, diferentes estratégias podem ser empregadas - e a exploração dessas estratégias deve ser estimulada pelo professor. 
-Por exemplo, os alunos podem observar concretamente que como cada pedaço vermelho (correspondente à fração $\frac{1}{3}$) é menor que cada pedaço azul (correspondente à fração $\frac{1}{2}$), então a nova fita vermelha e azul é menor que a fita original.
-
-A partir dessas explorações iniciais, a ideia é que os alunos percebam que há diversas formas de saber qual fita tem o maior tamanho, e que, além disso, é possível determinar o tamanho - ou a **medida** - da nova fita vermelha e azul em relação à original somando-se as medidas dos dois pedaços (vermelho e azul) que a compõe. 
-Para isso, algumas observações são fundamentais:
-    * O tamanho da fita original será uma **unidade** de medida, em relação a qual as medidas das demais grandezas serão determinadas, e expressas como frações.
-    * Como os pedaços vermelho e azul correspondem a subdivisões de tamanhos diferentes da unidade de medida (tamanho da fita original), para determinar sua soma será preciso expressá-los como múltiplos inteiros de uma **subunidade comum**. Essa subunidade pode ser obtida dividindo-se o pedaço vermelho em duas partes iguais, e o pedaço azul em três partes iguais.
-
-<WRAP imagem>
-FIGURA GEOMÉTRICA
-
-{{:cap5:ativ:vw5.png?500|}}
-</WRAP>
-
-Desta forma, cada pedaço tem a mesma medida de 2 pedaços de $\frac{1}{6}$ da unidade, e cada pedaço azul tem a mesma medida de 3 pedaços de $\frac{1}{6}$ da unidade:
-$$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6}.$$
-Assim, totalização 5 pedaços de  $\frac{1}{6}$ da unidade:
-$$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6} = \frac{5}{6}.$$
-
-<WRAP imagem>
-FIGURA GEOMÉTRICA
-
-{{:cap5:ativ:vw6.png?500|}}
-</WRAP>
-
-Essa subunidade comum permite ainda determinar a diferença entre os tamanhos da fita original e da nova fita vermelha e azul, associando-se a unidade a 6 pedaços de $\frac{1}{6}$:
-$$1 - \dfrac{5}{6} =  \dfrac{6}{6} - \dfrac{5}{6} =  \dfrac{1}{6}.$$
-<WRAP imagem>
-FIGURA GEOMÉTRICA
-
-{{:cap5:ativ:vw7.png?500|}}
-</WRAP>
-Como observado anteriormente, essas construções podem ser feitas por meio de corte e colagem de materiais concretos.
-O item c) deve ser desenvolvido de forma análoga ao item b).
+O item b), embora seja bem parecido com o exemplo dado, demanda que o estudante determine uma subdivisão diferente da usada no item anterior. Nesse caso o estudante deve observar que é necessário utilizar a subdivisão $\frac{1}{4}$ para medir essas partes que foram juntadas.
 </WRAP>
 </hidden>
 
@@ -70,22 +35,15 @@ FIGURA GEOMÉTRICA
 
 {{:cap5:ativ:vw9.png?500|}}
 </WRAP>
-  - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?\\ \\ Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço azul e dois pedaços amarelos. \\ <WRAP imagem> FIGURA GEOMÉTRICA \\  {{:cap5:ativ:vw10.png?500|}}</WRAP>\\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é equivalente a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
-  - Agora, professora Estela formou uma fita colorida juntando um pedaço vermelho e um pedaço azul. Essa nova fita vermelha e azul é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e azul?
-  - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? 
-  - Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
-
-
+  - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?
+  - Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço azul e dois pedaços amarelos. \\ <WRAP imagem> FIGURA GEOMÉTRICA \\  {{:cap5:ativ:vw10.png?500|}}</WRAP>\\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é equivalente a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
+  - A professora também agrupou pedaços de fita, juntando 1 pedaço amarelo e 1 pedaço azul, como na figura abaixo. Qual fração da fita inicial corresponde esses dois pedaços juntos?<WRAP imagem> FIGURA ARTÍSTICA - Inserir uma caixa com uma professora falando: "Um dos objetivos dessa lição é compreender como é juntar frações quaisquer. Observar, por exemplo, como fica a fração da fita composta por pedaços ver amarelo e vermelho, onde em que um não tem o dobro do tamanho do outro."</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
-a) Cada pedaço da fita vermelha corresponde a um terço da mesma; cada pedaço da fita azul corresponde è metade (ou $\frac{1}{2}$) da mesma; cada pedaço da fita amarela corresponde a um quarto da mesma.
-
-b) Um pedaço vermelho + um pedaço azul = $\frac{1}{3}$ + $\frac{1}{2}$, que é menor do que a unidade, uma vez que $\frac{1}{3}$ < $\frac{1}{2}$. de fato, $\frac{1}{3}$ + $\frac{1}{2}$ = $\frac{2}{6}$ + $\frac{3}{6}$ = $\frac{5}{6}$ e $\frac{5}{6}$ < 1. 
-
-c) Como cada pedaço da fita vermelha corresponde a um terço da mesma e cada pedaço da fita amarela corresponde a um quarto da mesma, tem-se 
-
-dois pedaços vermelhos + três pedaços amarelos = $\frac{2}{3}$ + $\frac{3}{4}$ = $\frac{8}{12}$ + $\frac{9}{12}$ = $\frac{17}{12}$ e $\frac{17}{12}$ > $\frac{12}{12}$ = 1. Logo, a fita vermelha e amarela á maior do que as fitas originais (que servem de unidade). A fita vermelha e amarela corresponde a $\frac{17}{12}$ da fita original.  
+  - Cada pedaço da fita vermelha corresponde a um terço da mesma; cada pedaço da fita azul corresponde è metade (ou $\frac{1}{2}$) da mesma; cada pedaço da fita amarela corresponde a um quarto da mesma.
+  - Um pedaço vermelho + um pedaço azul = $\frac{1}{3}$ + $\frac{1}{2}$, que é menor do que a unidade, uma vez que $\frac{1}{3} < \frac{1}{2}$. de fato, $\frac{1}{3}$ + $\frac{1}{2}$ = $\frac{2}{6}$ + $\frac{3}{6}$ = $\frac{5}{6}$ e $\frac{5}{6} < 1$.
+  - Como cada pedaço da fita vermelha corresponde a um terço da mesma e cada pedaço da fita amarela corresponde a um quarto da mesma, tem-se dois pedaços vermelhos + três pedaços amarelos = $\frac{2}{3}$ + $\frac{3}{4}$ = $\frac{8}{12}$ + $\frac{9}{12}$ = $\frac{17}{12}$ e $\frac{17}{12}$ > $\frac{12}{12}$ = 1. Logo, a fita vermelha e amarela á maior do que as fitas originais (que servem de unidade). A fita vermelha e amarela corresponde a $\frac{17}{12}$ da fita original.  
 
 d) $\frac{17}{12}$-$\frac{12}{12}$ = $\frac{5}{12}$. Adiferença entre as fitas vermelha e amarela e a priginal é de  $\frac{5}{12}$.
 </WRAP>
