@@ -11,6 +11,6 @@ Quanto deve-se acrescentar a $\frac{3}{8}$ para obter $\frac{27}{8}$?
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+$\frac{27}{8} - \frac{3}{8} = \frac{24}{8} = 3$. Isto indica que devemos acrescentar a fração $\frac{3}{8}$ a 3 inteiros para obter $\frac{27}{8}$. 
 </WRAP>
 </hidden>
