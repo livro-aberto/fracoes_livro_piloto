@@ -5,11 +5,8 @@ Ir para [[cap5:texto#reta_menos]]
 <hidden Para o professor>
 <WRAP professor>
 O objetivo desta atividade é aprofundar a familiaridade dos alunos com a representação na reta. Caso os alunos tenham dificuldades em pensar sobre as soluções das tarefas propostas, o professor pode propor e explorar tarefas análogas com números naturais, empregando, por exemplo, a primeira figura.
-
-Observe que buscamos articular as nomenclaturas "distância" e "tamanho do segmento". Sugerimos que busque discutir a relação entre essas ideias com os alunos. 
-
-O item b. visa dar continuidade à discussão sobre densidade dos números racionais na reta, que foi introduzida na Lição 4. A partir da escrita de frações como $\frac{15}{12}$ e $\frac{22}{12}$, pode não ser difícil para os alunos observar os seis números $\frac{16}{12}$, $\frac{17}{12}$, $\frac{18}{12}$, $\frac{19}{12}$, $\frac{20}{12}$ e $\frac{21}{12}$. Uma estratégia para encontrar mais números é escrever, por exemplo, $A$ e $B$ como $\frac{30}{24}$ e $\frac{44}{24}$ e tomar $\frac{n}{24}$, com $n$ variando entre 30 e 44 está entre $A$ e $B$. A ideia é discutir com a turma que, como sempre podemos repetir esse processo, sempre poderemos encontrar mais números entre $A$ e $B$. Daí, pode-se retomar a discussão sobre frações equivalentes e sobre densidade, que foi ensejada nos últimos 3 exercícios da Lição 4.
-</WRAP>
+Observe que buscamos articular as nomenclaturas "distância" e "tamanho do segmento". Sugerimos que busque discutir a relação entre essas ideias com os alunos.
+O item b) visa dar continuidade à discussão sobre densidade dos números racionais na reta, que foi introduzida na lição 4. A partir da escrita de frações como $\frac{15}{12}$ e $\frac{22}{12}$, pode não ser difícil para os alunos observar os seis números $\frac{16}{12}$, $\frac{17}{12}$, $\frac{18}{12}$, $\frac{19}{12}$, $\frac{20}{12}$ e $\frac{21}{12}$. Uma estratégia para encontrar mais números é escrever, por exemplo, A e B como $\frac{30}{24}$ e $\frac{44}{24}$ e tomar $\frac{n}{24}$, com $n$ variando entre 30 e 44 está entre A e B. A ideia é discutir com a turma que, como sempre podemos repetir esse processo, sempre poderemos encontrar mais números entre A e B. Daí, pode-se retomar a discussão sobre frações equivalentes e sobre densidade, que foi ensejada nos últimos exercícios da lição 4.</WRAP>
 </hidden>
 
 Observando a reta, Miguel conseguiu determinar a distância entre dois números $A = 3$ e $B = 7$ marcados (ou o tamanho do segmento $AB$) da seguinte forma:
@@ -23,12 +20,12 @@ Usando um raciocínio parecido, e considerando $C = \frac{5}{4}$ e $D=\frac{11}{
 {{ :cap5:ativ:reta_horizontal3.png?500 |}}
 </WRAP>
 
-  - Escreva $C$ e $D$ a partir de uma mesma subunidade (ou com o mesmo denominador).
-  - Determine seis números que correspondam a pontos entre C e D. \\ Discuta com seus colegas se é possível determinar mais que seis valores e, se for possível, qual seria a estratégia para fazer isso.
+  - Escreva C e D a partir de uma mesma subdivisão da unidade (isto é, com o mesmo denominador).
+  - Determine seis frações que correspondam a pontos entre C e D. \\ Discuta com seus colegas se é possível determinar mais que seis valores e, se for possível, qual seria a estratégia para fazer isso.
   - Calcule o tamanho do seguimento $CD$.
   - Determine uma fração que somada a $\frac{5}{4}$ dê um resultado menor que $\frac{11}{6}$. Justifique a sua resposta usando a reta. $$ \dfrac{5}{4} +\dfrac{\quad}{} = \dfrac{11}{6}.$$ 
-  - Encontre mais três valores possíveis para completar a fração solicitada no item anterior. 
-  - Determine duas frações possíveis que quando somadas a $\frac{5}{4}$ tenham com resultado $\frac{11}{6}$. Justifique a sua resposta usando a reta. $$ \dfrac{5}{4} +\dfrac{\quad}{} + \dfrac{\quad}{} = \dfrac{11}{6}.$$ 
+  - Encontre mais três frações possíveis para completar a expressão do item anterior. 
+  - Determine duas frações possíveis que quando somadas a $\frac{5}{4}$ tenham como resultado $\frac{11}{6}$. Justifique a sua resposta usando a reta. $$ \dfrac{5}{4} +\dfrac{\quad}{} + \dfrac{\quad}{} = \dfrac{11}{6}.$$ 
 <hidden Resposta>
 <WRAP resposta>
 Resolução da atividade. 
