@@ -4,9 +4,9 @@ Ir para [[cap5:texto#unidade1]]
 <hidden Para o professor>
 <WRAP professor>
 O objetivo desta primeira atividade da lição é destacar o papel de se procurar uma unidade comum para comparar, somar ou subtrair duas quantidades. 
-Por exemplo, no caso da situação apresentada nesta atividade, a unidade comum empregada - copo - permite saber que volume de óleo o recipiente 2 comporta a mais que o recipiente 1, neste caso, 17 copos. 
-Isto é, a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 17 copos. 
-Uma unidade comum também permite determinar o volume correspondente à soma de duas quantidades dadas, que neste caso seria de 63 copos.
+Por exemplo, no caso da situação apresentada nesta atividade, a unidade comum empregada - copo - permite saber que volume de óleo o recipiente 2 comporta a mais que o recipiente 1, neste caso, 14 copos. 
+Isto é, a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 14 copos. 
+Uma unidade comum também permite determinar o volume correspondente à soma de duas quantidades dadas, que neste caso seria de 66 copos.
 Entretanto, é importante destacar que essas não são as únicas formas de interpretar concretamente as ações de determinar a diferença e a soma dos volumes de óleo. 
 No item a), espera-se que o aluno use o copo como unidade como um meio de comparação. 
 Porém, em sala de aula, os alunos podem argumentar, por exemplo, que para determinar a diferença entre os dois recipientes, basta encher o menor e despejar o conteúdo no maior. 
