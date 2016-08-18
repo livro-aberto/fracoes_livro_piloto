@@ -18,6 +18,6 @@ figura artística
 É possível redistribuir a água de todos os recipientes em somente duas garrafas?
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+Somando a quantidade de água presente nas três garrafas temos: $\frac{2}{3}+\frac{1}{2}+\frac{5}{8} = \frac{16}{24}+\frac{12}{24}+\frac{15}{24} = \frac{43}{24}$. Concluímos que é possível, pois $\frac{43}{24}<\frac{48}{24}=2$.  
 </WRAP>
 </hidden>
