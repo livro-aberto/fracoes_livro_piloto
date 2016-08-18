@@ -59,6 +59,13 @@ Com base nessa ideia, responda às questões a seguir.
 
 <hidden Resposta>
 <WRAP resposta>
-Falta a resposta
+
+    - $\frac{1}{12}$ é a fração unitária com denominador comum, pois todas as quantidades consumidas podem ser indicadas as partir de múltiplos dessa fração de pizza. 
+    - Completando os numeradores obteremos as frações $\frac{2}{12}$, $\frac{9}{12}$ e $\frac{8}{12}$; que são as frações equivalentes a $\frac{1}{6}$, $\frac{3}{4}$ e $\frac{2}{3}$, respectivamente. 
+    - Observando as quantidades indicadas no item anterior quem consumiu mais foi Bruno, $\frac{9}{12}$ de pizza. Quem consumiu menos foi Amanda, $\frac{2}{12}$ da pizza. 
+    - $\frac{9}{12} -  \frac{8}{12} = \frac{1}{12}$.
+    - $\frac{2}{12} +  \frac{9}{12} = \frac{11}{12}$.
+    - $\frac{8}{12} -  \frac{2}{12} = \frac{6}{12}$.
+    - $\frac{9}{12} -  \frac{2}{12} = \frac{7}{12}$
 </WRAP>
 </hidden>
