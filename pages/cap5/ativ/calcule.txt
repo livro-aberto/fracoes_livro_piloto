@@ -4,7 +4,7 @@ Ir para [[cap5:texto#calcule]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade seguir deve ser conduzida com a mesma abordagem das duas atividades anteriores. Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$ para $n\neq 0$.
+As operações com frações propostas nesta atividade também devem ser conduzidas com a mesma abordagem da atividade 4.
 </WRAP>
 </hidden>
 Determine as soluções das contas a seguir.
