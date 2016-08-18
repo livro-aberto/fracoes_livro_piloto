@@ -5,11 +5,11 @@ Ir para [[cap5:texto#unidade2]]
 <hidden Para o professor>
 
 <WRAP professor>
-Esta atividade apresenta explicitamente aos alunos a determinação de um denominador comum com base na ideia de subunidade de medida. 
-A subunidade já é dada, e sua determinação não é pedida ao aluno, o que voltará a ser objetivo das próximas atividades.
-  - Este item visa à identificação geométrica de fração da unidade que terá o papel de subunidade. Espera-se  $\frac{1}{16}$ como resposta.
-  - Este item permite resgatar atividades sobre frações equivalentes, como aquelas realizadas na lição 4. Observe que aqui há uma recontagem das frações a partir da subunidade "pedaço de chocolate". Aqui a fração equivalente indica a recontagem da fração  $\frac{1}{2}$ a partir da subunidade  $\frac{1}{16}$.
-  - Neste item, trabalha-se com a interpretação de adição como "juntar". Aqui pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identificá-los como  $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subunidade comum:  $\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} =\frac{11}{16}$.
+Esta atividade apresenta explicitamente aos alunos a determinação de um denominador comum com base na ideia de subdivisão da unidade. 
+Essa subdivisão já é dada, e sua determinação não é pedida ao aluno, o que voltará a ser objetivo das próximas atividades.
+  - Este item visa à identificação geométrica de subdivisão da unidade que será empregada para efetuar as operações. Espera-se  $\frac{1}{16}$ como resposta.
+  - Este item permite resgatar atividades sobre frações equivalentes, como aquelas realizadas na lição 4. Observe que aqui há uma recontagem das frações a partir da subdivisão "pedaço de chocolate". Aqui a fração equivalente indica a recontagem da fração  $\frac{1}{2}$ a partir da  subdivisão $\frac{1}{16}$.
+  - Neste item, trabalha-se com a interpretação de adição como "juntar". Aqui pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identificá-los como  $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subdivisão comum:  $\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} =\frac{11}{16}$.
   - Este item pode ser encaminhado de forma análoga ao anterior. Especificamente aqui pode se retomar a ideia de que $1 = \frac{n}{n}$, discutida na lição anterior, daí apresentar $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
 </WRAP>
 </hidden>
@@ -23,18 +23,17 @@ Alice comeu a metade dessa barra de chocolate (em amarelo), e Miguel comeu 3 dos
 {{ :cap5:ativ:chocolate_geometrico.png?300 |}}
 </WRAP>
 Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são: $\frac{1}{2}$ por Alice e $\frac{3}{16}$ por Miguel.
-O pedaço da barra é uma subdivisão dessa unidade, isto é, uma subunidade.
-Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir dessa subunidade de um pedaço. Por exemplo, __Alice comeu 8 pedaços__ e __Miguel comeu 3 pedaços.__
-  - Complete a parte em branco (numerador) para indicar, a partir da subunidade, a fração da barra de chocolate que Alice comeu. $$\frac{1}{2} = \frac{ }{16}$$ 
+O pedaço da barra é uma subdivisão dessa unidade.
+Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir dessa subdivisão de um pedaço. Por exemplo, __Alice comeu 8 pedaços__ e __Miguel comeu 3 pedaços.__
+  - Um pedaço corresponde a que fração da barra de chocolate?
+  - Complete a parte em branco (numerador) para indicar a fração da barra de chocolate que Alice comeu. $$\frac{1}{2} = \frac{ }{16}$$ 
   - Qual a fração do chocolate foi comida por Alice e Miguel juntos?
   - Qual a fração da barra de chocolate que não foi comida?
 
 <hidden Resposta>
 <WRAP resposta>
-a) $$\frac{1}{2} = \frac{8}{16}$$
-
-b) Alice e Miguel comeram juntos 11 pedaços. Como cada pedaço corresponde a  $\frac{1}{16}$ da barra, tem-se que Alice e Miguel comeram juntos $\frac{11}{16}$ da barra.
-
-c) Como a barra corresponde à unidade, a parte não comida é calculada pela diferença 1 - $\frac{11}{16}$ = $\frac{16}{16}$ - $\frac{11}{16}$ = $\frac{5}{16}$. Outra maneira é dizer que não foram comidos 5 pedaços, e como cada pedaço corresponde a $\frac{1}{16}$ da barra, tem-se que $\frac{5}{16}$ da barra não foram comidos.
+  - $$\frac{1}{2} = \frac{8}{16}$$
+  - Alice e Miguel comeram juntos 11 pedaços. Como cada pedaço corresponde a  $\frac{1}{16}$ da barra, tem-se que Alice e Miguel comeram juntos $\frac{11}{16}$ da barra.
+  - Como a barra corresponde à unidade, a parte não comida é calculada pela diferença 1 - $\frac{11}{16}$ = $\frac{16}{16}$ - $\frac{11}{16}$ = $\frac{5}{16}$. Outra maneira é dizer que não foram comidos 5 pedaços, e como cada pedaço corresponde a $\frac{1}{16}$ da barra, tem-se que $\frac{5}{16}$ da barra não foram comidos.
 </WRAP>
 </hidden>
