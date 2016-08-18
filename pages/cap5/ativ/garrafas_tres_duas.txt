@@ -4,7 +4,7 @@ Ir para [[cap5:texto#garrafas_tres_duas]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade retoma a noção de fração como parte de uma unidade em situações concretas. Além disso, envolvem as interpretações de adição como juntar e comparar.
+Como na atividade anterior, é explorada aqui a noção de fração como parte de um todo com as interpretações de adição como juntar e comparar, agora com três parcelas e com uma situação envolvendo volume.
 </WRAP>
 </hidden>
 
