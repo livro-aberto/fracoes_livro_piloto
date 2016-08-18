@@ -7,8 +7,7 @@ Ir para [[cap5:texto#calcule0]]
 Esta atividade deve ser conduzida com a mesma abordagem da atividade 4. Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$ para $n\neq 0$.
 </WRAP>
 </hidden>
-Em cada um dos itens a seguir, escreva as frações dadas a partir de uma subunidade comum. 
-Destaque a subunidade para cada par de frações.
+Em cada um dos itens a seguir, escreva as frações dadas a partir de uma subdivisão comum. Destaque a subdivisão para cada par de frações.
 | a. $\frac{1}{3}$ e $\frac{2}{9}$  |  b. $\frac{3}{10}$ e $\frac{4}{5}$  |  c. 1 e $\frac{3}{7}$  |
 | d. $\frac{3}{5}$ e $\frac{8}{3}$  |  e. $\frac{7}{8}$ e $\frac{13}{12}$  | f. $\frac{7}{4}$ e 5  |
 
