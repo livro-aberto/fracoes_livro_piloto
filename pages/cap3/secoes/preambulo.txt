@@ -155,13 +155,13 @@ Estratégia:
 
 Esta lição tem por objetivo: 
   - Retomar a representação de números na reta numérica, enfatizando a associação do número 1 à unidade;
-  - Introduzir a representação de frações na reta numérica, admitindo, assim, a representação na reta numérica também de quantidades não inteiras.
+  - Introduzir a representação de frações na reta numérica, admitindo assim a representação, na reta numérica, também de quantidades não inteiras.
   - Comparar frações de mesmo denominador.
   - Comparar frações a partir de uma fração de referência.
 
-Visando aos objetivos apresentados, as atividades aqui propostas ainda exploram as frações em modelos visuais contínuos, a partir da justaposição de partes correspondentes às frações unitárias. Essa abordagem será a base para a representação das frações na reta numérica e para a associação da unidade ao número 1.  A expressão reta numérica se refere ao modelo de organização dos números na reta. 
+Visando aos objetivos apresentados, as atividades aqui propostas exploram as frações em modelos visuais contínuos, a partir da justaposição de partes correspondentes às frações unitárias. Essa abordagem será a base para a representação das frações na reta numérica e para a associação da unidade ao número 1.  (A expressão reta numérica refere-se ao modelo de organização dos números na reta). 
 
-A construção da reta numérica será amparada pelo conhecimento anterior dos alunos sobre a representação dos números naturais (0, 1, 2, 3, 4, ...) nessa reta e pela exploração de modelos contínuos. O segmento unitário, de extremos 0 e 1, será a unidade e as frações unitárias $\frac{1}{n}$, $n$ natural não nulo, representadas por uma das partes da equipartição desse segmento em $n$ partes ($n\neq0$). As demais frações serão associadas a pontos na reta pela justaposição, a partir do zero, de segmentos correspondentes às frações unitárias. Assim, por exemplo, a fração $\frac{1}{2}$ será associada à metade do segmento unitário, portanto, ao ponto médio do segmento de extremos 0 e 1. Já a fração $\frac{5}{2}$ será associada ao ponto correspondente à justaposição, a partir do zero, de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao $\frac{1}{2}$, como ilustra a figura a seguir:
+A construção da reta numérica será amparada pelo conhecimento anterior dos alunos da representação dos números naturais (0, 1, 2, 3, 4, ...) nessa reta e pela exploração de modelos contínuos. O segmento unitário, de extremos 0 e 1, será a unidade e as frações unitárias $\frac{1}{d}$, $d$ natural não nulo, representadas por uma das partes da equipartição desse segmento em $d$ partes ($d\neq0$). As demais frações serão associadas a pontos na reta pela justaposição, a partir do zero, de segmentos correspondentes às frações unitárias. Assim, por exemplo, a fração $\frac{1}{2}$ será associada à metade do segmento unitário, portanto, ao ponto médio do segmento de extremos 0 e 1. Já a fração $\frac{5}{2}$ será associada ao ponto correspondente à justaposição, a partir do zero, de 5 segmentos equivalentes ao segmento cujos extremos correspondem ao zero e ao $\frac{1}{2}$, como ilustra a figura a seguir:
 
 {{:cap3:secoes:figuraintroducao2.jpg?300|}}
 
