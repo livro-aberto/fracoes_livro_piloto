@@ -19,7 +19,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Associe, como no exemplo, cada uma das frações à sua representação na reta numérica.   
-
+/*
 ^  A  ^ $\frac{1}{2}$   |   | (........)   | Imagem  |
 |  B  | $\frac{1}{3}$   |   | (....A....)  | Imagem  |
 |  C  | $\frac{1}{4}$   |   | (........)   | Imagem  |
@@ -29,6 +29,22 @@ Associe, como no exemplo, cada uma das frações à sua representação na reta 
 |  G  | $\frac{1}{8}$   |   | (........)   | Imagem  |
 |  H  | $\frac{1}{9}$   |   | (........)   | Imagem  |
 |  I  | $\frac{1}{10}$  |   | (........)   | Imagem  |
+*/
+
+
+|(A) $\frac{1}{2}$ | (B) $\frac{1}{3}$ | (C) $\frac{1}{4}$ | (D) $\frac{1}{5}$ | (E) $\frac{1}{6}$ | (F) $\frac{1}{7}$ | (G) $\frac{1}{8}$ | (H) $\frac{1}{9}$ | (I) $\frac{1}{19}$ |
+
+|  (........)   | Imagem  |
+|  (....A....)  | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+|  (........)   | Imagem  |
+
+
 
 
 <WRAP IMAGEM>
