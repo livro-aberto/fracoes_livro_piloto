@@ -12,6 +12,6 @@ Qual valor é obtido ao se juntar as quantidades 7 inteiros e dois terços?
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+$7 + \frac{2}{3} = \frac{21}{3} + \frac{2}{3} = \frac{23}{3}$
 </WRAP>
 </hidden>
