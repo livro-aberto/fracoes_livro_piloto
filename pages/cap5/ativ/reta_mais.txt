@@ -22,6 +22,9 @@ a. {{:cap5:ativ:reta_verticala.png?100|}} b. {{:cap5:ativ:reta_verticalb.png?100
 
 <hidden Resposta>
 <WRAP resposta>
-Resolução da atividade. 
+
+    - $3 + \frac{1}{4}= \frac{12}{4} + \frac{1}{4}=\frac{13}{4}$.
+    - $4 + \frac{1}{2} = \frac{8}{2} + \frac{1}{2} = \frac{9}{2}$.
+    - $2+ \frac{3}{5} = \frac{10}{5} + \frac{3}{5} = \frac{13}{5}$
 </WRAP>
 </hidden>
