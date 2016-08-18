@@ -6,9 +6,8 @@ Ir para [[cap3:texto#ativ_comparacao_fracoes_unitarias_na_reta]]
 <WRAP professor>
 
 Objetivo específico: 
-  * Representar de frações na reta numérica.
+  * Representação de frações unitárias na reta numérica.
   * Comparação de frações unitárias na reta numérica.
-  * Comparar frações tendo o 0 e o 1 como referência.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
@@ -19,21 +18,21 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Associe cada uma das frações à sua representação na reta numérica:
+Associe, como no exemplo, cada uma das frações à sua representação na reta numérica.   
 
-^  A  ^ $\frac{1}{2}$   |   | (........)  | Imagem  |
-|  B  | $\frac{1}{3}$   |   | (........)  | Imagem  |
-|  C  | $\frac{1}{4}$   |   | (........)  | Imagem  |
-|  D  | $\frac{1}{5}$   |   | (........)  | Imagem  |
-|  E  | $\frac{1}{6}$   |   | (........)  | Imagem  |
-|  F  | $\frac{1}{7}$   |   | (........)  | Imagem  |
-|  G  | $\frac{1}{8}$   |   | (........)  | Imagem  |
-|  H  | $\frac{1}{9}$   |   | (........)  | Imagem  |
-|  I  | $\frac{1}{10}$  |   | (........)  | Imagem  |
+^  A  ^ $\frac{1}{2}$   |   | (........)   | Imagem  |
+|  B  | $\frac{1}{3}$   |   | (....A....)  | Imagem  |
+|  C  | $\frac{1}{4}$   |   | (........)   | Imagem  |
+|  D  | $\frac{1}{5}$   |   | (........)   | Imagem  |
+|  E  | $\frac{1}{6}$   |   | (........)   | Imagem  |
+|  F  | $\frac{1}{7}$   |   | (........)   | Imagem  |
+|  G  | $\frac{1}{8}$   |   | (........)   | Imagem  |
+|  H  | $\frac{1}{9}$   |   | (........)   | Imagem  |
+|  I  | $\frac{1}{10}$  |   | (........)   | Imagem  |
 
 
 <WRAP IMAGEM>
-INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela. Os pontos em destaque correspondem às seguintes fraçoões, nesta ordem:1/10, 1/2, 1/3, 1/9, 1/7, 1/4, 1/6, 1/5 e 1/8. DIFERENCIAR POR COR O PONTO EM DESTAQUE em cada uma das imagens. 
+INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela. Os pontos em destaque correspondem às seguintes fraçoões, nesta ordem: 1/10, 1/2, 1/3, 1/9, 1/7, 1/4, 1/6, 1/5 e 1/8. DIFERENCIAR POR COR O PONTO EM DESTAQUE em cada uma das imagens. 
 {{ :cap3:secoes:unitarias_na_reta.jpg?300 |}}
 </WRAP>
 
@@ -42,15 +41,15 @@ INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabel
 <WRAP resposta>
 <WRAP IMAGEM>
 Incluir a seguinte tabela
-^ I  ^ REPETIR IMAGENS ENUNCIADO  ^
-| A | REPETIR IMAGENS ENUNCIADO |
-| B | REPETIR IMAGENS ENUNCIADO |
-| H | REPETIR IMAGENS ENUNCIADO |
-| F | REPETIR IMAGENS ENUNCIADO |
-| C | REPETIR IMAGENS ENUNCIADO |
-| E | REPETIR IMAGENS ENUNCIADO |
-| D | REPETIR IMAGENS ENUNCIADO |
-| G | REPETIR IMAGENS ENUNCIADO |
+^ I  ^ REPETIR IMAGENS COMO NO ENUNCIADO  ^
+| A | REPETIR IMAGENS COMO NO ENUNCIADO |
+| B | REPETIR IMAGENS COMO NO ENUNCIADO |
+| H | REPETIR IMAGENS COMO NO ENUNCIADO |
+| F | REPETIR IMAGENS COMO NO ENUNCIADO |
+| C | REPETIR IMAGENS COMO NO ENUNCIADO |
+| E | REPETIR IMAGENS COMO NO ENUNCIADO |
+| D | REPETIR IMAGENS COMO NO ENUNCIADO |
+| G | REPETIR IMAGENS COMO NO ENUNCIADO |
 </WRAP>
 </WRAP>
 </hidden>
