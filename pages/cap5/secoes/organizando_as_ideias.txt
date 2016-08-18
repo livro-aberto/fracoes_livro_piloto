@@ -4,17 +4,11 @@ Ir para [[cap5:texto#organizando_as_ideias]]
 
 Vimos que a determinação de uma unidade de medida permite comparar, somar e subtrair quantidades. Por exemplo, na Atividade 1, o copo foi utilizado como unidade comum.
 
-No caso de quantidades expressas por meio de frações de uma unidade dada, para comparar, determinar a soma ou a diferença, precisamos encontrar uma **subunidade comum** entre as quantidades. Por exemplo:
-  * Na Atividade 2 temos que **a unidade é a barra de chocolate** e a **subunidade é o pedaço de chocolate**. Neste caso, o pedaço é a subunidade comum porque podemos expressar as quantidades comidas por Alice e por Miguel a partir da **contagem** desses pedaços.
-  * Na Atividade 3 **a unidade é a pizza** e **a subunidade é a fatia de pizza**. Neste caso, dizemos que a fatia é a subunidade porque podemos expressar todas as frações de pizza consumidas por Amanda, Bruna e Caio a partir **contagem** dessas fatias. Relembrando:
-$$\frac{5}{12} = \frac{10}{24} \quad \quad \frac{1}{6} = \frac{4}{24} \quad \quad\frac{3}{8} = \frac{9}{24}.$$
+No caso de quantidades expressas por meio de frações de uma unidade dada, para comparar, determinar a soma ou a diferença, precisamos encontrar uma **subdivisão comum** entre as quantidades. Por exemplo:
+  * Na Atividade 3 temos que **a unidade é a barra de chocolate** e **o pedaço de chocolate é uma subdivisão dessa unidade**. Neste caso,  pode-se expressar as quantidades comidas por Alice e por Miguel a partir da **contagem** dessas subdivisões.
+  * Na Atividade 3 **a unidade é a pizza** e **a fatia de pizza é uma subdivisão dessa unidade**. Neste caso, pode-se expressar todas as frações de pizza consumidas por Amanda, Bruna e Caio a partir **contagem** dessas fatias. Relembrando:
+$$\dfrac{1}{6} = \dfrac{2}{12} 	\quad \quad \dfrac{3}{4} = \dfrac{9}{12} \quad \quad \dfrac{2}{3} = \dfrac{8}{12}.$$
 
-Como o exemplo acima ilustra, escrever diferentes frações a partir de uma subunidade comum corresponde a determinar frações equivalentes com um denominador comum. É exatamente essa estratégia que usaremos para calcular adição e subtração de frações. Por exemplo:
+Como o exemplo acima ilustra, escrever diferentes frações a partir de uma subdivisão comum corresponde a determinar frações equivalentes com um denominador comum. É exatamente essa estratégia que usaremos para calcular adição e subtração de frações. Por exemplo:
 
-$$\frac{5}{12} + \frac{3}{8} = \frac{10}{24} + \frac{9}{24} = \frac{19}{24}.$$
-
-
-  
-
-
-
+$$\dfrac{1}{6} + \dfrac{3}{4} = \dfrac{2}{12} + \dfrac{9}{12} = \dfrac{11}{12}.$$
