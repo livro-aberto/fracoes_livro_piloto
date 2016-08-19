@@ -23,6 +23,7 @@ Classificações
 Complete as afirmações com uma das frações: "dois meios", "dois terços", "dois quintos", "três quartos", "oito sextos" e "nove meios" para que sejam verdadeiras.
 
 {{:cap2:secoes:entender_linguagem.png?nolink&580 |}}
+
 <hidden Resposta>
 <WRAP resposta>
   - dois terços.
