@@ -22,7 +22,7 @@ Classificações
 
 Preencha cada lacuna a seguir com uma fração adequada (use notação simbólica matemática). Perceba que uma mesma parte pintada pode ser descrita por frações diferentes com unidades diferentes.
 
-- A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
+  - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
   - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-02-vazio.png?0x50}}.
   - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-04.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-03-vazio.png?0x50}}.
   - A parte pintada em vermelho em {{:undefined:parte-02-03-preenchido-03.png?0x50}} é _ _ _   de {{:cap2:secoes:parte-02-01-vazio.png?0x50}}.
