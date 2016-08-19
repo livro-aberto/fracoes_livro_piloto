@@ -8,7 +8,7 @@
   * [[https://www.umlivroaberto.com/livro/doku.php?id=cap1:texto|html]] - [[https://www.umlivroaberto.com/pdf/final_cap1_aluno.pdf|pdf do aluno]] - [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf do professor]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap1/texto.txt|GitHub]].
 
 [[cap2:navega|Lição 2 - Frações não-unitárias]]
-  * [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - {{:cap2:cap2_aluno_final.pdf|pdf do aluno}} - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf do professor]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]]
+  * [[https://www.umlivroaberto.com/livro/doku.php?id=cap2:texto|html]] - [[https://www.umlivroaberto.com/pdf/final_cap2_aluno.pdf|pdf do aluno]] - [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf do professor]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap2/texto.txt|GitHub]]
 
 [[cap3:navega|Lição 3 -  A reta numérica]]
   * [[https://www.umlivroaberto.com/livro/doku.php?id=cap3:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap3_aluno.pdf|pdf do aluno]] - [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf do professor]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap3/texto.txt|GitHub]]
