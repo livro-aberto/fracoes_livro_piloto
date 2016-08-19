@@ -42,9 +42,9 @@ Itens c) e d)
 
 Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou três tortas salgadas para uma comemoração.
 
-<WRAP imagem>  FIGURA GEOMÉTRICA - Observe que também há figuras no "Para o professor".
+
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos.png?700 |}}
-</WRAP>
+
 
   - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
   - Considerando-se uma torta, como você nomearia, usando frações, a quantidade de torta que: 
