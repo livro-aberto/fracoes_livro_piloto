@@ -22,7 +22,6 @@ Classificações
 </WRAP>
 </hidden>
 
-<WRAP imagem> FIGURA GEOMÉTRICA - Figuras devem ser feitas individualmente sem os itens ou textos. Observe que há figuras análogas na resposta</WRAP> 
 |  Fração da unidade  |  Figura correspondente à fração da unidade  |  Desenhe aqui uma unidade  |
 |  $\frac{1}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
 |  $\frac{4}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
