@@ -13,7 +13,7 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
-  * Em particular, no Item (a), não se espera, nem se recomenda, que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceita como resposta a solução indicada na figura a seguir.
+  * Em particular, no Item a), não se espera, nem se recomenda, que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceita como resposta a solução indicada na figura a seguir.
 
 {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
 
