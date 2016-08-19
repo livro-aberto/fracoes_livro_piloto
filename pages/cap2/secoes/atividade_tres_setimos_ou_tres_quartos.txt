@@ -19,9 +19,9 @@ Classificações
 </hidden>
 
 A figura a seguir tem 3 partes pintadas de vermelho e 4 partes pintadas de branco. É correto afirmar que a parte pintada de vermelho corresponde a $\frac{3}{4}$ da figura? Explique.
-<WRAP imagem> FIGURA GEOMÉTRICA - 
+
 {{ :cap2:secoes:tres-setimos-ou-tres-quartos.png?300 |}}
-</WRAP>
+
 
 <hidden Resposta>
 <WRAP resposta>
