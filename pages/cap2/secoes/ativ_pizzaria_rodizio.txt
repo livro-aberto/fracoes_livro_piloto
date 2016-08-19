@@ -22,8 +22,8 @@ Observações para o professor:
 </WRAP>
 </hidden>
 
-Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias (alternativa: simplesmente fazer o desenho das 38 fatias alinhadas, e não formando o círculo, com um triângulo ao lado de outro, caso as fatias fossem triângulos).
-<WRAP imagem> FIGURA ARTÍSTICA 
+Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias.
+<WRAP imagem> FIGURA ARTÍSTICA - (alternativa: simplesmente fazer o desenho das 38 fatias alinhadas, e não formando o círculo, com um triângulo ao lado de outro, caso as fatias fossem triângulos)
 {{ :cap2:secoes:38_oitavos_de_pizza.jpg?300 |}}
 </WRAP>
 
