@@ -19,7 +19,7 @@ Classificações
 </WRAP>
 </hidden>
 
-  - Em cada um dos três copos idênticos a seguir, indique a fração da capacidade do copo que está com água. \\  <WRAP imagem> FIGURA GEOMÉTRICA - Figuras podem ser feitas juntas e incluir  os itens.  {{ :cap2:secoes:copos-de-agua-01.png?300 |}} </WRAP>
+  - Em cada um dos três copos idênticos a seguir, indique a fração da capacidade do copo que está com água. \\  {{ :cap2:secoes:copos-de-agua-01.png?300 |}} 
   - Qual é a fração da capacidade do copo correspondente à toda a água que está nos três copos?
   - É possível armazenar a água dos três copos em um único copo sem que transborde? Explique.
 
