@@ -25,7 +25,7 @@
 </hidden>
 <hidden Lição 2>
   * [[cap2:texto|html]] 
-  * {{:cap2:cap2_aluno_final.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/final_cap2_aluno.pdf|pdf do aluno]]
   * [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf professor]]
 </hidden>
 <hidden Lição 3>
