@@ -19,9 +19,8 @@ Classificações
 </hidden>
 
 Para cada figura a seguir, indique a fração da figura que está pintada de vermelho. Esta fração é maior, menor ou exatamente igual a $\frac{1}{2}$ da figura?
-<WRAP imagem> FIGURA GEOMÉTRICA - Figuras devem ser feitas individualmente sem os itens.
-{{ :cap2:secoes:comparacao-01.png?500 |}}
-</WRAP>
+
+{{ :cap2:secoes:comparar_meio.png?nolink&600 |}}
 
 <hidden Resposta>
 <WRAP resposta>
