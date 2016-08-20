@@ -51,7 +51,7 @@ Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de respos
 <hidden Resposta>
 <WRAP Resposta>
 <WRAP imagem>
-  - Inserir a imagem semelhante a do enunciado, com a frações $\frac{1}{2}$ destacada no ponto correspondente.
+  - Inserir a imagem semelhante a do enunciado, com a fração $\frac{1}{2}$ destacada no ponto correspondente.
   - Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
   - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes ao 0 e ao 1 identificados.
   - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes às frações $\frac{3}{4}$ e $\frac{5}{4}$  identificados.
