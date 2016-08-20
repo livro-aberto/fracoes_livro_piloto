@@ -10,9 +10,9 @@ Ir para [[cap3:texto#ativ_grad_unidade5]]
 </hidden>
 
 Na reta numérica a seguir:
-  - Marque $\frac{1}{2}$. Justifique a resposta.
-  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocioonou para fazer as marcações. 
-  - Observando a reta numérica, compare: A fração $\frac{1}{4}$ é maior ou menor que $\frac{1}{2}$?  e $\frac{3}{4}$ em relação a $\frac{1}{2}$, o que podemos afirmar?
+  - Marque $\frac{1}{2}$. Justifique sua resposta.
+  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. 
+  - Observando a reta numérica com as marcações feitas, compare: $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$? E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
   - Ao marcar o $\frac{5}{4}$ o que podemos afirmar sobre a comparação com a unidade 1?
   - Escreva em ordem crescente as frações dadas. Será que podemos inferir alguma regra especial para ordenar frações?
 
