@@ -2,6 +2,7 @@
 %Enunciado
 \begin{tikzpicture}[x=30mm,y=30mm]
 
+%retangulos
 \draw[shift={(0,0.3)}, fill=attention] (-1.5,0) rectangle (0,0.5) node[above, shift={(-.7,0)}] {Figura 1};
 
 \draw[shift={(1,0.3)},fill=attention] (0,0) -- (0,0.5) --(1.5,0)--cycle;
@@ -15,7 +16,27 @@ node[below] {$\x$};
 node[below] {$\frac{1}{2}$};
 \end{tikzpicture}
 
+%quadrados
+\begin{tikzpicture}[x=30mm,y=30mm]
+\def\scale{.6}
+\draw[shift={(0,0.3)}, fill=attention, scale=\scale] (-1.5,0) rectangle (0,.5);
+\draw[shift={(0,0.3)}, scale=\scale] (-1.5,0.5) rectangle (0,1);
+\draw[shift={(0,0.3)}, fill=attention, scale=\scale] (-1.5,1) rectangle (0,1.5);
 
+\draw[shift={(0,0.3)},fill=white, scale=\scale] (-1,0) rectangle (-.5,.5);
+\draw[shift={(0,0.3)}, fill=attention, scale=\scale] (-1,.5) rectangle (-.5,1);
+\draw[shift={(0,0.3)},fill=white, scale=\scale] (-1,1) rectangle (-.5,1.5);
+
+\draw[shift={(1,0.3)}, fill=attention, scale=\scale] (0,0) rectangle (1.5,1.5);
+
+\draw (-0.5,0) -- (1.5,0) ; %edit here for the axis
+\foreach \x in  {0,0.1111,...,1}{ % edit here for the vertical lines
+\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt);} 
+\foreach \x in  {0,1}
+\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {$\x$};
+\foreach \x in  {3,5}
+\draw[shift={(\x/9,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {$\frac{\x}{9}$};
+\end{tikzpicture}
 
 
 </code>
