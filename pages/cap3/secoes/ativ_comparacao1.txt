@@ -45,3 +45,4 @@ Incluir imagem de um mapa de tesouro que ocupe cerca de meia folha tamanho A4 �
   - O baú 2. A justificativa se dá pelo fato de que  $\frac{5}{6}$ > $\frac{5}{8}$. O que pode ser observado pela marcação dos pontos correspondentes aos locais dos dois baús no mapa, representando uma reta numérica.
 
 </WRAP> 
+</WRAP>
