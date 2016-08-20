@@ -18,7 +18,7 @@ Lembre que a justaposição de segmentos pode sempre ser feita com a ajuda do co
 Frações na reta numérica \\
 
 
-Já sabemos que os números naturais podem ser representados por pontos em uma reta. 
+Já é conhecido que os números naturais podem ser representados por pontos em uma reta. 
 Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
 
 <WRAP imagem> FIGURAS GEOMÉTRICAS - **As imagens das retas têm que ser congruentes, os segmentos 0-1 em todas elas tê que ser congruentes. Não podem ter dimensões diferentes como nas imagens ilustrativas. ** \\
