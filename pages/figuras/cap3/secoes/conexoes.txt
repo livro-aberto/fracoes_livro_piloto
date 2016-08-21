@@ -1,6 +1,5 @@
 <code latex>
 
-
 \begin{tikzpicture}[x=18mm,y=18mm]
 \draw[very thick, attention] (0,0) -- (1,0); 
 \node[above] at (.5,0) {unidade};
@@ -190,7 +189,6 @@ d)
 \end{tikzpicture}   
 \vspace{1cm}
 
-
 \begin{tikzpicture}[x=18mm,y=18mm]
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
 \draw[very thick, attention] (0,0) -- (1,0); 
@@ -205,21 +203,47 @@ d)
 \end{tikzpicture}   
 \vspace{1cm}
 
-
 \begin{tikzpicture}[x=36mm,y=36mm]
+
+\begin{scope}[shift={(0,150pt)}]
+\draw[->] (-0.1,0) -- (3.5,0) ; %reta anterior
+\draw[very thick, attention] (0,0) -- (1,0); 
+\foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt);
+\foreach \x in {0,1,...,6}{ \draw (\x/2,3pt) -- (\x/2,-3pt);}
+\node[above] at (\x,3pt) {\x};}
+\foreach \x in {1,...,6} \node[below, light] at (\x/2 , 0 pt) {$\frac{\x}{2}$};
+\end{scope}
+
+\begin{scope}[shift={(0,100pt)}]
+\draw[->] (-0.1,0) -- (3.5,0) ; %reta anterior
+\draw[very thick, attention] (0,0) -- (1,0); 
+\foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt);
+\foreach \x in {0,1,...,17}{ \draw (\x/5,2pt) -- (\x/5,-2pt);}
+\node[above] at (\x,3pt) {\x};}
+\foreach \x in {1,...,17} \node[below, attention] at (\x/5 , 0 pt) {$\frac{\x}{5}$};
+\end{scope}
+
+\begin{scope}[shift={(0,50pt)}]
+\draw[->] (-0.1,0) -- (3.5,0) ; %reta anterior
+\draw[very thick, attention] (0,0) -- (1,0); 
+\foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt);
+\foreach \x in {0,1,...,34}{ \draw (\x/10,1pt) -- (\x/10,-1pt);}
+\node[above] at (\x,3pt) {\x};}
+\foreach \x in {0,...,34} \node[below, dark] at (\x/10,0) {$\frac{\x}{10}$};
+\end{scope}
+
 \draw[->] (-0.1,0) -- (3.5,0) ; %reta anterior
 \draw[very thick, attention] (0,0) -- (1,0); 
 \foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt);
 \node[above] at (\x,3pt) {\x};}
 
-\node[above] at (0.2 ,3 pt) {$\frac{1}{5}$};
+\foreach \x in {0,1,...,34}{ \draw (\x/10,1pt) -- (\x/10,-1pt);}
+\foreach \x in {0,1,...,17}{ \draw (\x/5,2pt) -- (\x/5,-2pt);}
+\foreach \x in {0,1,...,6}{ \draw (\x/2,3pt) -- (\x/2,-3pt);}
 
 \foreach \x in {0,...,34} \node[below, dark] at (\x/10,0) {$\frac{\x}{10}$};
 \foreach \x in {1,2,3,4,6,7,8,9,11,12,13,14,16,17} \node[above, attention] at (\x/5 , 3 pt) {$\frac{\x}{5}$};
 \foreach \x in {1,3,5} \node[above, light] at (\x/2 , 3 pt) {\large $\frac{\x}{2}$};
-
-\foreach \x in {0,1,...,34}{ \draw (\x/10,1pt) -- (\x/10,-1pt);}
-\foreach \x in {0,1,...,17}{ \draw (\x/5,2pt) -- (\x/5,-2pt);}
 
 \end{tikzpicture}   
 \vspace{1cm}
@@ -236,5 +260,4 @@ d)
 \foreach \x in {3,5}{ \fill[common] (4/\x,0) circle (3pt);
 \node[below] at (4/\x,0) {$\dfrac{4}{\x}$};}
 
-\end{tikzpicture}
-</code>
+\end{tikzpicture}</code>
