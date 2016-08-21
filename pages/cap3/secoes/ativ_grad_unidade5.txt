@@ -2,7 +2,6 @@
 Ir para [[cap3:texto#ativ_grad_unidade5]]
 ;;#
 
-
 <hidden Para o professor>
 <WRAP professor>
 
@@ -17,12 +16,11 @@ Na reta numérica a seguir:
 <WRAP imagem> FIGURA GEOMÉTRICA
 {{ :cap3:secoes:reta_4_partes_a.jpg?400 |}}
 </WRAP>
-  - 
-Observando a reta numérica com as marcações feitas, compare: $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$? E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
+
+Observando a reta numérica com as marcações feitas, compare: 
+  - $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$? E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
   - Ao marcar o $\frac{5}{4}$ o que podemos afirmar sobre a comparação com a unidade 1?
   - Escreva em ordem crescente as frações dadas. Será que podemos inferir alguma regra especial para ordenar frações?
-
-
 
 <hidden Resposta>
 <WRAP resposta>
