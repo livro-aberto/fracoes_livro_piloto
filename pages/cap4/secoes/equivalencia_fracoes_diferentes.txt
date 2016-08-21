@@ -27,7 +27,7 @@ Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua 
 
 (B) Se duas frações têm denominadores iguais, mas numeradores diferentes, então elas são diferentes.
 
-(C) Se duas frações têm numeradores iguais, mas denominadores diferentes, então elas são diferentes.
+(C) Se duas frações têm numeradores iguais e maiores do que zero, mas denominadores diferentes, então elas são diferentes.
 
 (D) Se duas frações são iguais, então o numerador e o denominador de uma são obtidos multiplicando-se o numerador e o denominador da outra por um mesmo número natural.
 
