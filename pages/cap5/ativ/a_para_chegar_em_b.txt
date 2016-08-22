@@ -4,7 +4,7 @@ Ir para [[cap5:texto#a_para_chegar_em_b]]
 
 <hidden Para o professor>
 <WRAP professor>
-Nesta atividade, sugerimos explorar a transformação de $\frac{24}{8}$ no número 3. Na atividade anterior foi realizado o processo contrário, transformar um inteiro a uma fração $\frac{an}{n}$. Explora-se, ainda, a interpretação de acrescentar, na operação de adição. Nesta atividade, a transformação da fração $\frac{an}{n}$ no número inteiro a permite não só articular com as ideias destacadas na atividade anterior, como também possibilita ao estudante começar a observar fração como uma divisão, em que a é o resultado de an dividido por $n$.</WRAP>
+Nesta atividade, sugerimos explorar a transformação de $\frac{24}{8}$ no número 3. Na atividade anterior foi realizado o processo contrário, transformar um inteiro a uma fração $\frac{an}{n}$. Explora-se, ainda, a interpretação de acrescentar, na operação de adição. A transformação da fração $\frac{an}{n}$ no número inteiro a permite não só articular com as ideias destacadas na atividade anterior, como também possibilita ao estudante começar a observar fração como uma divisão, em que a é o resultado de an dividido por $n$.</WRAP>
 </hidden>
 
 Quanto deve-se acrescentar a $\frac{3}{8}$ para obter $\frac{27}{8}$?
