@@ -3,7 +3,7 @@ Ir para [[cap5:texto#fitas]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade tem por objetivo introduzir a soma de frações a partir da determinação de uma subunidade comum entre as parcelas, isto é, uma subdivisão da unidade que seja comum ambas sejam múltiplas inteiras. 
+Esta atividade tem por objetivo introduzir a soma de frações a partir da determinação de uma subdivisão da unidade que seja comum ambas sejam múltiplas inteiras. 
 Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subdivisão dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas:
   * **a unidade**, associada ao número 1, com base na qual são contadas quantidades inteiras;
   * subdivisões da unidade em partes iguais (no caso, os pedaços coloridos das fitas), cuja contagem permite **medir** quantidades menores que a unidade.
