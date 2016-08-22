@@ -23,8 +23,8 @@ a. {{:cap5:ativ:reta_verticala.png?100|}} b. {{:cap5:ativ:reta_verticalb.png?100
 <hidden Resposta>
 <WRAP resposta>
 
-   - $3 + \frac{1}{4}= \frac{12}{4} + \frac{1}{4}=\frac{13}{4}$.
-   - $4 + \frac{1}{2} = \frac{8}{2} + \frac{1}{2} = \frac{9}{2}$.
-   - $2+ \frac{3}{5} = \frac{10}{5} + \frac{3}{5} = \frac{13}{5}$
+   - $3 + \frac{1}{4}= \frac{12}{4} + \frac{1}{4}=\frac{13}{4}$. \\ <WRAP imagem> {{ :cap5:ativ:vw303.png?nolink&200 |}} </WRAP>
+   - $4 + \frac{1}{2} = \frac{8}{2} + \frac{1}{2} = \frac{9}{2}$.  \\ <WRAP imagem>{{ :cap5:ativ:vw304.png?nolink&200 |}} </WRAP>
+   - $2+ \frac{3}{5} = \frac{10}{5} + \frac{3}{5} = \frac{13}{5}$.  \\ <WRAP imagem>{{ :cap5:ativ:vw305.png?nolink&200 |}} </WRAP>
 </WRAP>
 </hidden>
