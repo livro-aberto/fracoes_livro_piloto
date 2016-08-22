@@ -28,10 +28,10 @@ As frações $\frac{3}{5}$ e  $\frac{7}{10}$ estão representadas nas figuras a 
 
 <hidden Resposta>
 <WRAP resposta>
-    - Uma fração unitária com denominador comum é $\frac{1}{10}$, pois ambas as quantidades podem ser expressas a partir dessa fração. Uma forma de observar tal fato é determinar, na primeira imagem, um segmento horizontal, de modo a dividir as frações já existentes em duas partes iguais. 
-    - $\frac{3}{5} = \frac{6}{10}$. A fração $\frac{7}{10}$ já está escrita a partir fração unitária com denominador comum $\frac{1}{10}$.
-    - Não. Por exemplo, $\frac{1}{10}$, $\frac{1}{20}$, $\frac{1}{40}$, etc. 
-    - $\frac{3}{5}+\frac{7}{10} = \frac{6}{10} + \frac{7}{10} = \frac{13}{10}$.
+  - Uma fração unitária com denominador comum é $\frac{1}{10}$, pois ambas as quantidades podem ser expressas a partir dessa fração. Uma forma de observar tal fato é determinar, na primeira imagem, um segmento horizontal, de modo a dividir as frações já existentes em duas partes iguais.  <WRAP imagem> {{ :cap5:ativ:vw301.png?nolink&300 |}} </WRAP>
+  - $\frac{3}{5} = \frac{6}{10}$. A fração $\frac{7}{10}$ já está escrita a partir fração unitária com denominador comum $\frac{1}{10}$.
+  - Não. Por exemplo, $\frac{1}{10}$, $\frac{1}{20}$, $\frac{1}{40}$, etc. 
+  - $\frac{3}{5}+\frac{7}{10} = \frac{6}{10} + \frac{7}{10} = \frac{13}{10}$.
 
 </WRAP>
 </hidden>
