@@ -9,7 +9,6 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
-  * Os retângulos empregados na condução da atividade podem ser aproveitados da Atividade  XX da Lição 3.
   * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a região colorida de cinza) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, por expressarem uma mesma quantidade, são frações iguais. 
 
 Classificações:
@@ -20,14 +19,39 @@ Classificações:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter a mesma dimensão do retângulo usado na Atividade 17 <hidden [[cap3:texto#ativ_grad_unidade3|(link)]]></hidden> da Lição 3.
+<WRAP imagem>
+{{ :cap4:secoes:cuisenaire-03.png?300 |}}
+</WRAP>
+
+
+<WRAP imagem> 
+FIGURA GEOMÉTRICA
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
 </WRAP>
+
 </WRAP>
 </WRAP>
 </hidden>
 
-O objetivo desta atividade é estudar a fração do retângulo que está colorida de cinza no encarte que você recebeu. 
+**PARTE 1**
+
+Você recebeu um encarte com 10 retângulos coloridos de mesmo tamanho, cada deles dividido em um determinado número de partes iguais. Seguindo o modelo feito para o primeiro retângulo, preencha a tabela a seguir.
+
+|  Retângulo  |  Número de partes em se encontra dividido  |  Cada parte é que fração do retângulo?  |
+|  {{ :cap4:secoes:cuisenaire-r-01.png?300 |}}  |  2  |  $\frac{1}{2}$  |
+|  {{ :cap4:secoes:cuisenaire-r-02.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-03.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-04.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-05.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-06.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-07.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-08.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-09.png?300 |}}  |     |    |
+|  {{ :cap4:secoes:cuisenaire-r-10.png?300 |}}  |     |    |
+
+**PARTE 2**
+
+O objetivo desta parte é estudar a fração do retângulo que está colorida de cinza no segundo encarte que você recebeu. 
 
 <WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela. Atenção: Há figuras no "Para o professor" e na "Resposta".
 
@@ -35,9 +59,7 @@ O objetivo desta atividade é estudar a fração do retângulo que está colorid
 </WRAP>
 
 
-Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou para a Atividade 17 da Lição 3 para avaliar as suas respostas.
-<hidden [[cap3:texto#ativ_grad_unidade3|(link para Atividade 17)]]></hidden>
-
+Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, recorte e use as peças coloridas do primeiro encarte para avaliar as suas respostas.
 
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
 | {{ :cap4:secoes:fita-um-meio.jpg?0x50 |}}  | | | |
@@ -49,6 +71,25 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 
 <hidden Resposta>
 <WRAP resposta>
+**PARTE 1**
+
+|  Retângulo  |  Número de partes em se encontra dividido  |  Cada parte é que fração do retângulo?  |
+|  {{ :cap4:secoes:cuisenaire-r-01.png?300 |}}  |  2  |  $\frac{1}{2}$  |
+|  {{ :cap4:secoes:cuisenaire-r-02.png?300 |}}  |  3  |  $\frac{1}{3}$  |
+|  {{ :cap4:secoes:cuisenaire-r-03.png?300 |}}  |  4  |  $\frac{1}{4}$  |
+|  {{ :cap4:secoes:cuisenaire-r-04.png?300 |}}  |  5  |  $\frac{1}{5}$  |
+|  {{ :cap4:secoes:cuisenaire-r-05.png?300 |}}  |  6  |  $\frac{1}{6}$  |
+|  {{ :cap4:secoes:cuisenaire-r-06.png?300 |}}  |  7  |  $\frac{1}{7}$  |
+|  {{ :cap4:secoes:cuisenaire-r-07.png?300 |}}  |  8  |  $\frac{1}{8}$  |
+|  {{ :cap4:secoes:cuisenaire-r-08.png?300 |}}  |  9  |  $\frac{1}{9}$  |
+|  {{ :cap4:secoes:cuisenaire-r-09.png?300 |}}  |  10  |  $\frac{1}{10}$  |
+|  {{ :cap4:secoes:cuisenaire-r-10.png?300 |}}  |  16  |  $\frac{1}{16}$  |
+
+
+
+**PARTE 2 **
+
+
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
 | {{ :cap4:secoes:fita-um-meio.jpg?0x50 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
 | {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
