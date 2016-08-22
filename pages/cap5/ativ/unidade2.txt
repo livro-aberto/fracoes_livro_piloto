@@ -32,9 +32,10 @@ Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel 
 
 <hidden Resposta>
 <WRAP resposta>
-    - $\frac{1}{2}=\frac{8}{16}$, pois a fração equivalente a $\frac{1}{2}$ com denominador 16 é \frac{8}{16}$. 
-    - Observando as quantidades comidas por Alice e Miguel, a partir de um mesmo denominador, temos $\frac{1}{2}+\frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}$. 
-    - Recordemos que a barra de chocolate é nossa unidade de medida, então esse quantidade será entendida como 1 inteiro. Assim a quantidade restante será dada por $\frac{5}{16}$, pois $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
+   - $\frac{1}{16}$
+   - $\frac{1}{2}=\frac{8}{16}$, pois a fração equivalente a $\frac{1}{2}$ com denominador 16 é \frac{8}{16}$. 
+   - Observando as quantidades comidas por Alice e Miguel, a partir de um mesmo denominador, temos $\frac{1}{2}+\frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}$. 
+   - Recordemos que a barra de chocolate é nossa unidade de medida, então esse quantidade será entendida como 1 inteiro. Assim a quantidade restante será dada por $\frac{5}{16}$, pois $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
 
 </WRAP>
 </hidden>
