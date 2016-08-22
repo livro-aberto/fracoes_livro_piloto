@@ -55,7 +55,7 @@ Com base nessa ideia, responda às questões a seguir.
   - Que quantidade de pizza Bruna comeu a mais que Caio?
   - Que quantidade de pizza Amanda e Bruna comeram juntas?
   - Que fração de pizza teremos se retirarmos a quantidade consumida por Amanda da quantidade consumida por Caio?
-  - Quanto a mais de pizza Amanda Bruna consumiu, em relação a Amanda?
+  - Quanto a mais de pizza Bruna consumiu, em relação a Amanda?
 
 <hidden Resposta>
 <WRAP resposta>
