@@ -9,7 +9,7 @@ Com essas atividades, visamos atingir não só reflexões a respeito de números
 </WRAP>
 </hidden>
 
-Diga se as afirmações a seguir são verdadeiras ou falsas. Dê exemplos para ilustrar cada uma delas.
+Diga se as afirmações a seguir são verdadeiras ou falsas. Para as verdadeiras, explique com as suas palavras por que acha que são verdadeiras. Para as falsas, dê um exemplo que justifique a sua avaliação.
   - A soma de uma fração inteira com uma fração não inteira, é uma fração não inteira.
   - A diferença de uma fração inteira por uma fração não inteira é, necessariamente, uma fração não inteira.
   - A soma de uma fração não inteira por uma fração não inteira é, necessariamente, uma fração não inteira.
