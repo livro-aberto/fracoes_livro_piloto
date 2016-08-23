@@ -41,27 +41,24 @@ $$\frac{3}{4} - \frac{2}{3} = \frac{9}{12} - \frac{8}{12} = \frac{1}{12}$$
 Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **12 fatias** iguais. Amanda comeu $\frac{1}{6}$ de uma pizza, Bruno comeu $\frac{3}{4}$ de outra, e Caio comeu $\frac{2}{3}$ da pizza que pediu.
 <WRAP imagem> figura geométrica
 
-|  {{ :cap5:ativ:vw1.png?200 |   }}   |   {{ :cap5:ativ:vw2.png?200 |   }}     |   {{ :cap5:ativ:vw3.png?200 |   }}       |
+| {{ :cap5:ativ:vw1.png?200 |   }}   |  {{ :cap5:ativ:vw2.png?200 |   }}     |   {{ :cap5:ativ:vw3.png?200 |   }}       |
 | Fração de pizza consumida por Amanda $\frac{1}{6}$  | Fração de pizza consumida por Bruno $\frac{3}{4}$  | Fração de pizza consumida por Caio $\frac{2}{3}$  |
 
 </WRAP>
 
-Lembremos que todas as pizzas estão inicialmente divididas em 12 fatias do mesmo tamanho. 
-Neste caso, podemos considerar que a **fatia da pizza é uma subdivisão comum**, pois é possível observar a fração que cada um comeu a partir do número de fatias. 
-Com base nessa ideia, responda às questões a seguir.
-  - Que fração da pizza cada fatia representa?
-  - Complete os espaços (numeradores) abaixo para escrever as frações que cada criança comeu. $$\dfrac{1}{6} =\frac{}{12}  \quad \quad \frac{3}{4} =\frac{}{12} \quad \quad \frac{2}{3} =\frac{}{12}$$ **Dica:** Em cada situação você pode usar as ideias de frações equivalentes (estudadas na lição anterior) ou simplesmente contar a quantidade de fatias observando as imagens acima. Esta dica também é válida para os próximos exercícios. Você pode indicar a solução de cada um deles observando as fatias nas imagens acima ou usar este item b), que apresenta frações equivalentes.
+  - Que fração de uma pizza cada fatia representa?
+  - Complete os espaços (numeradores) a seguir registrando outra representação para a fração de uma pizza que cada uma das crianças comeu. Amanda: $\frac{1}{6} =\frac{}{12}$  \quad \quad Bruno: $\frac{3}{4} =\frac{}{12}$ \quad \quad Caio: $\frac{2}{3} =\frac{}{12}$ 
   - Quem comeu mais pizza? Quem comeu menos pizza?
-  - Que quantidade de pizza Bruna comeu a mais que Caio?
-  - Que quantidade de pizza Amanda e Bruna comeram juntas?
-  - Que fração de pizza teremos se retirarmos a quantidade consumida por Amanda da quantidade consumida por Caio?
-  - Quanto a mais de pizza Bruna consumiu, em relação a Amanda?
+  - Que quantidade de pizza Bruno comeu a mais do que Caio?
+  - Que quantidade de pizza Amanda e Bruno comeram juntas?
+  - Que fração de uma pizza Amanda comeu a menos do que Caio?
+  - Quanto a mais de pizza Bruno consumiu, em relação a Amanda?
 
 <hidden Resposta>
 <WRAP resposta>
 
-    - $\frac{1}{12}$ é a fração unitária com denominador comum, pois todas as quantidades consumidas podem ser indicadas as partir de múltiplos dessa fração de pizza. 
-    - Completando os numeradores obteremos as frações $\frac{2}{12}$, $\frac{9}{12}$ e $\frac{8}{12}$; que são as frações equivalentes a $\frac{1}{6}$, $\frac{3}{4}$ e $\frac{2}{3}$, respectivamente. 
+    - $\frac{1}{12}$ é a fração unitária de pizza comum, pois todas as quantidades consumidas podem ser indicadas as partir de múltiplos dessa fração de pizza. 
+    - Para cada quantidade é possível simplesmente contar a quantidade de fatias observando as imagens acima, uuma vez que cada fatia corresponde a $\frac{1}{12}$ de uma pizza. Assim, obtemos como resposta as frações $\frac{2}{12}$, $\frac{9}{12}$ e $\frac{8}{12}$, que são iguais a $\frac{1}{6}$, $\frac{3}{4}$ e $\frac{2}{3}$, respectivamente. 
     - Observando as quantidades indicadas no item anterior quem consumiu mais foi Bruno, $\frac{9}{12}$ de pizza. Quem consumiu menos foi Amanda, $\frac{2}{12}$ da pizza. 
     - $\frac{9}{12} -  \frac{8}{12} = \frac{1}{12}$.
     - $\frac{2}{12} +  \frac{9}{12} = \frac{11}{12}$.
