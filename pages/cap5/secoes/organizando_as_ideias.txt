@@ -2,10 +2,8 @@
 Ir para [[cap5:texto#organizando_as_ideias]]
 ;;#
 
-Vimos que a determinação de uma unidade de medida permite comparar, somar e subtrair quantidades. Por exemplo, na Atividade 1, o copo foi utilizado como unidade comum.
-
-No caso de quantidades expressas por meio de frações de uma unidade dada, para comparar, determinar a soma ou a diferença, precisamos encontrar uma **subdivisão comum** entre as quantidades. Por exemplo:
-  * Na Atividade 3 temos que **a unidade é a barra de chocolate** e **o pedaço de chocolate é uma subdivisão dessa unidade**. Neste caso,  pode-se expressar as quantidades comidas por Alice e por Miguel a partir da **contagem** dessas subdivisões.
+No caso de quantidades expressas por meio de frações de uma unidade dada, para comparar, determinar a soma ou determinar a diferença, é necessário uma **subdivisão da unidade* com a qual seja possível expressar ambas as quantidades. Por exemplo:
+  * Na Atividade 3, a subdivisão da **barra de chocolate, considerada como unidade,**  e permitiu expressar as quantidades de chocolate comidas por Alice e por Miguel a partir da **contagem** dessas subdivisões.
   * Na Atividade 3 **a unidade é a pizza** e **a fatia de pizza é uma subdivisão dessa unidade**. Neste caso, pode-se expressar todas as frações de pizza consumidas por Amanda, Bruna e Caio a partir **contagem** dessas fatias. Relembrando:
 $$\dfrac{1}{6} = \dfrac{2}{12} 	\quad \quad \dfrac{3}{4} = \dfrac{9}{12} \quad \quad \dfrac{2}{3} = \dfrac{8}{12}.$$
 
