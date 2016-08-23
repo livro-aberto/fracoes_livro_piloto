@@ -94,7 +94,7 @@ Dentre essas interpretações, podem-se destacar:
 
 No caso da adição e da subtração de frações, essas mesmas interpretações estão associadas a situações envolvendo grandezas não inteiras, como veremos em diversos exemplos ao longo desta lição.
 
-Em muitos casos, a adição e a subtração de frações são abordadas na educação básica simplesmente a partir da apresentação (frequentemente sem justificativa) de um procedimento de cálculo, em que se determina um denominador comum (em geral, obtido pelo mínimo múltiplo comum entre os denominadores originais) e se operam os numeradores. Para que os alunos construam significado para as operações de adição e de subtração de frações, é importante que fique claro que **encontrar um denominador comum corresponde a encontrar uma subdivisão comum da unidade** entre as quantidades que se deseja operar (no caso, somar ou subtrair).
+Em muitos casos, a adição e a subtração de frações são abordadas na educação básica simplesmente a partir da apresentação (frequentemente sem justificativa) de um procedimento de cálculo, em que se determina um denominador comum (em geral, obtido pelo mínimo múltiplo comum entre os denominadores originais) e se operam os numeradores. Para que os alunos construam significado para as operações de adição e de subtração de frações, é importante que fique claro que **determinar um denominador comum corresponde a determinar uma subdivisão comum da unidade** entre as quantidades que se deseja operar (no caso, somar ou subtrair).
 
 Neste sentido, para somar, por exemplo $\frac{3}{4} + \frac{2}{3}$, deve-se observar que:
 
