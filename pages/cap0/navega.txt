@@ -25,9 +25,9 @@ Na Lição 3 as frações deixam de ser meros quantificadores para objetos (a fr
 O aluno já conhece e usa a reta numérica para representar os números Naturais lá, a reta numérica é construída por meio de uma graduação de uma reta com o uso de um compasso: uma vez escolhidos dois pontos distintos sobre a reta (que etiquetamos por 0 e 1), toma-se um compasso com abertura tal que suas pontas coincidam com os pontos 0 e 1 marcados sobre a reta. (INCLUIR UMA FIGURA). A seguir, com uma ponta sobre o ponto etiquetado por 1, marcamos, com a mesma abertura, outro ponto sobre a reta (aquele que não é o já etiquetado por zero) e o etiquetamos com o natural 2. (INCLUIR UMA FIGURA) E assim seguimos: uma vez etiquetado um ponto com o natural n, e sempre com a mesma abertura do compasso, marcamos um novo ponto sobre a reta, e o etiquetamos com o número natural n+1. (INCLUIR UMA FIGURA) Com uma tal visualização dos naturais na reta numérica, a contagem operações com naturais podem ser visualizadas por meio de saltos sobre a reta, simulando a contagem. (INCLUIR UMA FIGURA)
 
 /* HJB */
-Ainda nesta Lição 3, a reta numérica é usada como modelo para estabelecer a comparação de frações de mesmo numerador ou de mesmo denominador ou, ainda, por meio de uma terceira fração de referência. 
+Ainda nesta Lição 3, a reta numérica é usada como modelo para estabelecer a comparação de frações de mesmo numerador ou de mesmo denominador ou, ainda, por meio da comparação com uma terceira fração de referência. 
 
-A Lição 4 trata da equivalência de frações, por meio da qual é possível é possível criar procedimentos que permitem comparar duas frações quaisquer e obter uma fração que está entre duas frações diferentes (propriedade de densidade das frações). 
+A Lição 4 trata da equivalência de frações. O assunto é abordado utilizando-se representações equivalentes em modelos de área retangulares, em modelos de área circulares e na reta numérica. A inclusão de modelos diferentes é proposital pois, com isso, o aluno tem a oportunidade de perceber as mesmas propriedades em contextos diferentes aumentando assim o seu arsenal de modelos que ele pode lançar mão ao justificar uma resposta ou estudar uma situação.   
 
 Características de forma:
     * Texto baseado na problematização dos conteúdos a serem estudados 
