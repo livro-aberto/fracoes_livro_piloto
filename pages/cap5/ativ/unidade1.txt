@@ -28,22 +28,22 @@ FIGURA ARTÍSTICA
 Para o ilustrador: Incluir imagem de dois recipientes. Um em formato cilíndrico e outro em formato de cone (como sugerido pelas imagens). Ambas as figuras devem ter áreas de base próximas, sendo que a altura da figura em formato de cone deve ser 1,5 vezes a altura da figura em formato cilíndrico.
 
 |  {{:cap5:ativ:garrafa_alice.png?100|}}   |  {{:cap5:ativ:garrafa_miguel.png?100|}}   |
-|Recipiente 1: proposto pela Alice | Recipiente 2: proposto pelo Miguel |
+|Recipiente 1: trazido pela Alice | Recipiente 2: trazido pelo Miguel |
 
 </WRAP>
 Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d'água como unidade de medida. 
-  * __A partir do recipiente completo Alice encheu 26 copos.__
-  * __A partir do recipiente completo Miguel encheu 40 copos.__
+  * O recipiente trazido por Alice foi enchido com 26 copos.
+  * O recipiente trazido por Miguel foi enchido com 40 copos.
 Eles então observaram que a partir de **uma unidade de medida comum** (nesse caso o copo), poderiam não só dizer qual recipiente tinha maior capacidade, mas também o quanto era maior e qual seria a capacidade dos dois recipientes juntos. 
-Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, responda:
+Usando a ideia de medida de Miguel e Alice, isto é, tomando o copo como unidade de medida, responda:
   - Qual recipiente tem maior capacidade?
   - Qual é a capacidade dos dois recipientes juntos?
   - Quanto se deve retirar do recipiente maior, para ter o mesmo volume de líquido que é possível colocar no recipiente menor?
 
 <hidden Resposta>
 <WRAP resposta>
-  - O recipiente proposto por Miguel é maior, uma vez que enche mais copos. 
-  - Usando o copo como unidade de medida, podemos indicar que a capacidade dos dois recipientes juntos é 66. Ou seja, 66 copos. 
+  - O recipiente trazido por Miguel é maior, uma vez que precisou de mais copos para ser enchido (40>26). 
+  - Usando o copo como unidade de medida, podemos indicar que a capacidade dos dois recipientes juntos é 66 . Ou seja, 66 copos. 
   - Deve-se retirar 14 copos, pois $40 – 26=14$.
 </WRAP>
 </hidden>
