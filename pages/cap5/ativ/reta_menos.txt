@@ -4,7 +4,7 @@ Ir para [[cap5:texto#reta_menos]]
 
 <hidden Para o professor>
 <WRAP professor>
-O objetivo desta atividade é aprofundar a familiaridade dos alunos com a representação na reta. Caso os alunos tenham dificuldades em pensar sobre as soluções das tarefas propostas, o professor pode propor e explorar tarefas análogas com números naturais, empregando, por exemplo, a primeira figura.
+O objetivo desta atividade é aprofundar  abordagem da representação na reta numérica. Caso os alunos tenham dificuldades em pensar sobre as soluções das tarefas propostas, o professor pode propor e explorar tarefas análogas com números naturais, empregando, por exemplo, a primeira figura.
 Observe que buscamos articular as nomenclaturas "distância" e "tamanho do segmento". Sugerimos que busque discutir a relação entre essas ideias com os alunos.
 O item b) visa dar continuidade à discussão sobre densidade dos números racionais na reta, que foi introduzida na lição 4. A partir da escrita de frações como $\frac{15}{12}$ e $\frac{22}{12}$, pode não ser difícil para os alunos observar os seis números $\frac{16}{12}$, $\frac{17}{12}$, $\frac{18}{12}$, $\frac{19}{12}$, $\frac{20}{12}$ e $\frac{21}{12}$. Uma estratégia para encontrar mais números é escrever, por exemplo, A e B como $\frac{30}{24}$ e $\frac{44}{24}$ e tomar $\frac{n}{24}$, com $n$ variando entre 30 e 44 está entre A e B. A ideia é discutir com a turma que, como sempre podemos repetir esse processo, sempre poderemos encontrar mais números entre A e B. Daí, pode-se retomar a discussão sobre frações equivalentes e sobre densidade, que foi ensejada nos últimos exercícios da lição 4.</WRAP>
 </hidden>
