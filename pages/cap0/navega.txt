@@ -69,7 +69,7 @@ Trechos do BNCC para o Ensino Fundamental
 
 
 Aqui estará a introdução ao livro de frações.
-/*Aqui estão textos que migraram dos capitulos e depois serão tratados*/
+Aqui estão textos que migraram dos capitulos e depois serão tratados
 Nosso objetivo na construção dos números é completar a reta (bijeção). Em particular, no caso dos racionais as frações unitárias serão essenciais para alcançar todos os racionais. 
 <WRAP professor>
 Os livros didáticos americanos usam muito o modelo dos círculos. Um dos motivos para esta preferência é que, considerando-se o círculo como um todo, fica fácil perceber visualmente a fração que falta para se completar o todo. Isto não ocorre com os modelos de barras, por exemplo.
