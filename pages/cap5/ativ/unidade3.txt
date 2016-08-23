@@ -47,7 +47,7 @@ Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores dife
 </WRAP>
 
   - Que fração de uma pizza cada fatia representa?
-  - Complete os espaços (numeradores) a seguir registrando outra representação para a fração de uma pizza que cada uma das crianças comeu. Amanda: $\frac{1}{6} =\frac{}{12}$  \quad \quad Bruno: $\frac{3}{4} =\frac{}{12}$ \quad \quad Caio: $\frac{2}{3} =\frac{}{12}$ 
+  - Complete os espaços (numeradores) a seguir registrando outra representação para a fração de uma pizza que cada uma das crianças comeu.\\ Amanda: $\frac{1}{6} =\frac{}{12}  \quad \quad$ Bruno: $\frac{3}{4} =\frac{}{12} \quad \quad$ Caio: $\frac{2}{3} =\frac{}{12}$ 
   - Quem comeu mais pizza? Quem comeu menos pizza?
   - Que quantidade de pizza Bruno comeu a mais do que Caio?
   - Que quantidade de pizza Amanda e Bruno comeram juntas?
