@@ -4,15 +4,15 @@ Ir para [[cap5:texto#mesma_subunidade]]
 
 <hidden Para o professor>
 <WRAP professor>
- Nesta atividade, é solicitado que o aluno determine uma subdivisão da unidade comum entre as quantidades que permita efetuar as operações. 
-Além disso, é proposta a discussão sobre a não unicidade da subdivisão comum. Como nas atividades anteriores e nas próximas desta lição, o uso obrigatório do MMC não é recomendado. 
-Ao contrário, objetiva-se justamente provocar explicitamente a percepção de que **essa subdivisão não é única**. 
-Assim, podem ser apresentadas, por exemplo, as seguintes frações equivalentes às frações dadas na atividade:
+Nesta atividade, é solicitado que o aluno determine uma subdivisão da unidade das que permita efetuar as operações. 
+Além disso, é proposta a discussão sobre a não unicidade de tal subdivisão. Como nas atividades anteriores, e nas próximas desta lição, a tradicional receita de que, para somar e subtrair frações é necessário fazer uso do //mínimo// múltiplo comum (MMC) dos denominadores, não é estimulada nem recomendada neste texto. Ao contrário, objetiva-se justamente que os alunos percebam que a escolha da subdivisão não é única.
+
+Assim, podem ser apresentadas, por exemplo, as seguintes frações iguais às frações dadas na atividade:
 $$\frac{6}{10} \,{\rm e} \, \frac{7}{10}$$
 $$\frac{12}{20} \,{\rm e} \, \frac{14}{20}$$
-$$\frac{24}{40} \,{\rm e} \, \frac{28}{40}$$
+$$\frac{42}{70} \,{\rm e} \, \frac{49}{70}$$
 
-A partir dessas diferentes frações equivalentes, o professor deve procurar **articular com os estudantes a relação entre diferentes subdivisões com a sistematização de frações equivalentes**. Deve-se retomar a reflexão iniciada na sessão Organizando as Ideias de que escrever quantidades em relação a uma subdivisão comum corresponde a determinar frações equivalentes com um denominador comum.</WRAP>
+A partir dessas igualdades, o professor deve procurar **articular a relação entre diferentes subdivisões com a sistematização de frações equivalentes**. Deve-se retomar a reflexão iniciada na sessão Organizando as Ideias de que escrever quantidades em relação a uma subdivisão comum corresponde a determinar frações equivalentes com um denominador comum.</WRAP>
 </hidden>
 
 Tendo como unidade um mesmo retângulo, as representações das frações $\frac{3}{5}$ e $\frac{7}{10}$ estão ilustradas nas figuras a seguir. 
@@ -30,7 +30,7 @@ Tendo como unidade um mesmo retângulo, as representações das frações $\frac
 <WRAP resposta>
   - Uma possível subdivisão comum é em 10 partes, portanto, igual a fração $\frac{1}{10}$. Com essa subdivisão ambas as quantidades podem ser expressas por frações de denominador 10. ma forma de observar tal fato é determinar, na primeira imagem, um segmento horizontal, de modo a dividir cada parte da partição já existente em duas partes iguais.  <WRAP imagem> {{ :cap5:ativ:vw301.png?nolink&300 |}} </WRAP>
   - $\frac{3}{5} = \frac{6}{10}$. A fração $\frac{7}{10}$ já está escrita a partir de décimos.
-  - Sim, existem várias. Por exemplo, $\frac{1}{10}$, $\frac{1}{20}$ ou $\frac{1}{80}$. 
+  - Sim, existem várias. Por exemplo, $\frac{1}{10}$, $\frac{1}{20}$ ou $\frac{1}{70}$. 
   - Como $\frac{3}{5}+\frac{7}{10} = \frac{6}{10} + \frac{7}{10} = \frac{13}{10} > 1$, juntas, as regiões destacadas em vermelho e em amarelo determinam um região total maior do que a do retângulo dado.
 
 </WRAP>
