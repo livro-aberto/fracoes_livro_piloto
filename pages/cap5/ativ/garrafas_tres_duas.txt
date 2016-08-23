@@ -15,7 +15,7 @@ figura artística
 {{ :cap5:ativ:garrafas.png?400 |}}
 </WRAP>
 
-É possível redistribuir a água de todos os recipientes em somente duas garrafas?
+É possível juntar a água de todos os recipientes em somente duas dessas garrafas?
 <hidden Resposta>
 <WRAP resposta>
 Somando a quantidade de água presente nas três garrafas temos: $\frac{2}{3}+\frac{1}{2}+\frac{5}{8} = \frac{16}{24}+\frac{12}{24}+\frac{15}{24} = \frac{43}{24}$. Concluímos que é possível, pois $\frac{43}{24}<\frac{48}{24}=2$.  
