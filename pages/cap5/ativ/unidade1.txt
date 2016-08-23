@@ -36,7 +36,7 @@ Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depoi
   * __A partir do recipiente completo Miguel encheu 40 copos.__
 Eles então observaram que a partir de **uma unidade de medida comum** (nesse caso o copo), poderiam não só dizer qual recipiente tinha maior capacidade, mas também o quanto era maior e qual seria a capacidade dos dois recipientes juntos. 
 Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, responda:
-  - Qual recipiente tinha maior capacidade?
+  - Qual recipiente tem maior capacidade?
   - Qual é a capacidade dos dois recipientes juntos?
   - Quanto se deve retirar do recipiente maior, para ter o mesmo volume de líquido que é possível colocar no recipiente menor?
 
