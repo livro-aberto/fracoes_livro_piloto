@@ -9,9 +9,9 @@ Essas atividades envolvem os chamados "números mistos" (números expressos por 
 </hidden>
 
 {{ :cap5:ativ:reta_vertical1.png?100|}}
-Miguel deseja calcular a soma $s = 2 + \frac{1}{3}$ e inicialmente marcou na reta numérica o valor correspondente a $s$. Para fazer essa conta, Miguel desenhou duas retas, e usou a subdivisão da unidade em 3 partes iguais, como na figura abaixo. 
+Miguel deseja calcular a soma $2 + \frac{1}{3}$. Para isso, marcou na reta numérica ponto determinado pela justaposição do segmento correspondente a $2$ unidades com um segmento igual a $\frac{1}{3}$ da unidade, como na figura abaixo. 
 
-Miguel relacionou essa figura com o seguinte cálculo: 
+Miguel relacionou essa estratégia com o seguinte cálculo: 
 $$ 2 + \frac{1}{3} =  \frac{6}{3} + \frac{1}{3} = \frac{7}{3}$$
 {{ :cap5:ativ:reta_vertical2.png?300 |}}
 
