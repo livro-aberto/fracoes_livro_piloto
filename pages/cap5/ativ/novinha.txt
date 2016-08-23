@@ -42,14 +42,14 @@ O item b) deve ser desenvolvido de forma análoga ao item a).
 </WRAP>
 </hidden>
 
-Vamos aqui retomar a atividade 2, onde a professora Estela para enfeitar sua sala de aula para uma festa da escola comprou várias fitas, todas de mesmo tamanho, nas cores vermelho (dividindo e três pedaços), azul (dividindo e dois pedaços) e amarelo (dividindo em quatro pedaços). Relembre a figura. 
+Aqui retomamos a Atividade 2, na qual a professora Estela comprou e dividiu fitas de mesmo tamanho: a vermelha em três pedaços; a azul em dois pedaços e a amarela em quatro pedaços. 
 
 <WRAP imagem> FIGURA GEOMÉTRICA (mesma da atividade 2)
 
 {{:cap5:ativ:vw9.png?300|}}
 </WRAP>
 
-  - Agora, professora Estela formou uma fita colorida juntando um pedaço vermelho e um pedaço azul. Essa nova fita vermelha e azul é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e azul?
+  - Agora, a professora Estela juntou um pedaço da fita vermelha com um pedaço da fita azul. Essa nova fita formada tem tamanho maior ou menor ou igual ao tamanho orignal das fitas? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e azul?
   - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
 
 <hidden Resposta>
