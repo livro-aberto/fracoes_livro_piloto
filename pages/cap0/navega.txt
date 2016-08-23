@@ -1,5 +1,5 @@
-====== Introdução para o professor======
-
+====== Introdução======
+/*
 IDEIA DE ESQUELETO DA INTRODUÇÃO:
 
   * Por que este livro? Para que ele pode ser utilizado?  
@@ -8,7 +8,7 @@ IDEIA DE ESQUELETO DA INTRODUÇÃO:
   * Conhecimentos que supomos o estudante tenha.
   * O que se faz e o que não se faz de conteúdo no livro (linhas gerais) e alguma discussão a respeito.
   * Conteúdo e pontos altos lição por lição.
-
+*/
 
 Frações é certamente um dos tópicos mais longos e delicados de serem trabalhados na matemática da educação básica. Justamente por isso tanto se publicou sobre o assunto nas últimas décadas. /*Desde textos abstratos que tratam de ... (Rational Number de capa azul) até experimentos de salas de aula com discussões sobre as soluções de estudantes reais sobre alguns aspectos da aprendizagem do tema (Kindergarden blablabla). */ Esta proposta didática que aqui se apresenta materializa dezenas de horas de discussões dos autores sobre o estudo destas referências e sobre livros didáticos de diversos países. Destaque para o //Rational Number Project//, //Institute of Education Science// (2010), Van de Walle (2009) e Wu (2011). Este texto pode ser utilizado em sala de aula como material didático sobre o tema no quarto, quinto e sexto ano de escolaridade e também para discutir o ensino de frações em cursos de formação de professores.
 
@@ -22,7 +22,7 @@ Nas lições 1 e 2 é apresentada a linguagem de frações. As frações surgem 
 
 Na Lição 3 as frações deixam de ser meros quantificadores para objetos (a fração $\frac{3}{4}$ da uma unidade) e ganham o status de números racionais (a fração $\frac{3}{4}$), embora não seja utilizada esta terminologia. Nesta lição é utilizado o conhecimento do estudante sobre a reta numérica para representar os números naturais. O intervalo zero-um é tomado como unidade e é considerada uma fração da unidade, por exemplo $\frac{1}{3}$. Posicionando uma extremidade deste terço do segmento zero-um no zero, a outra extremidade (posicionada do lado positivo) é um ponto da reta que representa a fração $\frac{1}{3}$.
 
-O aluno já conhece e usa a reta numérica para representar os números Naturais lá, a reta numérica é construída por meio de uma graduação de uma reta com o uso de um compasso: uma vez escolhidos dois pontos distintos sobre a reta (que etiquetamos por 0 e 1), toma-se um compasso com abertura tal que suas pontas coincidam com os pontos 0 e 1 marcados sobre a reta. (INCLUIR UMA FIGURA). A seguir, com uma ponta sobre o ponto etiquetado por 1, marcamos, com a mesma abertura, outro ponto sobre a reta (aquele que não é o já etiquetado por zero) e o etiquetamos com o natural 2. (INCLUIR UMA FIGURA) E assim seguimos: uma vez etiquetado um ponto com o natural n, e sempre com a mesma abertura do compasso, marcamos um novo ponto sobre a reta, e o etiquetamos com o número natural n+1. (INCLUIR UMA FIGURA) Com uma tal visualização dos naturais na reta numérica, a contagem operações com naturais podem ser visualizadas por meio de saltos sobre a reta, simulando a contagem. (INCLUIR UMA FIGURA)
+/*O aluno já conhece e usa a reta numérica para representar os números Naturais lá, a reta numérica é construída por meio de uma graduação de uma reta com o uso de um compasso: uma vez escolhidos dois pontos distintos sobre a reta (que etiquetamos por 0 e 1), toma-se um compasso com abertura tal que suas pontas coincidam com os pontos 0 e 1 marcados sobre a reta. (INCLUIR UMA FIGURA). A seguir, com uma ponta sobre o ponto etiquetado por 1, marcamos, com a mesma abertura, outro ponto sobre a reta (aquele que não é o já etiquetado por zero) e o etiquetamos com o natural 2. (INCLUIR UMA FIGURA) E assim seguimos: uma vez etiquetado um ponto com o natural n, e sempre com a mesma abertura do compasso, marcamos um novo ponto sobre a reta, e o etiquetamos com o número natural n+1. (INCLUIR UMA FIGURA) Com uma tal visualização dos naturais na reta numérica, a contagem operações com naturais podem ser visualizadas por meio de saltos sobre a reta, simulando a contagem. (INCLUIR UMA FIGURA)*/
 
 /* HJB */
 Ainda nesta Lição 3, a reta numérica é usada como modelo para estabelecer a comparação de frações de mesmo numerador ou de mesmo denominador ou, ainda, por meio da comparação com uma terceira fração de referência. 
@@ -31,6 +31,9 @@ A Lição 4 trata da equivalência de frações tendo, como problema motivador, 
 
 Somas e subtrações de frações são o tema da Lição 5. Por meio de equivalência (que permite determinar subdivisões da unidade que sejam comuns entre as parcelas), o processo de determinar explicitamente a soma ou subtração de duas frações recai na soma e subtração de números inteiros, a saber, os numeradores de frações equivalentes de mesmo denominador, promovendo assim uma continuidade conceitual dos tópicos estudados.    
 
+Para o volume 2 ficaram os tópicos multiplicação e divisão de fração, a abordagem dos modelos discretos e os usos de frações dados por razão e proporção, onde serão estudadas as porcentagens. Interessante observar que os modelos discretos, que surgem da impossibilidade de se continuar a subdivisão de uma unidade (por exemplo quando a unidade é uma turma de 10 estudantes, a subdivisão mais fina é considerar um único estudante como subunidade), sequer são abordados nos livros didáticos japoneses da renomada coleção XYZ (na versão em inglês). Por outro lado, razão e proporção são usos importantes no dia-a-dia e também para o aprendizado de frações (referência do humberto), mas que são bastante desafiadores para o aprondizado dos estudantes (referência do humberto).
+
+/*
 Características de forma:
     * Texto baseado na problematização dos conteúdos a serem estudados 
     * Baseado em pesquisas científicas (esta pesquisa deveria ter sido referenciada ao professor)
@@ -109,3 +112,4 @@ Estrutura de capítulos versão 1:
     * Devemos observar que na lição 1 trabalhamos com parte-todo, na lição 2 usamos parte-todo para dividir mais de um objeto para $n$ pessoas, mas o objeto ainda é o todo a que se referem as frações.
 </hidden>
 
+*/
