@@ -29,7 +29,7 @@ FIGURA GEOMÉTRICA
 
 {{:cap5:ativ:vw8.png?500|}}
 </WRAP>
-Depois, a professora cortou cada fita vermelha em 3 partes iguais, cada fita azul em 2 partes iguais e cada fita amarela em 4 partes iguais.
+A professora cortou cada fita vermelha em 3 partes iguais, cada fita azul em 2 partes iguais e cada fita amarela em 4 partes iguais.
 <WRAP imagem>
 FIGURA GEOMÉTRICA
 
@@ -43,7 +43,7 @@ FIGURA GEOMÉTRICA
 <hidden Resposta>
 <WRAP resposta>
     - Um pedaço vermelho recortado, corresponde a $\frac{1}{3}$ da fita. \\ Um pedaço azul recortado, corresponde a $\frac{1}{2}$ da fita. \\ Um pedaço amarelo recortado, corresponde a $\frac{1}{4}$ da fita. 
-    - Um pedaço amarelo mais um pedaço azul corresponde a $$\frac{1}{4} +\frac{1}{2}$ da fita. Como $\frac{1}{2} =\frac{2}{4}$, temos que a junção dos dois pedaços de fita será $\frac{1}{4} +\frac{1}{2} = \frac{3}{4}$ da tamanho da fita original.  
+    - Um pedaço amarelo mais um pedaço azul corresponde a $\frac{1}{4} +\frac{1}{2}$ da fita. Como $\frac{1}{2} =\frac{2}{4}$, temos que a junção dos dois pedaços de fita será $\frac{1}{4} +\frac{1}{2} = \frac{3}{4}$ da tamanho da fita original.  
 
 </WRAP>
 </hidden>
