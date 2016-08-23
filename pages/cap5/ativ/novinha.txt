@@ -5,11 +5,12 @@ Ir para [[cap5:texto#novinha]]
 <hidden Para o professor>
 <WRAP professor>
 
-Nessa atividade buscamos aplicar a sistematização das ideias para retomar reflexões ensejadas na atividade 2. Aqui procuramos a generalização por situações que não são tão imediatas, onde trabalhamos com pedaços de fita que não são múltiplos inteiros de outros pedaços (dobro, como no caso dos pedaços azul e amarelo, presente na atividade 2). 
-No item a), em primeiro lugar, os alunos devem perceber que a nova fita vermelha e azul formada é menor que a fita original. Para chegar a essa conclusão, diferentes estratégias podem ser empregadas – e a exploração dessas estratégias deve ser estimulada pelo professor. Por exemplo, os alunos podem observar concretamente que como cada pedaço vermelho (correspondente à fração $\frac{1}{3}$) é menor que cada pedaço azul (correspondente à fração $\frac{1}{2}$), então a nova fita vermelha e azul é menor que a fita original.
+Esta atividade visa retomar a Atividade 2. Aqui procura-se a generalização a pratir de situações que não são tão imediatas, trabalhando construindo novos pedaços de fita que não são múltiplos inteiros de outros do tamanho fitas originais. 
 
-A partir dessas explorações iniciais, a ideia é que os alunos percebam que há diversas formas de saber qual fita tem o maior tamanho, e que, além disso, é possível determinar o tamanho – ou a **medida** – da nova fita vermelha e azul em relação à original somando-se as medidas dos dois pedaços (vermelho e azul) que a compõe. Para isso, algumas observações são fundamentais:
-      - O tamanho da fita original será uma **unidade** de medida, associada ao número 1, em relação a qual as medidas das demais grandezas serão determinadas, e expressas como frações.
+No item a), os alunos devem perceber que a nova fita vermelha e azul formada é menor do que a fita original. Para chegar a essa conclusão, diferentes estratégias podem ser empregadas – e a exploração dessas estratégias deve ser estimulada pelo professor. Por exemplo, os alunos podem observar que cada pedaço da fita vermelha (correspondente $\frac{1}{3}$ da fita original) é menor que um pedaço da fita azul (correspondente $\frac{1}{2}$ da fita original), então a nova fita vermelha e azul é menor do que a fita original azul.
+
+A partir dessas explorações, a ideia é que os alunos percebam que há diversas formas de saber qual fita tem o maior tamanho, e que, além disso, é possível determinar o tamanho – ou a **medida** – da nova fita vermelha e azul em relação à original somando-se as medidas dos dois pedaços (vermelho e azul) que a compõe. Para isso, algumas observações são fundamentais:
+      - O tamanho de uma fita original será uma **unidade** de medida, associada ao número 1, em relação a qual as medidas das demais grandezas serão determinadas, e expressas como frações.
       - Como os pedaços vermelho e azul correspondem a subdivisões de tamanhos diferentes da unidade de medida (tamanho da fita original), para determinar sua soma será preciso expressá-los como múltiplos inteiros de uma **subdivisão comum**, que pode ser obtida dividindo-se o pedaço vermelho em duas partes iguais e o pedaço azul em três partes iguais.
 
 <WRAP imagem> FIGURA GEOMÉTRICA
@@ -17,9 +18,7 @@ A partir dessas explorações iniciais, a ideia é que os alunos percebam que h�
 
 </WRAP>
 
-Desta forma, cada pedaço tem a mesma medida de 2 pedaços de $\frac{1}{6}$ da unidade, e cada pedaço azul tem a mesma medida de 3 pedaços de $\frac{1}{6}$ da unidade:
-$$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6}.$$
-Assim, totalização 5 pedaços de $\frac{1}{6}$  da unidade:
+Desta forma, cada pedaço de fita vermelha equivale a 2 pedaços iguais a $\frac{1}{6}$ da unidade, e cada pedaço de fita azul equivale a 3 pedaços iguais a $\frac{1}{6}$ da unidade, totalizando $\dfrac{5}{6}$ da unidade:
 $$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6} = \dfrac{5}{6}.$$
 
 <WRAP imagem> FIGURA GEOMÉTRICA
@@ -27,7 +26,7 @@ $$\dfrac{1}{3} + \dfrac{1}{2} = \dfrac{2}{6} + \dfrac{3}{6} = \dfrac{5}{6}.$$
 {{:cap5:ativ:vw202.png?300|}}
 </WRAP>
 
-Essa subdivisão comum permite ainda determinar a diferença entre os tamanhos da fita original e da nova fita vermelha e azul, associando-se a unidade a 6 pedaços de $\frac{1}{6}$:
+Essa subdivisão comum permite ainda determinar a diferença entre os tamanhos da fita original e da nova fita vermelha e azul, associando-se a unidade a 6 pedaços iguais a $\frac{1}{6}$ de uma fita original:
 
 $$ 1 - \dfrac{5}{6}=\dfrac{6}{6} - \dfrac{5}{6} = \dfrac{1}{6}.$$
 
@@ -49,13 +48,14 @@ Aqui retomamos a Atividade 2, na qual a professora Estela comprou e dividiu fita
 {{:cap5:ativ:vw9.png?300|}}
 </WRAP>
 
-  - Agora, a professora Estela juntou um pedaço da fita vermelha com um pedaço da fita azul. Essa nova fita formada tem tamanho maior ou menor ou igual ao tamanho orignal das fitas? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e azul?
-  - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor que a fita original? A que fração da fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
+  - Agora, a professora Estela juntou um pedaço da fita vermelha com um pedaço da fita azul. Essa nova fita formada tem tamanho maior ou menor ou igual ao tamanho orignal das fitas? A que fração de uma fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos de uma fita original e da fita vermelha e azul?
+  - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor do que uma fita original? A que fração de uma fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
 
 <hidden Resposta>
 <WRAP resposta>
-  - Um pedaço vermelho mais um pedaço azul corresponde a $\frac{1}{3} + \frac{1}{2} = \frac{2}{6}+ \frac{3}{6} = \frac{5}{6}$ da fita. Daí, esse tira formada é menos que a fita, pois $\frac{5}{6}<\frac{6}{6}=1$. A diferença de tamanho será dada por $1- \frac{5}{6} = \frac{6}{6} - \frac{5}{6} = \frac{1}{6}$.
-  - $\frac{1}{3}+\frac{1}{3}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4} = \frac{4}{12}+\frac{4}{12}+\frac{3}{12}+\frac{3}{12}+\frac{3}{12} = \frac{17}{12}$.
+  - Um pedaço vermelho mais um pedaço azul corresponde a $\frac{1}{3} + \frac{1}{2} = \frac{2}{6}+ \frac{3}{6} = \frac{5}{6}$ de uma fita original. Daí, a nova fita formada é menor do que uma fita original, pois $\frac{5}{6}<\frac{6}{6}=1$. A diferença de tamanho será dada por $1- \frac{5}{6} = \frac{6}{6} - \frac{5}{6} = \frac{1}{6}$.
+  - A nova fita vermelha e amarela é maior do que uma fita original, uma vez que equivale a $\frac{17}{12}>1$ da fita original.
+$\frac{1}{3}+\frac{1}{3}+\frac{1}{4}+\frac{1}{4}+\frac{1}{4} = \frac{4}{12}+\frac{4}{12}+\frac{3}{12}+\frac{3}{12}+\frac{3}{12} = \frac{17}{12}$.
 
 </WRAP>
 </hidden>
