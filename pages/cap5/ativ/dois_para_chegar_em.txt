@@ -4,13 +4,13 @@ Ir para [[cap5:texto#dois para_chegar_em]]
 
 <hidden Para o professor>
 <WRAP professor>
-Assim como nas atividades anteriores, aqui visamos explorar a articulação entre número misto e operação com frações, agora com a interpretação de comparar para a operação de subtração.</WRAP>
+Assim como nas atividades anteriores, aqui visamos explorar a articulação entre número misto e as operações com frações, agora com a interpretação de comparar a partir da operação de subtração.</WRAP>
 </hidden>
 
-Quanto o número $\frac{19}{7}$ é maior que o inteiro 2?
+Qual o maior número, $\frac{19}{7}$ ou $2$? Quanto maior?
 
 <hidden Resposta>
 <WRAP resposta>
-$\frac{19}{7} – 2 =  \frac{19}{7} - \frac{14}{7}= \frac{5}{7}$.
+$\frac{19}{7} > $\frac{14}{7} = 2$. Portanto, $\frac{19}{7}$ é maior e $\frac{19}{7} – 2 =  \frac{19}{7} - \frac{14}{7}= \frac{5}{7}$.
 </WRAP>
 </hidden>
