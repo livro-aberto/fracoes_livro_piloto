@@ -44,6 +44,6 @@ Usando a ideia de medida de Miguel e Alice, o copo como unidade de medida, respo
 <WRAP resposta>
   - O recipiente proposto por Miguel é maior, uma vez que enche mais copos. 
   - Usando o copo como unidade de medida, podemos indicar que a capacidade dos dois recipientes juntos é 66. Ou seja, 66 copos. 
-  - Deve-se retirar 14 copos, que é dado por $40 – 26$.
+  - Deve-se retirar 14 copos, pois $40 – 26=14$.
 </WRAP>
 </hidden>
