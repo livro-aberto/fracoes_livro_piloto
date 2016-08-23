@@ -4,12 +4,12 @@ Ir para [[cap5:texto#canteiro]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade retoma a noção de fração como parte de um todo em situações concretas. Além disso, envolvem as interpretações de adição como juntar e comparar.
+Esta atividade retoma a noção de fração como parte de um todo em situações concretas. Além disso, envolvem as interpretações de adição como juntar e como comparar.
 </WRAP>
 </hidden>
-A família de Miguel tinha um determinado espaço retangular para fazer um canteiro em seu quintal. A família queria ter um local florido e com verduras frescas. O pai de Miguel indicou que precisava de $\frac{2}{3}$ do espaço inicialmente reservado ao canteiro para cultivar rosas. A mãe disse que necessitava de $\frac{1}{2}$ desse espaço para plantar verduras. Quando Miguel ouviu o diálogo dos pais, pensou nas seguintes questões:
-  - Quem precisava de mais espaço? 
-  - O espaço reservado inicialmente para o canteiro seria suficiente? 
+A família de Miguel reservou um determinado espaço retangular para fazer um canteiro em seu quintal. A família queria que o cateiro tivesse rosas e verduras frescas. O pai de Miguel disse que precisava de $\frac{2}{3}$ do espaço inicialmente reservado para cultivar rosas. A mãe disse que necessitava de $\frac{1}{2}$ desse espaço para plantar as verduras. Quando Miguel ouviu o diálogo dos pais, pensou nas seguintes questões:
+  - Quem precisava de mais espaço, o pai ou a mãe? 
+  - O espaço reservado inicialmente para o canteiro será suficiente? 
   - Caso o espaço seja suficiente, qual fração ficaria sem uso? 
   - Caso o espaço não seja suficiente, que fração do canteiro deveria ser aumentada para que a família conseguisse fazer as plantações que desejava? 
 
