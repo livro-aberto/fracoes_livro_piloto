@@ -1,0 +1,30 @@
+;;#
+Ir para [[cap1:texto#ativ_circ_frac]]
+;;#
+
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivos específicos: Levar o aluno a:
+  * Distinguir frações unitárias a partir de representações em modelos diversos, baseados em equipatição ou não. 
+  * Comparar frações unitárias a partir de representações em modelos diversos, baseados em equipatição ou não.
+  * Estabelecer a comparação entre as frações "um meio", "um quarto" e "um décimo". 
+  * Reconhecer e diferenciar a representação das frações "um meio", "um quarto" e "um décimo" em modelos diversos, baseados em equipatição ou não.
+  * Estabelecer a comparação entre as frações "um meio", "um quarto" e "um décimo" 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que o aluno pode fazer individualmente.
+  * E
+
+</WRAP>
+</hidden>
+
+ENUNCIADO
+
+<hidden Resposta>
+<WRAP resposta> 
+
+
+</WRAP>
+</hidden>
