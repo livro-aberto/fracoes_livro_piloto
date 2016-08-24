@@ -5,129 +5,77 @@ Ir para [[cap4:texto#preencha_refletindo]]
 
 <WRAP refletindo> 
 Ao resolver esta última atividade você deve ter percebido que a região do círculo destacada em cinza pode ser preenchida de diferentes maneiras por justaposições de cada uma das peças coloridas que você recortou.  
-<WRAP imagem> FIGURAS GEOMÉTRICAS (todas as imagens desta seção refletindo)
-</WRAP>
-{{:cap4:secoes:peca-um-terco.png?200}} {{:cap4:secoes:peca-um-sexto.png?200}} {{:cap4:secoes:peca-um-doze-avos.png?200}}
-{{ :cap4:secoes:fracoes-iguais-dois-tercos.png?266 |}}
+
+{{ :cap4:secoes:arc2.png?nolink&500 |}}
+
 Além disso, deve ter observado que, quanto menor a peça colorida, mais dessas peças você precisou para cobrir a região do círculo destacada em cinza.
 
 Ao preencher a **primeira linha da tabela**, você deve ter percebido que três peças azuis cobrem o círculo inteiro e que duas peças azuis cobrem a região do círculo destacada em cinza.
-{{ :cap4:secoes:w_azul.png?200 |}} 
-{{ :cap4:secoes:w_2.png?200 |}}
+
+{{ :cap4:secoes:arc3.png?nolink&500 |}} 
+
 Portanto, a região do círculo destacada em cinza é igual a $\frac{2}{3}$ do círculo.
 
 Para preencher a **segunda linha da tabela** você deve ter percebido que 
-  * que seis peças lilás cobrem o círculo inteiro; 
-\\ {{ :cap4:secoes:w_3.png?200 |}}
-  * que duas peças lilás cobrem uma peça azul; 
-\\ {{ :cap4:secoes:w_4.png?200 |}} $\left(\frac{1}{3} = \frac{2}{6}\right)$
-  * e que quatro peças lilás cobrem a região do círculo destacada em cinza. 
-\\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{4}{6} = \frac{2\times 2}{2\times 3} = \frac{2}{3} \right)$
+  * que seis peças laranja cobrem o círculo inteiro; 
+
+{{ :cap4:secoes:arc4.png?nolink&500 |}} 
+
+  * que duas peças laranja cobrem uma peça azul; 
+
+{{ :cap4:secoes:arc5.png?nolink&500 |}} 
+
+$$\left(\dfrac{1}{3} = \dfrac{2}{6}\right)$$
+
+  * e que quatro peças laranja cobrem a região do círculo destacada em cinza. 
+
+{{ :cap4:secoes:arc6.png?nolink&500 |}} 
+
+$$\left(\dfrac{4}{6} = \dfrac{2\times 2}{2\times 3} = \dfrac{2}{3} \right)$$
+
 Portanto, a região do círculo destacada em cinza é igual a $\frac{4}{6}$ do círculo.
 
 Este raciocínio pode ser escrito da seguinte maneira:
 $\frac{1}{3}$ é igual a dois $\frac{1}{6}$, ou, simplesmente, 
 $\frac{1}{3}$ = $\frac{2}{6}$.
-<WRAP imagem>
-INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E DUAS PECAS LILAS 
-</WRAP>
+
+{{ :cap4:secoes:arc7.png?nolink&500 |}} 
+
 Logo,
 
-$\frac{4}{6} = \frac{2 \times 2}{2 \times 3} = \frac{2}{3}$.
-<WRAP imagem>
-INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E QUATRO PECAS LILAS 
-</WRAP>
+$$\dfrac{4}{6} = \dfrac{2 \times 2}{2 \times 3} = \dfrac{2}{3}.$$
 
+{{ :cap4:secoes:arc8.png?nolink&500 |}} 
 
 Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
-    * que doze peças rosas cobrem o círculo inteiro; 
-\\ {{ :cap4:secoes:w_6.png?200 |}}
-    * que quatro peças rosas cobrem uma peça azul; 
-\\ {{ :cap4:secoes:w_7.png?200 |}} $\left(\frac{1}{3} = \frac{4}{12}\right)$
-    * e que oito peças rosas cobrem a região do círculo destacada em cinza. 
-\\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right)$
+    * que doze peças vermelhas cobrem o círculo inteiro; 
+
+{{ :cap4:secoes:arc9.png?nolink&500 |}} 
+
+    * que quatro peças vermelhas cobrem uma peça azul; 
+
+{{ :cap4:secoes:arc10.png?nolink&500 |}} 
+
+$$\left(\dfrac{1}{3} = \dfrac{4}{12}\right)$$
+    * e que oito peças vermelhas cobrem a região do círculo destacada em cinza. 
+
+{{ :cap4:secoes:arc11.png?nolink&500 |}} 
+
+$$\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right)$$
 Logo, a região do círculo destacada em cinza é igual a $\frac{8}{12}$ do círculo. 
 
 Este raciocínio pode ser representado do seguinte modo:
 $\frac{1}{3}$ é igual a quatro $\frac{1}{12}$, ou, simplesmente, 
 $\frac{1}{3}$=$\frac{4}{12}$
-<WRAP imagem>
-INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE UMA PECA AZUL E QUATRO PECAS ROSAS
-</WRAP>
+
+{{ :cap4:secoes:arc12.png?nolink&500 |}} 
+
 Logo,
 $\frac{8}{12} = \frac{4\times 2}{4 \times 3} = \frac{2}{3}$.
-<WRAP imagem>
-INCLUIR IMAGEM APENAS DA IGUALDADE ENTRE DUAS PECAS AZUIS E OITO PECAS LILAS
-</WRAP>
+
+{{ :cap4:secoes:arc13.png?nolink&500 |}} 
 
 Portanto, a região do círculo destacada em cinza, que é $\frac{2}{3}$ do círculo, também é igual a $\frac{4}{6}$ do círculo e igual a $\frac{8}{12}$ do círculo, ou seja, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ representam a mesma quantidade e, portanto, são iguais:
 $\frac{2}{3}$ = $\frac{4}{6}$ = $\frac{8}{12}$
 
 </WRAP>
-
-/*
-<WRAP refletindo> Ao resolver esta última atividade você deve ter percebido que as justaposições de cada tipo de setor circular 
-
-<WRAP imagem> FIGURAS GEOMÉTRICAS (todas as imagens desta seção refletindo)
-</WRAP>
-
-{{:cap4:secoes:peca-um-terco.png?200}} {{:cap4:secoes:peca-um-sexto.png?200}} {{:cap4:secoes:peca-um-doze-avos.png?200}}
-
-preencheram uma mesma área (a área cinza do encarte).
-
-{{ :cap4:secoes:fracoes-iguais-dois-tercos.png?266 |}}
-
-Quanto menor a área do setor circular, mais peças você precisou para preencher a área cinza.
-
-Assim, para preencher a **primeira linha da tabela** você deve ter percebido que três peças azuis correspondem  ao círculo inteiro
-
-{{ :cap4:secoes:w_azul.png?200 |}}
-
-e que duas peças  azuis preencheram a área cinza.
-
-{{ :cap4:secoes:w_2.png?200 |}}
-
-Logo, a área da região cinza é igual a $\frac{2}{3}$ da área do círculo.
-
-Para preencher a **segunda linha da tabela** você deve ter percebido:
-  * que seis peças lilás  cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_3.png?200 |}}
-  * que duas peças lilás cobrem uma peça azul; \\ {{ :cap4:secoes:w_4.png?200 |}} $\left(\frac{1}{3} = \frac{2}{6}\right)$
-  * e que quatro peças  lilás  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_5.png?200 |}} $\left(\frac{2}{3} = \frac{4}{6} = \frac{2\times 2}{2\times 3} \right)$
-
-Logo, a área da região cinza é igual a $\frac{4}{6}$ da área do círculo.
-
-Este raciocínio pode ser representado do seguinte modo:
-
-$\frac{1}{3}$ é igual a 2 vezes $\frac{1}{6}$, isto é, $\frac{2}{6}$.
-
-Logo,
-
-$\frac{2}{3}= 2 \times \frac{2}{6}=\frac{4}{6}=\frac{2 \times 2}{3 \times 2}$, onde 2 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
-
-Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
-    * que doze peças rosas cobrem o círculo inteiro; \\ {{ :cap4:secoes:w_6.png?200 |}}
-    * que quatro peças rosas cobrem uma peça azul; \\ {{ :cap4:secoes:w_7.png?200 |}} $\left(\frac{1}{3} = \frac{4}{12}\right)$
-    * e que oito peças  rosas  preencheram a área da região cinza. \\ {{ :cap4:secoes:w_8.png?200 |}} $\left(\frac{2}{3} = \frac{8}{12} = \frac{4\times 2}{4\times 3} \right)$
-Logo, a área cinza é igual a $\frac{8}{12}$ da área do círculo. 
-
-Este raciocínio pode ser representado do seguinte modo:
-
-$\frac{1}{3}$ é igual a 4 vezes $\frac{1}{12}$, isto é, $\frac{4}{12}$
-
-Logo,
-
-$\frac{2}{3} = 2 \times \frac{4}{12} = \frac{8}{12} = \frac{2\times 4}{3 \times 4}$, onde 4 é o número de vezes em que foi subdividida a fração $\frac{1}{3}$.
-
-Assim, pode-se concluir que a área da região cinza, que é $\frac{2}{3}$ da área do círculo, também é igual a $\frac{4}{6}$ da área do círculo ou igual a $\frac{8}{12}$ da área do círculo; isto é, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ são iguais, pois elas representam a mesma quantidade (a medida da área da região cinza tendo a área do círculo como unidade).
-
-Para finalizar, observe as seguintes igualdades:
-
-$$\frac{2}{3} = \frac{4}{6} = \frac{8}{12}$$
-e
-$$\frac{2}{3} = \frac{2 \times 2}{3 \times 2} = \frac{2 \times 4}{3 \times 4}$$
-
-Estas últimas igualdades serão retomadas mais adiante.
-
-</WRAP>
-
-*/
