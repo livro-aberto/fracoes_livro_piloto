@@ -24,13 +24,7 @@ Classificações:
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
 
-<WRAP imagem> FIGURA GEOMÉTRICA 
-
-O raio do círculo deve ser igual ao raio dos setores circulares usados na Lição 1.
-
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
-</WRAP>
-
 </WRAP>
 
 </WRAP>
@@ -38,10 +32,7 @@ O raio do círculo deve ser igual ao raio dos setores circulares usados na Liç�
 
 O objetivo desta atividade é estudar a fração do círculo que está pintada de cinza no encarte que você recebeu.
 
-<WRAP imagem> FIGURA GEOMÉTRICA - As figuras são individuais. Observe que são apenas 4 figuras.
-É importante que o raio do círculo desta figura seja igual aos raios dos setores circulares da tabela.
-{{ :cap4:secoes:fracoes-iguais-dois-tercos.png?400 |}}
-</WRAP>
+{{ :cap4:secoes:fracoes-iguais-dois-tercos.png?200 |}}
 
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou e usou na [[cap1:texto#ativ_circ_frac|Atividade 12]] da Lição 1 para avaliar as suas respostas. 
 
