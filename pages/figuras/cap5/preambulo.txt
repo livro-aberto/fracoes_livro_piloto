@@ -1,7 +1,6 @@
 Para o professor:
 
 <code latex>
-\begin{tikzpicture}
 \documentclass[10pt]{article}
 \usepackage{pgf,tikz}
 \usepackage{mathrsfs}
@@ -10,7 +9,7 @@ Para o professor:
 \begin{document}
 \definecolor{ffffff}{rgb}{1.,1.,1.}
 \definecolor{ffqqqq}{rgb}{1.,0.,0.}
-\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm,scale=.5]
 \clip(-3.56,-6.5) rectangle (19.44,5.14);
 \fill[line width=0.pt,color=ffqqqq,fill=ffqqqq,fill opacity=0.1] (0.,0.) -- (0.,5.) -- (8.,5.) -- (8.,0.) -- cycle;
 \fill[color=ffffff,fill=ffffff,fill opacity=0.1] (8.,5.) -- (12.,5.) -- (12.,0.) -- (8.,0.) -- cycle;
@@ -56,7 +55,6 @@ Para o professor:
 \end{scriptsize}
 \end{tikzpicture}
 \end{document}
-\end{tikzpicture}
 </code>
 
 
