@@ -71,6 +71,12 @@ page>cap1:secoes:abstrato
 {{page>cap1:secoes:ativ_visual_linguagem}}
 
 
+{{anchor:ativ_Circ_Frac}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_Circ_Frac}}
+
+
+
 /*==== Atividade - ====
 
 {{page>cap1:secoes:ativ_quantos cabem}}
