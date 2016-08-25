@@ -36,7 +36,7 @@ Usando os Círculos de Frações, responda:
 
 <WRAP imagem>
 Figura geométrica
-Imagem ilustrativa que repozuza, um ao lado do outro, os círculos que compõem o material Circulos de Frações, em ordem decrescente de tamanho
+Imagem ilustrativa que reproduza em tamanho reduzido os círculos que compõem o material Circulos de Frações, um ao lado do outro, em ordem decrescente de tamanho
 </WRAP>
 
 
