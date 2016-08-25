@@ -34,18 +34,22 @@ O objetivo desta atividade é estudar a fração do círculo que está pintada d
 
 {{ :cap4:secoes:fracoes-iguais-dois-tercos.png?200 |}}
 
-Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou e usou na [[cap1:texto#ativ_circ_frac|Atividade 12]] da Lição 1 para avaliar as suas respostas. 
+Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, use as peças coloridas que você recortou e usou na [[cap1:texto#ativ_circ_frac|Atividade 10]] da Lição 1 para avaliar as suas respostas. 
+
+<WRAP nota>
+As cores dos discos devem ser compatíveis com aquelas da [[cap1:texto#ativ_circ_frac|Atividade 10]] da Lição 1.
+</WRAP>
 
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo?  | Que fração do círculo não está colorida de cinza? |
 | $\frac{1}{3}$ {{:cap4:secoes:peca-um-terco.png?300|}}  | | | |
 | $\frac{1}{6}$ {{:cap4:secoes:peca-um-sexto.png?300|}}  | | | |
-| $\frac{1}{12}$ {{:cap4:secoes:peca-um-doze-avos.png?300|}}  | | | |
+| $\frac{1}{9}$  {{:undefined:peca-um-nono.jpg?100|}}  | | | |
 
 <hidden Resposta>
 <WRAP resposta>
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do círculo?  | Que fração do círculo não está colorida de cinza? |
 | $\frac{1}{3}$ {{:cap4:secoes:peca-um-terco.png?300|}}  | $2$ | $\frac{2}{3}$ | $\frac{1}{3}$ |
 | $\frac{1}{6}$ {{:cap4:secoes:peca-um-sexto.png?300|}}  | $4$ | $\frac{4}{6}$ | $\frac{2}{6}$ |
-| $\frac{1}{12}$ {{:cap4:secoes:peca-um-doze-avos.png?300|}}  | $8$ | $\frac{8}{12}$ | $\frac{4}{12}$ |
+| $\frac{1}{9}$  {{:undefined:peca-um-nono.jpg?100|}}  |  $6$ | $\frac{6}{9}$ | $\frac{3}{9}$ |
 </WRAP>
 </hidden>
