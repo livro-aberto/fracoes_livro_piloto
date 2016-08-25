@@ -10,9 +10,9 @@ Objetivos específicos: Levar o aluno a:
   * Comparar frações unitárias a partir de representações em modelos de área circular. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. No entanto, cada aluno deve ter o seu próprio material (Círculos de Frações) para realizar a atividade. 
   * Durante a discussão, os alunos devem ser estimulados a explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à às frações da unidade correspondentes será fundamental para atingir o objetivo da atividade.
-  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO).
+  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO). 
   * Sendo um material concreto, os círculos de frações tem o papel de auxiliar na visualização da representação das frações, mais especificamente, das frações unitárias. 
   * Na versão utilizada nesta atividade, o círculo corresponde à unidade, ou seja, ao 1 e os setores circulares, diferenciados por cores, correspondem às frações unitárias //um meio//, //um terço//, //um quarto//, //um sexto//, //um sétimo//, //um oitavo//, //um nono// e //um décimo//. 
   * Além de para tratar das frações unitárias, os Círculos de Frações também pode ser utilizado para a abordagem de outros conceitos e assuntos: por exemplo, frações em geral, comparação de frações ou as operações de adição e de subtração com frações.
@@ -31,32 +31,32 @@ Imagem ilustrativa:
 
 Usando os Círculos de Frações, responda:
 
-a) Qual a cor do pedaço do círculo que é igual a um terço do círculo preto? 
-b) Qual a cor do pedaço do círculo que é igual a um quarto do círculo preto?
-c) Qual a cor do pedaço do círculo que é igual a um sétimo do círculo preto?
-d) Qual a cor do pedaço do círculo que é igual a um nono do círculo preto?
-e) Que fração do círculo preto é igual a um pedaço do círculo na cor roxa?
-f) Que fração do círculo preto é igual a um pedaço do círculo na cor cinza?
-g) Que fração do círculo preto é igual a um pedaço do círculo na cor branco?
-h) Que fração do círculo preto é igual a um pedaço do círculo na cor rosa?
-i) Qual fração é maior 
-j)
-l)
-m)
-n)
+a) Qual a cor do pedaço do círculo que é igual a um terço do círculo preto?\\ 
+b) Qual a cor do pedaço do círculo que é igual a um quarto do círculo preto?\\
+c) Qual a cor do pedaço do círculo que é igual a um sétimo do círculo preto?\\
+d) Qual a cor do pedaço do círculo que é igual a um nono do círculo preto?\\
+e) Que fração do círculo preto é igual a um pedaço do círculo na cor roxa?\\
+f) Que fração do círculo preto é igual a um pedaço do círculo na cor cinza?\\
+g) Que fração do círculo preto é igual a um pedaço do círculo na cor branco?\\
+h) Que fração do círculo preto é igual a um pedaço do círculo na cor rosa?\\
+i) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
+j) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
+l) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
+m) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
+n) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\
 
 
 
 <hidden Resposta>
 <WRAP resposta> 
-a) Um pedaço do círculo na cor AZUL é igual a um terço do círculo preto. 
-b) Um pedaço do círculo na cor VERMELHO é igual a um terço do círculo preto. 
-c) Um pedaço do círculo na cor AMARELO é igual a um terço do círculo preto. 
-d) Um pedaço do círculo na cor LARANJA é igual a um terço do círculo preto. 
-e) Um pedaço do circulo na cor roxa é igual a um sexto do círculo preto.
-f) Um pedaço do circulo na cor roxa é igual a um oitavo do círculo preto.
-g) Um pedaço do circulo na cor roxa é igual a um décimo  do círculo preto
-h) Um pedaço do circulo na cor roxa é igual à metade do círculo preto
+a) Um pedaço do círculo na cor AZUL é igual a um terço do círculo preto.\\ 
+b) Um pedaço do círculo na cor VERMELHO é igual a um terço do círculo preto.\\ 
+c) Um pedaço do círculo na cor AMARELO é igual a um terço do círculo preto.\\ 
+d) Um pedaço do círculo na cor LARANJA é igual a um terço do círculo preto.\\ 
+e) Um pedaço do circulo na cor roxa é igual a UM SEXTO do círculo preto.\\
+f) Um pedaço do circulo na cor roxa é igual a UM OITAVO do círculo preto.\\
+g) Um pedaço do circulo na cor roxa é igual a UM DÉCIMO  do círculo preto.\\
+h) Um pedaço do circulo na cor roxa é igual à METADE do círculo preto.\\
 
 </WRAP>
 </hidden>
