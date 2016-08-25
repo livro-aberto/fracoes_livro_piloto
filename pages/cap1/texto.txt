@@ -61,6 +61,12 @@ page>cap1:secoes:abstrato
 
 /* atividade mais avançada, deve ser utilizada mais para frente page>cap1:secoes:atividade5*/
 
+{{anchor:ativ_cisc_frac}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_circ_frac}}
+
+
+
 {{anchor:ativ_variadas}}
 ==== Atividade - ====
 {{page>cap1:secoes:ativ_variadas}}
@@ -71,9 +77,7 @@ page>cap1:secoes:abstrato
 {{page>cap1:secoes:ativ_visual_linguagem}}
 
 
-{{anchor:ativ_Disc_frac}}
-==== Atividade - ====
-{{page>cap1:secoes:ativ_Circ_frac}}
+
 
 
 
