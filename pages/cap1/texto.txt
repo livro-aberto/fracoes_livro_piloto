@@ -71,9 +71,9 @@ page>cap1:secoes:abstrato
 {{page>cap1:secoes:ativ_visual_linguagem}}
 
 
-{{anchor:ativ_circ_frac}}
+{{anchor:ativ_Disc_frac}}
 ==== Atividade - ====
-{{page>cap1:secoes:ativ_circ_frac}}
+{{page>cap1:secoes:ativ_Circ_frac}}
 
 
 
