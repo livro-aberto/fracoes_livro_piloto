@@ -2,7 +2,6 @@
 Ir para [[cap1:texto#ativ_circ_frac]]
 ;;#
 
-
 <hidden Para o professor>
 <WRAP professor>
 
@@ -13,25 +12,25 @@ Objetivos específicos: Levar o aluno a:
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
   * Durante a discussão, os alunos devem ser estimulados a explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à às frações da unidade correspondentes será fundamental para atingir o objetivo da atividade.
-  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Disco de frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO).
-  * Sendo um material concreto, o Disco de Frações tem o papel de auxiliar na visualização da representação das frações, mais especificamente, das frações unitárias. 
+  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO).
+  * Sendo um material concreto, os círculos de frações tem o papel de auxiliar na visualização da representação das frações, mais especificamente, das frações unitárias. 
   * Na versão utilizada nesta atividade, o círculo corresponde à unidade, ou seja, ao 1 e os setores circulares, diferenciados por cores, correspondem às frações unitárias //um meio//, //um terço//, //um quarto//, //um sexto//, //um sétimo//, //um oitavo//, //um nono// e //um décimo//. 
-  * Além de para tratar das frações unitárias, o disco de frações também pode ser utilizado para a abordagem de outros conceitos e assuntos: por exemplo, frações em geral, comparação, adição e subtração. 
+  * Além de para tratar das frações unitárias, os Círculos de Frações também pode ser utilizado para a abordagem de outros conceitos e assuntos: por exemplo, frações em geral, comparação de frações ou as operações de adição e de subtração com frações.
+  * Antes de pedir que os alunos façam a atividade, explore o material com perguntas dirigidas a toda a turma como as seguintes: (a) "//Quantos pedaços azuis cobrem o círculo preto?//" ou "//Quantos pedaços verdes cobrem o círculo preto?//" e (b) "//Qual a cor do pedaço que é um terço do círculo preto?//" ou "//Qual a cor do pedaço que é um sétimo do círculo preto?//". 
+
 
 <WRAP imagem>
 Figura geométrica
 **Duas páginas, cada uma com 5 círculos, todos com o mesmo raio, o maior possível**. A disposição dos círculos na página deve ser um círculo central e quatro no entorno. Na primeira página os seguintes círculos: (i) Círculo inteiro, sem marcar para recortes na cor preto; (ii) círculo para recorte em metades, na cor rosa; (iii) círculo para recorte com setores correspondentes a terços, na cor azul; (iv) círculo para recorte com setores correspondentes a quartos, na cor vermelho e (v) círculo para recorte com setores correspondentes a quintos, na cor verde. Na segunda página: (i) círculo para recorte com setores correspondentes a sextos, na cor roxo; (ii) círculo para recorte com setores correspondentes a sétimos, na cor amarelo; (iii) círculo para recorte com setores correspondentes a oitavos, na cor cinza; (iv) círculo para recorte com setores correspondentes a nonos, na cor laranja e (v) círculo para recorte com setores correspondentes a décimos, na cor branco.
-Imagem ilustrativa, NÃO É PARA INDICAR AS FRACOES:
+Imagem ilustrativa:
 {{ :cap1:secoes:disco_de_fracoes_ilust.jpg?300 |}}
 </WRAP>
-
-
-
 </WRAP>
 </hidden>
 
-ENUNCIADO
+Usando os Círculos de Frações, responda:
 
+a) Qual 
 
 
 <hidden Resposta>
