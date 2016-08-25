@@ -12,20 +12,20 @@ Objetivos específicos: Levar o aluno a:
   * Ordenar frações. 
 
 Material necessário:
-  * Pelo menos 3 metros de barbante, de maneira que cubra toda uma lateral da sala de aula (por exemplo, aquela em que está posicionado o quadro. 
-  * 4 folhas de papel sufite. 
-  * 32 pregadores de roupa (podem ser substituídos por clipes de papel).
+  * Pelo menos $3$ metros de barbante, de maneira que cubra toda uma lateral da sala de aula (por exemplo, aquela em que está posicionado o quadro. 
+  * $4$ folhas de papel sufite. 
+  * $32$ pregadores de roupa (podem ser substituídos por clipes de papel).
   * Fita adesiva.
 
 Preparação para a atividade:\\
   * Esta atividade deve ser desenvolvida como um jogo, envolvendo todos os alunos da turma, organizados em grupos  5 ou 6 alunos. A quantidade de participantes em cada grupo e, consequentemente, a quantidade de grupos, deve ser decidida tendo em conta a quantidade de alunos na turma. Tudo deve ser combinado e esclarecido antes de a atividade começar.
-  * O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos e não muito alto para que os estudantes possam alcançar com as mãos. Pode ser, por exemplo, em frente ao quadro e indo de um extremo a outro da sala. Esse barbante representará a reta numérica. 
+  * O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos e não muito alto para que os estudantes possam alcançar com as mãos. Pode ser, por exemplo, em frente ao quadro, e indo de um extremo a outro da sala. Esse barbante representará a reta numérica. 
   * O objetivo da atividade é “pendurar os números" no barbante usando pregadores ou fitas adesivas, visando experimentar, em uma atividade concreta, a associação entre os pontos da reta e os números. Para isso serão feitos cartões numerados. 
   *É Importante reforçar a fixacão das extremidades do barbante para que não solte com o peso dos cartões que serão pendurados.
-  * Dobre cada uma das folhas de papel 2 vezes ao meio, em direções paralelas aos lados, marcando assim 4 retângulos congruentes em cada folha. Recorte esses retângulos. Cada um deles será numerado e, durante a atividade, fixado no barbante. Serão chamados de **cartões numerados** (como os da figura). 
+  * Dobre cada uma das folhas de papel $2$ vezes ao meio, em direções paralelas aos lados, marcando assim 4 retângulos congruentes em cada folha. Recorte esses retângulos. Cada um deles será numerado e, durante a atividade, fixado no barbante. Serão chamados de **cartões numerados** (como os da figura). 
   * Escreva as os números $0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$, $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$, $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$, $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\frac{10}{5}$, $\frac{1}{10}$ nesses cartões.
   * Observe que são contemplados números naturais e frações não inteiras. 
-  * Além dos cartões numerados com o 0 (zero) e o 1 (um) , recomenda-se que haja pelo menos um cartão numerado para cada aluno. A sequência com 32 números é uma sugestão básica. Essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
+  * Além dos cartões numerados com o $0$ (zero) e o $1$ (um) , recomenda-se que haja pelo menos um cartão numerado para cada aluno. A sequência com $32$ números é uma sugestão básica. Essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor. 
 
 Recomendações e sugestões para o desenvolvimento da atividade:\\
   * O desenvolvimento da atividade precisa ser mediado pelo professor. O processo e a discussão são importantes.
@@ -37,7 +37,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:\\
   * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma. 
   * Pontuacão: cada cartão numérico posicionado corretamente vale um ponto para o grupo que fixou o cartão. Cada avaliação correta vale meio ponto para o grupo que ficou responsável por ela. 
   * Vence o jogo o grupo que, após a fixação de todos os cartões numerados no varal, tiver acumulado maior quantidade de pontos. 
-  * Em cada rodada, todos os grupos devem prender um cartão numérico no varal e avaliar a colcação feita por outro grupo. Varie as duplas de grupos que farão as ações de fixação/avaliação de cada cartão preso no varal. Assim, por exemplo, se a turma estiver organizada em 5 grupos (Azul, Verde, Vermelho, Amarelo e Preto), com 6 alunos cada um, na prmeira rodada as duplas que farão a fixação/avaliação podem ser, por exemplo, azul/preto, verde/vermelho, vermelho/azul, amarelo/verde e preto/amarelo. Já na segunda rodada as duplas podem ser azul/amarelo, verde/preto, vermelho/verde, amarelo/azul e preto/vermelho. Planeje previamente essas associações e comunique aos alunos para não gerar discussão durante a realização 
+  * Em cada rodada, todos os grupos devem prender um cartão numérico no varal e avaliar a colcação feita por outro grupo. Varie as duplas de grupos que farão as ações de fixação/avaliação de cada cartão preso no varal. Assim, por exemplo, se a turma estiver organizada em $5$ grupos (Azul, Verde, Vermelho, Amarelo e Preto), com 6 alunos cada um, na prmeira rodada as duplas que farão a fixação/avaliação podem ser, por exemplo, azul/preto, verde/vermelho, vermelho/azul, amarelo/verde e preto/amarelo. Já na segunda rodada as duplas podem ser azul/amarelo, verde/preto, vermelho/verde, amarelo/azul e preto/vermelho. Planeje previamente essas associações e comunique aos alunos para não gerar discussão durante a realização 
   * Incentive e procure fazer, respeitando as questões pessoais, com que todos os alunos façam a fixação de pelo menos um cartão numerado no varal. 
   * Escolha o grupo com o número $2$ para dar início ao jogo. Em seguida aquele que tiver o número 3. Claro que esses números serão mais facilmente posicionados no varal. Essa decisão pode ser uma estratégia deles no jogo. Além disso, quando já presos no varal, facilitarão a fixação dos demais. Pode acontecer de esses grupos não escolherem inicialmente esses catões. No entanto, quando esses cartões forem os escolhidos pelos respectivos grupos para serem fixados no barbante, discusta a relevância dessas referências para facilitar a fixação dos demais números, não inteiros.      
   * Observe que alguns cartões numerados ocuparão a mesma posição na reta. Por exemplo, os numerados com $2$ e $\frac{4}{2}$. Nesses casos, recomenda-se que o segundo cartão a ser fixado seja preso no que já está no varal, sem que um esconda o outro. Sugere-se um abaixo do outro. Aproveite esses casos para discutir com os alunos que um mesmo número pode ter mais do que uma representação.
