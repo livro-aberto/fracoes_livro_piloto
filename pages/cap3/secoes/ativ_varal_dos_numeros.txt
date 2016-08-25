@@ -12,13 +12,13 @@ Objetivos específicos: Levar o aluno a:
   * Ordenar frações. 
 
 Material necessário:
-  - Pelo menos 3 metros de barbante, de maneira que cubra toda uma lateral da sala de aula (por exemplo, aquela em que está posicionado o quadro. 
-  - 4 folhas de papel sufite. 
-  - 32 pregadores de roupa (podem ser substituídos por clipes de papel).
-  - Fita adesiva.
+  * Pelo menos 3 metros de barbante, de maneira que cubra toda uma lateral da sala de aula (por exemplo, aquela em que está posicionado o quadro. 
+  * 4 folhas de papel sufite. 
+  * 32 pregadores de roupa (podem ser substituídos por clipes de papel).
+  * Fita adesiva.
 
 Preparação para a atividade:\\
-  * Esta atividade deve ser desenvolvida como um jogo, envolvendo cada todos os alunos da turma, organizados em grupos  5 ou 6 alunos. A quantidade de participantes em cada grupo e, consequentemente, a quantidade de grupos, deve ser decidida tendo em conta a quantidade de alunos na turma. Tudo deve ser combinado e esclarecido antes de a atividade começar.
+  * Esta atividade deve ser desenvolvida como um jogo, envolvendo todos os alunos da turma, organizados em grupos  5 ou 6 alunos. A quantidade de participantes em cada grupo e, consequentemente, a quantidade de grupos, deve ser decidida tendo em conta a quantidade de alunos na turma. Tudo deve ser combinado e esclarecido antes de a atividade começar.
   * O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos e não muito alto para que os estudantes possam alcançar com as mãos. Pode ser, por exemplo, em frente ao quadro e indo de um extremo a outro da sala. Esse barbante representará a reta numérica. 
   * O objetivo da atividade é “pendurar os números" no barbante usando pregadores ou fitas adesivas, visando experimentar, em uma atividade concreta, a associação entre os pontos da reta e os números. Para isso serão feitos cartões numerados. 
   *É Importante reforçar a fixacão das extremidades do barbante para que não solte com o peso dos cartões que serão pendurados.
@@ -26,18 +26,22 @@ Preparação para a atividade:\\
   * Escreva as os números $0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$, $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$, $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$, $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\frac{10}{5}$, $\frac{1}{10}$ nesses cartões
 
 Recomendações e sugestões para o desenvolvimento da atividade:\\
-  * As fichas com o 0 e o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade, porque a distância entre o 0 e o 1 terá o papel de unidade para o estudante determinar a posição dos demais cartões.
-Isso deve ser feito a vista dos alunos para ressaltar que a unidade é escolhida. 
-Caso seja utilizado um barbante de 3 metros, o zero pode ser posicionado na extremidade esquerda e o número um, por exemplo, a 50 cm à direita do zero.
-
-A turma pode ser dividida em grupos e os cartões distribuídos pelos grupos. A atividade mediada pelo professor desenvolvida apenas para os cartões já entregues. 
-Recomenda-se entregar inicialmente os cartões contendo números inteiros, depois as frações com denominador 2, depois com denominador 3, etc.
-Vale a pena usar também fita adesiva para prender os números naturais porque algumas frações ocuparão a mesma posição na reta então será necessário prender um cartão no outro que já está afixado e pode ficar pesado para o pregador.
-Uma boa estratégia pode ser inicialmente realizar a atividade na ordem em que os números aparecem na lista abaixo, ao menos até terminarem as frações com denominador 2 para que os estudantes observem que o posicionamento de $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$ é feito do mesmo modo que aquele para os naturais, apenas considerando o segmento de extremos 0 e $\frac{1}{2}$ como unidade ao invés do segmento de extremos 0 e 1.
-Depois pode-se seguir da mesma ordem com as frações de denominador 3 em diante ou o professor pode escolher outra ordem de acordo com o andamento da turma.
-As frações com denominador 5 ou 10 podem servir de desafio nesta atividade.
-Estimule que eles discutam a posição do cartão e, então, um de cada grupo levante-se, posicione o cartão no varal usando o pregador de roupas e explique porque escolheu aquela posição.
-A atividade pode ser refeita recolhendo-se os cartões das frações do varal, colocando-os embaralhados sobre a mesa do professor com as faces voltadas para baixo e cada estudante deve ir à mesa do professor pegar um cartão e prendê-lo no varal.
+  * O desenvolvimento da atividade precisa ser mediado pelo professor. O processo e a discussão são importantes.
+  * As fichas com o 0 e com o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade, porque a distância entre o 0 e o 1 terá o papel de unidade para o estudante determinar a posição dos demais cartões.**Isso deve ser feito a vista dos alunos para ressaltar que a unidade é escolhida**. 
+  * Caso seja utilizado um barbante de 3 metros, o zero pode ser posicionado bem próximo à extremidade e o número um a 90 cm à direita do zero.
+  * Combine tas regras com os alunos.
+  * Recomenda-se que os grupos sejam identificados, por exemplo, por cores para facilitar a comunicação. Cada grupo, na sua vez de jogar, deve fixar um cartão numerado no varal e outro grupo deve avaliar se o cartão foi fixado em uma posição correta ou não.
+  * Distribua os cartões igualmente entre os grupos formados. 
+  * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma. 
+  * Pontuacão: cada cartão numérico posicionado corretamente vale um ponto para o grupo que fixou o cartão. Cada avaliação correta vale meio ponto para o grupo que ficou responsável por ela. 
+  * Vence o jogo o grupo que, após a fixação de todos os cartões numerados no varal, tiver acumulado maior quantidade de pontos. 
+  * Em cada rodada, todos os grupos devem prender um cartão numérico no varal e avaliar a colcação feita por outro grupo. Varie as duplas de grupos que farão as ações de fixação/avaliação de cada cartão preso no varal. Assim, por exemplo, se a turma estiver organizada em 5 grupos (Azul, Verde, Vermelho, Amarelo e Preto), com 6 alunos cada um, na prmeira rodada as duplas que farão a fixação/avaliação podem ser, por exemplo, azul/preto, verde/vermelho, vermelho/azul, amarelo/verde e preto/amarelo. Já na segunda rodada as duplas podem ser azul/amarelo, verde/preto, vermelho/verde, amarelo/azul e preto/vermelho. Planeje previamente essas associações e comunique aos alunos para não gerar discussão durante a realização 
+  * Incentive e procure fazer, respeitando as questões pessoais, com que todos os alunos façam a fixação de pelo menos um cartão numerado no varal. 
+  * Escolha o grupo com o número 2 para dar início ao jogo. Em seguida aquele que tiver o número 3. Claro que esses números serão mais facilmente posicionados no varal. Essa decisão pode ser uma estratégia deles no jogo. Além disso, quando já presos no varal, facilitarão a fixação dos demais. Pode acontecer de esses grupos não escolherem inicialmente esses catões. No entanto, quando esses cartões forem os escolhidos pelos respectivos grupos para serem fixados no barbante, discusta a relevância dessas referências para facilitar a fixação dos demais números, não inteiros.      
+  * Observe que alguns cartões numerados ocuparão a mesma posição na reta. Por exemplo, os numerados com $2$ e $\frac{4}{2}$. Nesses casos, recomenda-se que o segundo cartão a ser fixado seja preso no que já está no varal, sem que um esconda o outro. Sugere-se um abaixo do outro. Aproveite esses casos para discutir com os alunos que um mesmo número pode ter mais do que uma representação.
+  * Muito provavelmente as frações de denominador $2$ serão as mais fáceis de serem fixadas no varal. Em seguida, as de denominador $4$. As fixação das frações de denominadores $3$, $5$ e $10$ devem impor um pouco mais de desafio. Garanta que haja euilíbrio de dificuldade na distribuição dos cartões numerados entre os grupos.
+  * Estimule a discussão interna nos grupos para a decisão da posição de fixação de cada cartão numerado. O aluno eleitopelo grupo para prende o cartão no barbante deve explicar como decidiram por aquela posição.
+  * A atividade pode ser refeita recolhendo-se os cartões das frações do varal, colocando-os embaralhados sobre a mesa do professor com as faces voltadas para baixo e cada estudante deve ir à mesa do professor pegar um cartão e prendê-lo no varal.
 
 
 Os números a serem pendurados devem estar impressos ​em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas ​pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado ​para a atividade. Recomenda-se ​pelo menos um número por aluno. Deixamos uma sequência com 32 números, ​entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor.
@@ -45,16 +49,6 @@ Os números a serem pendurados devem estar impressos ​em fichas (que podem ser
 
 
 /*
-INCLUIR IMAGEM ILUSTRATIVA DO VARAL 
-
-Como critérios para o desenvolvimento da atividade, são recomendados: 
-  * Cada grupo deve receber a mesma quantidade de fichas; 
-  * Cada grupo ficará responsável por fixar os números que recebeu;
-  * A correção da fixação realizada por um grupo deve ser decidida por outro grupo, podendo ser discutida com toda a turma;
-  * A pontuação no jogo é atribuída a marcações corretas, um ponto por cada marcação correta;
-  * Todos os alunos participantes devem fixar pelo menos um número no varal.
-  * O ponto de fixação pode ser discutido e orientado pelo grupo do qual o aluno que fará a fixação faz parte.
-  * Ganha o grupo que, após a fixação de todas as fichas numeradas no varal, obtiver maior pontuação.
   * Uma variação do jogo pode admitir que um grupo sugira frações para que outro grupo faça a fixação. Nesse caso, as frações podem ser escolhidas a partir de uma lista previamente estabelecida pelo professor. O grupo que escolhe a fração deverá lê-la e o grupo que fará a fixação deverá registá-la. Dessa forma, a leitura e a escrita em representação simbólica também são tratadas na atividade.
 */
 
@@ -62,7 +56,7 @@ Como critérios para o desenvolvimento da atividade, são recomendados:
 </hidden>
 **Jogo: varal dos números**
 
-O varal de números está disposto na sala de aula, nele estão posicionados os números zero e um como na figura. Nos cartões preparados para a atividade estão os números: \\
+O varal de números está disposto na sala de aula, nele estão posicionados os números zero e um, como na figura. Nos cartões preparados para a atividade estão os números: \\
 $0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$,
 $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$,
 $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$,
@@ -73,12 +67,18 @@ $\frac{1}{10}$.
 
 {{ :cap3:secoes:varal01.jpg?500 |}}
 </WRAP>
-    - Descreva a posição em que o número do cartão recebido deve ser posicionado na reta numérica.
-    - Espere a sua vez para posicionar o seu cartão no lugar escolhido do varal de números e explique para a turma como foi determinada a posição.
+O jogo consiste em fixar os cartões no varal. As regars serão apresentadas pelo seu professor ou professora. 
+
+  * Discuta com seus colegas a posição correta de fixação de cada cartão numerado no varal feito em barabante. 
+
+Ao final do jogo, reproduza a forma como os cartões forma posicionados no varal na reta numérica a seguir. Aproveite as marcações em destaque.
+
+<WRAP imagem> FIGURA GEOMÉTRICA
+Imagem de uma numérica com 40 pequenas marcações. **Sem qualquer número marcado**.
+</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
-
 <WRAP imagem> FIGURA GEOMÉTRICA
 Esboço da reta numérica com os números do enunciado posicionados.
 </WRAP>
