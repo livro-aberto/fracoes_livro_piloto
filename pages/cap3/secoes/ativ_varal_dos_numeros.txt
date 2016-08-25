@@ -12,19 +12,21 @@ Objetivos específicos: Levar o aluno a:
   * Ordenar frações. 
 
 Material necessário:
-  - Pouco mais de 3 metros de barbante
-  - 4 folhas de papel sufite 
-  - 30 pregadores de roupa (podem ser substituídos por clipes de papel)
+  - Pelo menos 3 metros de barbante, de maneira que cubra toda uma lateral da sala de aula (por exemplo, aquela em que está posicionado o quadro. 
+  - 4 folhas de papel sufite. 
+  - 32 pregadores de roupa (podem ser substituídos por clipes de papel).
   - Fita adesiva.
 
 Preparação para a atividade:\\
-Com a fita adesiva, prenda as extremidades do barbante em um local que seja visível e não muito alto para que os estudantes possam alcançar com as mãos.
-Importante reforçar a fita adesiva nas extremidades do barbante para que não solte com o peso dos cartões.
-Dobre as folhas de papel 2 vezes ao meio, em direções paralelas aos lados, marcando assim 4 retângulos em cada folha de modo a formar cartões (como os da figura). 
-Escreva as frações nos retângulos e recorte os cartões.
+  * Esta atividade deve ser desenvolvida como um jogo, envolvendo cada todos os alunos da turma, organizados em grupos  5 ou 6 alunos. A quantidade de participantes em cada grupo e, consequentemente, a quantidade de grupos, deve ser decidida tendo em conta a quantidade de alunos na turma. Tudo deve ser combinado e esclarecido antes de a atividade começar.
+  * O professor deve fazer um “varal” com o barbante em um local que seja visível para todos os alunos e não muito alto para que os estudantes possam alcançar com as mãos. Pode ser, por exemplo, em frente ao quadro e indo de um extremo a outro da sala. Esse barbante representará a reta numérica. 
+  * O objetivo da atividade é “pendurar os números" no barbante usando pregadores ou fitas adesivas, visando experimentar, em uma atividade concreta, a associação entre os pontos da reta e os números. Para isso serão feitos cartões numerados. 
+  *É Importante reforçar a fixacão das extremidades do barbante para que não solte com o peso dos cartões que serão pendurados.
+  * Dobre cada uma das folhas de papel 2 vezes ao meio, em direções paralelas aos lados, marcando assim 4 retângulos congruentes em cada folha. Recorte esses retângulos. Cada um deles será numerado e, durante a atividade, fixado no barbante. Serão chamados de **cartões numerados** (como os da figura). 
+  * Escreva as os números $0$, $1$, $2$, $3$, $\frac{1}{2}$, $\frac{2}{2}$, $\frac{3}{2}$, $\frac{4}{2}$, $\frac{5}{2}$, $\frac{6}{2}$, $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$, $\frac{4}{3}$, $\frac{7}{3}$, $\frac{9}{3}$, $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$, $\frac{5}{4}$, $\frac{6}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{11}{4}$, $\frac{12}{4}$, $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\frac{10}{5}$, $\frac{1}{10}$ nesses cartões
 
 Recomendações e sugestões para o desenvolvimento da atividade:\\
-As fichas com o 0 e o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade, porque a distância entre o 0 e o 1 terá o papel de unidade para o estudante determinar a posição dos demais cartões.
+  * As fichas com o 0 e o 1 devem ser presas no barbante pelo professor com fita adesiva antes do início da atividade, porque a distância entre o 0 e o 1 terá o papel de unidade para o estudante determinar a posição dos demais cartões.
 Isso deve ser feito a vista dos alunos para ressaltar que a unidade é escolhida. 
 Caso seja utilizado um barbante de 3 metros, o zero pode ser posicionado na extremidade esquerda e o número um, por exemplo, a 50 cm à direita do zero.
 
@@ -36,6 +38,11 @@ Depois pode-se seguir da mesma ordem com as frações de denominador 3 em diante
 As frações com denominador 5 ou 10 podem servir de desafio nesta atividade.
 Estimule que eles discutam a posição do cartão e, então, um de cada grupo levante-se, posicione o cartão no varal usando o pregador de roupas e explique porque escolheu aquela posição.
 A atividade pode ser refeita recolhendo-se os cartões das frações do varal, colocando-os embaralhados sobre a mesa do professor com as faces voltadas para baixo e cada estudante deve ir à mesa do professor pegar um cartão e prendê-lo no varal.
+
+
+Os números a serem pendurados devem estar impressos ​em fichas (que podem ser deem um tamanho que permita que todos os alunos possam lê-los. Além disso, devem necessariamente contemplar números naturais e frações não inteiras. A quantidade de números a serem fixados no varal (barbante) e a variedade desses números devem ser decididas ​pelo professor, de acordo com a quantidade de alunos participantes e o nível de aprofundamento esperado ​para a atividade. Recomenda-se ​pelo menos um número por aluno. Deixamos uma sequência com 32 números, ​entre eles o 0(zero) e o 1(um), para reprodução (**LINK PARA FICHAS DE REPRODUCAO**). No entanto, essa sequência pode ser ampliada (ou reduzida) a partir da avaliação do professor.
+
+
 
 /*
 INCLUIR IMAGEM ILUSTRATIVA DO VARAL 
