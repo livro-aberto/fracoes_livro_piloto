@@ -15,12 +15,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO). 
   * Sendo um material concreto, os círculos de frações têm o papel de auxiliar na visualização da representação das frações, mais especificamente, das frações unitárias. 
   * Na versão utilizada nesta atividade, o círculo corresponde à unidade, ou seja, ao 1 e os setores circulares, diferenciados por cores, correspondem às frações unitárias //um meio//, //um terço//, //um quarto//, //um sexto//, //um sétimo//, //um oitavo//, //um nono// e //um décimo//. 
-  * Além de para tratar das frações unitárias, os Círculos de Frações também pode ser utilizado para a abordagem de outros conceitos e assuntos: por exemplo, frações em geral, comparação de frações ou as operações de adição e de subtração com frações.
-  * Se refira ao círculo inteiro usando a expresão //círculo//. Se refira a cada setor circular como //fração do círculo//, //parte do círculo// ou //pedaço do círculo//.  
-  * Antes de pedir que os alunos façam a atividade, explore o material com perguntas dirigidas a toda a turma como as seguintes: "//Quantos pedaços azuis cobrem o círculo preto?//" ou "//Quantos pedaços verdes cobrem o círculo preto?//". 
+  * Além de para tratar das frações unitárias, os Círculos de Frações também podem ser utilizados para a abordagem de outros conceitos e assuntos como, por exemplo, frações em geral, comparação de frações ou as operações de adição e de subtração com frações.
+  * Se refira ao círculo inteiro usando a expresão //círculo// ou //unidade//, quando for o caso. Não use a expressão todo. Se refira a cada setor circular como //fração do círculo//, //parte do círculo// ou, simplesmente //peça da cor x//.  
+  * Antes de pedir que os alunos façam a atividade, explore o material com perguntas dirigidas a toda a turma como as seguintes: "//Quantas peças azuis cobrem o círculo preto?//" ou "//Quantas peças verdes cobrem o círculo preto?//". 
   * Use o material concreto para ilustrar e explicar a resposta de cada item e incentive os seus alunos a fazerem o mesmo.
-  * Espera-se que a explicação para as respostas, nos oito primeiros itens desta questão, seja a partir da contagem dos setores circulares correspondentes às fraçoes envolvidas. Assim, po exemplo, a resposta do item (b) pode ser justificada  pelo fato de que são necessários 4 pedaços de círculo na cor vermelha para compor um círculo preto. 
-  * Já para os cinco itens que tratam da comparação, espera-se que os alunos identifiquem os setores que representam as fraçoes envolvidas e procedam a comparação pela sobreposição das peças correspondentes. Assim, po exemplo, a resposta do item (l) pode ser justificada pela sobreposição das pedaços de círculo nas cores verde e amarelo. 
+  * Espera-se que a explicação para as respostas, nos oito primeiros itens desta questão, seja a partir da contagem dos setores circulares correspondentes às frações envolvidas. Assim, po exemplo, a resposta do item (b) pode ser justificada  pelo fato de que são necessários 4 partes de círculo na cor vermelha para compor um círculo preto. 
+  * Já para os cinco itens que tratam da comparação, espera-se que os alunos identifiquem os setores que representam as fraçoes envolvidas e procedam a comparação pela sobreposição das peças correspondentes. Assim, po exemplo, a resposta do item (l) pode ser justificada pela sobreposição das peças das cores verde e amarelo. 
 
 
 <WRAP imagem>
@@ -34,14 +34,20 @@ Imagem ilustrativa:
 
 Usando os Círculos de Frações, responda:
 
-a) Qual a cor do pedaço de círculo que é igual a um terço do círculo preto?\\ 
-b) Qual a cor do pedaço de círculo que é igual a um quarto do círculo preto?\\
-c) Qual a cor do pedaço de círculo que é igual a um sétimo do círculo preto?\\
-d) Qual a cor do pedaço de círculo que é igual a um nono do círculo preto?\\
-e) Que fração do círculo preto é igual a um pedaço de círculo na cor roxa?\\
-f) Que fração do círculo preto é igual a um pedaço de círculo na cor cinza?\\
-g) Que fração do círculo preto é igual a um pedaço de círculo na cor branco?\\
-h) Que fração do círculo preto é igual a um pedaço de círculo na cor rosa?\\
+<WRAP imagem>
+Figura geométrica
+Imagem ilustrativa que repozuza, um ao lado do outro, os círculos que compõem o material Circulos de Frações, em ordem decrescente de tamanho
+</WRAP>
+
+
+a) Qual a cor da peça que é igual a um terço do círculo preto?\\ 
+b) Qual a cor do peça que é igual a um quarto do círculo preto?\\
+c) Qual a cor do peça que é igual a um sétimo do círculo preto?\\
+d) Qual a cor do peça que é igual a um nono do círculo preto?\\
+e) Que fração do círculo preto é igual a uma peça da cor roxa?\\
+f) Que fração do círculo preto é igual a uma peça da cor cinza?\\
+g) Que fração do círculo preto é igual a uma peça da cor branco?\\
+h) Que fração do círculo preto é igual a uma peça da cor rosa?\\
 i) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
 j) Qual fração do círculo preto é menor, um nono ou um quarto. Explique a sua resposta.\\ 
 l) Qual fração do círculo preto é menor, um quinto ou um sétimo. Explique a sua resposta.\\ 
@@ -51,14 +57,14 @@ n) Qual fração do círculo preto é maior, um sexto ou um sétimo. Explique a 
 
 <hidden Resposta>
 <WRAP resposta> 
-a) Um pedaço de círculo na cor AZUL é igual a um terço do círculo preto.\\ 
-b) Um pedaço de círculo na cor VERMELHO é igual a um quarto do círculo preto.\\ 
-c) Um pedaço de círculo na cor AMARELO é igual a um sétimo do círculo preto.\\ 
-d) Um pedaço de círculo na cor LARANJA é igual a um nono do círculo preto.\\ 
-e) Um pedaço de circulo na cor roxa é igual a UM SEXTO do círculo preto.\\
-f) Um pedaço de circulo na cor roxa é igual a UM OITAVO do círculo preto.\\
-g) Um pedaço de circulo na cor roxa é igual a UM DÉCIMO  do círculo preto.\\
-h) Um pedaço de circulo na cor roxa é igual à METADE do círculo preto.\\
+a) Uma peça da cor AZUL é igual a um terço do círculo preto.\\ 
+b) Uma peça da cor VERMELHO é igual a um quarto do círculo preto.\\ 
+c) Uma peça da cor AMARELO é igual a um sétimo do círculo preto.\\ 
+d) Uma peça da cor LARANJA é igual a um nono do círculo preto.\\ 
+e) Uma peça da cor roxa é igual a UM SEXTO do círculo preto.\\
+f) Uma peça da cor cinza é igual a UM OITAVO do círculo preto.\\
+g) Uma peça da cor branca é igual a UM DÉCIMO  do círculo preto.\\
+h) Uma peça da cor rosa é igual à METADE do círculo preto.\\
 i) Um terço do círculo preto é maior do que um sétimo do círculo preto.
 j) Um nono do círculo preto é menor do que um quarto do círculo preto. 
 l) Um sétimo do círculo preto é menor quinto do círculo preto. 
