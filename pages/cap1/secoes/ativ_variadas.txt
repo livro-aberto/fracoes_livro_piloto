@@ -12,6 +12,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
   * É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
   * Aproveite esta atividade para revisar e discutir o vocabulário que é objetivo nesta seção: //unidade,// //metade,// //um meio,// //um terço,// //terça parte,// //um quarto,// //quarta parte,// //um quinto,// //quinta parte,// //um sexto,// //sexta parte,// //um sétimo,// //sétima parte,// //um oitavo,// //oitava parte,// //um nono,// //nona parte,// //um décimo// e //décima parte//.
+  * O Disco de Frações, utilizado na Atividade 10, pode amaparar a realização desta atividade.
 
 </WRAP>
 </hidden>
