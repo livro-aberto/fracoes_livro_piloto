@@ -21,7 +21,7 @@ Classificações
 
 Dizemos que uma fração é **irredutível** se o máximo divisor comum entre o seu numerador e o seu denominador é igual a $1$. Para cada fração indicada a seguir, determine uma fração igual que seja irredutível.
 
-(A)$\frac{2}{4}$, (B) $\frac{6}{9}$, (C) $\frac{4}{2}$, (D) $\frac{5}{35}$, (E) $\frac{50}{100}$.
+a)$\frac{2}{4}$, b) $\frac{6}{9}$, c) $\frac{4}{2}$, d) $\frac{5}{35}$, e) $\frac{50}{100}$.
 
 <hidden Resposta>
 <WRAP resposta>
