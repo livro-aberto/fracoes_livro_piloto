@@ -23,17 +23,16 @@ Classificações
 $24$ amigos estão querendo dividir igualmente $8$ panquecas circulares.
 
 Luciano, um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes iguais e que, então, cada um dos 24 amigos recebesse $8$ dessas partes.
-<WRAP imagem> FIGURA GEOMÉTRICA
 
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-{{:cap4:secoes:panquecas-24.png?70|}}
-</WRAP>
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+{{:cap4:secoes:panquecas-24.png?77|}}
+
 
     - Com a divisão sugerida por Luciano, qual a fração de uma panqueca que cada amigo vai receber?
     - Quantos cortes da panqueca (do centro para a borda, como no desenho) são necessários para a divisão proposta?
