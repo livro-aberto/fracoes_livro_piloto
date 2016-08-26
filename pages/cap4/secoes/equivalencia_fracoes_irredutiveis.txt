@@ -25,19 +25,19 @@ a)$\frac{2}{4}$, b) $\frac{6}{9}$, c) $\frac{4}{2}$, d) $\frac{5}{35}$, e) $\fra
 
 <hidden Resposta>
 <WRAP resposta>
-(A) Note que o máximo divisor comum de $2$ e $4$ é 2. Assim, 
+a) Note que o máximo divisor comum de $2$ e $4$ é 2. Assim, 
 $\frac{2}{4} = \frac{2 \times 1}{2 \times 2} = \frac{1}{2}$. Resposta: $\frac{1}{2}$.
 
-(B) Note que o máximo divisor comum de $6$ e $3$ é 3. Assim, 
+b) Note que o máximo divisor comum de $6$ e $3$ é 3. Assim, 
 $\frac{6}{9} = \frac{3 \times 2}{3 \times 3} = \frac{2}{3}$. Resposta: $\frac{2}{3}$.
 
-(C) Note que o máximo divisor comum de $2$ e $4$ é 2. Assim, 
+c) Note que o máximo divisor comum de $2$ e $4$ é 2. Assim, 
 $\frac{4}{2} = \frac{2 \times 2}{2 \times 1} = \frac{2}{1}$. Resposta: $\frac{2}{1}$.
 
-(D) Note que o máximo divisor comum de $5$ e $35$ é 5. Assim, 
+d) Note que o máximo divisor comum de $5$ e $35$ é 5. Assim, 
 $\frac{5}{35} = \frac{5 \times 1}{5 \times 7} = \frac{1}{7}$. Resposta: $\frac{1}{7}$.
 
-(E) Note que o máximo divisor comum de $50$ e $100$ é 50. Assim, 
+e) Note que o máximo divisor comum de $50$ e $100$ é 50. Assim, 
 $\frac{50}{100} = \frac{50 \times 1}{50 \times 2} = \frac{1}{2}$. Resposta: $\frac{1}{2}$.
 </WRAP>
 </hidden>
