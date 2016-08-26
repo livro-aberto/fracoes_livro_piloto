@@ -18,16 +18,10 @@ Classificações:
 
 <WRAP nota>
 FOLHA DE REPRODUÇÃO
-
-<WRAP imagem>
 {{ :cap4:secoes:cuisenaire-03.png?300 |}}
-</WRAP>
 
 
-<WRAP imagem> 
-FIGURA GEOMÉTRICA
 {{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
-</WRAP>
 
 </WRAP>
 </WRAP>
@@ -37,53 +31,34 @@ FIGURA GEOMÉTRICA
 
 Você recebeu um encarte com 10 retângulos coloridos de mesmo tamanho, cada deles dividido em um determinado número de partes iguais. Seguindo o modelo feito para o primeiro retângulo, preencha a tabela a seguir.
 
-|  Retângulo  |  Número de partes em se encontra dividido  |  Cada parte é que fração do retângulo?  |
-|  {{ :cap4:secoes:cuisenaire-r-01.png?300 |}}  |  2  |  $\frac{1}{2}$  |
-|  {{ :cap4:secoes:cuisenaire-r-02.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-03.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-04.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-05.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-06.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-07.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-08.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-09.png?300 |}}  |     |    |
-|  {{ :cap4:secoes:cuisenaire-r-10.png?300 |}}  |     |    |
+{{ :cap4:secoes:tab_cores.png?nolink&600 |}}
 
 **PARTE 2**
 
 O objetivo desta parte é estudar a fração do retângulo que está colorida de cinza no segundo encarte que você recebeu. 
 
-<WRAP imagem> FIGURA GEOMÉTRICA - Este retângulo tem que ter dimensões compatíveis com os retângulos da tabela. Atenção: Há figuras no "Para o professor" e na "Resposta".
-
-{{ :cap4:secoes:fita-regiao-cinza.jpg?400 |}}
-</WRAP>
-
+{{ :cap4:secoes:picture_cap4-10.png?nolink&383 |}}
 
 Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, recorte e use as peças coloridas do primeiro encarte para avaliar as suas respostas.
 
-| Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
-| {{ :cap4:secoes:fita-um-meio.jpg?0x50 |}}  | | | |
-| {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | | | |
-| {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | | | |
-| {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | | | |
-| {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | | | |
-| {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | | | |
+{{ :cap4:secoes:tab_cores2.png?nolink&600 |}}
+
 
 <hidden Resposta>
 <WRAP resposta>
 **PARTE 1**
 
 |  Retângulo  |  Número de partes em se encontra dividido  |  Cada parte é que fração do retângulo?  |
-|  {{ :cap4:secoes:cuisenaire-r-01.png?300 |}}  |  2  |  $\frac{1}{2}$  |
-|  {{ :cap4:secoes:cuisenaire-r-02.png?300 |}}  |  3  |  $\frac{1}{3}$  |
-|  {{ :cap4:secoes:cuisenaire-r-03.png?300 |}}  |  4  |  $\frac{1}{4}$  |
-|  {{ :cap4:secoes:cuisenaire-r-04.png?300 |}}  |  5  |  $\frac{1}{5}$  |
-|  {{ :cap4:secoes:cuisenaire-r-05.png?300 |}}  |  6  |  $\frac{1}{6}$  |
-|  {{ :cap4:secoes:cuisenaire-r-06.png?300 |}}  |  7  |  $\frac{1}{7}$  |
-|  {{ :cap4:secoes:cuisenaire-r-07.png?300 |}}  |  8  |  $\frac{1}{8}$  |
-|  {{ :cap4:secoes:cuisenaire-r-08.png?300 |}}  |  9  |  $\frac{1}{9}$  |
-|  {{ :cap4:secoes:cuisenaire-r-09.png?300 |}}  |  10  |  $\frac{1}{10}$  |
-|  {{ :cap4:secoes:cuisenaire-r-10.png?300 |}}  |  16  |  $\frac{1}{16}$  |
+| {{ :cap4:secoes:picture_cap4-0.png?nolink&300 |}} |  2  |  $\frac{1}{2}$  |
+|  {{ :cap4:secoes:picture_cap4-1.png?nolink&300 |}}  |  3  |  $\frac{1}{3}$  |
+|  {{ :cap4:secoes:picture_cap4-2.png?nolink&300 |}}  |  4  |  $\frac{1}{4}$  |
+|  {{ :cap4:secoes:picture_cap4-3.png?nolink&300 |}}  |  5  |  $\frac{1}{5}$  |
+| {{ :cap4:secoes:picture_cap4-4.png?nolink&300 |}}  |  6  |  $\frac{1}{6}$  |
+| {{ :cap4:secoes:picture_cap4-5.png?nolink&300 |}}  |  7  |  $\frac{1}{7}$  |
+| {{ :cap4:secoes:picture_cap4-6.png?nolink&300 |}}  |  8  |  $\frac{1}{8}$  |
+| {{ :cap4:secoes:picture_cap4-7.png?nolink&300 |}}  |  9  |  $\frac{1}{9}$  |
+| {{ :cap4:secoes:picture_cap4-8.png?nolink&300 |}}  |  10  |  $\frac{1}{10}$  |
+| {{ :cap4:secoes:picture_cap4-9.png?nolink&300 |}}  |  16  |  $\frac{1}{16}$  |
 
 
 
@@ -91,22 +66,11 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 
 
 | Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
-| {{ :cap4:secoes:fita-um-meio.jpg?0x50 |}}  | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
-| {{ :cap4:secoes:fita-um-quarto.jpg?0x50 |}}  | $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
-| {{ :cap4:secoes:fita-um-sexto.jpg?0x50 |}}  | $3$ | $\frac{3}{6}$ | $\frac{3}{6}$ |
-| {{ :cap4:secoes:fita-um-oitavo.jpg?0x50 |}}  | $4$ | $\frac{4}{8}$ | $\frac{4}{8}$ |
-| {{ :cap4:secoes:fita-um-decimo.jpg?0x50 |}}  | $5$ | $\frac{5}{10}$ | $\frac{5}{10}$ |
-| {{ :cap4:secoes:fita-um-dezesseis-avos.jpg?0x50 |}}  | $8$ | $\frac{8}{16}$ | $\frac{8}{16}$ |
+| {{ :cap4:secoes:picture_cap4-11.png?nolink&300 |}} | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
+| {{ :cap4:secoes:picture_cap4-12.png?nolink&150 |}}| $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
+| {{ :cap4:secoes:picture_cap4-13.png?nolink&100 |}}| $3$ | $\frac{3}{6}$ | $\frac{3}{6}$ |
+| {{ :cap4:secoes:picture_cap4-14.png?nolink&75 |}}| $4$ | $\frac{4}{8}$ | $\frac{4}{8}$ |
+| {{ :cap4:secoes:picture_cap4-15.png?nolink&60 |}}| $5$ | $\frac{5}{10}$ | $\frac{5}{10}$ |
+| {{ :cap4:secoes:picture_cap4-16.png?nolink&37.5 |}} | $8$ | $\frac{8}{16}$ | $\frac{8}{16}$ |
 </WRAP>
 </hidden>
-
-/*
-<hidden Comentário - a ser apagado>
-(i) Com relação à página para rerodução, vale observação análoga a da atividade anterior. 
-
-(ii) Sobre o enunciado... Não com o encarte que o aluno preenche a tabela, mas com respostas que podem ser obtidas com o uso do encarte. Sugiro alteração análoga a da atividade anterior.
-
-(iii) Sobre as perguntas na tabela, também sugiro alteração análoga a da atividade anterior
-
-</hidden> 
-*/
