@@ -9,7 +9,7 @@ Objetivo específico: Levar o aluno a
 
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  * Note que para as frações usadas no exemplo e no Item (A), os numeradores e denominadores de uma fração não são múltiplos inteiros dos numeradores e denominadores da outra fração.
+  * Note que para as frações usadas no exemplo e no Item a), os numeradores e denominadores de uma fração não são múltiplos inteiros dos numeradores e denominadores da outra fração.
 
 Classificações
   * Heid et al.: Produto: descrever procedimento
