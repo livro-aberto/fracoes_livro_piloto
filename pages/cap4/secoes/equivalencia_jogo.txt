@@ -30,9 +30,9 @@ FOLHA DE REPRODUÇÃO
 **Trilha dos doze avos**
 
 Junte seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro onde há uma trilha com as posições de partida e chegada indicadas e um dado com 12 faces marcadas com os números de 1 a 12. 
-<WRAP imagem> FIGURAS GEOMÉTRICAS - Há figuras em "Para o professor".
-{{ :cap4:secoes:caminho.jpg?400 |}}
-</WRAP>
+
+{{ :cap4:secoes:picture_cap4-25.png?nolink&500 |}}
+
 Seu grupo também receberá peões que identificarão as posições dos jogadores na trilha. Cada jogador deve escrever o seu nome no peão (na imagem a seguir, o peão está com o nome "Antônio").
 
 {{ :cap4:secoes:caminho-peao.jpg?50 |}}
@@ -49,7 +49,7 @@ O dado pode ser usado para decidir a ordem de jogada. As regras do jogo são as 
 
 Depois de jogar algumas vezes responda às questões a seguir. 
 
-(A) Quantos passos um jogador deu se ele obteve nos dois lançamentos respectivamente os seguintes números:
+a. Quantos passos um jogador deu se ele obteve nos dois lançamentos respectivamente os seguintes números:
 
 1º) 12 e 7?
 
@@ -71,11 +71,11 @@ Depois de jogar algumas vezes responda às questões a seguir.
 
 10º) 3 e 6?
                            
-(B)  Em 5 rodadas consecutivas, o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. Já o segundo jogador, nessas 5 rodadas, deu ao todo 47 passos. Ao final dessas rodadas, qual deles está a frente? 
+b. Em 5 rodadas consecutivas, o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. Já o segundo jogador, nessas 5 rodadas, deu ao todo 47 passos. Ao final dessas rodadas, qual deles está a frente? 
 
 <hidden Resposta>
 <WRAP resposta>
-(A)
+a. 
 1º) 7 casas. 2º) 10 casas. 3º) 9 casas. 4º) Fica parado e passa a vez. 5º) 16 casas. 6º) Fica parado e passa a vez. 7º) Fica parado e passa a vez. 8º) 12 casas. 9º) 6 casas.
 10º) 24 casas.
 
