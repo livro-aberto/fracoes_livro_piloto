@@ -17,10 +17,17 @@ Classificações
   * UERJ: Interpretar: explicar
 </hidden>
 
-Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:{{:cap4:secoes:equivalencia-copo-01.png?50|}}. Seu colega tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: {{:cap4:secoes:equivalencia-copo-01-vazio-resposta.jpg?50|}}.  
+Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente espaçadas. O copo tem suco de laranja até $\frac{3}{4}$ de sua capacidade, como ilustra a imagem:
+
+{{ :cap4:secoes:picture_cap4-22.png?nolink&80 |}}
+
+Seu colega tem um copo cilindrico idêntico, mas graduado com 17 níveis horizontais igualmente espaçados: 
+
+{{ :cap4:secoes:picture_cap4-23.png?nolink&80 |}}
+
 Verifique se é possível completar um número inteiro de níveis do copo de seu colega de modo a ficar com a mesma quantidade de suco. Em caso afirmativo, explique sua resposta.
 
-<WRAP imagem> FIGURAS GEOMÉTRICAS</WRAP>
+
 <hidden Resposta>
 <WRAP resposta>
 As 17 marcações no copo do seu colega divide a capacidade do copo em 16 partes iguais. Quantas destas partes correspondem a $\frac{3}{4}$ da capacidade do copo (que é fração da capacidade do copo que está preenchida com suco)? Para responder a esta pergunta, devemos calcular o numerador de uma fração de denominador 16 que seja igual a $\frac{3}{4}$, isto é, devemos preencher $\square$ com um número tal que
