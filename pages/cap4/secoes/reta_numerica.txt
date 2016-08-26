@@ -25,7 +25,7 @@ Para o Item c):
 </WRAP>
 </hidden>
 
-    - Preencha os quadradinhos $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.\\ {{ :cap4:secoes:fractions-01.jpg |}} 
+    - Preencha os quadradinhos $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.\\ {{ :cap4:secoes:fractions-01.png?nolink&600 |}}
     - Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto azul em destaque na figura.
     - Determine uma fração de denominador $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
 
