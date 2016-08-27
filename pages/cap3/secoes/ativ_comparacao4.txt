@@ -27,7 +27,7 @@ Na figura, há várias retas paralelas igualmente espaçadas e outra reta, desta
   - Marque, usando os pontos destacados na reta numérica, os pontos correspondentes ao 0 e ao 1
   - Marque, nesta mesma reta numérica, as frações $\frac{3}{4}$ e $\frac{5}{4}$.
 
-<WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em vermelho. Devem estar destacados nessa reta, além das frações $\frac{1}{2}$ e $\frac{3}{2}$, outros 8 pontos, como ilustra a figura.
+<WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em azul. Devem estar destacados nessa reta, além das frações $\frac{1}{2}$ e $\frac{3}{2}$, outros 8 pontos, como ilustra a figura.
 
 Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta. Ver orientações.
 
