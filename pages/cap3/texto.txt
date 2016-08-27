@@ -122,7 +122,7 @@
 {{page>cap3:secoes:ativ_grad_unidade5}}
 
 
-/*
+
 {{anchor:ativ_indiv_subdiv}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_indiv_subdiv}}
@@ -141,4 +141,3 @@
 {{anchor:ativ_comparacao_unit}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_comparacao_unit}}
-*\
