@@ -21,7 +21,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 
-Complete as sentenças a seguir com os sinais **>** (maior), **<** (menor) ou **=** (igual) de modo a torná-las verdadeiras. 
+Complete as sentenças a seguir com os sinais $>$ (maior), $<$ (menor) ou $=$ (igual) de modo a torná-las verdadeiras. 
 
 ^     ^   |   |   |
 | a)  |  $\frac{3}{6}$     |   |  $\frac{5}{6}$     |
