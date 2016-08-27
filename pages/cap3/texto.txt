@@ -107,9 +107,9 @@
 {{page>cap3:secoes:ativ_grad_unidade3}}
 
 
-{{anchor:ativ_grad_unidade4}}
+/*{{anchor:ativ_grad_unidade4}}
 ==== Atividade - ====
-{{page>cap3:secoes:ativ_grad_unidade4}}
+{{page>cap3:secoes:ativ_grad_unidade4}}*/
 
 
 {{anchor:ativ_grad_unidade5}}
