@@ -93,13 +93,13 @@
 {{page>cap3:secoes:ativ_Comparacao_fracoes}}
 
 
-{{anchor:ativ_reta_numerica2}}
+/*{{anchor:ativ_reta_numerica2}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta_numerica2}}
 
 
 
-/*===== QUEBRANDO A CUCA =====*/
+===== QUEBRANDO A CUCA =====*/
 
 
 {{anchor:ativ_grad_unidade3}}
