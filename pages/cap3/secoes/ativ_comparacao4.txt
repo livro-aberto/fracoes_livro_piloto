@@ -1,5 +1,5 @@
 ;;#
-Ir para [[cap1:texto#ativ_comparacao4]]
+Ir para [[cap3:texto#ativ_comparacao4]]
 ;;#
 <hidden Para o professor>
 <WRAP professor> 
