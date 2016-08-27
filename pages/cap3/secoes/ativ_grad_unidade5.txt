@@ -5,6 +5,24 @@ Ir para [[cap3:texto#ativ_grad_unidade4]]
 <hidden Para o professor>
 <WRAP professor>
 
+
+Objetivo específico: 
+  * Representação de frações na reta numérica.
+  * Comparação de frações a partir de sua representação na reta numérica.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  - Recomenda-se que esta atividade seja realizada em duplas. No entanto, a discussão das resposta deve ser feita com toda a turma.
+  - Estimule seus alunos a explicarem suas respostas.
+  - A associação das frações aos pontos correspondentes exigirá que os alunos saibam associar pontos na reta numérica às frações correspondentes e que façam comparações de diferentes tipos. Valorize e discuta as diversas estratégias apresentadas pelos alunos. 
+  - Observe que apenas os pontos correspondentes a $0$ e a $2$ estão destacados na reta. Ainda que não seja de fato necessário, recomenda-se que, no desenvolvimento da atividade, sejam marcados os pontos correspondentes a 1, 3, 4 e 5. Especialemnte a marcação do 1, facilita a identificação da unidade.
+  - Para a marcação de $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$ e $\frac{5}{4}$, esper-se que os alunos utilizem os conhecimentos adquiridos nas atividades anteriores. É uma oportunidade de revisão e de avaliaçã do aprendizado. Não acredita-se que os alunos terão dificuldade para isso. Mas é importante que o professor fique atento e, se for o caso, faça a necessária revisão. 
+  - Observe que nesta atividade, a partir da observação da representação na reta, o aluno é convidado a exprimir a ordem das frações em simbologia matemática. Aproveite para destacar o fato de que quanto menor a fração, mais próxima do zero será sua representação na reta. 
+  - Os últimos itens desta atividade admitem várias respostas. Explore as soluções dadas pelos seus alunos. Aproveite para discutir estratégias variadas de comparação. Por exemplo, decidir que $\frac{7}{2} < \frac{11}{3} < 4$ pode ser justificado pelo fato de que para marcar o ponto correspondente a $\frac{7}{2}$ a unidade entre 3 e 4 deve ser dividida ao meio, enquanto que, para marcar o ponto correspondente a $\frac{11}{3}$, é necessário dividí-la em três partes iguais e tomar o mais próximo de 4. Assim, como $\frac{1}{3} < \frac{1}{2}$, pode-se concluir que $\frac{7}{2} < \frac{11}{3} < 4$
+<WRAP imagem> FIGURA GEOMÉTRICA\\
+
+</WRAP>
+
+
 </WRAP>
 </hidden>
 
