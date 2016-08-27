@@ -8,7 +8,6 @@ Ir para [[cap3:texto#ativ_grad_unidade3]]
 Objetivos específicos: Levar o aluno a
   * Relacionar a representação de frações unitárias em modelo de área retangular com a representação dessas frações na reta numerada. 
 
-
 Recomendações e sugestões para o desenvolvimento da atividade: 
   * Recomenda-se que esta atividade seja realizada em duplas ou em trios. No entanto, a discussão das resposta deve ser feita com toda a turma.
   * Cada aluno deve receber o material para o desenvolvimento da atividade, que consiste em uma folha para reprodução em que há 10 retângulos congruentes, cada um com uma cor e indicando uma equipartição diferente da unidade, como ilustrado a seguir:
@@ -18,7 +17,6 @@ INCLUIR AQUI UMA IMAGEM REDUZIDA DA PÁGINA DE REPRODUÇÃO
 </WRAP>
 
   * Para o desenvolvimento da atividade, recomenda-se que os alunos cortem e manuseiem o material a ser reproduzido (**Inserir LINK de página para reprodução**). É importante que reconheçam que todas as faixas coloridas são iguais (congruentes), o que pode ser feito pela sobreposição. Esse retângulo representa a unidade. Além disso, é importante que percebam que cada uma das faixas (ou a unidade) têm uma equipartição indicada, representando frações unitárias diferentes. Por exemplo, cada pate da faixa amarela representa $\frac{1}{5}$ da unidade.
-
 
 <WRAP imagem>
 FOLHA DE REPRODUÇÃO
@@ -32,3 +30,20 @@ FOLHA DE REPRODUÇÃO
 
 
 ENUNCIADO
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+<hidden Resposta>
+<WRAP resposta>
+
+
+
+</WRAP>
+</hidden>
