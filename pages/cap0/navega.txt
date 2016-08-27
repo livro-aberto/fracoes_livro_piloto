@@ -31,7 +31,10 @@ A Lição 4 trata da equivalência de frações tendo, como problema motivador, 
 
 Somas e subtrações de frações são o tema da Lição 5. Por meio de equivalência (que permite determinar subdivisões da unidade que sejam comuns entre as parcelas), o processo de determinar explicitamente a soma ou subtração de duas frações recai na soma e subtração de números inteiros, a saber, os numeradores de frações equivalentes de mesmo denominador. As interpretações da adição e subtração foram as mesmas dos números naturais promovendo assim uma continuidade conceitual dos tópicos estudados. 
 
-Para o volume 2 ficaram os tópicos multiplicação e divisão de fração, a abordagem dos modelos discretos e os usos de frações dados por razão e proporção, onde serão estudadas as porcentagens. Interessante observar que os modelos discretos, que surgem da impossibilidade de se continuar a subdivisão de uma unidade (por exemplo quando a unidade é uma turma de 10 estudantes, a subdivisão mais fina é considerar um único estudante como subunidade), sequer são abordados nos livros didáticos japoneses da renomada coleção XYZ (na versão em inglês). Por outro lado, razão e proporção são usos importantes no dia-a-dia e também para o aprendizado de frações (referência do humberto), mas que são bastante desafiadores para o aprondizado dos estudantes (referência do humberto).
+Para o volume 2 ficaram os tópicos multiplicação e divisão de fração, a abordagem dos modelos discretos e os usos de frações dados por razão e proporção, onde serão estudadas as porcentagens. 
+/*
+Interessante observar que os modelos discretos, que surgem da impossibilidade de se continuar a subdivisão de uma unidade (por exemplo quando a unidade é uma turma de 10 estudantes, a subdivisão mais fina é considerar um único estudante como subunidade), sequer são abordados nos livros didáticos japoneses da renomada coleção XYZ (na versão em inglês). Por outro lado, razão e proporção são usos importantes no dia-a-dia e também para o aprendizado de frações (referência do humberto), mas que são bastante desafiadores para o aprondizado dos estudantes (referência do humberto).
+*/
 
 /*
 Características de forma:
