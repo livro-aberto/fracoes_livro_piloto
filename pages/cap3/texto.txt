@@ -92,7 +92,7 @@
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_Comparacao_fracoes}}
 
-/*
+
 {{anchor:ativ_reta_numerica2}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta_numerica2}}
@@ -101,7 +101,7 @@
 {{anchor:ativ_reta2_unidade6}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_reta2_unidade6}}
-*/
+
 
 
 ===== QUEBRANDO A CUCA =====
@@ -112,9 +112,7 @@
 {{page>cap3:secoes:ativ_grad_unidade3}}
 */
 
-{{anchor:ativ_grad_unidade4}}
-==== Atividade - ====
-{{page>cap3:secoes:ativ_grad_unidade4}}
+
 
 
 {{anchor:ativ_grad_unidade5}}
@@ -122,10 +120,15 @@
 {{page>cap3:secoes:ativ_grad_unidade5}}
 
 
-
+/*
 {{anchor:ativ_indiv_subdiv}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_indiv_subdiv}}
+
+
+{{anchor:ativ_grad_unidade4}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_grad_unidade4}}
 
 
 {{anchor:ativ_ordem_mesmo_denom}}
@@ -141,3 +144,4 @@
 {{anchor:ativ_comparacao_unit}}
 ==== Atividade - ====
 {{page>cap3:secoes:ativ_comparacao_unit}}
+*/
