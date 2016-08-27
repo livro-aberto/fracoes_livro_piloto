@@ -13,7 +13,7 @@ Na reta numérica a seguir:
   - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ 
 
 <WRAP imagem> FIGURA GEOMÉTRICA\\
-Para ilustrar: reta numérica com apenas os números 0 e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5. TEM IMAGEM NA RESPOSTA
+Reta numérica com apenas os números 0 e 2 destacados. No entanto, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5. TEM IMAGEM SEMELHANTE NA RESPOSTA
 {{ :cap3:secoes:reta_0_2.jpg |}}
 </WRAP>
 
@@ -23,7 +23,7 @@ Observando a reta numérica com as marcações feitas, compare:\\ \\
   - $\frac{5}{4}$ é menor do que 1?
   - Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
 
-$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$
+$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square} < 2$
 
 Volte à reta e marque outras três frações que atendam às seguintes condições: 
   - A primeira deve ser maior do que $3$ e menor do que $4$.
@@ -34,31 +34,25 @@ Volte à reta e marque outras três frações que atendam às seguintes condiç�
 <WRAP resposta>
 
 <WRAP imagem> FIGURA GEOMÉTRICA\\
-Para ilustrar: reta numérica com apenas os números 0, $\frac{1}{4}$, \frac{1}{2}$, $\frac{3}{4}$, 1, $\frac{3}{4}$, . Justifique sua resposta.
-  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações.e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5.
-{{ :cap3:secoes:reta_0_2.jpg |}}
-</WRAP>
-Na reta numérica a seguir:
-  - Marque $\frac{1}{2}$. Justifique sua resposta.
-  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ 
+Reta numérica com oos números $0$, $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $1$, $\frac{5}{4}$ e marcados. 
 
-<WRAP imagem> FIGURA GEOMÉTRICA\\
-Para ilustrar: reta numérica com apenas os números 0 e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5.
-
-</WRAP>
+Uma forma de A marcação de $\frac{1}{2}$ deve
+  - Uma forma de marcar $\frac{1}{2}$ na reta numérica dada pode ser a partir da marcação, primeiro, do 1. A marcação do 1 fica entre 0 e 2, bem no meio. Com a unidade identificada, a $\frac{1}{2}$  fica entre as marcações do 0 e do 1, bem no meio.   
+  - As marcações de $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$ podem ser feitas de maneira semelhante, lembrando que $\frac{1}{4}$ fica  . Explique como raciocinou para fazer essas marcações. \\ \\ 
 
 Observando a reta numérica com as marcações feitas, compare:\\ \\
-  - $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$?
-  - E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
-  - $\frac{5}{4}$ é menor do que 1?
+  - $\frac{1}{4}$ é menor do que $\frac{1}{2}$ porque está mais próximo de zero.
+  - $\frac{3}{4}$ é maior do que  $\frac{1}{2}$ porque está mais distante de zero.
+  - $\frac{5}{4}$ é menor do que 1 porque está mais distante de zero.
   - Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
 
-$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$
+$0 < \frac{1}{4} < \frac{1}{2}< \frac{3}{4} < 1 < \frac{5}{4} < 2$
 
 Volte à reta e marque outras três frações que atendam às seguintes condições: 
-  - A primeira deve ser maior do que $3$ e menor do que $4$.
-  - A segunda deve ser maior do que $\frac{7}{2}$.
-  - A terceira deve ser maior do que $\frac{17}{4}$ e menor do que $5$
+  - Há várias respostas possíveis. Por exemplo, $3 < \frac{7}{2} < 4$, $3 < \frac{15}{4} < 4$ ou $3 < \frac{10}{3} < 4$
+  - Há várias respostas possíveis. Por exemplo, $\frac{7}{2}$ < $\frac{15}{4}$ < 4$ ou $\frac{7}{2}$ < $\frac{11}{3}$ < 4$.
+  - Há várias respostas possíveis. Por exemplo, $\frac{17}{4}$ < $\frac{9}{2}$ < 5$, $\frac{17}{4}$ < $\frac{19}{4}$ < 5$ ou $\frac{17}{4}$ < $\frac{14}{3}$ < 5$.
+
 
 
 </WRAP>
