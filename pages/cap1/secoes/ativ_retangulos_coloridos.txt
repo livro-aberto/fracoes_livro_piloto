@@ -40,7 +40,8 @@ os retângulos devem estar organizados em duas páginas conforme a ilustração.
 <WRAP resposta>
   - Todos os retângulos estão divididos em quartos. 
   - Dois desenhos possíveis são:
-
+{{:cap1:secoes:ativ_retangulos_coloridos_resposta1.png?nolink&100|}}
+{{:cap1:secoes:ativ_retangulos_coloridos_resposta2.png?nolink&100|}}
 
 </WRAP>
 </hidden>
