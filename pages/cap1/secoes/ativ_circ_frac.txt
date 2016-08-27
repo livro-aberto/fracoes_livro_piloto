@@ -42,35 +42,35 @@ Imagem ilustrativa que reproduza em tamanho reduzido os círculos que compõem o
 </WRAP>
 
 
-a) Qual a cor da peça que é igual a um terço do círculo preto?\\ 
-b) Qual a cor do peça que é igual a um quarto do círculo preto?\\
-c) Qual a cor do peça que é igual a um sétimo do círculo preto?\\
-d) Qual a cor do peça que é igual a um nono do círculo preto?\\
-e) Que fração do círculo preto é igual a uma peça da cor roxa?\\
-f) Que fração do círculo preto é igual a uma peça da cor cinza?\\
-g) Que fração do círculo preto é igual a uma peça da cor branco?\\
-h) Que fração do círculo preto é igual a uma peça da cor rosa?\\
-i) Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.\\ 
-j) Qual fração do círculo preto é menor, um nono ou um quarto. Explique a sua resposta.\\ 
-l) Qual fração do círculo preto é menor, um quinto ou um sétimo. Explique a sua resposta.\\ 
-m) Qual fração do círculo preto é maior, um oitavo ou um quarto. Explique a sua resposta.\\ 
-n) Qual fração do círculo preto é maior, um sexto ou um sétimo. Explique a sua resposta.\\
+  - Qual a cor da peça que é igual a um terço do círculo preto?
+  - Qual a cor do peça que é igual a um quarto do círculo preto?
+  - Qual a cor do peça que é igual a um sétimo do círculo preto?
+  - Qual a cor do peça que é igual a um nono do círculo preto?
+  - Que fração do círculo preto é igual a uma peça da cor roxa?
+  - Que fração do círculo preto é igual a uma peça da cor cinza?
+  - Que fração do círculo preto é igual a uma peça da cor branco?
+  - Que fração do círculo preto é igual a uma peça da cor rosa?
+  - Qual fração do círculo preto é maior, um terço ou um sétimo. Explique a sua resposta.
+  - Qual fração do círculo preto é menor, um nono ou um quarto. Explique a sua resposta.
+  - Qual fração do círculo preto é menor, um quinto ou um sétimo. Explique a sua resposta.
+  - Qual fração do círculo preto é maior, um oitavo ou um quarto. Explique a sua resposta.
+  - Qual fração do círculo preto é maior, um sexto ou um sétimo. Explique a sua resposta.
 
 
 <hidden Resposta>
 <WRAP resposta> 
-a) Uma peça da cor AZUL é igual a um terço do círculo preto.\\ 
-b) Uma peça da cor VERMELHO é igual a um quarto do círculo preto.\\ 
-c) Uma peça da cor AMARELO é igual a um sétimo do círculo preto.\\ 
-d) Uma peça da cor LARANJA é igual a um nono do círculo preto.\\ 
-e) Uma peça da cor roxa é igual a UM SEXTO do círculo preto.\\
-f) Uma peça da cor cinza é igual a UM OITAVO do círculo preto.\\
-g) Uma peça da cor branca é igual a UM DÉCIMO  do círculo preto.\\
-h) Uma peça da cor rosa é igual à METADE do círculo preto.\\
-i) Um terço do círculo preto é maior do que um sétimo do círculo preto.
-j) Um nono do círculo preto é menor do que um quarto do círculo preto. 
-l) Um sétimo do círculo preto é menor quinto do círculo preto. 
-m) Um quarto do círculo preto é maior do que um oitavo do círculo preto.  
-n) Um sexto do círculo preto é maior do que um sétimo do círculo preto
+  - Uma peça da cor AZUL é igual a um terço do círculo preto.
+  - Uma peça da cor VERMELHO é igual a um quarto do círculo preto.
+  - Uma peça da cor AMARELO é igual a um sétimo do círculo preto.
+  - Uma peça da cor LARANJA é igual a um nono do círculo preto.
+  - Uma peça da cor roxa é igual a UM SEXTO do círculo preto.
+  - Uma peça da cor cinza é igual a UM OITAVO do círculo preto.
+  - Uma peça da cor branca é igual a UM DÉCIMO  do círculo preto.
+  - Uma peça da cor rosa é igual à METADE do círculo preto.
+  - Um terço do círculo preto é maior do que um sétimo do círculo preto.
+  - Um nono do círculo preto é menor do que um quarto do círculo preto. 
+  - Um sétimo do círculo preto é menor quinto do círculo preto. 
+  - Um quarto do círculo preto é maior do que um oitavo do círculo preto.  
+  - Um sexto do círculo preto é maior do que um sétimo do círculo preto
 </WRAP>
 </hidden>
