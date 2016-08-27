@@ -21,7 +21,7 @@ $$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square}
 
 
 <WRAP imagem> FIGURA GEOMÉTRICA\\
-{{ :cap3:secoes:reta_0_2.jpg?300 |}}
+
 </WRAP>
 
 
