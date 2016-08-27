@@ -10,25 +10,56 @@ Ir para [[cap3:texto#ativ_grad_unidade5]]
 
 Na reta numérica a seguir:
   - Marque $\frac{1}{2}$. Justifique sua resposta.
-  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ Observando a reta numérica com as marcações feitas, compare:\\ \\
+  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ 
+
+<WRAP imagem> FIGURA GEOMÉTRICA\\
+Para ilustrar: reta numérica com apenas os números 0 e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5. TEM IMAGEM NA RESPOSTA
+{{ :cap3:secoes:reta_0_2.jpg |}}
+</WRAP>
+
+Observando a reta numérica com as marcações feitas, compare:\\ \\
   - $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$?
   - E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
   - $\frac{5}{4}$ é menor do que 1?
   - Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
 
-$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$$
+$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$
 
-
-
-<WRAP imagem> FIGURA GEOMÉTRICA\\
-
-</WRAP>
-
-
-
+Volte à reta e marque outras três frações que atendam às seguintes condições: 
+  - A primeira deve ser maior do que $3$ e menor do que $4$.
+  - A segunda deve ser maior do que $\frac{7}{2}$.
+  - A terceira deve ser maior do que $\frac{17}{4}$ e menor do que $5$
 
 <hidden Resposta>
 <WRAP resposta>
+
+<WRAP imagem> FIGURA GEOMÉTRICA\\
+Para ilustrar: reta numérica com apenas os números 0, $\frac{1}{4}$, \frac{1}{2}$, $\frac{3}{4}$, 1, $\frac{3}{4}$, . Justifique sua resposta.
+  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações.e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5.
+{{ :cap3:secoes:reta_0_2.jpg |}}
+</WRAP>
+Na reta numérica a seguir:
+  - Marque $\frac{1}{2}$. Justifique sua resposta.
+  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ 
+
+<WRAP imagem> FIGURA GEOMÉTRICA\\
+Para ilustrar: reta numérica com apenas os números 0 e 2, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5.
+
+</WRAP>
+
+Observando a reta numérica com as marcações feitas, compare:\\ \\
+  - $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$?
+  - E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
+  - $\frac{5}{4}$ é menor do que 1?
+  - Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
+
+$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$
+
+Volte à reta e marque outras três frações que atendam às seguintes condições: 
+  - A primeira deve ser maior do que $3$ e menor do que $4$.
+  - A segunda deve ser maior do que $\frac{7}{2}$.
+  - A terceira deve ser maior do que $\frac{17}{4}$ e menor do que $5$
+
 
 </WRAP>
 </hidden>
