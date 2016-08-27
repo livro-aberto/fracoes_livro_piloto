@@ -15,7 +15,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 <WRAP imagem>
 INCLUIR AQUI UMA IMAGEM REDUZIDA DA PÁGINA DE REPRODUÇÃO
-<WRAP>
+</WRAP>
 
   * Para o desenvolvimento da atividade, recomenda-se que os alunos cortem e manuseiem o material a ser reproduzido (**Inserir LINK de página para reprodução**). É importante que reconheçam que todas as faixas coloridas são iguais (congruentes), o que pode ser feito pela sobreposição. Esse retângulo representa a unidade. Além disso, é importante que percebam que cada uma das faixas (ou a unidade) têm uma equipartição indicada, representando frações unitárias diferentes. Por exemplo, cada pate da faixa amarela representa $\frac{1}{5}$ da unidade.
 
