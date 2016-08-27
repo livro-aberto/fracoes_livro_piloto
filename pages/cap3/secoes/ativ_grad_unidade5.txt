@@ -19,7 +19,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   - Observe que nesta atividade, a partir da observação da representação na reta, o aluno é convidado a exprimir a ordem das frações em simbologia matemática. Aproveite para destacar o fato de que quanto menor a fração, mais próxima do zero será sua representação na reta. 
   - Os últimos itens desta atividade admitem várias respostas. Explore as soluções dadas pelos seus alunos. Aproveite para discutir estratégias variadas de comparação. Por exemplo, decidir que $\frac{7}{2} < \frac{11}{3} < 4$ pode ser justificado pelo fato de que para marcar o ponto correspondente a $\frac{7}{2}$ a unidade entre 3 e 4 deve ser dividida ao meio, enquanto que, para marcar o ponto correspondente a $\frac{11}{3}$, é necessário dividí-la em três partes iguais e tomar o mais próximo de 4. Assim, como $\frac{1}{3} < \frac{1}{2}$, pode-se concluir que $\frac{7}{2} < \frac{11}{3} < 4$
 <WRAP imagem> FIGURA GEOMÉTRICA\\
-
+Destacando, na reta numérica a comparação entre metades e terços entre 3 e 4:
+{{ :cap3:secoes:comp_entre_3_e_4.jpg?300 |}}
 </WRAP>
 
 
