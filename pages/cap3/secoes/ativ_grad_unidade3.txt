@@ -2,23 +2,33 @@
 Ir para [[cap3:texto#ativ_grad_unidade3]]
 ;;#
 
-FRAÇÕES: A UNIDADE E AS SUBDIVISÕES
-<WRAP professor> 
-Objetivos específicos: Levar o aluno a
-  * Observar diversas equipartições da unidade em um modelo continuo e que se aproxima da reta numérica. 
-  * Associar diversas partições da unidade com as representações  1/b e a/b.
-  * 
-Recomendações: 
- 
-  * Deve ser desenvolvida em grupos de 2 ou 3 alunos, pois é fundamental que conversem para realizarem a tarefa proposta. 
-  * É importante que os alunos cortem e manuseiem o material do encarte que está no disponível para reprodução (**Inserir LINK de página para reprodução**) para que associem o modelo concreto à reta numerica.
-  * Para o desenvolvimento da atividade, os alunos devem ser orientados a pintarem cada faixa subdividida com um tipo de fração unitária usando uma cor diferente para cada. 
-  * Usaremos as seguintes divisões da faixa: 2, 3, 4,5,6 7 8, 9, 10 e 16 partes e chame atenção dos grupos para as frações unitárias obtidas em cada caso.  
+<hidden Para o professor>
+<WRAP professor>
 
+Objetivos específicos: Levar o aluno a
+  * Relacionar a representação de frações unitárias em modelo de área retangular com a representação dessas frações na reta numerada. 
+
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Recomenda-se que esta atividade seja realizada em duplas ou em trios. No entanto, a discussão das resposta deve ser feita com toda a turma.
+  * Cada aluno deve receber o material para o desenvolvimento da atividade, que consiste em uma folha para reprodução em que há 10 retângulos congruentes, cada um com uma cor e indicando uma equipartição diferente da unidade, como ilustrado a seguir:
+
+<WRAP imagem>
+INCLUIR AQUI UMA IMAGEM REDUZIDA DA PÁGINA DE REPRODUÇÃO
+<WRAP>
+
+  * Para o desenvolvimento da atividade, recomenda-se que os alunos cortem e manuseiem o material a ser reproduzido (**Inserir LINK de página para reprodução**). É importante que reconheçam que todas as faixas coloridas são iguais (congruentes), o que pode ser feito pela sobreposição. Esse retângulo representa a unidade. Além disso, é importante que percebam que cada uma das faixas (ou a unidade) têm uma equipartição indicada, representando frações unitárias diferentes. Por exemplo, cada pate da faixa amarela representa $\frac{1}{5}$ da unidade.
+
+
+<WRAP imagem>
+FOLHA DE REPRODUÇÃO
+{{ :cap4:secoes:cuisenaire-03.png?300 |}}
 </WRAP>
 
+  * As faixas estão subdiviidas em : 2, 3, 4, 5, 6, 7, 8, 9, 10 e 16 partes iguais. 
 
-Cada grupo vai receber do professor 10 faixas que devem ser divididas conforme o modelo abaixo e pintada cada uma por uma cor diferente. 
-Observe as faixas abaixo, divididas em 2, 3, 4,5,6 7 8, 9, 10 e 16 partes, todas do mesmo tamanho. Pinte cada uma delas por cor diferente e escreva dentro de cada parte a sua representação por fração unitária.
-{{ :cap3:secoes:faixas_iniciais.png?200 |}}
+</WRAP>
+</hidden>
 
+
+ENUNCIADO
