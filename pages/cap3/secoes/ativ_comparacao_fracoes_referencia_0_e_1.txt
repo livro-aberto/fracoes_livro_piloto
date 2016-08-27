@@ -11,12 +11,12 @@ Objetivo específico:
 Recomendações e sugestões para o desenvolvimento da atividade:
    - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
    - Esta atividade é complementar da anterior. Na atividade anterior, as frações estão representadas na reta numérica. Nesta, as frações unitárias são apresentadas em sua representaçã simbólica, na forma $\frac{a}{b}$. Espera-se que os alunos consigam compará-las fazendo relação com a representação na reta numérica, tratada na atividade anterior. Assim, por exemplo,
-a desigualdade $\frac{1}{10}$ < $\frac{1}{4}$ pode ser justificada pelo fato de que, na representação na reta numérica, a fração $\frac{1}{10}$ está mais próxima do ponto correspondente ao zero do que a fração $\frac{1}{4}$. 
+a desigualdade $\frac{1}{10} < \frac{1}{4}$ pode ser justificada pelo fato de que, na representação na reta numérica, a fração $\frac{1}{10}$ está mais próxima do ponto correspondente ao zero do que a fração $\frac{1}{4}$. 
   
 </WRAP> 
 </hidden>
 
-Observando a atividade anterior (Atividade 13), complete as sentenças a seguir com os sinais > (maior) ou < (menor) de modo a torná-las verdadeiras.
+Observando a atividade anterior (Atividade 13), complete as sentenças a seguir com os sinais $>$ (maior) ou $<$ (menor) de modo a torná-las verdadeiras.
 
 | a)  |  $\frac{1}{2}$    |       |  $\frac{1}{5}$    |
 | b)  |  $\frac{1}{4}$    |       |  $\frac{1}{3}$    |
