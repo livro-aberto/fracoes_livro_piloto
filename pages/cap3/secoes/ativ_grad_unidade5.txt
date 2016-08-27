@@ -34,9 +34,9 @@ Volte à reta e marque outras três frações que atendam às seguintes condiç�
 <WRAP resposta>
 
 <WRAP imagem> FIGURA GEOMÉTRICA\\
-Reta numérica com oos números $0$, $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $1$, $\frac{5}{4}$ e marcados. 
+Reta numérica com os números $0$, $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $1$, $\frac{5}{4}$ e $2$ marcados. 
+</WRAP>
 
-Uma forma de A marcação de $\frac{1}{2}$ deve
   - Uma forma de marcar $\frac{1}{2}$ na reta numérica dada pode ser a partir da marcação, primeiro, do 1. A marcação do 1 fica entre 0 e 2, bem no meio. Com a unidade identificada, a $\frac{1}{2}$  fica entre as marcações do 0 e do 1, bem no meio.   
   - As marcações de $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$ podem ser feitas de maneira semelhante, lembrando que $\frac{1}{4}$ fica  . Explique como raciocinou para fazer essas marcações. \\ \\ 
 
@@ -46,14 +46,18 @@ Observando a reta numérica com as marcações feitas, compare:\\ \\
   - $\frac{5}{4}$ é menor do que 1 porque está mais distante de zero.
   - Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
 
-$0 < \frac{1}{4} < \frac{1}{2}< \frac{3}{4} < 1 < \frac{5}{4} < 2$
+$0 < \frac{1}{4} < \frac{1}{2}< \frac{3}{4} < 1 < \frac{5}{4} < 2$ 
+
+\\
 
 Volte à reta e marque outras três frações que atendam às seguintes condições: 
-  - Há várias respostas possíveis. Por exemplo, $3 < \frac{7}{2} < 4$, $3 < \frac{15}{4} < 4$ ou $3 < \frac{10}{3} < 4$
-  - Há várias respostas possíveis. Por exemplo, $\frac{7}{2}$ < $\frac{15}{4}$ < 4$ ou $\frac{7}{2}$ < $\frac{11}{3}$ < 4$.
-  - Há várias respostas possíveis. Por exemplo, $\frac{17}{4}$ < $\frac{9}{2}$ < 5$, $\frac{17}{4}$ < $\frac{19}{4}$ < 5$ ou $\frac{17}{4}$ < $\frac{14}{3}$ < 5$.
+  - Há várias respostas possíveis. Por exemplo, $3 < \frac{7}{2} < 4$, $3 < \frac{15}{4} < 4$   ou   $3 < \frac{10}{3} < 4$
+  - Há várias respostas possíveis. Por exemplo, $\frac{7}{2} < \frac{15}{4} < 4$   ou   $\frac{7}{2} < \frac{11}{3} < 4$.
+  - Há várias respostas possíveis. Por exemplo, $\frac{17}{4} < \frac{9}{2} < 5$, $\frac{17}{4} < \frac{19}{4} < 5$   ou $\frac{17}{4} < \frac{14}{3} < 5$.
 
-
+<WRAP imagem> FIGURA GEOMÉTRICA\\
+Reta numérica com os números $0$, $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $1$, $\frac{5}{4}$, $2$, $3$, $\frac{7}{2}$, $\frac{10}{3}$, $\frac{11}{3}$, $\frac{15}{4}$, $4$, $\frac{17}{4}$, $\frac{9}{2}$, $\frac{14}{3}$ e $5$ marcados. 
+</WRAP>
 
 </WRAP>
 </hidden>
