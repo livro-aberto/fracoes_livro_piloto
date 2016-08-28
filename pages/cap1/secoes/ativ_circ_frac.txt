@@ -12,7 +12,7 @@ Objetivos específicos: Levar o aluno a:
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. No entanto, cada aluno deve ter o seu próprio material (Círculos de Frações) para realizar a atividade. 
   * Durante a discussão, os alunos devem ser estimulados a explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações às frações da unidade correspondentes será fundamental para atingir o objetivo da atividade.
-  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível em (LINK PARA PÁGINA PARA REPRODUÇÃO). 
+  * Esta atividade é planejada para ser desenvolvida a partir material concreto baseado em  modelos de área circular. Mais especificamente com um material conhecido como “Círculos de Frações”.  Para aplicá-la, é necessário reproduzir esse material, que está disponível nas ({{::cap6_folhas_para_reproducao.pdf||páginas para reprodução}}). 
   * Sendo um material concreto, os círculos de frações têm o papel de auxiliar na visualização da representação das frações, mais especificamente, das frações unitárias. 
   * Na versão utilizada nesta atividade, o círculo corresponde à unidade, ou seja, ao 1 e os setores circulares, diferenciados por cores, correspondem às frações unitárias //um meio//, //um terço//, //um quarto//, //um sexto//, //um sétimo//, //um oitavo//, //um nono// e //um décimo//. 
   * Os Círculos de Frações também podem ser utilizados para tratar das frações unitárias, bem como para a abordagem de outros conceitos e assuntos como, por exemplo, frações em geral, comparação de frações ou as operações de adição e de subtração com frações.
@@ -24,22 +24,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Já para os cinco itens que tratam da comparação, espera-se que os alunos identifiquem os setores que representam as fraçoes envolvidas e procedam a comparação pela sobreposição das peças correspondentes. Assim, por exemplo, a resposta do item (l) pode ser justificada pela sobreposição das peças das cores verde e amarelo. 
   * Aproveite a correção desses últimos itens para explorar, a partir dos círculos de Frações, a relação entre a quantidade de peças de cada cor e o tamanho das peças, ou seja, a relação inversa entre a quantidade de partes em que  círculo (unidade) está dividido e o tamanho de cada parte.   
 
-
-<WRAP imagem>
-Figura geométrica
-**Duas páginas, cada uma com 5 círculos, todos com o mesmo raio, o maior possível**. A disposição dos círculos na página deve ser um círculo central e quatro no entorno. Na primeira página os seguintes círculos: (i) Círculo inteiro, sem marcar para recortes na cor preta; (ii) círculo para recorte em metades, na cor rosa; (iii) círculo para recorte com setores correspondentes a terços, na cor azul; (iv) círculo para recorte com setores correspondentes a quartos, na cor vermelho e (v) círculo para recorte com setores correspondentes a quintos, na cor verde. Na segunda página: (i) círculo para recorte com setores correspondentes a sextos, na cor roxo; (ii) círculo para recorte com setores correspondentes a sétimos, na cor amarelo; (iii) círculo para recorte com setores correspondentes a oitavos, na cor cinza; (iv) círculo para recorte com setores correspondentes a nonos, na cor laranja e (v) círculo para recorte com setores correspondentes a décimos, na cor branco.
-Imagem ilustrativa:
-{{ :cap1:secoes:disco_de_fracoes_ilust.jpg?300 |}}
-</WRAP>
 </WRAP>
 </hidden>
 
 Usando os Círculos de Frações, responda:
 
-<WRAP imagem>
-Figura geométrica
-Imagem ilustrativa que reproduza em tamanho reduzido os círculos que compõem o material Circulos de Frações, um ao lado do outro, em ordem decrescente de tamanho
-</WRAP>
+{{ :cap1:secoes:ativ_circ_frac.png?nolink&400 |}}
 
 
   - Qual a cor da peça que é igual a um terço do círculo preto?
