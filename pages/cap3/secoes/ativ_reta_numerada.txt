@@ -22,10 +22,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Na reta numérica a seguir estão destacados os pontos correspondentes ao 0, ao 1 e a $\frac{1}{2}$. Os demais pontos correspondem às frações apresentadas a seguir. Associe cada fração ao ponto correspondente.  
 
-<WRAP Imagem> FIGURAS GEOMÉTRICAS - Há figura na resposta também.
-Os pontos em destaque na reta numérica desta atividade têm que corresponder corretamente aas frações da unidade em destaque.
-{{ :cap3:secoes:reta_e_fracoes.png?600 |}}
-</WRAP>
+{{ :cap3:secoes:cap3-33.png?nolink&600 |}}
+
 
 <hidden Resposta>
 <WRAP resposta>
