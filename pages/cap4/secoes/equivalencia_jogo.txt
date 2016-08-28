@@ -7,23 +7,14 @@ Ir para [[cap4:texto#equivalencia_jogo]]
 Objetivo específico: Levar o aluno a
   * Reconhecer frações iguais por meio de um jogo de trilha.
 
+Esta atividade possui {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}.
+\\
+
 Classificações
   * Heid et al.: Produto: gerar; prever
   * Nicely, Jr.: Nível 5: relacionar
   * UERJ: Interpretar: ordenar
 
-<WRAP nota>
-FOLHA DE REPRODUÇÃO
-
-
-{{ :cap4:secoes:caminho-reproducao-01.jpg?700 |}}
-</WRAP>
-
-<WRAP nota>
-FOLHA DE REPRODUÇÃO
-
-{{ :cap4:secoes:caminho-reproducao-02.jpg?700 |}}
-</WRAP>
 </WRAP>
 </hidden>
 
