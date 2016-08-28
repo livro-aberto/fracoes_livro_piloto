@@ -29,7 +29,7 @@ Destacando, na reta numérica a comparação entre metades e terços entre 3 e 4
 
 Na reta numérica a seguir:
   - Marque $\frac{1}{2}$. Justifique sua resposta.
-  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ <WRAP imagem> FIGURA GEOMÉTRICA\\ Reta numérica com apenas os números 0 e 2 destacados. No entanto, mais reta visível à direita do 2 de modo que possam ser marcados o 3, o 4 e o 5. TEM IMAGEM SEMELHANTE NA RESPOSTA {{ :cap3:secoes:reta_0_2.jpg |}} </WRAP> \\ \\ Observando a reta numérica com as marcações feitas, compare:\\ \\
+  - Marque $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{5}{4}$. Explique como raciocinou para fazer essas marcações. \\ \\ {{ :cap3:secoes:cap3-35.png?nolink&500 |}}\\ \\
   - $\frac{1}{4}$ é maior ou menor do que $\frac{1}{2}$?
   - E $\frac{3}{4}$, é maior ou menor do que  $\frac{1}{2}$?
   - $\frac{5}{4}$ é menor do que 1?
