@@ -12,7 +12,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Recomenda-se que esta atividade seja desenvolvida em grupos de quatro alunos. 
   * Cada grupo deve receber um pedaço de barbante de, aproximadamente, 1m e quatro enfeites (todos iguais).  
-  * Os quatro enfeites precisam ser confeccionados antes da realização da tarefa. Sugerem-se estrelas, cujos modelos estão disponíveis para reprodução **(Inserir LINK de página para reprodução)**. No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
+  * Os quatro enfeites precisam ser confeccionados antes da realização da tarefa. Sugerem-se estrelas, cujos modelos estão disponíveis para reprodução ({{::cap6_folhas_para_reproducao.pdf||Folhas para reprodução}}). No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
   * Como sugestão, se possível, solicitar aos alunos que confeccionem os enfeites, por exemplo, associando esta atividade com geometria, com a abordagem de grandezas e medidas, com a disciplina de artes ou envolvendo culturas artesanais populares.
   * A equipartição do barbante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo, como ilustrado na resposta da atividade.
   * A manipulação e a dobra do barbante devem sustentar a discussão para a identificação da "metade da metade" com a "quarta parte" do barbante. Nesse caso, a identificação se dará pela sobreposição das partes. 
