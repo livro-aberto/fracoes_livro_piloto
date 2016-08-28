@@ -28,20 +28,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
  A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem $\frac{1}{2}$ na reta numérica traçada em uma fita, como esta que vocês também receberam:
 
-<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{ :cap3:secoes:fita_1_rodrigo.jpg?400 |}}
-</WRAP>
+{{ :cap3:secoes:cap3-14.png?nolink&415 |}}
 
 Pedro trouxe a seguinte marcação 
-<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{ :cap3:secoes:fita_3.jpg?400 |}}
-</WRAP>
-
+{{ :cap3:secoes:cap3-15.png?nolink&400 |}}
 Miguel trouxe esta
-<WRAP imagem> FIGURA GEOMÉTRICA - Há figura no "Para o professor" também.
-{{ :cap3:secoes:fita_2.jpg?400 |}}
-</WRAP>
-
+{{ :cap3:secoes:cap3-15-2.png?nolink&400 |}}
   - É possível ambos estarem corretos? Justifique sua resposta. 
   - Faça marcações nessa fita correspondentes a $\frac{1}{4}$ e a $\frac{3}{4}$. Explique como você fez essas marcações.
   - Onde deve ser feita a marcação correspondente a $\frac{4}{4}$?
