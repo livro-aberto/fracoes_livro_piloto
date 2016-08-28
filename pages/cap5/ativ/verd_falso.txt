@@ -15,10 +15,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 Diga se as afirmações a seguir são verdadeiras ou falsas. Para as verdadeiras, explique com as suas palavras por que acha que são verdadeiras. Para as falsas, dê um exemplo que justifique a sua avaliação.
-  - A soma de uma fração inteira com uma fração não inteira, é uma fração não inteira.
-  - A diferença de uma fração inteira por uma fração não inteira é, necessariamente, uma fração não inteira.
-  - A soma de uma fração não inteira por uma fração não inteira é, necessariamente, uma fração não inteira.
-  - A diferença de uma fração não inteira por uma fração não inteira pode ser uma fração não inteira.
+  - A soma de um número inteiro com uma fração não inteira é, necessariamente, um número inteiro.
+  - A diferença entre um número inteiro e uma fração não inteira é, necessariamente, um número inteiro.
+  - A soma de uma fração não inteira com um número inteiro é, necessariamente, uma fração não inteira.
+  - A diferença entre uma fração não inteira e uma fração não inteira é, necessariamente, uma fração não inteira.
+  - A diferença entre uma fração não inteira e uma fração não inteira pode ser uma fração não inteira.
 
 <hidden Resposta>
 <WRAP resposta>
