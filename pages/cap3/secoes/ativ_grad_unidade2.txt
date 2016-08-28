@@ -19,13 +19,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 A faixa a seguir está dividida em 5 partes iguais. 
-<WRAP imagem> FIGURAS GEOMÉTRICAS - Há figuas na resposta também.
-{{ :undefined:unidade_em_quintos.png?300 |}}
-</WRAP>
-
-  - Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas.
-\\ {{ :cap3:secoes:quintos.png?300 |}} \\ 
-
+{{ :cap3:secoes:cap3-12.png?nolink&340 |}}
+  - Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas.\\ {{ :cap3:secoes:cap3-13.png?nolink&400 |}}
   - Escreva, em linguagem simbólica, a fração correspondente à faixa inteira. De que outra maneira é possível indicar essa quantidade? 
 
 <hidden Resposta>
