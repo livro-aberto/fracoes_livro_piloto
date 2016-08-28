@@ -4,8 +4,13 @@ Ir para [[cap5:texto#verd_falso]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade visa explorar a formulação de conjecturas envolvendo a estrutura algébrica dos conjuntos numéricos. Neste momento, não se espera que os alunos justifiquem com rigor formal suas afirmações, mas sim que busquem ilustrar suas conjecturas a partir de exemplos. Recomenda-se que o professor discuta cada item a partir das soluções dos alunos, destacando as respostas corretas com base nos exemplos propostos pelos estudantes.
-Com essas atividades, visamos atingir não só reflexões a respeito de números racionais, mas também estimular a habilidade de argumentação em Matemática.
+Objetivos específicos: Levar o aluno a
+  * explorar a formulação de conjecturas envolvendo a estrutura algébrica dos conjuntos numéricos, visamos atingir não só reflexões a respeito de números racionais, mas também estimular a habilidade de argumentação em Matemática.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Neste momento, não se espera ainda que os alunos justifiquem com rigor formal suas afirmações, mas sim que busquem ilustrar suas conjecturas a partir de exemplos.
+  * Recomenda-se que o professor discuta cada item a partir das soluções dos alunos, destacando as respostas corretas com base nos exemplos propostos pelos estudantes.
+
 </WRAP>
 </hidden>
 
