@@ -10,10 +10,6 @@ Objetivo específico: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Note que o item d) é falso porque estamos dando a liberdade de a escolha envolver frações que não são irredutíveis nem unitárias, por isso existem contraexemplos. Avalie a discussão sobre a veracidade da afirmação do item d) quando acrescentamos a informação “uma das frações é irredutível” ou “uma das frações é unitária”. Neste caso, as novas afirmações são verdadeiras, e as justificativas para elas são generalizações de questões já propostas.
-/*  
-
- Um resultado que pode ser comentado com os alunos, mas cuja a justificativa foge do escopo do Ensino Fundamental é o seguinte: se duas frações irredutíveis têm numeradores e denominadores diferentes, então elas são diferentes. A prova deste resultado usa o seguinte lema: se $b$, $c$ e $d$ são números naturais tais que $d$ divide $bc$ e o máximo divisor comum de $d$ e $c$ é 1, então $d$ divide $b$ (este lema, por sua vez, é consequência do Teorema Fundamental da Aritmética). Sejam $\frac{a}{b}$ e $\frac{c}{d}$ duas frações irredutíveis tais que $\frac{a}{b} = \frac{c}{d}$. Se $\frac{a}{b} = \frac{c}{d}$, então $ad = bc$. Logo, $d$ é divisor de $bc$. Pela lema, $d$ é divisor de $b$, uma vez que o máximo divisor comum de $d$ e $c$ é 1. Assim, existe natural $k$ tal que $b = kd$. Portanto, $ad = bc \Rightarrow akb = bc \Rightarrow ak = c$. Assim, $ad = bc \Rightarrow ad = bka \Rightarrow d = bk$. Mas, então, $k = 1$, de modo que $a = c$ e $b = d$.
-*/
 
 Classificações
   * Heid et al.: Raciocínio: corroborar
