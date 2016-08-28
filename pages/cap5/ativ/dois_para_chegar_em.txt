@@ -14,7 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-Qual o maior número, $\frac{19}{7}$ ou $2$? Quanto maior?
+Qual o maior número, $\frac{19}{7}$ ou $2$? Quanto se deve acrescentar ao menor número para chegar ao maior?
 
 <hidden Resposta>
 <WRAP resposta>
