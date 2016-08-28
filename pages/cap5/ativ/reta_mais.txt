@@ -16,10 +16,10 @@ Miguel relacionou essa estratégia com o seguinte cálculo:
 $$ 2 + \frac{1}{3} =  \frac{6}{3} + \frac{1}{3} = \frac{7}{3}$$
 {{ :cap5:ativ:reta_vertical2.png?300 |}}
 
-
-Em cada item a seguir, a partir da imagem repita o procedimento feito por Miguel e realize os cálculos.
-
-a. {{:cap5:ativ:reta_verticala.png?100|}} b. {{:cap5:ativ:reta_verticalb.png?100|}} c. {{:cap5:ativ:reta_verticalc.png?100|}}
+   -
+    * Em cada item a seguir, a partir da imagem repita o procedimento feito por Miguel e realize os cálculos. \\
+i. {{:cap5:ativ:reta_verticala.png?100|}} ii. {{:cap5:ativ:reta_verticalb.png?100|}} iii. {{:cap5:ativ:reta_verticalc.png?100|}}
+    * Que valor é obtido se juntarmos as quantidades 7 inteiros e dois terços?
 
 <hidden Resposta>
 <WRAP resposta>
