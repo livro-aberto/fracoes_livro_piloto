@@ -11,7 +11,7 @@ Objetivo específico: Levar o aluno a:
 
 Recomendações e sugestões para o desenvolvimento da atividade:
 
-  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. Cada grupo deve receber as imagens dos oito retângulos, disponíveis para reprodução **(Inserir LINK de página para reprodução)** e colorí-las, cada um com uma cor diferente das demais.
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos. Cada grupo deve receber as imagens dos oito retângulos, disponíveis para reprodução ({{::cap6_folhas_para_reproducao.pdf||páginas para reprodução}}) e colorí-las, cada um com uma cor diferente das demais.
   * Em cada grupo, os alunos devem decidir qual (ou quais) das divisões propostas para os retângulos correspondem a uma partição em quartos. É importante observar que todos os retângulos estão divididos em quartos.
   * Conduza a discussão de modo a levar os alunos a reconhecer que, em uma equipartição, as partes não precisam ter a mesma forma.   
   * Se necessário, o professor pode associar cada retângulo a um objeto concreto (por exemplo, uma barra de chocolate ou a um pedaço de bolo). No entanto, nesta atividade, espera-se que os alunos consigam lidar com a figura de um retângulo como representativa de uma unidade genérica. 
@@ -21,13 +21,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
   * Segundo a avaliação do professor, a atividade pode ser realizada em duas etapas. Em um primeiro momento, os alunos recebem quatro das oito imagens, Página A, e realizam a atividade com essas imagens - cuja comparação se dá apenas pela sobreposição. Em seguida, recebem as outras quatro, para concluir a atividade. Para as figuras da Página B, será necessário reconhecer a quarta parte como a metade da metade. É importante que o professor, ao final das duas etapas, avalie as escolhas como um todo.
-
-<WRAP imagem>
-<WRAP nota> - FIGURA GEOMÉTRICA - PÁGINA PARA REPRODUÇÃO
-os retângulos devem estar organizados em duas páginas conforme a ilustração. 
- {{ :undefined:quartos_encarte_1.jpg?direct&200 |}}   {{ :cap1:secoes:quartos_encarte_2.jpg?direct&200 |}}
-</WRAP>
-</WRAP>
 
 </WRAP>
 </hidden>
