@@ -24,7 +24,7 @@ $$ 2 + \frac{1}{3} =  \frac{6}{3} + \frac{1}{3} = \frac{7}{3}$$
 
     - Em cada item a seguir, a partir da imagem repita o procedimento feito por Miguel e realize os cálculos. \\
 {{:cap5:ativ:reta_verticala.png?100|}} {{:cap5:ativ:reta_verticalb.png?100|}} {{:cap5:ativ:reta_verticalc.png?100|}}
-    - Que valor é obtido se juntarmos as quantidades 7 inteiros e dois terços?
+    - Que valor é obtido se juntarmos 7 inteiros com dois terços?
 
 <hidden Resposta>
 <WRAP resposta>
