@@ -4,7 +4,13 @@ Ir para [[cap5:texto#calcule0]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade deve ser conduzida com a mesma abordagem da atividade 4. Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$ para $n\neq 0$.
+
+Objetivos específicos: Levar o aluno a
+  * aplicar a ideia de obter um denominador comum entre duas frações dadas, com base no processo geométrico de subdivisão da unidade, em exercícios sem uma situação contextualizada.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Embora não sejam dadas situações contextualizadas, procure conduzir esta atividade com base em representações geométricas para as frações dadas e na determinação de uma subdivisão comum a partir dessas representações, como nas atividades 2 a 6. O objeto é justamente aplicar as ideias construídas a partir daquelas atividades em exercícios sem situações contextualizadas.
+   * Nos casos que envolvem o número 1, deve-se relembrar $1 = \frac{n}{n}$.
 </WRAP>
 </hidden>
 Em cada um dos itens a seguir, escreva frações iguais às frações dadas que tenham mesmo denominador. Para cada par de frações, destaque a subdivisão escolhida da unidade para determinar o denominador comum e represente essa subdivisão por meio de um desenho.
