@@ -33,8 +33,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP resposta>
   - Todos os retângulos estão divididos em quartos. 
   - Dois desenhos possíveis são:
-{{:cap1:secoes:ativ_retangulos_coloridos_resposta1.png?nolink&100|}}
-{{:cap1:secoes:ativ_retangulos_coloridos_resposta2.png?nolink&100|}}
+{{:cap1:secoes:ativ_retangulos_coloridos-resposta-0.png?nolink&200|}}
+{{:cap1:secoes:ativ_retangulos_coloridos-resposta-1.png?nolink&200|}}
 
 </WRAP>
 </hidden>
