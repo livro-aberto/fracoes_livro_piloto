@@ -3,23 +3,17 @@ Ir para [[cap5:texto#fitas]]
 ;;#
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade tem por objetivo introduzir a soma de frações a partir da determinação de uma subdivisão da unidade que seja comum ambas sejam múltiplas inteiras. 
-Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subdivisão dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas:
-  * **a unidade**, associada ao número 1, com base na qual são contadas quantidades inteiras;
-  * subdivisões da unidade em partes iguais (no caso, os pedaços coloridos das fitas), cuja contagem permite **medir** quantidades menores que a unidade.
+Objetivos específicos: Levar o aluno a
+  * entender o processo de determinação de um denominador comum entre duas frações com base na ideia de subdivisão da unidade da qual ambas sejam múltiplas inteiras, obtida a partir de um processo geométrico;
+  * determinar a soma de duas frações a partir dessa subdivisão da unidade.
 
-A atividade envolve a subdivisão de fitas coloridas em pedaços de mesmo tamanho. 
-É recomendável que o professor desenvolva a atividade em sala de aula utilizando materiais concretos. 
-As fitas coloridas podem ser feitas com papel e cartolina, e os alunos podem recortá-las e juntar os pedaços de acordo com o que é pedido nos itens da atividade.
-Nesta etapa de familiarização inicial com as operações com frações, a manipulação concreta é importante para a construção de significado.
-
-O item a) visa ao reconhecimento pelo aluno das frações envolvidas na situação apresentada. 
-Assim, espera-se que o aluno responda , $\frac{1}{3}$, $\frac{1}{2}$ e $\frac{1}{4}$.
-
-Em seguida, é apresentada uma situação simples em que uma subdivisão comum, no caso o pedaço de fita amarelo, permite a determinação da soma:
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subdivisão dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas: **a unidade**, associada ao número 1, com base na qual são contadas quantidades inteiras; **subdivisões da unidade em partes iguais** (no caso, os pedaços coloridos das fitas), cuja contagem permite medir quantidades menores que a unidade.
+  * A atividade envolve a subdivisão de fitas coloridas em pedaços de mesmo tamanho. É recomendável que o professor desenvolva a atividade em sala de aula utilizando materiais concretos. As fitas coloridas podem ser feitas com papel e cartolina, e os alunos podem recortá-las e juntar os pedaços de acordo com o que é pedido nos itens da atividade. Nesta etapa de familiarização inicial com as operações com frações, a manipulação concreta é importante para a construção de significado.
+  * O item a) visa ao reconhecimento pelo aluno das frações envolvidas na situação apresentada. Assim, espera-se que o aluno responda , $\frac{1}{3}$, $\frac{1}{2}$ e $\frac{1}{4}$.
+  * Em seguida, é apresentada uma situação simples em que uma subdivisão comum, no caso o pedaço de fita amarelo, permite a determinação da soma:
 $$ \frac{1}{2} + \frac{2}{4} = \frac{1}{2} + \frac{1}{2} = 1.$$
-
-O item b), embora seja bem parecido com o exemplo dado, demanda que o estudante determine uma subdivisão diferente da usada no item anterior. Nesse caso o estudante deve observar que é necessário utilizar a subdivisão $\frac{1}{4}$ para medir essas partes que foram juntadas.
+  * O item b), embora seja bem parecido com o exemplo dado, demanda que o estudante determine uma subdivisão diferente da usada no item anterior. Nesse caso o estudante deve observar que é necessário utilizar a subdivisão $\frac{1}{4}$ para medir essas partes que foram juntadas.
 </WRAP>
 </hidden>
 
