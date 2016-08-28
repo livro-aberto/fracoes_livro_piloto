@@ -18,3 +18,5 @@
 
 [[cap5:navega|Lição 5 - Adição e subtração de frações]]
   * [[https://www.umlivroaberto.com/livro/doku.php?id=cap5:texto|html]] - [[https://www.umlivroaberto.com/pdf/cap5_aluno.pdf|pdf do aluno]] - [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf do professor]] - [[https://github.com/UmLivroAberto/livro/blob/master/pages/cap5/texto.txt|GitHub]].
+
+{{::cap6_folhas_para_reproducao.pdf||Folhas para reprodução}}
