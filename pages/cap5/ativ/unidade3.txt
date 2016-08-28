@@ -29,12 +29,7 @@ $$\frac{3}{4} - \frac{2}{3} = \frac{9}{12} - \frac{8}{12} = \frac{1}{12}$$
 
 É importante que o professor apresente o registro das operações em notação de fração, com o objetivo de articular esse registro com as estratégias geométricas, baseadas na contagem direta das subdivisões comuns.
 
-<WRAP nota> Página para reprodução
-<WRAP imagem> Figura Geométrica 
-
-{{:cap5:ativ:vw4.png?200|}}
-</WRAP>
-</WRAP>
+Esta atividade possui {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}.
 </WRAP>
 </hidden>
 
