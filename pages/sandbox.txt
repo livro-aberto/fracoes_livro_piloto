@@ -5,6 +5,8 @@
     - Amarildo Beto e Carlos receberam juntos? $\fbox{4}$!!
 
 
+{{:wiki:wikimedia-logo.svg|}}
+
 <WRAP professor>
  Conte que $2 + 2 = 4$.
 </WRAP>
