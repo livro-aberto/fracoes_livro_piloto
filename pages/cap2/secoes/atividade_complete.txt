@@ -22,6 +22,8 @@ Classificações
 </WRAP>
 </hidden>
 
+Em cada linha na tabela a seguir, a coluna da esquerda indica uma fração da unidade e a coluna do meio apresenta uma figura que corresponde a esta fração da unidade. Você deve desenhar, na coluna da direita, uma unidade. 
+
 |  Fração da unidade  |  Figura correspondente à fração da unidade  |  Desenhe aqui uma unidade  |
 |  $\frac{1}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
 |  $\frac{4}{2}$  |  {{cap2:secoes:complete-retangulo.png?50}}  | |
