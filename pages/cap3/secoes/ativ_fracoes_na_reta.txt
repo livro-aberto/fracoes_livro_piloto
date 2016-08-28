@@ -21,10 +21,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 Na reta numérica já estão marcados o 0, o 1 e a fração $\frac{1}{2}$. Marque $\frac{3}{2}$, $\frac{3}{4}$, $\frac{5}{4}$, $\frac{8}{4}$, $\frac{10}{4}$, $\frac{1}{8}$, $\frac{7}{8}$, $\frac{10}{8}$ e 2.
-<WRAP imagem> FIGURA GEOMÉTRICA
 
-{{ :cap3:secoes:reta.png?400 |}}
-</WRAP>
+{{ :cap3:secoes:cap3-30.png?nolink&600 |}}
 
 <hidden Resposta>
 <WRAP resposta>
