@@ -16,18 +16,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * A escolha de iniciar o assunto com um problema de divisão partitiva, no lugar do contexto parte-todo, se deve a dois motivos: (1) mantém-se a questão motivadora de equipartição iniciada na lição anterior (agora com múltiplas cópias da unidade) e (2) na divisão partitiva, frações cujo numerador é maior do que o denominador (frações impróprias) fazem sentido e aparecem naturalmente, algo que pode não ocorrer no contexto parte-todo (não parece natural nomear uma parte "maior" do que o todo).  
   * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira. 
   * É possível que os alunos utilizem expressões variadas para nomear as partes dos chocolates em cada divisão e para a quantidade de chocolate que cada irmão recebeu. Por exemplo, "dois dos seis pedaços", "dois pedaços de um terço de chocolate", dentre outras. É importante que a discussão conduza os alunos ao uso de terços: "dois terços", "quatro terços", "seis terços", etc. Observa-se que o uso de "sextos" para nomear as partes não é esperada para as perguntas que envolvem fração "de uma barra" e muito povravelmente indicam uma confusão do aluno em relação ao reconhecimento da unidade. Verifique. 
-  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas das barras de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas das barras de chocolate para dividir e poder avaliar e decidir as suas respostas. Faça cópias das páginas para reprodução ({{::cap6_folhas_para_reproducao.pdf||Folhas para reprodução}}).
 
 Classificações:
   * Heid et al.: Conceito: identificar e descrever
   * Nicely, Jr.: Nível 1: reconhecer
   * UERJ: Observar: identificar e reconhecer
-
-<WRAP imagem> FIGURA GEOMÉTRICA - As figuras desta lição são todas geométricas. Devem conter as chaves e o texto logo abaixo das chaves além da seta. Observe que serão três figuras (uma para a página de reprodução, uma da barra inteira e a outra com a divisão proposta contendo seta, chaves e texto)
-<WRAP nota> FOLHA DE REPRODUÇÃO
-Figura das barras de chocolate com as que estão no texto da atividade.
-</WRAP>
-</WRAP>
 </WRAP>
 </hidden>
 
