@@ -5,12 +5,18 @@ Ir para [[cap5:texto#unidade2]]
 <hidden Para o professor>
 
 <WRAP professor>
-Esta atividade apresenta explicitamente aos alunos a determinação de um denominador comum com base na ideia de subdivisão da unidade. 
-Essa subdivisão já é dada, e sua determinação não é pedida ao aluno, o que voltará a ser objetivo das próximas atividades.
-  - Este item visa à identificação geométrica de subdivisão da unidade que será empregada para efetuar as operações. Espera-se  $\frac{1}{16}$ como resposta.
-  - Este item permite resgatar atividades sobre frações equivalentes, como aquelas realizadas na lição 4. Observe que aqui há uma recontagem das frações a partir da subdivisão "pedaço de chocolate". Aqui a fração equivalente indica a recontagem da fração  $\frac{1}{2}$ a partir da  subdivisão $\frac{1}{16}$.
-  - Neste item, trabalha-se com a interpretação de adição como "juntar". Aqui pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identificá-los como  $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subdivisão comum:  $\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} =\frac{11}{16}$.
-  - Este item pode ser encaminhado de forma análoga ao anterior. Especificamente aqui pode se retomar a ideia de que $1 = \frac{n}{n}$, discutida na lição anterior, daí apresentar $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
+Objetivos específicos: Levar o aluno a
+  * entender o processo de determinação de um denominador comum entre duas frações com base na ideia de subdivisão da unidade da qual ambas sejam múltiplas inteiras, obtida a partir de um processo geométrico;
+  * determinar a soma e a diferença de duas frações a partir dessa subdivisão da unidade.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  *  Diferentemente da atividade anterior, nesta atividade a subdivisão da unidade já é dada, e sua determinação não é pedida ao aluno, o que voltará a ser objetivo das próximas atividades.
+  *  O item a) visa especificamente à identificação geométrica de subdivisão da unidade que será empregada para efetuar as operações. Espera-se $\frac{1}{16}$ como resposta.
+  * No item b), procurar resgate das atividades sobre frações equivalentes realizadas na lição 4. Observe que aqui há um processo de recontagem a partir da subdivisão “pedaço de chocolate”. Aqui a fração equivalente indica a recontagem da fração $\frac{1}{2}$ a partir da subdivisão $\frac{1}{16}$.
+  * No item c), procure destacar a interpretação de adição como “juntar”. Pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identifica-los como $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subdivisão comum:
+$$\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}.$$
+  * O item d) deve ser encaminhado de forma análoga ao anterior. Especificamente, deve-se retomar a ideia de que $1 = \frac{n}{n}$, discutida na lição anterior, daí apresentar $$1 - \frac{11}{16} =  \frac{16}{16} - \frac{11}{16} = \frac{5}{16}.$$ 
+
 </WRAP>
 </hidden>
 
