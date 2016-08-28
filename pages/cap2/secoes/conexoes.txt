@@ -41,7 +41,7 @@ Já o número que aparece "acima" do traço de fração informa quantos terços 
 Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\\
 Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
 Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. \\
-Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome que identifica a fração do tipo** $\frac{1}{b}$, nessa ordem. Veja:
+Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome que identifica a fração do tipo** $\frac{1}{d}$, nessa ordem. Veja:
 
 $$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
 $$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
