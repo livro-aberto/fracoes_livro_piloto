@@ -22,10 +22,7 @@ Três amigos foram a uma pizzaria e cada um pediu uma pizza média, de três sab
   - Dos três amigos, quem comeu mais pizza? Explique.
   - Marque na reta numérica a seguir as frações correspondentes às porções de pizza que cada amigo comeu, e confirme na reta numérica sua resposta em c.
 
-<WRAP imagem> FIGURA GEOMÉTRICA
-
-Desenhar uma reta numérica onde estão marcados o 0 e o 1. O tamanho pode ser 12 cm, com 0 e 1 próximos às extremidades.
-</WRAP>
+{{ :cap3:secoes:cap3-16.png?nolink&450 |}}
 
 <hidden Resposta>
 <WRAP resposta>
