@@ -20,11 +20,10 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida como uma fração da figura, ligue CADA figura ao número, sobre a reta numérica, correspondente à região colorida da mesma.
-<WRAP imagem> FIGURA GEOMÉTRICA - Em cada par ou trio, as figuras devem ser congruentes entre si: . Podem ser usadas cores diferentes em cada par ou trio. Também há figuras geométricas na Resposta.
-{{ :cap3:secoes:retasgrad1.jpg?400 |}} 
-{{ :cap3:secoes:retasgrad2.jpg?400 |}}
-</WRAP>
 
+{{ :cap3:secoes:cap3-3.png?nolink&500 |}}
+
+{{ :cap3:secoes:cap3-4.png?nolink&500 |}}
 
 <hidden Resposta>
 <WRAP Resposta> 
