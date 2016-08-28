@@ -8,14 +8,14 @@ Como na atividade anterior, é explorada aqui a noção de fração como parte d
 </WRAP>
 </hidden>
 
-Há três garradas de água com o mesmo tamanho. Na primeira garrafa, a água ocupa dois terços de sua capacidade. Na segunda garrafa, a água ocupa metade de sua capacidade. Na terceira garrafa, a água ocupa cinco oitavos de sua capacidade. 
+Há três recipientes cilíndricos, de mesmo tamanho, contendo água. No primeiro recipiente, a água ocupa dois terços de sua capacidade. No segundo, a água ocupa metade de sua capacidade. No terceiro, a água ocupa cinco oitavos de sua capacidade.  
 <WRAP imagem>
 figura artística
 
 {{ :cap5:ativ:garrafas.png?400 |}}
 </WRAP>
 
-É possível juntar a água de todos os recipientes em somente duas dessas garrafas?
+É possível redistribuir a água de todos os recipientes em somente dois deles?
 <hidden Resposta>
 <WRAP resposta>
 Somando a quantidade de água presente nas três garrafas temos: $\frac{2}{3}+\frac{1}{2}+\frac{5}{8} = \frac{16}{24}+\frac{12}{24}+\frac{15}{24} = \frac{43}{24}$. Concluímos que é possível, pois $\frac{43}{24}<\frac{48}{24}=2$.  
