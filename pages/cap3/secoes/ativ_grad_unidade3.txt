@@ -12,12 +12,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que esta atividade seja realizada em duplas ou em trios. No entanto, a discussão das resposta deve ser feita com toda a turma.
   * Cada aluno deve receber o material para o desenvolvimento da atividade, que consiste em uma folha para reprodução em que há 10 retângulos congruentes, cada um com uma cor e indicando uma equipartição diferente da unidade, como ilustrado a seguir. As faixas estão subdivididas em : 2, 3, 4, 5, 6, 7, 8, 9, 10 e 16 partes iguais. 
 
-<WRAP imagem>
-INCLUIR AQUI UMA IMAGEM REDUZIDA DA PÁGINA DE REPRODUÇÃO
-</WRAP>
 
-  * Para o desenvolvimento da atividade, recomenda-se que os alunos cortem e manuseiem o material a ser reproduzido (**Inserir LINK de página para reprodução**). É importante que reconheçam que todas as faixas coloridas são iguais (congruentes), o que pode ser feito pela sobreposição. O retângulo representa a unidade. Além disso, é importante que percebam que cada uma das faixas (ou a unidade) tem uma equipartição indicada, representando frações unitárias diferentes. Por exemplo, cada parte da faixa amarela representa $\frac{1}{5}$ da unidade.
-  * No item (b), observe que na imagem da reta numerada, apesar das marcações, não estão escritos os números 0 e 1. Oriente seus alunos a fazer essa identificação e a relacioná-la com a unidade considerada, o retângulo.
+  * Para o desenvolvimento da atividade, recomenda-se que os alunos cortem e manuseiem o material a ser reproduzido ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}). É importante que reconheçam que todas as faixas coloridas são iguais (congruentes), o que pode ser feito pela sobreposição. O retângulo representa a unidade. Além disso, é importante que percebam que cada uma das faixas (ou a unidade) tem uma equipartição indicada, representando frações unitárias diferentes. Por exemplo, cada parte da faixa amarela representa $\frac{1}{5}$ da unidade.
+  * No item b), observe que na imagem da reta numerada, apesar das marcações, não estão escritos os números 0 e 1. Oriente seus alunos a fazer essa identificação e a relacioná-la com a unidade considerada, o retângulo.
   * Algumas das frações indicadas para serem representadas na reta numérica são maiores que uma unidade. Nesses casos, oriente seus alunos a fazer a justaposição das partes dos retângulos correspndentes. Por exemplo, para representar $\frac{12}{7}$ será necessário justapor um retângulo a cinco partes do retângulo laranja.
 
 
