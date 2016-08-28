@@ -18,7 +18,7 @@ A família de Miguel reservou um determinado espaço retangular para fazer um ca
   - Quem precisa de mais espaço, seu pai ou sua mãe? 
   - O espaço reservado inicialmente para o canteiro é suficiente para comportar os espaços de que o pai e a mãe de Miguel precisam? 
   - Caso o espaço seja suficiente, que fração do mesmo ficaria sem uso? 
-  - Caso o espaço não seja suficiente, que fração do canteiro reservado inicialmente deverá ser acrescentada para que a família consegua fazer as plantações que deseja? 
+  - Caso o espaço não seja suficiente, que fração do canteiro reservado inicialmente deverá ser acrescentada para que a família consiga fazer as plantações que deseja? 
 
 Faça um desenho que ajude a explicar as suas respostas para as questões de Miguel. Não deixe de indicar a subdivisão da unidade que você empregou.
 <hidden Resposta>
