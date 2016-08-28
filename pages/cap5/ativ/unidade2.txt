@@ -14,20 +14,20 @@ Essa subdivisão já é dada, e sua determinação não é pedida ao aluno, o qu
 </WRAP>
 </hidden>
 
-Uma barra de chocolate é vendida em 16 pedaços.
+Uma barra de chocolate é vendida com as marcações mostradas na figura abaixo.
 <WRAP imagem> figura artística
 {{ :cap5:ativ:chocolate_16_pedacos.png?300 |}}
 </WRAP>
-Alice comeu a metade dessa barra de chocolate (em bege), e Miguel comeu 3 dos pedaços (em azul).
+Alice comeu a metade dessa barra de chocolate (em bege), quebrou o restante da barra em pedaços, seguindo as marcações e comeu 3 desses pedaços (em azul).
 <WRAP imagem> figura geométrica
 {{ :cap5:ativ:chocolate_geometrico.png?300 |}}
 </WRAP>
 Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são: $\frac{1}{2}$ por Alice e $\frac{3}{16}$ por Miguel.
-O pedaço da barra é uma subdivisão dessa unidade.
-Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir dessa subdivisão de um pedaço. Por exemplo, Alice comeu 8 pedaços e Miguel comeu 3 pedaços.
+Os pedaços da barra (quebrados por Miguel de acordo com as marcações na barra) correspondem a uma subdivisão dessa unidade.
+Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir dessa subdivisão: Miguel comeu 3 pedaços e a quantidade comida por Alice corresponde a 8 pedaços.
   - Um pedaço corresponde a que fração da barra de chocolate?
   - Complete a parte em branco (numerador) para indicar a fração da barra de chocolate que Alice comeu. $$\frac{1}{2} = \frac{ }{16}$$ 
-  - Que fração da barra de chocolate foi comida por Alice e Miguel, juntos?
+  - Que fração da barra de chocolate foi comida por Alice e por Miguel, juntos?
   - Que fração da barra de chocolate não foi comida?
 
 <hidden Resposta>
