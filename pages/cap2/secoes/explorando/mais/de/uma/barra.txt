@@ -34,7 +34,7 @@ Figura das barras de chocolate com as que estão no texto da atividade.
 O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
 
 
-{{:cap2:secoes:explorando:mais:de:uma:uma_barra.png?nolink&200|}}{{:cap2:secoes:explorando:mais:de:uma:uma_barra.png?nolink&200|}}
+{{ :cap2:secoes:explorando:mais:de:uma:uma_barra.png?nolink&200 |}}{{ :cap2:secoes:explorando:mais:de:uma:uma_barra.png?nolink&200 |}}
 
 Ana propôs que cada barra fosse dividida em três partes iguais e que cada irmã ficasse com duas dessas partes.
 {{ :cap2:secoes:explorando:mais:de:uma:mais_de_uma_barra.png?nolink&480 |}}
