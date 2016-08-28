@@ -27,7 +27,7 @@ Tendo como unidade um mesmo retângulo, as representações das frações $\frac
 
   - Determine uma subdivisão da unidade que permita expressar essas quantidades por frações com um mesmo denominador. Represente, usando essas figuras, essa subdivisão.
   - Escreva frações iguais a $\frac{3}{5}$ e a $\frac{7}{10}$ a partir dessa subdivisão.
-  - Existe alguma outra subdivisão, diferente da que você usou para responder os itens (a) e (b), com a qual também seja possível responder ao item (b)? Se sim, qual? 
+  - Existe alguma outra subdivisão, diferente da que você usou para responder os itens a) e b), com a qual também seja possível responder ao item b)? Se sim, qual? 
   - Juntas, as regiões destacadas em vermelho e em bege determinam um região total maior, menor ou igual a um retângulo? Explique
 
 <hidden Resposta>
