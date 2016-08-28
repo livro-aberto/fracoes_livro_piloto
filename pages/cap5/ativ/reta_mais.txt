@@ -8,7 +8,6 @@ Objetivos específicos: Levar o aluno a
   * relacionar a adição de frações com a sua representação como pontos na reta.
 
 Recomendações e sugestões para o desenvolvimento da atividade:
-  * Em etapas escolares futuras, a associação entre essas duas formas de representação será fundamental para a consolidação do conceito de número racional.
   * Esta atividade, assim como as duas que se seguem (10 e 11),   usam a ideia de que $1 = \frac{n}{n}$, ou de forma mais geral, de que, se $a$ é um número natural, então $a = \frac{an}{n}$, para $n$ diferente de 0.  
    * Essas atividades envolvem os chamados “números mistos” (números expressos por uma parte inteira e uma parte fracionária). No entanto, **não há necessidade de apresentar essa nomenclatura aos alunos**.
   * A representação da reta na posição vertical foi emprega com o objetivo de destacar o fato de que os aspectos determinantes nesta forma de representação são a ordenação e a distância entre os pontos. A apresentação da reta numérica apenas na posição horizontal pode causar uma impressão de que apenas tal posição é aceitável.
