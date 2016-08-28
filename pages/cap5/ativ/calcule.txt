@@ -7,8 +7,8 @@ Ir para [[cap5:texto#calcule]]
 As operações com frações propostas nesta atividade também devem ser conduzidas com a mesma abordagem da atividade 4.
 </WRAP>
 </hidden>
-Determine as soluções das contas a seguir.
-| a. $\frac{1}{3} - \frac{2}{9}$  |  b. $\frac{3}{10} + \frac{4}{5}$  |  c. $ 1 - \frac{3}{7}$  |
+Faça as contas a seguir. Represente cada umas das subdivisões usadas para fazer as contas por meio de um desenho.
+| a. $\frac{1}{3} - \frac{2}{9}$  |  b. $\frac{3}{10} + \frac{4}{5}$  |  c. $1 - \frac{3}{7}$  |
 
 <hidden Resposta>
 <WRAP resposta>
