@@ -19,13 +19,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
   * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes das tortas em cada divisão e para as quantidades de torta que cada irmão recebe. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É importante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
   * Espera-se que, no final da atividade, o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso da terminologia de frações que se quer estabelecer nesta lição.
-  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir suas respostas. Faça cópias das páginas para reprodução (**Inserir LINK de página para reprodução**).
+  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir suas respostas. Faça cópias das ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}).
   * Nos Itens c) e d), não basta uma resposta "Sim" ou "Não". É importante estimular os seus alunos a darem uma justificativa. 
 
-<WRAP imagem> FIGURA GEOMÉTRICA - 
-<WRAP nota> FOLHA PARA REPRODUÇÃO: Página com a imagem das três tortas, exatamente como no corpo do texto.
-</WRAP>
-</WRAP>
 
 Classificações
   * Heid et al.: Conceito: identificar, descrever
