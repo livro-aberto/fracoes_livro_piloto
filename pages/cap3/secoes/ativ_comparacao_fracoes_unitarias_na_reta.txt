@@ -19,38 +19,12 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 
 Associe, como no exemplo, cada uma das frações à sua representação na reta numérica.   
-/*
-^  A  ^ $\frac{1}{2}$   |   | (........)   | Imagem  |
-|  B  | $\frac{1}{3}$   |   | (....A....)  | Imagem  |
-|  C  | $\frac{1}{4}$   |   | (........)   | Imagem  |
-|  D  | $\frac{1}{5}$   |   | (........)   | Imagem  |
-|  E  | $\frac{1}{6}$   |   | (........)   | Imagem  |
-|  F  | $\frac{1}{7}$   |   | (........)   | Imagem  |
-|  G  | $\frac{1}{8}$   |   | (........)   | Imagem  |
-|  H  | $\frac{1}{9}$   |   | (........)   | Imagem  |
-|  I  | $\frac{1}{10}$  |   | (........)   | Imagem  |
-*/
-
 
 |(A) $\frac{1}{2}$ | (B) $\frac{1}{3}$ | (C) $\frac{1}{4}$ | (D) $\frac{1}{5}$ | (E) $\frac{1}{6}$ | (F) $\frac{1}{7}$ | (G) $\frac{1}{8}$ | (H) $\frac{1}{9}$ | (I) $\frac{1}{10}$ |
 
-|  (........)   | Imagem  |
-|  (....A....)  | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
-|  (........)   | Imagem  |
+{{ :cap3:secoes:cap3-31.png?nolink&500 |}}
 
-
-
-
-<WRAP IMAGEM>
-INCLUIR imagens de retas como na sequência a seguir, uma em cada linha da tabela. Os pontos em destaque correspondem às seguintes fraçoões, nesta ordem: 1/10, 1/2, 1/3, 1/9, 1/7, 1/4, 1/6, 1/5 e 1/8. DIFERENCIAR POR COR O PONTO EM DESTAQUE em cada uma das imagens. 
-{{ :cap3:secoes:unitarias_na_reta.jpg?300 |}}
-</WRAP>
+{{ :cap3:secoes:cap3-32.png?nolink&500 |}}
 
 
 <hidden Resposta>
