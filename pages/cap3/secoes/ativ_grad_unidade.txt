@@ -13,7 +13,7 @@ Objetivos específicos: Levar o aluno a
 Recomendações e sugestões para o desenvolvimento da atividade:
  
   * Deve ser desenvolvida em grupos de 2 ou 3 alunos. 
-  * Faça cópias da fita necessária para o desenvolvimento da atividade, que está disponível para reprodução (**Inserir LINK de página para reprodução**).
+  * Faça cópias da fita necessária para o desenvolvimento da atividade, que está disponível nas ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}).
   * Ao ler o enunciado, como a faixa lembra modelos contínuos tratados na abordagem inicial de frações (por exemplo, barra de chocolate ou retângulos), é natural que alguns estudantes considerem a faixa inteira como unidade. Já outros, observando a indicação da reta numérica na faixa, identifiquem o segmento unitário como unidade. O objetivo é que eles discutam essa questão e reconheçam ao final que o entendimento da unidade como a fita inteira é incompatível com as marcações pré-existentes na fita. Objetiva-se a representação das frações na reta numérica e não a identificação de partes de um modelo contínuo. 
   * Do item b) em diante a unidade já estará subentendida como sendo o segmento zero-um pois isso foi discutido no item a).
   * Recomenda-se que os alunos usem dobradura para realizar essa atividade. Instrua-os nesse sentido. Não se espera, nem se recomenda, que a atividade seja realizada a partir da medida do comprimento da faixa.
@@ -22,12 +22,6 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Observe que a marcação de $\frac{3}{4}$ pode se dar pela justaposição, a partir do $0$, de "pedaços" da fita correspondentes a $\frac{1}{4}$ da unidade ou, reconhecendo que $\frac{1}{2}$ = $\frac{2}{4}$, pela identificação do ponto médio do "pedaço" de fita de extremos $\frac{1}{2}$ e $1$.    
   * A discussão sobre esta atividade deve levar os alunos a refletirem sobre a marcação do $\frac{4}{4}$ e a sua coincidência com a marcação da unidade, ou seja, do 1, reconhecendo que $\frac{4}{4}=1$. 
   * Na discussão sobre o item b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
-
-<WRAP nota>
-<WRAP imagem>
-A página para reprodução deve conter 9 fitas de comprimento igual à largura da página e altura igual à 3 cm. Semelhante à {{ :cap3:secoes:fita_1_rodrigo.jpg?300 |}}. É importante que estejam identificadas as marcas correspondentes ao 0 e ao 1, de modo que a marca do zero esteja na extremidade esquerda e a marca do 1 esteja a 4/5 da faixa distante do zero, assim vai sobrar 1/5 da faixa após a marca do 1.
-</WRAP>
-</WRAP>
 
 </WRAP>
 </hidden>
