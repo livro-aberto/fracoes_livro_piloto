@@ -11,15 +11,10 @@ Objetivos específicos: Levar o aluno a
   
 Recomendações e sugestões para o desenvolvimento da atividade:
   - Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
-  - Para amparar a reflexão dos alunos, recomenda-se que sejam feitas cópias das páginas para reprodução (INCLUIR LINK PARA AS PÁGINAS DE REPRODUÇÃO.
+  - Para amparar a reflexão dos alunos, recomenda-se que sejam feitas cópias das {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}.
   - Não se recomenda que a nomenclatura "frações equivalentes" seja introduzida em sala de aula. Por exemplo, pode-se falar apenas que as frações 1/2 e 2/4 representam a mesma quantidade, e por isso têm a mesma representação na reta numérica.
   - Esta atividade pode desencadear uma discussão com os alunos que os leve a perceberem que se multiplicamos (dividimos) numerador e denominador de uma fração pelo mesmo número então é gerada uma fração equivalente à fração original.
 
-<WRAP nota> FOLHA DE REPRODUÇÃO
-<WRAP imagem>
-{{ :cap3:secoes:torta-tercos-um-doze-avos.jpg?300 |}}
-</WRAP>
-</WRAP>
 
 </WRAP>
 </hidden>
