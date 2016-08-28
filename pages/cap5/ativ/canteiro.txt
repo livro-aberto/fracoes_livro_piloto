@@ -4,7 +4,14 @@ Ir para [[cap5:texto#canteiro]]
 
 <hidden Para o professor>
 <WRAP professor>
-Esta atividade retoma a noção de fração como parte de um todo em situações concretas. Além disso, envolvem as interpretações de adição como juntar e como comparar.
+
+Objetivos específicos: Levar o aluno a
+  * comparar, somar e subtrair frações a partir da determinação de um denominador comum com base no processo geométrica de subdivisão da unidade;
+  * explorar as interpretações de juntar para a adição e de comparar para a subtração.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta atividade retoma a noção de fração como parte de uma unidade em situações concretas, como nas atividades 2 a 6. Como naquelas atividades, a representação geométrica das frações deve servir como base para a determinação do denominador comum e para a realização da comparação e das operações de adição e de subtração. O próprio desenho do canteiro pode servir como representação geométrica para a determinação do denominador comum.
+
 </WRAP>
 </hidden>
 A família de Miguel reservou um determinado espaço retangular para fazer um canteiro em seu quintal. A família quer que o cateiro tenha rosas e verduras frescas. O pai de Miguel disse que precisa de $\frac{2}{3}$ do espaço inicialmente reservado, para cultivar rosas. A mãe disse que necessita de $\frac{1}{2}$ desse espaço, para plantar as verduras. Quando Miguel ouviu o diálogo dos pais, pensou nas seguintes questões:
