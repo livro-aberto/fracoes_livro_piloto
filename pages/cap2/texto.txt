@@ -1,4 +1,4 @@
-====== LIÇÃO 2 - Multiplicando a fração da unidade ======
+====== LIÇÃO 2 - Juntando frações da unidade ======
 
 {{anchor:preambulo}}
 {{page>cap2:secoes:preambulo}}
