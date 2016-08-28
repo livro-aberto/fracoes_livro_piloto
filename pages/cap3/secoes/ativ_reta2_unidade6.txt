@@ -16,7 +16,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   - Esta atividade pode desencadear uma discussão com os alunos que os leve a perceberem que se multiplicamos (dividimos) numerador e denominador de uma fração pelo mesmo número então é gerada uma fração equivalente à fração original.
 
 <WRAP nota> FOLHA DE REPRODUÇÃO
-Discos ....
+<WRAP imagem>
+{{ :cap3:secoes:torta-tercos-um-doze-avos.jpg?300 |}}
+</WRAP>
 </WRAP>
 
 </WRAP>
@@ -38,7 +40,7 @@ Figura ilustrando os três amigos, Rita, João e Mário e o pensamento de Mário
 A mãe de Rita começou a cortar o bolo, partindo-o, como Mário havia imaginado, em 3 partes. No entanto, antes que começassem a comer, chegaram mais 4 colegas da escola. Então a mãe de Rita dividiu cada um dos 3 pedaços iniciais em 4 partes de igual tamanho 
 
 <WRAP imagem> FIGURA ARTÍSTICA
-Figuras do bolo inicialmente partido em terços e, depois, subdividido em 12 partes (mas ainda evidenciadas as tr~es partes originais). 
+Figuras do bolo inicialmente partido em terços e, depois, subdividido em 12 partes (mas ainda evidenciadas as três partes originais). 
 </WRAP>
 
 Na hora do lanche, João comeu 2 pedaços do bolo e Mário comeu 4.
