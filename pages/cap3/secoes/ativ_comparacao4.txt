@@ -23,18 +23,11 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Na figura, há várias retas paralelas igualmente espaçadas e outra reta, destacada em vermelho, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em vermelho pontos também igualmente espaçados. Dois desses pontos correspondem ao 0 e ao 1. A reta vermelha torna-se uma reta numérica, como ilustra a figura. 
 
   - Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
-  - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.\\ <WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em vermelho. Devem estar destacados nessa reta, além do 0 e do 1, 9 pontos, como ilustra a figura. Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta. Ver orientações. \\ {{ :cap3:secoes:parelas.jpg?300 |}} </WRAP>\\ \\ Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
+  - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.\\ {{ :cap3:secoes:cap3-17.png?nolink&400 |}}\\ \\ Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
   - Marque, usando os pontos destacados na reta numérica, os pontos correspondentes ao 0 e ao 1
   - Marque, nesta mesma reta numérica, as frações $\frac{3}{4}$ e $\frac{5}{4}$.
 
-<WRAP Imagem> FIGURA GEOMÉTRICA -  A linha transversal ao feixe de paralelas (igualmente espaçadas) deve estar colorida em azul. Devem estar destacados nessa reta, além das frações $\frac{1}{2}$ e $\frac{3}{2}$, outros 8 pontos, como ilustra a figura.
-
-Uma segunda imagem, semelhante a esta, precisa ser inserida no espaço de resposta. Ver orientações.
-
-{{ :cap3:secoes:reta_meios.jpg?300 |}}
-
-</WRAP>
-
+{{ :cap3:secoes:cap3-18.png?nolink&400 |}}
 
 <hidden Resposta>
 <WRAP Resposta>
