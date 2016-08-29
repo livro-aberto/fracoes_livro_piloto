@@ -16,15 +16,13 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 Observando a reta, Miguel conseguiu determinar o tamanho do segmento entre os dois pontos $A = 3$ e $B = 7$ marcados da seguinte forma:
-<WRAP imagem> figura geométrica
-{{ :cap5:ativ:reta_horizontal2.png?500 |}}
-</WRAP>
+
+{{ :cap5:ativ:cap5-9.png?500 |}}
 
 Miguel calculou o tamanho do segmento azul fazendo a diferença entre o tamanho do segmento vermelho e o tamanho do segmento verde. Assim, concluiu que o tamanho do segmento AB é igual a 4.
 Usando um raciocínio parecido, e considerando $C = \frac{5}{4}$ e $D=\frac{11}{6}$, ajude Miguel a realizar as tarefas a seguir.
-<WRAP imagem> figura geométrica
-{{ :cap5:ativ:reta_horizontal3.png?500 |}}
-</WRAP>
+
+{{ :cap5:ativ:cap5-10.png?500 |}}
 
   - Escreva C e D a partir de uma mesma subdivisão da unidade (isto é, com o mesmo denominador).
   - Determine seis frações que correspondam a pontos entre C e D. \\ Discuta com seus colegas se é possível determinar mais que seis valores e, se for possível, qual seria a estratégia para fazer isso.
