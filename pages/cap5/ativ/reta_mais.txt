@@ -15,14 +15,14 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </WRAP>
 </hidden>
 
-{{ :cap5:ativ:reta_vertical1.png?100|}}
+
 Miguel deseja calcular a soma $2 + \frac{1}{3}$. Para isso, marcou na reta numérica ponto determinado pela justaposição do segmento correspondente a $2$ unidades com um segmento igual a $\frac{1}{3}$ da unidade, como na figura abaixo. 
 
 Miguel relacionou essa estratégia com o seguinte cálculo: 
 $$ 2 + \frac{1}{3} =  \frac{6}{3} + \frac{1}{3} = \frac{7}{3}$$
-{{ :cap5:ativ:reta_vertical2.png?300 |}}
+{{ :cap5:ativ:cap5-7.png?450 |}}
 
-    - Em cada item a seguir, a partir da imagem repita o procedimento feito por Miguel e realize os cálculos. \\ {{:cap5:ativ:reta_verticala.png?100|}} {{:cap5:ativ:reta_verticalb.png?100|}}{{:cap5:ativ:reta_verticalc.png?100|}}
+    - Em cada item a seguir, a partir da imagem repita o procedimento feito por Miguel e realize os cálculos. \\ {{ :cap5:ativ:cap5-8.png?500 |}}
     - Que valor é obtido se juntarmos 7 inteiros com dois terços?
 
 <hidden Resposta>
