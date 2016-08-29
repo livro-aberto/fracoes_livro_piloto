@@ -47,10 +47,7 @@ $$ 1 - \dfrac{5}{6}=\dfrac{6}{6} - \dfrac{5}{6} = \dfrac{1}{6}.$$
 
 Aqui retomamos a Atividade 2, na qual a professora Estela comprou e dividiu fitas de mesmo tamanho: a vermelha em três pedaços; a azul em dois pedaços e a amarela em quatro pedaços. 
 
-<WRAP imagem> FIGURA GEOMÉTRICA (mesma da atividade 2)
-
-{{:cap5:ativ:vw9.png?300|}}
-</WRAP>
+{{ :cap5:ativ:cap5-2.png?400 }}
 
   - Agora, a professora Estela juntou um pedaço da fita vermelha com um pedaço da fita azul. Essa nova fita formada tem tamanho maior ou menor ou igual ao tamanho orignal das fitas? A que fração de uma fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos de uma fita original e da fita vermelha e azul?
   - A professora formou então mais uma fita colorida, agora juntando (de forma intercalada) dois pedaços vermelhos e três pedaços amarelos. Essa nova fita vermelha e amarela é maior ou menor do que uma fita original? A que fração de uma fita original corresponde a nova fita vermelha e azul? Qual é a diferença entre os tamanhos da fita original e da fita vermelha e amarela?
