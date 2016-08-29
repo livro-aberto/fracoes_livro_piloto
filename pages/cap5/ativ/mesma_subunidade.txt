@@ -20,10 +20,8 @@ $$\frac{24}{40} \,{\rm e} \, \frac{28}{40}$$
 </hidden>
 
 Tendo como unidade um mesmo retângulo, as representações das frações $\frac{3}{5}$ e $\frac{7}{10}$ estão ilustradas nas figuras a seguir. 
-<WRAP imagem> figura geométrica
-{{:cap5:ativ:retanguloa.png?300}} 
 
-</WRAP>
+{{ :cap5:ativ:cap5-6.png?500 }} 
 
   - Determine uma subdivisão da unidade que permita expressar essas quantidades por frações com um mesmo denominador. Represente, usando essas figuras, essa subdivisão.
   - Escreva frações iguais a $\frac{3}{5}$ e a $\frac{7}{10}$ a partir dessa subdivisão.
