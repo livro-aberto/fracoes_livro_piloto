@@ -32,12 +32,8 @@ Esta atividade possui {{::cap6_folhas_para_reproducao.pdf|páginas para reprodu�
 </hidden>
 
 Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **12 fatias** iguais. Amanda comeu $\frac{1}{6}$ de uma pizza, Bruno comeu $\frac{3}{4}$ de outra, e Caio comeu $\frac{2}{3}$ da pizza que pediu.
-<WRAP imagem> figura geométrica
 
-| {{ :cap5:ativ:vw1.png?200 |   }}   |  {{ :cap5:ativ:vw2.png?200 |   }}     |   {{ :cap5:ativ:vw3.png?200 |   }}       |
-| Fração de pizza consumida por Amanda $\frac{1}{6}$  | Fração de pizza consumida por Bruno $\frac{3}{4}$  | Fração de pizza consumida por Caio $\frac{2}{3}$  |
-
-</WRAP>
+{{ :cap5:ativ:cap5-5.png?700 |   }}
 
   - Que fração de uma pizza cada fatia representa?
   - Complete os espaços (numeradores) a seguir registrando outra representação para a fração de uma pizza que cada uma das crianças comeu.\\ Amanda: $\frac{1}{6} =\frac{}{12}  \quad \quad$ Bruno: $\frac{3}{4} =\frac{}{12} \quad \quad$ Caio: $\frac{2}{3} =\frac{}{12}$ 
