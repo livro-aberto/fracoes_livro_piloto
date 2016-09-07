@@ -29,7 +29,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Usando os Círculos de Frações, responda:
 
-{{ :cap1:secoes:ativ_circ_frac.png?nolink&400 |}}
+{{ :cap1:secoes:ativ_circ_frac.png?nolink&600 |}}
 
 
   - Qual a cor da peça que é igual a um terço do círculo preto?
