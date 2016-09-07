@@ -29,17 +29,8 @@ Associe, como no exemplo, cada uma das frações à sua representação na reta 
 
 <hidden Resposta>
 <WRAP resposta>
-<WRAP IMAGEM>
-Incluir a seguinte tabela
-^ I  ^ REPETIR IMAGENS COMO NO ENUNCIADO  ^
-| A | REPETIR IMAGENS COMO NO ENUNCIADO |
-| B | REPETIR IMAGENS COMO NO ENUNCIADO |
-| H | REPETIR IMAGENS COMO NO ENUNCIADO |
-| F | REPETIR IMAGENS COMO NO ENUNCIADO |
-| C | REPETIR IMAGENS COMO NO ENUNCIADO |
-| E | REPETIR IMAGENS COMO NO ENUNCIADO |
-| D | REPETIR IMAGENS COMO NO ENUNCIADO |
-| G | REPETIR IMAGENS COMO NO ENUNCIADO |
-</WRAP>
+
+As respostas são na ordem I, A, B, H, F, C, E, D e G.
+
 </WRAP>
 </hidden>
