@@ -40,7 +40,7 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 
 
 ^ [[cap2:texto|Lição 2]] - Prazo: 3 dias após por o nome             ^ link                                                                  ^ Autor \\ Ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status    ^
-| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link\begin{document}
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]\begin{document}
 \definecolor{ttqqqq}{rgb}{0.2,0.,0.}
 \definecolor{qqqqff}{rgb}{0.,0.,1.}
 \begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
@@ -106,7 +106,7 @@ Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas 
 \draw[color=ttqqqq] (15.38,2.66) node {$k$};
 \end{scriptsize}
 \end{tikzpicture}
-\end{document}]]             | Vinicius Marcondes de Paula Silva                                                                       | aprovado  |
+\end{document}]             | Vinicius Marcondes de Paula Silva                                                                       | aprovado  |
 | Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]         | [[figuras:cap2:secoes:explorando_papel_tortas_salgadas|link]]         | Vinicius Marcondes de Paula Silva                                                                                                        |  postado   |
 | Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]  | [[figuras:cap2:secoes:explorando_atividade_entender_linguagem|link]]  | Fabio Simas                                                                                             | aprovado  |
 | Organizando as Ideias [[cap2:secoes:conexoes]]                     | [[figuras:cap2:secoes:conexoes|link]]                                 | Fabio Simas                                                                                             | aprovado  |
