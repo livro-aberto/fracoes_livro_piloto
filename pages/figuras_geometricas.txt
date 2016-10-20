@@ -71,7 +71,7 @@ Nas tabelas abaixo, por favor, coloque seu nome em apenas uma das figuras até q
 | Atividade [[cap3:secoes:ativ_varal_dos_numeros]]        | [[figuras:cap3:secoes:ativ_varal_dos_numeros|link]]        |                                                                                                                         |           |
 | Atividade [[cap3:secoes:ativ_fracoes_na_reta]]          | [[figuras:cap3:secoes:ativ_fracoes_na_reta|link]]          | Maurício Menegatti Andrade                                                                                              | postado   |
 | Atividade [[cap3:secoes:ativ_reta_numerada]]            | [[figuras:cap3:secoes:ativ_reta_numerada|link]]            | Maurício Menegatti Andrade                                                                                              | postado   |
-| Atividade [[cap3:secoes:ativ_grad_unidade4]]            | [[figuras:cap3:secoes:ativ_grad_unidade4|link]]            |Vinicius Marcondes de Paula Silva                                                                                                                         |           |
+| Atividade [[cap3:secoes:ativ_grad_unidade4]]            | [[figuras:cap3:secoes:ativ_grad_unidade4|link]]            |Vinicius Marcondes de Paula Silva                                                                                                                         |postado           |
 | Atividade [[cap3:secoes:ativ_grad_unidade5]]            | [[figuras:cap3:secoes:ativ_grad_unidade5|link]]            | Maurício Menegatti Andrade                                                                                              | postado   |
 
 
