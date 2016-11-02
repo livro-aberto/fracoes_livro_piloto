@@ -26,7 +26,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP resposta>
 
 Algumas das respostas possíveis para este problema são:
-{{ :cap1:secoes:hexagonos_licao_um.jpg?400 |}}
+{{ :cap1:secoes:cap1-10.png?nolink&400 |}}
 
 </WRAP>
 </hidden>
