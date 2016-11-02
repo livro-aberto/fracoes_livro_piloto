@@ -28,6 +28,8 @@ Imagens: a mesma barra de chocolate que aparece na figura correspondente à ativ
 
 {{ :cap1:secoes:chocolate_2.jpg?200 |}}  
 
+{{ :cap1:secoes:pngs_licao_01:ativ1_fig02.png?nolink&200 |}}
+
 {{ :cap1:secoes:chocolate_3.jpg?200 |}}
 </WRAP>
 
