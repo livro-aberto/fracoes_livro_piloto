@@ -25,6 +25,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 <WRAP nota> NA PÁGINA PARA REPRODUCAO - INCLUIR a imagem das 3 pizzas repartidas: inteiras e com as respectivas partes isoladas.
 </WRAP>
 
+{{ :SVG:SVGs_licao_01:ativ1_fig_01.svg?nolink&200 |}}
+
 {{:cap1:secoes:licao1_atv2.png?500|}}
 ilustração: Cambrainha
 
