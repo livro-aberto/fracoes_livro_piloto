@@ -17,9 +17,7 @@ Nas atividades anteriores, as quantidades registradas exigiram a partição de u
 A barra de chocolate, a pizza e o pedaço de barbante foram partidos em partes iguais. 
 Em cada um dos casos, o que foi repartido é chamado **unidade**. Cada uma das partes em que essas unidades foram repartidas igualmente é uma **fração da unidade**. Assim, por exemplo, um quarto de uma pizza é uma fração da pizza e a pizza é unidade. Se a unidade for o pedaço de barbante, um quarto do pedaço de barbante será uma fração do pedaço de barbante.
 
-<WRAP imagem> - FIGURA ARTÍSTICA -
-**Imagem de uma pizza e de um pedaço de barbante, cada um dividido em 4 partes.**
-</WRAP>
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig01.png?nolink&400 |}}
 
 O nome dado à fração da unidade depende da quantidade de partes em que a unidade é dividida. 
 
@@ -27,32 +25,20 @@ Ao dividir uma unidade qualquer em duas partes iguais, ou ao meio, cada uma das 
 
 Por exemplo, se uma barra de chocolate é repartida igualmente entre dois amigos, a quantidade que caberá a cada um dos amigos é //um meio// da barra de chocolate (ou //metade// da barra). Nesse exemplo, a unidade é a barra de chocolate.
 
-<WRAP imagem> - FIGURA ARTÍSTICA - INCLUIR IMAGENS ILUSTRATIVA de metade 
-**Imagem de duas crianças a barra de chocolate em que a metade é identificada**
-</WRAP>
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig02.png?nolink&700 |}}
 
 Ao dividir uma unidade em três partes iguais, cada uma das partes é chamada de //um terço// ou //a terça parte// da unidade. 
 
 Por exemplo, se, em uma receita de bolo, é necessário acrescentar //um terço// de um litro de leite. Isso significa que, para colocar a quantidade correta de leite na receita, é preciso repartir o litro de leite em três partes iguais e usar apenas uma dessas partes, que é //um terço// do litro de leite. Nesse caso, a unidade é um litro de leite.
 
-<WRAP imagem> - FIGURA ARTÍSTICA - INCLUIR IMAGEM ILUSTRATIVA de terço 
-**Sobre uma mesa, uma garrafa cilindrica cheia de leite e três garrafas iguais ao lado, cada uma com 1/3 da capacidade prennchida.**
-
-Por exemplo: 
-{{ :cap1:secoes:litro_de_leite.jpg?100 |}}
-{{ :cap1:secoes:um_terco_de_litro_de_leite.jpg?100 |}}
-
-</WRAP>
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig03.png?nolink&600 |}}
 
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de //um quarto// ou //quarta parte// da unidade. 
 
 Por exemplo,
 A parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
 
-
-<WRAP imagem> - FIGURA ARTÍSTICA - INCLUIR IMAGEM ILUSTRATIVA de quartos
-{{ :cap1:secoes:quartos_conexoes.jpg?200 |}}
- </WRAP>
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig04.png?nolink&600 |}}
 
 Da mesma forma, ao dividir uma unidade em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// da unidade.
 
