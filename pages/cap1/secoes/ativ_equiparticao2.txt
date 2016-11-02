@@ -34,13 +34,7 @@ ilustração: Cambrainha
 
 Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de uma turma. Para isso, a turma foi dividida em três grupos com quatro crianças cada. Veja como cada grupo repartiu a sua pizza.
 
-<WRAP imagem>  - FIGURA ARTÍSTICA - A imagem deve conter 3 GRUPOS com 4 CRIANÇAS cada (Diversificar as características físicas das crianças). Cada um dos grupos deve estar observando uma pizza. Colocar duas das crianças do grupo 3 com feições "contrariadas". As pizzas devem ter mesmos tamanho e formato. As pizzas devem estar repartidas de três maneiras diferentes, como indicado nas imagens a seguir: Grupo 1, Grupo 2 e Grupo 3: 
-
-{{:cap1:secoes:licao1_atv2.png?500|}}
-
-ilustração: Cambrainha
-
-</WRAP>
+{{ :cap1:secoes:pngs_licao_01:ativ2_fig01.png?nolink&500 |}}
 
     - Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
     - Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?
