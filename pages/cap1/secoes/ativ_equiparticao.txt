@@ -29,8 +29,6 @@ Imagens: a mesma barra de chocolate que aparece na figura correspondente à ativ
 {{ :cap1:secoes:chocolate_2.jpg?200 |}}  
 
 {{ :cap1:secoes:pngs_licao_01:ativ1_fig02.png?nolink&200 |}}
-
-{{ :cap1:secoes:chocolate_3.jpg?200 |}}
 </WRAP>
 
   * Esta atividade pode ser adaptada para alunos com deficiência de visão. Para isso, sugere-se confeccionar os modelos da barra de chocolate  inteira e repartida, que estão disponíveis para reprodução ({{::cap6_folhas_para_reproducao.pdf||páginas para reprodução}}), em três materiais diferentes. Por exemplo, papel comum e papéis com texturas diferentes, tecido ou material emborrachado.  
@@ -40,7 +38,7 @@ Imagens: a mesma barra de chocolate que aparece na figura correspondente à ativ
 
 Três irmãos vão repartir uma barra de chocolate. Um deles sugere a seguinte divisão: 
 
-{{:cap1:secoes:ativ1_fig01.svg?300|}}
+{{ :cap1:secoes:pngs_licao_01:ativ1_fig01.png?nolink&400 |}}
 
   - Você concorda com essa divisão? Explique.
   - Com essa divisão, os três irmãos receberão a mesma quantidade de chocolate?
