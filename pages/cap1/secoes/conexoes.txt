@@ -38,16 +38,16 @@ Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada d
 Por exemplo,
 A parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
 
-{{ :cap1:secoes:pngs_licao_01:orgideias_fig04.png?nolink&600 |}}
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig04.png?nolink&300 |}}
 
 Da mesma forma, ao dividir uma unidade em cinco partes iguais, cada uma das partes é chamada de //um quinto// ou //quinta parte// da unidade.
 
 Por exemplo,
 //um quinto// de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a //um quinto// ou a //quinta parte// do ouro pesado nas Casas de Fundição no Brasil.
 
-<WRAP imagem> - FIGURA ARTÍSTICA - INCLUIR IMAGEM ILUSTRATIVA de quintos 
-**Um homem entregando um saco de ouro a um rei e ficando com outros 4 sacos**
-</WRAP>
+{{ :cap1:secoes:pngs_licao_01:orgideias_fig05.png?nolink&600 |}}
+
+
 
 
 
