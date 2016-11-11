@@ -69,4 +69,4 @@ Do mesmo modo o número de cima da fração numera quantas partes estão destaca
 
 Os nomes numerador e denominador são utilizados para frações quaisquer mesmo que o denominador seja diferente de 3.*/
 
-<WRAP imagem> FIGURA ARTÍSTICA - fazer imagem da fração como se estivesse escrita a mão por uma criança de 9 anos \\ {{ :cap2:secoes:numerador_denominador.jpg?700 |}} </WRAP>
+{{ :cap2:secoes:pngs_licao_02:orgideias_fig01.png?nolink&500 |}}
