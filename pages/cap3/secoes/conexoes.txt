@@ -38,19 +38,16 @@ A partir dele, por justaposições desse segmento, são identificados na reta nu
 
 A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
 
-<WRAP imagem> FIGURAS ARTÍSTICAS (2) as duas lado a lado, a reta abaixo e a igualdade abaixo da reta:
+{{:cap3:secoes:png:orgideias_fig_a.png?nolink&200|}}
+{{:cap3:secoes:png:orgideias_fig_b.png?nolink&200|}}
 
-  - UMA PIZZA PARTIDA EM 3/3, 
-  - UMA BARRA DE CHOCOLATE PARTIDA EM 3/3,
-</WRAP>
 {{ :cap3:secoes:cap3-23.png?nolink&270 |}}
 
 Já $\frac{6}{3}$ é igual a 2. 
 
-<WRAP imagem> FIGURAS ARTÍSTICAS (2) as duas lado a lado, a reta abaixo e a igualdade abaixo da reta:
-  - DUAS PIZZA PARTIDAS EM TERÇOS,
-  - DUAS BARRAS DE CHOCOLATE PARTIDAS EM TERÇOS,
-</WRAP>
+{{:cap3:secoes:png:orgideias_fig_a_2.png?nolink&200|}}
+{{:cap3:secoes:png:orgideias_fig_b_2.png?nolink&200|}}
+
 {{ :cap3:secoes:cap3-24.png?nolink&270 |}}
 
 E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
@@ -82,7 +79,5 @@ Por exemplo, a frase "oito é menor do que quinze" pode ser expressa de modo mai
 
 Do mesmo modo, o símbolo $>$ é usado para significar "maior do que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior do que oito" ou $\frac{3}{2}>\frac{1}{2}$  para expressar "três meios é maior do que um meio"
 
-<WRAP imagem> FIGURA ARTÍSTICA
-
-{{ :cap3:secoes:simbolos_maior_que_igual.jpg?500 |}} </WRAP>
-
+{{ :cap3:secoes:png:orgideias_fig05.png?nolink&600 |}}
+PRECISAMOS CORRIGIR ESSA FIGURA!
