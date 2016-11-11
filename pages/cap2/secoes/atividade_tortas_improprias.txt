@@ -40,7 +40,8 @@ Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que a
 <WRAP resposta>
   - Cada fatia é um oitavo de torta, pois cada torta está dividida em oito partes iguais.
   - Havia para a sobremesa quatro oitavos de torta.
-  - Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.\\ <WRAP imagem> FIGURA ARTÍSTICA {{ :cap2:secoes:tortas-circulares-01.png?100 |}}</WRAP>
+  - Meia torta, pois quatro fatias de torta têm exatamente a mesma quantidade de torta que meia torta.\\
+{{ :cap2:secoes:pngs_licao_02:ativ3_resposta.png?nolink&300 |}}
   - Algumas respostas possíveis: dez oitavos de torta;  uma torta inteira e dois oitavos de torta; uma torta inteira e um quarto de torta.
 </WRAP>
 </hidden>
