@@ -20,16 +20,20 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 Para cada uma das figuras a seguir, marque na reta numérica o ponto correspondente à fração da unidade destacada na imagem:
 
 
-<WRAP Imagem> Nas figuras abaixo incluir apenas imagens como as apresentadas (sem a descrição), seguidas, cada uma, de uma reta numérica como descrito:
-</WRAP>
-
-  - A unidade é uma pizza. <WRAP imagem> FIGURA ARTÍSTICA e GEOMÉTRICA \\  5/8 de uma pizza \\ {{ :cap3:secoes:cinco_oitavos_de_pizza.png?100 |}} \\ Reta 1: 0, 3/8, 5/8, 1 </WRAP>\\{{ :cap3:secoes:cap3-5.png?nolink&300 |}}
-  - A unidade é uma barra de chocolate <WRAP imagem> FIGURA ARTÍSTICA \\ 3/8 de uma barra de chocolate; \\ Incluir uma imagem de barra de chocoolate destacando oitavos, dos quais três não aparecem e \\ Reta 2: 0, 3/8, 5/8, 1 </WRAP>\\{{ :cap3:secoes:cap3-6.png?nolink&300 |}}
-  - A unidade é uma maçã. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA - importante que a visualização da maçã deixe claro que trata-se de meia maçã. \\ 1/2 de uma maçã {{ :cap3:secoes:meia_maca.jpg?100 |}} \\ Reta 3: 0, 1/4, 1/2, 3/4, 1 </WRAP>\\ {{ :cap3:secoes:cap3-7.png?nolink&300 |}}
-  - A unidade é um sanduíche de queijo com presunto. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA \\ 1/4 de um  sanduiche de queijo com presunto \\ {{ :cap3:secoes:um_quarto_sanduiche.png?200 |}} \\ Reta 4: 0, 1/4, 1/2, 3/4, 1 </WRAP>\\ {{ :cap3:secoes:cap3-8.png?nolink&300 |}}
-  - A unidade é uma torta. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA\\ Uma  torta inteira (mas fatiada) \\ {{ :cap3:secoes:bolo_fatiado.jpg?200 |}} \\ Reta 5: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP>\\ {{ :cap3:secoes:cap3-9.png?nolink&300 |}}
-  - A unidade é um biscoito. <WRAP imagem> FIGURA ARTÍSTICA  e GEOMÉTRICA \\ Dois biscoitos e meio \\ {{ :cap3:secoes:dois_biscoitos_e_meio.png?100 |}} \\ Reta 6: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP> \\ {{ :cap3:secoes:cap3-9.png?nolink&300 |}}
-  - A unidade é um copo cheio. <WRAP imagem> FIGURA ARTÍSTICA e GEOMÉTRICA\\  copo vazio \\ {{ :cap3:secoes:copo.jpg?100 |}} \\ Reta 7: 0, 1/2, 1, 3/2, 2 e 5/2 </WRAP> \\ {{ :cap3:secoes:cap3-10.png?nolink&300 |}}
+  - A unidade é uma pizza. \\
+{{ :cap3:secoes:png:ativ4_fig_a.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-5.png?nolink&300 |}}
+  - A unidade é uma barra de chocolate \\
+{{ :cap3:secoes:png:ativ4_fig_b.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-6.png?nolink&300 |}}
+  - A unidade é uma maçã. \\ 
+{{ :cap3:secoes:png:ativ4_fig_c.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-7.png?nolink&300 |}}
+  - A unidade é um sanduíche de queijo com presunto. \\
+{{ :cap3:secoes:png:ativ4_fig_d.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-8.png?nolink&300 |}}
+  - A unidade é uma torta. \\
+{{ :cap3:secoes:png:ativ4_fig_e.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-9.png?nolink&300 |}}
+  - A unidade é um biscoito. \\
+{{ :cap3:secoes:png:ativ4_fig_f.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-9.png?nolink&300 |}}
+  - A unidade é um copo cheio. \\
+{{ :cap3:secoes:png:ativ4_fig_g.png?nolink&200 |}} \\ {{ :cap3:secoes:cap3-10.png?nolink&300 |}}
 
 <hidden Resposta>
 <WRAP resposta>
