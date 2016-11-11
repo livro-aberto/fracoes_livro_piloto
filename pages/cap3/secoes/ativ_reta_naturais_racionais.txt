@@ -21,9 +21,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Relembrando a representação na reta numérica: Você já conhece a reta numérica com os números naturais destacados.
 
-  - Marque na reta numérica pontos que representem as quantidades de pizza nas imagens a seguir. \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1 pizza, 2 pizzas, 4 pizzas  </WRAP>\\ {{ :cap3:secoes:cap3-1.png?nolink&300 |}}
-  - E no caso destas imagens, que pontos na reta numérica representam as quantidades de pizza ilustradas? \\ <WRAP imagem> FIGURA ARTÍSTICA \\ Ilustrações relativas a 1/2 pizza,  1/4 pizza, 3/4 pizza, 1 e meia pizzas. OBS: No caso de 1/4 e 3/4 de pizza, as ilustrações têm que deixar clara a partição da pizza em 4, das quais 1 ou 3 partes estão destacadas \\ </WRAP>
-{{ :cap3:secoes:cap3-2.png?nolink&300 |}}
+  - Marque na reta numérica pontos que representem as quantidades de pizza nas imagens a seguir. \\
+{{ :cap3:secoes:png:ativ2_fig_a.png?nolink&600 |}} \\ {{ :cap3:secoes:cap3-1.png?nolink&300 |}}
+  - E no caso destas imagens, que pontos na reta numérica representam as quantidades de pizza ilustradas? \\ {{ :cap3:secoes:png:ativ2_fig_b.png?nolink&300 |}} \\ {{ :cap3:secoes:cap3-2.png?nolink&300 |}}
  	 
 <hidden Resposta>
 <WRAP resposta>
