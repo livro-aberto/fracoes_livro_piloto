@@ -14,10 +14,7 @@ Recomendações e sugestões para o desenvolvimento da atividade:
   * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
   * Como esta atividade envolve a ideia de capacidade, recomenda-se que, antes de realizá-la, o professor leve para a sala de aula um recipiente transparente, na forma de um paralelepípedo (como um pequeno áquario, por exemplo) ou cilíndrico  (como um copo, por exemplo), e que, a partir do recipiente inicialmente cheio, discuta com a turma o que seria necessário observar para se verificar que metade da quantidade inicial de líquido foi derramada. Espera-se que os alunos identifiquem que essa verificação está associada à altura da quantidade de líquido no recipiente, que deve ser metade da original.  
   * O formato da caixa, um paralelepípedo, determina uma escala linear de medida (o mesmo valeria para um cilindro). No entanto, se a caixa tivesse outro formato, poderia não admitir uma escala linear. Por exemplo, é o caso dos tradicionais copos de medida usados na cozinha. Com esta observação, não se está recomendando que essa discussão seja trazida para a sala de aula neste momento. 
-<WRAP imagem> Figura Artística
-Inserir imagem semelhante a esta:
-{{ :cap3:secoes:copo_medida.jpg?100 |}}
-</WRAP> 
+{{ :cap3:secoes:png:ativ4_fig_g.png?nolink&600 |}}
    * Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, à medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.
   * Espera-se que os alunos descartem as faixas (c ) e (d). No entanto, as faixas (a) e (b) e (e) encerram marcações possíveis. Discuta com os alunos as vantagens e as desvantagens das marcações apresentadas nessas faixas. A faixa (a) traz a marcação da fração $\frac{1}{2}$ associada ao segmento e não ao ponto. Embora não esteja errada, ela apresenta dois inconvenientes: (i) esta forma de marcar não deixa claro que a linha-d'água deve estar na marcação para que o tanque esteja meio cheio (ii) ela dificulta marcações intermediárias (maiores que zero e menores que $\frac{1}{2}$). A escala (e), ainda que não tenha o mesmo problema que a faixa (a), oferece uma leitura menos precisa do que a possível na graduação apresentada em (b).
 
@@ -27,24 +24,19 @@ Inserir imagem semelhante a esta:
 Os quadrinhos a seguir mostram uma caixa-d'água sendo enchida. 
 Para saber que fração da capacidade da caixa-d'água já está com água, será usada uma faixa graduada para indicar o nível de água na caixa. 
 
-<WRAP imagem>Figura Artística
-
-{{ :cap3:secoes:caixa_modelo.png?200 |}}
-A figura deve ilustrar quatro quadrinhos, cada um contendo a mesma caixa acima desenhada. A primeira com um quarto da caixa cheia, a seguinte com $\frac{1}{2}$ do nível máximo, a terceira com três quartos e, por último, a caixa-d'água cheia. Abaixo de cada quadrinho, indicar: momento 1, momento 2, momento 3 e momento 4.
-</WRAP>
+{{:cap3:secoes:png:ativ1_fig01.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig02.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig03.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig04.png?nolink&300|}}
 
 Escolha, para cada um dos momentos, a graduação que lhe parece mais adequada para registrar a quantidade de agua representada em cada uma das imagens. Explique sua escolha.
 
+{{:cap3:secoes:png:ativ1_fig05.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig06.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig07.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig08.png?nolink&300|}}
+{{:cap3:secoes:png:ativ1_fig09.png?nolink&300|}}
 
-<WRAP imagem>Figura Artística
-
-{{ :cap3:secoes:caixa_graduada_modelo.png?200 |}}
-Apresentar a imagem da caixa-d'água acima 4 vezes, cada uma com uma das graduações mostradas abaixo. APESAR DO QUE ESTÁ NA FIGURA, ESTAS CAIXAS GRADUADAS DEVEM ESTAR VAZIAS (sem água).
-Atenção:     
-  * as marcas do 0 e do 1 devem coincidir, respectivamente, com a base e o topo da caixa.
-  * os números devem vir bem ao lado da marcação, exceto o $\frac{1}{2}$ no item a), que está entre duas marcações. Por esse motivo a caixa está sobre uma bancada, para que a graduação possa sobrar embaixo e em cima da caixa.
-{{ :cap3:secoes:graduacoes_da_caixa.jpg?500 |}}
-</WRAP>
 
 <hidden Resposta>
 <WRAP resposta>
