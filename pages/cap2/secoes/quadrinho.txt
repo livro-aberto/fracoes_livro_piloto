@@ -2,65 +2,9 @@
 Ir para [[cap2:texto#quadrinho]]
 ;;#
 
-<WRAP imagem> FIGURA ARTÍSTICA
-HISTÓRIA EM QUADRINHOS
+{{:cap2:secoes:pngs_licao_02:quadrinho_01.png?nolink&300}}
+{{:cap2:secoes:pngs_licao_02:quadrinho_02.png?nolink&300}}
 
-Miguel é um menino negro de cabelos cheios e cacheados.
+{{:cap2:secoes:pngs_licao_02:quadrinho_03.png?nolink&300}}
+{{:cap2:secoes:pngs_licao_02:quadrinho_04.png?nolink&300}}
 
-Alice é uma menina morena de rabo de cavalo. Ela já apareceu numa atividade da Lição 1 é a mesma personagem.
-
-**Quadrinho 1**
-
-Alice: Oi Miguel! Por que você faltou a aula passada? A professora falou de frações.
-
-Miguel: Eu tive febre. 
-
-**Quadrinho 2**
-
-Miguel escrevendo no quadro as frações abaixo para mostrar para Alice
-
-Miguel: Mas a minha mãe me ensinou frações em casa. Tem o $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$ até $\frac{1}{10}$.
-
-Alice: Não foi isso o que vimos aqui. A gente repartiu figuras de papel e outros objetos. Tinha que ser em partes iguais ou com a mesma quantidade em cada parte! Aí surgiram nomes: se forem duas partes iguais, cada uma delas é metade da coisa, isso a gente já sabia. Se forem três partes iguais, cada uma é um terço ou a terça parte do que foi repartido e assim vai.
-
-**Quadrinho 3**
-
-Quadro negro escrito por Miguel:
-
-Frações
-
-meio $\longrightarrow \frac{1}{2}$ 
-
-terço $\longrightarrow \frac{1}{3}$
-
-quarto $\longrightarrow \frac{1}{4}$
-
-$\cdots$
-
-décimo $\longrightarrow \frac{1}{10}$
-
-Alice com expressão zangada.
-
-Miguel olhando para Alice
-
-Miguel: Isso mesmo! Minha mãe falou que um terço é $\frac{1}{3}$, que um quarto é $\frac{1}{4}$, um quinto é $\frac{1}{5}$.
-
-Alice: Esse negócio não parece estar certo. Os números ficam um ao lado do outro, 10, 11, 12, $\cdots$ e não um embaixo do outro como você mostrou aí!
-
-**Quadrinho 4**
-A professora aparece no quadro
-
-Miguel: Minha mãe sabe do que está falando. Hoje no ônibus ela me mostrou frações no painel do motorista, ontem em casa ela mostrou uma seringa e um copo com marquinhas e lá estavam as frações também.
-
-{{ :cap2:secoes:boia-tubular-compativel-com-marcador-de-combustivel-nauticos-14480-mlb2755833842_052012-o.jpg?200 |}}
-
-{{ :cap2:secoes:3ccsyringeminim-02.jpg?100 |}}
-
-{{ :cap2:secoes:jarra-de-vidro-graduada-300x199.jpg?200 |}}
-
-
-Alice: Mas a professora não falou disso...
-
-Professora: Crianças, não briguem, os dois estão certos. Vamos falar disso na lição de hoje.
-
-</WRAP>
