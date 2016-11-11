@@ -28,8 +28,7 @@ Classificações
 
 Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que as tortas estavam divididas em 8 fatias, como na figura abaixo. 
 
-<WRAP imagem> FIGURA ARTÍSTICA - Imagem de três tortas circulares idênticas cortadas em 8 fatias iguais cada uma dentro do balcão de vidro de uma confeitaria. Atenção: também há figura na resposta.
-</WRAP>
+{{ :cap2:secoes:pngs_licao_02:ativ3_fig01.png?nolink&300 |}}
 
   - Que fração de uma torta é uma fatia? Explique.
   - Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
