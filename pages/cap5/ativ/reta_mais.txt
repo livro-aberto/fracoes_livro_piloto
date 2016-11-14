@@ -36,7 +36,7 @@ a.
 
 b. 
 
-Repetindo o mesmo processo do item a. obtém-se 
+Repetindo o mesmo processo do item a. obtém-se $7 + \frac{2}{3} = \frac{21}{3} + \frac{2}{3} = \frac{23}{3}$.
 <WRAP imagem> Análoga </WRAP>
 
 
