@@ -1,4 +1,4 @@
-Deste livro pode ser gerado apenas a versão do aluno ou a do professor. Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
+Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
 
 Para gerar o livro do aluno:
 Compile os arquivos livro_aluno_completo.tex e introdução.tex
