@@ -1,4 +1,24 @@
 
+
+%redefining chapter appearence for regular sections
+\titleformat{\chapter} % 
+%{} % style
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 \setcounter{chapter}{0}
 \chapter{Começando a falar sobre frações }
 
@@ -39,7 +59,7 @@ Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de 
 
 \subsection{Atividade}
 
-Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, quer cortar o barbante em pedaços iguais, para que os enfeites fiquem todos na mesma altura. Ajude Alice a cortar o barbante.
+Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, quer cortar o barbante em pedaços iguais, para que os enfeites fiquem todos na mesma altura. Ajude Alice a cortar o barbante (você receberá um barbante do seu professor).
 
 \begin{center}
     \includegraphics[width=400pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/ativ3_fig01.png}  
@@ -48,7 +68,7 @@ Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando ped
 
 \section{ORGANIZANDO AS IDEIAS }
 
-Nas atividades anteriores, as quantidades registradas exigiram a partição de uma unidade. Por exemplo, para obter um terço de uma barra de chocolate foi necessário partir a barra de chocolate. Já para obter um quarto de pizza, foi necessário partir a pizza. Outros exemplos aparecem no dia a dia: ``Comprei meio metro de tecido'' ou ``Gastei um terço da minha borracha''.
+Nas atividades anteriores, as quantidades registradas exigiram a partição de uma unidade. Por exemplo, para obter um terço de uma barra de chocolate foi necessário partir a barra de chocolate. Já para obter um quarto de pizza, foi necessário partir a pizza. Outros exemplos aparecem no dia a dia: ``comprei meio metro de tecido'' ou ``gastei um terço da minha borracha''.
 
 A barra de chocolate, a pizza e o pedaço de barbante foram partidos em partes iguais. 
 Em cada um dos casos, o que foi repartido é chamado {\bf unidade}. Cada uma das partes em que essas unidades foram repartidas igualmente é uma {\bf fração da unidade}. Assim, por exemplo, um quarto de uma pizza é uma fração da pizza e a pizza é unidade. Se a unidade for o pedaço de barbante, um quarto do pedaço de barbante será uma fração do pedaço de barbante.
@@ -69,24 +89,22 @@ Por exemplo, se uma barra de chocolate é repartida igualmente entre dois amigos
 
 Ao dividir uma unidade em três partes iguais, cada uma das partes é chamada de {\it um terço} ou {\it a terça parte} da unidade. 
 
-Por exemplo, se, em uma receita de bolo, é necessário acrescentar {\it um terço} de um litro de leite. Isso significa que, para colocar a quantidade correta de leite na receita, é preciso repartir o litro de leite em três partes iguais e usar apenas uma dessas partes, que é {\it um terço} do litro de leite. Nesse caso, a unidade é um litro de leite.
+Por exemplo, se, em uma receita, é necessário acrescentar {\it um terço} de um litro de suco de laranja, isso significa que, para colocar a quantidade correta de suco na receita, é preciso repartir o litro de suco em três partes iguais e usar apenas uma dessas partes, que é {\it um terço} do litro de suco. Nesse caso, a unidade é um litro de suco de laranja. Imagine que no copo caiba 1 litro.
 
 \begin{center}
-    \includegraphics[width=300pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/orgideias_fig03.png}  
+    \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/orgideias_fig03a.png}  
   \end{center}
 
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de {\it um quarto} ou {\it quarta parte} da unidade. 
 
-Por exemplo,
-A parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
+Por exemplo, a parte colorida da figura é um quarto da figura. Neste caso, a figura é a unidade.
 
 \begin{center}
     \includegraphics[width=100pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/orgideias_fig04.png}  
   \end{center}
 Da mesma forma, ao dividir uma unidade em cinco partes iguais, cada uma das partes é chamada de {\it um quinto} ou {\it quinta parte} da unidade.
 
-Por exemplo,
-\emph{um quinto} de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a \emph{um quinto} ou a \emph{quinta parte} do ouro pesado nas Casas de Fundição no Brasil.
+Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casas de Fundição no Brasil era pago em impostos à Coroa Portuguesa. Desta forma, a quantidade de ouro pago em impostos à Coroa Portuguesa era igual a \emph{um quinto} ou a \emph{quinta parte} do ouro pesado nas Casas de Fundição no Brasil.
 
 \begin{center}
     \includegraphics[width=400pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/orgideias_fig05.png}  
@@ -146,15 +164,18 @@ Por exemplo,
 
 \begin{refletindo*}[breakable]{}{}  
   Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos, etc., a unidade foi repartida em 2, 3, 4, 5, etc., partes iguais.  
-  Assim como no dia a dia, neste livro o termo   ``partes iguais''   quer dizer   ``partes com a mesma quantidade''  , mesmo que a unidade não esteja dividida em partes de mesma forma.  
+  Assim como no dia a dia, neste livro o termo   {\it partes iguais}   quer dizer   {\it partes com a mesma quantidade}, mesmo que a unidade não esteja dividida em partes de mesma forma.  
   Na atividade anterior, se os retângulos representassem, por exemplo, bolos, as quatro partes em que foram divididos os retângulos representariam quantidades iguais de bolo.   
   Em alguns retângulos as partes não têm a mesma forma.  
-  Veja alguns exemplos curiosos em que as   ``partes iguais''   podem gerar confusão.  
+  Os dois quadrinhos a seguir mostram exemplos curiosos em que as partes iguais podem ser surpreendentes.
   
   \noindent\begin{tabular}{ll}
     \includegraphics[width=220pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig02.png}
+  
   \end{tabular}
-  \vspace{1cm}
+  \vspace{.5cm}
+  \hline
+  \vspace{.5cm}
   
   \noindent  \noindent\begin{tabular}{ll}
     \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig04.png}  
@@ -547,7 +568,7 @@ Identifique as figuras em que a parte pintada em vermelho é a metade da figura.
 \subsection{Atividade}
 
 
-Usando os Círculos de Frações, responda:
+Usando os Círculos de Frações que você receberá do seu professor (há encarte para reprodução no final do livro), responda:
 
 \begin{center}
  
@@ -624,7 +645,7 @@ Usando os Círculos de Frações, responda:
 
 \subsection{Atividade}
 
-Nas figuras a seguir, um mesmo círculo azul aparece diferentemente dividido em partes iguais. 
+Nas figuras a seguir, um mesmo círculo azul aparece diferentemente dividido em partes iguais e colorido em vermelho. 
 \begin{enumerate} [\quad a)] %s
   \item     Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras.     
 \begin{enumerate} [\quad I)] %d

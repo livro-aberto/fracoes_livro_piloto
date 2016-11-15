@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  15 NOV 2016 13:54
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  15 NOV 2016 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1214,7 +1214,7 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \c@tcb@cnt@figura=\count275
 \c@tcb@cnt@nota=\count276
 )
-No file livro_professor_completo.aux.
+(./livro_professor_completo.aux)
 \openout1 = `livro_professor_completo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -1233,7 +1233,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 6.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 6.
-(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 6.
@@ -1384,38 +1384,14 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [2] [3]
+File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png Graphic file (type Q
+Tm)
 
-LaTeX Warning: File `../..//media/cap1/secoes/pngs_licao_01/ativ3_fig03.png' no
-t found on input line 154.
+<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png" >
+File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png Graphic file (type Q
+Tm)
 
-! Unable to load picture or PDF file '../..//media/cap1/secoes/pngs_licao_01/at
-iv3_fig03.png'.
-<to be read again> 
-                   }
-l.154 ...ap1/secoes/pngs_licao_01/ativ3_fig03.png}
-                                                  
-? 
-
-! Package graphics Error: Division by 0.
-
-See the graphics package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.154 ...ap1/secoes/pngs_licao_01/ativ3_fig03.png}
-                                                  
-? 
-File: ../..//media/cap1/secoes/pngs_licao_01/ativ3_fig03.png Graphic file (type
- QTm)
-<use  "../..//media/cap1/secoes/pngs_licao_01/ativ3_fig03.png" >
-! Unable to load picture or PDF file '../..//media/cap1/secoes/pngs_licao_01/at
-iv3_fig03.png'.
-<to be read again> 
-                   \GXT@clipend 
-l.154 ...ap1/secoes/pngs_licao_01/ativ3_fig03.png}
-                                                  
-? 
-[4]
+<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png" > [4]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1452,7 +1428,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (308.99242pt too wide) in paragraph at lines 165--165
+Overfull \hbox (308.99242pt too wide) in paragraph at lines 169--169
 []  [] 
  []
 
@@ -1470,7 +1446,7 @@ Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (308.99242pt too wide) in paragraph at lines 166--166
+Overfull \hbox (308.99242pt too wide) in paragraph at lines 170--170
 []  [] 
  []
 
@@ -1482,7 +1458,7 @@ Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 
 
 [6]
-Overfull \hbox (2.25125pt too wide) in paragraph at lines 187--204
+Overfull \hbox (2.25125pt too wide) in paragraph at lines 191--207
 [] 
  []
 
@@ -1493,7 +1469,7 @@ Overfull \hbox (2.25125pt too wide) in paragraph at lines 187--204
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (308.99242pt too wide) in paragraph at lines 226--226
+Overfull \hbox (308.99242pt too wide) in paragraph at lines 229--229
 []  [] 
  []
 
@@ -1511,7 +1487,7 @@ Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (308.99242pt too wide) in paragraph at lines 860--860
+Overfull \hbox (308.99242pt too wide) in paragraph at lines 863--863
 []  [] 
  []
 
@@ -2217,11 +2193,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36292 strings out of 495559
- 768585 string characters out of 6186723
- 1013797 words of memory out of 5000000
- 38974 multiletter control sequences out of 15000+600000
- 7132 words of font info for 59 fonts, out of 8000000 for 9000
+ 36299 strings out of 495559
+ 768788 string characters out of 6186723
+ 1013824 words of memory out of 5000000
+ 38977 multiletter control sequences out of 15000+600000
+ 7140 words of font info for 60 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  63i,14n,101p,10392b,1016s stack positions out of 5000i,500n,10000p,200000b,80000s
 
