@@ -12,4 +12,4 @@ pdftk A=livro_aluno_completo.pdf B=livro_professor_completo.pdf shuffle B A outp
 
 Depois retire a última página (branca) da introdução e junte os pdfs na seguinte ordem capa, blank, contra-capa, blank, introducao, collated.pdf.
 
-
+As figuras do livro estão em tex/livro/media/capX/secoes/png ou pngs_licaoX.
