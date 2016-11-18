@@ -22,14 +22,15 @@ Classificações:
 </hidden>
 
 Junte-se a seus colegas e dobrem o retângulo da página de reprodução como indicado na coluna mais à esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela. Lembre-se: as dobraduras devem ser feitas perpendicularmente às várias linhas desenhadas no retângulo da página de reprodução.
-<WRAP imagem> FIGURA ARTÍSTICA - as divisões e a parte pintada de amarelo do encarte devem aparecer! Também há figuras em Resposta. </WRAP>
-| Como dobrar                                                                                                        | Quantidade de retângulos pintados  | Quantidade total de retângulos  | Fração do retângulo do encarte que está pintada  |
-| {{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}}                                                            | 3                                  | 10                              | $\frac{3}{10}$                                   |
-| {{:cap4:secoes:dobradura-02.jpg?200}}                                                                              |                                    |                                 |                                                  |
-| {{:cap4:secoes:dobradura-03.png?200}}     |                                    |                                 |                                                  |
-| {{:cap4:secoes:dobradura-04.png?200}}                                                                              |                                    |                                 |                                                  |
-| Figura equivalente dobrada em 6 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!  |                                    |                                 |                                                  |
-| Figura equivalente dobrada em 8 partes. Nota: as divisões e a parte pintada de amarelo do encarte devem aparecer!  |                                    |                                 |                                                  |
+
+
+| Como dobrar | Quantidade de retângulos pintados | Quantidade total de retângulos | Fração do retângulo do encarte que está pintada |
+| {{ :cap4:secoes:png2:ativ2_fig01.png?nolink&200 |}} | 3 | 10 | $\frac{3}{10}$ |
+| {{ :cap4:secoes:png2:ativ2_fig02.png?nolink&200 |}} | | | |
+| {{ :cap4:secoes:png2:ativ2_fig03.png?nolink&200 |}}| | | |
+| {{ :cap4:secoes:png2:ativ2_fig04.png?nolink&200 |}}| | | |
+| {{ :cap4:secoes:png2:ativ2_fig05.png?nolink&200 |}} | | | |
+| {{ :cap4:secoes:png2:ativ2_fig06.png?nolink&200 |}} | | | |
 
 <hidden Resposta>
 <WRAP resposta>
