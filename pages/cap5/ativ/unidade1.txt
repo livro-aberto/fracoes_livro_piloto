@@ -18,15 +18,9 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 
 Miguel e Alice estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois esses recipientes serão destinados a empresas que usarão o óleo descartado para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
 
-<WRAP imagem>
-FIGURA ARTÍSTICA
-
-Para o ilustrador: Incluir imagem de dois recipientes. Um em formato cilíndrico e outro em formato de cone (como sugerido pelas imagens). Ambas as figuras devem ter áreas de base próximas, sendo que a altura da figura em formato de cone deve ser 1,5 vezes a altura da figura em formato cilíndrico.
-
-|  {{:cap5:ativ:garrafa_alice.png?100|}}   |  {{:cap5:ativ:garrafa_miguel.png?100|}}   |
+| {{ :cap5:secoes:pngs_licao_05:ativ1_fig01.png?nolink&200 }} | {{ :cap5:secoes:pngs_licao_05:ativ1_fig02.png?nolink&200 }} |
 |Recipiente 1: trazido pela Alice | Recipiente 2: trazido pelo Miguel |
 
-</WRAP>
 Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d'água como unidade de medida. 
   * O recipiente trazido por Alice foi enchido com 26 copos.
   * O recipiente trazido por Miguel foi enchido com 40 copos.
