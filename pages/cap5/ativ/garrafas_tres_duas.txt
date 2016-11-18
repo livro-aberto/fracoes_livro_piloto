@@ -13,11 +13,8 @@ Recomendações e sugestões para o desenvolvimento da atividade:
 </hidden>
 
 Há três recipientes cilíndricos, de mesmo tamanho, contendo água. No primeiro recipiente, a água ocupa dois terços de sua capacidade. No segundo, a água ocupa metade de sua capacidade. No terceiro, a água ocupa cinco oitavos de sua capacidade.  
-<WRAP imagem>
-figura artística
 
-{{ :cap5:ativ:garrafas.png?400 |}}
-</WRAP>
+{{ :cap5:secoes:pngs_licao_05:ativ14_fig01.png?nolink&300 |}}
 
 É possível redistribuir a água de todos os recipientes em somente dois deles?
 <hidden Resposta>
