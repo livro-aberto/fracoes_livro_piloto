@@ -27,8 +27,8 @@ A professora cortou cada fita vermelha em 3 partes iguais, cada fita azul em 2 p
 
   - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?\\  \\ Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço azul e dois pedaços amarelos. \\ {{ :cap5:ativ:cap5-3.png?400 |}} \\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é igual a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
   - A professora também agrupou pedaços de fita, juntando 1 pedaço amarelo e 1 pedaço azul, como na figura abaixo. Qual fração da fita inicial corresponde esses dois pedaços juntos?
-   
-<WRAP imagem> FIGURA ARTÍSTICA - Inserir uma caixa com uma professora falando: "Um dos objetivos dessa lição é compreender como é juntar frações quaisquer. Observar, por exemplo, como fica a fração da fita composta por pedaços amarelo e vermelho, onde em que um não tem o dobro do tamanho do outro."</WRAP>
+
+{{ :cap5:secoes:pngs_licao_05:ativ2_fig01.png?nolink&300 |}}
 
 <hidden Resposta>
 <WRAP resposta>
