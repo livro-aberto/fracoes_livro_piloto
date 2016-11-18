@@ -35,11 +35,12 @@ Junte-se a seus colegas e dobrem o retângulo da página de reprodução como in
 <hidden Resposta>
 <WRAP resposta>
 | Como dobrar | Quantidade de retângulos pintados | Quantidade total de retângulos | Fração do retângulo do encarte que está pintada |
-| {{:cap4:secoes:fracoes-equivalentes-dobradura.jpg?200}} | 3 | 10 | $\frac{3}{10}$ |
-| {{:cap4:secoes:dobradura-02.jpg?200}} | 6 | 20 | $\frac{6}{20}$ |
-| {{:cap4:secoes:dobradura-03.png?200}} | 9 | 30 | $\frac{9}{30}$ |
-| {{:cap4:secoes:dobradura-04.png?200}} | 12 | 40 | $\frac{12}{40}$ |
-| Figura equivalente dobrada em 6 partes.| 18 | 60 | $\frac{18}{60}$ |
-| Figura equivalente dobrada em 8 partes.| 24 | 80 | $\frac{24}{80}$ |
+| {{ :cap4:secoes:png2:ativ2_fig01.png?nolink&200 |}} | 3  | 10 | $\frac{3}{10}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig02.png?nolink&200 |}} | 6  | 20 | $\frac{6}{20}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig03.png?nolink&200 |}} | 9  | 30 | $\frac{9}{30}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig04.png?nolink&200 |}} | 12 | 40 | $\frac{12}{40}$ | 
+| {{ :cap4:secoes:png2:ativ2_fig05.png?nolink&200 |}} | 18 | 60 | $\frac{18}{60}$ | 
+| {{ :cap4:secoes:png2:ativ2_fig06.png?nolink&200 |}} | 24 | 80 | $\frac{24}{80}$ | 
+
 </WRAP>
 </hidden>
