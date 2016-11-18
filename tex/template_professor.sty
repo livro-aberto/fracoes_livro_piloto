@@ -1,0 +1,200 @@
+\RequirePackage{amsmath,amssymb}
+
+\RequirePackage[brazil]{babel}
+
+% varias melhorias de typeset
+\RequirePackage{microtype}
+
+\RequirePackage[textwidth=157mm,
+paperwidth=196mm,
+paperheight=280mm,
+top=1in,
+left=12mm,
+right=20mm,
+footskip=.7in,
+marginpar=10mm]{geometry}
+%\geometry{
+% textwidth=157mm,
+% paperwidth=196mm,
+% paperheight=280mm,
+% top=1in,
+% left=12mm,
+% right=20mm,
+% footskip=.7in,
+% marginpar=10mm
+% }
+
+% Place crop marks
+\RequirePackage[center,height=297mm,width=210mm,cam]{crop}
+
+% Para enumerates customizados
+\RequirePackage{enumerate}
+\RequirePackage[shortlabels]{enumitem}
+\setlist[itemize,1]{label={$\star$},leftmargin=*,topsep=0pt}
+\setlist[enumerate]{leftmargin=*,topsep=0pt}
+
+% Para usar tabelas balanceadas
+\RequirePackage{tabulary}
+\RequirePackage{longtable}% para quebrar tabela entre páginas
+
+% Choose font
+\RequirePackage{ifxetex}
+\ifxetex
+   \RequirePackage{fontspec}
+   \setmainfont{Lato Light}
+   \newfontface\titlefont{STIXIntegralsUp}
+   \newfontface\thickfont{Nimbus Sans L}
+   \newfontface\bigtitlefont[Scale=1.3]{Cabin}
+   %\newcommand\titlefont{}
+   %\newcommand\thickfont{}
+\else
+   \RequirePackage[utf8]{inputenc}
+%   \RequirePackage[sfdefault,thin]{roboto}  %% sfdefault is the base font
+   \RequirePackage{helvet}
+   \newcommand\titlefont{\fontfamily{helvet}\selectfont}
+   \newcommand\thickfont{\fontfamily{cmss}\selectfont}
+   \newcommand\bigtitlefont{\fontfamily{cmss}\selectfont}
+\fi
+
+% Larger spacing between lines
+\linespread{1.2}
+
+% Temporary library for generating random text
+\RequirePackage{lipsum}
+
+% To define colors
+\RequirePackage[dvipsnames]{xcolor}
+% \definecolor{light}{RGB}{21,101,175}
+% \definecolor{special}{RGB}{154,195,33}
+% \definecolor{common}{RGB}{204,216,241}
+% \definecolor{common}{RGB}{108,153,215}
+% \definecolor{attention}{RGB}{210,32,39}
+% \definecolor{special}{RGB}{179,220,47}
+% 
+% % By davidgav see http://www.colourlovers.com/palette/2562636/Christina
+% \definecolor{dark}{RGB}{78,57,93}
+% \definecolor{common}{RGB}{130,112,133}
+% \definecolor{special}{RGB}{142,190,148}
+% \definecolor{light}{RGB}{204,252,142}
+% \definecolor{attention}{RGB}{220,91,62}
+
+% By davidgav see www.colourlovers.com/palette/2350697/This_is_for_YOU!
+\definecolor{dark}{RGB}     {97,83,117}
+\definecolor{common}{RGB}   {142,178,197}
+\definecolor{special}{RGB}  {229,98,92}
+\definecolor{light}{RGB}    {249,191,118}
+\definecolor{attention}{RGB}{209,49,61}
+
+
+%%%%%%%%%%%%%%%%%%%% Chapter and section titles %%%%%%%%%%%%%%%%%%%%%%%%%
+\RequirePackage{titlesec} % needed for define chapter and section style.
+\setcounter{chapter}{0}
+%\setcounter{subsection}{1}
+
+% \titleformat{\chapter} % redefining chapter appearence
+% %{} % style
+% {\titlefont\huge\bf} % style
+% {} % label
+% {0pt} % separation
+% {\begin{tikzpicture}[remember picture,overlay]
+%     \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+%     -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
+%   \end{tikzpicture}
+% } % before title
+% [\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+
+% Section style ---- EXPLORANDO O ASSUNDO, ORGANIZANDO AS IDEIAS, MÃO NA MASSA, etc.
+%\newcommand*\sectionlabel{}
+%\titleformat{\section}
+%  {\titlefont\bf}
+%  {\gdef\sectionlabel{\thesection\ }}{0pt}
+%  {%
+%    \begin{tikzpicture}[remember picture,overlay]
+%      \filldraw [x=1mm,y=1mm, attention, overlay] (\textwidth,-4) -- (0 ,-4)
+%      arc (-90:-270:4) --(0,4) -- (\textwidth,4)
+%      node[anchor=west] at (0, 0) {\color{white} \MakeUppercase{#1}};
+%   \end{tikzpicture}
+% }
+%\titlespacing*{\section}{0pt}{20pt}{20pt} % %{<command>}{<left>}{<before-sep>}{<after-sep>}
+
+%\titleformat{\subsection}[wrap]
+%{\normalfont\bfseries\color{special}}
+%{}{}{}
+
+
+% Subsection style
+%\renewcommand{\thesubsection}{\arabic{subsection}}% to define subsection numbering without section number
+\titleformat{\subsection}[block]{\normalfont\normalsize\bfseries\color{special}}{}{20pt}{\large}
+% 
+% \titleformat*{\subsection} % redefining subsection appearence - Atividade
+% {\normalsize}
+% {}
+% {0pt}
+% \titlespacing*{\subsection}{0pt}{20pt}{20pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+
+
+% use o GIMP para obter o cógigo HTML da cor e o site a seguir para converter para RGB
+% http://www.yellowpipe.com/yis/tools/hex-to-rgb/color-converter.php
+
+
+% \RequirePackage{lastpage} % Required to determine the last page for the footer
+
+% Pacotes para desenhos
+\RequirePackage{tikz}
+\usetikzlibrary{shapes}
+\usetikzlibrary{calc}
+\usetikzlibrary{snakes}
+
+% Refletindo
+\RequirePackage{tcolorbox}
+%\RequirePackage{varwidth}
+\tcbuselibrary{listings,breakable,most}
+
+\RequirePackage{multicol}
+\setlength{\columnsep}{1.3cm}
+
+\newtcbtheorem{professor}{Para o Professor}%
+{colback=purple!15,colframe=purple,fonttitle=\bfseries}{th}
+\newtcbtheorem{introdutorio}{Introdutório}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{abstrato}{Modelo abstrato}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{conexoes}{Conexões}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{explorando}{Explorando}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{massa}{Mão na massa}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{exercicio}{Exercício}%
+{colback=gray!15,colframe=gray,fonttitle=\bfseries}{th}
+
+
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+
+\newenvironment{resposta*}[1]
+{ \color{common}
+  %\begin{center}
+  \bigskip \medskip
+    {\large\normalfont\bfseries Resposta da #1}\\ \medskip
+  %\end{center}
+  \color{dark!70!black}
+  \begingroup\thickfont
+}
+{ \color{black}
+  \endgroup
+}
+
+\newtcbtheorem{imagem}{Imagem}%
+{colback=light!15,colframe=light,fonttitle=\bfseries}{th}
+\newtcbtheorem{figura}{Figura}%
+{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+\newtcbtheorem{nota}{Nota}%
+{colback=gray!5,colframe=gray!35!black,fonttitle=\bfseries}{th}
+
