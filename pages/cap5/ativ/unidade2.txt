@@ -21,9 +21,9 @@ $$\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}.$$
 </hidden>
 
 Uma barra de chocolate é vendida com as marcações mostradas na figura abaixo.
-<WRAP imagem> figura artística
-{{ :cap5:ativ:chocolate_16_pedacos.png?300 |}}
-</WRAP>
+
+{{ :cap5:secoes:pngs_licao_05:ativ3_fig01.png?nolink&300 |}}
+
 Alice comeu a metade dessa barra de chocolate (em bege), quebrou o restante da barra em pedaços, seguindo as marcações e comeu 3 desses pedaços (em azul).
 
 {{ :cap5:ativ:cap5-4.png?400 |}}
