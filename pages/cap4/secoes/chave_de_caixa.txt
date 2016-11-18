@@ -24,9 +24,9 @@ de um braço no qual, em uma de suas extremidades, é possível acoplar soquetes
 Estes soquetes são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e no Reino Unido).
 
 Na figura a seguir, observe o tamanho dos soquetes e identifique cada um deles com uma das seguintes frações $\frac{1}{2}$, $\frac{3}{4}$, $\frac{3}{8}$, $\frac{5}{8}$, $\frac{7}{8}$, $\frac{7}{16}$, $\frac{9}{16}$, $\frac{11}{16}$ e $\frac{13}{16}$.
-<WRAP imagem> FIGURA ARTÍSTICA - incluir os itens e textos.
-{{ :cap4:secoes:chave-de-caixa.jpg?400 |}}
-</WRAP>
+
+{{ :cap4:secoes:pngs:ativ14_fig01.png?nolink&300 |}}
+
 <hidden Resposta>
 <WRAP resposta>
 Uma vez que $\frac{1}{2} = \frac{8}{16}$, $\frac{3}{4} = \frac{12}{16}$, $\frac{3}{8} = \frac{6}{16}$, $\frac{5}{8} = \frac{10}{16}$ e $\frac{7}{8} = \frac{14}{16}$, os tamanhos dos soquetes são os seguintes:
