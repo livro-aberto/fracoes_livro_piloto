@@ -28,15 +28,11 @@ Let: Concordo, a discussão da questão da recíprova deve ser mais adiante.
 
 Rita convidou seus colegas de escola para virem à sua casa conhecer seu novo cãozinho. Sua mãe preparou um bolo para o lanche da tarde das crianças. Às 16h chegaram dois de seus colegas, João e Mário. Mário logo imaginou o bolo repartido em 3 pedaços e pensou que ele poderia então comer um terço do mesmo 
 
-<WRAP imagem> FIGURA ARTÍSTICA
-Figura ilustrando os três amigos, Rita, João e Mário e o pensamento de Mário, com o bolo equipartido em três partes, e ele já pegando uma delas)
-</WRAP>
+{{ :cap4:secoes:png2:ativ4_fig01.png?nolink&300 |}}
 
 A mãe de Rita começou a cortar o bolo, partindo-o, como Mário havia imaginado, em 3 partes. No entanto, antes que começassem a comer, chegaram mais 4 colegas da escola. Então a mãe de Rita dividiu cada um dos 3 pedaços iniciais em 4 partes de igual tamanho 
 
-<WRAP imagem> FIGURA ARTÍSTICA
-Figuras do bolo inicialmente partido em terços e, depois, subdividido em 12 partes (mas ainda evidenciadas as três partes originais). 
-</WRAP>
+{{ :cap4:secoes:png2:ativ4_fig02.png?nolink&300 |}}
 
 Na hora do lanche, João comeu 2 pedaços do bolo e Mário comeu 4.
   * Que fração do bolo Mário comeu?
