@@ -6,10 +6,10 @@
 
 
 \noindent\begin{tabular}{cc}
-\includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/quadrinho_01.png} & 
-\includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/quadrinho_02.png} \\
-\includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/quadrinho_03.png} & 
-\includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/quadrinho_04.png}
+\includegraphics[width=.45\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/quadrinho_01.png} & 
+\includegraphics[width=.45\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/quadrinho_02.png} \\
+\includegraphics[width=.45\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/quadrinho_03.png} & 
+\includegraphics[width=.45\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/quadrinho_04.png}
          \end{tabular}
 
 %\vspace*{-3cm}
@@ -56,7 +56,7 @@ A turma de Rita vai fazer um piquenique. A professora comprou pães para a turma
 \begin{enumerate} [\quad a)] %s
   \item     Nessas repartições, que fração do sanduíche pode representar cada uma das partes em que o sanduíche foi repartido?
   \item     Em quais dessas repartições é possível comer metade do sanduíche apenas com as partes em que o sanduíche foi repartido? Justifique sua resposta!
-  \item     Para cada uma das repartições que você deu como resposta no Item (b), expresse, por meio de frações, a metade do sanduíche.
+  \item     Para cada uma das repartições que você deu como resposta no item b), expresse, por meio de frações, a metade do sanduíche.
 \end{enumerate} %s
 
 \subsection{Atividade}
@@ -69,42 +69,42 @@ Junte-se a seus colegas e dobrem o retângulo da página de reprodução como in
       Como dobrar  &  Quantidade de retângulos pintados  & Quantidade total de retângulos  &  Fração do retângulo do encarte que está pintada  \\
     \hline \hline 
     \endhead
-    \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig01.png}      & $$3$$  & $$10$$   & $$\dfrac{3}{10}$$       \\
+    \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig01.png}      & $$3$$& $$10$$ & $$\dfrac{3}{10}$$   \\
     \hline
-     \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig02.png}                                                                              & &  &  \\
+     \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig02.png}                                                                              & &  &  \\
     \hline
-     \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig03.png}     &  &   &  \\
+     \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig03.png}     &  &   &  \\
     \hline
-     \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig04.png} & &&\\
+     \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig04.png} & &&\\
     \hline
-     \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig05.png}  &                                     &                                  &                                                   \\
+     \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig05.png}  &                                     &                                  &                                                   \\
     \hline
-     \includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ2_fig06.png} &                                     &                                  &                                                   \\
+     \includegraphics[width=110pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ2_fig06.png} &                                     &                                  &                                                   \\
     \hline
   \end{longtable}
 
 
 \begin{refletindo*}
 
-Na atividade 4 a folha foi divida inicialmente em dez retângulos iguais, dos quais três deles foram pintados de amarelo.
+Na atividade 4, a folha foi divida inicialmente em dez retângulos iguais, dos quais três deles foram pintados de amarelo.
 
 Ao realizar a primeira dobra, cada retângulo inicial ficou dividido ao meio, inclusive os pintados de amarelo. Assim, tanto para cobrir a área da região pintada de amarelo como para cobrir a área da folha será necessário o dobro da quantidade inicial:
 
 Área da folha $=$ área de 10 retângulos $=$ área de 20 ``retângulos divididos ao meio'';\mbox{} \newline 
-Área da região pintada $=$  área de 3 retângulos $=$ área de 6 ``retângulos divididos ao meio''.
+Área da região pintada $=$área de 3 retângulos $=$ área de 6 ``retângulos divididos ao meio''.
 
 Assim pode-se dizer que a área da região pintada de amarelo é $\frac{3}{10}$ ou  $\frac{6}{20}$ da área da folha. De onde se conclui que estas frações são iguais, pois elas representam a mesma quantidade: a área da região pintada de amarelo tendo a área da folha como unidade. Isto é,
 
 $$\dfrac{3}{10} = \dfrac{6}{20} = \dfrac{2 \times 3}{2 \times 10},$$
 
-onde 2 é o numero de partes em que você dobrou a folha.
+onde 2 é o número de partes em que você dobrou a folha.
 
 Ora, quando você dobrou a folha em três partes iguais, cada retângulo inicial ficou dividido em três partes, inclusive os pintados de amarelo. Assim, tanto para cobrir a área da região pintada de amarelo como para cobrir a área da folha será necessário o triplo da quantidade inicial:
 
 Área da folha $=$ área de 10 retângulos $=$ área de 30 ``retângulos divididos em três partes'';\mbox{} \newline 
-Área da região pintada $=$  área de 3 retângulos $=$ área de 9 ``retângulos divididos em três partes''.
+Área da região pintada $=$área de 3 retângulos $=$ área de 9 ``retângulos divididos em três partes''.
 
-De onde se conclui que as frações $\frac{3}{10}$ e $\frac{9}{30}$  são iguais, pois elas representam a mesma quantidade: a área da região pintada de amarelo tendo a área da folha como unidade. Isto é,
+De onde se conclui que as frações $\frac{3}{10}$ e $\frac{9}{30}$são iguais, pois elas representam a mesma quantidade: a área da região pintada de amarelo tendo a área da folha como unidade. Isto é,
 
 $$\dfrac{3}{10} = \dfrac{9}{30} = \dfrac{3 \times 3}{3 \times 10},$$
 
@@ -112,19 +112,19 @@ onde 3 é o número de partes em que você dobrou a folha.
 
 Do mesmo modo, ao dobrar a folha em quatro, seis ou oito partes iguais, você obteve outras representações equivalentes para a fração $\frac{3}{10}$:
 \begin{itemize} %d
-  \item     ao dobrar em     {\bf quatro}     partes iguais:     $\frac{3}{10} = \frac{12}{40} = \frac{4 \times 3}{4 \times 10}$; em que 4 é o numero de partes em que você dobrou a folha;
-  \item     ao dobrar em     {\bf seis}     partes iguais:     $\frac{3}{10} = \frac{18}{60} = \frac{6 \times 3}{6 \times 10}$; em que 6 é o numero de partes em que você dobrou a folha;
-  \item     ao dobrar em     {\bf oito}     partes iguais:     $\frac{3}{10} = \frac{24}{80} = \frac{8 \times 3}{8 \times 10}$; em que 8 é o numero de partes em que você dobrou a folha.
+  \item     ao dobrar em     {\bf quatro}     partes iguais:     $\frac{3}{10} = \frac{12}{40} = \frac{4 \times 3}{4 \times 10}$; em que 4 é o número de partes em que você dobrou a folha;
+  \item     ao dobrar em     {\bf seis}     partes iguais:     $\frac{3}{10} = \frac{18}{60} = \frac{6 \times 3}{6 \times 10}$; em que 6 é o número de partes em que você dobrou a folha;
+  \item     ao dobrar em     {\bf oito}     partes iguais:     $\frac{3}{10} = \frac{24}{80} = \frac{8 \times 3}{8 \times 10}$; em que 8 é o número de partes em que você dobrou a folha.
 \end{itemize} %d
 
 
 Assim, generalizando o processo de ``dobrar'' a folha, tem-se que, ao ``dobrar'' a folha em $n$ partes iguais:
 
-$$\dfrac{3}{10}=\dfrac{n \times 3}{n \times 10}\text{, onde n é o numero de partes em que você dobrou a folha.}$$
+$$\dfrac{3}{10}=\dfrac{n \times 3}{n \times 10}\text{, onde n é o número de partes em que você dobrou a folha.}$$
 
 Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir \url{http://tube.geogebra.org/m/X52U83TR} para dobrar a folha em partes cada vez menores (basta aumentar o valor de $m$ no aplicativo). Mexa à vontade! Qualquer dúvida pergunte ao seu professor.
 \begin{center}
-\includegraphics[width=300pt, keepaspectratio]{../../livro/media//cap4/secoes/dobradura-geogebra.png}
+\includegraphics[width=300pt, keepaspectratio]{..//media//cap4/secoes/dobradura-geogebra.png}
 \end{center}
 \end{refletindo*}
 
@@ -134,7 +134,7 @@ Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir 
 (Garcez, 2013)
 
 \begin{enumerate} [\quad a)] %s
-  \item     O retângulo desenhado a seguir está dividido em     $4$     partes iguais, dais quais     $3$     estão pintadas de azul. Que fração do retângulo está pintada de azul?       
+  \item     O retângulo desenhado a seguir está dividido em     $4$ partes iguais, dais quais     $3$ estão pintadas de azul. Que fração do retângulo está pintada de azul?       
   \begin{center}
 \begin{tikzpicture}[scale=.8]
 \draw[fill=common] (0,0) rectangle (30,30);
@@ -163,13 +163,13 @@ Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir 
 Rita convidou seus colegas de escola para virem à sua casa conhecer seu novo cãozinho. Sua mãe preparou um bolo para o lanche da tarde das crianças. Às 16h chegaram dois de seus colegas, João e Mário. Mário logo imaginou o bolo repartido em 3 pedaços e pensou que ele poderia então comer um terço do mesmo 
 
 \begin{center}
-\includegraphics[width=.5\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/ativ4_fig01.png}
+\includegraphics[width=.5\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/ativ4_fig01.png}
 \end{center}
 
-A mãe de Rita começou a cortar o bolo, partindo-o, como Mário havia imaginado, em 3 partes. No entanto, antes que começassem a comer, chegaram mais 4 colegas da escola. Então a mãe de Rita dividiu cada um dos 3 pedaços iniciais em 4 partes de igual tamanho 
+A mãe de Rita começou a cortar o bolo, partindo-o, como Mário havia imaginado, em 3 partes. No entanto, antes que começassem a comer, chegaram mais 4 colegas da escola. Então a mãe de Rita dividiu cada um dos 3 pedaços iniciais em 4 partes de igual tamanho.
 
 \begin{center}
-\includegraphics[width=.25\textwidth, keepaspectratio]{../../livro/media/cap4/secoes/PNGs/ativ4_fig02.png}
+\includegraphics[width=.25\textwidth, keepaspectratio]{../media/cap4/secoes/pngs/ativ4_fig02.png}
 \end{center}
 
 
@@ -287,7 +287,7 @@ Ao preencher a   {\bf primeira linha da tabela}, você deve ter percebido que tr
 \end{center}
 \end{tabular}
 
-Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   do círculo.  
+Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$ do círculo.  
   
   Para preencher a   {\bf segunda linha da tabela}   você deve ter percebido que   
 \begin{itemize} %s
@@ -355,12 +355,12 @@ Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   
 \end{center}
   \end{tabular}
 
-  $\left(\frac{4}{6} = \frac{2\times 2}{2\times 3} = \frac{2}{3} \right)$  
-  Portanto, a região do círculo destacada em cinza é igual a   $\frac{4}{6}$   do círculo.  
+  $\left(\frac{4}{6} = \frac{2\times 2}{2\times 3} = \frac{2}{3} \right)$. 
+  Portanto, a região do círculo destacada em cinza é igual a   $\frac{4}{6}$ do círculo.  
   
   Este raciocínio pode ser escrito da seguinte maneira:  
-  $\frac{1}{3}$   é igual a dois   $\frac{1}{6}$  , ou, simplesmente,   
-  $\frac{1}{3}   =   \frac{2}{6}$  .  
+  $\frac{1}{3}$ é igual a dois   $\frac{1}{6}$, ou, simplesmente,   
+  $\frac{1}{3}   =   \frac{2}{6}$.  
 
 \begin{tabular}{m{.45\textwidth}m{.45\textwidth}}
 \begin{center}
@@ -380,7 +380,7 @@ Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   
 \end{center}
 \end{tabular}
 
-  Logo,  $\frac{4}{6} = \frac{2 \times 2}{2 \times 3} = \frac{2}{3}$  .  
+  Logo,  $\frac{4}{6} = \frac{2 \times 2}{2 \times 3} = \frac{2}{3}$.  
 
 \begin{tabular}{m{.45\textwidth}m{.45\textwidth}}
 \begin{center}
@@ -433,7 +433,7 @@ Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   
 \end{center}
 \end{tabular}
 \begin{itemize} %d
-    \item       e que oito peças vermelhas cobrem a região do círculo destacada em cinza. 
+    \item       e que oito peças vermelhas cobrem a região do círculo destacada em cinza 
 \end{itemize} %d
   
 \begin{tabular}{m{.45\textwidth}m{.45\textwidth}}
@@ -454,13 +454,13 @@ Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   
 \end{center}
   \end{tabular}
   
-  $$\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right)$$
+  $$\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right).$$
   
-  Logo, a região do círculo destacada em cinza é igual a   $\frac{8}{12}$   do círculo.   
+  Logo, a região do círculo destacada em cinza é igual a   $\frac{8}{12}$ do círculo.   
   
   Este raciocínio pode ser representado do seguinte modo:  
-  $\frac{1}{3}$   é igual a quatro   $\frac{1}{12}$  , ou, simplesmente,   
-  $\frac{1}{3}=\frac{4}{12}$  
+  $\frac{1}{3}$ é igual a quatro   $\frac{1}{12}$, ou, simplesmente,   
+  $\frac{1}{3}=\frac{4}{12}$.
 
   \begin{tabular}{m{.45\textwidth}m{.45\textwidth}}
 \begin{center}
@@ -481,7 +481,7 @@ Portanto, a região do círculo destacada em cinza é igual a   $\frac{2}{3}$   
 \end{tabular}
 
 Logo,  
-  $$\dfrac{8}{12} = \dfrac{4\times 2}{4 \times 3} = \dfrac{2}{3}.$$  
+  $$\dfrac{8}{12} = \dfrac{4\times 2}{4 \times 3} = \dfrac{2}{3}.$$
   
 \begin{tabular}{m{.45\textwidth}m{.45\textwidth}}
 \begin{center}
@@ -500,8 +500,8 @@ Logo,
 \end{tikzpicture}
 \end{center}
   \end{tabular}
-  Portanto, a região do círculo destacada em cinza, que é   $\frac{2}{3}$   do círculo, também é igual a   $\frac{4}{6}$   do círculo e igual a   $\frac{8}{12}$   do círculo, ou seja, as frações    $\frac{2}{3}$  ,   $\frac{4}{6}$    e   $\frac{8}{12}$   representam a mesma quantidade e, portanto, são iguais:  
-  $$\frac{2}{3}   =   \frac{4}{6}   =   \frac{8}{12}.$$  
+  Portanto, a região do círculo destacada em cinza, que é   $\frac{2}{3}$ do círculo, também é igual a   $\frac{4}{6}$ do círculo e igual a   $\frac{8}{12}$ do círculo, ou seja, as frações    $\frac{2}{3}$,   $\frac{4}{6}$e   $\frac{8}{12}$ representam a mesma quantidade e, portanto, são iguais:  
+  $$\frac{2}{3}   =   \frac{4}{6}   =   \frac{8}{12}.$$
   
 \end{refletindo*}
 
@@ -510,20 +510,20 @@ Logo,
 
 {\bf PARTE 1}
 
-Você recebeu um encarte com 10 retângulos coloridos de mesmo tamanho, cada deles dividido em um determinado número de partes iguais. Seguindo o modelo feito para o primeiro retângulo, preencha a tabela a seguir.
+Você recebeu um encarte com 10 retângulos coloridos de mesmo tamanho, cada um deles dividido em um determinado número de partes iguais. Seguindo o modelo feito para o primeiro retângulo, preencha a tabela a seguir.
 
 
 \begin{center}
   \begin{longtable}{|m{.4\textwidth}|m{.25\textwidth}|m{.25\textwidth}|}
     \hline
-      \centering Retângulo  &   Número de partes em se encontra dividido  &   Cada parte é que fração do retângulo?  \\
+      \centering Retângulo  &   Número de partes em que se encontra dividido  &   Cada parte é que fração do retângulo?  \\
     \hline \hline
     \endhead
    \centering 
     \begin{tikzpicture}
 \draw[fill=light] (0,0) rectangle (60,12);
 \draw (30,0) -- (30,12);
-    \end{tikzpicture}   &   \centering $2$  & \parbox[t][1.3 cm][c]{.25\textwidth}{ \centering $\dfrac{1}{2}$ } \\
+    \end{tikzpicture}   &   \centering $2$& \parbox[t][1.3 cm][c]{.25\textwidth}{ \centering $\dfrac{1}{2}$ } \\
     \hline
  \centering  \begin{tikzpicture}
 \draw[fill=pink] (0,0) rectangle (60,12);
@@ -629,15 +629,15 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
   Você deve ter observado que as atividades 2 e 3 são muito parecidas.   
   A diferença é que, nesta última foram utilizadas figuras retangulares (na atividade 2 foram usadas figuras circulares).   
   Ao resolver esta atividade você deve ter percebido que   
-  $$\dfrac{1}{2}=\dfrac{2}{4}=\dfrac{3}{6}=\dfrac{4}{8}=\dfrac{5}{10}=\dfrac{8}{16},$$  
+  $$\dfrac{1}{2}=\dfrac{2}{4}=\dfrac{3}{6}=\dfrac{4}{8}=\dfrac{5}{10}=\dfrac{8}{16},$$
   pois todas as frações representam a mesma quantidade: a medida da área da região retangular cinza em relação a área do retângulo do encarte.  
   Observe ainda que as igualdades acima podem ser reescritas do seguinte modo:  
-  $$\dfrac{1}{2}=\dfrac{1 \times 1}{1 \times 2}= \dfrac{2 \times 1}{2 \times 2} =\dfrac{3 \times 1}{3 \times 2} = \dfrac{4 \times 1}{4 \times 2} = \dfrac{5 \times 1}{5 \times 2}= \dfrac{8 \times 1}{8 \times 2}.$$  
-  Na verdade, para qualquer subdivisão da fração   $\frac{1}{2}$    em   $p$   partes iguais, deve-se considerar   $p$   dessas novas partes para obter uma fração igual a anterior. Matematicamente falando, isto significa que:  
-  $$\dfrac{1}{2}= \dfrac{p \times 1}{p \times 2}$$     
-  qualquer que seja   $p$   um número natural maior que zero.  
+  $$\dfrac{1}{2}=\dfrac{1 \times 1}{1 \times 2}= \dfrac{2 \times 1}{2 \times 2} =\dfrac{3 \times 1}{3 \times 2} = \dfrac{4 \times 1}{4 \times 2} = \dfrac{5 \times 1}{5 \times 2}= \dfrac{8 \times 1}{8 \times 2}.$$
+  Na verdade, para qualquer subdivisão da fração   $\frac{1}{2}$em   $p$ partes iguais, deve-se considerar   $p$ dessas novas partes para obter uma fração igual a anterior. Matematicamente falando, isto significa que:  
+  $$\dfrac{1}{2}= \dfrac{p \times 1}{p \times 2}$$ 
+  qualquer que seja   $p$ um número natural maior que zero.  
   De modo geral, para qualquer fração    $\frac{n}{d}$,  temos que  
-  $$\dfrac{n}{d}=\dfrac{1 \times n}{1 \times d}= \dfrac{2 \times n}{2 \times d} = \dfrac{3 \times n}{3 \times d} = \dfrac{4 \times n}{4 \times d} = \dfrac{5 \times n}{5 \times d}=\cdots =  \dfrac{p \times n}{p \times d}= \cdots$$  
+  $$\dfrac{n}{d}=\dfrac{1 \times n}{1 \times d}= \dfrac{2 \times n}{2 \times d} = \dfrac{3 \times n}{3 \times d} = \dfrac{4 \times n}{4 \times d} = \dfrac{5 \times n}{5 \times d}=\cdots =  \dfrac{p \times n}{p \times d}= \cdots$$
   qualquer que seja o número natural   $p > 0$.  
   Com isso, você aprendeu uma técnica para obter frações iguais a uma fração dada: basta multiplicar o numerador e o denominador da fração dada por um mesmo número natural   $p > 0$.   
   
@@ -650,7 +650,7 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
 
 
 \begin{enumerate} [\quad a)] %d
-  \item     Preencha os quadradinhos     $\square$     com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.    \mbox{} \newline      
+  \item     Preencha os quadradinhos     $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.    \mbox{} \newline      
 
  \begin{center}
  \begin{tikzpicture}[x=45mm,y=45mm]
@@ -730,10 +730,11 @@ Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se
  \end{tikzpicture}
 \end{center}
   \item     Escreva quatro frações com numeradores e denominadores diferentes que correspondam ao ponto azul em destaque na figura.
-  \item     Determine uma fração de denominador     $15$     que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
+  \item     Determine uma fração de denominador     $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
 \end{enumerate} %d
 
 \begin{refletindo*}
+
 Na Atividade 7, foram apresentadas quatro figuras que mostravam a reta numérica com subdivisões em partes iguais, mas de formas diferentes.
 
 Na primeira figura, as subdivisões do segmento unitário (que está, aqui, servindo como unidade) eram em três partes iguais, ou seja, em terços. Para representar o ponto azul na reta numérica da primeira figura, foram consideradas quatro cópias de $\frac{1}{3}$, justapostas a partir da origem. Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
@@ -864,7 +865,7 @@ $$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}.$$
 
 Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir (\url{https://www.geogebra.org/m/Pr3s9vak}) para perceber como frações com numeradores e denominadores diferentes podem representar um mesmo ponto  na reta numérica. Mexa à vontade! Qualquer dúvida pergunte ao seu professor.
 \begin{center}
-\includegraphics[width=300pt, keepaspectratio]{../../livro/media//cap4/secoes/geogebra-reta-numerica-equivalencia.jpg}
+\includegraphics[width=300pt, keepaspectratio]{..//media//cap4/secoes/geogebra-reta-numerica-equivalencia.jpg}
 \end{center}
 
 Mais geralmente, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
@@ -887,15 +888,15 @@ O objetivo desta atividade é determinar uma fração de denominador $12$ que se
 \begin{enumerate} [\quad a)] %s
   \item     Tomando um círculo como unidade: 
 \begin{enumerate}[(i)]
-  \item Faça um desenho que represente     $\frac{5}{4}$     da unidade.
-  \item Usando o desenho feito, represente uma fração de denominador     $12$     que seja igual a     $\frac{5}{4}$.
+  \item Faça um desenho que represente     $\frac{5}{4}$ da unidade.
+  \item Usando o desenho feito, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$.
 \end{enumerate}  
   \item     Tomando um quadrado como unidade:
   \begin{enumerate}[(i)]
-  \item Faça um desenho que represente     $\frac{5}{4}$     da unidade.
-  \item Usando o desenho feito, represente uma fração de denominador     $12$     que seja igual a     $\frac{5}{4}$.
+  \item Faça um desenho que represente     $\frac{5}{4}$ da unidade.
+  \item Usando o desenho feito, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$.
   \end{enumerate}
-\item     Desenhe uma reta numérica e, em seguida, marque os números     $0$    ,     $1$     e     $\frac{5}{4}$    . A partir deste desenho, represente uma fração de denominador     $12$     que seja igual a     $\frac{5}{4}$    . 
+\item     Desenhe uma reta numérica e, em seguida, marque os números     $0$,     $1$ e     $\frac{5}{4}$. A partir deste desenho, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$. 
 \end{enumerate} %s
 
 \section{ORGANIZANDO AS IDEIAS }
@@ -903,8 +904,6 @@ O objetivo desta atividade é determinar uma fração de denominador $12$ que se
 Olá! É chegada a hora de ajudar Miguel e Alice, nossos amigos da história em quadrinhos do início da lição, a compararem as frações $\frac{1}{3}$ e $\frac{8}{25}$.
 
 Ora, na lição anterior você aprendeu a comparar frações com o mesmo denominador. Neste caso, como os denominadores eram iguais, você precisou comparar apenas os numeradores da fração. Você também aprendeu a comparar frações com o com mesmo numerador. Neste caso, como os numeradores eram iguais, você precisou comparar apenas os denominadores da fração. Mas, Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
-
-Mas Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
 
 Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para determinar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ que possuem o mesmo denominador. 
 
@@ -987,13 +986,6 @@ Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente e
 \fill[light,fill opacity=.8] (0,0) rectangle (4,3);
 \fill[fill=light,fill opacity=1] (2,3) ellipse (2 and \EixoM);
 
-% shift vertical nos arcos de elipse definido por \y
-\foreach \y in {1,...,4}{
-\pgfpathmoveto{\pgfpoint{0 cm}{\y cm}}
-\pgfpatharc{-180}{-130}{2cm and \EixoM cm}
-\color{Green}
-\pgfusepath{draw}}
-
 \pgfpathmoveto{\pgfpoint{0 cm}{0 cm}}
 \pgfpatharc{-180}{0}{2cm and \EixoM cm}
 \pgfusepath{draw}
@@ -1001,6 +993,14 @@ Você tem um copo cilíndrico graduado com cinco marcas horizontais igualmente e
 \draw (2,4) ellipse (2 and \EixoM);
 \draw (0,0) -- (0,4);
 \draw (4,0) -- (4,4);
+
+% shift vertical nos arcos de elipse definido por \y
+\foreach \y in {1,...,4}{
+\pgfpathmoveto{\pgfpoint{0 cm}{\y cm}}
+\pgfpatharc{-180}{-130}{2cm and \EixoM cm}
+\color{Green}
+\pgfusepath{draw}}
+
 \end{tikzpicture}
 \end{center}
 
@@ -1035,15 +1035,15 @@ Verifique se é possível completar um número inteiro de níveis do copo de seu
 \subsection{Atividade}
 
 \begin{enumerate} [\quad a)] %s
-  \item     Quantas são as frações com denominador igual a 5 que são menores do que     $\frac{3}{5}$    ? Explique como você chegou à sua resposta.
-  \item     Quantas são as frações com denominador igual a 5 que são maiores do que     $\frac{3}{5}$    ? Explique como você chegou à sua resposta.
+  \item     Quantas são as frações com denominador igual a 5 que são menores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
+  \item     Quantas são as frações com denominador igual a 5 que são maiores do que $\frac{3}{5}$? Explique como você chegou à sua resposta.
 \end{enumerate} %s
 
 \subsection{Atividade}
 
 Para cada par de frações na mesma linha da tabela a seguir, determine frações de mesmo denominador que sejam iguais a cada uma das frações dadas. Em seguida, compare essas frações, preenchendo a coluna em branco, com um dos símbolos ``$>$'', ``$<$'' ou ``$=$'', de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira. Vamos fazer o Item a) juntos: observe que
 
-$\frac{5}{6} = \frac{5 \times 5}{5 \times 6} = \frac{25}{30}$ e $\frac{4}{5} = \frac{6 \times 4}{6 \times 5} = \frac{24}{30}$
+$$\frac{5}{6} = \frac{5 \times 5}{5 \times 6} = \frac{25}{30}$ e $\frac{4}{5} = \frac{6 \times 4}{6 \times 5} = \frac{24}{30}.$$
 
 Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenchemos a coluna em branco da primeira linha com $>$.
 
@@ -1053,23 +1053,23 @@ Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenche
     \hline
      Item &  Fração &  $>$, $<$ ou $=$ &  Fração \\
     \hline \hline
-     a) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{5}{6} = \dfrac{25}{30}$ } &   $>$  &  $\dfrac{24}{30} = \dfrac{4}{5}$ \\
+     a) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{5}{6} = \dfrac{25}{30}$ } &   $>$&  $\dfrac{24}{30} = \dfrac{4}{5}$ \\
     \hline
-     b) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{3}{4} = \dfrac{\quad }{\quad }$} &   &  $\dfrac{\quad}{\quad} = \dfrac{2}{3}$ \\
+     b) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{3}{4} = \dfrac{\square}{\square}$} &   &  $\dfrac{\square}{\square} = \dfrac{2}{3}$ \\
     \hline
-     c) &  \parbox[b][1.2cm][c]{3cm}{$\dfrac{2}{10} = \dfrac{\quad }{\quad }$} &   &  $\dfrac{\quad}{\quad} = \dfrac{3}{15}$ \\
+     c) &  \parbox[b][1.2cm][c]{3cm}{$\dfrac{2}{10} = \dfrac{\square}{\square}$} &   &  $\dfrac{\square}{\square} = \dfrac{3}{15}$ \\
     \hline
-     d) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{1}{4} = \dfrac{\quad}{\quad}$} &   &  $\dfrac{\quad}{\quad} = \dfrac{6}{25}$ \\
+     d) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{1}{4} = \dfrac{\square}{\square}$} &   &  $\dfrac{\square}{\square} = \dfrac{6}{25}$ \\
     \hline
-     e) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{22}{7} = \dfrac{\quad}{\quad}$} &  &  $\dfrac{\quad}{\quad} = \dfrac{31}{10}$ \\
+     e) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{22}{7} = \dfrac{\square}{\square}$} &  &  $\dfrac{\square}{\square} = \dfrac{31}{10}$ \\
     \hline
-     f) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{22}{33} = \dfrac{\quad}{\quad}$} &   &  $\dfrac{\quad}{\quad} = \dfrac{24}{36}$ \\
+     f) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{22}{33} = \dfrac{\square}{\square}$} &   &  $\dfrac{\square}{\square} = \dfrac{24}{36}$ \\
     \hline
-     g) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{5}{10} = \dfrac{\quad}{\quad}$} &   &  $\dfrac{\quad}{\quad} = \dfrac{50}{100}$ \\
+     g) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{5}{10} = \dfrac{\square}{\square}$} &   &  $\dfrac{\square}{\square} = \dfrac{50}{100}$ \\
     \hline
-     h) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{7}{5} = \dfrac{\quad}{\quad}$} &  &  $\dfrac{\quad}{\quad} = \dfrac{17}{12}$ \\
+     h) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{7}{5} = \dfrac{\square}{\square}$} &  &  $\dfrac{\square}{\square} = \dfrac{17}{12}$ \\
     \hline
-     i) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{7}{12} = \dfrac{\quad}{\quad}$} &  &  $\dfrac{\quad}{\quad} = \dfrac{9}{20}$ \\
+     i) & \parbox[b][1.2cm][c]{3cm}{ $\dfrac{7}{12} = \dfrac{\square}{\square}$} &  &  $\dfrac{\square}{\square} = \dfrac{9}{20}$ \\
     \hline
   \end{longtable}
 \end{center}
@@ -1085,7 +1085,7 @@ Estes soquetes são identificados por frações que especificam seus tamanhos em
 Na figura a seguir, observe o tamanho dos soquetes e identifique cada um deles com uma das seguintes frações $\frac{1}{2}$, $\frac{3}{4}$, $\frac{3}{8}$, $\frac{5}{8}$, $\frac{7}{8}$, $\frac{7}{16}$, $\frac{9}{16}$, $\frac{11}{16}$ e $\frac{13}{16}$.
 
 \begin{center}
-    \includegraphics[width=300pt, keepaspectratio]{../../livro/media//cap4/secoes/PNGs/ativ14_fig01.png}  
+    \includegraphics[width=300pt, keepaspectratio]{../media/cap4/secoes/pngs/ativ14_fig01.png}  
 \end{center}
 
 \subsection{Atividade}
@@ -1093,12 +1093,12 @@ Na figura a seguir, observe o tamanho dos soquetes e identifique cada um deles c
 Responda às seguintes questões: 
 
 \begin{enumerate} [\quad a)] %d
-  \item     A fração determinada pela adição de 1 ao numerador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
-  \item     A fração determinada pela adição de 1 ao denominador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
-  \item     A fração determinada pela subtração de 1 ao denominador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
-  \item     A fração determinada pela adição de 2 ao numerador e ao denominador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
-  \item     A fração determinada pela multiplicação por 2 do numerador e do denominador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
-  \item     A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração     $\frac{4}{7}$     é maior, menor ou igual a     $\frac{4}{7}$    ? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela adição de 1 ao numerador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela adição de 1 ao denominador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela subtração de 1 ao denominador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela adição de 2 ao numerador e ao denominador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela multiplicação por 2 do numerador e do denominador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
+  \item     A fração determinada pela adição de 1 ao numerador e subtração de 1 ao denominador da fração     $\frac{4}{7}$ é maior, menor ou igual a     $\frac{4}{7}$? Explique como chegou a essa conclusão.
 \end{enumerate} %d
 
 \subsection{Atividade}
@@ -1258,15 +1258,16 @@ Luciano, um dos amigos sugeriu que cada panqueca fosse dividida em $24$ partes i
 \begin{enumerate} [\quad a)] %d
   \item     Com a divisão sugerida por Luciano, qual a fração de uma panqueca que cada amigo vai receber?
   \item     Quantos cortes da panqueca (do centro para a borda, como no desenho) são necessários para a divisão proposta?
-  \item     É possível dividir igualmente as     $8$     panquecas entre os     $24$     amigos fazendo menos cortes do que como sugerido por Luciano? Se você acha que sim, quantos cortes serão necessários e qual é a fração de uma panqueca que cada amigo vai receber neste caso?
+  \item     É possível dividir igualmente as     $8$ panquecas entre os     $24$ amigos fazendo menos cortes do que como sugerido por Luciano? Se você acha que sim, quantos cortes serão necessários e qual é a fração de uma panqueca que cada amigo vai receber neste caso?
 \end{enumerate} %d
 
 \subsection{Atividade}
 
 Dizemos que uma fração é {\bf irredutível} se o máximo divisor comum entre o seu numerador e o seu denominador é igual a $1$. Para cada fração indicada a seguir, determine uma fração igual que seja irredutível.
+\vspace{.2cm}
 
 \begin{tabular}{m{.18\textwidth}m{.18\textwidth}m{.18\textwidth}m{.18\textwidth}m{.18\textwidth}}
-a)$\dfrac{2}{4}$, & b) $\dfrac{6}{9}$, & c) $\dfrac{4}{2}$, & d) $\dfrac{5}{35}$, & e) $\dfrac{50}{100}$. 
+a) $\dfrac{2}{4}$, & b) $\dfrac{6}{9}$, & c) $\dfrac{4}{2}$, & d) $\dfrac{5}{35}$, & e) $\dfrac{50}{100}$. 
 \end{tabular}
 
 \subsection{Atividade}
@@ -1275,8 +1276,8 @@ O objetivo desta atividade é determinar qual é a maior e qual é a menor fraç
 as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
 
 \begin{enumerate} [\quad a)] %s
-  \item     Determine três frações de mesmo denominador que sejam iguais às frações     $\frac{11}{6}$    ,     $\frac{28}{15}$     e     $\frac{37}{20}$    .
-  \item     Usando as frações do Item a), determine qual é a maior e qual é a menor fração entre as frações     $\frac{11}{6}$    ,     $\frac{28}{15}$     e     $\frac{37}{20}$    .
+  \item     Determine três frações de mesmo denominador que sejam iguais às frações     $\frac{11}{6}$,     $\frac{28}{15}$ e     $\frac{37}{20}$.
+  \item     Usando as frações do item a), determine qual é a maior e qual é a menor fração entre as frações     $\frac{11}{6}$,     $\frac{28}{15}$ e     $\frac{37}{20}$.
 \end{enumerate} %s
 
 \subsection{Atividade}
@@ -1358,7 +1359,7 @@ Junte seus amigos para jogar! Seu grupo vai receber uma cópia de um tabuleiro o
 
 Seu grupo também receberá peões que identificarão as posições dos jogadores na trilha. Cada jogador deve escrever o seu nome no peão (na imagem a seguir, o peão está com o nome ``Antônio'').
 \begin{center}
-\includegraphics[width=30pt, keepaspectratio]{../../livro/media//cap4/secoes/caminho-peao.jpg}
+\includegraphics[width=50pt, keepaspectratio]{..//media//cap4/secoes/caminho-peao.jpg}
 \end{center}
 O dado pode ser usado para decidir a ordem de jogada. As regras do jogo são as seguintes:
 
@@ -1380,10 +1381,11 @@ Depois de jogar algumas vezes responda às questões a seguir.
 6º) 7 e 8? & 7º) 11 e 4? & 8º) 1 e 1? & 9º) 6 e 3? & 10º) 3 e 6?
 \end{tabular}
 
-\item   Em 5 rodadas consecutivas, o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$  e  $\frac{12}{6}$. Já o segundo jogador, nessas 5 rodadas, deu ao todo 47 passos. Ao final dessas rodadas, qual deles está a frente? 
+\item   Em 5 rodadas consecutivas, o primeiro jogador sorteou as frações  $\frac{7}{12}$, $\frac{10}{9}$, $\frac{1}{3}$, $\frac{3}{2}$e  $\frac{12}{6}$. Já o segundo jogador, nessas 5 rodadas, deu ao todo 47 passos. Ao final dessas rodadas, qual deles está a frente? 
 \end{enumerate}
 
 
+\newpage
 
 \section{QUEBRANDO A CUCA }
 
@@ -1444,7 +1446,7 @@ Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}
 \item  uma fração entre $\frac{19}{20}$ e $\frac{20}{20}$.
 \end{enumerate}
 
-\pagebreak
+
 \begin{refletindo*}[breakable]{}{}  
   
   Nas atividades 24 e 25 você estudou uma propriedade importante do conjunto das frações:  
@@ -1454,64 +1456,64 @@ Fabrício acredita que não existem frações entre $\frac{3}{5}$ e $\frac{4}{5}
 
   Ora, se sempre é possível, como se pode então determinar uma terceira fração entre as frações dadas? Para explicar melhor o procedimento, veja primeiro um exemplo.  
   
-  Suponha que se quer determinar uma fração entre as frações   $\frac{5}{7}$   e   $\frac{3}{4}$  .  
+  Suponha que se quer determinar uma fração entre as frações   $\frac{5}{7}$ e   $\frac{3}{4}$.  
   
   O primeiro passo é reescrevê-las usando um mesmo denominador:  
   
-  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28}$$  
+  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28}$$
   e  
-  $$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28}$$  
+  $$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28}.$$
   
-  Ao comparar as frações obtidas, percebe-se que   $\frac{20}{28}<\frac{21}{28}$  . No entanto, não se vê de imediato um exemplo de fração que seja maior que   $\frac{20}{28}$   e menor que   $\frac{21}{28}$  . Isto ocorre porque os números 20 e 21 são consecutivos.  
+  Ao comparar as frações obtidas, percebe-se que   $\frac{20}{28}<\frac{21}{28}$. No entanto, não se vê de imediato um exemplo de fração que seja maior que   $\frac{20}{28}$ e menor que   $\frac{21}{28}$. Isto ocorre porque os números 20 e 21 são consecutivos.  
   
   Humm... que tal aumentar ainda mais os denominadores? Pois é isso que será feito.  Multiplique por dois os numeradores e denominadores de cada uma das frações. Veja:  
   
-  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56}$$  
+  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56}$$
   e  
-  $$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28} = \dfrac{2 \times 21}{2 \times 28} = \dfrac{42}{56}$$  
+  $$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28} = \dfrac{2 \times 21}{2 \times 28} = \dfrac{42}{56}.$$
   
-  Agora sim. Pode-se escolher a fração   $\frac{41}{56}$   como solução do problema:  
+  Agora sim. Pode-se escolher a fração   $\frac{41}{56}$ como solução do problema:  
   
-  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} = \dfrac{2 \times 21}{2 \times 28} =  \dfrac{21}{28} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{3}{4}.$$  
+  $$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} = \dfrac{2 \times 21}{2 \times 28} =  \dfrac{21}{28} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{3}{4}.$$
   
   De modo resumido:  
   
-  $$\dfrac{5}{7} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} =\dfrac{3}{4}.$$  
+  $$\dfrac{5}{7} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} =\dfrac{3}{4}.$$
   
   Fácil, não é mesmo? O método consiste em buscar representações equivalentes com denominadores suficientemente grandes que permitam a nossa escolha do numerador. Por isso a multiplicação simultânea dos numeradores e denominadores das frações acima por dois. Os números 20 e 21 são consecutivos, essa foi a dificuldade inicial. Mas o dobro de 20 e o dobro de 21, que são números pares, não são números consecutivos. E essa foi a jogada de mestre!  
   
   Agora sim, pode-se apresentar o procedimento utilizado em uma linguagem mais geral.  
   
-  Dadas duas frações   $\frac{a}{b}$   e   $\frac{c}{d}$   diferentes (suponha   $\frac{a}{b}<\frac{c}{d}$  ) , queremos determinar uma terceira fração   $\frac{p}{q}$   tal que   $\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$  .  
+  Dadas duas frações   $\frac{a}{b}$ e   $\frac{c}{d}$ diferentes (suponha   $\frac{a}{b}<\frac{c}{d}$), queremos determinar uma terceira fração   $\frac{p}{q}$ tal que   $\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$.  
   
   O primeiro passo é encontrar frações iguais às anteriores, mas que tenham o mesmo denominador.  
   
   Para isso, basta multiplicar os numeradores e os denominadores de cada fração pelo denominador da outra fração. Veja:  
   
-  $$\dfrac{a}{b} = \dfrac{d \times a}{d \times b}$$  
-  onde   $d$   é o denominador da segunda fração e  
+  $$\dfrac{a}{b} = \dfrac{d \times a}{d \times b},$$
+  onde   $d$ é o denominador da segunda fração e  
   
-  $$\dfrac{c}{d} = \dfrac{b \times c}{b \times d}$$  
-  onde   $b$   é o denominador da primeira fração.  
+  $$\dfrac{c}{d} = \dfrac{b \times c}{b \times d},$$
+  onde   $b$ é o denominador da primeira fração.  
   
-  Além disso, como   $\frac{a}{b}<\frac{c}{d}$  , o produto   $d \times a$   é diferente do produto   $b \times c$  .  
+  Além disso, como   $\frac{a}{b}<\frac{c}{d}$, o produto   $d \times a$ é diferente do produto   $b \times c$.  
   
-  Ora, se   $d \times a$   e   $b \times c$   não são números naturais consecutivos, já temos condições de determinar a fração   $\frac{p}{q}$   basta fazer   $q = b \times d$   e escolher um número natural   $m$   entre   $d \times a$   e   $b \times c$  . Neste caso tem-se como solução para o problema a fração  
-  $$\dfrac{p}{q} = \dfrac{m}{b \times d},$$     
-  onde   $m$   é um número natural entre   $d \times a$   e   $b \times c$  .  
-  Agora, se   $d \times a$   e   $b \times c$   são números naturais consecutivos, usa-se a jogada de mestre. Isto é, multiplica-se por dois os numeradores e denominadores das frações acima:  
-  $$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b}$$  
+  Ora, se   $d \times a$ e   $b \times c$ não são números naturais consecutivos, já temos condições de determinar a fração   $\frac{p}{q}$ basta fazer   $q = b \times d$ e escolher um número natural   $m$ entre   $d \times a$ e   $b \times c$. Neste caso tem-se como solução para o problema a fração  
+  $$\dfrac{p}{q} = \dfrac{m}{b \times d},$$ 
+  onde   $m$ é um número natural entre   $d \times a$ e   $b \times c$.  
+  Agora, se   $d \times a$ e   $b \times c$ são números naturais consecutivos, usa-se a jogada de mestre. Isto é, multiplica-se por dois os numeradores e denominadores das frações acima:  
+  $$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b}$$
   e  
-  $$\dfrac{c}{d} = \dfrac{2b \times c}{2b \times d}$$  
-  Ora,   $(2d \times a)$    e   $(2b \times c)$   são dois números pares diferentes e, portanto, não consecutivos.   
+  $$\dfrac{c}{d} = \dfrac{2b \times c}{2b \times d}.$$
+  Ora,   $(2d \times a)$ e $(2b \times c)$ são dois números pares diferentes e, portanto, não consecutivos.   
   
-  Portanto, basta escolher   $p = (2d \times a) + 1$  , o primeiro número ímpar depois do número    $(2d \times a)$  ,  e   $q=(2b \times d)$  , para encontrar uma solução do nosso problema:  
+  Portanto, basta escolher   $p = (2d \times a) + 1$, o primeiro número ímpar depois do número    $(2d \times a)$,  e   $q=(2b \times d)$, para encontrar uma solução do nosso problema:  
   
-  $$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b} < \dfrac{(2d \times a) + 1}{2b \times d} <  \dfrac{2b \times c}{2b \times d} = \dfrac{c}{d}.$$  
+  $$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b} < \dfrac{(2d \times a) + 1}{2b \times d} <  \dfrac{2b \times c}{2b \times d} = \dfrac{c}{d}.$$
   
   Isto é,   
   
-  $$\dfrac{a}{b} < \dfrac{p}{q} < \dfrac{c}{d}.$$  
+  $$\dfrac{a}{b} < \dfrac{p}{q} < \dfrac{c}{d}.$$
   
 \end{refletindo*}
 

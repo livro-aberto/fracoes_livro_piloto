@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  23 NOV 2016 11:24
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  27 NOV 2016 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1453,7 +1453,7 @@ ABD: EveryShipout initializing macros
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks43
 \inpenc@posthook=\toks44
-) (./cap2_aluno.tex
+) (./cap4_aluno.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
 
@@ -1578,50 +1578,70 @@ Missing character: There is no ) in font nullfont!
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
 
-Cap\'{\i }tulo 2.
+Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
 
 LaTeX Font Warning: Font shape `EU1/Cabin(0)/bx/n' undefined
 (Font)              using `EU1/Cabin(0)/m/n' instead on input line 4.
 
 LaTeX Font Info:    Font shape `EU1/Cabin(0)/m/n' will be
 (Font)              scaled to size 32.34407pt on input line 4.
-LaTeX Font Info:    Try loading font information for U+msa on input line 7.
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 7.
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 7.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-File: ..//media/cap2/secoes/pngs_licao_02/quadrinho_01.png Graphic file (type Q
-Tm)
+File: ../media/cap4/secoes/pngs/quadrinho_01.png Graphic file (type QTm)
 
-<use  "..//media/cap2/secoes/pngs_licao_02/quadrinho_01.png" >
-File: ..//media/cap2/secoes/pngs_licao_02/quadrinho_02.png Graphic file (type Q
-Tm)
+<use  "../media/cap4/secoes/pngs/quadrinho_01.png" >
+File: ../media/cap4/secoes/pngs/quadrinho_02.png Graphic file (type QTm)
 
-<use  "..//media/cap2/secoes/pngs_licao_02/quadrinho_02.png" >
-File: ..//media/cap2/secoes/pngs_licao_02/quadrinho_03.png Graphic file (type Q
-Tm)
+<use  "../media/cap4/secoes/pngs/quadrinho_02.png" >
+File: ../media/cap4/secoes/pngs/quadrinho_03.png Graphic file (type QTm)
 
-<use  "..//media/cap2/secoes/pngs_licao_02/quadrinho_03.png" >
-File: ..//media/cap2/secoes/pngs_licao_02/quadrinho_04.png Graphic file (type Q
-Tm)
+<use  "../media/cap4/secoes/pngs/quadrinho_03.png" >
+File: ../media/cap4/secoes/pngs/quadrinho_04.png Graphic file (type QTm)
 
-<use  "..//media/cap2/secoes/pngs_licao_02/quadrinho_04.png" >
+<use  "../media/cap4/secoes/pngs/quadrinho_04.png" >
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 17.
-
-Underfull \vbox (badness 1552) has occurred while \output is active []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining portuges shorthand "|
@@ -1684,10 +1704,48 @@ Missing character: There is no ) in font nullfont!
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 19.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 62.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\EU1/LatoLight(0)/m/n/12 Quantidade
+ []
 
 
-LaTeX Warning: The counter will not be printed.
-             The label is: e) on input line 76.
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\EU1/LatoLight(0)/m/n/12 Quantidade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\EU1/LatoLight(0)/m/n/12 total de
+ []
+
+
+Overfull \hbox (18.7339pt too wide) in alignment at lines 67--71
+ [] [] [] [] 
+ []
+
+File: ../media/cap4/secoes/pngs/ativ2_fig01.png Graphic file (type QTm)
+<use  "../media/cap4/secoes/pngs/ativ2_fig01.png" >
+File: ../media/cap4/secoes/pngs/ativ2_fig02.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/pngs/ativ2_fig02.png" >
+File: ../media/cap4/secoes/pngs/ativ2_fig03.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/pngs/ativ2_fig03.png" >
+File: ../media/cap4/secoes/pngs/ativ2_fig04.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/pngs/ativ2_fig04.png" >
+File: ../media/cap4/secoes/pngs/ativ2_fig05.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/pngs/ativ2_fig05.png" >
+File: ../media/cap4/secoes/pngs/ativ2_fig06.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/pngs/ativ2_fig06.png" >
+Overfull \hbox (18.7339pt too wide) in alignment at lines 71--84
+ [] [] [] [] 
+ []
 
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
@@ -1695,9 +1753,9 @@ Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 84.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1752,17 +1810,22 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [3]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 125
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+File: ..//media//cap4/secoes/dobradura-geogebra.png Graphic file (type QTm)
 
+<use  "..//media//cap4/secoes/dobradura-geogebra.png" >
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 129.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 129.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1817,22 +1880,17 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [4]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 111.
-File: ..//media/cap2/secoes/pngs_licao_02/ativ3_fig01.png Graphic file (type QT
-m)
- <use  "..//media/cap2/secoes/pngs_licao_02/ativ3_fig01.png" >
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 129.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 129.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1888,16 +1946,16 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 191.
+(babel)             in language  on input line 132.
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 137.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 137.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1952,14 +2010,22 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [6]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 162.
+File: ../media/cap4/secoes/pngs/ativ4_fig01.png Graphic file (type QTm)
+<use  "../media/cap4/secoes/pngs/ativ4_fig01.png" >
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 283.
+(babel)             in language  on input line 167.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 283.
+(babel)             in language  on input line 167.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2014,42 +2080,19 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [7]
-File: ..//media/cap2/secoes/pngs_licao_02/orgideias_fig01.png Graphic file (typ
-e QTm)
- <use  "..//media/cap2/secoes/pngs_licao_02/orgideias_fig01.png" >
+File: ../media/cap4/secoes/pngs/ativ4_fig02.png Graphic file (type QTm)
+ <use  "../media/cap4/secoes/pngs/ativ4_fig02.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 303.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 305.
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-\EU1/LatoLight(0)/m/n/12 consumida por cada
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
-[]|\EU1/LatoLight(0)/m/n/12 Escreva, usando
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 379--379
-\EU1/LatoLight(0)/m/n/12 temática, a fração de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
-\EU1/LatoLight(0)/m/n/12 pizza consumida por
- []
-
+(babel)             in language  on input line 190.
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 194.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2104,49 +2147,64 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [8]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 389.
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--404
-[]|\EU1/LatoLight(0)/m/n/12 a)
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]|\EU1/LatoLight(0)/m/n/12 Quantas peças
  []
 
 
-Overfull \hbox (8.24994pt too wide) in paragraph at lines 396--404
-[]| 
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\EU1/LatoLight(0)/m/n/12 como essa ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--414
-[]|\EU1/LatoLight(0)/m/n/12 b)
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\EU1/LatoLight(0)/m/n/12 bem na região
  []
 
 
-Overfull \hbox (8.24994pt too wide) in paragraph at lines 405--414
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]|\EU1/LatoLight(0)/m/n/12 As peças que
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 417--425
-[]|\EU1/LatoLight(0)/m/n/12 c)
+Underfull \hbox (badness 2368) in paragraph at lines 205--205
+\EU1/LatoLight(0)/m/n/12 você usou, jun-
  []
 
 
-Overfull \hbox (8.24994pt too wide) in paragraph at lines 417--425
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\EU1/LatoLight(0)/m/n/12 tas, são que
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 429.
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\EU1/LatoLight(0)/m/n/12 fração do cír-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+[]|\EU1/LatoLight(0)/m/n/12 Que fração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+\EU1/LatoLight(0)/m/n/12 do círculo não
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 205--206
+\EU1/LatoLight(0)/m/n/12 está colorida de
+ []
+
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 435.
+(babel)             in language  on input line 232.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 435.
+(babel)             in language  on input line 232.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2201,40 +2259,22 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [9]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 439.
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
+Underfull \hbox (badness 10000) in paragraph at lines 486--504
+[][]
+ []
+
+
+Underfull \vbox (badness 1472) has occurred while \output is active []
+
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 589.
+(babel)             in language  on input line 506.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 589.
+(babel)             in language  on input line 506.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2289,32 +2329,14 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [10]
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 619.
-
-Overfull \hbox (3.24507pt too wide) in paragraph at lines 645--645
-[][] 
- []
-
-
-Overfull \hbox (3.24507pt too wide) in paragraph at lines 663--663
-[][] 
- []
-
-
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 506.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 506.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2369,19 +2391,14 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [11]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 669.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 716.
-
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 792.
+(babel)             in language  on input line 506.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 792.
+(babel)             in language  on input line 506.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2437,19 +2454,16 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [12]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 795.
-
-Underfull \vbox (badness 2418) has occurred while \output is active []
-
+(babel)             in language  on input line 509.
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 798.
+(babel)             in language  on input line 573.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 798.
+(babel)             in language  on input line 573.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2504,22 +2518,14 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [13]
-File: ..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png Graphic file (type Q
-Tm)
- <use  "..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png" >
-Overfull \hbox (3.29173pt too wide) in paragraph at lines 802--803
- [] 
- []
-
-
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 820.
+(babel)             in language  on input line 588.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 820.
+(babel)             in language  on input line 588.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2574,28 +2580,78 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [14]
-File: ..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png Graphic file (type Q
-Tm)
- <use  "..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png" >
-Overfull \hbox (3.29173pt too wide) in paragraph at lines 822--823
- [] 
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+[]|\EU1/LatoLight(0)/m/n/12 Quantas
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 828.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 830.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 836.
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 peças como
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 essa cabem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 na região
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 592--592
+[]|\EU1/LatoLight(0)/m/n/12 As peças que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 você usou,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 juntas, são
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 que fração do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--592
+\EU1/LatoLight(0)/m/n/12 retângulo do
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 592--593
+[]|\EU1/LatoLight(0)/m/n/12 Que fração do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+\EU1/LatoLight(0)/m/n/12 retângulo do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+\EU1/LatoLight(0)/m/n/12 encarte não
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 625
+ []
+
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 645.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 870.
+(babel)             in language  on input line 645.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2651,26 +2707,24 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 870.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 891.
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 934.
+(babel)             in language  on input line 649.
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--654
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 957.
+(babel)             in language  on input line 731.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 957.
+(babel)             in language  on input line 731.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2725,19 +2779,17 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [16]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 957.
-File: ..//media/cap2/secoes/pngs_licao_02/ativ18_fig01.png Graphic file (type Q
-Tm)
- <use  "..//media/cap2/secoes/pngs_licao_02/ativ18_fig01.png" >)
+File: ..//media//cap4/secoes/geogebra-reta-numerica-equivalencia.jpg Graphic fi
+le (type QTm)
+ <use  "..//media//cap4/secoes/geogebra-reta-numerica-equivalencia.jpg" >
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 882.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 882.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2792,11 +2844,1152 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [17]
-Overfull \vbox (12.0pt too high) has occurred while \output is active []
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[18]
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[19]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 884.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 902.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 907.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 907.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[20]
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 937.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 937.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[21]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 954.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 956.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 964.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 969.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 969.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[22]
+Overfull \hbox (0.52501pt too wide) in paragraph at lines 969--972
+[] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 973.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1037.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1044.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1044.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[23]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1044.
+
+! Display math should end with $$.
+<to be read again> 
+                    
+l.1048 ... \times 5}{5 \times 6} = \frac{25}{30}$ 
+                                                  e $\frac{4}{5} = \frac{6 \...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1049 
+       
+? 
+
+Underfull \vbox (badness 10000) detected at line 1076
+ []
 
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
 [][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1076.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1076.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[24]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1080.
+File: ../media/cap4/secoes/pngs/ativ14_fig01.png Graphic file (type QTm)
+ <use  "../media/cap4/secoes/pngs/ativ14_fig01.png" >
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1093.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1099.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1099.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[25]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1106.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1264.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1264.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[26]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1266.
+
+Overfull \hbox (32.93758pt too wide) in paragraph at lines 1271--1274
+[][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1275.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1285.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1297.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1297.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[27]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1299.
+File: ..//media//cap4/secoes/caminho-peao.jpg Graphic file (type QTm)
+ <use  "..//media//cap4/secoes/caminho-peao.jpg" >
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1365.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1365.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[28]
+Overfull \hbox (8.08655pt too wide) in paragraph at lines 1381--1385
+[] 
+ []
+
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1390.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1390.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[29]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1392.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1395.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1400.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1417.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1425.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1425.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[30]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1428.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1439.
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1446.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1446.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[31]
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1520.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1520.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[32]
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1520.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1520.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[33])
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[34]
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+ [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -2856,11 +4049,77 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
-[18
+[35
 
 ]
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
+
+Overfull \hbox (5.72148pt too wide) has occurred while \output is active
+[][]  
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+Missing character: There is no x in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+[36
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
@@ -2923,73 +4182,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
-[19
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-
-Overfull \hbox (5.72148pt too wide) has occurred while \output is active
-[][]  
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
-Missing character: There is no x in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ) in font nullfont!
-[20]
+[37]
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
@@ -3001,18 +4194,15 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 48.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 42217 strings out of 495559
- 855657 string characters out of 6186723
- 1046964 words of memory out of 5000000
- 44883 multiletter control sequences out of 15000+600000
- 10119 words of font info for 64 fonts, out of 8000000 for 9000
+ 42010 strings out of 495559
+ 850883 string characters out of 6186723
+ 1095847 words of memory out of 5000000
+ 44654 multiletter control sequences out of 15000+600000
+ 10968 words of font info for 73 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 63i,16n,101p,10403b,926s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,16n,101p,10403b,1267s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on livro_aluno_completo.pdf (20 pages).
+Output written on livro_aluno_completo.pdf (37 pages).

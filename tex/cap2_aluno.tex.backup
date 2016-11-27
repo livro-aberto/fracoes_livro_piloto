@@ -5,8 +5,8 @@
 
 
 \noindent\begin{tabular}{cc}
- \includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/quadrinho_01.png}   & \includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/quadrinho_02.png}   \\
- \includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/quadrinho_03.png} & \includegraphics[width=.45\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/quadrinho_04.png}     
+ \includegraphics[width=.45\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/quadrinho_01.png}   & \includegraphics[width=.45\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/quadrinho_02.png}   \\
+ \includegraphics[width=.45\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/quadrinho_03.png} & \includegraphics[width=.45\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/quadrinho_04.png}     
 \end{tabular}
 
 
@@ -21,8 +21,9 @@
 O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem repartidas entre elas.
 
 \begin{center}
-\begin{tikzpicture}[scale=0.9]
+\begin{tikzpicture}[x=1mm,y=1mm, scale=0.9]
 \draw[fill=Sepia] (0,0) rectangle (60,20);
+\draw[fill=Sepia, shift={(65,0)}] (0,0) rectangle (60,20);
 \end{tikzpicture}
 \end{center}
 
@@ -67,7 +68,7 @@ node [pos=0.5,anchor=north,yshift=-10] {\parbox[b]{40mm}{\centering Quantidade d
   \item Na divisão de cada uma das barras de chocolate em três partes iguais, cada parte é que fração de uma barra de chocolate?
   \item Você concorda com a divisão que Ana sugeriu? Explique. 
   \item Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate? 
-  \item Na divisão proposta por Ana, como você nomearia, usando uma fração de uma barra de chocolate, a quantidade de chocolate que cada irmã receberia? 
+  \item Na divisão proposta por Ana, como você nomearia, usando fração de uma barra de chocolate, a quantidade de chocolate que cada irmã receberia? 
 \end{enumerate}
   
 Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
@@ -93,7 +94,7 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
  
 \begin{enumerate} [\quad a)] %s
   \item     Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
-  \item     Considerando-se uma torta, como você nomearia, usando frações, a quantidade de torta que:     
+  \item     Considerando-se uma torta como unidade, como você nomearia, usando frações, a quantidade de torta que:     
 \begin{enumerate} [\quad I)] %d
       \item         Amarildo recebeu? 
       \item         Amarildo e Beto receberam juntos? 
@@ -109,21 +110,21 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
 
 \subsection{Atividade}
 
-Para a sobremesa do almoço de domingo, papai passou em uma confeitaria em que as tortas estavam divididas em 8 fatias, como na figura abaixo. 
+Para a sobremesa do almoço de domingo, papai passou em uma confeitaria que vende tortas divididas igualmente em 8 fatias, como na figura abaixo. 
 \begin{center}
-\includegraphics[width=.6\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/ativ3_fig01.png} 
+\includegraphics[width=.6\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/ativ3_fig01.png} 
 \end{center}
 
 \begin{enumerate} [\quad a)] %s
   \item     Que fração de uma torta é uma fatia? Explique.
   \item     Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
   \item     Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
-  \item     Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de     {\bf uma torta}    ? Lembre-se que oito fatias formam uma torta inteira.
+  \item     Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações {\bf  de uma torta}? Lembre-se que oito fatias formam uma torta inteira.
 \end{enumerate} %s
 
 \subsection{Atividade}
 
-Complete as afirmações com uma das frações: ``dois meios'', ``dois terços'', ``dois quintos'', ``três quartos'', ``oito sextos'' e ``nove meios'' para que sejam verdadeiras.
+Complete as afirmações com uma das frações: ``dois meios'', ``dois terços'', ``dois quintos'', ``três quartos'', ``oito sextos'' e ``nove meios'', para que sejam verdadeiras.
 
 \begin{enumerate}[a)]
  \item A parte pintada de vermelho em \begin{tikzpicture}[scale=0.8]
@@ -203,7 +204,7 @@ Se uma torta está dividida em três partes iguais, a torta fica separada em tr�
 \end{center}
 
 
-Duas fatias são ``dois terços da torta'', o que pode ser expresso simplesmente por ``$\frac{2}{3}$ da torta''. Deste modo, é claro que ``três terços da torta'' é uma torta inteira.
+Duas fatias são ``dois terços da torta'', o que pode ser expresso simplesmente por ``$\frac{2}{3}$ da torta''. Deste modo, ``três terços da torta'' é uma torta inteira.
 
 \begin{center}
 \begin{tikzpicture}
@@ -267,14 +268,14 @@ Também pode-se considerar quatro terços, cinco terços ou seis terços da tort
 \end{tikzpicture}
 \end{center}
 
-Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou, simplesmente, $\frac{1}{3}$ da torta. Juntando essas fatias, é possível se ter dois terços ($\frac{2}{3}$) e três terços ($\frac{3}{3}$) da torta. Com mais do que uma torta repartida em três partes iguais, obtem-se quatro terços ($\frac{4}{3}$), cinco terços ($\frac{5}{3}$), seis terços ($\frac{6}{3}$), etc, da torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 ``abaixo'' do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que ``dá nome'' à fração é chamado de {\it denominador} da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando ``terços''. 
+Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou, simplesmente, $\frac{1}{3}$ da torta. Juntando essas fatias, é possível se ter dois terços ($\frac{2}{3}$) e três terços ($\frac{3}{3}$) da torta. Com mais do que uma torta repartida em três partes iguais, pode-se obter quatro terços ($\frac{4}{3}$), cinco terços ($\frac{5}{3}$), seis terços ($\frac{6}{3}$) etc de torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 ``abaixo'' do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que ``dá nome'' à fração é chamado de {\it denominador} da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando ``terços''. 
 
 Já o número que aparece ``acima'' do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de {\it numerador} da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
 
-Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\mbox{} \newline 
-Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se {\it dois quintos}.\mbox{} \newline 
-Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se {\it dez oitavos}. \mbox{} \newline 
-Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o {\bf número} do numerador seguido do {\bf nome que identifica a fração do tipo} $\frac{1}{b}$, nessa ordem. Veja:
+Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3: \newline 
+Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Lê-se {\it dois quintos}.\newline 
+Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Lê-se {\it dez oitavos}. \newline 
+Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o {\bf número} do numerador seguido do {\bf nome que identifica a equipartição da unidade, e que está indicado no denominador}, nessa ordem. Veja:
 
 $$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
 $$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
@@ -295,7 +296,7 @@ $$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100} \rightarro
 {\bf Pronto! Agora você já é capaz de ler diversos tipos de frações.}
 
 \begin{center}
- \includegraphics[width=.9\textwidth, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/orgideias_fig01.png} 
+ \includegraphics[width=.9\textwidth, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/orgideias_fig01.png} 
 \end{center}
 
 
@@ -381,7 +382,7 @@ Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela
 \end{center}
 
 \begin{enumerate} [\quad a)] %d
-  \item     Na sua opinião, qual representação de fração     ``gasta menos lápis''     para se escrita? Usando notação simbólica matemática, escrevendo por extenso ou pintando?
+  \item     Na sua opinião, qual representação de fração     ``gasta menos lápis''     para ser escrita: usando notação simbólica matemática, escrevendo por extenso ou pintando?
   \item     Na sua opinião, qual a representação que mais rapidamente ajuda a decidir quem comeu mais e quem comeu menos pizza?
 \end{enumerate} %d
 
@@ -798,13 +799,13 @@ Lucas, Matheus, Heitor, Rafael, Enzo, Nicolas, Lorenzo, Guilherme e Samuel estav
 A figura a seguir mostra o quão longe foi o carrinho de Lucas e onde ele parou na pista com relação ao ponto de largada.
 
 \begin{center}
-\includegraphics[width=450pt, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/ativ12_fig01.png} 
+\includegraphics[width=450pt, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png} 
 \end{center}
 
 Sabe-se que:
 
 \begin{enumerate} [\quad a)] %s
-  \item     O carrinho de Matheus só conseguiu ir metade da distância percorrida pelo carrinho de Lucas.
+  \item     O carrinho de Matheus só conseguiu ir até a metade da distância percorrida pelo carrinho de Lucas.
   \item     O carrinho de Heitor conseguiu ir até     $\frac{3}{2}$     da distância percorrida pelo carrinho de Lucas. 
   \item     O carrinho de Rafael conseguiu ir até     $\frac{4}{2}$     da distância percorrida pelo carrinho de Lucas.
   \item     O carrinho de Enzo conseguiu ir até     $\frac{5}{2}$     da distância percorrida pelo carrinho de Lucas. 
@@ -818,7 +819,7 @@ Sabe-se que:
 Com estas informações, marque as posições de parada dos carrinhos de todos os amigos de Lucas no encarte que você irá receber.
 
 \begin{center}
-\includegraphics[width=450pt, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/ativ12_fig01.png} 
+\includegraphics[width=450pt, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png} 
 \end{center}
 
 
@@ -955,10 +956,10 @@ Júlia disse: ``A parte em vermelho representa $\frac{3}{5}$''. Davi retrucou: `
 
 \subsection{Atividade}
 
-Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias (alternativa: simplesmente fazer o desenho das 38 fatias alinhadas, e não formando o círculo, com um triângulo ao lado de outro, caso as fatias fossem triângulos).
+Em uma pizzaria rodízio, 7 amigos comem, ao todo, 38 fatias.
 
 \begin{center}
-\includegraphics[width=300pt, keepaspectratio]{../../livro/media/cap2/secoes/pngs_licao_02/ativ18_fig01.png} 
+\includegraphics[width=300pt, keepaspectratio]{..//media/cap2/secoes/pngs_licao_02/ativ18_fig01.png} 
 \end{center}
 
 
