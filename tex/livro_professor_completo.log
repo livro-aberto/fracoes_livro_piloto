@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  27 NOV 2016 20:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  27 NOV 2016 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1480,14 +1480,14 @@ Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 
 
-[8] [9] [10] [11] [12] [13] [14]
+[8] [9] [10] [11] [12] [13] [14] [15]
 .................................................
 . fontspec info: "no-scripts"
 . 
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (308.99242pt too wide) in paragraph at lines 862--862
+Overfull \hbox (308.99242pt too wide) in paragraph at lines 858--858
 []  [] 
  []
 
@@ -1498,14 +1498,14 @@ Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 Overfull \vbox (92.00677pt too high) has occurred while \output is active []
 
 
-[15]) (./livro_professor_completo.aux) ) 
+[16]) (./livro_professor_completo.aux) ) 
 Here is how much of TeX's memory you used:
  35905 strings out of 495559
  760989 string characters out of 6186723
- 976019 words of memory out of 5000000
+ 977019 words of memory out of 5000000
  38625 multiletter control sequences out of 15000+600000
  5579 words of font info for 52 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  63i,10n,101p,10392b,845s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on livro_professor_completo.pdf (15 pages).
+Output written on livro_professor_completo.pdf (16 pages).
