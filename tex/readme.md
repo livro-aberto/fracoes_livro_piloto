@@ -3,15 +3,13 @@ A versão mais atual do pdf deste livro encontra-se em https://www.umlivroaberto
 #Colaborar com o desenvolvimento deste material
 ##Para submeter mudanças diretamente por este repositório:
 1. matenha a tecla Ctrl pressionada e clique no link https://github.com/livro-aberto/fracoes_livro_piloto/tree/master/tex
-2. escolha o arquivo com extensão .tex que deseja alterar (separadas por capítulo), 
-3. clique em "edit" (ícone de um lápis)
-4. apresente um breve resumo sobre sua edição no campo "commit" no final da página e submeta suas sugestões.
+2. escolha o arquivo com extensão .tex que deseja alterar (estão separados por lição), 
+3. clique em "Edit this file" (ícone de um lápis acima do texto),
+4. efetue as edições que desejar,
+5. apresente um resumo da edição em "Propose file change" no final da página, e
+6. na tela seguinte basta clicar em "Create Pull Request" para nos enviar suas sugestes.
 
-##Para incluir comentários linha a linha no ambiente de edição:
-1. posicione o mouse no início de uma linha para ver o símbolo  "+",
-2. clique nele para adicionar comentários.
-
-#Para criar sua própria versão deste livro
+#Para administrar sua própria versão deste livro
 Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
 
 Para gerar o livro do aluno:
