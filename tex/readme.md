@@ -4,7 +4,7 @@ A versão mais atual do pdf deste livro encontra-se em https://www.umlivroaberto
 ##Para submeter mudanças diretamente por este repositório:
 1. matenha a tecla Ctrl pressionada e clique no link https://github.com/livro-aberto/fracoes_livro_piloto/tree/master/tex
 2. na aba que se abrirá, escolha o arquivo com extensão .tex que deseja alterar (por lição, texto do aluno ou do prof), 
-3. clique em "Edit this file" (ícone de um lápis acima do texto),
+3. clique em "Edit this file" (ícone de um lápis acima do texto, à direita),
 4. efetue as edições que desejar,
 5. faça um resumo da edição em "Propose file change" no final da página, e
 6. na tela seguinte clique em "Create Pull Request" para nos enviar suas sugestões.
