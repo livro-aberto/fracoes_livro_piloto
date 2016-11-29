@@ -2,22 +2,23 @@ A versão mais atual do pdf deste livro encontra-se em https://www.umlivroaberto
 
 #Colaborar com o desenvolvimento deste material
 ##Para submeter mudanças diretamente por este repositório:
-1. escolha o arquivo com extensão .tex que deseja alterar, 
-2. clique em "edit" (ícone de um lápis)
-3. apresente um breve resumo sobre sua edição no campo "commit" no final da página e submeta suas sugestões.
+1. matenha a tecla Ctrl pressionada e clique no link https://github.com/livro-aberto/fracoes_livro_piloto/tree/master/tex
+2. escolha o arquivo com extensão .tex que deseja alterar (separadas por capítulo), 
+3. clique em "edit" (ícone de um lápis)
+4. apresente um breve resumo sobre sua edição no campo "commit" no final da página e submeta suas sugestões.
 
 ##Para incluir comentários linha a linha no ambiente de edição:
 1. posicione o mouse no início de uma linha para ver o símbolo  "+",
 2. clique nele para adicionar comentários.
 
-#Estrutura dos arquivos do livro
+#Para criar sua própria versão deste livro
 Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
 
-##Para gerar o livro do aluno:
+Para gerar o livro do aluno:
 Compile os arquivos livro_aluno_completo.tex e introdução.tex
 Depois junte os pdfs na seguinte ordem capa, blank, contra-capa, introducao, livro_aluno_completo.
 
-##Para gerar o livro do professor:
+Para gerar o livro do professor:
 Compile os arquivos livro_aluno_completo.tex, livro_professor_completo.tex e introdução.tex. Então é necessário alternar as páginas do livro do aluno com as do professor. O seguinte comando faz isso no Linux
 
 pdftk A=livro_aluno_completo.pdf B=livro_professor_completo.pdf shuffle B A output collated.pdf
