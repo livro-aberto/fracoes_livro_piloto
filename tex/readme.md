@@ -7,7 +7,7 @@ A versão mais atual do pdf deste livro encontra-se em https://www.umlivroaberto
 3. clique em "Edit this file" (ícone de um lápis acima do texto),
 4. efetue as edições que desejar,
 5. apresente um resumo da edição em "Propose file change" no final da página, e
-6. na tela seguinte basta clicar em "Create Pull Request" para nos enviar suas sugestes.
+6. na tela seguinte basta clicar em "Create Pull Request" para nos enviar suas sugestões.
 
 #Para administrar sua própria versão deste livro
 Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
