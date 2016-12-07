@@ -1,13 +1,42 @@
+\documentclass[A4]{report}
+
+\RequirePackage{amsmath,amssymb}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T1]{fontenc}
+\RequirePackage[brazil]{babel}
+
+\RequirePackage{geometry}
+\geometry{
+textwidth=157mm,
+paperwidth=196mm,
+paperheight=280mm,
+top=1in,
+left=27mm,
+footskip=.7in
+}
+% Para hiperreferências - é utilizado na segunda página
+\usepackage{hyperref}
+% Para utilizar tamanho de fonte qualquer.
+\usepackage{anyfontsize}
+% Para enumerates customizados
+\RequirePackage{enumerate}
+%\RequirePackage[shortlabels]{enumitem} allow resume enumerate, but conflicts with enumerate package
+
+\RequirePackage{hyperref}
+\RequirePackage{graphicx}
 
 
+\begin{document}
 \thispagestyle{empty}
 
 \vspace{2cm}
 \begin{center}
 Projeto: LIVRO ABERTO DE MATEMÁTICA
 
+\includegraphics[width=3.5cm]{logo.jpg}
+
 \url{umlivroaberto.com}
-\vspace{2cm}
+\vspace{1cm}
 
 \begin{tabular}{p{.15\textwidth}p{.7\textwidth}}
 Título: & Frações no Ensino Fundamental - Volume 1\\
@@ -41,11 +70,14 @@ Israel Fialho Magalhães\\
 \\
 Capa: & Fabio Simas
 \end{tabular}
-\vspace{5cm}
+\vspace{2cm}
  
 \includegraphics[scale=1]{cc}
+\vspace{.3cm}
 
 Após o dia $1^{\textrm{\underline{o}}}$ de setembro de 2026 esta obra passa a estar licenciada por CC-by-sa.
 
 Algumas figuras podem possuir licença com mais direitos do que a vigente para todo o material.
 \end{center}
+
+\end{document}
