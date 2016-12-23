@@ -53,9 +53,21 @@ Relembrando a representação na reta numérica: você já conhece a reta numér
 \begin{enumerate} [\quad a)] %s
   \item     Marque na reta numérica pontos que representem as 3 quantidades de pizza nas imagens a seguir. 
 
-\begin{center}
-\includegraphics[width=400pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_a.png} 
-\end{center}
+{\centering
+\begin{tabular}{m{.2\textwidth}m{.35\textwidth}m{.35\textwidth} }
+
+\quad\;\; (I)
+
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}  & \quad\quad \quad\quad(II)
+
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} & \quad\quad \quad\quad \; (III)
+
+\begin{tabular}{cc}
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}& \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}\\
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} & \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}
+\end{tabular}
+\end{tabular}}
+
 
 \begin{center}
 \begin{tikzpicture}[x=10mm,y=10mm]
@@ -70,11 +82,15 @@ node[below] {$\x$};
 \end{tikzpicture}
 \end{center}
 
-\item     E no caso destas imagens, que pontos na reta numérica representam as 4 quantidades de pizza ilustradas?
+\item     E no caso destas imagens, que pontos na reta numérica representam as 4 quantidades de pizza ilustradas? As partes claras das imagens representam frações retiradas.
 \end{enumerate} %s
 
 \begin{center}
-\includegraphics[width=400pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b2.png} 
+\begin{tabular}{ccccccc}
+(I)&\quad\quad\quad & (II) &\quad\quad\quad&  (III) &\quad\quad\quad&  (IV) \\
+ \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_meia_pizza.png} & & \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_quarto_pizza.png} & &\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_tres_quartos_pizza.png} & &\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_meia_pizza.png}
+\end{tabular}
+
 \end{center}
 
 
@@ -356,7 +372,7 @@ node[below] {$\frac{\x}{8}$};
 \end{tikzpicture}   
 \end{center}
 
-\item     A unidade é uma barra de chocolate. 
+\item     A unidade é uma barra de chocolate. A parte clara foi retirada.
 
 \begin{center}
 \includegraphics[width=100pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_b.png} \quad \quad \quad
@@ -485,7 +501,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 \draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {$\x$};
  
 \foreach \x in  {.2,.4,.6,.8} % edit here for the vertical lines
-\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {{\Large $\frac{\square}{\square}$}};
+\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {{\huge $\dfrac{\square}{\square}$}};
 \end{scope}
 
 \end{tikzpicture}   
@@ -509,9 +525,13 @@ A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem $\frac{1}
 \end{tikzpicture} 
 \end{center}
 
-Pedro trouxe a seguinte marcação: 
+\vspace*{-2cm}
 
-\centering \begin{tikzpicture}[x=56.25mm,y=56.25mm]
+Pedro trouxe a primeira marcação e Miguel a segunda: 
+
+
+\begin{center}
+ \begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[fill=common, fill opacity=.3] (0,-.15) rectangle (1.2,.15);
 \draw (0,0) -- (1.2,0) ; %edit here for the axis
 \draw[dashed] (0.6,-.15) -- (.6,.15);
@@ -520,9 +540,7 @@ Pedro trouxe a seguinte marcação:
 \node at (.63,-.05) {$\frac{1}{2}$};
 \end{tikzpicture}
 
-Miguel trouxe esta:
-
-\centering \begin{tikzpicture}[x=56.25mm,y=56.25mm]
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[fill=common, fill opacity=.3] (0,-.15) rectangle (1.2,.15);
 \draw (0,0) -- (1.2,0) ; %edit here for the axis
 \draw[dashed] (0.5,-.15) -- (.5,.15);
@@ -530,6 +548,7 @@ Miguel trouxe esta:
 \node at (.03,-.05) {0};
 \node at (.53,-.05) {$\frac{1}{2}$};
 \end{tikzpicture} 
+\end{center}
 
 \begin{enumerate} [\quad a)] %s
   \item     É possível ambos estarem corretos? Justifique sua resposta. 
@@ -778,9 +797,9 @@ A partir dele, por justaposições desse segmento, são identificados na reta nu
 A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. Portanto, $\frac{3}{3}$ de uma pizza é igual a 1 pizza e $\frac{3}{3}$ de uma barra de chocolate é igual a 1 barra de chocolate.
 
 \begin{center}
-\begin{tabular}{cc}
-\noindent\includegraphics[width=100pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a.png}  &
-\noindent\includegraphics[width=100pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b.png} \\
+\begin{tabular}{ccc}
+\noindent\includegraphics[width=80pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a.png}  & \quad &
+\noindent\includegraphics[width=95pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b.png} \\
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -794,7 +813,7 @@ A representação dos números na reta numérica ajuda a perceber que os pontos 
 \node[below] at (2/3,0) {$\dfrac{2}{3}$};
 %\foreach \x in {0,1/3,2/3,1}{ \fill[common] (\x,0) circle (3pt);}
  
-\end{tikzpicture}   &
+\end{tikzpicture}   & &
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -815,9 +834,9 @@ A representação dos números na reta numérica ajuda a perceber que os pontos 
 Já $\frac{6}{3}$ é igual a 2. Assim, $\frac{6}{3}$ de uma pizza é igual a 2 pizzas e $\frac{6}{3}$ de uma barra de chocolate é igual a 2 barras de chocolate.
 
 \begin{center}
-\begin{tabular}{cc}
-\includegraphics[width=200pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a_2.png} & 
-\includegraphics[width=110pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b_2.png} \\
+\begin{tabular}{lcc}
+\includegraphics[width=180pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a_2.png} &\quad &
+\includegraphics[width=100pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b_2.png} \\
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -828,7 +847,7 @@ Já $\frac{6}{3}$ é igual a 2. Assim, $\frac{6}{3}$ de uma pizza é igual a 2 p
 \foreach \x in {1,...,5}{\draw (\x/3,3pt) -- (\x/3,-3pt);
 \node[below] at (\x/3,0) {$\dfrac{\x}{3}$};}
  
-\end{tikzpicture}     &
+\end{tikzpicture}     & &
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -846,7 +865,7 @@ Já $\frac{6}{3}$ é igual a 2. Assim, $\frac{6}{3}$ de uma pizza é igual a 2 p
 
 
 
-E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$
+E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ {\Large $\square$}
 
 Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
 
@@ -875,7 +894,7 @@ Na reta numérica a seguir estão destacados alguns pontos e as frações corres
 \foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
  
 \foreach \x in {4,15,20}{ \fill[common] (\x/6,0) circle (3pt);
-\node[below] at (\x/6,-9pt) {$\dfrac{}{6}$};}
+\node[below] at (\x/6,-3pt) {$\dfrac{\square}{6}$};}
  
 \foreach \x in {2,9}{ \node[below] at (\x/6,-3pt) {$\dfrac{\x}{6}$};}
  
@@ -1174,10 +1193,10 @@ Associe, como no exemplo, cada uma das frações à sua representação na reta 
 Observando a atividade anterior (Atividade 13), complete as sentenças a seguir com os sinais $>$ (maior) ou $<$ (menor) de modo a torná-las verdadeiras.
 \begin{center}
 \begin{tabular}{ccccccccc}
- a)  &   $\dfrac{1}{2}$    & \parbox[t][.6cm]{2cm}{ }\quad\quad\quad      &  $\dfrac{1}{5}$ & \quad\quad\quad\quad\quad\quad\quad   &e)  &  $\dfrac{1}{35}$   & \quad\quad\quad      &  $\dfrac{1}{43}$\\
- b)  &  $\dfrac{1}{4}$    & \parbox[t][.6cm]{2cm}{ }      &  $\dfrac{1}{3}$   & & f)  &  $\dfrac{1}{99}$   &       &  $\dfrac{1}{100}$  \\
- c)  &  $\dfrac{1}{10}$   &  \parbox[t][.6cm]{2cm}{ }     &  $\dfrac{1}{20}$  & & g)  &  $\dfrac{1}{5}$    &       &  $\dfrac{1}{50}$  \\
- d)  &  $\dfrac{1}{12}$   & \parbox[t][.6cm]{2cm}{ }      &  $\dfrac{1}{2}$   & & h)  &  $\dfrac{1}{100}$  &       &  $\dfrac{1}{10}$  \\ 
+ a)  &   $\dfrac{1}{2}$    & \parbox[t][.6cm]{2cm}{ }\;\,{\huge $\square$} \quad      &  $\dfrac{1}{5}$ & \quad\quad\quad\quad\quad\quad\quad   &e)  &  $\dfrac{1}{35}$   & \,{\huge $\square$}\quad      &  $\dfrac{1}{43}$\\
+ b)  &  $\dfrac{1}{4}$    & \parbox[t][.6cm]{2cm}{ }{\huge $\square$}      &  $\dfrac{1}{3}$   & & f)  &  $\dfrac{1}{99}$   &  {\huge $\square$}     &  $\dfrac{1}{100}$  \\
+ c)  &  $\dfrac{1}{10}$   &  \parbox[t][.6cm]{2cm}{ }{\huge $\square$}     &  $\dfrac{1}{20}$  & & g)  &  $\dfrac{1}{5}$    &  {\huge $\square$}     &  $\dfrac{1}{50}$  \\
+ d)  &  $\dfrac{1}{12}$   & \parbox[t][.6cm]{2cm}{ }{\huge $\square$}      &  $\dfrac{1}{2}$   & & h)  &  $\dfrac{1}{100}$  & {\huge $\square$}      &  $\dfrac{1}{10}$  \\ 
  \end{tabular}
  \end{center}
 
@@ -1225,13 +1244,13 @@ Complete as sentenças a seguir com os sinais $>$ (maior), $<$ (menor) ou $=$ (i
 
 \begin{center}
 \begin{tabular}{lccccccccccccc}
- a)  &  $\dfrac{3}{6}$     &   &  $\dfrac{5}{6}$   & \parbox[t][.6cm]{2cm}{ } \quad \quad\quad  & f)  &  $\dfrac{1}{2}$     &   &  $\dfrac{1}{3}$    & \quad \quad\quad  & m)  &  $\dfrac{3}{2}$     &   &  $\dfrac{2}{5}$    \\
- b)  &  $\dfrac{5}{9}$     &   &  $\dfrac{4}{9}$   & \parbox[t][.6cm]{2cm}{ }    & g)  &  $\dfrac{1}{7}$     &   &  $\dfrac{1}{6}$    &   & n)  &  $\dfrac{3}{4}$     &   &  $\dfrac{6}{5}$    \\
- c)  &  $\dfrac{7}{10}$    &   &  $\dfrac{9}{10}$   & \parbox[t][.6cm]{2cm}{ }   & h)  &  $\dfrac{2}{5}$     &   &  $\dfrac{2}{7}$    &   & o)  &  $\dfrac{7}{8}$     &   &  $\dfrac{10}{9}$   \\
- d)  &  $\dfrac{3}{12}$    &   &  $\dfrac{9}{12}$   & \parbox[t][.6cm]{2cm}{ }   & i)  &  $\dfrac{4}{5}$     &   &  $\dfrac{4}{3}$    &   & p)  &  $\dfrac{6}{5}$     &   &  $\dfrac{12}{9}$   \\
- e)  &  $\dfrac{39}{100}$  &   &  $\dfrac{25}{100}$ & \parbox[t][.6cm]{2cm}{ }   & j)  &  $\dfrac{12}{15}$   &   &  $\dfrac{12}{7}$   &   & q)  &  $\dfrac{4}{5}$     &   &  $\dfrac{5}{4}$    \\
-     &&                     &    &                  \parbox[t][.6cm]{2cm}{ }    &  l)  &  $\dfrac{22}{80}$   &   &  $\dfrac{22}{90}$  &   & r)  &  $\dfrac{35}{40}$   &   &  $\dfrac{30}{25}$  \\
-     &&                      &    &                    &      &  \parbox[t][.6cm]{2cm}{ }                    &   &                   &   &  s)  &  $\dfrac{99}{100}$  &   &  $\dfrac{3}{2}$    \\
+ a)  &  $\dfrac{3}{6}$     &{\huge $\square$}  &  $\dfrac{5}{6}$   & \parbox[t][.6cm]{2cm}{ } \quad \quad\quad  & f)  &  $\dfrac{1}{2}$     & {\huge $\square$} &  $\dfrac{1}{3}$    & \quad \quad\quad  & m)  &  $\dfrac{3}{2}$     & {\huge $\square$} &  $\dfrac{2}{5}$    \\
+ b)  &  $\dfrac{5}{9}$     &{\huge $\square$}&  $\dfrac{4}{9}$   & \parbox[t][.6cm]{2cm}{ }    & g)  &  $\dfrac{1}{7}$     &{\huge $\square$} &  $\dfrac{1}{6}$    &   & n)  &  $\dfrac{3}{4}$     &{\huge $\square$} &  $\dfrac{6}{5}$    \\
+ c)  &  $\dfrac{7}{10}$    &{\huge $\square$} &  $\dfrac{9}{10}$   & \parbox[t][.6cm]{2cm}{ }   & h)  &  $\dfrac{2}{5}$     &{\huge $\square$}&  $\dfrac{2}{7}$    &   & o)  &  $\dfrac{7}{8}$     &{\huge $\square$} &  $\dfrac{10}{9}$   \\
+ d)  &  $\dfrac{3}{12}$    &{\huge $\square$}&  $\dfrac{9}{12}$   & \parbox[t][.6cm]{2cm}{ }   & i)  &  $\dfrac{4}{5}$     &{\huge $\square$}&  $\dfrac{4}{3}$    &   & p)  &  $\dfrac{6}{5}$     &{\huge $\square$}&  $\dfrac{12}{9}$   \\
+ e)  &  $\dfrac{39}{100}$  &{\huge $\square$}&  $\dfrac{25}{100}$ & \parbox[t][.6cm]{2cm}{ }   & j)  &  $\dfrac{12}{15}$   &{\huge $\square$}&  $\dfrac{12}{7}$   &   & q)  &  $\dfrac{4}{5}$     &{\huge $\square$}&  $\dfrac{5}{4}$    \\
+     &&                     &    &                  \parbox[t][.6cm]{2cm}{ }    &  l)  &  $\dfrac{22}{80}$   &{\huge $\square$}&  $\dfrac{22}{90}$  &   & r)  &  $\dfrac{35}{40}$   &{\huge $\square$}&  $\dfrac{30}{25}$  \\
+     &&                      &    &                    &      &  \parbox[t][.6cm]{2cm}{ }                    &   &                   &   &  s)  &  $\dfrac{99}{100}$  &{\huge $\square$}&  $\dfrac{3}{2}$    \\
 \end{tabular} 
  \end{center}
  
@@ -1245,60 +1264,61 @@ Você recebeu uma folha com retângulos que têm o mesmo tamanho mas que são co
 \begin{enumerate}[a)]
 \item Complete os retângulos, ecrevendo em cada um deles a fração representada por cada parte da equipartição, como no exemplo
 \begin{center}
-\begin{tikzpicture}[scale=.5]
+\begin{tikzpicture}[scale=.5, rotate=90]
 \draw[fill=gray] (0,0) rectangle (60,12);
-    \end{tikzpicture}
+    
 
-\begin{tikzpicture}[scale=.5]
+\begin{scope}[yshift=-40pt]
 \draw[fill=light] (0,0) rectangle (60,12);
 \draw (30,0) -- (30,12);
 \node at (15,6) {{\small $\frac{1}{2}$}};
 \node at (45,6) {{\small $\frac{1}{2}$}};
-\end{tikzpicture}
+
     
-   \begin{tikzpicture}[scale=.5]
+   \begin{scope}[yshift=-40pt]
 \draw[fill=pink] (0,0) rectangle (60,12);
 \foreach \x in {1,2} \draw (\x*60/3,0) -- (\x*60/3,12);
-    \end{tikzpicture}        
+            
     
-      \begin{tikzpicture}[scale=.5]
+      \begin{scope}[yshift=-40pt]
 \draw[fill=special] (0,0) rectangle (60,12);
 \foreach \x in {1,2,3} \draw (\x*60/4,0) -- (\x*60/4,12);
-    \end{tikzpicture}        
+            
     
-   \begin{tikzpicture}[scale=.5]
+   \begin{scope}[yshift=-40pt]
 \draw[fill=attention] (0,0) rectangle (60,12);
 \foreach \x in {1,...,4} \draw (\x*60/5,0) -- (\x*60/5,12);
-    \end{tikzpicture}        
+            
     
-   \begin{tikzpicture}[scale=.5]
+   \begin{scope}[yshift=-40pt]
 \draw[fill=common] (0,0) rectangle (60,12);
 \foreach \x in {1,...,5} \draw (\x*60/6,0) -- (\x*60/6,12);
-    \end{tikzpicture}        
+            
     
-    \begin{tikzpicture}[scale=.5]
+    \begin{scope}[yshift=-40pt]
 \draw[fill=CornflowerBlue] (0,0) rectangle (60,12);
 \foreach \x in {1,...,6} \draw (\x*60/7,0) -- (\x*60/7,12);
-    \end{tikzpicture}        
+            
     
-   \begin{tikzpicture}[scale=.5]
+   \begin{scope}[yshift=-40pt]
 \draw[fill=dark] (0,0) rectangle (60,12);
 \foreach \x in {1,...,7} \draw (\x*60/8,0) -- (\x*60/8,12);
-    \end{tikzpicture}        
+            
     
-   \begin{tikzpicture}[scale=.5]
+   \begin{scope}[yshift=-40pt]
 \draw[fill=Fuchsia] (0,0) rectangle (60,12);'
 \foreach \x in {1,...,8} \draw (\x*60/9,0) -- (\x*60/9,12);
-    \end{tikzpicture}        
+            
     
- \begin{tikzpicture}[scale=.5]   
+ \begin{scope}[yshift=-40pt]   
  \draw[fill=NavyBlue] (0,0) rectangle (60,12);
  \foreach \x in {1,...,9} \draw (\x*60/10,0) -- (\x*60/10,12);
-     \end{tikzpicture}        
+             
     
-\begin{tikzpicture}[scale=.5]   
+\begin{scope}[yshift=-40pt]   
     \draw[fill=BlueViolet] (0,0) rectangle (60,12);
 \foreach \x in {1,...,15} \draw (\x*60/16,0) -- (\x*60/16,12);
+\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}\end{scope}
     \end{tikzpicture}        
  \end{center}
 \item  Recorte os retângulos coloridos da folha que você recebeu e use-os para ajudá-lo a representar na reta numérica os seguintes números: 
@@ -1342,7 +1362,7 @@ Observando a reta numérica com as marcações feitas, compare:
   \item $\frac{5}{4}$  é menor do que 1?
   \item Escreva as frações marcadas na reta em ordem crescente, completando os espaços a seguir:
 
-$$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square} < 1 < \frac{\square}{\square}$$
+$$0 <  \dfrac{\text{\Large $\square$}}{\text{\Large $\square$}} <  \dfrac{\text{\Large $\square$}}{\text{\Large $\square$}} < \dfrac{\text{\Large $\square$}}{\text{\Large $\square$}} < 1 < \dfrac{\text{\Large $\square$}}{\text{\Large $\square$}}.$$
 
 Volte à reta e marque outras três frações que atendam às seguintes condições: 
   \item A primeira deve ser maior do que $3$ e menor do que $4$.

@@ -93,9 +93,6 @@ A participação do aluno, criando representações próprias e fazendo o uso da
     \item       Como esta atividade envolve a ideia de capacidade, recomenda-se que, antes de realizá-la, o professor leve para a sala de aula um recipiente transparente, na forma de um paralelepípedo (como um pequeno áquario, por exemplo) ou cilíndrico  (como um copo, por exemplo), e que, a partir do recipiente inicialmente cheio, discuta com a turma o que seria necessário observar para se verificar que metade da quantidade inicial de líquido foi derramada. Espera-se que os alunos identifiquem que essa verificação está associada à altura da quantidade de líquido no recipiente, que deve ser metade da original.  
     \item       O formato da caixa, um paralelepípedo, determina uma escala linear de medida (o mesmo valeria para um cilindro). No entanto, se a caixa tivesse outro formato, poderia não admitir uma escala linear. Por exemplo, é o caso dos tradicionais copos de medida usados na cozinha. Com esta observação, não se está recomendando que essa discussão seja trazida para a sala de aula neste momento. 
   
-  \begin{center}
-        \includegraphics[width=60pt, keepaspectratio]{..//media//cap3/secoes/png/ativ1_fig_professor.png}    
-  \end{center}
    \item Chame a atenção dos alunos para o fato de que o zero está associado à situação em que a caixa-d'água está vazia e o 1 à caixa completamente cheia. Além disso, à medida em que a caixa vai sendo enchida, a altura do nível da água vai aumentando.  
 
     \item       Espera-se que os alunos descartem as faixas c) e d). No entanto, as faixas a) e b) e e) encerram marcações possíveis. Discuta com os alunos as vantagens e as desvantagens das marcações apresentadas nessas faixas. A faixa a) traz a marcação da fração       $\frac{1}{2}$       associada ao segmento e não ao ponto. Embora não esteja errada, ela apresenta dois inconvenientes: 
@@ -143,6 +140,9 @@ A participação do aluno, criando representações próprias e fazendo o uso da
 node[below] {$\x$};
 \foreach \x in {1,2,4}
 \fill[common] (\x,0) circle (3pt);
+\node at (1,9pt) {(I)};
+\node at (2,9pt) {(II)};
+\node at (4,9pt) {(III)};
 \end{tikzpicture}
 
 \noindent b)
@@ -160,6 +160,10 @@ node[below] {$\x$};
 \foreach \x in {1,3}
 \fill[common] (\x/4,0) circle (3pt) node[below, black] {$\frac{\x}{4}$};
  
+\node at (.5,9pt) {(I)};
+\node at (.25,9pt) {(II)};
+\node at (.75,9pt) {(III)}; 
+\node at (1.5,9pt) {(IV)};
 \end{tikzpicture}
   \end{resposta*}
 
@@ -254,7 +258,7 @@ d)
 \end{tikzpicture}
 \vspace{.3cm}
  
- \clearpage
+ 
 e)
  
 \begin{tikzpicture}[x=37mm,y=37mm]
@@ -454,12 +458,24 @@ g)
 \noindent a)
 \begin{center}
  \begin{tikzpicture}[x=56.25mm,y=56.25mm]
+ 
+ 
+ \foreach \x in {1,2,...,5}{
+\fill[fill=common, fill opacity=.3, shift={(0,-\x*.15)}] (\x/5,0) rectangle (1,.1);
+\draw[fill=attention, shift={(0,-\x*.15)}] (0,0) rectangle (\x/5,.1);
+\draw[step=.2, shift={(0,-\x*.15)}] (0,0) grid (1,.1);
+\draw[shift={(0,-\x*.15)}] (0,.1)-- (1,.1);}
+ 
+ 
+ \begin{scope}[yshift=-135]
 \draw[->] (-0.1,0) -- (1.1,0) ; %edit here for the axis
  
 \draw[shift={(0,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {0};
  
-\foreach \x in  {1,...,5} % edit here for the vertical lines
+\foreach \x in  {1,...,4} % edit here for the vertical lines
 \fill[shift={(\x/5,0)},common] (0,0) circle (3pt) node[below, black] {{\Large $\frac{\x}{5}$}};
+\fill[shift={(1,0)},common] (0,0) circle (3pt) node[below, black] { 1};
+ \end{scope}
  
 \end{tikzpicture}
 \end{center}
@@ -610,11 +626,13 @@ g)
      
 \begin{tikzpicture}[x=50mm,y=100mm]
 \draw[->] (-0.2,0) -- (1.2,0) ; %edit here for the axis
-\foreach \x in {.2,.4,...,.8}{ \fill[attention] (\x,0) circle (3pt);}
-\foreach \x in {.25,.5,...,.75}{ \fill[common] (\x,0) circle (3pt);}
+\foreach \x in {.2,.4,...,.8}{ \draw (\x,-2pt) -- (\x,2pt);}
+\foreach \x in {.25,.5,...,.75}{ \draw (\x,-3pt) -- (\x,3pt);}
  
 \foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
-\foreach \x in {2,3}{ \node[below] at (\x/4,0) {$\frac{\x}{4}$};}
+\foreach \x in {2,3}{\fill[common] (\x/4,0) circle (3pt);
+\node[below] at (\x/4,0) {$\frac{\x}{4}$};}
+\fill[common] (3/5,0) circle (3pt);
 \node[below] at (.6,0) {$\frac{3}{5}$};
 \end{tikzpicture}
 

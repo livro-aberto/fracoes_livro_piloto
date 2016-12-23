@@ -9,7 +9,7 @@
 \newpage
 
 \setcounter{chapter}{2}
-\chapter{Frações e a reta numérica }
+\chapter{Frações na reta numérica }
 \setcounter{subsection}{0}
 \section{EXPLORANDO O ASSUNTO }
 
@@ -21,10 +21,10 @@ Para saber que fração da capacidade da caixa-d'água já está com água, ser�
 
   \begin{center}
   \begin{tabular}{cc}
-  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig01.png}  & \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig02.png}
+  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig01.png}  & \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig02.png}
   \end{tabular}\newline
   \begin{tabular}{cc}
-  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig03.png}  & \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig04.png}
+  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig03.png}  & \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig04.png}
   \end{tabular}
   \end{center}
 
@@ -33,29 +33,41 @@ Escolha, para cada um dos momentos, a graduação que lhe parece mais adequada p
   
      \begin{center}
      \begin{tabular}{m{.3\textwidth}m{.3\textwidth}m{.3\textwidth}}
- \parbox[b][.3cm][t]{.3cm}{a)}  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig05.png} &  
- \parbox[b][.3cm][t]{.3cm}{b)}  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig06.png} &
-  \parbox[b][.3cm][t]{.3cm}{c)}  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig07.png}  
+ \parbox[b][.3cm][t]{.3cm}{a)}  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig05.png} &  
+ \parbox[b][.3cm][t]{.3cm}{b)}  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig06.png} &
+  \parbox[b][.3cm][t]{.3cm}{c)}  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig07.png}  
    \end{tabular}
    
   \begin{tabular}{m{.3\textwidth}m{.3\textwidth}}
-  \parbox[b][0.3cm][t]{.3cm}{d)}  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig08.png}&
-  \parbox[b][0.3cm][t]{.3cm}{e)}  \includegraphics[width=145pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ1_fig09.png}
+  \parbox[b][0.3cm][t]{.3cm}{d)}  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig08.png}&
+  \parbox[b][0.3cm][t]{.3cm}{e)}  \includegraphics[width=145pt, keepaspectratio]{..//media/cap3/secoes/png/ativ1_fig09.png}
   \end{tabular}
   \end{center}
 
   
 \subsection{Atividade}
 
-Relembrando a representação na reta numérica: Você já conhece a reta numérica com os números naturais destacados.
+Relembrando a representação na reta numérica: você já conhece a reta numérica com os números naturais destacados.
 
 
 \begin{enumerate} [\quad a)] %s
   \item     Marque na reta numérica pontos que representem as 3 quantidades de pizza nas imagens a seguir. 
 
-\begin{center}
-\includegraphics[width=400pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ2_fig_a.png} 
-\end{center}
+{\centering
+\begin{tabular}{m{.2\textwidth}m{.35\textwidth}m{.35\textwidth} }
+
+\quad\;\; (I)
+
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}  & \quad\quad \quad\quad(II)
+
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} & \quad\quad \quad\quad \; (III)
+
+\begin{tabular}{cc}
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}& \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}\\
+\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png} & \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}
+\end{tabular}
+\end{tabular}}
+
 
 \begin{center}
 \begin{tikzpicture}[x=10mm,y=10mm]
@@ -70,11 +82,15 @@ node[below] {$\x$};
 \end{tikzpicture}
 \end{center}
 
-\item     E no caso destas imagens, que pontos na reta numérica representam as 4 quantidades de pizza ilustradas?
+\item     E no caso destas imagens, que pontos na reta numérica representam as 4 quantidades de pizza ilustradas? As partes claras das imagens representam frações retiradas.
 \end{enumerate} %s
 
 \begin{center}
-\includegraphics[width=400pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ2_fig_b2.png} 
+\begin{tabular}{ccccccc}
+(I)&\quad\quad\quad & (II) &\quad\quad\quad&  (III) &\quad\quad\quad&  (IV) \\
+ \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_meia_pizza.png} & & \includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_quarto_pizza.png} & &\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_tres_quartos_pizza.png} & &\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/pizza.png}\includegraphics[width=55pt, keepaspectratio]{..//media/cap3/secoes/png/ativ2_fig_b_meia_pizza.png}
+\end{tabular}
+
 \end{center}
 
 
@@ -90,7 +106,7 @@ node[below] {$\x$};
   
 \subsection{Atividade}
 
-Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida como uma fração da figura, ligue CADA figura ao número, sobre a reta numérica, correspondente à região colorida da mesma.
+Para cada par ou trio de figuras a seguir, há uma reta numérica. Considerando a região colorida de vermelho como uma fração da figura, ligue cada uma das figuras ao número, sobre a reta numérica, correspondente à região colorida da mesma.
 
 \begin{longtable}{lccc}
  
@@ -343,7 +359,7 @@ Para cada uma das figuras a seguir, marque na reta numérica o ponto corresponde
   \item     A unidade é uma pizza. 
 
 \begin{center}
-\includegraphics[width=60pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_a.png} 
+\includegraphics[width=60pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_a.png} 
 \quad\quad\quad \begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[->] (-0.3,0) -- (1.3,0) ; %edit here for the axis
 \foreach \x in  {0,1} % edit here for the vertical lines
@@ -356,10 +372,10 @@ node[below] {$\frac{\x}{8}$};
 \end{tikzpicture}   
 \end{center}
 
-\item     A unidade é uma barra de chocolate 
+\item     A unidade é uma barra de chocolate. A parte clara foi retirada.
 
 \begin{center}
-\includegraphics[width=100pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_b.png} \quad \quad \quad
+\includegraphics[width=100pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_b.png} \quad \quad \quad
 \begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[->] (-0.3,0) -- (1.3,0) ; %edit here for the axis
 \foreach \x in  {0,1} % edit here for the vertical lines
@@ -375,7 +391,7 @@ node[below] {$\frac{\x}{8}$};
 \item     A unidade é uma maçã. 
 
 \begin{center}
-\includegraphics[width=80pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_c.png} \quad \quad \quad
+\includegraphics[width=80pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_c.png} \quad \quad \quad
 \begin{tikzpicture}[x=60mm,y=60mm]
 \draw[->] (-1/4,0) -- (1+1/4,0) ; %edit here for the axis
 \foreach \x in  {0,0.25,...,1}{ % edit here for the vertical lines
@@ -391,7 +407,7 @@ node[below] {$\frac{\x}{8}$};
   \item     A unidade é um sanduíche de queijo com presunto. 
 
 \begin{center}
-\includegraphics[width=100pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_d.png} \quad \quad \quad
+\includegraphics[width=100pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_d.png} \quad \quad \quad
 \begin{tikzpicture}[x=60mm,y=60mm]
 \draw[->] (-1/4,0) -- (1+1/4,0) ; %edit here for the axis
 \foreach \x in  {0,0.25,...,1}{ % edit here for the vertical lines
@@ -407,7 +423,7 @@ node[below] {$\frac{\x}{8}$};
 \item A unidade é uma torta. 
 
 \begin{center}
-\includegraphics[width=100pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_e.png} \quad \quad \quad
+\includegraphics[width=100pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_e.png} \quad \quad \quad
  \begin{tikzpicture}[x=25.71mm,y=25.71mm]
 \draw[->] (-.5,0) -- (3,0) ; %edit here for the axis
 \foreach \x in  {0,0.5,...,2.5}{ % edit here for the vertical lines
@@ -422,7 +438,7 @@ node[below] {$\frac{\x}{8}$};
   \item     A unidade é um biscoito. 
 
 \begin{center}
-\includegraphics[width=100pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_f.png} \quad \quad \quad
+\includegraphics[width=100pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_f.png} \quad \quad \quad
 \begin{tikzpicture}[x=25.71mm,y=25.71mm]
 \draw[->] (-.5,0) -- (3,0) ; %edit here for the axis
 \foreach \x in  {0,0.5,...,2.5}{ % edit here for the vertical lines
@@ -439,7 +455,7 @@ node[below] {$\frac{\x}{8}$};
 
 \begin{flushright}
  \begin{tabular}{rcr}
-\includegraphics[width=50pt, keepaspectratio]{../../livro/media/cap3/secoes/png/ativ4_fig_g.png}  & \quad\quad\quad\quad&
+\includegraphics[width=50pt, keepaspectratio]{..//media/cap3/secoes/png/ativ4_fig_g.png}  & \quad\quad\quad\quad&
  \begin{tikzpicture}[x=25.71mm,y=25.71mm]
 \draw[->] (-.5,0) -- (3,0) ; %edit here for the axis
 \foreach \x in  {0,0.5,...,2.5}{ % edit here for the vertical lines
@@ -468,7 +484,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 
 
 \begin{enumerate} [\quad a)] %s
-  \item     Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas.
+  \item     Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas de vermelho.
 
 
 \begin{center}
@@ -485,7 +501,7 @@ A faixa a seguir está dividida em 5 partes iguais.
 \draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {$\x$};
  
 \foreach \x in  {.2,.4,.6,.8} % edit here for the vertical lines
-\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {{\Large $\frac{\square}{\square}$}};
+\draw[shift={(\x,0)},color=black] (0,3pt) -- (0pt,-3pt) node[below] {{\huge $\dfrac{\square}{\square}$}};
 \end{scope}
 
 \end{tikzpicture}   
@@ -509,7 +525,12 @@ A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem $\frac{1}
 \end{tikzpicture} 
 \end{center}
 
-Pedro trouxe a seguinte marcação: 
+\vspace*{-2cm}
+
+Pedro trouxe a primeira marcação e Miguel a segunda: 
+
+
+\begin{center}
  \begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[fill=common, fill opacity=.3] (0,-.15) rectangle (1.2,.15);
 \draw (0,0) -- (1.2,0) ; %edit here for the axis
@@ -519,8 +540,7 @@ Pedro trouxe a seguinte marcação:
 \node at (.63,-.05) {$\frac{1}{2}$};
 \end{tikzpicture}
 
-Miguel trouxe esta:
- \begin{tikzpicture}[x=56.25mm,y=56.25mm]
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
 \draw[fill=common, fill opacity=.3] (0,-.15) rectangle (1.2,.15);
 \draw (0,0) -- (1.2,0) ; %edit here for the axis
 \draw[dashed] (0.5,-.15) -- (.5,.15);
@@ -528,19 +548,20 @@ Miguel trouxe esta:
 \node at (.03,-.05) {0};
 \node at (.53,-.05) {$\frac{1}{2}$};
 \end{tikzpicture} 
+\end{center}
 
 \begin{enumerate} [\quad a)] %s
   \item     É possível ambos estarem corretos? Justifique sua resposta. 
-  \item     Faça marcações nessa fita correspondentes a     $\frac{1}{4}$     e a     $\frac{3}{4}$    . Explique como você fez essas marcações.
-  \item     Onde deve ser feita a marcação correspondente a     $\frac{4}{4}$    ?
-  \item     E a marcação de     $\frac{5}{4}$    ? 
+  \item     Faça marcações correspondentes a     $\frac{1}{4}$     e a     $\frac{3}{4}$  na reta numérica desenhada na fita. Explique como você fez essas marcações.
+  \item     Onde deve ser feita a marcação correspondente a     $\frac{4}{4}$    ? 
+  \item     E a marcação correspondente a     $\frac{5}{4}$    ? 
 \end{enumerate} %s
   
 \subsection{Atividade}
 
-Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a localização do tesouro e decida em que local ele deve cavar:
+Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a localização do tesouro e decida em que local ele deve cavar.
 
-\noindent\includegraphics[width=\textwidth, keepaspectratio]{../../livro/media//cap3/secoes/png/ativ7_fig01.png}  
+\noindent\includegraphics[width=\textwidth, keepaspectratio]{..//media//cap3/secoes/png/ativ7_fig01.png}  
 
 \begin{enumerate}[a)]
  \item Marque, no mapa, as localizações dos baús 1 e 2.
@@ -549,7 +570,7 @@ Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a l
 
 \subsection{Atividade}
 
-Três amigos foram a uma pizzaria e cada um pediu uma pizza média, de três sabores diferentes: João comeu $\frac{3}{4}$ da pizza de calabresa, Maria comeu  $\frac{2}{4}$ da pizza de presunto e Miguel comeu $\frac{3}{5}$ da pizza de Milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
+Três amigos foram a uma pizzaria e cada um pediu uma pizza média, de três sabores diferentes: João comeu $\frac{3}{4}$ da pizza de calabresa, Maria comeu  $\frac{2}{4}$ da pizza de presunto e Miguel comeu $\frac{3}{5}$ da pizza de milho. Sabendo que todas as pizzas eram do mesmo tamanho, pergunta-se:
 \begin{enumerate} [\quad a)] %s
   \item     Quem comeu mais pizza, João ou Maria? Explique.
   \item     E no caso de João e Miguel, quem comeu mais pizza? Explique.
@@ -581,7 +602,7 @@ A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do
   \item     Para alcançar a chegada, a tartaruga precisa percorrer menos do que     $\frac{2}{3}$     do caminho.
 \end{enumerate} %s
 
-  \noindent\includegraphics[width=\textwidth, keepaspectratio]{../../livro/media//cap3/secoes/png/ativ9_fig01.png}  
+  \noindent\includegraphics[width=\textwidth, keepaspectratio]{..//media//cap3/secoes/png/ativ9_fig01.png}  
 
 \subsection{Atividade}
 
@@ -612,7 +633,7 @@ Na figura, há várias retas paralelas igualmente espaçadas e outra reta, desta
 
 Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
 
-  \item     Marque, usando os pontos destacados na reta numérica, os pontos correspondentes ao 0 e ao 1
+  \item     Marque, usando os pontos destacados na reta numérica, os pontos correspondentes ao 0 e ao 1.
   \item     Marque, nesta mesma reta numérica, as frações     $\frac{3}{4}$     e     $\frac{5}{4}$    .
 \begin{center}
   \begin{tikzpicture}[x=56.25mm,y=56.25mm]
@@ -640,7 +661,7 @@ Como na figura anterior, há várias retas paralelas igualmente espaçadas e out
 \section{ORGANIZANDO AS IDEIAS }
 
 
-Frações na reta numérica
+{\bf Frações na reta numérica}
 
 Já é conhecido que os números naturais podem ser representados por pontos em uma reta. 
 Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
@@ -706,7 +727,7 @@ As frações também podem ser associadas a pontos na reta numérica. Para isso,
 \end{tikzpicture}   
 \end{center}
 
-Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
+Dividindo-se a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
 Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente a $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
 
 \begin{center}
@@ -773,12 +794,12 @@ A partir dele, por justaposições desse segmento, são identificados na reta nu
 \end{tikzpicture}   
 \end{center}
 
-A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
+A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. Portanto, $\frac{3}{3}$ de uma pizza é igual a 1 pizza e $\frac{3}{3}$ de uma barra de chocolate é igual a 1 barra de chocolate.
 
 \begin{center}
-\begin{tabular}{cc}
-\noindent\includegraphics[width=100pt, keepaspectratio]{../../livro/media//cap3/secoes/png/orgideias_fig_a.png}  &
-\noindent\includegraphics[width=100pt, keepaspectratio]{../../livro/media//cap3/secoes/png/orgideias_fig_b.png} \\
+\begin{tabular}{ccc}
+\noindent\includegraphics[width=80pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a.png}  & \quad &
+\noindent\includegraphics[width=95pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b.png} \\
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -792,7 +813,7 @@ A representação dos números na reta numérica ajuda a perceber que os pontos 
 \node[below] at (2/3,0) {$\dfrac{2}{3}$};
 %\foreach \x in {0,1/3,2/3,1}{ \fill[common] (\x,0) circle (3pt);}
  
-\end{tikzpicture}   &
+\end{tikzpicture}   & &
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -810,12 +831,12 @@ A representação dos números na reta numérica ajuda a perceber que os pontos 
 \end{tabular}
 \end{center}
 
-Já $\frac{6}{3}$ é igual a 2. 
+Já $\frac{6}{3}$ é igual a 2. Assim, $\frac{6}{3}$ de uma pizza é igual a 2 pizzas e $\frac{6}{3}$ de uma barra de chocolate é igual a 2 barras de chocolate.
 
 \begin{center}
-\begin{tabular}{cc}
-\includegraphics[width=200pt, keepaspectratio]{../../livro/media//cap3/secoes/png/orgideias_fig_a_2.png} & 
-\includegraphics[width=110pt, keepaspectratio]{../../livro/media//cap3/secoes/png/orgideias_fig_b_2.png} \\
+\begin{tabular}{lcc}
+\includegraphics[width=180pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_a_2.png} &\quad &
+\includegraphics[width=100pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig_b_2.png} \\
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -826,7 +847,7 @@ Já $\frac{6}{3}$ é igual a 2.
 \foreach \x in {1,...,5}{\draw (\x/3,3pt) -- (\x/3,-3pt);
 \node[below] at (\x/3,0) {$\dfrac{\x}{3}$};}
  
-\end{tikzpicture}     &
+\end{tikzpicture}     & &
 \begin{tikzpicture}[x=18mm,y=18mm]
  
 \draw[->] (-0.5,0) -- (3.5,0) ; %reta anterior
@@ -844,7 +865,7 @@ Já $\frac{6}{3}$ é igual a 2.
 
 
 
-E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$
+E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ {\Large $\square$}
 
 Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
 
@@ -863,7 +884,7 @@ Para identificar na reta numérica os pontos correspondentes às frações $\fra
 \end{tikzpicture}   
 \end{center}
 
-Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes a eles. Observe e complete as frações em destaque.
+Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes a eles. Observe e complete as frações em destaque indicando seus numeradores.
 
 \begin{center}
  \begin{tikzpicture}[x=18mm,y=18mm]
@@ -873,16 +894,16 @@ Na reta numérica a seguir estão destacados alguns pontos e as frações corres
 \foreach \x in {0,1,...,3}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
  
 \foreach \x in {4,15,20}{ \fill[common] (\x/6,0) circle (3pt);
-\node[below] at (\x/6,-9pt) {$\dfrac{}{6}$};}
+\node[below] at (\x/6,-3pt) {$\dfrac{\square}{6}$};}
  
 \foreach \x in {2,9}{ \node[below] at (\x/6,-3pt) {$\dfrac{\x}{6}$};}
  
 \end{tikzpicture}  
 \end{center}
 
-A ordem na reta numérica
+{\bf A ordem na reta numérica}
 
-Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. Assim, o que vale para o 0, o 1, o 2, o, 3, etc. também valerá para as frações: 
+Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. Assim, o que vale para o 0, o 1, o 2, o 3, etc. também valerá para as frações: 
 
 \begin{center}
 \begin{tikzpicture}[x=36mm,y=36mm]
@@ -951,13 +972,13 @@ Na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao n
 $\frac{4}{3}$ é maior do que $\frac{4}{5}$. Ou ainda, $\frac{4}{5}$ é menor do que $\frac{4}{3}$.
 
 
-O símbolo é usado $<$ para dizer ``menor do que''.
+O símbolo $<$ é usado para dizer ``menor do que''.
 
 Por exemplo, a frase ``oito é menor do que quinze'' pode ser expressa de modo mais resumido com ``$8<15$''. Já a expressão $\frac{1}{2}<\frac{3}{2}$ indica que ``um meio é menor do que três meios''.
 
-Do mesmo modo, o símbolo $>$ é usado para significar ``maior do que'', portanto, também pode-se escrever $15>8$ para expressar ``quinze é maior do que oito'' ou $\frac{3}{2}>\frac{1}{2}$  para expressar ``três meios é maior do que um meio''
+Do mesmo modo, o símbolo $>$ é usado para significar ``maior do que'', portanto, também pode-se escrever $15>8$ para expressar ``quinze é maior do que oito'' ou $\frac{3}{2}>\frac{1}{2}$  para expressar ``três meios é maior do que um meio''.
 \begin{center}
-  \includegraphics[width=300pt, keepaspectratio]{../../livro/media//cap3/secoes/png/orgideias_fig05.png}   
+  \includegraphics[width=300pt, keepaspectratio]{..//media//cap3/secoes/png/orgideias_fig05.png}   
 \end{center}
   
 \section{MÃO NA MASSA }
@@ -974,7 +995,7 @@ $\frac{1}{5}$, $\frac{3}{5}$, $\frac{4}{5}$, $\frac{6}{5}$, $\frac{7}{5}$, $\fra
 $\frac{1}{10}$.
 
 \begin{center}
-\includegraphics[width=300pt, keepaspectratio]{../../livro/media//cap3/secoes/png/ativ11_fig01.png} 
+\includegraphics[width=300pt, keepaspectratio]{..//media//cap3/secoes/png/ativ11_fig01.png} 
 \end{center}
 
 
@@ -1172,10 +1193,10 @@ Associe, como no exemplo, cada uma das frações à sua representação na reta 
 Observando a atividade anterior (Atividade 13), complete as sentenças a seguir com os sinais $>$ (maior) ou $<$ (menor) de modo a torná-las verdadeiras.
 \begin{center}
 \begin{tabular}{ccccccccc}
- a)  &   $\dfrac{1}{2}$    & \parbox[t][.6cm]{2cm}{ }\quad\quad\quad      &  $\dfrac{1}{5}$ & \quad\quad\quad\quad\quad\quad\quad   &e)  &  $\dfrac{1}{35}$   & \quad\quad\quad      &  $\dfrac{1}{43}$\\
- b)  &  $\dfrac{1}{4}$    & \parbox[t][.6cm]{2cm}{ }      &  $\dfrac{1}{3}$   & & f)  &  $\dfrac{1}{99}$   &       &  $\dfrac{1}{100}$  \\
- c)  &  $\dfrac{1}{10}$   &  \parbox[t][.6cm]{2cm}{ }     &  $\dfrac{1}{20}$  & & g)  &  $\dfrac{1}{5}$    &       &  $\dfrac{1}{50}$  \\
- d)  &  $\dfrac{1}{12}$   & \parbox[t][.6cm]{2cm}{ }      &  $\dfrac{1}{2}$   & & h)  &  $\dfrac{1}{100}$  &       &  $\dfrac{1}{10}$  \\ 
+ a)  &   $\dfrac{1}{2}$    & \parbox[t][.6cm]{2cm}{ }\;\,{\huge $\square$} \quad      &  $\dfrac{1}{5}$ & \quad\quad\quad\quad\quad\quad\quad   &e)  &  $\dfrac{1}{35}$   & \,{\huge $\square$}\quad      &  $\dfrac{1}{43}$\\
+ b)  &  $\dfrac{1}{4}$    & \parbox[t][.6cm]{2cm}{ }{\huge $\square$}      &  $\dfrac{1}{3}$   & & f)  &  $\dfrac{1}{99}$   &  {\huge $\square$}     &  $\dfrac{1}{100}$  \\
+ c)  &  $\dfrac{1}{10}$   &  \parbox[t][.6cm]{2cm}{ }{\huge $\square$}     &  $\dfrac{1}{20}$  & & g)  &  $\dfrac{1}{5}$    &  {\huge $\square$}     &  $\dfrac{1}{50}$  \\
+ d)  &  $\dfrac{1}{12}$   & \parbox[t][.6cm]{2cm}{ }{\huge $\square$}      &  $\dfrac{1}{2}$   & & h)  &  $\dfrac{1}{100}$  & {\huge $\square$}      &  $\dfrac{1}{10}$  \\ 
  \end{tabular}
  \end{center}
 
@@ -1223,13 +1244,13 @@ Complete as sentenças a seguir com os sinais $>$ (maior), $<$ (menor) ou $=$ (i
 
 \begin{center}
 \begin{tabular}{lccccccccccccc}
- a)  &  $\dfrac{3}{6}$     &   &  $\dfrac{5}{6}$   & \parbox[t][.6cm]{2cm}{ } \quad \quad\quad  & f)  &  $\dfrac{1}{2}$     &   &  $\dfrac{1}{3}$    & \quad \quad\quad  & m)  &  $\dfrac{3}{2}$     &   &  $\dfrac{2}{5}$    \\
- b)  &  $\dfrac{5}{9}$     &   &  $\dfrac{4}{9}$   & \parbox[t][.6cm]{2cm}{ }    & g)  &  $\dfrac{1}{7}$     &   &  $\dfrac{1}{6}$    &   & n)  &  $\dfrac{3}{4}$     &   &  $\dfrac{6}{5}$    \\
- c)  &  $\dfrac{7}{10}$    &   &  $\dfrac{9}{10}$   & \parbox[t][.6cm]{2cm}{ }   & h)  &  $\dfrac{2}{5}$     &   &  $\dfrac{2}{7}$    &   & o)  &  $\dfrac{7}{8}$     &   &  $\dfrac{10}{9}$   \\
- d)  &  $\dfrac{3}{12}$    &   &  $\dfrac{9}{12}$   & \parbox[t][.6cm]{2cm}{ }   & i)  &  $\dfrac{4}{5}$     &   &  $\dfrac{4}{3}$    &   & p)  &  $\dfrac{6}{5}$     &   &  $\dfrac{12}{9}$   \\
- e)  &  $\dfrac{39}{100}$  &   &  $\dfrac{25}{100}$ & \parbox[t][.6cm]{2cm}{ }   & j)  &  $\dfrac{12}{15}$   &   &  $\dfrac{12}{7}$   &   & q)  &  $\dfrac{4}{5}$     &   &  $\dfrac{5}{4}$    \\
-     &&                     &    &                  \parbox[t][.6cm]{2cm}{ }    &  l)  &  $\dfrac{22}{80}$   &   &  $\dfrac{22}{90}$  &   & r)  &  $\dfrac{35}{40}$   &   &  $\dfrac{30}{25}$  \\
-     &&                      &    &                    &      &  \parbox[t][.6cm]{2cm}{ }                    &   &                   &   &  s)  &  $\dfrac{99}{100}$  &   &  $\dfrac{3}{2}$    \\
+ a)  &  $\dfrac{3}{6}$     &{\huge $\square$}  &  $\dfrac{5}{6}$   & \parbox[t][.6cm]{2cm}{ } \quad \quad\quad  & f)  &  $\dfrac{1}{2}$     & {\huge $\square$} &  $\dfrac{1}{3}$    & \quad \quad\quad  & m)  &  $\dfrac{3}{2}$     & {\huge $\square$} &  $\dfrac{2}{5}$    \\
+ b)  &  $\dfrac{5}{9}$     &{\huge $\square$}&  $\dfrac{4}{9}$   & \parbox[t][.6cm]{2cm}{ }    & g)  &  $\dfrac{1}{7}$     &{\huge $\square$} &  $\dfrac{1}{6}$    &   & n)  &  $\dfrac{3}{4}$     &{\huge $\square$} &  $\dfrac{6}{5}$    \\
+ c)  &  $\dfrac{7}{10}$    &{\huge $\square$} &  $\dfrac{9}{10}$   & \parbox[t][.6cm]{2cm}{ }   & h)  &  $\dfrac{2}{5}$     &{\huge $\square$}&  $\dfrac{2}{7}$    &   & o)  &  $\dfrac{7}{8}$     &{\huge $\square$} &  $\dfrac{10}{9}$   \\
+ d)  &  $\dfrac{3}{12}$    &{\huge $\square$}&  $\dfrac{9}{12}$   & \parbox[t][.6cm]{2cm}{ }   & i)  &  $\dfrac{4}{5}$     &{\huge $\square$}&  $\dfrac{4}{3}$    &   & p)  &  $\dfrac{6}{5}$     &{\huge $\square$}&  $\dfrac{12}{9}$   \\
+ e)  &  $\dfrac{39}{100}$  &{\huge $\square$}&  $\dfrac{25}{100}$ & \parbox[t][.6cm]{2cm}{ }   & j)  &  $\dfrac{12}{15}$   &{\huge $\square$}&  $\dfrac{12}{7}$   &   & q)  &  $\dfrac{4}{5}$     &{\huge $\square$}&  $\dfrac{5}{4}$    \\
+     &&                     &    &                  \parbox[t][.6cm]{2cm}{ }    &  l)  &  $\dfrac{22}{80}$   &{\huge $\square$}&  $\dfrac{22}{90}$  &   & r)  &  $\dfrac{35}{40}$   &{\huge $\square$}&  $\dfrac{30}{25}$  \\
+     &&                      &    &                    &      &  \parbox[t][.6cm]{2cm}{ }                    &   &                   &   &  s)  &  $\dfrac{99}{100}$  &{\huge $\square$}&  $\dfrac{3}{2}$    \\
 \end{tabular} 
  \end{center}
  
@@ -1299,7 +1320,7 @@ Você recebeu uma folha com retângulos que têm o mesmo tamanho mas que são co
 \foreach \x in {1,...,15} \draw (\x*60/16,0) -- (\x*60/16,12);
     \end{tikzpicture}        
  \end{center}
-\item  Recorte os retângulos coloridos da folha que você recebeu e use-os para representar na reta numérica os seguintes números: 
+\item  Recorte os retângulos coloridos da folha que você recebeu e use-os para ajudá-lo a representar na reta numérica os seguintes números: 
 
 $0$, $1$, $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$, $\frac{3}{4}$, $\frac{3}{5}$, $\frac{5}{6}$, $\frac{7}{6}$, $\frac{6}{7}$,  $\frac{10}{7}$,  $\frac{12}{7}$,  $\frac{10}{8}$,  $\frac{12}{8}$, $\frac{10}{9}$, $\frac{12}{9}$, $\frac{10}{10}$, $\frac{20}{16}$
 
@@ -1321,8 +1342,8 @@ $0$, $1$, $\frac{1}{2}$, $\frac{1}{3}$, $\frac{1}{4}$, $\frac{3}{4}$, $\frac{3}{
 
 Na reta numérica a seguir:
 \begin{enumerate} [\quad a)] %s
-  \item     Marque     $\frac{1}{2}$    . Justifique sua resposta.
-  \item     Marque     $\frac{1}{4}$    ,     $\frac{3}{4}$     e     $\frac{5}{4}$    . Explique como raciocinou para fazer essas marcações. 
+  \item     Marque     $\frac{1}{2}$. Justifique sua resposta.
+  \item     Marque     $\frac{1}{4}$,     $\frac{3}{4}$     e     $\frac{5}{4}$    . Explique como raciocinou para fazer essas marcações. 
   
 \begin{center}
 \begin{tikzpicture}[x=15mm,y=15mm]
@@ -1345,7 +1366,7 @@ $$0 < \frac{\square}{\square} < \frac{\square}{\square}< \frac{\square}{\square}
 Volte à reta e marque outras três frações que atendam às seguintes condições: 
   \item A primeira deve ser maior do que $3$ e menor do que $4$.
  \item A segunda deve ser maior do que $\frac{7}{2}$.
- \item A terceira deve ser maior do que $\frac{17}{4}$ e menor do que $5$
+ \item A terceira deve ser maior do que $\frac{17}{4}$ e menor do que $5$.
 
 \end{enumerate} %s
 

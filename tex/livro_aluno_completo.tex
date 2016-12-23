@@ -9,12 +9,12 @@
 \begin{document}
 
 
-\clearpage
+%\clearpage
 
 \mainmatter
 \mbox{ }
 \thispagestyle{empty}
-% \clearpage
+\clearpage
 \setcounter{page}{1}
 \input{cap1_aluno}
 \input{cap2_aluno}
@@ -22,9 +22,9 @@
 \input{cap4_aluno}
 \input{cap5_aluno}
 
-% redefining chapter appearence for last sections
+redefining chapter appearence for last sections
 \titleformat{\chapter} 
-%{} % style
+{} % style
 {\titlefont\Huge\bf} % style
 {} % label
 {0pt} % separation
@@ -37,8 +37,8 @@
   \end{tikzpicture}
 } % before title
 [\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
-%\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \clearpage
 \input{cap6_folhas_para_reproducao}
