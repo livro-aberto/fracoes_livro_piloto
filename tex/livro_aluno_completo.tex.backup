@@ -8,31 +8,83 @@
 
 \begin{document}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Capa
+
+\thispagestyle{empty}
+a
+\crop
+\begin{tikzpicture}[remember picture,overlay, x=1cm,y=1cm]
+\fill[light]  ([yshift=2mm,xshift=-2mm]current page.north west) rectangle ([yshift=-2mm,xshift=2mm]current page.south east);
+  [xshift=-1.5cm,yshift=-1.3cm] at (current page.south east)
+  \node[xshift=-7cm,yshift=-2cm] at (current page.north east) {\normalsize INSTITUTO NACIONAL DE MATEMÁTICA PURA E APLICADA};
+ %\fill[white, xshift=2cm,yshift=-5cm]  (current page.north west) (0,0) rectangle (10,-10);
+
+
+
+
+
+\def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
+
+\def \tripamagra{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) --cycle;}
+
+ \begin{scope}[anchor=center, scale=.7, shift={([yshift=6cm]current page.center)}]
+\def \opct{.4}
+\fill[common, opacity=\opct]  (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4) -- cycle;
+\fill[special, opacity=\opct] (0,0) -- (210:4) -- (270:4) -- (330:4) -- cycle;
+
+\begin{scope}[shift={({-2*sqrt(3)},-8)}]
+ \fill[common, opacity=\opct] \tripamagra;
+ \fill[special, opacity=\opct] (-90:4) -- (0,0) -- (30:8) -- ({4*sqrt(3)},0) --cycle;
+\end{scope}
+
+\begin{scope}[shift={({-4*sqrt(3)},-16)}]
+\fill[common, opacity=\opct] \tripa;
+\fill[special, opacity=\opct] (0,0) -- (30:8) -- ({8*sqrt(3)},0) -- ({6*sqrt(3)},-2) -- ({4*sqrt(3)},0) -- (-30:4) --cycle;
+\end{scope}
+  \end{scope}
+
+\node[xshift=7cm,yshift=-6cm] at  (current page.north west) { \fontsize{50pt}{10pt} \selectfont {\bf FRAÇÕES}};
+ \node[xshift=12cm,yshift=-7.5cm] at  (current page.north west) { \fontsize{20pt}{10pt} \selectfont  no Ensino Fundamental - Volume 1};
+
+
+\node[text width=9cm]  at ([xshift=-4cm , yshift=6cm] current page.south east) {\fontsize{20pt}{30pt}\selectfont \bf Cydara Cavedon Ripoll \\ Fabio Simas \\ Humberto Bortolossi \\ Letícia Rangel \\ Victor Giraldo  \\  Wanderley Rezende \vspace{.5cm} \\  Wellerson Quintaneiro};
+
+
+
+\node at ([shift={(4cm,3.2cm)}]current page.south west) {\includegraphics[scale=.4]{obmep}};
+
+\end{tikzpicture}%
+
+\clearpage \thispagestyle{empty}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Segunda página
 
-
 {\let \cleardoublepage \clearpage \frontmatter %to set pagenumbering roman in introduction
 \thispagestyle{empty}}
 
-\begin{changemargin}{-3cm}{-2cm}
+\begin{changemargin}{-5cm}{-5cm}
 {\fontsize{10}{12}\selectfont
-%\vspace{2cm}
+\vspace*{1cm}
+
 \begin{center}
 Projeto: LIVRO ABERTO DE MATEMÁTICA
 
-\includegraphics[width=4cm]{logo.jpg}
+\noindent \begin{tabular}{ccccc}
+\includegraphics[scale=.2]{impa}& \quad\quad& \includegraphics[width=3cm]{logo.jpg} & \quad\quad& \includegraphics[scale=.3]{obmep}
+\end{tabular}
 
 \url{umlivroaberto.com}
-\vspace{.3cm}
+\vspace{.1cm}
 
 \begin{tabular}{p{.15\textwidth}p{.7\textwidth}}
 Título: & Frações no Ensino Fundamental - Volume 1\\
 Ano: & 2016 \\
 Editora & Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA-OS)\\
-Apoio:& Olimp\'iada Brasileira de Matem\'atica das Escolas P\'ublicas (OBMEP)\\
+Realização:& Olimp\'iada Brasileira de Matem\'atica das Escolas P\'ublicas (OBMEP)\\
+Produção:& Livro Aberto\\
 \\
 Coordenação: & Fabio Simas e Augusto Teixeira\\
 \\
@@ -60,7 +112,7 @@ Israel Fialho Magalhães\\
 \\
 Capa: & Fabio Simas
 \end{tabular}
-\vspace{.4cm}
+\vspace{.2cm}
  
 \includegraphics[scale=1]{cc}
 %\vspace{.3cm}
@@ -93,10 +145,10 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Footers for introduction
-\fancyfoot[C]{%
-\noindent%
-\tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
-}
+% \fancyfoot[C]{%
+% \noindent%
+% \tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+% }
 
 % Left footer
 \fancyfoot[LE]{
@@ -153,10 +205,10 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Footers for regular lessons
-\fancyfoot[C]{%
-\noindent%
-\tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
-}
+% \fancyfoot[C]{%
+% \noindent%
+% \tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+% }
 
 % Left footer
 \fancyfoot[LE]{
@@ -179,11 +231,11 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 
 {\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
 \thispagestyle{empty}
-% \input{cap1_aluno}}
-% \input{cap2_aluno}
-% \input{cap3_aluno}
-% \input{cap4_aluno}
-% \input{cap5_aluno}
+\input{cap1_aluno}}
+\input{cap2_aluno}
+\input{cap3_aluno}
+\input{cap4_aluno}
+\input{cap5_aluno}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %redefining chapter appearence for last sections
