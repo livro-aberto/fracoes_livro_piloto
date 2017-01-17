@@ -54,7 +54,7 @@ Três pizzas inteiras, de mesmo tamanho, foram repartidas entre as crianças de 
 \begin{enumerate} [\quad a)] %d
   \item     Cada um dos três grupos repartiu a sua pizza na mesma quantidade de fatias que os outros grupos?
   \item     Dessa maneira, todas as crianças da turma receberam a mesma quantidade de pizza?
-  \item     Em algum dos grupos as 4 crianças receberam a mesma quantidade de pizza? Se sim, em qual? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
+  \item     Em algum dos grupos, as 4 crianças receberam a mesma quantidade de pizza? Se sim, em qual? Considerando a pizza inteira, como você nomearia cada uma das fatias de pizza desse grupo? 
 \end{enumerate} %d
 
 \subsection{Atividade}
@@ -70,7 +70,7 @@ Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando ped
 
 Nas atividades anteriores, as quantidades registradas exigiram a partição de uma unidade. Por exemplo, para obter um terço de uma barra de chocolate foi necessário partir a barra de chocolate. Já para obter um quarto de pizza, foi necessário partir a pizza. Outros exemplos aparecem no dia a dia: ``comprei meio metro de tecido'' ou ``gastei um terço da minha borracha''.
 
-A barra de chocolate, a pizza e o pedaço de barbante foram partidos {\bf em partes iguais}. 
+A barra de chocolate, a pizza e o pedaço de barbante foram partidos {\bf em partes com quantidades iguais}. 
 Em cada um dos casos, o que foi repartido é chamado {\bf unidade}. Cada uma das partes em que essas unidades foram repartidas igualmente é uma {\bf fração da unidade}. Assim, por exemplo, um quarto de uma pizza é uma fração da pizza e a pizza é unidade. Se a unidade for o pedaço de barbante, um quarto do pedaço de barbante será uma fração do pedaço de barbante.
 
 \begin{center}
@@ -116,7 +116,7 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
 \subsection{Atividade}
 
 \begin{enumerate} [\quad a)] %s
-  \item     Quais dos retângulos a seguir foram repartidos em {\it quartos}? \mbox{} \newline      
+  \item     Quais dos oito retângulos a seguir foram repartidos em {\it quartos}? \mbox{} \newline      
  %\vspace{0.2cm}
 \begin{center} 
  \begin{tikzpicture}[scale=5]
@@ -170,26 +170,19 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   Os dois quadrinhos a seguir mostram exemplos curiosos em que as partes iguais podem ser surpreendentes.
   
   \noindent\begin{tabular}{ll}
-    \includegraphics[width=220pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig02.png}
-  
-  \end{tabular}
-  \vspace{.5cm}
-  \hline
-  \vspace{.5cm}
-  
-  \noindent  \noindent\begin{tabular}{ll}
+    \includegraphics[width=220pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig02.png}\\ 
+    \mbox{}\\
+    \hline
+  \mbox{}
     \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig04.png}  
   \end{tabular}
-  
-  
-
   
 \end{refletindo*}
 
 
 \subsection{Atividade}
 
-Em cinco das figuras a seguir a parte em vermelho é um terço da figura. Identifique essas figuras.
+Em cinco das figuras a seguir, a parte em vermelho é um terço da figura. Identifique essas figuras.
 
 \begin{center}
 \begin{longtable}{ccc}
@@ -328,7 +321,7 @@ j)
 
 \subsection{Atividade}
 
-Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha um desenho da unidade correspondente.
+Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha, um desenho da unidade correspondente.
 
 \begin{center}
   \begin{tabular}{|m{0.3\linewidth}|m{0.3\linewidth}|m{0.3\linewidth}|}
@@ -414,7 +407,7 @@ Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, e
   \begin{center}
  \begin{tikzpicture}[x=1mm,y=1mm]  \draw[fill=common, fill opacity=.3] (0,0) rectangle (20,20);  \end{tikzpicture}  
   \end{center}
-  \item     Observando os quadrados pintados nos itens, qual é a maior das frações do quadrado: metade, quarto ou oitavo?
+  \item     Observando os quadrados pintados nos itens anteriores, qual é a maior das frações do quadrado: metade, quarto ou oitavo?
 \end{enumerate} %s
 
 
@@ -448,7 +441,7 @@ Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, e
 
 \subsection{Atividade}
 
-Identifique as figuras em que a parte pintada em vermelho é a metade da figura.
+Identifique as figuras em que a parte pintada de vermelho é a metade da figura.
 
 \begin{center}
   \begin{tabular}{ccccc} 
@@ -645,16 +638,16 @@ Usando os Círculos de Frações que você receberá do seu professor (há encar
 
 \subsection{Atividade}
 
-Nas figuras a seguir, um mesmo círculo azul aparece diferentemente dividido em partes iguais e colorido em vermelho. 
+Nas figuras a seguir, um mesmo círculo azul aparece diferentemente dividido em regiões iguais e colorido em vermelho. 
 \begin{enumerate} [\quad a)] %s
   \item     Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras.     
 \begin{enumerate} [\quad I)] %d
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um quinto do círculo.
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é a sexta parte do círculo.
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um sétimo do círculo.
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um oitavo do círculo.
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é a nona parte do círculo.
-      \item        	A parte colorida do círculo na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um décimo do círculo.
+      \item        	A parte do círculo  colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um quinto do círculo.
+      \item        	A parte do círculo colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é a sexta parte do círculo.
+      \item        	A parte do círculo colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um sétimo do círculo.
+      \item        	A parte do círculo colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um oitavo do círculo.
+      \item        	A parte do círculo colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é a nona parte do círculo.
+      \item        	A parte do círculo colorida em vermelho na figura \begin{tikzpicture} \draw (0,0) -- (9,0);\end{tikzpicture} é um décimo do círculo.
 \end{enumerate} %d
 
 \begin{center}
@@ -767,8 +760,8 @@ Nas figuras a seguir, um mesmo círculo azul aparece diferentemente dividido em 
  \end{tabular*}
 \end{center}
 
-  \item     Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
-  \item     Dentre as frações do círculo apresentadas, identifique uma que seja maior do que um nono do círculo.
+  \item     Dentre as frações do círculo destacadas em vermelho, identifique uma que seja menor do que um sexto do círculo.
+  \item     Dentre as frações do círculo destacadas em vermelho, identifique uma que seja maior do que um nono do círculo.
   \item     Identifique uma fração do círculo que seja menor do que um sexto e maior do que um nono do círculo.
 \end{enumerate} %s
 

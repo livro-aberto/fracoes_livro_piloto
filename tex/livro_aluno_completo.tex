@@ -9,19 +9,121 @@
 \begin{document}
 
 
-\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%redefining chapter appearence for introduction
+\titleformat{\chapter} % redefining chapter appearence
+%{} % style
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9); %(118, 0) node{\color{white} Lição \thechapter} (105,-27);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+%\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\mainmatter
-\mbox{ }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Footers for introduction
+\fancyfoot[C]{%
+\noindent%
+\tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+}
+
+% Left footer
+\fancyfoot[LE]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (-20,-3) -- (-5 ,-3)
+      arc (-90:90:3) --(-5,3) -- (-20,3) (-8, 0) node{\color{white} {\bf \thepage}};}}
+  {\small\color{dark} \leftmark}
+}
+
+% Right footer
+\fancyfoot[RO]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\small\color{dark} \leftmark}
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (20,-3) -- (5 ,-3)
+      arc (-90:-270:3) --(5,3) -- (20,3) (8, 0) node{\color{white} {\bf \thepage}};}}
+}%
+
+
+\fancyfoot[C]{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter %to set pagenumbering roman in introduction
+\input{introducao}
+
+% \mainmatter
+% \mbox{ }
+%\thispagestyle{empty}
+
+
+{\let \cleardoublepage \clearpage
+\mainmatter \thispagestyle{empty}
+\setcounter{tocdepth}{0}
+\tableofcontents
+\thispagestyle{empty}}
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%redefining chapter appearence for regular lessons
+\titleformat{\chapter} % redefining chapter appearence
+%{} % style
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+%\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Footers for regular lessons
+\fancyfoot[C]{%
+\noindent%
+\tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+}
+
+% Left footer
+\fancyfoot[LE]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (-20,-3) -- (-5 ,-3)
+      arc (-90:90:3) --(-5,3) -- (-20,3) (-8, 0) node{\color{white} {\bf \thepage}};}}
+  {\small\color{dark}LIÇ\~AO \thechapter \; - \;  \leftmark}
+}
+% Right footer
+\fancyfoot[RO]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\small\color{dark} \rightmark}
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (20,-3) -- (5 ,-3)
+      arc (-90:-270:3) --(5,3) -- (20,3) (8, 0) node{\color{white} {\bf \thepage}};}}
+}%
+\fancyfoot[C]{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+{\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
 \thispagestyle{empty}
-\clearpage
-\setcounter{page}{1}
-\input{cap1_aluno}
-\input{cap2_aluno}
-\input{cap3_aluno}
-\input{cap4_aluno}
-\input{cap5_aluno}
+\input{cap1_aluno}}
 
+% \input{cap2_aluno}
+% \input{cap3_aluno}
+% \input{cap4_aluno}
+% \input{cap5_aluno}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %redefining chapter appearence for last sections
 \titleformat{\chapter} 
 {\titlefont\Huge\bf} % style

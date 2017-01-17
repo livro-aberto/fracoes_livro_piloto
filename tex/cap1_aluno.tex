@@ -1,27 +1,27 @@
+% 
+% 
+% %redefining chapter appearence for regular sections
+% \titleformat{\chapter} % 
+% %{} % style
+% {\titlefont\Huge\bf} % style
+% {} % label
+% {0pt} % separation
+% {\begin{tikzpicture}[remember picture,overlay]
+%     \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+%     \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+%     -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
+%   \end{tikzpicture}
+% } % before title
+% [\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
 
 
-%redefining chapter appearence for regular sections
-\titleformat{\chapter} % 
-%{} % style
-{\titlefont\Huge\bf} % style
-{} % label
-{0pt} % separation
-{\begin{tikzpicture}[remember picture,overlay]
-    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
-    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
-    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
-    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
-    -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
-  \end{tikzpicture}
-} % before title
-[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
-\setcounter{chapter}{0}
+\setcounter{chapter}{1}
 \chapter{Começando a falar sobre frações }
-
+\setcounter{page}{1}
 \section{EXPLORANDO O ASSUNTO }
 
 \subsection{Atividade}
@@ -170,12 +170,19 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   Os dois quadrinhos a seguir mostram exemplos curiosos em que as partes iguais podem ser surpreendentes.
   
   \noindent\begin{tabular}{ll}
-    \includegraphics[width=220pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig02.png}\\ 
-    \mbox{}\\
-    \hline
-  \mbox{}
+    \includegraphics[width=220pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig02.png}
+  
+  \end{tabular}
+\vspace{.5cm}
+  \hline
+  \vspace{.5cm}
+  
+  \noindent  \noindent\begin{tabular}{ll}
     \includegraphics[width=180pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{..//media/cap1/secoes/pngs_licao_01/reflet_fig04.png}  
   \end{tabular}
+  
+  
+
   
 \end{refletindo*}
 
