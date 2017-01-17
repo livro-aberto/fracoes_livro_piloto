@@ -6,11 +6,12 @@
 \RequirePackage{geometry}
 \geometry{
 textwidth=157mm,
+textheight=250mm,
 paperwidth=196mm,
 paperheight=280mm,
-top=1in,
+top=.3in,
 left=27mm,
-footskip=.7in
+footskip=.35in
 }
 % Para hiperreferências - é utilizado na segunda página
 \usepackage{hyperref}
@@ -95,6 +96,21 @@ footskip=.7in
 % This package provides special PGF/TikZ nodes for the text, marginpar, footer and header area of the current page.
 \RequirePackage{tikzpagenodes}
 \tikzset{x=1mm,y=1mm}
+
+%%%%%%%%%%%%%%% Change margin size for second page %%%%%%%%%%%%%%%%%%%%%%
+\newenvironment{changemargin}[2]{%
+\begin{list}{}{%
+\setlength{\topsep}{0pt}%
+\setlength{\leftmargin}{#1}%
+\setlength{\rightmargin}{#2}%
+\setlength{\listparindent}{\parindent}%
+\setlength{\itemindent}{\parindent}%
+\setlength{\parsep}{\parskip}%
+}%
+\item[]}{\end{list}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 %%%%%%%%%%%%%%%%%%%% Chapter and section titles %%%%%%%%%%%%%%%%%%%%%%%%%
 \RequirePackage[explicit]{titlesec} % needed for define chapter and section style.
