@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  17 JAN 2017 15:20
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  17 JAN 2017 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3256,10 +3256,6 @@ File: ..//media/cap2/secoes/pngs_licao_02/quadrinho_04.png Graphic file (type Q
 Tm)
 
 <use  "..//media/cap2/secoes/pngs_licao_02/quadrinho_04.png" >
-Overfull \hbox (68.67354pt too wide) in paragraph at lines 7--11
-[] 
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
@@ -3317,7 +3313,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
-[15]
+ [15]
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
 
@@ -3924,9 +3920,9 @@ Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 713.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 713.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -3981,7 +3977,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
 
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
@@ -3989,9 +3985,9 @@ Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 793.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 796.
+(babel)             in language  on input line 793.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -4045,18 +4041,13 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
-[25]
+[25
+
+]
 File: ..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png Graphic file (type Q
 Tm)
  <use  "..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png" >
 Overfull \hbox (3.29173pt too wide) in paragraph at lines 800--801
- [] 
- []
-
-File: ..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png Graphic file (type Q
-Tm)
-<use  "..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png" >
-Overfull \hbox (3.29173pt too wide) in paragraph at lines 820--821
  [] 
  []
 
@@ -4066,9 +4057,9 @@ Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 819.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 819.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -4123,6 +4114,14 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no ) in font nullfont!
 [26]
+File: ..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png Graphic file (type Q
+Tm)
+ <use  "..//media/cap2/secoes/pngs_licao_02/ativ12_fig01.png" >
+Overfull \hbox (3.29173pt too wide) in paragraph at lines 820--821
+ [] 
+ []
+
+
 Overfull \hbox (5.72148pt too wide) has occurred while \output is active
  [][] 
  []
@@ -10052,10 +10051,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 262.
  ) 
 Here is how much of TeX's memory you used:
- 43566 strings out of 495559
- 884343 string characters out of 6186723
- 1156915 words of memory out of 5000000
- 46116 multiletter control sequences out of 15000+600000
+ 43488 strings out of 495559
+ 882608 string characters out of 6186723
+ 1161143 words of memory out of 5000000
+ 46038 multiletter control sequences out of 15000+600000
  20989 words of font info for 125 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  63i,19n,101p,10403b,1424s stack positions out of 5000i,500n,10000p,200000b,80000s
