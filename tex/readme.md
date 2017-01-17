@@ -12,11 +12,9 @@ A versão mais atual do pdf deste livro encontra-se em https://www.umlivroaberto
 #Para administrar sua própria versão deste livro
 Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
 
-Para gerar o livro do aluno:
-Compile os arquivos livro_aluno_completo.tex e introdução.tex
-Depois junte os pdfs na seguinte ordem capa, blank, contra-capa, introducao, livro_aluno_completo.
+O livro do aluno pode ser gerado apenas compilando o arquivo livro_aluno_completo.tex. Para usar a mesma fonte que utilizamos no original é necessário compilar com xelatex.
 
-Para gerar o livro do professor:
+Para gerar o livro do professor: (DESATUALIZADO, por favor aguarde. Atualizaremos em breve)
 Compile os arquivos livro_aluno_completo.tex, livro_professor_completo.tex e introdução.tex. Então é necessário alternar as páginas do livro do aluno com as do professor. O seguinte comando faz isso no Linux
 
 pdftk A=livro_aluno_completo.pdf B=livro_professor_completo.pdf shuffle B A output collated.pdf
