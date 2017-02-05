@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# trap "rm /tmp/list_of_files" 0 1 2 5 15
+
+# id -un
+
+find /var/www/livro/data/gitrepo/pages -name "texto.txt" -type f > /tmp/list_of_files
+
+# cat /tmp/list_of_files
+
+d=/var/www/pdf
+
+while read p; do
+  t=${p:34:4}
+  # echo $p
+  # echo $t
+  # php /home/gutosurrex/local/doku2md/scripts/Translate.php ${p} /tmp/blah | tail -n +2 > /var/www/pdf/$t.md
+  # pandoc /var/www/pdf/$t.md -f markdown -t latex -s -o /var/www/pdf/$t.tex
+  lua5.1 /var/www/livro/data/gitrepo/bin/dw2tex.lua ${p} /var/www/pdf/${t}.tex || true
+  (cd $d; pdflatex -interaction nonstopmode $t > /tmp/222 || true)
+  lua5.1 /var/www/livro/data/gitrepo/bin/dw2tex.lua ${p} /var/www/pdf/${t}_aluno.tex aluno || true
+  (cd $d; xelatex -interaction nonstopmode ${t}_aluno > /tmp/222 || true)
+  # rm /var/www/pdf/$t.tex
+  # rm -f /var/www/pdf/$t.log
+  rm -f /var/www/pdf/$t.out
+  rm -f /var/www/pdf/$t.aux
+  rm -f /var/www/pdf/${t}_aluno.out
+  rm -f /var/www/pdf/${t}_aluno.aux
+done < /tmp/list_of_files
+
+

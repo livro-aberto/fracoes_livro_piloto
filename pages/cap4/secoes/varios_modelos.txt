@@ -1,0 +1,35 @@
+;;#
+Ir para [[cap4:texto#varios_modelos]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Determinar uma fração igual a uma dada fração com denominador especificado a partir da observação das representações destas frações em diversos modelos de frações, incluindo a reta numérica.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 alunos (cada aluno do grupo poderá usar um modelo diferente para obter a fração solicitada).
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte em cada modelo de área e um mesmo ponto na reta numérica estão sendo descritos por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, estas frações são iguais por expressarem uma mesma quantidade ou por serem representadas por um mesmo ponto na reta numérica. 
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: aplicar
+  * UERJ: Interpretar: discriminar
+</WRAP>
+</hidden>
+
+
+O objetivo desta atividade é determinar uma fração de denominador $12$ que seja igual a fração $\frac{5}{4}$.
+
+  - Tomando um círculo como unidade: (i) faça um desenho que represente $\frac{5}{4}$ da unidade. (ii) Usando o desenho feito, represente uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+  - Tomando um quadrado como unidade: (i) faça um desenho que represente $\frac{5}{4}$ da unidade. (ii) Usando o desenho feito, represente uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+  - Desenhe uma reta numérica e, em seguida, marque os números $0$, $1$ e $\frac{5}{4}$. A partir deste desenho, represente uma fração de denominador $12$ que seja igual a $\frac{5}{4}$. 
+
+
+<hidden Resposta>
+<WRAP resposta>
+  - Tomando um círculo como unidade, o dividimos em $4$ partes iguais e tomamos $5$ cópias de uma parte para obter $\frac{5}{4}$ da unidade. Dividindo cada uma das $5$ cópias em $3$ partes iguais, obtemos então $15$ cópias de $\frac{1}{12}$ da unidade. Portanto, $\frac{5}{4} = \frac{15}{12}$. \\ <WRAP imagem> FIGURAS GEOMÉTRICAS - São 3 figuras, uma para cada item. \\ {{ :cap4:secoes:varios-modelos-circulo-01.jpg?1200 |}} </WRAP>
+  - Tomando um quadrado como unidade, o dividimos em $4$ partes iguais e tomamos $5$ cópias de uma parte para obter $\frac{5}{4}$ da unidade. Dividindo cada uma das $5$ cópias em $3$ partes iguais, obtemos então $15$ cópias de $\frac{1}{12}$ da unidade. Portanto, $\frac{5}{4} = \frac{15}{12}$. \\ {{ :cap4:secoes:varios-modelos-quadrado-01.jpg?1200 |}}
+  - Após marcar os números $0$ e $1$ na reta numérica, dividimos o segmento unitário (aquele de extremidades em $0$ e $1$) em $4$ partes iguais. Cada parte é um segmento que corresponde a $\frac{1}{4}$ da unidade. Ao se justapor $5$ segmentos que são $\frac{1}{4}$ da unidade a partir da origem 0, a fração $\frac{5}{4}$ corresponde ao ponto que é a outra extremidade desta justaposição. Agora, ao se subdividir estes 5 segmentos que são $\frac{1}{4}$ da unidade em 5 partes iguais, obtêm-se $15$ segmentos justapostos que são $\frac{1}{12}$ da unidade. O ponto que corresponde a $\frac{5}{4}$ é ainda extremo desta justaposição e, portanto, que ele corresponde também a fração $\frac{15}{12}$.\\ {{ :cap4:secoes:varios-modelos-reta-numerica-01.jpg?1200 |}}
+</WRAP>
+</hidden>

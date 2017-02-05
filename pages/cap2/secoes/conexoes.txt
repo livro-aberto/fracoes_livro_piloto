@@ -1,0 +1,72 @@
+;;#
+Ir para [[cap2:texto#conexoes]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Nesta etapa, espera-se que os alunos compreendam as frações $\frac{a}{b}$ como adição por justaposição de //a// frações $\frac{1}{b}$ da unidade. Observe que esse entendimento é construído a partir de modelos contínuos e amparado por situações concretas. Assim, como explicado na introdução desta seção, por exemplo, "dois terços" de uma unidade dada são obtidos pela justaposição de duas partes correspondentes a "um terço" da mesma unidade. 
+
+Esse entendimento terá reflexos na forma como são lidas as frações $\frac{a}{b}$. Não se espera, nem se recomenda, que seja sugerida aos alunos a leitura de $\frac{a}{b}$ como "//a sobre b//" nem como "//a dividido por b//". Nesta etapa, espera-se que os alunos leiam essas frações, por exemplo, como "dois terços" ou "dois um terços" da unidade. As outras formas de leitura serão tratadas em seções posteriores.
+
+Nesse contexto, é importante também discutir com os alunos as frações que representam números naturais. Por exemplo, na atividade 2, a fração $\frac{3}{3}$ da torta é a torta inteira e a fração $\frac{6}{3}$ da torta são duas tortas. 
+
+Por fim, observa-se que a notação de fração pode não parecer natural para os alunos, porque é um símbolo composto por dois números de significados diferentes, um sobre o outro. Isso contraria a escrita usual dos números naturais. Alguns povos antigos tiveram representações diferentes para estes números.  Contudo, é importante lembrar que hoje essa é a notação mundialmente aceita, devendo, portanto, ser bem compreendida. 
+
+</WRAP>
+</hidden>
+
+Se uma torta está dividida em três partes iguais, a torta fica separada em três terços. Assim, como visto na historinha do início da lição, tanto faz escrever: "$\dfrac{1}{3}$ da torta" ou "um terço da torta" para se referir à fatia destacada na figura.
+
+{{ :cap2:secoes:oi1.png?nolink&90 |}}
+
+
+Duas fatias são "dois terços da torta", o que pode ser expresso simplesmente por "$\dfrac{2}{3}$ da torta". Deste modo, é claro que "três terços da torta" é uma torta inteira.
+
+{{ :cap2:secoes:oi2.png?nolink&200 |}}
+
+Também pode-se considerar quatro terços, cinco terços ou seis terços da torta, basta juntar novos terços à torta inteira.
+
+{{ :cap2:secoes:oi3.png?nolink&220 |}}
+
+{{ :cap2:secoes:oi4.png?nolink&220 |}}
+
+{{ :cap2:secoes:oi5.png?nolink&180 |}}
+
+
+Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou, simplesmente, $\frac{1}{3}$ da torta. Juntando essas fatias, é possível se ter dois terços ($\frac{2}{3}$) e três terços ($\frac{3}{3}$) da torta. Com mais do que uma torta repartida em três partes iguais, obtem-se quatro terços ($\frac{4}{3}$), cinco terços ($\frac{5}{3}$), seis terços ($\frac{6}{3}$), etc, da torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 "abaixo" do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que "dá nome" à fração é chamado de //denominador// da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando "terços". 
+
+
+Já o número que aparece "acima" do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de //numerador// da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
+
+Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3:\\
+Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Fala-se //dois quintos//.\\
+Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Fala-se //dez oitavos//. \\
+Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração basta lermos o **número** do numerador seguido do **nome que identifica a fração do tipo** $\frac{1}{d}$, nessa ordem. Veja:
+
+$$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
+$$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
+Anote agora os nomes de algumas outras frações:
+$$\frac{1}{2}\rightarrow \text{  um meio;} \quad \frac{1}{3}\rightarrow\text{  um terço;} \quad \frac{1}{4}\rightarrow\text{  um quarto;}$$
+$$\frac{1}{5}\rightarrow\text{  um quinto;}\quad \frac{1}{6}\rightarrow\text{  um sexto;} \quad \frac{1}{7}\rightarrow\text{  um sétimo;}$$
+$$\frac{1}{8}\rightarrow\text{  um oitavo;}\quad \frac{1}{9}\rightarrow\text{  um nono;}\quad \frac{1}{10}\rightarrow\text{  um décimo.}$$
+
+Para a fração $\frac{1}{11}$, fala-se um onze avos. Da mesma forma, são nomeadas frações cujo denominador é maior do que 11. Por exemplo:
+$$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
+
+Curioso para saber sobre o significado da palavra **avos**? Pergunte ao seu professor. O importante é lembrar que, para denominadores maiores 11, acrescenta-se a expressão "avos" ao final da leitura da fração.
+
+Contudo, para frações cujo denominador é uma potência de 10, usa-se outra formar de ler:
+$$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100}\rightarrow \text{ treze centésimos;}\quad
+\frac{33}{1000}\rightarrow \text{ trinta e três milésimos.}$$
+
+**Pronto! Agora você já é capaz de ler diversos tipos de frações.**
+
+
+
+/* Quando se decide cortar as tortas em três partes iguais, as fatias são terços da torta. Como as frações que surgem deste modo de dividir são um terço  ($\frac{1}{3}$), dois terços ( $\frac{2}{3}$ ), três terços , ( $\frac{3}{3}$ ), quatro terços ( $\frac{4}{3}$ ), cinco terços ( $\frac{5}{3}$ ), etc. O número 3 na parte debaixo das frações dá o nome "terço" à  fração por isso ele é chamado de //denominador// da fração. 
+
+Do mesmo modo o número de cima da fração numera quantas partes estão destacadas por isso ele recebe o nome de //numerador// da fração. 
+
+Os nomes numerador e denominador são utilizados para frações quaisquer mesmo que o denominador seja diferente de 3.*/
+
+{{ :cap2:secoes:pngs_licao_02:orgideias_fig01.png?nolink&500 |}}

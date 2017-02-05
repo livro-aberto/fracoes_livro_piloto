@@ -1,0 +1,6 @@
+;;#
+Ir para [[cap2:texto#explorando_intro]]
+;;#
+
+===== EXPLORANDO O ASSUNTO =====
+

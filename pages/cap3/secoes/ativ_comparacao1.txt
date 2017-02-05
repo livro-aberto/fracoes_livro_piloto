@@ -1,0 +1,36 @@
+;;#
+Ir para [[cap3:texto#ativ_comparacao1]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivo específico:
+  * Comparar frações com o mesmo numerador.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
+  * Estimule seus alunos a explicarem suas respostas.
+  * Observe que, nesta atividade, a unidade não está destacada na reta, a partir dos pontos 0 e 1, como nas atividades anteriores. Oriente seu aluno a identificar o zero como o ponto correspondente à palmeira imperial. 
+  * Esclareça aos seus alunos que o caminho todo, da palmeira à pedra, não é a unidade. Peça que ele estime quantas unidades mede o caminho.
+  * Para que o aluno possa fazer o item (a), marcando no mapa os pontos correpondentes aos locais em que estão enterrados os baús 1 e 2, peça que recortem as duas faixas que determinam a unidade, disponíveis em página para reprodução ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}})  
+  * Para responder ao item (b), e decidir qual o baú que contém o tesouro, de fato, não é necessário fazer a marcação dos pontos correspondentes aos locais dos dois baús no mapa. Basta comparar as frações $\frac{5}{6}$ e $\frac{5}{8}$. Como  $\frac{5}{6}$ > $\frac{5}{8}$, o tesouro está no baú 2.  Espera-se que a discussão com a turma leve a essa constatação. 
+  * Finalmente, observe que a reta numérica se apresenta nesta atividade fora do padrão tradicional, paralelo ao menor lado da página do livro.
+
+</WRAP> 
+</hidden>
+
+
+Um caçador de tesouros encontrou o mapa a seguir. Leia as instruções para a localização do tesouro e decida em que local ele deve cavar:
+
+{{ :cap3:secoes:png:ativ7_fig01.png?nolink&600 |}}
+
+  - Marque, no mapa, as localizações dos baús 1 e 2.
+  - Qual o baú com o tesouro? Explique como chegou à sua conclusão. 
+
+
+<hidden Resposta>
+  - <WRAP imagem> FIGURA ARTÍSTICA - Imagem do mapa com os pontos correspondentes aos baús 1 e 2 marcados.</WRAP>
+  - O baú 2. A justificativa se dá pelo fato de que  $\frac{5}{6}$ > $\frac{5}{8}$. O que pode ser observado pela marcação dos pontos correspondentes aos locais dos dois baús no mapa, representando uma reta numérica.
+
+</hidden>

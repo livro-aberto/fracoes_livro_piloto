@@ -1,0 +1,65 @@
+====== Referencial teórico para a lição ======
+  * Freitag, Mark A. Mathematics for Elementary School Teachers: A Process Approach. Cengale Learning, 2014.
+  * Freudenthal, Hans. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).  
+  * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction On A Number Line]]. Proceedings of the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference, v. 3, p. 17-24, 2003.
+  * Heeffer, Albrecht. {{:cap3:heeffer_-_historical_objections_against_the_number_line.pdf|Historical Objections Against the Number Line}}. Sci & Educ, v. 20, p. 863–880, 2011.
+  * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
+   * Lewin, Renaio; López, Alejandro; Martínez, Salomé; Rojas, Daniela; Zanocco, Pierina. Números para Futuros Profesores de Educación Básica. ReFIP Matemática: Recursos para La Formación Inicial de Profesores Educación Básica. Ediciones SM Chile S.A., 2013.
+   * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
+   * Musser, Gary L.; Peterson, Blacke E.; Burger, William F. Mathematics for Elementary Teachers: A Contemporary Approach. John Wiley & Sons, Inc., 2014.
+   * Ni, Yujing. How Valid is It To Use Number Lines to Measure Children's Conceptual Knowledge about Rational Number? Educational Psychology: An International Journal of Experimental Educational Psychology, v. 20, n. 2, p. 139-152, 2000.
+   * Pelczer, Ildikó; Singer, Florence Mihaela; Voica, Cristian. [[http://www.cerme7.univ.rzeszow.pl/WG/2/CERME7_WG2_Pelczer_Voica_Singer.pdf|Between Algebra and Geometry: The Dual Nature of The Number Line]]. The 7th Conference of the European Society for Research in Mathematics Education (CERME 7), 2001.
+   * Pereira, Ana Paula Cabral Couto. O Ensino de Frações na Escola Básica: O Currículo Common Core nos EUA, Hung-Hsi Wu e Uma Análise Comparativa em Dois Livros Didáticos do PNLD. Dissertação (Mestrado Profissional em Rede Nacional PROFMAT), Universidade Federal Fluminense, 2015.
+   * Schliemann, Analúcia; Carraher, David W.; Caddle, Mary C. From Seeing Points To Seeing Intervals in Number Lines in Graphs. Em: Brizuela, Bárbara M.; Gravel, Brian E. (Ed.). Show Me What You Know, Teachers College, Columbia University, 2013.
+   * Thomaidis, Yannis; Tzanakis, Constantinos. The Notion of Historical "parallelism" Revisited: Historical Evolution and Students' Conception of The Order Relation On The Number Line. Educational Studies in Mathematics, v. 66, p. 165-183, 2007.
+   * Van de Walle, John A. Matemática no Ensino Fundamental. Formação de Professores e Aplicação em Sala de Aula. Sexta edição. Artmed, 2009. 
+   * Ventura, Hélia Margarida Gaspar Lopes. A Aprendizagem de Números Racionais através das Conexões entre As Suas Representações: Uma Experiência de Ensino no 2.__o__ Ciclo do Ensino Básico. Tese de doutorado, Instituto de Educação, Universidade de Lisboa, 2013.
+   * Wu, Hung-Hsi. Understanding Numbers in Elementary School Mathematics. American Mathematical Society, 2011.
+
+/*
+   * Discussão no fórum sobre abordagem da reta numérica na lição:
+https://www.umlivroaberto.com/forum/viewtopic.php?f=19&t=55
+
+   * Hannula, Markku S. [[http://files.eric.ed.gov/fulltext/ED500981.pdf|Locating Fraction on a Number Line]]\\
+
+
+International Group for the Psychology of Mathematics Education, Paper presented at the 27th International Group for the Psychology of Mathematics Education Conference Held Jointly with the 25th PME-NA Conference (Honolulu, HI, Jul 13-18, 2003), v3 p17-24
+Based on a survey of 3067 Finnish 5th and 7th graders and a task-based interview of 20 7th graders we examine student's understanding of fraction. Two tasks frame a specific fraction (3/4) in different contexts: as part of an eight-piece bar (area context) and as a location on a number line. The results suggest that students' understanding of fraction develops substantially from 5th to 7th grade. However, Part-to-Whole comparison is strongly dominating students' thinking, and students have difficulties in perceiving a fraction as a number on a number line even on 7th grade. 
+
+http://files.eric.ed.gov/fulltext/ED500981.pdf
+
+
+    * Fractions, Decimals, and Rational Numbers\\
+H. Wu (September 24, 2008)
+
+Ver páginas 4 a 6.\\
+Contents\\
+Introduction (p. 1)\\
+(A) Definition (p. 4)\\
+(B) Equivalent fractions (p. 7)\\
+(C) Fraction as division (p. 9)\\
+(D) Adding fractions (p. 8)\\
+(E) Comparing fractions (p. 11)\\
+(F) Subtracting fractions (p. 14)\\
+(G) Multiplying fractions (p. 14)\\
+(H) Dividing fractions (p. 16)\\
+(J) Complex fractions (p. 18)\\
+(K) Percent, ratio, and rate (p. 20)\\
+(L) Negative numbers (p. 22)\\
+(M) Adding rational numbers (p. 24)\\
+(N) Multiplying rational numbers (p. 27)\\
+(P) Dividing rational numbers (p. 29)\\
+(Q) Comparing rational numbers (p. 30)\\
+Comments on fractions research (p. 33)\\
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.145.4182&rep=rep1&type=pdf
+
+    * Albrecht Heeffer. {{:cap3:heeffer_-_historical_objections_against_the_number_line.pdf|Historical Objections Against the Number Line}}. Sci & Educ (2011) 20:863–880.\\
+Argumenta especialmente a dificuldade para se trabalhar com as operações com números negativos. Para números positivos nada é dito.
+
+* [[http://www.pballew.net/mathbooks.html|Notes on the History of Math Teaching and Math Books]] (livros americanos).
+A história do uso da reta numérica em livros textos dos Estados Unidos. Mostra que desde o início do século XX alguns livros já utilizavam a reta numérica para fins didáticos, mas que este hábito se popularizou apenas no final do século XX.
+
+Hans Freudenthal. Didactical Phenomenology of Mathematical Structures. Kluwer Academic Publishers, 2002. (Ver Seção 4.26, página 101).\\
+Grande entusiasta do uso da reta numérica no ensino de matemática, enfatiza o uso dela para observar a densidade dos racionais e a continuidade.
+*/

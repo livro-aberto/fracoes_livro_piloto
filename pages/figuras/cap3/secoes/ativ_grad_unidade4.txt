@@ -1,0 +1,56 @@
+<code latex>
+\begin{tikzpicture}\begin{document}
+\definecolor{uuuuuu}{rgb}{0.26666666666666666,0.26666666666666666,0.26666666666666666}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-4.3,-4.84) rectangle (18.7,6.3);
+\draw [domain=0.0:18.7] plot(\x,{(-0.-0.*\x)/8.});
+\begin{scriptsize}
+\draw [fill=uuuuuu] (0.,0.) circle (2.0pt);
+\draw[color=uuuuuu] (0.14,0.32) node {0};
+\draw [fill=black] (8.,0.) circle (2.0pt);
+\draw[color=black] (8.14,0.32) node {1};
+\draw[color=black] (4.38,0.16) node {$f$};
+\draw [fill=black] (1.,0.) circle (1.5pt);
+\draw [fill=black] (2.,0.) circle (1.5pt);
+\draw [fill=black] (3.,0.) circle (1.5pt);
+\draw [fill=black] (4.,0.) circle (1.5pt);
+\draw [fill=black] (5.,0.) circle (1.5pt);
+\draw [fill=black] (6.,0.) circle (1.5pt);
+\draw [fill=black] (7.,0.) circle (1.5pt);
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uuuuuu}{rgb}{0.26666666666666666,0.26666666666666666,0.26666666666666666}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-4.3,-4.84) rectangle (18.7,6.3);
+\draw [domain=0.0:18.7] plot(\x,{(-0.-0.*\x)/8.});
+\begin{scriptsize}
+\draw [fill=uuuuuu] (0.,0.) circle (2.0pt);
+\draw[color=uuuuuu] (0.14,0.32) node {0};
+\draw [fill=black] (8.,0.) circle (2.0pt);
+\draw[color=black] (8.14,0.32) node {1};
+\draw[color=black] (4.38,0.16) node {$f$};
+\draw [fill=black] (1.,0.) circle (1.5pt);
+\draw [fill=black] (2.,0.) circle (1.5pt);
+\draw [fill=black] (3.,0.) circle (1.5pt);
+\draw [fill=black] (4.,0.) circle (1.5pt);
+\draw [fill=black] (5.,0.) circle (1.5pt);
+\draw [fill=black] (6.,0.) circle (1.5pt);
+\draw [fill=black] (7.,0.) circle (1.5pt);
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+
+\end{tikzpicture}
+</code>

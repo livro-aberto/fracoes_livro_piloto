@@ -1,0 +1,48 @@
+~~NOCACHE~~
+
+===== Navegação =====
+
+  * [[start|Início]]
+  * [[sintaxe|Sintaxe]]
+  * [[sandbox|Sandbox]]
+  * [[figuras_geometricas|Faça as figuras]]
+  * [[https://www.umlivroaberto.com/forum/index.php|Fórum]]
+  * [[https://github.com/UmLivroAberto/livro/issues|Tarefas: livro]]
+  * [[https://github.com/simas0/Livro-Aberto-de-Matematica-texto-do-projeto-/issues|Tarefas: projeto]]
+  * [[https://www.umlivroaberto.com/wiki/doku.php|Staff Only]]
+  
+
+===== Lições ======
+
+<hidden Introdução>
+  * [[cap0:navega|html]] 
+  * {{::introducao.pdf|pdf}}
+</hidden>
+<hidden Lição 1>
+  * [[cap1:texto|html]] 
+  * {{:cap1_aluno.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/cap1.pdf|pdf professor]]
+</hidden>
+<hidden Lição 2>
+  * [[cap2:texto|html]] 
+  * {{:cap2_aluno.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/cap2.pdf|pdf professor]]
+</hidden>
+<hidden Lição 3>
+  * [[cap3:texto|html]] 
+  * {{:cap3_aluno.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/cap3.pdf|pdf professor]]
+</hidden>
+<hidden Lição 4>
+  * [[cap4:texto|html]] 
+  * {{:cap4_aluno.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/cap4.pdf|pdf professor]]
+</hidden>
+<hidden Lição 5>
+  * [[cap5:texto|html]] 
+  * {{:cap5_aluno.pdf|pdf aluno}}
+  * [[https://www.umlivroaberto.com/pdf/cap5.pdf|pdf professor]]
+</hidden>
+
+
+

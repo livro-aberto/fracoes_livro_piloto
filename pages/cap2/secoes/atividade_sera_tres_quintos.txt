@@ -1,0 +1,31 @@
+;;#
+Ir para [[cap2:texto#atividade_sera_tres_quintos]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Analisar uma situação envolvendo frações em representação por meio de figuras cujas repartição não identfica explicitamente o denominador da fração.  
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Esta é uma atividade que o aluno pode fazer individualmente, mas é essencial que seja discutida com toda a turma. 
+  * No final da atividade, é importante enfatizar para seus alunos a questão matemática que esta atividade quer destacar, ou seja, que o fato de uma figura estar divida em 5 partes e 3 delas estarem pintadas de vermelho, **não necessariamente implica** que a parte pintada é $\frac{3}{5}$ da figura.
+  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos, isto é, eles equivocamente contam partes sem o cuidado de verificar se as partes nas quais a unidade está dividida correspondem a uma mesma quantidade.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 9: avaliar
+  * UERJ: Avaliar: julgar
+</WRAP>
+</hidden>
+
+Miguel disse para Alice que a parte pintada de vermelho na figura a seguir corresponde a $\frac{3}{5}$ da figura, pois ela está dividida em 5 partes e 3 partes estão pintadas. Você concorda com a afirmação e a justificativa de Miguel? Explique!
+
+{{ :cap2:secoes:sera-tres-quintos-no-quadrado.png?200 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+Miguel está equivocado: a parte pintada da figura **não** corresponde a $\frac{3}{5}$ da figura porque a figura não está dividida em 5 partes iguais, ou seja, a figura não está equiparticionada em 5 partes para que as 3 partes pintadas correspondam a $\frac{3}{5}$ da mesma. Outra justificativa possível é: partindo-se a parte pintada em 3 partes iguais e justapondo-se 5 cópias de uma destas partes, pode-se recompor a figura apenas parcialmente.
+
+</WRAP>
+</hidden>

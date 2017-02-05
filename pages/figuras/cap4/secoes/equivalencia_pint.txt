@@ -1,0 +1,104 @@
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-1.06,0.) -- (15.1,0.);
+\foreach \x in {-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-11.32) -- (0.,0.46);
+\foreach \y in {-11.,-10.,-9.,-8.,-7.,-6.,-5.,-4.,-3.,-2.,-1.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-1.06,-11.32) rectangle (15.1,0.46);
+\draw (1.36,-2.2) node[anchor=north west] {$\frac{12}{16}, pois :$};
+\draw (3.64,-3.82)-- (4.94,-3.82);
+\draw (3.62,-4.86)-- (4.96,-4.86);
+\draw (3.64,-5.82)-- (4.92,-5.8);
+\draw (3.66,-6.9)-- (4.84,-6.88);
+\draw (3.68,-7.8)-- (4.94,-7.8);
+\draw (4.94,-3.82)-- (4.94,-7.8);
+\draw (3.64,-3.82)-- (3.68,-7.8);
+\draw (6.38,-3.94)-- (6.38,-7.8);
+\draw (6.38,-7.8)-- (7.64,-7.82);
+\draw (7.64,-7.82)-- (7.64,-3.94);
+\draw (7.64,-3.94)-- (6.38,-3.94);
+\draw (8.22,-4.)-- (8.82,-4.02);
+\draw (8.82,-4.02)-- (8.72,-7.9);
+\draw (8.72,-7.9)-- (8.22,-7.88);
+\draw (9.26,-5.86) node[anchor=north west] {\parbox{5.56 cm}{Suponhamos que este segundo copo está \textbackslash \textbackslash             dividido em 16 partes iguai}};
+\draw (8.765370542470992,-6.13962295212554)-- (9.2,-6.24);
+\draw (1.32,-9.5) node[anchor=north west] {\parbox{10.24 cm}{Temos que as frações correspondentes à quantidade de suco nos dois copos são, \textbackslash \textbackslash  respectivamente }};
+\draw (3.7,-10.16) node[anchor=north west] {$\frac{3}{4}$};
+\draw (4.48,-10.6) node[anchor=north west] {e};
+\draw (5.,-10.2) node[anchor=north west] {$\frac{0}{16}$};
+\draw (1.32,-11.8) node[anchor=north west] {\parbox{8.2 cm}{Para os dois copos terem a mesma quantidade de suco, \textbackslash \textbackslash  é necessário primeiro descobrirmos qual a fração equivalente \textbackslash \textbackslash  a}};
+\draw (1.62,-12.24) node[anchor=north west] {$\frac{3}{4}$};
+\draw (2.16,-12.58) node[anchor=north west] {tem denominador 16. Descobrimos assim que a fração equivalente a };
+\draw (9.96,-12.3) node[anchor=north west] {$\frac{3}{4}$};
+\draw (10.44,-12.56) node[anchor=north west] {que tem denominador 16 é};
+\draw (13.64,-12.28) node[anchor=north west] {$\frac{12}{16}$};
+\draw (14.24,-12.6) node[anchor=north west] {.};
+\draw (1.34,-13.92) node[anchor=north west] {\parbox{10.96 cm}{Logo, devem ser preenchidos 12 espaços do copo do meu irmão para ele obter a mesma  \textbackslash \textbackslash  quantidade de suco que meu copo tem}};
+\begin{scriptsize}
+\draw[color=black] (4.34,-3.98) node {$f$};
+\draw[color=black] (4.34,-5.02) node {$g$};
+\draw[color=black] (4.34,-5.96) node {$h$};
+\draw[color=black] (4.3,-7.04) node {$i$};
+\draw[color=black] (4.36,-7.96) node {$j$};
+\draw[color=black] (4.66,-5.64) node {$k$};
+\draw[color=black] (3.4,-5.64) node {$l$};
+\draw [fill=qqqqff] (3.92,-7.52) circle (2.5pt);
+\draw[color=qqqqff] (4.06,-7.16) node {$K$};
+\draw [fill=qqqqff] (3.92,-7.18) circle (2.5pt);
+\draw[color=qqqqff] (4.06,-6.82) node {$L$};
+\draw [fill=qqqqff] (4.28,-7.2) circle (2.5pt);
+\draw[color=qqqqff] (4.42,-6.84) node {$M$};
+\draw [fill=qqqqff] (4.28,-7.58) circle (2.5pt);
+\draw[color=qqqqff] (4.42,-7.22) node {$N$};
+\draw [fill=qqqqff] (4.64,-7.66) circle (2.5pt);
+\draw[color=qqqqff] (4.78,-7.3) node {$O$};
+\draw [fill=qqqqff] (4.72,-7.14) circle (2.5pt);
+\draw[color=qqqqff] (4.86,-6.78) node {$P$};
+\draw [fill=qqqqff] (3.82,-6.62) circle (2.5pt);
+\draw[color=qqqqff] (3.96,-6.26) node {$Q$};
+\draw [fill=qqqqff] (3.82,-6.06) circle (2.5pt);
+\draw[color=qqqqff] (3.96,-5.7) node {$R$};
+\draw [fill=qqqqff] (4.22,-6.06) circle (2.5pt);
+\draw[color=qqqqff] (4.36,-5.7) node {$S$};
+\draw [fill=qqqqff] (4.22,-6.58) circle (2.5pt);
+\draw[color=qqqqff] (4.36,-6.22) node {$T$};
+\draw [fill=qqqqff] (4.62,-6.14) circle (2.5pt);
+\draw[color=qqqqff] (4.76,-5.78) node {$U$};
+\draw [fill=qqqqff] (4.56,-6.48) circle (2.5pt);
+\draw[color=qqqqff] (4.7,-6.12) node {$V$};
+\draw [fill=qqqqff] (3.86,-5.54) circle (2.5pt);
+\draw[color=qqqqff] (4.,-5.18) node {$W$};
+\draw [fill=qqqqff] (3.9,-5.24) circle (2.5pt);
+\draw[color=qqqqff] (4.04,-4.88) node {$Z$};
+\draw [fill=qqqqff] (4.26,-5.14) circle (2.5pt);
+\draw[color=qqqqff] (4.44,-4.72) node {$A_1$};
+\draw [fill=qqqqff] (4.28,-5.5) circle (2.5pt);
+\draw[color=qqqqff] (4.46,-5.08) node {$B_1$};
+\draw [fill=qqqqff] (4.64,-5.24) circle (2.5pt);
+\draw[color=qqqqff] (4.82,-4.82) node {$C_1$};
+\draw [fill=qqqqff] (4.6,-5.56) circle (2.5pt);
+\draw[color=qqqqff] (4.78,-5.14) node {$D_1$};
+\draw[color=black] (6.1,-5.7) node {$m$};
+\draw[color=black] (7.06,-7.96) node {$n$};
+\draw[color=black] (8.,-5.72) node {$p$};
+\draw[color=black] (7.06,-3.46) node {$q$};
+\draw[color=black] (8.56,-4.16) node {$r$};
+\draw[color=black] (8.5,-5.78) node {$s$};
+\draw[color=black] (8.54,-7.4) node {$t$};
+\draw[color=black] (8.96,-6.34) node {$a$};
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>

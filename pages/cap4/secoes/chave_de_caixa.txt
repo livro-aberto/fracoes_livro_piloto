@@ -1,0 +1,44 @@
+;;#
+Ir para [[cap4:texto#chave_de_caixa]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar frações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Existem outros tipos de ferramentas cujas peças componentes também são identificadas por frações: brocas de furadeiras, chaves de boca e aperto, chaves biela, $\ldots$
+  * Recomenda-se que, caso seja viável, algumas destas ferramentas sejam levadas para sala de aula para conhecimento dos alunos.
+
+Classificações
+  * Heid et al.: Conceito: elaborar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: comparar
+</WRAP>
+</hidden>
+
+A chave de caixa é uma ferramenta usada para apertar (ou afrouxar) porcas e parafusos. Ela consiste 
+de um braço no qual, em uma de suas extremidades, é possível acoplar soquetes de tamanhos variados.
+Estes soquetes são identificados por frações que especificam seus tamanhos em polegadas (a polegada é uma medida de comprimento usada nos Estados Unidos e no Reino Unido).
+
+Na figura a seguir, observe o tamanho dos soquetes e identifique cada um deles com uma das seguintes frações $\frac{1}{2}$, $\frac{3}{4}$, $\frac{3}{8}$, $\frac{5}{8}$, $\frac{7}{8}$, $\frac{7}{16}$, $\frac{9}{16}$, $\frac{11}{16}$ e $\frac{13}{16}$.
+
+{{ :cap4:secoes:pngs:ativ14_fig01.png?nolink&300 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+Uma vez que $\frac{1}{2} = \frac{8}{16}$, $\frac{3}{4} = \frac{12}{16}$, $\frac{3}{8} = \frac{6}{16}$, $\frac{5}{8} = \frac{10}{16}$ e $\frac{7}{8} = \frac{14}{16}$, os tamanhos dos soquetes são os seguintes:
+
+(A): $\frac{7}{8}$,
+(B): $\frac{13}{16}$,
+(C): $\frac{3}{4}$, 
+(D): $\frac{11}{16}$,
+(E): $\frac{5}{8}$,
+(F): $\frac{9}{16}$,
+(G): $\frac{1}{2}$,
+(H): $\frac{7}{16}$,
+(I): $\frac{3}{8}$.
+</WRAP>
+</hidden>

@@ -1,0 +1,39 @@
+;;#
+Ir para [[cap5:texto#fitas]]
+;;#
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * entender o processo de determinação de um denominador comum entre duas frações com base na ideia de subdivisão da unidade da qual ambas sejam múltiplas inteiras, obtida a partir de um processo geométrico;
+  * determinar a soma de duas frações a partir dessa subdivisão da unidade.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Uma vez estabelecida uma **unidade** (no caso, o tamanho da fita), a determinação de uma subdivisão dá origem a um processo de medida por meio de uma **dupla contagem**, em que estão envolvidas: **a unidade**, associada ao número 1, com base na qual são contadas quantidades inteiras; **subdivisões da unidade em partes iguais** (no caso, os pedaços coloridos das fitas), cuja contagem permite medir quantidades menores que a unidade.
+  * A atividade envolve a subdivisão de fitas coloridas em pedaços de mesmo tamanho. É recomendável que o professor desenvolva a atividade em sala de aula utilizando materiais concretos. As fitas coloridas podem ser feitas com papel e cartolina, e os alunos podem recortá-las e juntar os pedaços de acordo com o que é pedido nos itens da atividade. Nesta etapa de familiarização inicial com as operações com frações, a manipulação concreta é importante para a construção de significado.
+  * O item a) visa ao reconhecimento pelo aluno das frações envolvidas na situação apresentada. Assim, espera-se que o aluno responda , $\frac{1}{3}$, $\frac{1}{2}$ e $\frac{1}{4}$.
+  * Em seguida, é apresentada uma situação simples em que uma subdivisão comum, no caso o pedaço de fita amarelo, permite a determinação da soma:
+$$ \frac{1}{2} + \frac{2}{4} = \frac{1}{2} + \frac{1}{2} = 1.$$
+  * O item b), embora seja bem parecido com o exemplo dado, demanda que o estudante determine uma subdivisão diferente da usada no item anterior. Nesse caso o estudante deve observar que é necessário utilizar a subdivisão $\frac{1}{4}$ para medir essas partes que foram juntadas.
+</WRAP>
+</hidden>
+
+A professora Estela quer enfeitar sua sala de aula para uma festa da escola. Para isso ela comprou várias fitas, todas de mesmo tamanho, nas cores vermelho, azul e amarelo.
+
+{{ :cap5:ativ:cap5-1.png?nolink&400 |}}
+
+A professora cortou cada fita vermelha em 3 partes iguais, cada fita azul em 2 partes iguais e cada fita amarela em 4 partes iguais.
+
+{{ :cap5:ativ:cap5-2.png?nolink&400 |}}
+
+  - A que fração da fita original corresponde cada pedaço recortado pela professora Estela?\\  \\ Em seguida, a professora Estela começou a juntar pedaços recortados das fitas, formando novas fitas coloridas. Ela começou juntando (de forma intercalada) um pedaço azul e dois pedaços amarelos. \\ {{ :cap5:ativ:cap5-3.png?400 |}} \\ Ela verificou que a nova fita formada tinha o mesmo tamanho da fita original. Isso aconteceu por que cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos. Podemos representar o tamanho da nova fita formada pela professora por meio de uma **soma de frações**. Cada pedaço azul corresponde a $\frac{1}{2}$ da fita original. Cada pedaço amarelo corresponde a $\frac{1}{4}$ da fita original, então 2 pedaços amarelos correspondem a $\frac{2}{4}$ da fita original. Portanto, o tamanho da nova fita é igual a: $$\dfrac{1}{2} + \dfrac{2}{4}.$$ Mas, como $\frac{2}{4}$ é igual a $\frac{1}{2}$ (cada pedaço azul tem o mesmo tamanho de dois pedaços amarelos), então: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2}.$$ O resultado dessa soma $\frac{1}{2} + \frac{1}{2}$ é igual 2 pedaços de $\frac{1}{2}$, isto é, $\frac{2}{2}$ (que é igual 1). Assim: $$\dfrac{1}{2} + \dfrac{2}{4} = \dfrac{1}{2} + \dfrac{1}{2} = 1.$$ Neste caso, o resultado 1 corresponde ao tamanho da fita original.
+  - A professora também agrupou pedaços de fita, juntando 1 pedaço amarelo e 1 pedaço azul, como na figura abaixo. Qual fração da fita inicial corresponde esses dois pedaços juntos?
+
+{{ :cap5:secoes:pngs_licao_05:ativ2_fig01.png?nolink&300 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+    - Um pedaço vermelho recortado, corresponde a $\frac{1}{3}$ da fita. \\ Um pedaço azul recortado, corresponde a $\frac{1}{2}$ da fita. \\ Um pedaço amarelo recortado, corresponde a $\frac{1}{4}$ da fita. 
+    - Um pedaço amarelo mais um pedaço azul corresponde a $\frac{1}{4} +\frac{1}{2}$ da fita. Como $\frac{1}{2} =\frac{2}{4}$, temos que a junção dos dois pedaços de fita será $\frac{1}{4} +\frac{1}{2} = \frac{3}{4}$ da tamanho da fita original.  
+
+</WRAP>
+</hidden>

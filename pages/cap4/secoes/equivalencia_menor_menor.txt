@@ -1,0 +1,42 @@
+;;#
+Ir para [[cap4:texto#equivalencia_menor_menor]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber que mesmo se $n < p$ e $m < q$, pode ocorrer que $\frac{n}{m} \geq \frac{p}{q}$.
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * O tipo de situação descrita na atividade é um equívoco comum entre os alunos, isto é, eles equivocamente acham que se $n < p$ e $m < q$, então necessariamente $\frac{n}{m} < \frac{p}{q}$.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
+</WRAP>
+</hidden>
+
+Jorge e Ana estão comparando as frações $\frac{2}{3}$ e $\frac{6}{10}$. Jorge afirma que 
+$\frac{2}{3} < \frac{6}{10}$ porque $2 < 6$ e $3 < 10$. Ana diz que $\frac{2}{3} > \frac{6}{10}$. Use desenhos, palavras ou apenas números para ajudar Ana a explicar a Jorge porque ele está errado.
+
+<hidden Resposta>
+<WRAP resposta>
+Tem-se que $\frac{2}{3} = \frac{10 \times 2}{10 \times 3} = \frac{20}{30}$ e
+$\frac{6}{10} = \frac{3 \times 6}{3 \times 10} = \frac{18}{30}$.
+Como $\frac{20}{30} > \frac{18}{30}$, segue-se que $\frac{2}{3} > \frac{6}{10}$.
+</WRAP>
+</hidden>
+
+/*
+<hidden Comentário - a ser apagado (com réplica do Humberto)>
+Humberto:
+Pela Atividade 17, é possível comparar frações em termos de suas componentes: se $ad < bc$, então
+$\frac{a}{b} < \frac{c}{d}$.
+
+Letícia:
+Acho que a atividade, mais do levar o aluno a "Perceber que mesmo se $n < p$ e $m < q$, pode ocorrer que $\frac{n}{m} \geq \frac{p}{q}$", leva o aluno a reconhecer que a comparação entre frações não pode ser feita pela comparação direta entre seus termos.
+
+</hidden>
+*/

@@ -1,0 +1,126 @@
+<code latex>
+\documentclass{standalone}
+
+\usepackage[active,pdftex,tightpage]{preview}
+\usepackage{tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+\PreviewEnvironment{tikzpicture}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.geometric}
+
+% Parallelepiped definitions
+\usetikzlibrary{quotes,arrows.meta}
+\tikzset{
+  annotated cuboid/.pic={
+    \tikzset{%
+      every edge quotes/.append style={midway, auto},
+      /cuboid/.cd,
+      #1
+    }
+    \draw [every edge/.append style={pic actions, densely dashed, opacity=0}, pic actions]
+    (0,0,0) coordinate (o) -- ++(-\cubescale*\cubex,0,0) coordinate (a) -- ++(0,-\cubescale*\cubey,0) coordinate (b) edge coordinate [pos=1] (g) ++(0,0,-\cubescale*\cubez)  -- ++(\cubescale*\cubex,0,0) coordinate (c) -- cycle
+    (o) -- ++(0,0,-\cubescale*\cubez) coordinate (d) -- ++(0,-\cubescale*\cubey,0) coordinate (e) edge (g) -- (c) -- cycle
+    (o) -- (a) -- ++(0,0,-\cubescale*\cubez) coordinate (f) edge (g) -- (d) -- cycle;
+ },
+  /cuboid/.search also={/tikz},
+  /cuboid/.cd,
+  width/.store in=\cubex,
+  height/.store in=\cubey,
+  depth/.store in=\cubez,
+  units/.store in=\cubeunits,
+  scale/.store in=\cubescale,
+  width=10,
+  height=10,
+  depth=10,
+  units=cm,
+  scale=.1,
+}
+
+\begin{document}
+
+%Enunciado
+%A)
+\begin{tikzpicture}
+      \draw[red] (90:2 cm)  -- (210:2 cm);
+      \draw (210:2 cm)  -- (330:2 cm);
+      \draw[red] (330:2 cm) -- (90:2 cm);
+\end{tikzpicture}
+
+%B)
+\begin{tikzpicture}
+      \draw (0,0) rectangle (4,3);
+      \draw (0.5,0.5) rectangle (3.5,2.5);
+      \fill[gray] (0,0) -- (0.5,0.5) -- (3.5,0.5) -- (3.5,2.5) -- (4,3) -- (4,0)--cycle;
+      \fill[red] (0,0) -- (0.5,0.5) -- (0.5,2.5) -- (3.5,2.5) -- (4,3) -- (0,3)--cycle;
+\end{tikzpicture}
+
+%C)
+\begin{tikzpicture}
+      \draw (0,3) -- (3,0);
+      \draw[red] (3,0) -- (6,3);
+      \draw (6,3) -- (9,0);      
+\end{tikzpicture}
+
+%D)
+\begin{tikzpicture}
+      \draw (90:2 cm)  -- (210:2 cm);
+      \draw[red] (210:2 cm)  -- (330:2 cm);
+      \draw (330:2 cm) -- (90:2 cm);
+\end{tikzpicture}
+
+%E)
+\begin{tikzpicture}
+   \pic [fill=red] at (5,0) {annotated cuboid={width=10, height=10, depth=10}};
+   \pic [fill=gray] at (6,0) {annotated cuboid={width=10, height=10, depth=10}};
+   \pic [fill=gray] at (7,0) {annotated cuboid={width=10, height=10, depth=10}};
+   \end{tikzpicture}
+
+%F)
+\begin{tikzpicture}
+\foreach \x in {0,60,...,300}{
+      \draw (\x:2 cm)  -- (\x + 60:2 cm);}
+      \draw (0,0)  -- (60:2 cm);
+      \draw (0,0)  -- (180:2 cm);
+      \fill[red] (0,0) -- (60:2 cm) -- (120:2 cm) -- (180:2 cm) -- (0,0);
+      \fill[gray] (0,0) -- (60:2 cm) -- (0:2 cm) -- (300:2 cm) -- (240:2 cm) -- (180:2 cm) -- (0,0);
+      \draw (0,0)  -- (300:2 cm);
+\end{tikzpicture}
+
+
+%G)
+\begin{tikzpicture}
+      \draw[red] (0,3) -- (3,0);
+      \draw[red] (3,0) -- (6,3);
+      \draw (6,3) -- (9,0);      
+\end{tikzpicture}
+
+%H)
+\begin{tikzpicture}
+    \draw[fill=gray] (0,0) rectangle (3,1);
+    \draw[fill=red] (3,0) rectangle (6,1);
+    \draw[fill=gray] (6,0) rectangle (9,1);
+\end{tikzpicture}
+
+
+%I)
+\begin{tikzpicture}
+    \draw[fill=gray] (0,0) rectangle (2,1);
+    \draw[fill=red] (2,0) rectangle (6,1);
+    \draw[fill=gray] (6,0) rectangle (9,1);
+\end{tikzpicture}
+
+%J)
+\begin{tikzpicture}
+ \fill[red] (162:2 cm) -- (234:2 cm) -- (306: 2 cm) -- (378: 2cm) -- (0,0) -- cycle;
+ \fill[gray] (162:2 cm) -- (0,0) -- (378: 2cm) -- (90: 2cm) -- cycle;
+  \foreach \x in {90,162,...,378}{
+ \draw (\x: 2cm) -- (\x + 72: 2cm);
+ \draw (0,0) -- (\x:2cm);}
+\end{tikzpicture}
+
+
+
+\end{document}
+</code>

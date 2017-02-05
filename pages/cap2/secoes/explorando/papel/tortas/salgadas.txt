@@ -1,0 +1,68 @@
+;;#
+Ir para [[cap2:texto#salgadas]]
+;;#
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * Estender o uso de frações para expressar quantidades que correspondam a mais do que uma fração unitária  a partir da justaposição de duas ou mais frações unitárias de mesmo denominador. 
+  * Reconhecer a necessidade de apresentar uma expressão verbal que identifique a quantidade correspondente à justaposição de duas ou mais partes correspondentes às frações unitárias de mesmo denominador.
+  * Reconhecer e usar frações para expressar quantidades que correspondam a mais do que uma fração unitária em situação de equipartição de mais do que uma unidade (no caso, três).
+  * Compreender e usar a expressão "//n// quintos de" como forma de identificar a quantidade equivalente a //n// partes da equipartição da unidade em quintos, incluindo os casos em que //n// é maior do que cinco (frações impróprias). 
+  * Analisar uma situação de comparação de frações com o mesmo denominador. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos.
+  * As diversas soluções apresentadas pelos diferentes grupos devem ser discutidas com a turma inteira.
+  * Em particular, no Item a), não se espera, nem se recomenda, que a representação feita pelos alunos seja amparada pela medida. O objetivo é que façam a equipartição livremente e de forma coerente. Assim, por exemplo, pode ser aceita como resposta a solução indicada na figura a seguir.
+
+{{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
+
+  * Em suas respostas, é possível que os alunos utilizem expressões variadas para nomear as partes das tortas em cada divisão e para as quantidades de torta que cada irmão recebe. Por exemplo, "três dos quinze pedaços", "três pedaços de um quinto de torta", dentre outras. É importante que a discussão conduza os alunos ao uso de quintos: "três quintos", "seis quintos", "quinze quintos", etc. 
+  * Espera-se que, no final da atividade, o aluno tome conhecimento e reconheça o significado das expressões dois quintos e três quintos, mesmo que não o faça espontaneamente (usando, por exemplo, especificações como "dois pedaços" ou "duas fatias") e seja necessária a intervenção do professor. O professor deve fazer e incentivar o uso da terminologia de frações que se quer estabelecer nesta lição.
+  * Nesta atividade, é importante que os alunos possam ter cópias de figuras ilustrativas da torta para dividir e poder avaliar e decidir suas respostas. Faça cópias das ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}).
+  * Nos Itens c) e d), não basta uma resposta "Sim" ou "Não". É importante estimular os seus alunos a darem uma justificativa. 
+
+
+Classificações
+  * Heid et al.: Conceito: identificar, descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar, reconhecer
+Itens c) e d)
+  * Heid et al.: Raciocínio: justificar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
+
+</WRAP>
+</hidden>
+
+
+Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou três tortas salgadas para uma comemoração.
+
+
+{{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos.png?700 |}}
+
+
+  - Como dividir as três tortas de modo que cada amigo receba a mesma quantidade de torta? Faça um desenho no seu caderno mostrando sua proposta de divisão. Indique qual parte é de qual amigo!
+  - Considerando-se uma torta, como você nomearia, usando frações, a quantidade de torta que: 
+    - Amarildo recebeu? 
+    - Amarildo e Beto receberam juntos? 
+    - Amarildo, Beto e Carlos receberam juntos? 
+    - Amarildo, Beto, Carlos e Davi receberam juntos?
+    - Amarildo, Beto, Carlos, Davi e Edilson receberam juntos?
+  - A quantidade de torta que cada amigo recebeu é menor do que um quinto de torta? E do que dois quintos de torta? Explique sua resposta.
+  - A quantidade de torta que cada amigo recebeu é maior do que três quintos de torta? E do que quatro quintos de torta? Explique sua resposta.
+
+<hidden Resposta>
+<WRAP resposta>
+    - Uma resposta possível (entre várias): dividir cada uma das três tortas em 5 partes iguais e, então, com as 15 partes disponíveis, distribuir 3 partes para cada amigo, como mostra a figura a seguir \\ {{ :cap2:secoes:explorando:papel:tortas:torta-cinco-amigos-resposta-possivel-01.png?700 |}}
+    - 
+        - Três quintos. 
+        - Seis quintos (ou uma torta inteira e um quinto de torta). 
+        - Nove quintos. 
+        - Doze quintos (ou duas tortas inteiras e dois quintos de torta). 
+        - Quinze quintos (ou três tortas inteiras). 
+    - A quantidade de torta que cada amigo recebeu não pode ser menor do que um quinto de torta pois se isto acontecesse, a quantidade total de torta recebida pelos três amigos seria menor do que cinco quintos de torta, isto é, seria menor do que uma torta inteira, o que não é o caso. Um argumento análogo mostra que a quantidade de torta que cada amigo recebeu não pode ser menor do que dois quintos de torta.
+    - A quantidade de torta que cada amigo recebeu não pode ser maior do que três quintos de torta pois se isto acontecesse, a quantidade total de torta recebida pelos três amigos seria maior do que quinze quintos de torta, isto é, seria maior do que três tortas inteiras, o que não é o caso. Um argumento análogo mostra que a quantidade de torta que cada amigo recebeu não pode ser maior do que quatro quintos de torta.
+
+</WRAP>
+</hidden>

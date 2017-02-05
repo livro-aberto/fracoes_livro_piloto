@@ -1,0 +1,29 @@
+<code latex>
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=0.75cm,y=0.75cm]
+\clip(-3.4980800638137213,-6.153579218723066) rectangle (19.625701507537602,5.549065019995593);
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (0.,5.) -- (9.,5.) -- (9.,-5.) -- (0.,-5.) -- cycle;
+\fill[color=ffqqqq,fill=ffqqqq,fill opacity=1.0] (0.,5.) -- (0.,0.) -- (9.,0.) -- (9.,5.) -- cycle;
+\draw [line width=1.6pt] (0.,5.)-- (9.,5.);
+\draw [line width=1.6pt] (9.,5.)-- (9.,-5.);
+\draw [line width=1.6pt] (9.,-5.)-- (0.,-5.);
+\draw [line width=1.6pt] (0.,-5.)-- (0.,5.);
+\draw [line width=1.6pt] (0.,5.)-- (0.,0.);
+\draw [line width=1.6pt] (0.,0.)-- (9.,0.);
+\draw [line width=1.6pt] (9.,0.)-- (9.,5.);
+\draw [line width=1.6pt] (9.,5.)-- (0.,5.);
+\draw [line width=1.6pt] (0.,5.)-- (9.,5.);
+\draw [line width=1.6pt] (9.,0.)-- (0.,0.);
+\draw [line width=1.6pt] (0.,0.)-- (0.,5.);
+\draw [line width=1.6pt] (9.,5.)-- (9.,0.);
+\draw [line width=1.6pt] (3.,0.)-- (3.,5.);
+\draw [line width=1.6pt] (6.,5.)-- (6.,0.);
+\draw [line width=1.6pt] (4.5,-5.)-- (4.5,0.);
+\draw [line width=1.6pt] (0.,-5.)-- (9.,-5.);
+\draw [line width=1.6pt] (9.,-5.)-- (9.,0.);
+\draw [line width=1.6pt] (9.,0.)-- (0.,0.);
+\draw [line width=1.6pt] (0.,0.)-- (0.,-5.);
+\begin{scriptsize}
+\draw[color=ffqqqq] (4.725943121127749,2.6736730506884316) node {$pol2$};
+\end{scriptsize}
+\end{tikzpicture}
+</code>

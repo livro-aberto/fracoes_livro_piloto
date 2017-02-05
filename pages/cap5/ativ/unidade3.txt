@@ -1,0 +1,57 @@
+;;#
+Ir para [[cap5:texto#unidade3]]
+;;#
+
+<hidden Para o professor>
+
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  *  entender o processo de determinação de um denominador comum entre duas frações com base na ideia de subdivisão da unidade da qual ambas sejam múltiplas inteiras, obtida a partir de um processo geométrico;  
+  *  determinar a soma e a diferença de duas frações a partir dessa subdivisão da unidade.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  *  Esta atividade pode ser mais aproveitada pelos alunos se for realizada com apoio de materiais concretos. Sugerimos, caso seja possível, que os estudantes desenvolvam o material. Caso não seja possível, disponibilizamos uma página para reprodução no final dessa lição. Neste caso, o professor poderá disponibilizar aos alunos discos divididos em 12 partes, e pedir que eles marquem as frações $\frac{1}{6}$, $\frac{3}{4}$ e $\frac{2}{3}$ colorindo esses discos.
+   * A atividade tem início com a comparação de frações, o que já foi abordado na lição anterior. Procurar retomada a discussão conduzida naquela lição.
+   * É importante chamar atenção para o fato de que escrever as frações a partir de um mesmo denominador corresponde a expressar as quantidades que elas representam como múltiplos inteiros de uma subdivisão comum da unidade. Portando, toma-se como estratégia, para operar a adição e a subtração de frações, escrevê-las em relação a um mesmo denominador, determinado a partir de uma subdivisão comum da unidade. O item a) visa especificamente ao reconhecimento concreto da fração unitária associada a esse denominador comum.
+   * No item b), o professor deverá explorar e evidenciar as articulações entre as diferentes estratégias dos alunos, sendo as principais:
+   - Multiplicar o numerador e o denominador por um mesmo número (algoritmo discutido na lição anterior).
+   - Observar a quantidade de fatias nas imagens acima que apresentam as frações consumidas.
+   * Os itens d) a g) exploraram diferentes interpretações da adição da subtração, a saber:
+d) subtração – completar;\\
+e) adição – juntar;\\
+f) subtração – retirar;\\
+g) subtração – comparar.\\
+Em cada um dos itens acima, após as resoluções dos estudantes, recomendamos que o professor arme a conta e indique o resultado. Por exemplo, no item d), tem-se:
+$$\frac{3}{4} - \frac{2}{3} = \frac{9}{12} - \frac{8}{12}=\frac{1}{12}$$
+  *  É interessante que o professor encoraje e traga para a discussão com a turma as diferentes estratégias que tiverem sido propostas pelos alunos, inclusive aquelas que não estiverem inteiramente corretas. O objetivo não é destacar soluções "mais eficientes" ou separar as "certas" das "erradas", e sim evidenciar como diferentes estratégias permitem obter os resultados pedidos nesta atividade a partir da determinação de uma subdivisão comum. Por exemplo, no caso do item d), um aluno pode sobrepor o desenho das fatias comidas por Bruna no desenho das comidas por Caio, e contar quantas fatias faltam para atingir a quantidade consumida por Caio.
+   * É importante que o professor apresente o registro das operações em notação de fração, com o objetivo de articular esse registro com as estratégias geométricas, baseadas na contagem direta das subdivisões comuns.
+
+Esta atividade possui {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}.
+</WRAP>
+</hidden>
+
+Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores diferentes. Todas as pizzas nessa pizzaria são servidas em **12 fatias** iguais. Amanda comeu $\frac{1}{6}$ de uma pizza, Bruno comeu $\frac{3}{4}$ de outra, e Caio comeu $\frac{2}{3}$ da pizza que pediu.
+
+{{ :cap5:ativ:cap5-5.png?700 |   }}
+
+  - Que fração de uma pizza cada fatia representa?
+  - Complete os espaços (numeradores) a seguir registrando outra representação para a fração de uma pizza que cada uma das crianças comeu.\\ Amanda: $\frac{1}{6} =\frac{}{12}  \quad \quad$ Bruno: $\frac{3}{4} =\frac{}{12} \quad \quad$ Caio: $\frac{2}{3} =\frac{}{12}$ 
+  - Quem comeu mais pizza? Quem comeu menos pizza?
+  - Que quantidade de pizza Bruno comeu a mais do que Caio?
+  - Que quantidade de pizza Amanda e Bruno comeram juntas?
+  - Que fração de uma pizza Amanda comeu a menos do que Caio?
+  - Quanto a mais de pizza Bruno consumiu, em relação a Amanda?
+
+<hidden Resposta>
+<WRAP resposta>
+
+    - $\frac{1}{12}$ é a fração unitária de pizza comum, pois todas as quantidades consumidas podem ser indicadas as partir de múltiplos dessa fração de pizza. 
+    - Para cada quantidade é possível simplesmente contar a quantidade de fatias observando as imagens acima, uuma vez que cada fatia corresponde a $\frac{1}{12}$ de uma pizza. Assim, obtemos como resposta as frações $\frac{2}{12}$, $\frac{9}{12}$ e $\frac{8}{12}$, que são iguais a $\frac{1}{6}$, $\frac{3}{4}$ e $\frac{2}{3}$, respectivamente. 
+    - Observando as quantidades indicadas no item anterior quem consumiu mais foi Bruno, $\frac{9}{12}$ de pizza. Quem consumiu menos foi Amanda, $\frac{2}{12}$ da pizza. 
+    - $\frac{9}{12} -  \frac{8}{12} = \frac{1}{12}$.
+    - $\frac{2}{12} +  \frac{9}{12} = \frac{11}{12}$.
+    - $\frac{8}{12} -  \frac{2}{12} = \frac{6}{12}$.
+    - $\frac{9}{12} -  \frac{2}{12} = \frac{7}{12}$
+</WRAP>
+</hidden>

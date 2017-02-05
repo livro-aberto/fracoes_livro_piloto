@@ -1,0 +1,41 @@
+;;#
+Ir para [[cap3:texto#comparacao_fracoes_unitarias_na_reta]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivo específico: 
+  * Representar frações unitárias na reta numérica.
+  * Comparar frações unitárias.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+   - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
+   - 
+  
+</WRAP> 
+</hidden>
+
+Associe as fraçoes às representações na reta numérica:
+
+^  I     ^ $\frac{1}{2}$  |   | (........)  |   |
+|  II    |                |   | (........)  |   |
+|  III   |                |   | (........)  |   |
+|  IV    |                |   | (........)  |   |
+|  V     |                |   | (........)  |   |
+|  VI    |                |   | (........)  |   |
+|  VII   |                |   | (........)  |   |
+|  VIII  |                |   | (........)  |   |
+|  IX    |                |   | (........)  |   |
+|  X     |                |   | (........)  |   |
+
+
+</WRAP>
+
+<hidden Resposta>
+<WRAP resposta>
+<WRAP imagem>
+.
+</WRAP>
+</WRAP>
+</hidden>

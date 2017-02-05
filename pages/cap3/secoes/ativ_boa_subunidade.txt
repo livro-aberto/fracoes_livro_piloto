@@ -1,0 +1,30 @@
+;;#
+Ir para [[cap3:texto#ativ_boa_subunidade]]
+;;#
+
+Frações: a melhor escolha para dividir uma unidade
+
+<WRAP professor>
+Objetivos específicos:
+Os alunos devem perceber que há boas escolhas para dividir uma unidade de modo a representar corretamente uma fração.
+
+Recomendações:
+A ideia é ainda continuar usando as faixas para reafirmar que só uma boa escolha da subdivisão a que a unidade será submetida permitirá uma representação pra esta parte ou para todo o elemento envolvido. 
+
+
+</WRAP>
+
+Na figura abaixo temos faixas divididas em 3, 4 e 5 partes. 
+
+<WRAP imagem> FIGURAS GEOMÉTRICAS
+{{ :cap3:secoes:figura_iniciaal.jpg |}}
+</WRAP>
+
+Compare cada uma delas com a parte que sobrou na atividade anterior.  
+Qual a melhor subdivisão nesse caso?
+Explique com suas palavras a sua escolha.
+
+Observe as faixas abaixo e em cada caso dê uma representação fracionária relacionada a cada uma das faixas, observando a subdivisão proposta.
+
+{{ :cap3:secoes:faixas_ate_2.png |}}
+

@@ -1,0 +1,22 @@
+<code latex>
+Enunciado 
+
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+\draw (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
+\end{tikzpicture}   
+\vspace{1cm}
+
+Resposta
+
+\begin{tikzpicture}[x=100mm,y=100mm]
+\draw (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {.2,.4,...,.8}{ \fill[attention] (\x,0) circle (3pt);}
+\foreach \x in {.25,.5,...,.75}{ \fill[common] (\x,0) circle (3pt);}
+
+\foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
+\foreach \x in {2,3}{ \node[below] at (\x/4,0) {$\frac{\x}{4}$};}
+\node[below] at (.6,0) {$\frac{3}{5}$};
+\end{tikzpicture}   
+
+</code>

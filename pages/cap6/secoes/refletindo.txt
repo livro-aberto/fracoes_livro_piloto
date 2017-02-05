@@ -1,0 +1,7 @@
+;;#
+Ir para [[cap6:texto#refletindo]]
+;;#
+
+<WRAP refletindo>
+</WRAP>
+

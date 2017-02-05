@@ -1,0 +1,117 @@
+====== LIÇÃO 1 - Começando a falar sobre frações ======
+
+{{anchor:prologo}}
+{{page>cap1:secoes:prologo}}
+
+/*
+page>cap1:secoes:intro
+*/
+===== EXPLORANDO O ASSUNTO =====
+
+{{anchor:ativ_equiparticao}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_equiparticao}}
+
+{{anchor:ativ_equiparticao2}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_equiparticao2}}
+
+{{anchor:ativ_enfeite}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_enfeite}}
+
+
+{{anchor:conexoes}}
+===== ORGANIZANDO AS IDEIAS =====
+{{page>cap1:secoes:conexoes}}
+
+===== MÃO NA MASSA =====
+
+{{anchor:ativ_retangulos_coloridos}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_retangulos_coloridos}}
+
+{{anchor:refl_retangulos_coloridos}}
+{{page>cap1:secoes:refl_retangulos_coloridos}}
+
+
+{{anchor:ativ_ident_terco}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_ident_terco}}
+
+{{anchor:ativ_recomportodo}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_recomportodo}}
+
+{{anchor:ativ_desenhar}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_desenhar}}
+
+{{anchor:ativ_hexag}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_hexag}}
+
+{{anchor:ativ_meioemeio}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_meioemeio}}
+
+/*
+page>cap1:secoes:abstrato
+*/
+
+/* atividade mais avançada, deve ser utilizada mais para frente page>cap1:secoes:atividade5*/
+
+{{anchor:ativ_cisc_frac}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_circ_frac}}
+
+
+
+{{anchor:ativ_variadas}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_variadas}}
+
+
+{{anchor:ativ_visual_linguagem}}
+==== Atividade - ====
+{{page>cap1:secoes:ativ_visual_linguagem}}
+
+
+
+
+
+
+/*==== Atividade - ====
+
+{{page>cap1:secoes:ativ_quantos cabem}}
+
+==== Atividade - ====
+
+{{page>cap1:secoes:ativ_quantos cabem 2}}
+
+==== Atividade - ====
+
+{{page>cap1:secoes:ativ_pintura}}
+
+
+page>cap1:secoes:atividade11
+
+page>cap1:secoes:atividade12
+ 
+
+{{page>cap1:secoes:refletindo}}
+
+
+ Limbo (Dá para Aproveitar?)
+
+page>cap1:secoes:atividade13
+
+page>cap1:secoes:atividade14
+
+
+
+{{page>cap1:secoes:quadrinhos}}
+
+
+*/
+

@@ -1,0 +1,45 @@
+;;#
+Ir para [[cap2:texto#atividade_poder_da_notacao]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+    * Comparar diversas maneiras de se representar uma fração (por extenso, simbolicamente e graficamente). 
+    * Discutir aspectos dessas representações. 
+
+Recomendações e sugestões para o desenvolvimento da atividade: 
+    * Essa é uma atividade que o aluno pode fazer individualmente. 
+    * É possível que os alunos utilizem frações equivalentes como resposta para um mesmo item. Por exemplo, as frações $\frac{4}{12}$, $\frac{2}{6}$ e $\frac{1}{3}$  descrevem corretamente a quantidade de pizza consumida por Pedro. Nestes casos, dê a oportunidade para que cada aluno explique como chegou à sua resposta pois, procedendo desta maneira, mesmo de forma pontual, os alunos perceberão que uma mesma quantidade pode ser descrita por frações com nomes diferentes, um preparo para o assunto "frações equivalentes" que será tratado na Lição 4.
+    * Esta atividade procura mostrar uma das qualidades da notação simbólica matemática: expressar um conceito com economia de escrita. Mas sua importância vai muito mais além: ela é uma ferramenta de pensamento que permite encapsular detalhes, simplificar procedimentos, abstrair e generalizar conceitos. Assim, é muito importante fazer com que seus alunos se familiarizem com a notação simbólica matemática para frações: ela será fundamental nas lições sobre operações com frações.
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar)
+  * UERJ: Interpretar: discriminar
+</WRAP>
+</hidden>
+
+
+Uma pizza gigante foi dividida em doze fatias iguais. 
+Pedro comeu quatro fatias, Isabella cinco fatias, Bernardo duas fatias e Manuela apenas uma fatia.
+|                                                                            |                                 Pedro |  Isabella                             |  Bernardo                              |  Manuela                              |
+| Pinte a fração de pizza consumida  por cada pessoa:      |  {{cap2:secoes:pizza-notacao.png?70}} | {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}}  |  {{cap2:secoes:pizza-notacao.png?70}} |
+| Escreva, por extenso, a fração de pizza consumida por cada pessoa:                          |                                       |                                       |                                        |                                       |
+| Escreva, usando notação simbólica matemática, a fração de pizza consumida por cada pessoa: |                                       |                                       |                                        |                                       |
+
+    - Na sua opinião, qual representação de fração "gasta menos lápis" para se escrita? Usando notação simbólica matemática, escrevendo por extenso ou pintando?
+    - Na sua opinião, qual a representação que mais rapidamente ajuda a decidir quem comeu mais e quem comeu menos pizza?
+
+<hidden Resposta>
+<WRAP resposta>
+| Tipo de representação  |  Pedro |  Isabella  |  Bernardo  |  Manuela  |
+| Pinte a fração de pizza consumida por cada pessoa:  |  {{cap2:secoes:pizza-notacao-pedro.png?70}} | {{cap2:secoes:pizza-notacao-isabella.png?70}}  |  {{cap2:secoes:pizza-notacao-bernardo.png?70}}  |   {{cap2:secoes:pizza-notacao-manuela.png?70}} |
+| Escreva, por extenso, a fração de pizza consumida por cada pessoa: | quatro doze avos  | cinco doze avos  |  dois doze avos  | um doze avos   |
+| Escreva, usando notação simbólica matemática, a fração de pizza consumida por cada pessoa:  | $\frac{4}{12}$  | $\frac{5}{12}$  | $\frac{2}{12}$   | $\frac{1}{12}$   |
+
+  - A que usa a notação simbólica matemática.
+  - As respostas podem variar de pessoa para pessoa. No entanto, a justificativa deve ser coerente com a resposta. Discuta com a turma as diferentes respostas.
+
+</WRAP>
+</hidden>

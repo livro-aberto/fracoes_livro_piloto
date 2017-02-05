@@ -1,0 +1,32 @@
+;;#
+Ir para [[cap4:texto#divisao_escondida]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Reconhecer que as frações $\frac{3}{4}$ e $\frac{12 \times 3}{12 \times 4}$ são iguais a partir da observação das representações destas frações em modelos de área sem a contagem um a um das partes que compõem as subdivisões destas representações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * O propósito de encobrir as divisões do retângulo é para evitar que os alunos façam a contagem das partes uma a uma e que, assim, sejam estimulados a perceber a estrutura multiplicativa $12 \times 3$ e $12 \times 4$ na divisão do retângulo.
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de azul) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
+
+Classificações:
+  * Heid et al.: Produto: prever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Interpretar: compor e decompor
+</WRAP>
+</hidden>
+
+(Garcez, 2013)
+
+  - O retângulo desenhado a seguir está dividido em $4$ partes iguais, dais quais $3$ estão pintadas de azul. Que fração do retângulo está pintada de azul?\\ {{ :cap4:secoes:dobradura-escondida-01.png?300 |}} 
+  - O retângulo do item anterior foi dividido com o acréscimo de onze linhas horizontais igualmente espaçadas e ele está parcialmente coberto com um retângulo vermelho que impede a visualização dos retângulos menores que compõem a nova equipartição. Com essa nova divisão, em quantas partes fica dividido o retângulo? Quantas destas partes estão pintadas de azul? Que fração do retângulo está pintada de azul? \\  {{ :cap4:secoes:dobradura-escondida-02.png?300 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+  - $\frac{3}{4}$.
+  - Com a nova divisão, o retângulo fica dividido em $12 \times 4 = 48$ partes, das quais $12 \times 3 = 36$ está pintada de azul. Assim, a fração do retângulo que está pintada de azul é igual a $\frac{12 \times 3}{12 \times 4} = \frac{36}{48}$.
+</WRAP>
+</hidden>

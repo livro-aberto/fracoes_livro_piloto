@@ -1,0 +1,626 @@
+Para o Professor:
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.54,0.) -- (18.46,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-2.04) -- (0.,9.6);
+\foreach \y in {-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.54,-2.04) rectangle (18.46,9.6);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (5.,7.) -- (3.,7.) -- (3.,3.) -- (5.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw (5.,7.)-- (5.,3.);
+\draw [color=uququq] (5.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,3.);
+\draw [color=uququq] (3.,3.)-- (5.,3.);
+\draw [color=uququq] (5.,3.)-- (5.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.512505543237249,0.) -- (17.926518847006644,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-1.8870953436807016) -- (0.,9.46900221729489);
+\foreach \y in {-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.512505543237249,-1.8870953436807016) rectangle (17.926518847006644,9.46900221729489);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,3.) -- (7.,7.) -- (7.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,3.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (3.,3.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.2708273592492345,0.) -- (15.091884597709159,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.7099579365131305) -- (0.,9.089258027791013);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.2708273592492345,-0.7099579365131305) rectangle (15.091884597709159,9.089258027791013);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (6.,7.) -- (3.,7.) -- (3.,3.) -- (6.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (6.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,3.);
+\draw [color=uququq] (3.,3.)-- (6.,3.);
+\draw [color=uququq] (6.,3.)-- (6.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+a. Metade:
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.2708273592492345,0.) -- (15.091884597709159,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.7099579365131305) -- (0.,9.089258027791013);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.2708273592492345,-0.7099579365131305) rectangle (15.091884597709159,9.089258027791013);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (7.,7.) -- (3.,3.) -- (7.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (3.,3.);
+\draw [color=uququq] (3.,3.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.410575628155978,0.) -- (14.952136328802409,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.635874516851723) -- (0.,9.163341447452417);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.410575628155978,-0.635874516851723) rectangle (14.952136328802409,9.163341447452417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,5.) -- (7.,5.) -- (7.,3.) -- (5.,3.) -- (5.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,5.);
+\draw [color=uququq] (3.,5.)-- (7.,5.);
+\draw [color=uququq] (7.,5.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (5.,3.);
+\draw [color=uququq] (5.,3.)-- (5.,7.);
+\draw [color=uququq] (5.,7.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.410575628155978,0.) -- (14.952136328802409,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.635874516851723) -- (0.,9.163341447452417);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.410575628155978,-0.635874516851723) rectangle (14.952136328802409,9.163341447452417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,6.) -- (7.,6.) -- (7.,7.) -- (6.,7.) -- (6.,3.) -- (7.,3.) -- (7.,4.) -- (3.,4.) -- (3.,3.) -- (4.,3.) -- (4.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,6.);
+\draw [color=uququq] (3.,6.)-- (7.,6.);
+\draw [color=uququq] (7.,6.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (6.,7.);
+\draw [color=uququq] (6.,7.)-- (6.,3.);
+\draw [color=uququq] (6.,3.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (7.,4.);
+\draw [color=uququq] (7.,4.)-- (3.,4.);
+\draw [color=uququq] (3.,4.)-- (3.,3.);
+\draw [color=uququq] (3.,3.)-- (4.,3.);
+\draw [color=uququq] (4.,3.)-- (4.,7.);
+\draw [color=uququq] (4.,7.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.410575628155978,0.) -- (14.952136328802409,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.635874516851723) -- (0.,9.163341447452417);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.410575628155978,-0.635874516851723) rectangle (14.952136328802409,9.163341447452417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (7.,3.) -- (7.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.410575628155978,0.) -- (14.952136328802409,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.635874516851723) -- (0.,9.163341447452417);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.410575628155978,-0.635874516851723) rectangle (14.952136328802409,9.163341447452417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,5.) -- (7.,5.) -- (7.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,5.);
+\draw [color=uququq] (3.,5.)-- (7.,5.);
+\draw [color=uququq] (7.,5.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+b. Um quarto:
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.410575628155978,0.) -- (14.817439202145307,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.635874516851723) -- (0.,9.163341447452417);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.410575628155978,-0.635874516851723) rectangle (14.817439202145307,9.163341447452417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (5.,7.) -- (5.,3.) -- (7.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (5.,7.);
+\draw [color=uququq] (5.,7.)-- (5.,3.);
+\draw [color=uququq] (5.,3.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.751910392298407,0.) -- (14.476104438002876,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.6726100968491192) -- (0.,9.126605867455021);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.751910392298407,-0.6726100968491192) rectangle (14.476104438002876,9.126605867455021);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,6.) -- (5.,6.) -- (5.,4.) -- (7.,4.) -- (7.,3.) -- (6.,3.) -- (6.,5.) -- (4.,5.) -- (4.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,6.);
+\draw [color=uququq] (3.,6.)-- (5.,6.);
+\draw [color=uququq] (5.,6.)-- (5.,4.);
+\draw [color=uququq] (5.,4.)-- (7.,4.);
+\draw [color=uququq] (7.,4.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (6.,3.);
+\draw [color=uququq] (6.,3.)-- (6.,5.);
+\draw [color=uququq] (6.,5.)-- (4.,5.);
+\draw [color=uququq] (4.,5.)-- (4.,7.);
+\draw [color=uququq] (4.,7.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.751910392298407,0.) -- (14.476104438002876,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.7736329418419454) -- (0.,9.025583022462195);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.751910392298407,-0.7736329418419454) rectangle (14.476104438002876,9.025583022462195);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,6.) -- (5.,6.) -- (5.,7.) -- cycle;
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (5.,4.) -- (5.,3.) -- (7.,3.) -- (7.,4.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,6.);
+\draw [color=uququq] (3.,6.)-- (5.,6.);
+\draw [color=uququq] (5.,6.)-- (5.,7.);
+\draw [color=uququq] (5.,7.)-- (3.,7.);
+\draw [color=uququq] (5.,4.)-- (5.,3.);
+\draw [color=uququq] (5.,3.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (7.,4.);
+\draw [color=uququq] (7.,4.)-- (5.,4.);
+\draw [dash pattern=on 4pt off 4pt] (5.,6.)-- (5.,4.);
+\draw [dash pattern=on 4pt off 4pt] (3.,5.)-- (7.,5.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-4.751910392298407,0.) -- (14.476104438002876,0.);
+\foreach \x in {-4.,-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.7736329418419454) -- (0.,9.025583022462195);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-4.751910392298407,-0.7736329418419454) rectangle (14.476104438002876,9.025583022462195);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (5.,5.) -- (7.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (5.,5.);
+\draw [color=uququq] (5.,5.)-- (7.,7.);
+\draw [color=uququq] (7.,7.)-- (3.,7.);
+\draw [dash pattern=on 4pt off 4pt] (5.,5.)-- (3.,3.);
+\draw [dash pattern=on 4pt off 4pt] (5.,5.)-- (7.,3.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-3.9005321507760553,0.) -- (16.49858093126387,0.);
+\foreach \x in {-3.,-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.9097117516629628) -- (0.,9.414013303769389);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-3.9005321507760553,-0.9097117516629628) rectangle (16.49858093126387,9.414013303769389);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.,5.) -- (5.,5.) -- (5.,7.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.,5.);
+\draw [color=uququq] (3.,5.)-- (5.,5.);
+\draw [color=uququq] (5.,5.)-- (5.,7.);
+\draw [color=uququq] (5.,7.)-- (3.,7.);
+\draw [dash pattern=on 4pt off 4pt] (5.,5.)-- (5.,3.);
+\draw [dash pattern=on 4pt off 4pt] (5.,5.)-- (7.,5.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+c. Um oitavo: 
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (0.25024390243902483,0.) -- (20.64935698447895,0.);
+\foreach \x in {,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.,19.,20.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\clip(0.25024390243902483,-2.044966740576484) rectangle (20.64935698447895,8.278758314855867);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (5.,7.) -- (3.,5.) -- (5.,5.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (5.,7.);
+\draw [color=uququq] (5.,7.)-- (3.,5.);
+\draw [color=uququq] (3.,5.)-- (5.,5.);
+\draw [color=uququq] (5.,5.)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (0.3211973392461202,0.) -- (20.720310421286044,0.);
+\foreach \x in {,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.,19.,20.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\clip(0.3211973392461202,-2.0094900221729364) rectangle (20.720310421286044,8.314235033259417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.5,7.) -- (3.5,6.) -- (4.5,6.) -- (4.5,5.) -- (5.5,5.) -- (5.5,4.) -- (6.5,4.) -- (6.5,3.) -- (7.,3.) -- (7.,3.5) -- (6.,3.5) -- (6.,4.5) -- (5.,4.5) -- (5.,5.5) -- (4.,5.5) -- (4.,6.5) -- (3.,6.5) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.5,7.);
+\draw [color=uququq] (3.5,7.)-- (3.5,6.);
+\draw [color=uququq] (3.5,6.)-- (4.5,6.);
+\draw [color=uququq] (4.5,6.)-- (4.5,5.);
+\draw [color=uququq] (4.5,5.)-- (5.5,5.);
+\draw [color=uququq] (5.5,5.)-- (5.5,4.);
+\draw [color=uququq] (5.5,4.)-- (6.5,4.);
+\draw [color=uququq] (6.5,4.)-- (6.5,3.);
+\draw [color=uququq] (6.5,3.)-- (7.,3.);
+\draw [color=uququq] (7.,3.)-- (7.,3.5);
+\draw [color=uququq] (7.,3.5)-- (6.,3.5);
+\draw [color=uququq] (6.,3.5)-- (6.,4.5);
+\draw [color=uququq] (6.,4.5)-- (5.,4.5);
+\draw [color=uququq] (5.,4.5)-- (5.,5.5);
+\draw [color=uququq] (5.,5.5)-- (4.,5.5);
+\draw [color=uququq] (4.,5.5)-- (4.,6.5);
+\draw [color=uququq] (4.,6.5)-- (3.,6.5);
+\draw [color=uququq] (3.,6.5)-- (3.,7.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (0.33893569844789406,0.) -- (20.73804878048782,0.);
+\foreach \x in {,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.,19.,20.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\clip(0.33893569844789406,-2.0094900221729364) rectangle (20.73804878048782,8.314235033259417);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (4.,6.) -- (4.,5.) -- (6.,5.) -- (6.,4.) -- (5.,4.) -- (5.,6.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (4.,6.)-- (4.,5.);
+\draw [color=uququq] (4.,5.)-- (6.,5.);
+\draw [color=uququq] (6.,5.)-- (6.,4.);
+\draw [color=uququq] (6.,4.)-- (5.,4.);
+\draw [color=uququq] (5.,4.)-- (5.,6.);
+\draw [color=uququq] (5.,6.)-- (4.,6.);
+\draw [dash pattern=on 4pt off 4pt] (5.,7.)-- (5.,6.);
+\draw [dash pattern=on 4pt off 4pt] (4.,5.)-- (3.,5.);
+\draw [dash pattern=on 4pt off 4pt] (5.,4.)-- (5.,3.);
+\draw [dash pattern=on 4pt off 4pt] (6.,5.)-- (7.,5.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-2.216953814533623,0.) -- (20.11979608117155,0.);
+\foreach \x in {-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.,19.,20.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-2.095415472727458) -- (0.,9.20892230057718);
+\foreach \y in {-2.,-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-2.216953814533623,-2.095415472727458) rectangle (20.11979608117155,9.20892230057718);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,7.) -- (3.5,7.) -- (3.5,3.) -- (3.,3.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (3.5,7.);
+\draw [color=uququq] (3.5,7.)-- (3.5,3.);
+\draw [color=uququq] (3.5,3.)-- (3.,3.);
+\draw [color=uququq] (3.,3.)-- (3.,7.);
+\draw [dash pattern=on 5pt off 5pt] (4.,7.)-- (4.,3.);
+\draw [dash pattern=on 5pt off 5pt] (6.5,7.)-- (6.5,3.);
+\draw [dash pattern=on 5pt off 5pt] (6.,7.)-- (6.,3.);
+\draw [dash pattern=on 5pt off 5pt] (4.5,7.)-- (4.5,3.);
+\draw [dash pattern=on 5pt off 5pt] (5.5,7.)-- (5.5,3.);
+\draw [dash pattern=on 5pt off 5pt] (5.,7.)-- (5.,3.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{uququq}{rgb}{0.25098039215686274,0.25098039215686274,0.25098039215686274}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-1.1967151204359434,0.) -- (18.699229557525175,0.);
+\foreach \x in {-1.,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.,11.,12.,13.,14.,15.,16.,17.,18.}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0.,-0.5882940385866721) -- (0.,9.480784050607495);
+\foreach \y in {,1.,2.,3.,4.,5.,6.,7.,8.,9.}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-1.1967151204359434,-0.5882940385866721) rectangle (18.699229557525175,9.480784050607495);
+\fill[color=uququq,fill=uququq,fill opacity=0.1] (3.,5.) -- (3.,7.) -- (4.,7.) -- (4.,5.) -- cycle;
+\draw (3.,7.)-- (3.,3.);
+\draw (3.,3.)-- (7.,3.);
+\draw (7.,3.)-- (7.,7.);
+\draw (7.,7.)-- (3.,7.);
+\draw [color=uququq] (3.,5.)-- (3.,7.);
+\draw [color=uququq] (3.,7.)-- (4.,7.);
+\draw [color=uququq] (4.,7.)-- (4.,5.);
+\draw [color=uququq] (4.,5.)-- (3.,5.);
+\draw [dash pattern=on 4pt off 4pt] (4.,5.)-- (4.,3.);
+\draw [dash pattern=on 4pt off 4pt] (4.,5.)-- (7.,5.);
+\draw [dash pattern=on 4pt off 4pt] (5.,7.)-- (5.,3.);
+\draw [dash pattern=on 4pt off 4pt] (6.,7.)-- (6.,3.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+
+d. Comparando as nossas três figuras, podemos perceber que a maior fração do quadrado é a metade.
+

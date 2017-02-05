@@ -1,0 +1,41 @@
+;;#
+Ir para [[cap3:texto#ativ_comparacao4]]
+;;#
+<hidden Para o professor>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Representar frações na reta numérica, a partir da identificação da unidade;
+  * Identificar, na reta numérica, os pontos correspondentes ao 0 e ao 1, a partir da represetação de duas frações (no caso, as frações $\frac{1}{2}$ e $\frac{3}{2}$).
+  * Reconhecer a reta numérica em uma representação não comum.
+ 
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Observe que a reta numérica não é apresentada da forma mais tradicional, paralela a uma das margens da página e na direção comumente chamada de horizontal. O objetivo é ampliar e variar o contato com esse modelo de representação. 
+  * Além disso, os pontos que identificam frações da unidade (no caso, décimos) também são determinados de uma forma não tradicional. A divisão é estabelecida a partir de um feixe de retas paralelas igualmente espaçadas  e transversal a reta numérica em destaque. 
+  * Os dois primeiros itens desta atividade são bastante simples, apesar da representação não tradicional. 
+  * O terceiro item desta atividade objetiva que o aluno identifique os pontos correspondentes ao 0 e ao 1, que determinam o segmento unitário na reta numérica, a partir dos pontos correspondentes às frações $\frac{1}{2}$ e $\frac{3}{2}$.  
+ 
+</WRAP>
+</hidden>
+
+
+Na figura, há várias retas paralelas igualmente espaçadas e outra reta, destacada em vermelho, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em vermelho pontos também igualmente espaçados. Dois desses pontos correspondem ao 0 e ao 1. A reta vermelha torna-se uma reta numérica, como ilustra a figura. 
+
+  - Marque, usando os pontos destacados na reta numérica, a fração $\frac{1}{2}$. 
+  - Associe frações a cada um dos pontos destacados na reta numérica. Explique a sua resposta.\\ {{ :cap3:secoes:cap3-17.png?nolink&400 |}}\\ \\ Como na figura anterior, há várias retas paralelas igualmente espaçadas e outra reta, destacada em azul, não paralela às anteriores. Observe que as retas paralelas marcam na reta destacada em azul pontos também igualmente espaçados. Dois desses pontos correspondem às frações $\frac{1}{2}$ e $\frac{3}{2}$, como ilustra a figura. 
+  - Marque, usando os pontos destacados na reta numérica, os pontos correspondentes ao 0 e ao 1
+  - Marque, nesta mesma reta numérica, as frações $\frac{3}{4}$ e $\frac{5}{4}$.
+
+{{ :cap3:secoes:cap3-18.png?nolink&400 |}}
+
+<hidden Resposta>
+<WRAP Resposta>
+<WRAP imagem>
+  - Inserir a imagem semelhante a do enunciado, com a fração $\frac{1}{2}$ destacada no ponto correspondente.
+  - Inserir a imagem semelhante a do enunciado, com as frações $\frac{1}{10}$, $\frac{2}{10}$, $\frac{3}{10}$, $\frac{4}{10}$, $\frac{1}{2}$ = $\frac{5}{10}$, $\frac{6}{10}$, ..., $\frac{9}{10}$.
+  - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes ao 0 e ao 1 identificados.
+  - Inserir a imagem semelhante a do enunciado, com os pontos correspondentes às frações $\frac{3}{4}$ e $\frac{5}{4}$  identificados.
+</WRAP>
+</WRAP>
+</hidden>

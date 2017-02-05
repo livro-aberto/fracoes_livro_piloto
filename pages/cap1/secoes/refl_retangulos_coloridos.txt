@@ -1,0 +1,17 @@
+;;#
+Ir para [[cap1:texto#refl_retangulos_coloridos]]
+;;#
+
+
+<WRAP refletindo>
+Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos, etc., a unidade foi repartida em 2, 3, 4, 5, etc., partes iguais.
+Assim como no dia a dia, neste livro o termo "partes iguais" quer dizer "partes com a mesma quantidade", mesmo que a unidade não esteja dividida em partes de mesma forma.
+Na atividade anterior, se os retângulos representassem, por exemplo, bolos, as quatro partes em que foram divididos os retângulos representariam quantidades iguais de bolo. 
+Em alguns retângulos as partes não têm a mesma forma.
+Veja alguns exemplos curiosos em que as "partes iguais" podem gerar confusão.
+
+{{:cap1:secoes:pngs_licao_01:reflet_fig01.png?nolink&300|}} {{:cap1:secoes:pngs_licao_01:reflet_fig02.png?nolink&300|}}
+
+{{:cap1:secoes:pngs_licao_01:reflet_fig03.png?nolink&300|}} {{:cap1:secoes:pngs_licao_01:reflet_fig04.png?nolink&300|}}
+
+</WRAP>

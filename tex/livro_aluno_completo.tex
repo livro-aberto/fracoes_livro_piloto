@@ -1,0 +1,262 @@
+\documentclass[a4,12pt]{book}
+
+\usepackage{template}
+
+% Parallelepiped definitions
+
+%should be compiled with xelatex to use special fonts
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Capa
+
+\thispagestyle{empty}
+a
+\crop
+\begin{tikzpicture}[remember picture,overlay, x=1cm,y=1cm]
+\fill[light]  ([yshift=2mm,xshift=-2mm]current page.north west) rectangle ([yshift=-2mm,xshift=2mm]current page.south east);
+  [xshift=-1.5cm,yshift=-1.3cm] at (current page.south east)
+  \node[xshift=-7cm,yshift=-2cm] at (current page.north east) {\normalsize INSTITUTO NACIONAL DE MATEMÁTICA PURA E APLICADA};
+ %\fill[white, xshift=2cm,yshift=-5cm]  (current page.north west) (0,0) rectangle (10,-10);
+
+
+
+
+
+\def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
+
+\def \tripamagra{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) --cycle;}
+
+ \begin{scope}[anchor=center, scale=.7, shift={([yshift=6cm]current page.center)}]
+\def \opct{.4}
+\fill[common, opacity=\opct]  (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4) -- cycle;
+\fill[special, opacity=\opct] (0,0) -- (210:4) -- (270:4) -- (330:4) -- cycle;
+
+\begin{scope}[shift={({-2*sqrt(3)},-8)}]
+ \fill[common, opacity=\opct] \tripamagra;
+ \fill[special, opacity=\opct] (-90:4) -- (0,0) -- (30:8) -- ({4*sqrt(3)},0) --cycle;
+\end{scope}
+
+\begin{scope}[shift={({-4*sqrt(3)},-16)}]
+\fill[common, opacity=\opct] \tripa;
+\fill[special, opacity=\opct] (0,0) -- (30:8) -- ({8*sqrt(3)},0) -- ({6*sqrt(3)},-2) -- ({4*sqrt(3)},0) -- (-30:4) --cycle;
+\end{scope}
+  \end{scope}
+
+\node[xshift=7cm,yshift=-6cm] at  (current page.north west) { \fontsize{50pt}{10pt} \selectfont {\bf FRAÇÕES}};
+ \node[xshift=12cm,yshift=-7.5cm] at  (current page.north west) { \fontsize{20pt}{10pt} \selectfont  no Ensino Fundamental - Volume 1};
+
+
+\node[text width=9cm]  at ([xshift=-4cm , yshift=6cm] current page.south east) {\fontsize{20pt}{30pt}\selectfont \bf Cydara Cavedon Ripoll \\ Fabio Simas \\ Humberto Bortolossi \\ Letícia Rangel \\ Victor Giraldo  \\  Wanderley Rezende \vspace{.5cm} \\  Wellerson Quintaneiro};
+
+
+
+\node at ([shift={(4cm,3.2cm)}]current page.south west) {\includegraphics[scale=.4]{obmep}};
+
+\end{tikzpicture}%
+
+\clearpage \thispagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Segunda página
+
+{\let \cleardoublepage \clearpage \frontmatter %to set pagenumbering roman in introduction
+\thispagestyle{empty}}
+
+\begin{changemargin}{-5cm}{-5cm}
+{\fontsize{10}{12}\selectfont
+\vspace*{1cm}
+
+\begin{center}
+Projeto: LIVRO ABERTO DE MATEMÁTICA
+
+\noindent \begin{tabular}{lcccr}
+\includegraphics[scale=.15]{impa}& \quad\quad& \includegraphics[width=3cm]{logo.jpg} & \quad\quad& \includegraphics[scale=.24]{obmep}
+\end{tabular}
+
+\url{umlivroaberto.com}
+\vspace{.1cm}
+
+\begin{tabular}{p{.15\textwidth}p{.7\textwidth}}
+Título: & Frações no Ensino Fundamental - Volume 1\\
+Ano/ Versão: & 2016 / versão 2.0 de Janeiro de 2017 \\
+Editora & Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA-OS)\\
+Realização:& Olimp\'iada Brasileira de Matem\'atica das Escolas P\'ublicas (OBMEP)\\
+Produção:& Livro Aberto\\
+\\
+Coordenação: & Fabio Simas e Augusto Teixeira\\
+\\
+Autores: & Cydara Cavedon Ripoll, Fabio Luiz Borges Simas, Humberto José Bortolossi, Victor Augusto Giraldo, Wanderley Moura Rezende, Wellerson  da Silva Quintaneiro\\
+\\
+Colaboradores: & Ana Paula Pereira (CAp UFF), Andreza Gonçalves (estudante da UFF), Bruna Luiza Oliveira (estudante da UFF), Francisco Mattos (Colégio Pedro II), Helano Andrade (estudante da UNIRIO), João Carlos Cataldo (CAp UERJ e Colégio Santo Ignácio), Luiz Felipe Lins (Secretaria de Educação da Cidade do Rio de Janeiro), Michel Cambrainha (UNIRIO), Rodrigo Ferreira (estudante da UNIRIO), Tahyz Pinto (estudante da UFF) \\
+\\
+Ilustradores: & Luiz Fernando Alves Macedo,
+Vitoria da Mota Souza,
+Eduardo Filipe de Miranda Souto,
+Caio Felipe da Silva Evangelista,
+Gisela Alves de Souza,
+Mauricio de Azevedo Neto,
+Briza Aiki Matsumura,
+Vinícius Marcondes de Paula Silva,
+Wanessa Souza de Oliveira,
+Maurício Menegatti Andrade,
+Eduardo Filipe de Miranda Souto,
+Livia Machado da Silveira Verly,
+Caio Felipe da Silva Evangelista,
+Lucas Hideo Maekawa,
+Lucas Oliveira Machado de Sousa,
+Kayky Zigart Carlos e
+Israel Fialho Magalhães\\
+\\
+Capa: & Fabio Simas
+\end{tabular}
+\vspace{.2cm}
+ 
+\includegraphics[scale=1]{cc}
+%\vspace{.3cm}
+
+Após o dia $1^{\textrm{\underline{o}}}$ de setembro de 2026 esta obra passa a estar licenciada por CC-by-sa.
+
+Algumas figuras podem possuir licença com mais direitos do que a vigente para todo o material.
+\end{center}
+}
+\end{changemargin}
+\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%redefining chapter appearence for introduction
+\titleformat{\chapter} % redefining chapter appearence
+%{} % style
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9); %(118, 0) node{\color{white} Lição \thechapter} (105,-27);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+%\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Footers for introduction
+% \fancyfoot[C]{%
+% \noindent%
+% \tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+% }
+
+% Left footer
+\fancyfoot[LE]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (-20,-3) -- (-5 ,-3)
+      arc (-90:90:3) --(-5,3) -- (-20,3) (-8, 0) node{\color{white} {\bf \thepage}};}}
+  {\small\color{dark} \leftmark}
+}
+
+% Right footer
+\fancyfoot[RO]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\small\color{dark} \leftmark}
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (20,-3) -- (5 ,-3)
+      arc (-90:-270:3) --(5,3) -- (20,3) (8, 0) node{\color{white} {\bf \thepage}};}}
+}%
+
+
+\fancyfoot[C]{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{introducao}
+
+% \mainmatter
+% \mbox{ }
+%\thispagestyle{empty}
+
+
+{\let \cleardoublepage \clearpage
+\mainmatter \thispagestyle{empty}
+\setcounter{tocdepth}{0}
+\tableofcontents
+\thispagestyle{empty}}
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%redefining chapter appearence for regular lessons
+\titleformat{\chapter} % redefining chapter appearence
+%{} % style
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+%\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Footers for regular lessons
+% \fancyfoot[C]{%
+% \noindent%
+% \tikz[baseline]{\draw[color=ref, line width=0.6pt] (-0.5, 0) -- (6, 0);}%
+% }
+
+% Left footer
+\fancyfoot[LE]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (-20,-3) -- (-5 ,-3)
+      arc (-90:90:3) --(-5,3) -- (-20,3) (-8, 0) node{\color{white} {\bf \thepage}};}}
+  {\small\color{dark}LIÇ\~AO \thechapter \; - \;  \leftmark}
+}
+% Right footer
+\fancyfoot[RO]{
+  {\tikz{\draw[color=attention, line width=0.6pt] (-1.8, 0) -- (\textwidth, 0);}}\newline
+  {\small\color{dark} \rightmark}
+  {\tikz[x=1mm,y=1mm]{\filldraw [attention, overlay] (20,-3) -- (5 ,-3)
+      arc (-90:-270:3) --(5,3) -- (20,3) (8, 0) node{\color{white} {\bf \thepage}};}}
+}%
+\fancyfoot[C]{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+{\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
+\thispagestyle{empty}
+\input{cap1_aluno}}
+\input{cap2_aluno}
+\input{cap3_aluno}
+\input{cap4_aluno}
+\input{cap5_aluno}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%redefining chapter appearence for last sections
+\titleformat{\chapter} 
+{\titlefont\Huge\bf} % style
+{} % label
+{0pt} % separation
+{\begin{tikzpicture}[remember picture,overlay]
+    \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, light, overlay] (79,0) circle [radius=9];
+    \filldraw [x=1mm,y=1mm, common, overlay] (210,-9) -- (100 ,-9) arc (-90:-270:9) --(100,9)
+    -- (210,9);
+  \end{tikzpicture}
+} % before title
+[\vspace{3cm} \hfill{\raggedright\color{special} #1}] % after title
+\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{cap6_folhas_para_reproducao}
+
+\input{bibliografia}
+
+\end{document}

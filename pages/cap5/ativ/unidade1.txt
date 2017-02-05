@@ -1,0 +1,39 @@
+;;#
+Ir para [[cap5:texto#unidade1]]
+;;#
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * perceber o papel de uma unidade comum para comparar, somar ou subtrair duas quantidades;
+  * resgatar as interpretações de juntar para a operação de adição, e de retirar e de comparar para a operação de subtração, anteriormente associadas às operações com números naturais;
+  * entender as operações de adição e de subtração com frações como extensões das respectivas operações com números naturais a partir do resgate dessas interpretações, isto é, como operações que dão conta de situações associadas às mesmas interpretações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Embora não se trabalhe diretamente com frações, a atividade enfoca processos de contagem a partir de uma unidade de referência, o que será fundamental para as operações de adição e de subtração com frações. Por exemplo, no caso da situação apresentada nesta atividade, a unidade comum empregada – copo – permite saber que volume de óleo que o recipiente 2 comporta a mais que o recipiente 1, neste caso, 14 copos. Isto é, a diferença entre os volumes de óleo que os dois recipientes comportam corresponde a 14 copos. Uma unidade comum também permite determinar o volume correspondente à soma de duas quantidades dadas, que neste caso seria de 66 copos.
+  * É importante destacar que essas não são as únicas formas de interpretar concretamente as ações de determinar a diferença e a soma dos volumes de óleo. No item a), espera-se que o aluno use o copo como unidade como um meio de comparação. Porém, em sala de aula, os alunos podem argumentar, por exemplo, que para determinar a diferença entre os dois recipientes, basta encher o menor e despejar o conteúdo no maior. É fundamental que o professor não desqualifique estratégias como essa, quando propostas pelos alunos. Ao contrário, é importante incentivar e destacar essas iniciativas por parte dos alunos. Neste caso, o professor pode aproveitar para argumentar que a determinação de uma unidade comum permite não apenas saber que recipiente comporta mais líquido, como também determinar uma **medida** precisa para a diferença entre os volumes.
+  * Uma unidade comum estabelece uma forma comum de medir, em relação a qual se pode expressar as duas quantidades, bem como sua soma e sua diferença. É neste sentido que discutiremos, nesta atividade e nas atividades subsequentes, a busca por uma unidade comum entre duas quantidades dadas.
+  * Nos itens b) e c), respectivamente, são trabalhadas as interpretações de juntar para a adição, e de retirar para a subtração.
+</WRAP>
+</hidden>
+
+Miguel e Alice estão participando de uma campanha da escola para coleta de óleo de cozinha. O objetivo é disponibilizar recipientes para que as pessoas depositem óleo. Depois esses recipientes serão destinados a empresas que usarão o óleo descartado para fazer sabão. Eles conseguiram diferentes recipientes e agora desejam saber qual tem maior capacidade.
+
+| {{ :cap5:secoes:pngs_licao_05:ativ1_fig01.png?nolink&200 }} | {{ :cap5:secoes:pngs_licao_05:ativ1_fig02.png?nolink&200 }} |
+|Recipiente 1: trazido pela Alice | Recipiente 2: trazido pelo Miguel |
+
+Eles tiveram a seguinte ideia: encheram os dois recipientes com água para depois verificarem onde havia mais água. Para isso, usaram um copo d'água como unidade de medida. 
+  * O recipiente trazido por Alice foi enchido com 26 copos.
+  * O recipiente trazido por Miguel foi enchido com 40 copos.
+Eles então observaram que a partir de **uma unidade de medida comum** (nesse caso o copo), poderiam não só dizer qual recipiente tinha maior capacidade, mas também o quanto era maior e qual seria a capacidade dos dois recipientes juntos. 
+Usando a ideia de medida de Miguel e Alice, isto é, tomando o copo como unidade de medida, responda:
+  - Qual recipiente tem maior capacidade?
+  - Qual é a capacidade dos dois recipientes juntos?
+  - Quanto se deve retirar do recipiente maior, para ter o mesmo volume de líquido que é possível colocar no recipiente menor?
+
+<hidden Resposta>
+<WRAP resposta>
+  - O recipiente trazido por Miguel é maior, uma vez que precisou de mais copos para ser enchido (40>26). 
+  - Usando o copo como unidade de medida, podemos indicar que a capacidade dos dois recipientes juntos é 66 . Ou seja, 66 copos. 
+  - Deve-se retirar 14 copos, pois $40 – 26=14$.
+</WRAP>
+</hidden>

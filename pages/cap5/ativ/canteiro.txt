@@ -1,0 +1,40 @@
+;;#
+Ir para [[cap5:texto#canteiro]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivos específicos: Levar o aluno a
+  * comparar, somar e subtrair frações a partir da determinação de um denominador comum com base no processo geométrica de subdivisão da unidade;
+  * explorar as interpretações de juntar para a adição e de comparar para a subtração.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta atividade retoma a noção de fração como parte de uma unidade em situações concretas, como nas atividades 2 a 6. Como naquelas atividades, a representação geométrica das frações deve servir como base para a determinação do denominador comum e para a realização da comparação e das operações de adição e de subtração. O próprio desenho do canteiro pode servir como representação geométrica para a determinação do denominador comum.
+
+</WRAP>
+</hidden>
+A família de Miguel reservou um determinado espaço retangular para fazer um canteiro em seu quintal. A família quer que o cateiro tenha rosas e verduras frescas. O pai de Miguel disse que precisa de $\frac{2}{3}$ do espaço inicialmente reservado, para cultivar rosas. A mãe disse que necessita de $\frac{1}{2}$ desse espaço, para plantar as verduras. Quando Miguel ouviu o diálogo dos pais, pensou nas seguintes questões:
+  - Quem precisa de mais espaço, seu pai ou sua mãe? 
+  - O espaço reservado inicialmente para o canteiro é suficiente para comportar os espaços de que o pai e a mãe de Miguel precisam? 
+  - Caso o espaço seja suficiente, que fração do mesmo ficaria sem uso? 
+  - Caso o espaço não seja suficiente, que fração do canteiro reservado inicialmente deverá ser acrescentada para que a família consiga fazer as plantações que deseja? 
+
+Faça um desenho que ajude a explicar as suas respostas para as questões de Miguel. Não deixe de indicar a subdivisão da unidade que você empregou.
+<hidden Resposta>
+<WRAP resposta>
+  - Utilizando o mesmo denominador para fins de comparação temos que as quantidades $\frac{2}{3}$ e $\frac{1}{2}$ são iguais a $\frac{4}{6}$ e $\frac{3}{6}$, respectivamente. Portanto a fração do canteiro solicitada pelo pai, $\frac{2}{3}$, é maior. 
+  - Juntando as espaços solicitados temos $\frac{2}{3} + \frac{1}{2} = \frac{4}{6} + \frac{3}{6} = \frac{7}{6}$. Mas $\frac{7}{6}>\frac{6}{6}=1$. O espaço reservado inicialmente para o canteiro não atende as solicitações do pai e da mãe de Miguel. 
+  - O espaço inicialmente reservado não é suficiente. 
+  - Deve-se observar quanto excede um canteiro $\frac{7}{6} – 1 = \frac{7}{6} - \frac{6}{6} = \frac{1}{6}$. É necessário aumentar $\frac{1}{6}$ do espaço inicialmente reservado para o canteiro. 
+
+O denominador comum empregado foi 6. Cada retângulo com 6 divisões indica a fração de canteiro que tinha sido reservada inicialmente. 
+<WRAP imagem> fIGURA GEOM[ETRICA
+
+{{:cap5:ativ:vw204.png?nolink&200|}}
+
+
+</WRAP>
+
+</WRAP>
+</hidden>

@@ -1,0 +1,52 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade]]
+;;#
+
+<hidden  Para o professor>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Associar, na reta numérica, a unidade ao número 1 a partir de modelos contínuos.
+  * Associar as frações $\frac{n}{d}$ da unidade a pontos na reta numérica a partir da equipartição da unidade em $d$ partes e da justaposição, a partir do $0$ de $n$ segmentos correspondentes à fração $\frac{1}{d}$ da unidade. 
+  * Mais especificamente, identificar as frações $\frac{1}{4}$, $\frac{1}{2}$, $\frac{3}{4}$, $\frac{4}{4}$ e $\frac{5}{4}$ da unidade a pontos da reta numérica, reconhecendo que $\frac{4}{4}=1$ e que $\frac{5}{4}>1$.
+  * Defender verbalmente um ponto de vista.
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  * Deve ser desenvolvida em grupos de 2 ou 3 alunos. 
+  * Faça cópias da fita necessária para o desenvolvimento da atividade, que está disponível nas ({{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}).
+  * Ao ler o enunciado, como a faixa lembra modelos contínuos tratados na abordagem inicial de frações (por exemplo, barra de chocolate ou retângulos), é natural que alguns estudantes considerem a faixa inteira como unidade. Já outros, observando a indicação da reta numérica na faixa, identifiquem o segmento unitário como unidade. O objetivo é que eles discutam essa questão e reconheçam ao final que o entendimento da unidade como a fita inteira é incompatível com as marcações pré-existentes na fita. Objetiva-se a representação das frações na reta numérica e não a identificação de partes de um modelo contínuo. 
+  * Do item b) em diante a unidade já estará subentendida como sendo o segmento zero-um pois isso foi discutido no item a).
+  * Recomenda-se que os alunos usem dobradura para realizar essa atividade. Instrua-os nesse sentido. Não se espera, nem se recomenda, que a atividade seja realizada a partir da medida do comprimento da faixa.
+  * Pode ser muito enriquecedor para o estudante descrever cuidadosamente o processo de obtenção das frações, nos itens b) em diante.
+  * Espera-se que eles sigam o modelo e façam traços para representar as marcações das frações. Este é um momento importante em que a fração é representada por um ponto na reta e não por uma região. Uma vez realizadas as marcações, pode ser interessante reiterar que a fração da unidade expressa em dada marcação é a fração da unidade que corresponde à região compreendida entre tal marca e a marca do zero.
+  * Observe que a marcação de $\frac{3}{4}$ pode se dar pela justaposição, a partir do $0$, de "pedaços" da fita correspondentes a $\frac{1}{4}$ da unidade ou, reconhecendo que $\frac{1}{2}$ = $\frac{2}{4}$, pela identificação do ponto médio do "pedaço" de fita de extremos $\frac{1}{2}$ e $1$.    
+  * A discussão sobre esta atividade deve levar os alunos a refletirem sobre a marcação do $\frac{4}{4}$ e a sua coincidência com a marcação da unidade, ou seja, do 1, reconhecendo que $\frac{4}{4}=1$. 
+  * Na discussão sobre o item b), observe se os alunos compreenderam que $\frac{5}{4}>1$. Espera-se que os alunos saibam ler e escrever essa desiguadade fazendo uso da linguagem simbólica.  
+
+</WRAP>
+</hidden>
+
+ A professora Julia pediu que os seus alunos, Pedro e Miguel, marcassem $\frac{1}{2}$ na reta numérica traçada em uma fita, como esta que vocês também receberam:
+
+{{ :cap3:secoes:cap3-14.png?nolink&415 |}}
+
+Pedro trouxe a seguinte marcação 
+{{ :cap3:secoes:cap3-15.png?nolink&400 |}}
+Miguel trouxe esta
+{{ :cap3:secoes:cap3-15-2.png?nolink&400 |}}
+  - É possível ambos estarem corretos? Justifique sua resposta. 
+  - Faça marcações nessa fita correspondentes a $\frac{1}{4}$ e a $\frac{3}{4}$. Explique como você fez essas marcações.
+  - Onde deve ser feita a marcação correspondente a $\frac{4}{4}$?
+  - E a marcação de $\frac{5}{4}$? 
+
+<hidden Resposta>
+<WRAP resposta>
+<WRAP imagem>
+Repetir a imagem da fita 4 vezes (são figuras separadas) com as marcações das frações a. 1/2, b. 1/4 e 3/4, c. 4/4 e d. 5/4 todas as frações ao lado de um segmento vertical indicando uma dobra na fita.
+</WRAP>
+  - Miguel marcou $\frac{1}{2}$ considerando como unidade o segmento zero-um, enquanto Pedro marcou $\frac{1}{2}$ considerando a fita inteira como unidade. Assim, não podem estar os dois corretos. Como a resposta de Pedro não leva em consideração as marcações do zero e do um na fita, esta solução não está correta.
+  - A marcação de $\frac{1}{4}$ pode ser feita dobrando-se a fita de modo a fazer coincidir as marcas 0 e  $\frac{1}{2}$. Já a marcação de $\frac{3}{4}$ seguir pode-se dobrar a fita fazendo a marca de $\frac{1}{4}$ coincidir com a de $\frac{1}{2}$. A marca de $\frac{3}{4}$ pode ser obtida dobrando-se a fita de modo a fazer coincidir as marcas $\frac{1}{2}$ e 1. 
+  - As marcaçoes de $\frac{1}{4}$,  $\frac{1}{2}$ e $\frac{3}{4}$ dividem o segmento unitário em quatro partes iguais, portanto, em quartos. Assim, a justaposição de quatro quartos a partir do 0, que corresponde a $\frac{4}{4}$, é igual a 1.  Portanto, as marcas de $\frac{4}{4}$ e de 1 são a mesma.
+  - A marcação de $\frac{5}{4}$ é obtida justapondo $\frac{1}{4}$ a marcação de $\frac{4}{4}$, ou seja, do 1.
+</WRAP>
+</hidden>

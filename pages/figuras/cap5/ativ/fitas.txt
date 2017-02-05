@@ -1,0 +1,261 @@
+Para o professor:
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-2.3,-6.88) rectangle (20.7,4.76);
+\fill[line width=2.4pt,color=ffqqqq] (0.,0.) -- (0.,2.) -- (2.,2.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,2.) -- (4.,2.) -- (4.,0.) -- (2.,0.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (4.,2.) -- (8.,2.) -- (8.,0.) -- (4.,0.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (8.,0.) -- (8.,2.) -- (12.,2.) -- (12.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (0.,-1.) -- (0.,-3.) -- (2.,-3.) -- (2.,-1.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (2.,-3.) -- (4.,-3.) -- (4.,-1.) -- (2.,-1.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (4.,-1.) -- (6.,-1.) -- (6.,-3.) -- (4.,-3.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (6.,-1.) -- (12.,-1.) -- (12.,-3.) -- (6.,-3.) -- cycle;
+\draw (0.,2.)-- (0.,0.);
+\draw (2.,0.)-- (2.,2.);
+\draw [dash pattern=on 5pt off 5pt] (4.,2.)-- (12.,2.);
+\draw [dash pattern=on 5pt off 5pt] (12.,2.)-- (12.,0.);
+\draw [dash pattern=on 5pt off 5pt] (12.,0.)-- (4.,0.);
+\draw [dash pattern=on 5pt off 5pt] (8.,2.)-- (8.,0.);
+\draw (2.,-1.)-- (2.,-3.);
+\draw (4.,-1.)-- (4.,-3.);
+\draw [dash pattern=on 5pt off 5pt] (6.,-1.)-- (12.,-1.);
+\draw [dash pattern=on 5pt off 5pt] (12.,-1.)-- (12.,-3.);
+\draw [dash pattern=on 5pt off 5pt] (12.,-3.)-- (6.,-3.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-2.52,-6.9) rectangle (20.16,4.42);
+\fill[line width=2.4pt,color=ffqqqq] (0.,0.) -- (0.,-2.) -- (2.,-2.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,-2.) -- (4.,-2.) -- (4.,0.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (4.,-2.) -- (6.,-2.) -- (6.,0.) -- (4.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (6.,-2.) -- (8.,-2.) -- (8.,0.) -- (6.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (8.,-2.) -- (10.,-2.) -- (10.,0.) -- (8.,0.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (10.,-2.) -- (12.,-2.) -- (12.,0.) -- (10.,0.) -- cycle;
+\draw (0.,0.)-- (10.,0.);
+\draw (0.,-2.)-- (10.,-2.);
+\draw (10.,0.)-- (10.,-2.);
+\draw (8.,0.)-- (8.,-2.);
+\draw (6.,0.)-- (6.,-2.);
+\draw (4.,0.)-- (4.,-2.);
+\draw (2.,0.)-- (2.,-2.);
+\draw (0.,0.)-- (0.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (10.,0.)-- (12.,0.);
+\draw [dash pattern=on 5pt off 5pt] (12.,0.)-- (12.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (10.,-2.)-- (12.,-2.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.2,-5.14) rectangle (19.48,6.18);
+\fill[line width=2.4pt,color=ffqqqq] (0.,0.) -- (0.,-2.) -- (2.,-2.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,-2.) -- (4.,-2.) -- (4.,0.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (4.,-2.) -- (6.,-2.) -- (6.,0.) -- (4.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (6.,-2.) -- (8.,-2.) -- (8.,0.) -- (6.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (8.,-2.) -- (10.,-2.) -- (10.,0.) -- (8.,0.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (10.,-2.) -- (12.,-2.) -- (12.,0.) -- (10.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (0.,3.) -- (2.,3.) -- (2.,1.) -- (0.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,3.) -- (4.,3.) -- (4.1,0.96) -- (2.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (4.,3.) -- (6.,3.) -- (6.,1.) -- (4.1,0.96) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (6.,3.) -- (8.,3.) -- (8.,1.) -- (6.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (8.,3.) -- (10.,3.) -- (10.,1.) -- (8.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (10.,3.) -- (12.,3.) -- (12.,1.) -- (10.,1.) -- cycle;
+\draw (0.,0.)-- (10.,0.);
+\draw (0.,-2.)-- (10.,-2.);
+\draw (10.,0.)-- (10.,-2.);
+\draw (8.,0.)-- (8.,-2.);
+\draw (6.,0.)-- (6.,-2.);
+\draw (4.,0.)-- (4.,-2.);
+\draw (2.,0.)-- (2.,-2.);
+\draw (0.,0.)-- (0.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (10.,0.)-- (12.,0.);
+\draw [dash pattern=on 5pt off 5pt] (12.,0.)-- (12.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (10.,-2.)-- (12.,-2.);
+\draw (2.,3.)-- (2.,1.);
+\draw (6.,3.)-- (6.,1.);
+\draw (8.,1.)-- (8.,3.);
+\draw (10.,1.)-- (10.,3.);
+\draw (12.,1.)-- (12.,3.);
+\draw (0.,3.)-- (0.,1.);
+\draw (0.,1.)-- (12.,1.);
+\draw (12.,3.)-- (0.,3.);
+\draw (4.,3.)-- (4.,1.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+Figura 1.
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffqq}{rgb}{1.,1.,0.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.24,-7.04) rectangle (19.74,4.6);
+\fill[line width=2.4pt,color=qqqqff] (0.,0.) -- (0.,-2.) -- (2.,-2.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (2.,-2.) -- (4.,-2.) -- (4.,0.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (4.,-2.) -- (6.,-2.) -- (6.,0.) -- (4.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (6.,-2.) -- (8.,-2.) -- (8.,0.) -- (6.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (8.,-2.) -- (10.,-2.) -- (10.,0.) -- (8.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (10.,-2.) -- (12.,-2.) -- (12.,0.) -- (10.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (0.,3.) -- (2.,3.) -- (2.,1.) -- (0.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,3.) -- (4.,3.) -- (4.1,0.96) -- (2.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (4.,3.) -- (6.,3.) -- (6.,1.) -- (4.1,0.96) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (6.,3.) -- (8.,3.) -- (8.,1.) -- (6.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (8.,3.) -- (10.,3.) -- (10.,1.) -- (8.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (10.,3.) -- (12.,3.) -- (12.,1.) -- (10.,1.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (0.,-3.) -- (0.,-5.) -- (3.,-5.) -- (3.,-3.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (3.,-3.) -- (3.,-3.) -- (3.,-5.) -- (3.,-5.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (3.,-3.) -- (6.,-3.) -- (6.,-5.) -- (3.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (6.,-3.) -- (6.,-3.) -- (6.,-5.) -- (6.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (6.,-3.) -- (9.,-3.) -- (9.,-5.) -- (6.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (9.,-3.) -- (12.,-3.) -- (12.,-5.) -- (9.,-5.) -- cycle;
+\draw (0.,0.)-- (10.,0.);
+\draw (0.,-2.)-- (10.,-2.);
+\draw (0.,0.)-- (0.,-2.);
+\draw (10.,0.)-- (12.,0.);
+\draw (12.,0.)-- (12.,-2.);
+\draw (10.,-2.)-- (12.,-2.);
+\draw (12.,1.)-- (12.,3.);
+\draw (0.,3.)-- (0.,1.);
+\draw (0.,1.)-- (12.,1.);
+\draw (12.,3.)-- (0.,3.);
+\draw (0.,-3.)-- (12.,-3.);
+\draw (0.,-5.)-- (12.,-5.);
+\draw (12.,-3.)-- (12.,-5.);
+\draw (0.,-3.)-- (0.,-5.);
+\end{tikzpicture}
+\end{document}
+
+
+Figura 2.
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffqq}{rgb}{1.,1.,0.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.24,-7.04) rectangle (19.74,4.6);
+\fill[line width=2.4pt,color=qqqqff] (0.,0.) -- (0.,-2.) -- (2.,-2.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (2.,-2.) -- (4.,-2.) -- (4.,0.) -- (2.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (4.,-2.) -- (6.,-2.) -- (6.,0.) -- (4.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (6.,-2.) -- (8.,-2.) -- (8.,0.) -- (6.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (8.,-2.) -- (10.,-2.) -- (10.,0.) -- (8.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (10.,-2.) -- (12.,-2.) -- (12.,0.) -- (10.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (0.,3.) -- (2.,3.) -- (2.,1.) -- (0.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (2.,3.) -- (4.,3.) -- (4.1,0.96) -- (2.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (4.,3.) -- (6.,3.) -- (6.,1.) -- (4.1,0.96) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (6.,3.) -- (8.,3.) -- (8.,1.) -- (6.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (8.,3.) -- (10.,3.) -- (10.,1.) -- (8.,1.) -- cycle;
+\fill[line width=2.4pt,color=ffqqqq] (10.,3.) -- (12.,3.) -- (12.,1.) -- (10.,1.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (0.,-3.) -- (0.,-5.) -- (3.,-5.) -- (3.,-3.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (3.,-3.) -- (3.,-3.) -- (3.,-5.) -- (3.,-5.) -- cycle;
+\fill[line width=2.4pt,dash pattern=on 5pt off 5pt,color=ffffqq] (3.,-3.) -- (6.,-3.) -- (6.,-5.) -- (3.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (6.,-3.) -- (6.,-3.) -- (6.,-5.) -- (6.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (6.,-3.) -- (9.,-3.) -- (9.,-5.) -- (6.,-5.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (9.,-3.) -- (12.,-3.) -- (12.,-5.) -- (9.,-5.) -- cycle;
+\draw (0.,0.)-- (10.,0.);
+\draw (0.,-2.)-- (10.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (6.,0.)-- (6.,-2.);
+\draw (0.,0.)-- (0.,-2.);
+\draw (10.,0.)-- (12.,0.);
+\draw (12.,0.)-- (12.,-2.);
+\draw (10.,-2.)-- (12.,-2.);
+\draw [dash pattern=on 5pt off 5pt] (8.,1.)-- (8.,3.);
+\draw (12.,1.)-- (12.,3.);
+\draw (0.,3.)-- (0.,1.);
+\draw (0.,1.)-- (12.,1.);
+\draw (12.,3.)-- (0.,3.);
+\draw [dash pattern=on 5pt off 5pt] (4.,3.)-- (4.,1.);
+\draw (0.,-3.)-- (12.,-3.);
+\draw (0.,-5.)-- (12.,-5.);
+\draw (12.,-3.)-- (12.,-5.);
+\draw [dash pattern=on 5pt off 5pt] (9.,-3.)-- (9.,-5.);
+\draw [dash pattern=on 5pt off 5pt] (6.,-3.)-- (6.,-5.);
+\draw [dash pattern=on 5pt off 5pt] (3.,-3.)-- (3.,-5.);
+\draw [dash pattern=on 5pt off 5pt] (3.,-3.)-- (3.,-5.);
+\draw (0.,-3.)-- (0.,-5.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+Figura 3.
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{qqqqff}{rgb}{0.,0.,1.}
+\definecolor{ffffqq}{rgb}{1.,1.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.16,-5.18) rectangle (19.82,6.46);
+\fill[line width=2.4pt,color=ffffqq] (0.,0.) -- (0.,2.) -- (3.,2.) -- (3.,0.) -- cycle;
+\fill[line width=2.4pt,color=qqqqff] (3.,2.) -- (9.,2.) -- (9.,0.) -- (3.,0.) -- cycle;
+\fill[line width=2.4pt,color=ffffqq] (9.,2.) -- (12.,2.) -- (12.,0.) -- (9.,0.) -- cycle;
+\draw (3.,2.)-- (3.,0.);
+\draw (9.,2.)-- (9.,0.);
+\draw (12.,2.)-- (12.,0.);
+\draw (12.,2.)-- (0.,2.);
+\draw (12.,0.)-- (0.,0.);
+\draw (0.,0.)-- (0.,2.);
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>

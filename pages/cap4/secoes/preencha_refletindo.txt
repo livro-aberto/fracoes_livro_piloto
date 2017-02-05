@@ -1,0 +1,81 @@
+;;#
+Ir para [[cap4:texto#preencha_refletindo]]
+;;#
+
+
+<WRAP refletindo> 
+Ao resolver esta última atividade você deve ter percebido que a região do círculo destacada em cinza pode ser preenchida de diferentes maneiras por justaposições de cada uma das peças coloridas que você recortou.  
+
+{{ :cap4:secoes:arc2.png?nolink&500 |}}
+
+Além disso, deve ter observado que, quanto menor a peça colorida, mais dessas peças você precisou para cobrir a região do círculo destacada em cinza.
+
+Ao preencher a **primeira linha da tabela**, você deve ter percebido que três peças azuis cobrem o círculo inteiro e que duas peças azuis cobrem a região do círculo destacada em cinza.
+
+{{ :cap4:secoes:arc3.png?nolink&500 |}} 
+
+Portanto, a região do círculo destacada em cinza é igual a $\frac{2}{3}$ do círculo.
+
+Para preencher a **segunda linha da tabela** você deve ter percebido que 
+  * que seis peças laranja cobrem o círculo inteiro; 
+
+{{ :cap4:secoes:arc4.png?nolink&500 |}} 
+
+  * que duas peças laranja cobrem uma peça azul; 
+
+{{ :cap4:secoes:arc5.png?nolink&500 |}} 
+
+$$\left(\dfrac{1}{3} = \dfrac{2}{6}\right)$$
+
+  * e que quatro peças laranja cobrem a região do círculo destacada em cinza. 
+
+{{ :cap4:secoes:arc6.png?nolink&500 |}} 
+
+$$\left(\dfrac{4}{6} = \dfrac{2\times 2}{2\times 3} = \dfrac{2}{3} \right)$$
+
+Portanto, a região do círculo destacada em cinza é igual a $\frac{4}{6}$ do círculo.
+
+Este raciocínio pode ser escrito da seguinte maneira:
+$\frac{1}{3}$ é igual a dois $\frac{1}{6}$, ou, simplesmente, 
+$\frac{1}{3}$ = $\frac{2}{6}$.
+
+{{ :cap4:secoes:arc7.png?nolink&500 |}} 
+
+Logo,
+
+$$\dfrac{4}{6} = \dfrac{2 \times 2}{2 \times 3} = \dfrac{2}{3}.$$
+
+{{ :cap4:secoes:arc8.png?nolink&500 |}} 
+
+Do mesmo modo, para preencher a **terceira linha da tabela** você deve ter percebido:
+    * que doze peças vermelhas cobrem o círculo inteiro; 
+
+{{ :cap4:secoes:arc9.png?nolink&500 |}} 
+
+    * que quatro peças vermelhas cobrem uma peça azul; 
+
+{{ :cap4:secoes:arc10.png?nolink&500 |}} 
+
+$$\left(\dfrac{1}{3} = \dfrac{4}{12}\right)$$
+    * e que oito peças vermelhas cobrem a região do círculo destacada em cinza. 
+
+{{ :cap4:secoes:arc11.png?nolink&500 |}} 
+
+$$\left(\frac{8}{12} = \frac{4\times 2}{4\times 3} = \frac{2}{3} \right)$$
+Logo, a região do círculo destacada em cinza é igual a $\frac{8}{12}$ do círculo. 
+
+Este raciocínio pode ser representado do seguinte modo:
+$\frac{1}{3}$ é igual a quatro $\frac{1}{12}$, ou, simplesmente, 
+$\frac{1}{3}$=$\frac{4}{12}$.
+
+{{ :cap4:secoes:arc12.png?nolink&500 |}} 
+
+Logo,
+$\frac{8}{12} = \frac{4\times 2}{4 \times 3} = \frac{2}{3}$.
+
+{{ :cap4:secoes:arc13.png?nolink&500 |}} 
+
+Portanto, a região do círculo destacada em cinza, que é $\frac{2}{3}$ do círculo, também é igual a $\frac{4}{6}$ do círculo e igual a $\frac{8}{12}$ do círculo, ou seja, as frações  $\frac{2}{3}$, $\frac{4}{6}$  e $\frac{8}{12}$ representam a mesma quantidade e, portanto, são iguais:
+$\frac{2}{3}$ = $\frac{4}{6}$ = $\frac{8}{12}$.
+
+</WRAP>

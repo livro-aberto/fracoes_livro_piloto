@@ -1,0 +1,54 @@
+;;#
+Ir para [[cap4:texto#organizando_ideias]]
+;;#
+
+Olá! É chegada a hora de ajudar Miguel e Alice, nossos amigos da história em quadrinhos do início da lição, a compararem as frações $\frac{1}{3}$ e $\frac{8}{25}$.
+
+Ora, na lição anterior você aprendeu a comparar frações com o mesmo denominador. Neste caso, como os denominadores eram iguais, você precisou comparar apenas os numeradores da fração. Você também aprendeu a comparar frações com o com mesmo numerador. Neste caso, como os numeradores eram iguais, você precisou comparar apenas os denominadores da fração. Mas, Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
+
+Mas Miguel e Alice querem comparar duas frações com denominadores bem como numeradores diferentes.
+
+Aí vai uma pista.  A ideia é utilizar o que você aprendeu até aqui nesta lição para determinar frações iguais às frações $\frac{1}{3}$ e $\frac{8}{25}$ que possuem o mesmo denominador. 
+
+Deste modo, transforma-se um "novo problema" em um "velho problema": o de comparar frações com o mesmo denominador.
+
+Usando o que você aprendeu com as atividades anteriores, pode-se, por exemplo, construir as seguintes igualdades:  
+
+$$\dfrac{1}{3} = \dfrac{2 \times 1}{2 \times 3} = \dfrac{3 \times 1}{3 \times 3} = \dfrac{4 \times 1}{4 \times 3} = \dfrac{5 \times 1}{5 \times 3} = \cdots = \dfrac{n \times 1}{n\times 3} = \cdots$$
+e
+$$\dfrac{8}{25} = \dfrac{2 \times 8}{2 \times 25} = \dfrac{3 \times 8}{3 \times 25} = \dfrac{4 \times 8}{4 \times 25} = \dfrac{5 \times 8}{5 \times 25} = \cdots = \dfrac{m \times 8}{m\times 25} = \cdots$$
+quaisquer que sejam $m$ e $n$ números naturais, $m > 0$, $n > 0$.
+
+Ao observar a lista de frações iguais à fração $\frac{1}{3}$, enunciada acima, você deve ter percebido que os denominadores dessas frações são múltiplos de 3.  Do mesmo modo, com relação à lista de frações iguais à fração $\frac{8}{25}$, você deve ter percebido que os denominadores dessas frações são múltiplos de 25. Assim, para efeito de comparação, será necessário encontrar frações iguais às frações dadas que possuem denominadores que sejam, simultaneamente, múltiplos de 3 e de 25. Um número que satisfaz essa condição é o número $75 = 3 \times 25$.
+
+Desta maneira, obtém-se que
+
+$$\dfrac{1}{3} = \dfrac{25 \times 1}{25 \times 3} = \dfrac{25}{75}$$
+e que 
+$$\dfrac{8}{25} = \dfrac{3 \times 8}{3 \times 25} = \dfrac{24}{75}.$$ 
+
+Agora é só comparar as frações $\frac{25}{75}$ e $\frac{24}{75}$. Mas, isto, já é conhecido.
+Como $25 > 24$, tem-se que 
+
+$$\dfrac{1}{3} = \dfrac{25}{75} > \dfrac{24}{75} =  \dfrac{8}{25};$$
+isto é, 
+$$\dfrac{1}{3} > \dfrac{8}{25}.$$
+
+**Generalização do procedimento**
+
+Para generalizar o procedimento apresentado aqui, considere duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes.
+
+Com base na solução dada para o problema do Miguel e da Alice, você deve ter percebido que para comparar duas frações, basta comparar as frações iguais a elas, mas que possuem o mesmo denominador. Uma forma simples para realizar tal tarefa é procurar frações iguais às frações  $\frac{a}{b}$ e $\frac{c}{d}$ cujos denominadores são iguais ao número $d\times b$ que é um múltiplo comum de $b$ e $d$.
+
+Ora, para obter uma fração igual à fração $\frac{a}{b}$ cujo denominador seja igual a $d\times b$ basta multiplicar tanto o numerador e como o denominador da fração por $d$ (denominador da segunda fração):
+$$\dfrac{d\times a}{d \times b} =  \dfrac{a}{b}.$$
+
+Do mesmo modo, para obter uma fração igual à fração $\frac{c}{d}$ cujo denominador seja igual $d\times b$ basta multiplicar tanto o numerador e como o denominador da fração por $b$ (denominador da primeira fração):
+$$\dfrac{b\times c}{b \times d} =  \dfrac{c}{d}.$$
+
+Assim, para comparar as frações $\frac{a}{b}$ e $\frac{c}{d}$ é suficiente comparar os numeradores das frações  $\frac{d\times a}{d \times b}$ e $\frac{b\times c}{b \times d}$.
+Isto é, 
+
+$$\text{se } d\times a > b\times c \text{ então }  \dfrac{a}{b} = \dfrac{d\times a}{d \times b} >\dfrac{b\times c}{b \times d} =  \dfrac{c}{d}$$
+e
+$$\text{se } d\times a < b\times c \text{ então }  \dfrac{a}{b} = \dfrac{d\times a}{d \times b} < \dfrac{b\times c}{b \times d} =  \dfrac{c}{d}.$$

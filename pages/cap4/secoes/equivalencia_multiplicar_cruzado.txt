@@ -1,0 +1,42 @@
+;;#
+Ir para [[cap4:texto#equivalencia_multiplicar_cruzado]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Verificar que se $a \cdot d = b \cdot c$, com $b \not = 0$ e $d \not = 0$, então as frações $\frac{a}{b}$ e $\frac{c}{d}$ são iguais (equivalentes).
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Note que para as frações usadas no exemplo e no Item a), os numeradores e denominadores de uma fração não são múltiplos inteiros dos numeradores e denominadores da outra fração.
+
+Classificações
+  * Heid et al.: Produto: descrever procedimento
+  * Nicely, Jr.: Nível 5: aplicar
+  * UERJ: Interpretar: compor e decompor
+</WRAP>
+</hidden>
+
+Dadas duas frações, se o produto do numerador da primeira fração pelo denominador da segunda fração for igual ao produto do denominador da primeira fração pelo numerador da segunda fração, então as frações são iguais. 
+
+Vamos ver um exemplo: para as frações $\frac{14}{6}$ e $\frac{21}{9}$, note que  $14 \times 9 = 126 = 6 \times 21$. Vamos agora usar este fato de que $14 \times 9 = 6 \times 21$
+para concluir que $\frac{14}{6} = \frac{21}{9}$:
+
+$$\frac{14}{6} = \frac{9 \times 14}{9 \times 6} = \frac{14 \times 9}{9 \times 6} = \frac{6 \times 21}{9 \times 6} = \frac{6 \times 21}{6 \times 9} = \frac{21}{9}.$$
+
+  - Use o procedimento do exemplo para mostrar que $\frac{2}{8} = \frac{5}{20}$.
+  - Verdadeirou ou falso? Se duas frações são iguais, então o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração. Justifique sua resposta.
+
+<hidden Resposta>
+<WRAP resposta>
+  - Para as frações $\frac{2}{8}$ e $\frac{5}{20}$, tem-se que  $2 \times 20 = 40 = 8 \times 5$. Agora, $$\frac{2}{8} = \frac{20 \times 2}{20 \times 8} = \frac{2 \times 20}{20 \times 8} = \frac{8 \times 5}{20 \times 8} = \frac{8 \times 5}{8 \times 20} = \frac{5}{20}.$$
+  - A afirmação é verdadeira. 
+
+Ao se multiplicar o numerador e o denominador da primeira fração pelo denominador da segunda fração obtém-se uma fração de igual valor cujo numerador é o produto do numerador da primeira fração pelo denominador da segunda fração e cujo denominador é o produto do numerador da primeira fração pelo denominador da segunda fração. 
+
+Do mesmo modo, ao se multiplicar o numerador e o denominador da segunda fração pelo denominador da primeira fração obtém-se uma fração de igual valor cujo numerador é igual ao denominador da primeira fração multiplicado pelo numerador da segunda fração e cujo denominador é o produto do denominadora da primeira fração pelo denominador da segunda fração. 
+
+Como as frações iniciais são iguais, estas novas frações também são iguais e têm o mesmo denominador. Portanto, seus numeradores devem ser iguais, isto é, o produto do numerador da primeira fração pelo denominador da segunda fração é igual ao produto do denominador da primeira fração pelo numerador da segunda fração.
+</WRAP>
+</hidden>

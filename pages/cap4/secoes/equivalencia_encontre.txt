@@ -1,0 +1,37 @@
+;;#
+Ir para [[cap4:texto#equivalencia_encontre]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Determinar uma fração igual a uma dada fração irredutível com denominador especificado.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Espera-se, principalmente nos Itens c e d, que os alunos consigam obter a fração solicitada usando a propriedade que $\frac{m \times a}{m \times b}$ é equivalente a $\frac{a}{b}$ e sem recorrer a desenhos de modelos de área de frações.
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: discriminar
+</WRAP>
+</hidden>
+
+Determine uma fração que seja igual a $\frac{7}{3}$ e que tenha denominador
+
+  - $6$;
+  - $21$;
+  - $123$;
+  - $210$.
+
+<hidden Resposta>
+<WRAP resposta>
+  - Como $6 = 2 \times 3$, segue-se que $\frac{7}{3} = \frac{2 \times 7}{2 \times 3} = \frac{14}{6}$.
+  - Como $21 = 7 \times 3$, segue-se que $\frac{7}{3} = \frac{7 \times 7}{7 \times 3} = \frac{49}{21}$.
+  - Como $123 = 41 \times 3$, segue-se que $\frac{7}{3} = \frac{41 \times 7}{41 \times 3} = \frac{287}{123}$.
+  - Como $210 = 70 \times 3$, segue-se que $\frac{7}{3} = \frac{70 \times 7}{70 \times 3} = \frac{490}{210}$.
+
+</WRAP>
+</hidden>

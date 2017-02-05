@@ -1,0 +1,83 @@
+;;#
+Ir para [[cap3:texto#conexoes]]
+;;#
+
+<hidden Para o professor>
+
+<WRAP professor>
+
+Após o Organizando as Idéias, passar-se-á a falar apenas em "fração" ao referir-se a frações na reta numérica, subentendendo que já esteja claro aos alunos que trata-se de uma "fração da unidade", unidade que já está identificada na reta pelo segmento de extremos 0 e 1, mesmo que estes estejam implícitos a partir de alguma outra infomração.
+
+Espera-se que, ao longo desta lição, o aluno tenha associado fração a uma quantidade. Assim, no  parágrafo que trata  sobre a ordem na reta numérica, fala-se nos "números representados na reta numérica", incluindo-se, entre eles, as frações.
+
+Lembre que a justaposição de segmentos pode sempre ser feita com a ajuda do compasso, evitando-se assim, medida.
+
+</WRAP>
+</hidden>
+
+Frações na reta numérica \\
+
+
+Já é conhecido que os números naturais podem ser representados por pontos em uma reta. 
+Para isso, é preciso começar escolhendo dois pontos que vão corresponder ao 0 e ao 1 e, a partir deles, são marcados os pontos que corresponderão aos demais números naturais.
+
+{{ :cap3:secoes:cap3-19.png?nolink&500 |}}
+
+As frações também podem ser associadas a pontos na reta numérica. Para isso, é preciso identificar o segmento unitário, aquele cujos extremos são os pontos correspondentes ao 0 e ao 1. Esse segmento representa a unidade.
+
+{{ :cap3:secoes:cap3-20.png?nolink&500 |}}
+
+Dividindo a unidade em partes iguais,  cada uma das partes identifica uma fração da unidade na reta numérica.
+Por exemplo, a divisão da unidade em 3 partes iguais identifica terços. O ponto correspondente a $\frac{1}{3}$  é a extremidade do segmento que, a partir do 0, identifica o primeiro terço da unidade. 
+
+{{ :cap3:secoes:cap3-21.png?nolink&270 |}}
+
+A partir dele, por justaposições desse segmento, são identificados na reta numérica os pontos correspondentes a $\frac{2}{3}$,$\frac{3}{3}$,$\frac{4}{3}$, e assim por diante. 
+
+{{ :cap3:secoes:cap3-22.png?nolink&270 |}}
+
+A representação dos números na reta numérica ajuda a perceber que os pontos correspondentes a algumas frações  são os mesmos que os correspondentes a alguns números naturais. Por exemplo, $\frac{3}{3}$ é igual a 1. 
+
+{{:cap3:secoes:png:orgideias_fig_a.png?nolink&200|}}
+{{:cap3:secoes:png:orgideias_fig_b.png?nolink&200|}}
+
+{{ :cap3:secoes:cap3-23.png?nolink&270 |}}
+
+Já $\frac{6}{3}$ é igual a 2. 
+
+{{:cap3:secoes:png:orgideias_fig_a_2.png?nolink&200|}}
+{{:cap3:secoes:png:orgideias_fig_b_2.png?nolink&200|}}
+
+{{ :cap3:secoes:cap3-24.png?nolink&270 |}}
+
+E $\frac{12}{3}$, é igual a que número natural? $\frac{12}{3}=$ ________ \\
+
+Para identificar na reta numérica os pontos correspondentes às frações $\frac{1}{4}$, $\frac{2}{4}$, $\frac{3}{4}$, $\frac{4}{4}$,$\frac{5}{4}$, $\frac{6}{4}$, e assim por diante, o processo é o mesmo:
+
+{{ :cap3:secoes:cap3-25.png?nolink&300 |}}
+
+Na reta numérica a seguir estão destacados alguns pontos e as frações correspondentes a eles. Observe e complete as frações em destaque.
+
+{{ :cap3:secoes:cap3-26.png?nolink&300 |}}
+
+
+A ordem na reta numérica\\
+
+Na reta numérica, os números são organizados em ordem crescente, a partir do zero no sentido do 1. Assim, o que vale para o 0, o 1, o 2, o, 3, etc. também valerá para as frações: 
+
+{{ :cap3:secoes:cap3-27.png?nolink&500 |}}
+Na reta numérica, quanto mais distante do 0 estiver o ponto correspondente ao número, maior será o número. 
+
+{{ :cap3:secoes:cap3-28.png?nolink&400 |}}
+
+$\frac{4}{3}$ é maior do que $\frac{4}{5}$. Ou ainda, $\frac{4}{5}$ é menor do que $\frac{4}{3}$.
+
+
+O símbolo é usado $<$ para dizer "menor do que".
+
+Por exemplo, a frase "oito é menor do que quinze" pode ser expressa de modo mais resumido com "$8<15$". Já a expressão $\frac{1}{2}<\frac{3}{2}$ indica que "um meio é menor do que três meios".
+
+Do mesmo modo, o símbolo $>$ é usado para significar "maior do que", portanto, também pode-se escrever $15>8$ para expressar "quinze é maior do que oito" ou $\frac{3}{2}>\frac{1}{2}$  para expressar "três meios é maior do que um meio"
+
+{{ :cap3:secoes:png:orgideias_fig05.png?nolink&600 |}}
+PRECISAMOS CORRIGIR ESSA FIGURA!

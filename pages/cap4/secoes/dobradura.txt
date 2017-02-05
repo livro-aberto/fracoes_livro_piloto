@@ -1,0 +1,46 @@
+;;#
+Ir para [[cap4:texto#dobradura]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Reconhecer que as frações $\frac{3}{10}$, $\frac{6}{20}$, $\ldots$, $\frac{3 \times m}{10 \times m}$ são iguais a partir da observação das representações destas frações em modelos de área retangulares e dobraduras. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que a atividade seja desenvolvida em grupos de 3 a 5 alunos e que, neste caso, cada grupo receba uma quantidade suficiente de cópias das {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}. Podem ser necessárias mais do que uma dessas folhas por aluno. Uma vez que a folha já tenha sido dobrada para a realização de um dos itens, a marca deixada pode atrapalhar a realização do item seguinte. 
+  * É importante deixar claro para os alunos que, para decidir sobre a quantidade de retângulos pintados e a quantidade total de retângulos, se devem considerar as divisões feitas pelos vincos das dobras. Neste sentido, você pode, junto com a turma, a título de exemplo e de orientação, preencher a segunda linha da tabela, deixando as demais para sejam preenchidas pelos grupos.
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a área da região pintada de amarelo) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes), mas que, não obstante, por expressarem uma mesma quantidade, estas frações são iguais. 
+
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+
+</WRAP>
+
+</hidden>
+
+Junte-se a seus colegas e dobrem o retângulo da página de reprodução como indicado na coluna mais à esquerda da tabela. Observando as dobras feitas, responda às questões propostas, preenchendo a tabela. Divida o trabalho em sua equipe: cada membro pode ficar encarregado de uma ou mais linhas da tabela. Lembre-se: as dobraduras devem ser feitas perpendicularmente às várias linhas desenhadas no retângulo da página de reprodução.
+
+
+| Como dobrar | Quantidade de retângulos pintados | Quantidade total de retângulos | Fração do retângulo do encarte que está pintada |
+| {{ :cap4:secoes:png2:ativ2_fig01.png?nolink&200 |}} | 3 | 10 | $\frac{3}{10}$ |
+| {{ :cap4:secoes:png2:ativ2_fig02.png?nolink&200 |}} | | | |
+| {{ :cap4:secoes:png2:ativ2_fig03.png?nolink&200 |}}| | | |
+| {{ :cap4:secoes:png2:ativ2_fig04.png?nolink&200 |}}| | | |
+| {{ :cap4:secoes:png2:ativ2_fig05.png?nolink&200 |}} | | | |
+| {{ :cap4:secoes:png2:ativ2_fig06.png?nolink&200 |}} | | | |
+
+<hidden Resposta>
+<WRAP resposta>
+| Como dobrar | Quantidade de retângulos pintados | Quantidade total de retângulos | Fração do retângulo do encarte que está pintada |
+| {{ :cap4:secoes:png2:ativ2_fig01.png?nolink&200 |}} | 3  | 10 | $\frac{3}{10}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig02.png?nolink&200 |}} | 6  | 20 | $\frac{6}{20}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig03.png?nolink&200 |}} | 9  | 30 | $\frac{9}{30}$ |  
+| {{ :cap4:secoes:png2:ativ2_fig04.png?nolink&200 |}} | 12 | 40 | $\frac{12}{40}$ | 
+| {{ :cap4:secoes:png2:ativ2_fig05.png?nolink&200 |}} | 18 | 60 | $\frac{18}{60}$ | 
+| {{ :cap4:secoes:png2:ativ2_fig06.png?nolink&200 |}} | 24 | 80 | $\frac{24}{80}$ | 
+
+</WRAP>
+</hidden>

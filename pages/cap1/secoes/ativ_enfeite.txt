@@ -1,0 +1,38 @@
+;;#
+Ir para [[cap1:texto#ativ_enfeite]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico:Levar o aluno a
+  * Abordar a equipartição em um modelo linear.
+  * Reconhecer a quarta parte como a metade da metade.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de quatro alunos. 
+  * Cada grupo deve receber um pedaço de barbante de, aproximadamente, 1m e quatro enfeites (todos iguais).  
+  * Os quatro enfeites precisam ser confeccionados antes da realização da tarefa. Sugerem-se estrelas, cujos modelos estão disponíveis para reprodução ({{::cap6_folhas_para_reproducao.pdf||Folhas para reprodução}}). No entanto, segundo a avaliação do professor, os enfeites podem ser outros, desde que sejam os 4 congruentes.
+  * Como sugestão, se possível, solicitar aos alunos que confeccionem os enfeites, por exemplo, associando esta atividade com geometria, com a abordagem de grandezas e medidas, com a disciplina de artes ou envolvendo culturas artesanais populares.
+  * A equipartição do barbante não deve ser obtida a partir da medida do barbante, mas por sucessivas dobras do barbante sobre ele mesmo, como ilustrado na resposta da atividade.
+  * A manipulação e a dobra do barbante devem sustentar a discussão para a identificação da "metade da metade" com a "quarta parte" do barbante. Nesse caso, a identificação se dará pela sobreposição das partes. 
+</WRAP>
+</hidden>
+
+Alice quer enfeitar a sala de aula e pretende prender os enfeites utilizando pedaços de barbante. Para isso, quer cortar o barbante em pedaços iguais, para que os enfeites fiquem todos na mesma altura. Ajude Alice a cortar o barbante.
+
+{{ :cap1:secoes:pngs_licao_01:ativ3_fig01.png?nolink&400 |}}
+
+<WRAP imagem> - FIGURA ARTÍSTICA -
+<WRAP nota> 
+INCLUIR PÁGINA DE REPRODUÇÃO COM apenas 1 ESTRELA com aproximadamente 15 cm de altura para ser recortada.
+</WRAP>
+</WRAP>
+
+<hidden Resposta>
+<WRAP resposta> Uma maneira de se cortar o barbante é dobrar ao meio e depois dobrar novamente ao meio, obtendo quatro partes iguais, como ilustrado na figura a seguir.
+
+{{ :cap1:secoes:pngs_licao_01:ativ3_fig03.png?nolink&400 |}}
+
+</WRAP>
+</hidden>

@@ -1,0 +1,42 @@
+;;#
+Ir para [[cap4:texto#equivalencia_densidade_1]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Perceber a propriedade de densidade das frações ao obter frações arbitrariamente próximas de $0$ e arbitrariamente próximas de $1$.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, para facilitar a logística de condução desta atividade, que ela seja feita com as perguntas sendo propostas uma a uma por você para a turma, de modo que a resposta de uma pergunta dada por um aluno seja então usada como referência para a pergunta subsequente. Outra possibilidade é dividir a turma em grupos de 3 a 5 alunos. Cada grupo responde a primeira pergunta e então passa sua resposta para um outro grupo que deve então responder a próxima questão tendo como referência a resposta recebida e assim sucessivamente.
+  * Caso seja viável, recomenda-se, na discussão da atividade, o uso de um software (o GeoGebra, por exemplo) para marcar na reta numérica as sucessivas frações dadas pelos alunos. O recurso de ampliação e redução pode ser usado visualizar as frações quando estas se acumulam em $0$ e em $1$.
+
+Classificações
+  * Heid et al.: Produto: prever
+  * Nicely, Jr.: Nível 7: levantar hipóteses
+  * UERJ: Avaliar: julgar
+</WRAP>
+</hidden>
+
+
+  - Escreva uma fração que seja menor do que $1$ e maior do que $0$.
+  - Existe uma fração maior do que $0$ e menor do que a fração que você escreveu no Item (A)? Em caso afirmativo, escreva uma tal fração.
+  - Existe uma fração  maior do que $0$ e menor do que a fração que você escreveu no Item (B)? Em caso afirmativo, escreva uma tal fração.
+  - É possível generalizar este processo, isto é, dada uma fração menor do que $1$ e maior do que $0$, é sempre possível determinar uma outra fração maior do que zero e menor ainda? Em caso afirmativo, explique como tal fração pode ser obtida.
+  - Existe uma fração menor do que 1 e que seja maior do que a fração que você escreveu no Item (A)? Em caso afirmativo, escreva uma tal fração.
+  - Existe uma fração menor do que 1 e que seja maior do que a fração que você escreveu no Item (E)? Em caso afirmativo, escreva uma tal fração.
+  - É possível generalizar este processo, isto é, dada uma fração menor do que $1$, é sempre possível determinar uma outra fração menor do que $1$ e que seja maior do que a fração dada? Em caso afirmativo, explique como tal fração pode ser obtida.
+
+<hidden Resposta>
+<WRAP resposta>
+  - $\frac{1}{2}$, por exemplo.
+  - Sim, $\frac{1}{3}$.
+  - Sim, $\frac{1}{4}$. 
+  - Sim: $\frac{1}{5} < \frac{1}{4}$, $\frac{1}{6} < \frac{1}{5}$, $\frac{1}{7} < \frac{1}{6}$, etc. Mais geralmente, dada uma fração, basta considerar a fração de mesmo numerador e denominador maior do que o denominador da fração dada. Esta segunda fração será sempre menor do que a fração dada.
+  - Sim, $\frac{2}{3}$. Enquanto que para $\frac{1}{2}$, é necessário $\frac{1}{2}$ para completar a unidade, para $\frac{2}{3}$ é necessário $\frac{1}{3}$ que é menor que $\frac{1}{2}$, logo $\frac{3}{4} > \frac{1}{2}$.
+  - Sim, $\frac{3}{4}$. Enquanto que para $\frac{2}{3}$, é necessário $\frac{1}{3}$ para completar a unidade, para $\frac{3}{4}$ é necessário $\frac{1}{4}$ que é menor que $\frac{1}{3}$, logo $\frac{3}{4} > \frac{2}{3}$.
+  - Sim, $\frac{4}{5} > \frac{3}{4}$, $\frac{5}{6} > \frac{4}{5}$, $\frac{6}{7} > \frac{5}{6}$, etc.
+Mais geralmente, as frações cujo numerador é um número natural e o denominador é o sucessor do numerador formam uma sucessão crescente de frações menores do que $1$.
+
+</WRAP>
+</hidden>

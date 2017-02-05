@@ -1,0 +1,30 @@
+;;#
+Ir para [[cap1:texto#ativ_ident_terco]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor> 
+Objetivo específico: Levar o aluno a:
+
+  * Identificar uma mesma fração unitária (no caso, a terça parte) em representações diversas, ou seja, em representações de unidades não necessariamente congruentes.
+ 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de 3 a 5 alunos.
+  * Durante a discussão, os alunos devem ser estimulados a explicar as suas escolhas. A discussão sobre os motivos da identificação, ou não, de cada uma das representações à terça parte da unidade correspondente será fundamental para atingir o objetivo da atividade.
+  * Os alunos devem reconhecer que, independente da unidade considerada, em uma equipartição em 3 partes, cada uma das partes é um terço (ou a terça parte) da unidade.
+  * Aproveite as próprias palavras e os argumentos dos alunos para conduzi-los às conclusões esperadas.
+  * Fique atento aos alunos que selecionarem as figuras que simplesmente possuem alguma associação com o número 3, não correspondendo a terços. Por exemplo, um aluno que associe a **Figura ZZ** a terços pode ainda não ter compreendido a necessidade da equipartição para a identificação de um terço. Já o aluno que associa **Figura ZZ** a terços pode estar simplesmente contando as partes em vermelho, sem que tenha reconhecido que a figura deveria estar dividida em 3 partes iguais e não em 5. 
+</WRAP>
+</hidden>
+
+
+Em cinco das figuras a seguir a parte em vermelho é um terço da figura. Identifique essas figuras.
+{{ :cap1:ativ_ident_terco.png?direct&400 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+A parte em vermelho representa um terço da figura nos itens c), d), e), f) e h). 
+</WRAP>
+</hidden>
+

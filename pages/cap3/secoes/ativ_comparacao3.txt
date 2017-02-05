@@ -1,0 +1,52 @@
+;;#
+Ir para [[cap3:texto#ativ_comparacao3]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Estabelecer a comparação entre frações a partir da representação na reta numérica;
+  * Comparar frações, tanto com o mesmo numerador como com mesmo denominador.
+
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * É solicitado que os alunos escrevam a justificativa para a avaliação de cada item. Essa decisão tem como objetivo fazer com que aluno vá além da argumentação oral, mas que consiga organizar as ideias para se expressar por escrito. 
+  * Observe que o caminho está repartido em 24 partes congruentes, ainda que não haja frações sugeridas. A ideia é que cada aluno possa, sozinho, decidir sobre os pontos correspondentes à metade, a quartos, a oitavos e a terços. Se necessário, discuta essas marcações com os alunos. 
+  * Cabe observar que cada item pode ser resolvido de forma independente. Por exemplo, para decidir se a posição da tartaruga corresponde a mais do que $\frac{3}{8}$ do percurso total, o aluno deve identificar oitavos na reta numérica. Já para decidir se a tartaruga já percorreu menos do que $\frac{2}{3}$ do percurso total, deve identificar terços. Assim, não há necessidade de comparar oitavos com terços.
+  * Para responder à questão, não há necessidade de uma informação precisa da posição da tartaruga. A representação das frações indicadas para serem comparadas com a localização da tartaruga não geram dúvida sobre estarem antes ou após a posição da tartaruga, apesar dessa posição não correspoonder claramente a um único ponto na reta numérica.   
+  * Os itens g) e h) envolvem termos comparativos menos precisos do que maior do que e menor do que. A expressão e "pelo menos" oferece outra forma de se avaliar a comparação. Explore essa diferença, observando se os alunos compreenderam.
+  * Os itens i) e j) exigem que os estudantes façam uma "leitura" da reta numérica ainda não experimentada. Precisam observar, em relação ao percurso total, ou seja, à unidade, a fração correspondente ao que falta ser percorrido. 
+  * Há vários raciocínios possíveis para responder aos diversos itens desta atividade. Incentive seus alunos a explicarem como raciocinaram, ressaltando, sempre que possível, as diferentes soluções. 
+</WRAP>
+</hidden>
+
+A imagem a seguir ilustra uma tartaruga percorrendo um caminho em linha reta, do ponto de partida ao de chegada. Observe a posição da tartaruga na imagem e avalie se as afirmações a seguir estão corretas ou não. Em cada item, explique a sua avaliação por escrito.
+  - A tartaruga percorreu mais do que a metade do percurso total.
+  - A tartaruga percorreu mais do que $\frac{3}{4}$ do percurso total.
+  - A tartaruga percorreu mais do que $\frac{3}{8}$ do percurso total.
+  - A tartaruga percorreu menos do que $\frac{3}{4}$ do percurso total.
+  - A tartaruga percorreu menos do que $\frac{2}{8}$ do percurso total.
+  - A tartaruga percorreu menos do que $\frac{2}{3}$ do percurso total.
+  - A tartaruga percorreu $\frac{3}{4}$ do percurso total.
+  - A tartaruga percorreu pelo menos $\frac{5}{8}$ do percurso total.
+  - Para alcançar a chegada, a tartaruga precisa percorrer mais do que a metade do caminho.
+  - Para alcançar a chegada, a tartaruga precisa percorrer menos do que $\frac{2}{3}$ do caminho.
+
+{{ :cap3:secoes:png:ativ9_fig01.png?nolink&600 |}}
+
+<hidden Resposta>
+<WRAP Resposta>
+  - Não está correta. Marcando-se o ponto correspondente à metade do percurso, é fácil verificar que a tartaruga ainda não alcançou esse ponto. Portanto, a tartaruga não percorreu mais do que a metade do percurso total. \\ {{ :cap3:secoes:png:ativ9_resp_a.png?nolink&600 |}}
+  - Não está correta. Dividindo-se o percurso em quartos, como ilustra a figura a seguir, fica claro que o ponto correspondente a $\frac{3}{4}$ do percurso está adiante da localização da tartaruga. Portanto, a tartaruga não percorreu mais do que $\frac{3}{4}$ do percurso total. \\ {{ :cap3:secoes:png:ativ9_resp_b.png?nolink&600 |}}
+  - Está correta. Dividindo-se o percurso em oitavos, como ilustra a figura a seguir, fica claro que o ponto correspondente a $\frac{3}{8}$ do percurso está antes da localização da tartaruga. Portanto, verifica-se que a tartaruga percorreu mais do que $\frac{3}{8}$ do percurso total. \\ {{ :cap3:secoes:png:ativ9_resp_c.png?nolink&600 |}}
+  - Está correta. Dividindo-se o percurso em quartos, como ilustra a figura a seguir, verifica-se que a localização da tartaruga é anterior ao ponto correspondente a $\frac{3}{4}$ do percurso. Portanto, a tartaruga percorreu menos do que $\frac{3}{4}$ do percurso total. \\ {{ :cap3:secoes:png:ativ9_resp_b.png?nolink&600 |}}
+  - Não está correta. Dividindo-se o percurso em oitavos, como ilustra a figura a seguir, fica claro que o ponto correspondente a $\frac{2}{8}$ do percurso está antes da localização da tartaruga. Portanto,verifica-se que tartaruga percorreu mais do que $\frac{2}{8}$ do percurso. \\ {{ :cap3:secoes:png:ativ9_resp_c.png?nolink&600 |}}
+  - Está correta. Dividindo-se o percurso em terços, fica claro que o ponto correspondente a $\frac{2}{3}$ do percurso está adiante da localização da tartaruga. Portanto, verifica-se que a tartaruga percorreu menos do que $\frac{2}{3}$ do percurso \\ {{ :cap3:secoes:png:ativ9_resp_f.png?nolink&600 |}}
+  - Não está correta. Dividindo-se o percurso em quartos, como ilustra a figura a seguir, fica claro que o ponto correspondente a $\frac{3}{4}$ do percurso está adiante da localização da tartaruga. Portanto, verifica-se que a tartaruga percorreu menos do que $\frac{3}{4}$ do percurso. \\ {{ :cap3:secoes:png:ativ9_resp_b.png?nolink&600 |}}
+  - Não está correta. Dividindo-se o percurso em oitavos, fica claro que o ponto correspondente a $\frac{5}{8}$ do percurso está adiante da localização da tartaruga. Portanto,verifica-se que a tartaruga não alcançou $\frac{5}{8}$ do percurso total. \\ {{ :cap3:secoes:png:ativ9_resp_c.png?nolink&600 |}}
+  - Está correta. De acordo com a resposta do item (a), a tarataruga não alcançou a metade do percurso. Poranto, para alcançar a chegada, a tartaruga ainda precisa percorrer mais do que a metade do caminho.
+  - Não está correta. A tartaruga já percorreu mais do que  $\frac{1}{3}$ do percurso e todo o percurso corresponde a  $\frac{3}{3}$. Portanto, para alcançar a chegada, a tartaruga precisa percorrer menos do que $\frac{2}{3}$ do caminho.
+</WRAP>
+</hidden>
+

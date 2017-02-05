@@ -1,0 +1,10 @@
+==== Atividade ====
+Júlia tenta convencer Pedro que $\frac{1}{2} = \frac{1}{5}$. Você concorda com o argumento dela? Ou existe algo errado? Explique!
+
+{{ :cap1:quadrinhos-um-meio-e-igual-a-um-quinto.jpg?300 |}}
+
+<hidden Resposta>
+<WRAP resposta>
+Júlia está usando um argumento errado: $\frac{1}{2}$ e $\frac{1}{5}$ são partes que se referem a todos diferentes!
+</WRAP>
+</hidden>

@@ -1,0 +1,47 @@
+;;#
+Ir para [[cap5:texto#unidade2]]
+;;#
+
+<hidden Para o professor>
+
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * entender o processo de determinação de um denominador comum entre duas frações com base na ideia de subdivisão da unidade da qual ambas sejam múltiplas inteiras, obtida a partir de um processo geométrico;
+  * determinar a soma e a diferença de duas frações a partir dessa subdivisão da unidade.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  *  Diferentemente da atividade anterior, nesta atividade a subdivisão da unidade já é dada, e sua determinação não é pedida ao aluno, o que voltará a ser objetivo das próximas atividades.
+  *  O item a) visa especificamente à identificação geométrica de subdivisão da unidade que será empregada para efetuar as operações. Espera-se $\frac{1}{16}$ como resposta.
+  * No item b), procurar resgate das atividades sobre frações equivalentes realizadas na lição 4. Observe que aqui há um processo de recontagem a partir da subdivisão "pedaço de chocolate". Aqui a fração equivalente indica a recontagem da fração $\frac{1}{2}$ a partir da subdivisão $\frac{1}{16}$.
+  * No item c), procure destacar a interpretação de adição como "juntar". Pretende-se que o professor tenha a possibilidade de sistematizar a adição, tendo como apoio a resposta dos alunos dadas a partir de observações visuais. Isto é, o estudante pode dizer que juntos Alice e Miguel comeram 11 pedaços e depois identifica-los como $\frac{11}{16}$ da barra de chocolate. A discussão deve ser encaminhada a partir da determinação de frações equivalentes desenvolvida no item anterior (e **sem** o uso do conceito de MMC). O objetivo é que o professor aproveite as soluções intuitivas dos alunos para apresentar, de forma mais sistematizada, a adição por uso de fração equivalentes, obtidas na busca de uma subdivisão comum:
+$$\frac{1}{2} + \frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}.$$
+  * O item d) deve ser encaminhado de forma análoga ao anterior. Especificamente, deve-se retomar a ideia de que $1 = \frac{n}{n}$, discutida na lição anterior, daí apresentar $$1 - \frac{11}{16} =  \frac{16}{16} - \frac{11}{16} = \frac{5}{16}.$$ 
+
+</WRAP>
+</hidden>
+
+Uma barra de chocolate é vendida com as marcações mostradas na figura abaixo.
+
+{{ :cap5:secoes:pngs_licao_05:ativ3_fig01.png?nolink&300 |}}
+
+Alice comeu a metade dessa barra de chocolate (em bege), quebrou o restante da barra em pedaços, seguindo as marcações e comeu 3 desses pedaços (em azul).
+
+{{ :cap5:ativ:cap5-4.png?400 |}}
+
+Se considerarmos a barra de chocolate como a unidade indicamos que as quantidades comidas são: $\frac{1}{2}$ por Alice e $\frac{3}{16}$ por Miguel.
+Os pedaços da barra (quebrados por Miguel de acordo com as marcações na barra) correspondem a uma subdivisão dessa unidade.
+Observe que ambas as frações da barra de chocolate comidas por Alice e Miguel podem ser obtidas a partir dessa subdivisão: Miguel comeu 3 pedaços e a quantidade comida por Alice corresponde a 8 pedaços.
+  - Um pedaço corresponde a que fração da barra de chocolate?
+  - Complete a parte em branco (numerador) para indicar a fração da barra de chocolate que Alice comeu. $$\frac{1}{2} = \frac{ }{16}$$ 
+  - Que fração da barra de chocolate foi comida por Alice e por Miguel, juntos?
+  - Que fração da barra de chocolate não foi comida?
+
+<hidden Resposta>
+<WRAP resposta>
+   - $\frac{1}{16}$
+   - $\frac{1}{2}=\frac{8}{16}$, pois a fração equivalente a $\frac{1}{2}$ com denominador 16 é \frac{8}{16}$. 
+   - Observando as quantidades comidas por Alice e Miguel, a partir de um mesmo denominador, temos $\frac{1}{2}+\frac{3}{16} = \frac{8}{16} + \frac{3}{16} = \frac{11}{16}$. 
+   - Recordemos que a barra de chocolate é nossa unidade de medida, então esse quantidade será entendida como 1 inteiro. Assim a quantidade restante será dada por $\frac{5}{16}$, pois $1 - \frac{11}{16} = \frac{16}{16} - \frac{11}{16} = \frac{5}{16}$.
+
+</WRAP>
+</hidden>

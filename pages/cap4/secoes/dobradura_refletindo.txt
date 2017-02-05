@@ -1,0 +1,44 @@
+;;#
+Ir para [[cap4:texto#dobradura_refletindo]]
+;;#
+
+<WRAP refletindo>
+
+Na atividade 4 a folha foi divida inicialmente em dez retângulos iguais, dos quais três deles foram pintados de amarelo.
+
+Ao realizar a primeira dobra, cada retângulo inicial ficou dividido ao meio, inclusive os pintados de amarelo. Assim, tanto para cobrir a área da região pintada de amarelo como para cobrir a área da folha será necessário o dobro da quantidade inicial:
+
+Área da folha $=$ área de 10 retângulos $=$ área de 20 "retângulos divididos ao meio";\\
+Área da região pintada $=$  área de 3 retângulos $=$ área de 6 "retângulos divididos ao meio".
+
+Assim pode-se dizer que a área da região pintada de amarelo é $\frac{3}{10}$ ou  $\frac{6}{20}$ da área da folha. De onde se conclui que estas frações são iguais, pois elas representam a mesma quantidade: a área da região pintada de amarelo tendo a área da folha como unidade. Isto é,
+
+$$\dfrac{3}{10} = \dfrac{6}{20} = \dfrac{2 \times 3}{2 \times 10},$$
+
+onde 2 é o numero de partes em que você dobrou a folha.
+
+Ora, quando você dobrou a folha em três partes iguais, cada retângulo inicial ficou dividido em três partes, inclusive os pintados de amarelo. Assim, tanto para cobrir a área da região pintada de amarelo como para cobrir a área da folha será necessário o triplo da quantidade inicial:
+
+Área da folha $=$ área de 10 retângulos $=$ área de 30 "retângulos divididos em três partes";\\
+Área da região pintada $=$  área de 3 retângulos $=$ área de 9 "retângulos divididos em três partes".
+
+De onde se conclui que as frações $\frac{3}{10}$ e $\frac{9}{30}$  são iguais, pois elas representam a mesma quantidade: a área da região pintada de amarelo tendo a área da folha como unidade. Isto é,
+
+$$\dfrac{3}{10} = \dfrac{9}{30} = \dfrac{3 \times 3}{3 \times 10},$$
+
+onde 3 é o número de partes em que você dobrou a folha. 
+
+Do mesmo modo, ao dobrar a folha em quatro, seis ou oito partes iguais, você obteve outras representações equivalentes para a fração $\frac{3}{10}$:
+    * ao dobrar em **quatro** partes iguais: $\frac{3}{10} = \frac{12}{40} = \frac{4 \times 3}{4 \times 10}$; em que 4 é o numero de partes em que você dobrou a folha;
+    * ao dobrar em **seis** partes iguais: $\frac{3}{10} = \frac{18}{60} = \frac{6 \times 3}{6 \times 10}$; em que 6 é o numero de partes em que você dobrou a folha;
+    * ao dobrar em **oito** partes iguais: $\frac{3}{10} = \frac{24}{80} = \frac{8 \times 3}{8 \times 10}$; em que 8 é o numero de partes em que você dobrou a folha.
+
+Assim, generalizando o processo de "dobrar" a folha, tem-se que, ao "dobrar" a folha em $n$ partes iguais:
+
+$$\dfrac{3}{10}=\dfrac{n \times 3}{n \times 10}\text{, onde n é o numero de partes em que você dobrou a folha.}$$
+
+Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir [[http://tube.geogebra.org/m/X52U83TR]] para dobrar a folha em partes cada vez menores (basta aumentar o valor de m no aplicativo). Mexa à vontade! Qualquer dúvida pergunte ao seu professor.
+
+{{ :cap4:secoes:dobradura-geogebra.png?500 |}}
+
+</WRAP>

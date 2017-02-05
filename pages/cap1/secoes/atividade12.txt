@@ -1,0 +1,15 @@
+==== Atividade ====
+
+/* 
+**Humberto**: Meio bobinho, mas coloco aqui para avaliação.
+*/
+
+Uma outra maneira comum de se dividir uma pizza é à "francesa", como mostra a figura a seguir. Uma pizza cortada à francesa está dividida em partes iguais? Explique!
+
+{{ :cap1:pizza-a-francesa.jpg?500 |}}
+
+<WRAP resposta>
+Uma pizza cortada à francesa não está dividida em partes iguais. Basta ver que existem pedaços com tamanhos diferentes.
+</WRAP>
+
+

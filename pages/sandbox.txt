@@ -1,0 +1,38 @@
+====== Examples for the Wrap Plugin ======
+
+  - Considerando uma torta, qual quantidade:
+    - Amarildo recebeu?
+    - Amarildo Beto e Carlos receberam juntos? $\fbox{4}$!!
+
+
+{{:wiki:wikimedia-logo.svg|}}
+
+<WRAP professor>
+ Conte que $2 + 2 = 4$.
+</WRAP>
+
+<WRAP introdutorio>
+ Saiba que $2 + 2 = 4$.
+</WRAP>
+
+<WRAP exercicio>
+ Quanto é $2 + 2$?
+ <WRAP resposta>
+  $2 + 2 = 4$.
+ </WRAP>
+</WRAP>
+
+====== Examples for the Wrap Plugin ======
+
+As caixas abaixo sao lindas!
+
+<WRAP imagem>
+ Colocar uma triângulo.
+</WRAP>
+  - Pergunta da história.
+  - Pergunta da história. \\ \\ Agora, um texto, modificando a história: uma das irmãs deu sua parte do chocolate para outra irmã.\\ \\
+  - Pergunta da continuação da história.
+  - Pergunta da continuação da história.\\ \\ Texto explicando a continuação da história: uma irmã divide o que tem entre outras duas.\\ \\
+  - Pergunta da continuação da história.
+  - Pergunta da continuação da história.
+

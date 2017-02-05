@@ -1,0 +1,71 @@
+;;#
+Ir para [[cap4:texto#preencha_fita]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Reconhecer que as frações $\frac{1}{2}$, $\frac{2}{4}$, $\frac{3}{6}$, $\frac{4}{8}$, $\frac{5}{10}$ e $\frac{8}{16}$ são iguais a partir da observação das representações destas frações em modelos de área retangulares. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que esta atividade seja desenvolvida em grupos de $2$ ou $3$ alunos para que eles possam discutir as soluções apresentadas, dentro do grupo, durante a condução da atividade.
+  * É importante, ao final da atividade, observar para os alunos que uma mesma parte do retângulo (a região colorida de cinza) está sendo descrita por frações com numeradores e denominadores diferentes (isto é, por frações equivalentes) mas que, não obstante, por expressarem uma mesma quantidade, são frações iguais. 
+
+Esta atividade possui {{::cap6_folhas_para_reproducao.pdf|páginas para reprodução}}
+
+
+Classificações:
+  * Heid et al.: Conceito: identificar e descrever
+  * Nicely, Jr.: Nível 1: reconhecer
+  * UERJ: Observar: identificar e reconhecer
+
+</WRAP>
+</hidden>
+
+**PARTE 1**
+
+Você recebeu um encarte com 10 retângulos coloridos de mesmo tamanho, cada deles dividido em um determinado número de partes iguais. Seguindo o modelo feito para o primeiro retângulo, preencha a tabela a seguir.
+
+{{ :cap4:secoes:tab_cores.png?nolink&600 |}}
+
+**PARTE 2**
+
+O objetivo desta parte é estudar a fração do retângulo que está colorida de cinza no segundo encarte que você recebeu. 
+
+{{ :cap4:secoes:picture_cap4-10.png?nolink&383 |}}
+
+Para isto, responda às perguntas na tabela a seguir com frações adequadas. Se necessário, recorte e use as peças coloridas do primeiro encarte para avaliar as suas respostas.
+
+{{ :cap4:secoes:tab_cores2.png?nolink&600 |}}
+
+
+<hidden Resposta>
+<WRAP resposta>
+**PARTE 1**
+
+|  Retângulo  |  Número de partes em se encontra dividido  |  Cada parte é que fração do retângulo?  |
+| {{ :cap4:secoes:picture_cap4-0.png?nolink&300 |}} |  2  |  $\frac{1}{2}$  |
+|  {{ :cap4:secoes:picture_cap4-1.png?nolink&300 |}}  |  3  |  $\frac{1}{3}$  |
+|  {{ :cap4:secoes:picture_cap4-2.png?nolink&300 |}}  |  4  |  $\frac{1}{4}$  |
+|  {{ :cap4:secoes:picture_cap4-3.png?nolink&300 |}}  |  5  |  $\frac{1}{5}$  |
+| {{ :cap4:secoes:picture_cap4-4.png?nolink&300 |}}  |  6  |  $\frac{1}{6}$  |
+| {{ :cap4:secoes:picture_cap4-5.png?nolink&300 |}}  |  7  |  $\frac{1}{7}$  |
+| {{ :cap4:secoes:picture_cap4-6.png?nolink&300 |}}  |  8  |  $\frac{1}{8}$  |
+| {{ :cap4:secoes:picture_cap4-7.png?nolink&300 |}}  |  9  |  $\frac{1}{9}$  |
+| {{ :cap4:secoes:picture_cap4-8.png?nolink&300 |}}  |  10  |  $\frac{1}{10}$  |
+| {{ :cap4:secoes:picture_cap4-9.png?nolink&300 |}}  |  16  |  $\frac{1}{16}$  |
+
+
+
+**PARTE 2 **
+
+
+| Tipo da peça |  Quantas peças como essa cabem na região cinza? |  As peças que você usou, juntas, são que fração do retângulo do encarte?  | Que fração do retângulo do encarte não está colorida de cinza? |
+| {{ :cap4:secoes:picture_cap4-11.png?nolink&300 |}} | $1$ | $\frac{1}{2}$ | $\frac{1}{2}$ |
+| {{ :cap4:secoes:picture_cap4-12.png?nolink&150 |}}| $2$  | $\frac{2}{4}$ | $\frac{2}{4}$ |
+| {{ :cap4:secoes:picture_cap4-13.png?nolink&100 |}}| $3$ | $\frac{3}{6}$ | $\frac{3}{6}$ |
+| {{ :cap4:secoes:picture_cap4-14.png?nolink&75 |}}| $4$ | $\frac{4}{8}$ | $\frac{4}{8}$ |
+| {{ :cap4:secoes:picture_cap4-15.png?nolink&60 |}}| $5$ | $\frac{5}{10}$ | $\frac{5}{10}$ |
+| {{ :cap4:secoes:picture_cap4-16.png?nolink&37.5 |}} | $8$ | $\frac{8}{16}$ | $\frac{8}{16}$ |
+</WRAP>
+</hidden>

@@ -1,0 +1,54 @@
+;;#
+Ir para [[cap4:texto#equivalencia_tres]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar mais do que duas frações (no caso, três) usando frações equivalentes.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Sugere-se que seja observado para os alunos que o procedimento descrito nesta atividade para ordenar três frações pode ser aplicado para um número arbitrário de frações.
+  * Esta atividade foi concebida para ser resolvida usando a notação de fração, sem o uso do recurso de modelos de frações uma vez que, neste estágio, espera-se que o aluno já tenha o domínio desta técnica de manipulação aritmética.
+  * Observe que a ordenação poderia ser feita comparando-se duas frações por vez. A solução indicada reduz a ordenação à ordenação de números naturais (os numeradores das frações iguais às frações dadas e todas de mesmo denominador).
+
+Classificações
+  * Heid et al.: Produto: gerar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: ordenar
+</WRAP>
+</hidden>
+
+O objetivo desta atividade é determinar qual é a maior e qual é a menor fração entre
+as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+
+  - Determine três frações de mesmo denominador que sejam iguais às frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+  - Usando as frações do Item (a), determine qual é a maior e qual é a menor fração entre as frações $\frac{11}{6}$, $\frac{28}{15}$ e $\frac{37}{20}$.
+
+<hidden Resposta>
+<WRAP resposta>
+  - $60$ é um múltiplo comum de $6$, $20$ e $15$: $60 = 10 \times 6$, $60 = 4 \times 15$ e $60 = 3 \times 20$. Portanto, $$\frac{11}{6} = \frac{10 \times 11}{10 \times 6} = \frac{110}{60},$$ $$\frac{28}{15} = \frac{4 \times 28}{4 \times 15} = \frac{112}{60} \quad {\rm  e}$$ $$\frac{37}{20} = \frac{3 \times 37}{3 \times 20} = \frac{111}{60}.$$\\
+  - Tem-se que $\frac{110}{60} < \frac{111}{60} < \frac{112}{60}$. Logo,
+$$\frac{11}{6} < \frac{37}{20} < \frac{28}{15}.$$
+</WRAP>
+</hidden>
+
+/*
+<hidden Comentário - a ser apagado (com réplica do Humberto)>
+Réplica do Humberto:
+(i) A atividade foi concebida para ser resolvida usando a notação de fração, sem o uso do recurso de modelos de frações pensando que, neste estágio, o aluno já deveria ter o domínio desta técnica (estou supondo que um objetivo deste capítulo é que o aluno seja capaz de gerar e identificar frações iguais por meio desta manipulação aritmética).Vou manter esta atividade aqui para reconsideração mas caso achem que ela está realmente difícil, podemos removê-la. 
+
+
+Letícia:
+(i) Acho o desafio grande demais. Talvez propor itens, iniciando por frações "mais simples", que facilitem a representação em modelos contínuos e a discussão em sala de aula;
+
+(ii) Acho que basta $\frac{a}{b}$, $\frac{c}{d}$ e $\frac{e}{f}$. Não vejo, aqui, a necessidade de nomear as frações. 
+
+(iii) Evitar o "encontre". ;) Também acho a expressão "respectivamente" pode adequada à faixa etária. 
+
+Talvez: Determine três frações com o mesmo denominador tais que cada uma delas seja igual a uma das frações $\frac{a}{b}$, $\frac{c}{d}$ e $\frac{e}{f}$. 
+
+
+</hidden>
+*/

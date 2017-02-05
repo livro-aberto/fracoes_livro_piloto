@@ -1,0 +1,52 @@
+;;#
+Ir para [[cap1:texto#ativ_desenhar]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivos específicos: Levar o aluno a:
+  * Representar uma fração unitária a partir de uma unidade dada.  
+  * Reconhecer (e obter) um quarto como a metade da metade e um oitavo como a metade de um quarto.
+  * Comparar as frações unitárias metade, um quarto e um oitavo de um mesmo quadrado.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que o aluno pode fazer individualmente. 
+  * Não se espera que, nesta atividade, os alunos usem a medida para fazer a equipartição de maneira mais precisa. O objetivo é fazer a equipartição livremente e de forma coerente. Assim, por exemplo, podem ser aceitas como respostas:
+
+{{:cap1:secoes:quadrado-resposta-01.png?150}} e {{:cap1:secoes:quadrado-resposta-02.png?150}}.
+
+Já as representações a seguir sugerem que os alunos precisam revisar os conceitos exigidos para a solução da atividade:
+
+{{ :cap1:secoes:quadrado-resposta-03.png?150 |}}
+
+  * A representação da unidade se dá de forma genérica por um quadrado. 
+  * Espera-se que os alunos reconheçam que para obter um quarto da unidade basta tomar a metade da metade. E que, para determinar um oitavo pode dividir um quarto ao meio.
+  * Recomende que os alunos usem dobradura para identificar as frações pedidas. Assim, por exemplo, a fração $\frac{1}{4}$ pode ser obtida por duas dobras do papel.    
+  * Discuta com os estudantes que quanto maior o número de partes iguais em que se particiona o quadrado, menor fica cada uma das partes.
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item.
+  * **As diferentes soluções apresentadas pelos alunos podem enriquecer a discussão**. A comparação entre, por exemplo, a metade do quadrado proveniente da dobradura pela diagonal e o quarto do quadrado proveniente da dobradura a partir de linhas paralelas aos lados (como um sinal de "+") pode não ser tão natural. Dificuldade semelhante pode ser observada na comparação entre esse mesmo quarto do quadrado e o oitavo do quadrado proveniente de uma sequência de dobraduras paralelas a um dos lados, determinando "faixas paralelas". Nesses casos, para executar a comparação, é necessário que os alunos reconheçam partes de formatos diferentes que correspondem a uma mesma fração do quadrado como iguais em quantidade (Estratégias para expplorar isso em sala de aula podem ser desenhos, no quadro ou dos próprios alunos em papel, agrupando os as diferentes representações para uma mesma fração).  Assim, a comparação entre a metade do quadrado, obtida pela dobradura na diagonal, e o quarto do quadrado, obtido pela dobraduta "em sinal de +", pode ser amparada pelo reconhecimento de que a metade em questão é igual em quantidade à metade do quadrado obtida por uma única dobra paralela a um dos lados, que é o dobro do quarto do quadrado.  
+
+
+
+</WRAP>
+</hidden>
+
+  - Pinte metade do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
+  - Pinte um quarto do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
+  - Pinte um oitavo do quadrado a seguir.\\ {{ :cap1:secoes:um-meio-um-quarto-um-oitavo.jpg?250 |}}
+  - Observando os quadrados pintados nos itens , qual é a maior das frações do quadrado: metade, quarto ou oitavo?
+<hidden Resposta>
+<WRAP resposta>
+
+Algumas soluções possíveis, convencionais e outras menos convencionais são:
+
+      - Metade: \\ {{ :cap1:secoes:cap1-7.png?nolink&300 |}}
+      - Um quarto:\\ {{ :cap1:secoes:cap1-8.png?nolink&300 |}}
+      - Um oitavo: \\ {{ :cap1:secoes:cap1-9.png?nolink&300 |}}
+      - Dentre as opções apresentadas, a maior fração do quadrado é metade.
+
+
+
+</WRAP>
+</hidden>

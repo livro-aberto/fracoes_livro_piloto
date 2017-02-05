@@ -1,0 +1,19 @@
+<WRAP professor>
+Objetivos específicos:
+  * Introduzir frações no contexto de quantas vezes uma determinada quantidade cabe em outra.
+
+Observações:
+  * Este tipo de contexto será especialmente útil para a divisão de frações.
+</WRAP>
+
+(A) Três cópias do retângulo vermelho {{cap2:secoes:quantos-cabem-02.png?300}} cabem exatamente no retângulo branco {{cap2:secoes:quantos-cabem-01.png?300}}, como mostra a figura:
+{{cap2:secoes:quantos-cabem-03.png?300|}}. O retângulo vermelho é que fração do retângulo branco? Explique!
+
+(B) Duas cópias mais metade do retângulo vermelho {{cap2:secoes:quantos-cabem-02.png?300}} cabem exatamente no retângulo azul {{cap2:secoes:quantos-cabem-04.png?300}}. O retângulo vermelho é que fração do retângulo azul? Explique!
+
+<hidden L:16-05-02>
+Achei esta questão pouco clara em relação ao objetivo. Seria bom discuti-la na reunião com todos. Por exemplo, como garantir que o aluno vai raciocinar a partir da ideia de medida (quantos cabem) para responder o item (a)?
+</hidden>
+
+
+

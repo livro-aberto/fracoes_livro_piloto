@@ -1,0 +1,38 @@
+<code latex>
+\begin{tikzpicture}[scale=0.5, x=1cm,y=1cm]
+
+% Definição do eixo vertical das elipses
+\def\EixoM{0.5}
+
+% colorindo o primeiro cilindro
+\fill[Aquamarine] (2,0) ellipse (2 and \EixoM);
+\fill[Aquamarine] (0,0) rectangle (4,3);
+\fill[Aquamarine] (2,3) ellipse (2 and \EixoM);
+
+% colorindo o segundo cilindro
+\fill[Aquamarine] (8,0) ellipse (2 and \EixoM);
+\fill[Aquamarine] (6,0) rectangle (10,2);
+\fill[Aquamarine] (8,2) ellipse (2 and \EixoM);
+
+% colorindo o terceiro
+\fill[Aquamarine] (14,0) ellipse (2 and \EixoM);
+\fill[Aquamarine] (12,0) rectangle (16,4);
+\fill[Aquamarine] (14,4) ellipse (2 and \EixoM);
+
+% shift horizontal nos cilindros definido por \x
+\foreach \x in {0,6,12}{
+\draw (\x,0)--(\x,8);
+\draw (\x + 4,0)--(\x + 4,8);
+% shift vertical nos arcos de elipse definido por \y
+\foreach \y in {0,1,...,7}{
+\pgfpathmoveto{\pgfpoint{\x cm}{\y cm}}
+\pgfpatharc{-180}{0}{2cm and \EixoM cm}
+\pgfusepath{draw}}
+\draw (\x + 2,8) ellipse (2 and \EixoM);}
+
+\node at (2,-2) {(I)};
+\node at (8,-2) {(II)};
+\node at (14,-2) {(III)};
+\end{tikzpicture}
+
+</code>

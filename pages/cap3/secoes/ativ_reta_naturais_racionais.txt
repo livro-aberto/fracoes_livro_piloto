@@ -1,0 +1,33 @@
+;;#
+Ir para [[cap3:texto#ativ_reta_naturais_racionais]]
+;;#
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * Revisar a construçção da reta numérica, associando quantidades inteiras aos números naturais. Em particular, objetiva-se que a unidade seja associada ao número 1.
+  * Estender a representação de frações para a reta numérica a partir de modelos contínuos. 
+  * Identificar a partir de comparação entre o modelos contínuo e a reta numérica, o segmento unitário à unidade identificada no modelo (No caso, uma pizza).
+  * Representar na reta numérica quantidades não inteiras registradas por frações da unidade. 
+   
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  *  Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  *  Recomenda-se que o professor inicie a atividade relembrando com os alunos como é construída a reta numérica e como se posicionam os números naturais nela, enfatizando que o número 1 representa uma unidade e que, a partir daí, o 2 será o extremo do segmento que é o dobro do segmento de extremos 0 e 1. De foma análoga, são marcados o 3, o 4 e assim por diante.
+  * Espera-se que os alunos, a partir de tal revisão, não tenham dificuldades em resolver o item (i). A novidade está no ítem (ii), no qual os alunos são solicitados a representar frações na reta numérica. Nesse item, o objetivo é que os alunos concluam que, na reta numérica, assim como o ponto correspondente ao 2 fica determinado pelo dobro do segmento unitário e que ponto correspondente ao 3 fica determinado pelo triplo do segmento unitário, o ponto correspondente a $\frac{1}{2}$ fica deteminado pela metade do segmento unitário. De forma análoga, considerando equipartições do segmento unitário e a justaposição dessas partes, são determinados, por exemplo, os pontos correpondentes às fraçoes $\frac{1}{4}$ e $\frac{3}{4}$.
+
+</WRAP>
+</hidden>
+
+Relembrando a representação na reta numérica: Você já conhece a reta numérica com os números naturais destacados.
+
+  - Marque na reta numérica pontos que representem as quantidades de pizza nas imagens a seguir. \\
+{{ :cap3:secoes:png:ativ2_fig_a.png?nolink&600 |}} \\ {{ :cap3:secoes:cap3-1.png?nolink&300 |}}
+  - E no caso destas imagens, que pontos na reta numérica representam as quantidades de pizza ilustradas? \\ {{ :cap3:secoes:png:ativ2_fig_b.png?nolink&300 |}} \\ {{ :cap3:secoes:cap3-2.png?nolink&300 |}}
+ 	 
+<hidden Resposta>
+<WRAP resposta>
+  - <WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também. Reta numérica (com numeração apenas de zero a 5) como a do enuciado, com pontos circulares azuis nas posições 1, 2 e 4. </WRAP>
+  - <WRAP imagem> FIGURA GEOMÉTRICA - Há figuras geométricas nas respostas também. Reta numérica (com numeração apenas de zero a 2) como a do enuciado, com pontos circulares azuis nas posições $\frac{1}{2}$, $\frac{1}{4}$, $\frac{3}{4}$ e $\frac{3}{2}$. </WRAP>
+</WRAP>
+</hidden>

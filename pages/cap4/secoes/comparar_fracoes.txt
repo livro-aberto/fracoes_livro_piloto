@@ -1,0 +1,51 @@
+;;#
+Ir para [[cap4:texto#comparar_fracoes]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Comparar frações por meio de igualdade de frações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta é uma atividade que pode ser desenvolvida individualmente. Contudo, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * A discussão da atividade pode incluir o uso de outras estratégias, que não a igualdade de frações, para se estabelecer a comparação das frações apresentadas. 
+
+Classificações
+  * Heid et al.: Conceito: elaborar
+  * Nicely, Jr.: Nível 3: comparar
+  * UERJ: Interpretar: comparar
+</WRAP>
+</hidden>
+
+Para cada par de frações na mesma linha da tabela a seguir, determine frações de mesmo denominador que sejam iguais a cada uma das frações dadas. Em seguida, compare essas frações, preenchendo a coluna em branco, com um dos símbolos "$>$", "$<$" ou "$=$", de forma que, em cada linha da tabela, a comparação estabelecida seja verdadeira. Vamos fazer o Item (A) juntos: observe que
+
+$\frac{5}{6} = \frac{5 \times 5}{5 \times 6} = \frac{25}{30}$ e $\frac{4}{5} = \frac{6 \times 4}{6 \times 5} = \frac{24}{30}$.
+
+Como $25 > 24$, segue-se que $\frac{25}{30} > \frac{24}{30}$. Portanto, preenchemos a coluna em branco da primeira linha com $>$.
+
+| Item  | Fração                                     | $>$, $<$ ou $=$  | Fração                                      |
+| a)    | $\frac{5}{6} = \frac{25}{30}$              |  $>$             | $\frac{24}{30} = \frac{4}{5}$               |
+| b)    | $\frac{3}{4} = \frac{\square}{\square}$    |                  | $\frac{\square}{\square} = \frac{2}{3}$     |
+| c)    | $\frac{2}{10} = \frac{\square}{\square}$   |                  | $\frac{\square}{\square} = \frac{3}{15}$    |
+| d)    | $\frac{1}{4} = \frac{\square}{\square}$    |                  | $\frac{\square}{\square} = \frac{6}{25}$    |
+| e)    | $\frac{22}{7} = \frac{\square}{\square}$   |                  | $\frac{\square}{\square} = \frac{31}{10}$   |
+| f)    | $\frac{22}{33} = \frac{\square}{\square}$  |                  | $\frac{\square}{\square} = \frac{24}{36}$   |
+| g)    | $\frac{5}{10} = \frac{\square}{\square}$   |                  | $\frac{\square}{\square} = \frac{50}{100}$  |
+| h)    | $\frac{7}{5} = \frac{\square}{\square}$    |                  | $\frac{\square}{\square} = \frac{17}{12}$   |
+| i)    | $\frac{7}{12} = \frac{\square}{\square}$   |                  | $\frac{\square}{\square} = \frac{9}{20}$    |
+
+<hidden Resposta>
+<WRAP resposta>
+| Item | Fração | "$>$", "$<$" ou "$=$" | Fração |
+| a) | $\frac{5}{6} = \frac{25}{30}$ |  $>$  | $\frac{24}{30} = \frac{4}{5}$ |
+| b) | $\frac{3}{4} = \frac{9}{12}$ |  $>$  | $\frac{8}{12} = \frac{2}{3}$ |
+| c) | $\frac{2}{10} = \frac{1}{5}$ |  $=$  | $\frac{1}{5} = \frac{3}{15}$ |
+| d) | $\frac{6}{25} = \frac{24}{100}$ |  $<$  | $\frac{25}{100} = \frac{1}{4}$ |
+| e) | $\frac{22}{7} = \frac{220}{70}$ |  $>$  | $\frac{217}{70} = \frac{31}{10}$ |
+| f) | $\frac{22}{33} = \frac{2}{3}$ |  $=$  | $\frac{2}{3} = \frac{24}{36}$ |
+| g) | $\frac{5}{10} = \frac{50}{100}$ |  $=$  | $\frac{50}{100} = \frac{50}{100}$ |
+| h) | $\frac{7}{5} = \frac{84}{60}$ |  $<$  | $\frac{85}{60} = \frac{17}{12}$ |
+| i) | $\frac{12}{6} = \frac{2}{1}$ |  $<$  | $\frac{3}{1} = \frac{9}{3}$ |
+</WRAP>
+</hidden>

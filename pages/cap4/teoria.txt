@@ -1,0 +1,23 @@
+====== Referencial teórico para o capítulo ======
+
+  * Behr, Merlyn J.; Wachsmuth, Ipke; Post, Thomas R.; Lesh, Richard. Order and Equivalence of Rational Numbers: A Clinical Teaching Experiment. Journal for Research in Mathematics Education, v. 15, n. 15, p. 323-341, 1984.
+  * Cramer, Kathleen; Behr, Merlyn; Post, Thomas; Lesh, Richard. [[http://www.cehd.umn.edu/ci/rationalnumberproject/RNP1-09/RNP1-09_withBlankPages.pdf|Rational Number Project: Initial Fraction Ideas]]. University of Minnesota, 2009.
+  * Empson, Susan B. Equal Sharing and The Roots of Fraction Equivalence. Teaching Children Mathematics, March, 2001.
+  * Freitag, Mark A. Mathematics for Elementary School Teachers: A Process Approach. Cengale Learning, 2014.
+  * Garcez, Wagner Rohr. Tópicos sobre O Ensino de Frações: Equivalência. Trabalho de Conclusão de Curso do PROFMAT, Instituto de Matemática Pura e Aplicada, 2013.
+  * IES PRACTICE GUIDE WHAT WORKS CLEARINGHOUSE. [[http://ies.ed.gov/ncee/wwc/pdf/practice_guides/fractions_pg_093010.pdf|Developing Effective Fractions Instruction for Kindergarten Through 8th Grade]]. Institute of Education Sciences, 2010.\\ Este relatório oferece um conjunto de diretivas, procedimentos e cuidados no ensino de frações nas séries iniciais que foram compilados a partir de relatos de experiência e estudos científicos.
+   * Lewin, Renaio; López, Alejandro; Martínez, Salomé; Rojas, Daniela; Zanocco, Pierina. Números para Futuros Profesores de Educación Básica. ReFIP Matemática: Recursos para La Formación Inicial de Profesores Educación Básica. Ediciones SM Chile S.A., 2013.
+   * McNamara, Julie; Shaughnessy, Meghan M. Beyond Pizzas and Pies, Grades 3-5, Second Edition: 10 Essential Strategies for Supporting Fraction Sense. Math Solutions Publications, 2015.
+   * MEC, Brasil. Números Racionais: Conceito e Representação (TP6). Programa Gestão da Aprendizagem Escolar GESTAR I. 2007.
+   * Musser, Gary L.; Peterson, Blacke E.; Burger, William F. Mathematics for Elementary Teachers: A Contemporary Approach. John Wiley & Sons, Inc., 2014.
+   * Ni, Yujing. Semantic Domains of Rational Numbers and The Acquisition of Fraction Equivalence. Contemporary Educational Psychology, n. 26, p. 400–417, 2001
+   * Pearn, Catherine; Stephens, Max. [[http://www.merga.net.au/documents/RP512004.pdf|Why You Have To Probe To Discover What Year 8 Students Really Think about Fractions]]. MERGA 27, v. 2, p. 430-437, 2004.
+   * Pereira, Ana Paula Cabral Couto. O Ensino de Frações na Escola Básica: O Currículo Common Core nos EUA, Hung-Hsi Wu e Uma Análise Comparativa em Dois Livros Didáticos do PNLD. Dissertação (Mestrado Profissional em Rede Nacional PROFMAT), Universidade Federal Fluminense, 2015.
+   * Petit, Marjorie M.; Laird, Robert E.; Marsden, Edwin L. A focus On Fractions: Bringing Research To The Classroom. Studies in Mathematical Thinking and Learning. Taylor & Francis, 2010.
+   * Post, Thomas R.; Wachsmuth, Ipke; Lesh, Richard; Behr, Merlyn J. Order and Equivalence of Rational Number: A Cognitive Analysis. Journal for Research in Mathematics Education v. 16, v. 1, p. 18-36, 1985.
+   * Small, Marian. Uncomplicating FRACTIONS To Meet Common Core Standards in Math, K-7. Teachers College Press, 2013.
+   * Spangler, David B. Strategies for Teaching Fractions: Using Error Analysis for Intervention and Assessment. Corwin, 2011.
+   * Vamvakoussi, Xenia; Vosniadou,Stella. Bridging the Gap Between the Dense and the Discrete: The Number Line and the “Rubber Line” Bridging Analogy. Mathematical Thinking and Learning, v. 14, n. 4, p. 265-284, 2012. DOI: 10.1080/10986065.2012.717378. \\ Este artigo faz um resumo histórico de como a noção de densidade surgiu.
+   * Vance, James H. Understanding Equivalence: A Number by Any Other Name. School Science and Mathematics, v. 92, n. 5, p. 263-266, 1992.
+   * Van de Walle, John A. Matemática no Ensino Fundamental. Formação de Professores e Aplicação em Sala de Aula. Sexta edição. Artmed, 2009. 
+   * Wu, Hung-Hsi. Understanding Numbers in Elementary School Mathematics. American Mathematical Society, 2011.

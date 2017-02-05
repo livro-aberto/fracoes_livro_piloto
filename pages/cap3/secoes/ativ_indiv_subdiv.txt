@@ -1,0 +1,41 @@
+;;#
+Ir para [[cap3:texto#ativ_indiv_subdiv]]
+;;#
+
+
+<WRAP professor>
+Objetivos específicos:
+Aprofundar a ideia de divisão da unidade e associá-las às representações 1/b e a/b
+
+
+Recomendações:
+Peça para os alunos construírem com papel A4 duas faixas de igual tamanho, uma rosa e outra amarela dividindo, por dupla dobra, a faixa rosa em quatro partes iguais.  A seguir, peça-lhes que recortem as partes da faixa rosa. O objetivo é de, dessa forma, facilitar o trabalho com a fração unitária ¼ e, por justaposição da quarta parte da faixa, com as frações 2/4, ¾ e 4/4.
+
+Observe que poderão aparecer respostas variadas, por conta da equivalência de frações, por exemplo, no item (c). 
+
+O item (e) é um convite ao aluno para se libertar do concreto e tentar explicar como se pode, em geral, calcular a fração da parte descoberta a partir do conhececimento da fração da faixa que está coberta.
+
+</WRAP>
+Construa duas faixas de mesmo tamanho, uma amarela e outra rosa. Na faixa rosa, faça duas dobras de modo a dividi-la em quatro partes iguais. Recorte cada uma das partes da faixa rosa.
+
+Agora que você já tem os “pedaços” rosa e a faixa completa amarela, responda:
+
+a)	Que fração da faixa amarela corresponde uma parte rosa? Como representamos esta fração?
+
+b)	Se colocarmos uma parte rosa sobre a faixa amarela, como na figura abaixo, que fração da faixa amarela ficará descoberta?
+
+<WRAP imagem> FIGURA GEOMÉTRICA
+
+inserir uma figura como a abaixo, mas sendo uma parte rosa SOBRE a faixa amarela (não precisa ser na ponta!) 
+{{ :cap3:secoes:faixas.jpg?300 |}}
+
+</WRAP>
+
+
+c) Se justapomos dois pedaços rosa sobre a faixa amarela, que fração da faixa amarela ficará coberta? E que fração ficará descoberta?
+
+d)	Faça o mesmo para três e quatro pedaços, respondendo a cada vez: que fração da faixa amarela ficará coberta? E que fração ficará descoberta? 
+
+e) Uma faixa foi dividida em 13 partes iguais e 5 delas foram cobertas. Que fração da faixa amarela ficou descoberta? Explique como você chegou a esse resultado. 
+
+

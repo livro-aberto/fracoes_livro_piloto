@@ -1,0 +1,11 @@
+
+==== Atividade ====
+Cada uma das figuras abaixo possui uma parte colorida e outra mais clara. Identifique a fração da figura que a parte colorida representa em cada um dos casos sabendo que só pode haver as frações 1/2, 1/3 e 1/5.
+
+<WRAP imagem> {{ :cap1:20160311_064049.jpg?500 |}} </WRAP>
+
+<WRAP resposta> (A)$\frac{1}{2}$,  (B)$\frac{1}{5}$, (C)$\frac{1}{3}$, (D)$\frac{1}{3}$,\\
+(E)$\frac{1}{5}$, (F)$\frac{1}{3}$, (G)$\frac{1}{2}$, (H)$\frac{1}{5}$,\\
+(I)$\frac{1}{3}$, (J)$\frac{1}{2}$, (L)$\frac{1}{5}$, (M)$\frac{1}{3}$</WRAP>
+
+<WRAP professor> Este exercício objetiva que o estudante ganhe fluência para estimar quantidades usando a linguagem de frações em situações diversas. Como consequência espera-se que eles consigam observar que $\frac{1}{5} <\frac{1}{3} <\frac{1}{2}$.</WRAP>

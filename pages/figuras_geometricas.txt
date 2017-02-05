@@ -1,0 +1,101 @@
+====== Figuras geométricas ======
+
+Neste ambiente você pode colaborar elaborando figuras geométricas para o Livro Aberto de Matemática. 
+Caso decida colaborar com alguma figura, coloque seu nome na lista abaixo e, por favor, respeite o prazo estipulado. 
+Você precisa se cadastrar para editar a tabela. 
+O cadastro é feito no canto superior direito desta página onde está escrito "Cadastre-se".
+Uma vez logado, você poderá editar no link "Editar esta página" na barra lateral direita.
+Você receberá os créditos pela figura, mas ao postar está atestando que é o autor da figura e cedendo os direitos patrimoniais dela ao IMPA.
+
+As figuras devem ser elaboradas em Tikz:
+
+===== Tikz =====
+
+Tikz é uma linguagem para fazer figuras.
+Usando essa linguagem podemos desenhar figuras geométricas com muita precisão e posteriormente fazer mudanças sem muito trabalho.
+
+Para quem quiser aprender mais sobre o Tikz:
+  * Um lugar para fazer suas primeiras figuras em Tikz ([[https://www.overleaf.com/5580925mnmxfq|link]])
+  * Um exemplo de figura desse livro já feita em Tikz ([[https://www.overleaf.com/5580912gcpbtn|link]])
+  * Um exemplo comentado de figuras ([[https://latexbr.blogspot.com.br/2011/01/desenhando-com-tikz.html|link]])
+  * As figuras aprovadas (clicando em 'link' nas tabelas abaixo) são bons exemplos.
+  * Um editor de Tikz gratuito para baixar (Windows) ([[http://www.tikzedt.org/|link]])
+  * Muitos exemplos de figuras em Tikz (Inglês) ([[http://www.texample.net/|link]])
+  * Manual do Tikz (Inglês) ([[http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf|link]])
+  * Geogebra exporta para Tikz: vá em Arquivo -> Exportar -> Tikz. ([[https://pt.sharelatex.com/blog/2013/08/28/tikz-series-pt2.html|link]]) Atenção: os códigos gerados podem ser tão complicados que não valha a pena serem aproveitados. 
+
+===== Lista de figuras =====
+
+Numa atividade as figuras correspondentes a diferentes itens devem ser enviadas em arquivos separados.
+
+^ [[cap1:texto|Lição 1]] - Prazo: 3 dias após colocar o nome.  ^ link                                                    ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. A figura deve ser colocada no link à esquerda  ^ status    ^
+| Atividade [[cap1:secoes:ativ_retangulos_coloridos]]          | [[figuras:cap1:secoes:ativ_retangulos_coloridos|link]]  | Gisela Alves de Souza                                                                                                   | aprovado  |
+| Atividade [[cap1:secoes:ativ_ident_terco]]                   | [[figuras:cap1:secoes:ativ_ident_terco|link]]           | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap1:secoes:ativ_recomportodo]]                  | [[figuras:cap1:secoes:ativ_recomportodo|link]]          | Maurício de Azevedo Neto                                                                                                | aprovado  |
+| Atividade [[cap1:secoes:ativ_desenhar]]                      | [[figuras:cap1:secoes:ativ_desenhar|link]]              | Briza Aiki Matsumura                                                                                                    | postado   |
+| Atividade [[cap1:secoes:ativ_hexag]]                         | [[figuras:cap1:secoes:ativ_hexag|link]]                 | Briza Aiki Matsumura                                                                                                    | aprovado  |
+| Atividade [[cap1:secoes:ativ_meioemeio]]                     | [[figuras:cap1:secoes:ativ_meioemeio|link]]             | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap1:secoes:ativ_variadas]]                      | [[figuras:cap1:secoes:ativ_variadas|link]]              | vitoria da mota souza                                                                                                   | aprovado  |
+| Atividade [[cap1:secoes:ativ_visual_linguagem]]              | [[figuras:cap1:secoes:ativ_visual_linguagem|link]]      | Fabio Simas                                                                                                             | aprovado  |
+
+
+^ [[cap2:texto|Lição 2]] - Prazo: 3 dias após por o nome             ^ link                                                                  ^ Autor \\ Ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status    ^
+| Atividade [[cap2:secoes:explorando:mais:de:uma:barra]]             | [[figuras:cap2:secoes:explorando_mais_de_uma_barra|link]]             | Vinicius Marcondes de Paula Silva                                                                       | aprovado  |
+| Atividade [[cap2:secoes:explorando:papel:tortas:salgadas]]         | [[figuras:cap2:secoes:explorando_papel_tortas_salgadas|link]]         | Vinicius Marcondes de Paula Silva                                                                                                        |  postado   |
+| Atividade [[cap2:secoes:explorando_atividade_entender_linguagem]]  | [[figuras:cap2:secoes:explorando_atividade_entender_linguagem|link]]  | Fabio Simas                                                                                             | aprovado  |
+| Organizando as Ideias [[cap2:secoes:conexoes]]                     | [[figuras:cap2:secoes:conexoes|link]]                                 | Fabio Simas                                                                                             | aprovado  |
+| Atividade [[cap2:secoes:atividade_poder_da_notacao]]               | [[figuras:cap2:secoes:atividade_poder_da_notacao|link]]               | Wanessa Souza de Oliveira                                                                               | aprovado  |
+| Atividade [[cap2:secoes:atividade_comparar_com_um_meio]]           | [[figuras:cap2:secoes:atividade_comparar_com_um_meio|link]]           | Fabio Simas                                                                                             | aprovado  |
+| Atividade [[cap2:secoes:atividade_comparacao_de_fracoes]]          | [[figuras:cap2:secoes:atividade_comparacao_de_fracoes|link]]          | Maurício de Azevedo Neto                                                                                | postado   |
+| Atividade [[cap2:secoes:atividade_pinte]]                          | [[figuras:cap2:secoes:atividade_pinte|link]]                          | Mauricio Menegatti Andrade                                                                              | aprovado  |
+| Atividade [[cap2:secoes:atividade_pinte2]]                         | [[figuras:cap2:secoes:atividade_pinte2|link]]                         | Fabio Simas                                                                                             | aprovado  |
+| Atividade [[cap2:secoes:atividade_copos_de_agua]]                  | [[figuras:cap2:secoes:atividade_copos_de_agua|link]]                  | Fabio Simas                                                                                             | aprovado  |
+| Atividade [[cap2:secoes:atividade_complete]]                       | [[figuras:cap2:secoes:atividade_complete|link]]                       | Fabio Simas                                                                                             | aprovado  |
+| Atividade [[cap2:secoes:atividade_importancia_da_unidade]]         | [[figuras:cap2:secoes:atividade_importancia_da_unidade|link]]         | Maurício de Azevedo Neto                                                                                | aprovado  |
+| Atividade [[cap2:secoes:atividade_sera_tres_quintos]]              | [[figuras:cap2:secoes:atividade_sera_tres_quintos|link]]              | Eduardo Filipe de Miranda Souto                                                                         | aprovado  |
+| Atividade [[cap2:secoes:atividade_tres_setimos_ou_tres_quartos]]   | [[figuras:cap2:secoes:atividade_tres_setimos_ou_tres_quartos|link]]   | Eduardo Filipe de Miranda Souto                                                                         | aprovado  |
+| Atividade [[cap2:secoes:atividade_tres_quintos_ou_cinco_tercos]]   | [[figuras:cap2:secoes:atividade_tres_quintos_ou_cinco_tercos|link]]   | Eduardo Filipe de Miranda Souto                                                                         | aprovado  |
+
+Nas tabelas abaixo, por favor, coloque seu nome em apenas uma das figuras até que o código da mesma seja postado no local correspondente. Isso vai favorecer que mais pessoas possam colaborar.
+
+^ [[cap3:texto|Lição 3]] - Prazo: 3 dias após por o nome  ^ link                                                       ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. A figura deve ser colocada no link à esquerda  ^ status    ^
+| [[cap3:secoes:preambulo|Preâmbulo da lição]]            | [[figuras:cap3:secoes:preambulo|link]]                     | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:texto#ativ_reta_naturais_racionais]]   | [[figuras:cap3:secoes:ativ_reta_naturais_racionais|link]]  | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:texto#ativ_grad_unidade6]]             | [[figuras:cap3:secoes:ativ_grad_unidade6|link]]            | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:texto#ativ_reta1_unidade6]]            | [[figuras:cap3:secoes:ativ_reta1_unidade6|link]]           | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:texto#ativ_grad_unidade2]]             | [[figuras:cap3:secoes:ativ_grad_unidade2|link]]            | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:texto#ativ_grad_unidade]]              | [[figuras:cap3:secoes:ativ_grad_unidade|link]]             | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:secoes:ativ_comparacao2]]              | [[figuras:cap3:secoes:ativ_comparacao2|link]]              | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:secoes:ativ_comparacao4]]              | [[figuras:cap3:secoes:ativ_comparacao4|link]]              | Lívia Machado da Silveira Verly                                                                                         | aprovado  |
+| [[cap3:secoes:conexoes|Organizando as ideias]]          | [[figuras:cap3:secoes:conexoes|link]]                      | Fabio Simas                                                                                                             | aprovado  |
+| Atividade [[cap3:secoes:ativ_varal_dos_numeros]]        | [[figuras:cap3:secoes:ativ_varal_dos_numeros|link]]        |                                                                                                                         |           |
+| Atividade [[cap3:secoes:ativ_fracoes_na_reta]]          | [[figuras:cap3:secoes:ativ_fracoes_na_reta|link]]          | Maurício Menegatti Andrade                                                                                              | postado   |
+| Atividade [[cap3:secoes:ativ_reta_numerada]]            | [[figuras:cap3:secoes:ativ_reta_numerada|link]]            | Maurício Menegatti Andrade                                                                                              | postado   |
+| Atividade [[cap3:secoes:ativ_grad_unidade4]]            | [[figuras:cap3:secoes:ativ_grad_unidade4|link]]            |Vinicius Marcondes de Paula Silva                                                                                                                         |postado           |
+| Atividade [[cap3:secoes:ativ_grad_unidade5]]            | [[figuras:cap3:secoes:ativ_grad_unidade5|link]]            | Maurício Menegatti Andrade                                                                                              | postado   |
+
+
+^ [[cap4:texto|Lição 4]] - Prazo: 3 dias após por o nome  ^ link                                                 ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. \\ A figura deve ser colocada no link à esquerda  ^ status    ^
+| Atividade [[cap4:secoes:sanduiches]]                    | [[figuras:cap4:secoes:sanduiches|link]]              | Caio Felipe da Silva Evangelista                                                                                           | aprovado  |
+| Atividade [[cap4:secoes:preencha]]                      | [[figuras:cap4:secoes:preencha|link]]                | Lucas Hideo Maekawa                                                                                                        | aprovado  |
+| Atividade [[cap4:secoes:preencha_fita]]                 | [[figuras:cap4:secoes:preencha_fita|link]]           | Lucas Oliveira Machado de Sousa                                                                                            | aprovado  |
+| Atividade [[cap4:secoes:divisao_escondida]]             | [[figuras:cap4:secoes:divisao_escondida|link]]       | Wanessa Souza de Oliveira                                                                                                  | aprovado  |
+| Atividade [[cap4:secoes:reta_numerica]]                 | [[figuras:cap4:secoes:reta_numerica|link]]           | Kayky Zigart Carlos                                                                                                        | aprovado  |
+| Atividade [[cap4:secoes:varios_modelos]]                | [[figuras:cap4:secoes:varios_modelos|link]]          | Briza Aiki Matsumura                                                                                                       | aprovado  |
+| Atividade [[cap4:secoes:equivalencia_pint]]             | [[figuras:cap4:secoes:equivalencia_pint|link]]       | Kayky Zigart Carlos                                                                                                        | aprovado  |
+| Atividade [[cap4:secoes:equivalencia_menor]]            | [[figuras:cap4:secoes:equivalencia_menor|link]]      | Briza Aiki Matsumura                                                                                                       | postado   |
+| Atividade [[cap4:secoes:equivalencia_panquecas]]        | [[figuras:cap4:secoes:equivalencia_panquecas|link]]  | Lucas Hideo Maekawa                                                                                                        | aprovado  |
+| Atividade [[cap4:secoes:equivalencia_jogo]]             | [[figuras:cap4:secoes:equivalencia_jogo|link]]       | Lucas Oliveira Machado de Sousa                                                                                            | aprovado  |
+| Refletindo [[cap4:texto#preencha_refletindo]]           | [[figuras:cap4:secoes:equivalencia_jogo|link]]       | Israel Fialho Magalhães                                                                                                    | aprovado  |
+| Refletindo [[cap4:texto#reta_numerica_refletindo]]      | [[figuras:cap4:secoes:equivalencia_jogo|link]]       | Israel Fialho Magalhães                                                                                                    | aprovado  |
+
+
+
+^ [[cap5:texto|Lição 5]] - Prazo: 3 dias após por o nome  ^ link                                         ^ Autor \\ Clique em editar e ponha o seu nome na figura que deseja fazer. A figura deve ser colocada no link à esquerda.  ^ status   ^
+| [[cap5:secoes:preambulo|Preâmbulo da lição]]            | [[figuras:cap5:preambulo|link]]              | Maurício de Azevedo Neto                                                                                                 | postado  |
+| Atividade [[cap5:ativ:fitas]]                           | [[figuras:cap5:ativ:fitas|link]]             | Maurício de Azevedo Neto                                                                                                 | postado  |
+| Atividade [[cap5:ativ:unidade2]]                        | [[figuras:cap5:ativ:unidade2|link]]          | Wanessa Souza de Oliveira                                                                                                | postado  |
+| Atividade [[cap5:ativ:unidade3]]                        | [[figuras:cap5:ativ:unidade3|link]]          | Maurício de Azevedo Neto                                                                                                 | postado  |
+| Atividade [[cap5:ativ:mesma_subunidade]]                | [[figuras:cap5:ativ:mesma_subunidade|link]]  | Maurício de Azevedo Neto                                                                                                 | postado  |
+| Atividade [[cap5:ativ:reta_mais]]                       | [[figuras:cap5:ativ:reta_mais|link]]         | Briza Aiki Matsumura                                                                                                     | postado  |
+| Atividade [[cap5:ativ:reta_menos]]                      | [[figuras:cap5:ativ:reta_menos|link]]        | Maurício Mengatti Andrade                                                                                                | postado  |

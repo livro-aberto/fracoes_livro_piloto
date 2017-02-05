@@ -1,0 +1,13 @@
+;;#
+Ir para [[cap5:texto#organizando_as_ideias]]
+;;#
+
+No caso de quantidades expressas por meio de frações de uma unidade dada, para comparar, determinar a soma ou determinar a diferença, é necessário uma **subdivisão da unidade** com a qual seja possível expressar ambas as quantidades. Por exemplo:
+  * Na Atividade 3, a subdivisão da unidade considerada, barra de chocolate permitiu expressar as quantidades de chocolate comidas por Alice e por Miguel a partir da contagem da mesma subdivisão da unidade. A partir dessa estratégia foram determinadas a quantidade de chocolate comidas por Alice e Miguel juntos, bem como a quantidade de chocolate restante. 
+  * Na Atividade 4, a unidade é uma pizza e a fatia de pizza é uma subdivisão dessa unidade. Neste caso, pôde-se expressar todas as frações de pizza consumidas por Amanda, Bruno e Caio a partir contagem dessas fatias (subdivisões da unidade). Relembrando:
+$$\dfrac{1}{6} = \dfrac{2}{12} 	\quad \quad \dfrac{3}{4} = \dfrac{9}{12} \quad \quad \dfrac{2}{3} = \dfrac{8}{12}.$$
+
+
+Como os exemplos acima ilustram, a escolha adequada de uma subdivisão da unidade que permita representar as frações dadas com um mesmo denomindador foi a estratégia usada para calcular a adição e a subtração dessas frações. É exatamente essa estratégia que usaremos para calcular adição e subtração de frações em geral. 
+
+$$\dfrac{1}{6} + \dfrac{3}{4} = \dfrac{2}{12} + \dfrac{9}{12} = \dfrac{11}{12}.$$

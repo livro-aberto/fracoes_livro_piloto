@@ -1,0 +1,45 @@
+;;#
+Ir para [[cap1:texto#ativ_variadas]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a 
+  * Conhecer e compreender as expressões correspondentes as frações unitárias com denominadores de 5 a 10.
+  * Comparar frações da unidade através da representação visual de frações do círculo.
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Esta atividade pode ser resolvida individualmente, mas é essencial que seja discutida com toda a turma.  
+  * É provável que nem todos os alunos conheçam ou intuam as expressões correspondentes às frações propostas. Nesse caso, cabe ao professor apresentá-las e diferenciá-las.
+  * Aproveite esta atividade para revisar e discutir o vocabulário que é objetivo nesta seção: //unidade,// //metade,// //um meio,// //um terço,// //terça parte,// //um quarto,// //quarta parte,// //um quinto,// //quinta parte,// //um sexto,// //sexta parte,// //um sétimo,// //sétima parte,// //um oitavo,// //oitava parte,// //um nono,// //nona parte,// //um décimo// e //décima parte//.
+  * Os Círculos de Frações, utilizados na Atividade 10, podem amaparar a realização desta atividade. No entanto, aqui as frações unitárias não estão distinguidas pela cores.
+
+</WRAP>
+</hidden>
+
+Nas figuras a seguir, um mesmo círculo aparece diferentemente dividido em partes iguais. 
+  - Complete as sentenças a seguir identificando os círculos que as tornam verdadeiras. 
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um quinto do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é a sexta parte do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um sétimo do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um oitavo do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é a nona parte do círculo.
+    -	A parte colorida do círculo na figura _ _ _ _ _ é um décimo do círculo.\\ {{ :cap1:ativ_variadas.png?600 |}}\\
+  - Dentre as frações do círculo apresentadas, identifique uma que seja menor do que um sexto do círculo.
+  - Dentre as frações do círculo apresentadas, identifique uma que seja maior do que um nono do círculo.
+  - Identifique uma fração do círculo que seja menor do que um sexto e maior do que um nono do círculo.
+
+<hidden Resposta>
+<WRAP resposta>
+  - A correspondência adequada é:
+    - A esta afirmação corresponde a figura G).
+    - A esta afirmação corresponde a figura D).
+    - A esta afirmação corresponde a figura I).
+    - A esta afirmação corresponde a figura B).
+    - A esta afirmação corresponde a figura A).
+    - A esta afirmação corresponde a figura F).
+  - As frações um sétimo, um oitavo, um nono e um décimo do círculo são menores que um sexto do círculo. Qualquer uma delas está correta.
+  - As frações um meio, um terço, um quarto, um quinto, um sexto, um sétimo e um oitavo do círculo são maiores que um nono do círculo. Qualquer uma delas está correta.
+  - As frações um sétimo e um oitavo do círculo são menores que um sexto e maiores que um nono do círculo.
+</WRAP>
+</hidden>

@@ -1,0 +1,29 @@
+;;#
+Ir para [[cap3:texto#ativ_grad_unidade2]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor> 
+Objetivos específicos: Levar o aluno a
+  * Identificar, na reta numérica e a partir de modelos contínuos, os pontos correspondentes às frações da unidade do tipo $\frac{1}{b}$ e $\frac{a}{b}$, para $a>0$.
+  * Mais especficamente, identificar na reta numérica e a partir de um modelo contínuo, os pontos correspondentes às frações da unidade $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$.
+  
+Recomendações e sugestões para o desenvolvimento da atividade:
+ 
+  * Atividade individual, mas a discussão das respostas deve ser feita com toda a turma.
+  * Estimule seus alunos a explicarem a resposta dada.  
+  * Espera-se que o aluno compreenda a diferença entre representar uma fração da unidade a partir de um modelo contínuo (no caso, uma faixa retangular) e na reta numérica. No primeiro caso, a região colorida identifica a fração da unidade. No entanto, na reta, a fração da unidade é associada a um único ponto (no caso, observando a justaposição de segmentos congruentes correspondentes a $\frac{1}{5}$ do segmento unitário). 
+  * Observe que as faixas organizadas uma acima da outra estão alinhadas à esquerda, garantido a correspondência entre as frações da unidade destacadas. 
+  * No item (b) espera-se que os alunos identifiquem a faixa inteira como $\frac{5}{5}$ da unidade ou como a unidade inteira, portanto, igual a 1. Cabe aqui registrar a igualdade $\frac{5}{5}=1$. 
+</WRAP>
+</hidden>
+
+A faixa a seguir está dividida em 5 partes iguais. 
+{{ :cap3:secoes:cap3-12.png?nolink&340 |}}
+  - Considerando a faixa como unidade, escreva na reta numérica a fração correspondente a cada uma das regiões coloridas.\\ {{ :cap3:secoes:cap3-13.png?nolink&400 |}}
+  - Escreva, em linguagem simbólica, a fração correspondente à faixa inteira. De que outra maneira é possível indicar essa quantidade? 
+
+<hidden Resposta>
+  - \\ <WRAP IMAGEM> FIGURAS GEOMÉTRICAS - Incluir imagem da reta que aparece na figura {{ :cap3:secoes:quintos.png?300 |}} completa com as indicações das frações $\frac{1}{5}$, $\frac{2}{5}$, $\frac{3}{5}$ e $\frac{4}{5}$ </WRAP>
+  - A faixa inteira é igual a cinco quintos. Esta fração pode ser representada simbolicamente como $\frac{5}{5}$. A fração $\frac{5}{5}$ da barra é igual a uma barra inteira, isto é, $\frac{5}{5}=1$. 
+</hidden>

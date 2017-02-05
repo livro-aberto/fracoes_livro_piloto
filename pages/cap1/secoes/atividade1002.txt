@@ -1,0 +1,93 @@
+==== Atividade ====
+
+<WRAP professor> Objetivos: 
+    * adquirir fluência em representar frações unitárias em malha quadriculada.
+    * servir de pano de fundo para a próxima questão.
+
+A escolha pelo retângulo quadriculado serve para que os estudantes representem de maneira diversa as frações valendo-se da partição pré-estabelecida. Embora ele possa não pintar inteiramente cada quadradinho, por exemplo para representar a metade  ele poderia traçar uma diagonal e pintar a parte debaixo da diagonal e não haveria problema.
+</WRAP>
+
+As figuras abaixo apresentam 6 retângulos quadriculados de 6 por 10 quadradinhos. Em cada um deles represente a fração indicada do retângulo original utlizando a cor correspondente:
+
+a) meio ou metade do retângulo em amarelo.
+<WRAP imagem> Criar quadriculado com quadradinhos (mesmos lados) em todas as figuras abaixo. É importante que sejam brancos os conteúdos. 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+b) um décimo do retângulo em vermelho. 
+<WRAP imagem>
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+
+c) um sexto do retângulo em azul
+<WRAP imagem>
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+
+d) a terça parte do retângulo em verde.
+<WRAP imagem>
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+
+e) a quinta parte do retângulo em rosa.
+<WRAP imagem>
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+
+f) um quarto do retângulo em laranja.
+<WRAP imagem>
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+|  |  |  |  |  |  |  |  |  |  | 
+</WRAP>
+
+<hidden Resposta>
+<WRAP resposta>
+Estas são algumas das respostas possíveis para cada um  dos itens:
+<WRAP imagem> a)
+</WRAP>
+<WRAP imagem> b)
+</WRAP>
+<WRAP imagem> c)
+</WRAP>
+<WRAP imagem> d)
+</WRAP>
+<WRAP imagem> e)
+</WRAP>
+<WRAP imagem> f)
+</WRAP>
+
+</WRAP>
+</hidden>

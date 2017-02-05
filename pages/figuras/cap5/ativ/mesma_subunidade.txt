@@ -1,0 +1,100 @@
+Figura 1:
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{ffffqq}{rgb}{1.,1.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-6.06,-3.66) rectangle (16.94,7.98);
+\fill[color=ffffqq,fill=ffffqq,fill opacity=1.0] (0.,0.) -- (0.,6.) -- (6.,6.) -- (6.,0.) -- cycle;
+\fill[color=ffffqq,fill=ffffqq,fill opacity=1.0] (6.,6.) -- (8.,6.) -- (8.,3.) -- (6.,3.) -- cycle;
+\fill[color=ffffff] (6.,3.) -- (6.,0.) -- (8.,0.) -- (8.,3.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (8.,6.) -- (10.,6.) -- (10.,0.) -- (8.,0.) -- cycle;
+\draw [color=ffffqq] (0.,0.)-- (0.,6.);
+\draw [color=ffffqq] (0.,6.)-- (6.,6.);
+\draw [color=ffffqq] (6.,6.)-- (6.,0.);
+\draw [color=ffffqq] (6.,0.)-- (0.,0.);
+\draw [color=ffffqq] (6.,6.)-- (8.,6.);
+\draw [color=ffffqq] (8.,6.)-- (8.,3.);
+\draw [color=ffffqq] (8.,3.)-- (6.,3.);
+\draw [color=ffffqq] (6.,3.)-- (6.,6.);
+\draw [color=ffffff] (6.,3.)-- (6.,0.);
+\draw [color=ffffff] (6.,0.)-- (8.,0.);
+\draw [color=ffffff] (8.,0.)-- (8.,3.);
+\draw [color=ffffff] (8.,3.)-- (6.,3.);
+\draw [color=ffffff] (8.,6.)-- (10.,6.);
+\draw [color=ffffff] (10.,6.)-- (10.,0.);
+\draw [color=ffffff] (10.,0.)-- (8.,0.);
+\draw [color=ffffff] (8.,0.)-- (8.,6.);
+\draw (0.,6.)-- (10.,6.);
+\draw (10.,6.)-- (10.,0.);
+\draw (10.,0.)-- (0.,0.);
+\draw (0.,0.)-- (0.,6.);
+\draw (0.,3.)-- (10.,3.);
+\draw (8.,6.)-- (8.,0.);
+\draw (6.,6.)-- (6.,0.);
+\draw (4.,0.)-- (4.,6.);
+\draw (2.,0.)-- (2.,6.);
+\begin{scriptsize}
+\draw[color=ffffqq] (7.08,5.9) node {$c_1$};
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>
+
+Figura 2:
+
+<code latex>
+\begin{tikzpicture}
+\documentclass[10pt]{article}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+\pagestyle{empty}
+\begin{document}
+\definecolor{ffffff}{rgb}{1.,1.,1.}
+\definecolor{ffqqqq}{rgb}{1.,0.,0.}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-6.06,-3.66) rectangle (16.94,7.98);
+\fill[color=ffqqqq,fill=ffqqqq,fill opacity=1.0] (0.,0.) -- (0.,6.) -- (6.,6.) -- (6.,0.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=1.0] (6.,6.) -- (8.,6.) -- (8.,3.) -- (6.,3.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.2] (6.,3.) -- (6.,0.) -- (8.,0.) -- (8.,3.) -- cycle;
+\fill[color=ffffff,fill=ffffff,fill opacity=0.1] (8.,6.) -- (10.,6.) -- (10.,0.) -- (8.,0.) -- cycle;
+\draw [color=ffqqqq] (0.,0.)-- (0.,6.);
+\draw [color=ffqqqq] (0.,6.)-- (6.,6.);
+\draw [color=ffqqqq] (6.,6.)-- (6.,0.);
+\draw [color=ffqqqq] (6.,0.)-- (0.,0.);
+\draw [color=ffffff] (6.,6.)-- (8.,6.);
+\draw [color=ffffff] (8.,6.)-- (8.,3.);
+\draw [color=ffffff] (8.,3.)-- (6.,3.);
+\draw [color=ffffff] (6.,3.)-- (6.,6.);
+\draw [color=ffffff] (6.,3.)-- (6.,0.);
+\draw [color=ffffff] (6.,0.)-- (8.,0.);
+\draw [color=ffffff] (8.,0.)-- (8.,3.);
+\draw [color=ffffff] (8.,3.)-- (6.,3.);
+\draw [color=ffffff] (8.,6.)-- (10.,6.);
+\draw [color=ffffff] (10.,6.)-- (10.,0.);
+\draw [color=ffffff] (10.,0.)-- (8.,0.);
+\draw [color=ffffff] (8.,0.)-- (8.,6.);
+\draw (0.,6.)-- (10.,6.);
+\draw (10.,6.)-- (10.,0.);
+\draw (10.,0.)-- (0.,0.);
+\draw (0.,0.)-- (0.,6.);
+\draw (8.,6.)-- (8.,0.);
+\draw (6.,6.)-- (6.,0.);
+\draw (4.,0.)-- (4.,6.);
+\draw (2.,0.)-- (2.,6.);
+\begin{scriptsize}
+\draw[color=ffffff] (7.08,5.9) node {$c_1$};
+\end{scriptsize}
+\end{tikzpicture}
+\end{document}
+\end{tikzpicture}
+</code>

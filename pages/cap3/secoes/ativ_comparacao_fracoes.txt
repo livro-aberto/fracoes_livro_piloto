@@ -1,0 +1,73 @@
+;;#
+Ir para [[cap3:texto#ativ_comparacao_fracoes]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+
+Objetivo específico: 
+  * Comparação de frações.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+   - Recomenda-se que esta atividade seja realizada individualmente. No entanto, a discussão das resposta deve ser feita com toda a turma. Estimule seus alunos a explicarem suas respostas.
+   - Nesta atividade, as frações são apresentadas apenas em sua representação simbólica na forma $\frac{a}{b}$. Espera-se que os alunos consigam compará-las a partir da ideia de quantidade, sem necessariamente recorrer às representações em modelos contínuos ou na reta numérica. Assim, por exemplo, a comparação entre $\frac{1}{2}$ e $\frac{1}{3}$ fica estabelecida pelo fato de que a primeira identifica uma das partes da equipartição da unidade por dois, enquanto que $\frac{1}{3}$ identifica uma das partes da equipartição da mesma unidade por três. Logo, $\frac{1}{2}$ > $\frac{1}{3}$. 
+   - No entanto, é importante observar que alguns alunos podem precisar do apoio das demais representações citadas. A discussão de cada item deve ser amparada por pelo menos as três estratégias destacadas: (i) argumentação verbal amparada pela ideia de quantidade; (ii) representação em modelos contínuos e (iii) representação na reta numérica. \\ Por exemplo, na correção do item (a), entre $\frac{3}{6}$ e $\frac{5}{6}$, espera-se que a discussão contemple: \\ (i) o fato de que, como essas frações indicam quantidades de "sextos", a menor (maior) é aquela que têm menor (maior) numerador. Portanto, $\frac{3}{6}$ < $\frac{5}{6}$. \\ (ii) A representação em modelos contínuos: {{ :cap3:secoes:comparacao_sextos.jpg?300 |}}  \\ (iii) a reprsentação na reta numérica {{ :cap3:secoes:sextos_na_reta.png?300 |}}.
+   - ** Recomenda-se fortemente que os alunos sejam convidados a compartilharem com a turma as suas estratégias e que se possível, na discussão de cada item, o professor ampare a reflexão com as representações em modelos cotínuos e na reta numérica que emergirem dessa participação**. No entanto, se isso não acontecer, o professor deve apresentá-las.  
+   - Observe que os primeiros itens envolvem a comparação entre frações que têm o mesmo denminador. Portanto, a comparação se estabelece a partir da comparacão entre os numeradores, amparada pelo entendimento de que quanto menor (maior) a quantidade de partes iguais, menor (maior) a fração.
+   - Os itens seguintes envolvem a comparação de frações com o mesmo numerador. Portanto, a acomparação se estabelece a partir da comparação entre os numeradores, amparada pelo entendimento de que quanto maior (menor) o denominador, menor (maior) a parte da unidade.
+   - Os itens do último bloco envolvem a comparação de frações tendo um terceiro a comaparção com a unidade como referência. Por exemplo, tem-se que $\frac{9}{8}$ > 1. Já $\frac{9}{10}$ < 1. Portanto, $\frac{9}{10}$ < $\frac{9}{8}$.
+
+</WRAP> 
+</hidden>
+
+
+Complete as sentenças a seguir com os sinais $>$ (maior), $<$ (menor) ou $=$ (igual) de modo a torná-las verdadeiras. 
+
+^     ^   |   |   |
+| a)  |  $\frac{3}{6}$     |   |  $\frac{5}{6}$     |
+| b)  |  $\frac{5}{9}$     |   |  $\frac{4}{9}$     |
+| c)  |  $\frac{7}{10}$    |   |  $\frac{9}{10}$    |
+| d)  |  $\frac{3}{12}$    |   |  $\frac{9}{12}$    |
+| e)  |  $\frac{39}{100}$  |   |  $\frac{25}{100}$  |
+|     |   |   |   |
+| f)  |  $\frac{1}{2}$     |   |  $\frac{1}{3}$     |
+| g)  |  $\frac{1}{7}$     |   |  $\frac{1}{6}$     |
+| h)  |  $\frac{2}{5}$     |   |  $\frac{2}{7}$     |
+| i)  |  $\frac{4}{5}$     |   |  $\frac{4}{3}$     |
+| j)  |  $\frac{12}{15}$   |   |  $\frac{12}{7}$    |
+| l)  |  $\frac{22}{80}$   |   |  $\frac{22}{90}$   |
+|   |   |   |   |
+| m)  |  $\frac{3}{2}$     |   |  $\frac{2}{5}$     |
+| n)  |  $\frac{3}{4}$     |   |  $\frac{6}{5}$     |
+| o)  |  $\frac{7}{8}$     |   |  $\frac{10}{9}$    |
+| p)  |  $\frac{6}{5}$     |   |  $\frac{12}{9}$    |
+| q)  |  $\frac{4}{5}$     |   |  $\frac{5}{4}$     |
+| r)  |  $\frac{35}{40}$   |   |  $\frac{30}{25}$   |
+| s)  |  $\frac{99}{100}$  |   |  $\frac{3}{2}$     |
+ 
+
+<hidden Resposta>
+<WRAP resposta>
+| a)  |  $\frac{5}{9}$     |  >  |  $\frac{4}{9}$     |
+| b)  |  $\frac{3}{6}$     |  <  |  $\frac{5}{6}$     |
+| c)  |  $\frac{7}{10}$    |  <  |  $\frac{9}{10}$    |
+| d)  |  $\frac{3}{12}$    |  <  |  $\frac{9}{12}$    |
+| e)  |  $\frac{39}{100}$  |  >  |  $\frac{25}{100}$  |
+|     |   |   |   |
+| f)  |  $\frac{1}{2}$     |  >  |  $\frac{1}{3}$     |
+| g)  |  $\frac{1}{7}$     |  <  |  $\frac{1}{6}$     |
+| h)  |  $\frac{2}{5}$     |  >  |  $\frac{2}{7}$     |
+| i)  |  $\frac{4}{5}$     |  <  |  $\frac{4}{3}$     |
+| j)  |  $\frac{12}{15}$   |  <  |  $\frac{12}{7}$    |
+| l)  |  $\frac{22}{80}$   |  >  |  $\frac{22}{90}$   |
+|   |   |   |   |
+| m)  |  $\frac{3}{2}$     |  >  |  $\frac{2}{5}$     |
+| n)  |  $\frac{3}{4}$     |  <  |  $\frac{6}{5}$     |
+| o)  |  $\frac{7}{8}$     |  <  |  $\frac{10}{9}$    |
+| p)  |  $\frac{6}{5}$     |  >  |  $\frac{12}{9}$    |
+| q)  |  $\frac{4}{5}$     |  <  |  $\frac{5}{4}$     |
+| r)  |  $\frac{35}{40}$   |  <  |  $\frac{30}{25}$   |
+| s)  |  $\frac{99}{100}$  |  <  |  $\frac{3}{2}$     |
+
+</WRAP>
+</hidden>

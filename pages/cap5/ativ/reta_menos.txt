@@ -1,0 +1,45 @@
+;;#
+Ir para [[cap5:texto#reta_menos]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * aprofundar a familiaridade dos alunos com a representação na reta;
+  * explorar a propriedade de densidade dos pontos que representam frações na reta numérica.
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Caso os alunos tenham dificuldades em pensar sobre as soluções das tarefas propostas, o professor pode propor e explorar tarefas análogas com números naturais, empregando, por exemplo, a primeira figura.
+  * O item b) visa especificamente dar continuidade à discussão sobre densidade dos números racionais na reta, que foi introduzida na lição 4. A partir da escrita de frações como $\frac{15}{12}$ e $\frac{22}{12}$ pode não ser difícil para os alunos observar os seis números $\frac{16}{12}$, $\frac{17}{12}$, $\frac{18}{12}$, $\frac{19}{12}$, $\frac{20}{12}$ e $\frac{21}{12}$. Uma estratégia para encontrar mais números é escrever, por exemplo, $A$ e $B$ como $\frac{30}{24}$ e $\frac{44}{24}$ e tomar $\frac{n}{24}$, com $n$ variando entre 30 e 44 está entre $A$ e $B$. A ideia é discutir com a turma que, como sempre podemos repetir esse processo, sempre poderemos encontrar mais números entre $A$ e $B$. Daí, pode-se retomar a discussão sobre frações equivalentes e sobre densidade, que foi ensejada nos últimos 3 exercícios da lição 4.
+
+</WRAP>
+</hidden>
+
+Observando a reta, Miguel conseguiu determinar o tamanho do segmento entre os dois pontos $A = 3$ e $B = 7$ marcados da seguinte forma:
+
+{{ :cap5:ativ:cap5-9.png?500 |}}
+
+Miguel calculou o tamanho do segmento azul fazendo a diferença entre o tamanho do segmento vermelho e o tamanho do segmento verde. Assim, concluiu que o tamanho do segmento AB é igual a 4.
+Usando um raciocínio parecido, e considerando $C = \frac{5}{4}$ e $D=\frac{11}{6}$, ajude Miguel a realizar as tarefas a seguir.
+
+{{ :cap5:ativ:cap5-10.png?500 |}}
+
+  - Escreva C e D a partir de uma mesma subdivisão da unidade (isto é, com o mesmo denominador).
+  - Determine seis frações que correspondam a pontos entre C e D. \\ Discuta com seus colegas se é possível determinar mais que seis valores e, se for possível, qual seria a estratégia para fazer isso.
+  - Calcule o tamanho do segmento $CD$.
+  - Determine uma fração que somada a $\frac{5}{4}$ dê um resultado menor que $\frac{11}{6}$. Justifique a sua resposta usando a reta. $$ \dfrac{5}{4} +\dfrac{\quad}{} = \dfrac{11}{6}.$$ 
+  - Encontre mais três frações possíveis para completar a expressão do item anterior. 
+  - Determine duas frações possíveis que quando somadas a $\frac{5}{4}$ tenham como resultado $\frac{11}{6}$. Justifique a sua resposta usando a reta. $$ \dfrac{5}{4} +\dfrac{\quad}{} + \dfrac{\quad}{} = \dfrac{11}{6}.$$ 
+<hidden Resposta>
+<WRAP resposta>
+  - $C=\frac{15}{12}$ e $D=\frac{22}{12}$
+  - $\frac{16}{12}$, $\frac{17}{12}$, $\frac{18}{12}$, $\frac{19}{12}$, $\frac{20}{12}$ e $\frac{21}{12}$.
+  - Se escrevermos as frações $C$ e $D $ com outro denominador comum pode ser mais fácil de observar mais que 6 frações. Por exemplo, $C=\frac{30}{24}$ e $D=\frac{44}{24}$ as frações a seguir estão entre $C$ e $D$ \\ $$\frac{31}{24}, \frac{32}{12}, \frac{33}{12}, \frac{34}{12}, \frac{35}{12}, \frac{36}{12}, \frac{37}{12}, \frac{38}{12}, \frac{39}{12}, \frac{40}{12}, \frac{41}{12}, \frac{42}{12} e \frac{43}{12}.$$ Note que conseguimos agora 13 frações entre $C$ e $D$. No entanto, se escrevermos $C$ e $D$ com o denominador 48 ainda podemos determinar mais valores. Note também que sempre podemos escolher um denominador maior de modo que encontremos mais valores. 
+  - O tamanho do segmento $CD$ é dado por $$ C – D = \frac{11}{6} - \frac{5}{4} = \frac{22}{12} - \frac{15}{12} = \frac{7}{12}.$$
+  - Podemos escolher qualquer valor menor que o segmento CD.\\   Resposta possível $\frac{5}{12}$.
+  - Outras respostas possíveis para a desigualdade necessariamente também serão dadas por quais valores menores que $\frac{7}{12}$.\\   Respostas possíveis: $ \frac{1}{12}, \frac{2}{12} \text{ e } \frac{11}{22}.$. A solução será dada por um par de valores que somados tenham o tamanhos do segmento $CD$. \\ Respostas possíveis: $\frac{4}{12}$ e $\frac{3}{12}$   ou   $\frac{5}{12}$ e $\frac{2}{12}$   ou $\frac{11}{22}$ e $\frac{3}{22}$.
+	
+
+</WRAP>
+</hidden>
+

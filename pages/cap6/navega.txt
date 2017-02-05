@@ -1,0 +1,8 @@
+====== Navegação da Lição 6 ======
+
+As páginas a seguir estão disponíveis para cada um dos capítulos do livro.
+
+   * [[cap6:texto|Texto]] - Versão atual deste capítulo. Entre aqui se você quer conhecer ou editar o texto. A versão em pdf está revisada, use-a para impressão.
+   * [[cap6:teoria|Referencial teórico para o capítulo]] - Livros e artigos que podem embasar a pesquisa para produção deste Capítulo.
+   * [[cap6:material|Referências a materiais didáticos pertinentes]] - Recursos educacionais que podem servir de modelo para alguns aspectos do capítulo. 
+

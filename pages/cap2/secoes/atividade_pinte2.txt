@@ -1,0 +1,46 @@
+;;#
+Ir para [[cap2:texto#atividade_pinte2]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivos específicos: Levar o aluno a
+  * Representar frações não unitárias descritas com notação simbólica matemática em diversos modelos de área, incluindo casos em que as subdivisões apresentadas não são determinadas pelo denominador da fração dada.
+  * Identificar a fração complementar de uma fração própria da unidade usando notação simbólica matemática.
+  * Reconhecer (e gerar) oitavos como metades de quartos, sextos como metades de terços e décimos como metades de quintos. 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Essa é uma atividade que o aluno pode fazer individualmente.
+  * Observe que os três últimos itens constituem uma extensão natural da Atividade 7 da Lição 1.
+  * Não se espera nem se recomenda que, para os três últimos itens desta atividade, os alunos usem alguma medida para fazer, de forma precisa, a partição de quartos e quintos em oitavos e décimos, respectivamente. O objetivo é que façam a partição livremente e de forma coerente. 
+  * Alunos diferentes podem pintar as partes de formas diferentes: estas, por exemplo, não precisam ser contíguas. 
+  * Procure apresentar e discutir com a turma mais do que uma solução para cada item, reforçando assim as ideias propostas nas Atividades 9 e 10 da Lição 1. 
+
+Classificações
+  * Heid et al.: Conceito: elaborar/identificar; Produto: gerar
+  * Nicely, Jr.: Nível 5: converter (simbolizar), gerar
+  * UERJ: Interpretar: discriminar, compor e decompor
+</WRAP>
+</hidden>
+
+Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura ficou sem pintar.
+
+|  Fração da figura que deve ser pintada  |  Figura  |  Fração da figura que ficou sem pintar  |
+|  $\frac{5}{6}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
+|  $\frac{3}{4}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{2}{5}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
+|  $\frac{2}{3}$  |  {{cap2:secoes:pinte-dois-tercos.png?50}}  | |
+|  $\frac{3}{8}$  |  {{cap2:secoes:pinte-tres-oitavos.png?50}}  | |
+|  $\frac{9}{10}$  |  {{cap2:secoes:pinte-nove-decimos.png?60}}  | |
+
+<hidden Resposta>
+<WRAP resposta>
+|  Fração da figura que deve ser pintada  |  Uma possível pintura para a figura                  |  Fração da figura que ficou sem pintar  |
+|  $\frac{5}{6}$                          |  {{cap2:secoes:pinte-resposta-cinco-sextos.png?50}}  |  $\frac{1}{6}$                          |
+|  $\frac{3}{4}$                          |  {{cap2:secoes:pinte-resposta-tres-quartos.png?50}}  |  $\frac{1}{4}$                          |
+|  $\frac{2}{5}$                          |  {{cap2:secoes:pinte-resposta-dois-quintos.png?60}}  |  $\frac{3}{5}$                          |
+|  $\frac{2}{3}$                          |  {{cap2:secoes:pinte-resposta-dois-tercos.png?50}}   |  $\frac{1}{3}$                          |
+|  $\frac{3}{8}$                          |  {{cap2:secoes:pinte-resposta-tres-oitavos.png?50}}  |  $\frac{5}{8}$                          |
+|  $\frac{9}{10}$                         |  {{cap2:secoes:pinte-resposta-nove-decimos.png?60}}  |  $\frac{1}{10}$                         |
+</WRAP>
+</hidden>

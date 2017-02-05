@@ -1,0 +1,73 @@
+;;#
+Ir para [[cap4:texto#equivalencia_densidade_refletindo]]
+;;#
+
+<WRAP refletindo>
+
+Nas atividades 24 e 25 você estudou uma propriedade importante do conjunto das frações:
+
+dadas quaisquer duas frações que representam diferentes quantidades, sempre é possível encontrar uma  fração entre elas. 
+
+
+Ora, se sempre é possível, como se pode então determinar uma terceira fração entre as frações dadas? Para explicar melhor o procedimento, veja primeiro um exemplo.
+
+Suponha que se quer determinar uma fração entre as frações $\frac{5}{7}$ e $\frac{3}{4}$.
+
+O primeiro passo é reescrevê-las usando um mesmo denominador:
+
+$$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28}$$
+e
+$$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28}$$
+
+Ao comparar as frações obtidas, percebe-se que $\frac{20}{28}<\frac{21}{28}$. No entanto, não se vê de imediato um exemplo de fração que seja maior que $\frac{20}{28}$ e menor que $\frac{21}{28}$. Isto ocorre porque os números 20 e 21 são consecutivos.
+
+Humm... que tal aumentar ainda mais os denominadores? Pois é isso que será feito.  Multiplique por dois os numeradores e denominadores de cada uma das frações. Veja:
+
+$$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56}$$
+e
+$$\dfrac{3}{4} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{21}{28} = \dfrac{2 \times 21}{2 \times 28} = \dfrac{42}{56}$$
+
+Agora sim. Pode-se escolher a fração $\frac{41}{56}$ como solução do problema:
+
+$$\dfrac{5}{7} = \dfrac{4 \times 5}{ 4 \times 7} = \dfrac{20}{28} = \dfrac{2 \times 20}{ 2 \times 28} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} = \dfrac{2 \times 21}{2 \times 28} =  \dfrac{21}{28} = \dfrac{7 \times 3}{ 7 \times 4} = \dfrac{3}{4}.$$
+
+De modo resumido:
+
+$$\dfrac{5}{7} = \dfrac{40}{56} < \dfrac{41}{56} < \dfrac{42}{56} =\dfrac{3}{4}.$$
+
+Fácil, não é mesmo? O método consiste em buscar representações equivalentes com denominadores suficientemente grandes que permitam a nossa escolha do numerador. Por isso a multiplicação simultânea dos numeradores e denominadores das frações acima por dois. Os números 20 e 21 são consecutivos, essa foi a dificuldade inicial. Mas o dobro de 20 e o dobro de 21, que são números pares, não são números consecutivos. E essa foi a jogada de mestre!
+
+Agora sim, pode-se apresentar o procedimento utilizado em uma linguagem mais geral.
+
+Dadas duas frações $\frac{a}{b}$ e $\frac{c}{d}$ diferentes (suponha $\frac{a}{b}<\frac{c}{d}$) , queremos determinar uma terceira fração $\frac{p}{q}$ tal que $\dfrac{a}{b}<\dfrac{p}{q}<\dfrac{c}{d}$.
+
+O primeiro passo é encontrar frações iguais às anteriores, mas que tenham o mesmo denominador.
+
+Para isso, basta multiplicar os numeradores e os denominadores de cada fração pelo denominador da outra fração. Veja:
+
+$$\dfrac{a}{b} = \dfrac{d \times a}{d \times b}$$
+onde $d$ é o denominador da segunda fração e
+
+$$\dfrac{c}{d} = \dfrac{b \times c}{b \times d}$$
+onde $b$ é o denominador da primeira fração.
+
+Além disso, como $\frac{a}{b}<\frac{c}{d}$, o produto $d \times a$ é diferente do produto $b \times c$.
+
+Ora, se $d \times a$ e $b \times c$ não são números naturais consecutivos, já temos condições de determinar a fração $\frac{p}{q}$ basta fazer $q = b \times d$ e escolher um número natural $m$ entre $d \times a$ e $b \times c$. Neste caso tem-se como solução para o problema a fração
+$$\dfrac{p}{q} = \dfrac{m}{b \times d},$$ 
+onde $m$ é um número natural entre $d \times a$ e $b \times c$.
+Agora, se $d \times a$ e $b \times c$ são números naturais consecutivos, usa-se a jogada de mestre. Isto é, multiplica-se por dois os numeradores e denominadores das frações acima:
+$$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b}$$
+e
+$$\dfrac{c}{d} = \dfrac{2b \times c}{2b \times d}$$
+Ora, $(2d \times a)$  e $(2b \times c)$ são dois números pares diferentes e, portanto, não consecutivos. 
+
+Portanto, basta escolher $p = (2d \times a) + 1$, o primeiro número ímpar depois do número  $(2d \times a)$,  e $q=(2b \times d)$, para encontrar uma solução do nosso problema:
+
+$$\dfrac{a}{b} = \dfrac{2d \times a}{2d \times b} < \dfrac{(2d \times a) + 1}{2b \times d} <  \dfrac{2b \times c}{2b \times d} = \dfrac{c}{d}.$$
+
+Isto é, 
+
+$$\dfrac{a}{b} < \dfrac{p}{q} < \dfrac{c}{d}.$$
+
+</WRAP>

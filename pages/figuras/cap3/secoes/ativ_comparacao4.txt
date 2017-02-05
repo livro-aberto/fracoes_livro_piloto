@@ -1,0 +1,140 @@
+<code latex>
+Enunciado 
+
+a) e b)
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (45:1); 
+\draw[common] (\x,0) --+ (45:-1);}
+
+\draw[attention] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
+\foreach \x in {0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+\vspace{1cm}
+
+c) e d)
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (135:1); 
+\draw[common] (\x,0) --+ (135:-1);}
+
+\draw[blue] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+\fill[common] (.2,0) circle (3pt) node[below, black] {$\frac{1}{2}$};
+\fill[common] (.6,0) circle (3pt) node[below, black] {$\frac{3}{2}$};
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+\vspace{1cm}
+
+Resposta
+
+a)
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (45:1); 
+\draw[common] (\x,0) --+ (45:-1);}
+
+\draw[attention] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
+\foreach \x in {0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+
+\fill[common] (.5,0) circle (3pt) node[below, black] {$\frac{1}{2}$};
+
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+\vspace{1cm}
+
+
+b)
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (45:1); 
+\draw[common] (\x,0) --+ (45:-1);}
+
+\draw[attention] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,1}{ \draw (\x,3pt) -- (\x,-3pt) node[below] {\x};}
+\foreach \x in {0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+
+\foreach \x in {1,2,...,9} \node[below] at (\x/10,0) {$\frac{\x}{10}$};
+\fill[common] (.5,0) circle (3pt) node[above, black] {$\frac{1}{2}$};
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+\vspace{1cm}
+
+c)
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (135:1); 
+\draw[common] (\x,0) --+ (135:-1);}
+
+\draw[blue] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+\fill[common] (.2,0) circle (3pt) node[below, black] {$\frac{1}{2}$};
+\fill[common] (.6,0) circle (3pt) node[below, black] {$\frac{3}{2}$};
+\fill[attention] (0,0) circle (3pt) node[below, black] {0};
+\fill[attention] (.4,0) circle (3pt) node[below, black] {1};
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+\vspace{1cm}
+
+d)
+
+\begin{tikzpicture}[x=56.25mm,y=56.25mm]
+
+\begin{scope}
+\clip (-.2,-.2) rectangle (.85,.85); 
+
+\begin{scope}[ rotate=45]
+\foreach \x in {-1.1,-1,...,1.6}{
+\draw[common] (\x,0) --+ (135:1); 
+\draw[common] (\x,0) --+ (135:-1);}
+
+\draw[blue] (-0.2,0) -- (1.2,0) ; %edit here for the axis
+\foreach \x in {0,0.1,.2,...,.9}{ \draw (\x,3pt) -- (\x,-3pt);}
+\fill[common] (.2,0) circle (3pt) node[below, black] {$\frac{1}{2}$};
+\fill[common] (.6,0) circle (3pt) node[below, black] {$\frac{3}{2}$};
+\fill[attention] (.3,0) circle (3pt) node[below, black] {$\frac{3}{4}$};
+\fill[attention] (.5,0) circle (3pt) node[below, black] {$\frac{5}{4}$};
+\end{scope}
+\end{scope}
+
+\end{tikzpicture}   
+
+</code>

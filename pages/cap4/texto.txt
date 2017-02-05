@@ -1,0 +1,150 @@
+{{anchor:preambulo}}
+{{page>cap4:secoes:preambulo}}
+
+{{anchor:problema_motivador}}
+{{page>cap4:secoes:problema_motivador}}
+
+===== EXPLORANDO O ASSUNTO =====
+
+{{anchor:sanduiches}}
+==== Atividade - ====
+{{page>cap4:secoes:sanduiches}}
+
+{{anchor:dobradura}}
+==== Atividade - ====
+{{page>cap4:secoes:dobradura}}
+
+{{anchor:dobradura_refletindo}}
+{{page>cap4:secoes:dobradura_refletindo}}
+
+{{anchor:divisao_escondida}}
+==== Atividade - ====
+{{page>cap4:secoes:divisao_escondida}}
+
+{{anchor:ativ_reta2_unidade6}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_reta2_unidade6}}
+
+
+{{anchor:preencha}}
+==== Atividade - ====
+{{page>cap4:secoes:preencha}}
+
+{{anchor:preencha_refletindo}}
+{{page>cap4:secoes:preencha_refletindo}}
+
+{{anchor:preencha_fita}}
+==== Atividade - ====
+{{page>cap4:secoes:preencha_fita}}
+
+{{anchor:preencha_fita_refletindo}}
+{{page>cap4:secoes:preencha_fita_refletindo}}
+
+
+{{anchor:reta_numerica}}
+==== Atividade - ====
+{{page>cap4:secoes:reta_numerica}}
+
+{{anchor:reta_numerica_refletindo}}
+{{page>cap4:secoes:reta_numerica_refletindo}}
+
+{{anchor:varios_modelos}}
+==== Atividade - ====
+{{page>cap4:secoes:varios_modelos}}
+
+
+===== ORGANIZANDO AS IDEIAS =====
+{{anchor:organizando_ideias}}
+{{page>cap4:secoes:organizando_ideias}}
+
+===== MÃO NA MASSA =====
+
+{{anchor:equivalencia_encontre}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_encontre}}
+
+{{anchor:equivalencia_complete_os_quadrados}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_complete_os_quadrados}}
+
+{{anchor:equivalencia_pint}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_pint}}
+
+{{anchor:equivalencia_menor}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_menor}}
+
+{{anchor:comparar_fracoes}}
+==== Atividade - ====
+{{page>cap4:secoes:comparar_fracoes}}
+
+{{anchor:chave_de_caixa}}
+==== Atividade - ====
+{{page>cap4:secoes:chave_de_caixa}}
+
+{{anchor:comparacao}}
+==== Atividade - ====
+{{page>cap4:secoes:comparacao}}
+
+
+{{anchor:equivalencia_panquecas}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_panquecas}}
+
+{{anchor:equivalencia_fracoes_irredutiveis}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_fracoes_irredutiveis}}
+
+{{anchor:equivalencia_tres}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_tres}}
+
+{{anchor:equivalencia_multiplicar_cruzado}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_multiplicar_cruzado}}
+
+{{anchor:equivalencia_jogo}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_jogo}}
+
+===== QUEBRANDO A CUCA =====
+{{anchor:equivalencia_menor_menor}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_menor_menor}}
+
+{{anchor:equivalencia_fracoes_unitarias}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_fracoes_unitarias}}
+
+/*
+{{anchor:equivalencia_cinco_tres}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_cinco_tres}}
+ */
+
+{{anchor:equivalencia_fracoes_diferentes}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_fracoes_diferentes}}
+
+
+{{anchor:equivalencia_densidade_1}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_densidade_1}}
+
+{{anchor:equivalencia_densidade_2}}
+==== Atividade - ====
+{{page>cap4:secoes:equivalencia_densidade_2}}
+
+{{anchor:equivalencia_densidade_refletindo}}
+{{page>cap4:secoes:equivalencia_densidade_refletindo}}
+
+/*
+{{anchor:ativ_reta_numerica2}}
+==== Atividade - ====
+{{page>cap3:secoes:ativ_reta_numerica2}}
+*/
+
+
+
+

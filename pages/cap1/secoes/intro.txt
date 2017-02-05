@@ -1,0 +1,12 @@
+===== Introdutório =====
+
+/*
+**Humberto**: Caros, vocês acham conveniente incluir um texto introdutório antes de cair direto em uma atividade? Coloco aqui uma sugestão para a análise de vocês.
+*/
+
+Você já estudou os números naturais e viu como eles são úteis para contar, medir, ordenar e rotular. Vamos, a partir de agora, aprender novos números! Eles são necessários em certas situações como, por exemplo, na questão de se dividir de forma justa uma barra de chocolate entre um grupo de amigos.
+<WRAP imagem>
+{{ :cap1:numeros-naturais-01.png?600 |}}
+</WRAP>
+
+

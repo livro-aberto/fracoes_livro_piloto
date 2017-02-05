@@ -1,0 +1,35 @@
+;;#
+Ir para [[cap4:texto#equivalencia_fracoes_diferentes]]
+;;#
+
+<hidden Para o professor>
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Estabelecer criticamente uma avaliação sobre a comparação entre frações a partir da observação dos termos dessas fraçoes, incluindo a questão da recíproca da seguinte propriedade: "se existe número natural $n$ tal que $\frac{a}{b} = \frac{n \times c}{n \times d}$, então $\frac{a}{b} = \frac{c}{d}$". 
+
+Recomendações e sugestões para o desenvolvimento da atividade:
+  * Recomenda-se que, nesta atividade, os alunos trabalhem individualmente ou em duplas. No entanto, é fundamental que os alunos sejam estimulados a explicar o raciocínio realizado.
+  * Note que o item d) é falso porque estamos dando a liberdade de a escolha envolver frações que não são irredutíveis nem unitárias, por isso existem contraexemplos. Avalie a discussão sobre a veracidade da afirmação do item d) quando acrescentamos a informação “uma das frações é irredutível” ou “uma das frações é unitária”. Neste caso, as novas afirmações são verdadeiras, e as justificativas para elas são generalizações de questões já propostas.
+
+Classificações
+  * Heid et al.: Raciocínio: corroborar
+  * Nicely, Jr.: Nível 6: justificar
+  * UERJ: Avaliar: julgar
+</WRAP>
+</hidden>
+
+Diga se cada uma das sentenças a seguir é verdadeira ou falsa. Explique a sua resposta com exemplos, desenhos ou palavras.
+
+  - Se duas frações têm numeradores e denominadores diferentes, então elas são diferentes.
+  - Se duas frações têm denominadores iguais, mas numeradores diferentes, então elas são diferentes.
+  - Se duas frações têm numeradores iguais e maiores do que zero, mas denominadores diferentes, então elas são diferentes.
+  - Se duas frações são iguais, então o numerador e o denominador de uma são obtidos multiplicando-se o numerador e o denominador da outra por um mesmo número natural.
+
+<hidden Resposta>
+<WRAP resposta>
+  - A sentença é falsa. Por exemplo, as frações $\frac{1}{2}$ e $\frac{3}{6}$ têm numeradores e denominadores diferentes, mas elas são iguais, uma vez que $\frac{1}{2} = \frac{3 \times 1}{3 \times 2} = \frac{3}{6}$.
+  - A sentença é verdadeira: se duas frações têm denominadores iguais, é maior a fração que tem o maior numerador e, em particular, elas são diferentes. De fato: lembrando que o denominador de fração especifica o número de partes em que a unidade foi dividida e o numerador especifica quantas cópias desta parte foram tomadas, para um mesmo denominador, quanto maior o numerador, mais cópias são tomadas e, portanto, maior é a quantidade representada pela fração.
+  - A sentença é verdadeira: se duas frações têm numeradores iguais, é maior a fração que tem o menor denominador e, em particular, elas são diferentes. De fato: considerando que o numerador especifica o número de cópias da unidade que está sendo dividida por um número de pessoas, número este especificado pelo denominador da fração, para um mesmo numerador, quanto menor o denominador, maior a porção que cada pessoa vai receber, quantidade esta representada pela fração, pois o mesmo número de cópias da unidade está sendo divivido por um número menor de pessoas.
+  - A sentença é falsa. Por exemplo, $\frac{2}{4}$ e $\frac{3}{6}$ são frações iguais, pois $\frac{2}{4}$ é igual a $\frac{1}{2}$ e $\frac{3}{6}$ também é igual a $\frac{1}{2}$, mas não existe um número natural que multiplicado por $2$ dê igual a $3$, bem como não existe número natural que multiplicado por $3$ dê $2$.
+</WRAP>
+</hidden>

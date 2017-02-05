@@ -1,0 +1,10 @@
+;;#
+Ir para [[cap4:texto#equivalencia_existe]]
+;;#
+
+<WRAP professor>
+Objetivo específico: Levar o aluno a
+  * Analisar a existência ou não de uma fração igual (equivalente) à fração $\frac{1}{2}$.
+</WRAP>
+
+Existe uma fração de denominador ímpar que seja igual a fração $\frac{1}{2}$? Justifique sua resposta!
