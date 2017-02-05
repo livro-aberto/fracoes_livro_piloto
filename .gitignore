@@ -1,2 +1,5 @@
 comments/*
 *.gz
+*.fdb_latexmk
+*.zip
+*.fls
