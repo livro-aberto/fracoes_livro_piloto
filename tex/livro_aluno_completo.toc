@@ -63,7 +63,7 @@
 \contentsline {subsection}{\numberline {17}Atividade}{46}{subsection.3.4.17}
 \contentsline {subsection}{\numberline {18}Atividade}{47}{subsection.3.4.18}
 \contentsline {chapter}{\numberline {4}Frações Equivalentes e Comparação de Frações }{49}{chapter.4}
-\contentsline {section}{\numberline {4.1}EXPLORANDO O ASSUNTO }{49}{section.4.1}
+\contentsline {section}{\numberline {4.1}EXPLORANDO O ASSUNTO }{50}{section.4.1}
 \contentsline {subsection}{\numberline {1}Atividade}{50}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {2}Atividade}{50}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {3}Atividade}{53}{subsection.4.1.3}

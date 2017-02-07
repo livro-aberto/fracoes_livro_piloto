@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  25 JAN 2017 10:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  7 FEB 2017 00:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5744,12 +5744,10 @@ File: ../media/cap4/secoes/pngs/quadrinho_03.png Graphic file (type QTm)
 File: ../media/cap4/secoes/pngs/quadrinho_04.png Graphic file (type QTm)
 
 <use  "../media/cap4/secoes/pngs/quadrinho_04.png" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 16.
 Missing character: There is no x in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -10045,12 +10043,15 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 262.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 262.
  ) 
 Here is how much of TeX's memory you used:
  43486 strings out of 495559
  882563 string characters out of 6186723
- 1161141 words of memory out of 5000000
+ 1161138 words of memory out of 5000000
  46036 multiletter control sequences out of 15000+600000
  20989 words of font info for 125 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
