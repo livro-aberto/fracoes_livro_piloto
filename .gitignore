@@ -3,4 +3,5 @@ comments/*
 *.fdb_latexmk
 *.zip
 *.fls
+*.aux
 
