@@ -4,4 +4,8 @@ comments/*
 *.zip
 *.fls
 *.aux
-
+*.out
+*.log
+*.tex.backup
+*.toc
+B.pdf
