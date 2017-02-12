@@ -1,11 +1,11 @@
-\documentclass[a4,12pt]{book}
+\documentclass[a4,12pt]{book} %para gerar a versão para telas, inclua a opção openany.
 
 \usepackage{template}
 
 % Parallelepiped definitions
 
 %should be compiled with xelatex to use special fonts
-
+%\newcommand*{\telas}{}
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -56,8 +56,10 @@ a
 
 \end{tikzpicture}%
 
-\clearpage \thispagestyle{empty}
-
+\ifdefined\telas
+\else
+ \clearpage \thispagestyle{empty}
+\fi
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Segunda página
@@ -81,7 +83,7 @@ Projeto: LIVRO ABERTO DE MATEMÁTICA
 
 \begin{tabular}{p{.15\textwidth}p{.7\textwidth}}
 Título: & Frações no Ensino Fundamental - Volume 1\\
-Ano/ Versão: & 2016 / versão 2.0 de Janeiro de 2017 \\
+Ano/ Versão: & 2016 / versão 2.0 de Fevereiro de 2017 \\
 Editora & Instituto Nacional de Matem\'atica Pura e Aplicada (IMPA-OS)\\
 Realização:& Olimp\'iada Brasileira de Matem\'atica das Escolas P\'ublicas (OBMEP)\\
 Produção:& Livro Aberto\\
@@ -92,7 +94,9 @@ Autores: & Cydara Cavedon Ripoll, Fabio Luiz Borges Simas, Humberto José Bortol
 \\
 Colaboradores: & Ana Paula Pereira (CAp UFF), Andreza Gonçalves (estudante da UFF), Bruna Luiza Oliveira (estudante da UFF), Francisco Mattos (Colégio Pedro II), Helano Andrade (estudante da UNIRIO), João Carlos Cataldo (CAp UERJ e Colégio Santo Ignácio), Luiz Felipe Lins (Secretaria de Educação da Cidade do Rio de Janeiro), Michel Cambrainha (UNIRIO), Rodrigo Ferreira (estudante da UNIRIO), Tahyz Pinto (estudante da UFF) \\
 \\
-Ilustradores: & Luiz Fernando Alves Macedo,
+Arte: & Aline Santiago
+\\
+Ilustradores (figuras geométricas): & Luiz Fernando Alves Macedo,
 Vitoria da Mota Souza,
 Eduardo Filipe de Miranda Souto,
 Caio Felipe da Silva Evangelista,
@@ -113,7 +117,7 @@ Israel Fialho Magalhães\\
 Capa: & Fabio Simas
 \end{tabular}
 \vspace{.2cm}
- 
+
 \includegraphics[scale=1]{cc}
 %\vspace{.3cm}
 
@@ -172,17 +176,13 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 
 \input{introducao}
 
-% \mainmatter
-% \mbox{ }
-%\thispagestyle{empty}
-
-
 {\let \cleardoublepage \clearpage
 \mainmatter \thispagestyle{empty}
 \setcounter{tocdepth}{0}
 \tableofcontents
 \thispagestyle{empty}}
-\clearpage
+
+\ifdefined\telas \else \clearpage\fi
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %redefining chapter appearence for regular lessons
 \titleformat{\chapter} % redefining chapter appearence
@@ -228,18 +228,26 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-
+\ifdefined\telas
+{\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
+\thispagestyle{empty}
+\input{cap1_aluno}
+ \input{cap2_aluno}
+\input{cap3_aluno}
+ \input{cap4_aluno}
+\input{cap5_aluno}}
+\else
 {\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
 \thispagestyle{empty}
 \input{cap1_aluno}}
-\input{cap2_aluno}
+ \input{cap2_aluno}
 \input{cap3_aluno}
-\input{cap4_aluno}
+ \input{cap4_aluno}
 \input{cap5_aluno}
-
+\fi
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %redefining chapter appearence for last sections
-\titleformat{\chapter} 
+\titleformat{\chapter}
 {\titlefont\Huge\bf} % style
 {} % label
 {0pt} % separation

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.8.16)  7 FEB 2017 17:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.11.5)  12 FEB 2017 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1386,14 +1386,10 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [2]
-File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png Graphic file (type Q
-Tm)
+File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03.png Graphic file (type QT
+m)
 
-<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png" >
-File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png Graphic file (type Q
-Tm)
-
-<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png" > [3]
+<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03.png" > [3]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1430,7 +1426,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (16.27063pt too wide) in paragraph at lines 168--168
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 166--166
 []  [] 
  []
 
@@ -1445,7 +1441,7 @@ Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (299.37561pt too wide) in paragraph at lines 228--228
+Overfull \hbox (299.37561pt too wide) in paragraph at lines 226--226
 []  [] 
  []
 
@@ -1456,13 +1452,14 @@ Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 
 
-[6] [7] [8] [9] [10] [11] [12]) [13] (./cap2_professor.tex [14
+[6] [7] [8] [9] [10] [11] [12]) [13] [14
 
-] [15] [16]
+] (./cap2_professor.tex [15] [16]
+[17]
 File: ..//media/cap2/secoes/pngs_licao_02/ativ3_resposta.png Graphic file (type
  QTm)
-
-<use  "..//media/cap2/secoes/pngs_licao_02/ativ3_resposta.png" > [17] [18]
+ <use  "..//media/cap2/secoes/pngs_licao_02/ativ3_resposta.png" > [18]
+[19]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1477,13 +1474,13 @@ Overfull \hbox (16.27063pt too wide) in paragraph at lines 327--327
 Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 
 
-[19] [20] [21] [22] [23] [24]
+[20] [21] [22] [23] [24] [25]
 File: ..//media/cap2/secoes/pngs_licao_02/ativ12_resposta.png Graphic file (typ
 e QTm)
 
-<use  "..//media/cap2/secoes/pngs_licao_02/ativ12_resposta.png" > [25
+<use  "..//media/cap2/secoes/pngs_licao_02/ativ12_resposta.png" > [26
 
-] [26]
+] [27]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1497,14 +1494,434 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-[27]) [28] (./livro_professor_completo.aux) ) 
+[28]) [29] [30
+
+] (./cap3_professor.tex [31] [32] [33] [34] [35] [36] [37]
+File: ..//media/cap3/secoes/png/ativ9_resp_a.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_a.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_b.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_b.png" > [38]
+File: ..//media/cap3/secoes/png/ativ9_resp_c.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_c.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_d.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_d.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_e.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_e.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_f.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_f.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_g.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_g.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_h.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_h.png" > [39] [40]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 857--857
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[41]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 858--858
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[42] [43] [44] [45] [46]) [47] [48
+
+] (./cap4_professor.tex [49] [50]
+Underfull \hbox (badness 2351) in paragraph at lines 229--229
+[]|\EU1/NimbusSansL(0)/m/n/10 quantidade de re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]|\EU1/NimbusSansL(0)/m/n/10 Quantidade total
+ []
+
+File: ../media/cap4/secoes/PNGs/ativ2_fig01.png Graphic file (type QTm)
+<use  "../media/cap4/secoes/PNGs/ativ2_fig01.png" >
+File: ../media/cap4/secoes/PNGs/ativ2_fig02.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/PNGs/ativ2_fig02.png" >
+File: ../media/cap4/secoes/PNGs/ativ2_fig03.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/PNGs/ativ2_fig03.png" >
+File: ../media/cap4/secoes/PNGs/ativ2_fig04.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/PNGs/ativ2_fig04.png" >
+File: ../media/cap4/secoes/PNGs/ativ2_fig05.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/PNGs/ativ2_fig05.png" >
+File: ../media/cap4/secoes/PNGs/ativ2_fig06.png Graphic file (type QTm)
+
+<use  "../media/cap4/secoes/PNGs/ativ2_fig06.png" > [51]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 255--255
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[52] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+[]|\EU1/NimbusSansL(0)/m/n/10 Tipo da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+[]|\EU1/NimbusSansL(0)/m/n/10 Quantas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+\EU1/NimbusSansL(0)/m/n/10 cabem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+[]|\EU1/NimbusSansL(0)/m/n/10 Juntas,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+\EU1/NimbusSansL(0)/m/n/10 são que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]|\EU1/NimbusSansL(0)/m/n/10 Fração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\EU1/NimbusSansL(0)/m/n/10 do cír-
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 397--398
+\EU1/NimbusSansL(0)/m/n/10 culo não
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\EU1/NimbusSansL(0)/m/n/10 colorida
+ []
+
+[55]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 426--426
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[56]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 427--427
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[57]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 428--428
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\EU1/NimbusSansL(0)/m/n/10 Número de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+\EU1/NimbusSansL(0)/m/n/10 partes em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+\EU1/NimbusSansL(0)/m/n/10 se encontra
+ []
+
+
+Overfull \hbox (68.80135pt too wide) in paragraph at lines 489--490
+[]|[]| 
+ []
+
+
+Overfull \hbox (19.04494pt too wide) in paragraph at lines 479--546
+ [] 
+ []
+
+[59]
+Overfull \hbox (3.39934pt too wide) in paragraph at lines 555--555
+[]|\EU1/NimbusSansL(0)/m/n/10 Quantas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+\EU1/NimbusSansL(0)/m/n/10 cabem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+\EU1/NimbusSansL(0)/m/n/10 na re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+\EU1/NimbusSansL(0)/m/n/10 gião
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+[]|\EU1/NimbusSansL(0)/m/n/10 Juntas,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+\EU1/NimbusSansL(0)/m/n/10 fração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+\EU1/NimbusSansL(0)/m/n/10 do re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+\EU1/NimbusSansL(0)/m/n/10 tângulo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+\EU1/NimbusSansL(0)/m/n/10 do en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+[]|\EU1/NimbusSansL(0)/m/n/10 Fração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+\EU1/NimbusSansL(0)/m/n/10 do en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+\EU1/NimbusSansL(0)/m/n/10 carte
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+\EU1/NimbusSansL(0)/m/n/10 rida de
+ []
+
+[60
+
+]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (299.37561pt too wide) in paragraph at lines 599--599
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[61] [62]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (299.37561pt too wide) in paragraph at lines 780--780
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[63]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (299.37561pt too wide) in paragraph at lines 781--781
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[64] [65]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (299.37561pt too wide) in paragraph at lines 985--985
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[66] [67] [68] [69
+
+] [70]
+Underfull \hbox (badness 10000) in paragraph at lines 1603--1605
+
+ []
+
+[71] [72
+
+]
+
+LaTeX Font Warning: Font shape `EU1/NimbusSansL(0)/m/it' undefined
+(Font)              using `EU1/NimbusSansL(0)/m/n' instead on input line 1790.
+
+[73] [74] [75]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 1998--1998
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[76]
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Homemade Apple does not contain any OpenType `Script' information.
+.................................................
+
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 1999--1999
+[]  [] 
+ []
+
+
+Overfull \vbox (26.56453pt too high) has occurred while \output is active []
+
+
+[77]) [78
+
+] (./cap5_professor.tex [79] [80] [81] [82] [83] [84] [85] [86]
+Overfull \hbox (3.78297pt too wide) in paragraph at lines 490--491
+[]|[]| 
+ []
+
+
+Overfull \hbox (1.00298pt too wide) in paragraph at lines 510--511
+[]|[] 
+ []
+
+
+Overfull \hbox (3.78297pt too wide) in paragraph at lines 530--531
+[]|[]| 
+ []
+
+[87
+
+] [88]) [89] (./livro_professor_completo.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 35935 strings out of 495559
- 762050 string characters out of 6186723
- 871116 words of memory out of 5000000
- 38649 multiletter control sequences out of 15000+600000
- 5587 words of font info for 53 fonts, out of 8000000 for 9000
+ 36232 strings out of 495559
+ 767775 string characters out of 6186723
+ 923823 words of memory out of 5000000
+ 38915 multiletter control sequences out of 15000+600000
+ 7132 words of font info for 59 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 63i,12n,101p,10392b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,14n,101p,10408b,1002s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on livro_professor_completo.pdf (28 pages).
+Output written on livro_professor_completo.pdf (89 pages).
