@@ -3,4 +3,9 @@ comments/*
 *.fdb_latexmk
 *.zip
 *.fls
-
+*.aux
+*.out
+*.log
+*.tex.backup
+*.toc
+B.pdf
