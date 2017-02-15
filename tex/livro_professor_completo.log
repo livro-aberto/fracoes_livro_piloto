@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.8.16)  7 FEB 2017 17:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.8.16)  7 FEB 2017 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1360,14 +1360,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks44
 \inpenc@posthook=\toks45
 )
-(./cap1_professor.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+(./cap3_professor.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1385,15 +1385,31 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `NimbusSansL' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [2]
-File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png Graphic file (type Q
-Tm)
+ [2] [3]
+[4] [5] [6] [7]
+File: ..//media/cap3/secoes/png/ativ9_resp_a.png Graphic file (type QTm)
+ <use  "..//media/cap3/secoes/png/ativ9_resp_a.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_b.png Graphic file (type QTm)
 
-<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03a.png" >
-File: ..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png Graphic file (type Q
-Tm)
+<use  "..//media/cap3/secoes/png/ativ9_resp_b.png" > [8]
+File: ..//media/cap3/secoes/png/ativ9_resp_c.png Graphic file (type QTm)
 
-<use  "..//media/cap1/secoes/pngs_licao_01/ativ3_fig03b.png" > [3]
+<use  "..//media/cap3/secoes/png/ativ9_resp_c.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_d.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_d.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_e.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_e.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_f.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_f.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_g.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_g.png" >
+File: ..//media/cap3/secoes/png/ativ9_resp_h.png Graphic file (type QTm)
+
+<use  "..//media/cap3/secoes/png/ativ9_resp_h.png" > [9] [10]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1430,7 +1446,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (16.27063pt too wide) in paragraph at lines 168--168
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 856--856
 []  [] 
  []
 
@@ -1438,14 +1454,14 @@ Overfull \hbox (16.27063pt too wide) in paragraph at lines 168--168
 Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 
 
-[4] [5]
+[11]
 .................................................
 . fontspec info: "no-scripts"
 . 
 . Font Homemade Apple does not contain any OpenType `Script' information.
 .................................................
 
-Overfull \hbox (299.37561pt too wide) in paragraph at lines 228--228
+Overfull \hbox (16.27063pt too wide) in paragraph at lines 857--857
 []  [] 
  []
 
@@ -1453,58 +1469,14 @@ Overfull \hbox (299.37561pt too wide) in paragraph at lines 228--228
 Overfull \vbox (26.56453pt too high) has occurred while \output is active []
 
 
-Overfull \vbox (26.56453pt too high) has occurred while \output is active []
-
-
-[6] [7] [8] [9] [10] [11] [12]) [13] (./cap2_professor.tex [14
-
-] [15] [16]
-File: ..//media/cap2/secoes/pngs_licao_02/ativ3_resposta.png Graphic file (type
- QTm)
-
-<use  "..//media/cap2/secoes/pngs_licao_02/ativ3_resposta.png" > [17] [18]
-.................................................
-. fontspec info: "no-scripts"
-. 
-. Font Homemade Apple does not contain any OpenType `Script' information.
-.................................................
-
-Overfull \hbox (16.27063pt too wide) in paragraph at lines 327--327
-[]  [] 
- []
-
-
-Overfull \vbox (26.56453pt too high) has occurred while \output is active []
-
-
-[19] [20] [21] [22] [23] [24]
-File: ..//media/cap2/secoes/pngs_licao_02/ativ12_resposta.png Graphic file (typ
-e QTm)
-
-<use  "..//media/cap2/secoes/pngs_licao_02/ativ12_resposta.png" > [25
-
-] [26]
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-
-[27]) [28] (./livro_professor_completo.aux) ) 
+[12] [13] [14] [15] [16]) [17] (./livro_professor_completo.aux) ) 
 Here is how much of TeX's memory you used:
- 35935 strings out of 495559
- 762050 string characters out of 6186723
- 871116 words of memory out of 5000000
- 38649 multiletter control sequences out of 15000+600000
- 5587 words of font info for 53 fonts, out of 8000000 for 9000
+ 35983 strings out of 495559
+ 762449 string characters out of 6186723
+ 902790 words of memory out of 5000000
+ 38692 multiletter control sequences out of 15000+600000
+ 7116 words of font info for 57 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 63i,12n,101p,10392b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,12n,101p,10392b,925s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on livro_professor_completo.pdf (28 pages).
+Output written on livro_professor_completo.pdf (17 pages).
