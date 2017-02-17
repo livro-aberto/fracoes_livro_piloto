@@ -1,1 +1,0 @@
-pdftk B=livro_aluno_completo.pdf A=livro_professor_completo.pdf shuffle A B output livro.pdf
