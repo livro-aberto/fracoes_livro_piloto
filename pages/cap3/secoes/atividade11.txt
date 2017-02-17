@@ -1,9 +1,0 @@
-
-==== Atividade ====
-O pai de Joãozinho e Maria dividiu uma barra de chocolates ao meio e depois dividiu uma das partes em três partes iguais como representado na figura abaixo. Entregou as 3 partes menores para Joãozinho e a outra parte para Maria. Quem recebeu mais pedaços de chocolate? Quem recebeu mais chocolate Joãozinho ou Maria?
-
-<WRAP imagem> inserir a figura "chocolate partido" (feita a mão) {{ :cap1:20160311_061902.jpg?200 |}} </WRAP>
-
-<WRAP resposta> Joãozinho recebeu três pedaços de chocolate e Maria apenas 1, portanto, Joãozinho recebeu mais pedaços de chocolate. Contudo os três pedaços de Joãzinho correspondem a metade da barra de chocolate. Portanto, ambos receberam a mesma quantidade de chocolate.</WRAP> 
-
-<WRAP professor> Este exercício pode parecer deslocado porque o estudante ainda não sabe dividir $1/2$ por 3. Mas esperamos apenas que ele observe que a quantidade (de chocolate) pode ser a mesma ainda que o número de pedaços seja diferente.</WRAP>
