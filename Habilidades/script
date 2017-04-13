@@ -1,0 +1,4 @@
+while IFS=@ read xx yy;do
+    echo -e "\n  " $yy "\n" | cat antes.txt - depois.txt > "$xx.rst"
+done < Habilidades.txt
+

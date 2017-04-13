@@ -1,0 +1,18 @@
+AF106@   (EM11MT06) Compreender função como uma relação de dependência entre duas variáveis, as ideias de domínio, contradomínio e imagem, e suas representações algébricas e gráficas, e utilizá-las para analisar, interpretar e resolver problemas em contextos diversos, inclusive fenômenos naturais, sociais e de outras áreas.
+NO508@   (EM15MT08) Resolver e elaborar problemas envolvendo porcentagem em situações financeiras reais, como cartão de crédito, financiamento, previdência, tabela price, amortização, dentre outros.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+AF106-0@   (EM11MT06) Compreender função como uma relação de dependência entre duas variáveis, as ideias de domínio, contradomínio e imagem, e suas representações algébricas e gráficas, e utilizá-las para analisar, interpretar e resolver problemas em contextos diversos, inclusive fenômenos naturais, sociais e de outras áreas.
+AF107-0@   (EM11MT07) Reconhecer função afim e suas representações algébrica e gráfica, identificar o modelo de variação e a taxa de variação  incluindo os casos em que a variação é proporcional (linear), e utilizar essas noções para representar e resolver problemas como os de Movimento Uniforme, entre outros.
+AF108-0@   (EM11MT08) Reconhecer progressões aritméticas como sequências numéricas de variação linear, associá-las a funções afins de domínio discretos e utilizá-las para resolver problemas.
+AF109-0@   (EM11MT09) Resolver e elaborar problemas que possam ser representados por inequações polinomiais de 1o grau, associando o conjunto solução a pontos da reta numérica, contribuindo para desenvolver a noção de intervalo, entre outros.
+AF209-0@   (EM12MT09) Reconhecer função quadrática e suas representações algébrica e gráfica, compreendendo o modelo de variação determinando domínio, imagem, máximo e mínimo, e utilizar essas noções e repre entações para resolver problemas como os de movimento uniformemen e variado.
+AF308-0@   (EM13MT08) Reconhecer função quadrática e suas representações algébrica e gráfica, compreendendo o modelo de variação, determinand  domínio, imagem, máximo e mínimo, e utilizar essas noções e repr sentações para resolver problemas como os de movimento uniformeme te variado.
+AF309-0@   (EM13MT09) Compreender processos de resolução de sistemas de três equações polinomiais e três incógnitas por escalonamento e utilizá-los para representar e resolver problemas. 
+AF310-0@   (EM13MT10) Reconhecer função exponencial e logarítmica, suas representações algébricas e gráficas, compreendendo seus modelos de variação, identificando domínio e imagem, e utilizar essas noções e representações para resolver problemas, como os que envolvem juros compostos. 
+AF311-0@   (EM13MT11) Reconhecer progressões geométricas como sequências numéricas de variação exponencial, associá-las a funções exponenciai  de domínios discretos e utilizá-las para resolver problemas, como os de juros compostos.
+AF407-0@   (EM14MT07) Compreender a forma de variação das funções seno e cosseno, reconhecer suas representações algébricas e gráficas, identificando domínio, imagem e características especiais como periodicidade, amplitude, máximos e mínimos, e utilizá-las para analisar e resolver problemas envolvendo fenômenos periódicos, como os da Física. 
+AF509-0@   (EM15MT09) Conjecturar, verificar e generalizar sobre o que ocorre com o gráfico de uma função de f(x) ao transformá-la em af(x), f(ax), f(x) + a; f(x+a), com a≠0, com apoio de softwares de geometria dinâmica e de funções. 
+AF106-0@   (EM11MT06) Compreender função como uma relação de dependência entre duas variáveis, as ideias de domínio, contradomínio e imagem, suas representações algébricas e gráficas, e utilizá-las para analisar, interpretar e resolver problemas em contextos diversos, inclusive fenômenos naturais, sociais e de outras áreas.
+AF107-0@   (EM11MT07) Reconhecer função afim e suas representações algébrica e gráfica, identificar o modelo de variação e a taxa de variação  incluindo os casos em que a variação é proporcional (linear), e utilizar essas noções para representar e resolver problemas como os de Movimento Uniforme, entre outras.
+AF108-0@   (EM11MT08) Reconhecer progressões aritméticas como sequências numéricas de variação linear, associá-las a funções afins de domínios discretos e utilizá-las para resolver problemas.
+AF109-0@   (EM11MT09) Resolver e elaborar problemas que possam ser representados por inequações polinomiais de 1o grau, associando o conjunto solução a pontos da reta numérica, contribuindo para desenvolver a noção de intervalo, entre outras.
+AF209-0@   (EM12MT09) Reconhecer função quadrática e suas representações algébrica e gráfica, compreendendo o modelo de variação determinando domínio, imagem, máximo e mínimo, e utilizar essas noções e representações para resolver problemas como os de movimento uniformemente variado.
+AF308-0@   (EM13MT08) Reconhecer função quadrática e suas representações algébrica e gráfica, compreendendo o modelo de variação determinando domínio, imagem, máximo e mínimo, e utilizar essas noções e representações para resolver problemas como os de movimento uniformemente variado.
+AF309-0@   (EM13MT09) Compreender processos de resolução de sistemas de três equações polinomiais e três incógnitas por escalonamento, e utilizá-los para representar e resolver problemas.
+AF310-0@   (EM13MT10) Reconhecer função exponencial e logarítmica, suas representações algébricas e gráficas, compreendendo seus modelos de variação, identificando domínio e imagem, e utilizar essas noções e representações para resolver problemas, como os que envolvem juros compostos.
+AF311-0@   (EM13MT11) Reconhecer progressões geométricas como sequências numéricas de variação exponencial, associá-las a funções exponenciais de domínios discretos e utilizá-las para resolver problemas, como os de juros compostos.
+AF407-0@   (EM14MT07) Compreender a forma de variação das funções seno e cosseno, reconhecer suas representações algébricas e gráficas, identificando domínio, imagem e características especiais como periodicidade, amplitude, máximos e mínimos, e utilizá-las para analisar e resolver problemas envolvendo fenômenos periódicos, como os da Física.
+AF509-0@   (EM15MT09) Conjecturar, verificar e generalizar sobre o que ocorre com o gráfico de uma função de f(x) ao transformá-la em af(x), f(ax), f(x) + a; f(x+a), com a≠0, com apoio de softwares de geometria dinâmica e de funções.
+PE103-0@   (EM11MT03) Realizar pesquisas, considerando: o planejamento, a discussão (se será censitária ou por amostra), a seleção de amostras, a elaboração e aplicação de instrumentos de coleta, a organização e representação dos dados (incluindo agrupamentos de dados em classe), a construção de gráficos apropriados (incluindo o histograma), a interpretação e a análise crítica apresentadas em relatórios descritivos.
+PE104-0@   (EM11MT04) Utilizar a média, a mediana e a amplitude para descrever, comparar e interpretar dois conjuntos de dados numéricos obtidos nas pesquisas realizadas pelos estudantes, em termos de localização (centro) e dispersão (amplitude).
+PE206-0@   (EM12MT06) Calcular a probabilidade de eventos aleatórios com e sem reposição, identificando e descrevendo o espaço amostral por meio de diagramas de árvore e realizando contagem de possibilidades pelo princípio multiplicativo.
+PE305-0@   (EM13MT05) Calcular e interpretar medidas de dispersão (amplitude, desvio médio, variância e desvio padrão) para um conjunto de dados numéricos, agrupados ou não, em pesquisas realizadas pelos estudantes ou usando dados de outras fontes com temas envolvendo os temas integradores.
+PE403-0@   (EM14MT03) Determinar a probabilidade da união de dois eventos, utilizando representações diversas.  EM15MT06) Analisar criticamente os métodos de amostragem em relatórios de pesquisas divulgadas pela mídia e as afirmativas feitas para toda a população baseadas em uma amostra. EM13MT06) Realizar pesquisas, considerando todas as suas etapas e utilizar as medidas de tendência central e de dispersão para a interpretação dos dados e elaboração de relatórios descritivos.
+PE404-0@   (EM14MT04) Calcular a probabilidade de eventos em experimentos aleatórios sucessivos, com e sem reposição de elementos.
+PE507-0@   (EM15MT07) Analisar criticamente gráficos de relatórios estatísticos que podem induzir a erro de interpretação do leitor, verificando as escalas utilizadas, a apresentação de frequências relativas na comparação de populações distintas.
+GM102-0@   (EM11MT02) Reconhecer grandezas formadas pela relação entre duas outras grandezas – velocidade (m/s; km/h), densidade (g/cm3; pessoas/ km2) e energia (Kwh), entre outras – e aplicar esse conhecimento em situações que envolvem proporcionalidade em outras áreas como Física, Química, Biologia e Geografia.
+GM204-0@   (EM12MT04) Resolver e elaborar problemas envolvendo medidas de áreas e de perímetros de figuras planas, incluindo o círculo e suas partes, deduzindo expressões de cálculo, aplicando-as, preferencialmente, em situações cotidianas.
+GM205-0@   (EM12MT05) Resolver e elaborar problemas envolvendo medidas do volume e de área de superfície de cilindros e prismas retos, deduzir do expressões de cálculo, aplicando-as, preferencialmente, em situações cotidianas.
+GM304-0@   (EM13MT04) Definir e aplicar o Princípio de Cavalieri e utilizá-lo para compreender e estabelecer as expressões para o cálculo de medidas de volume de cilindros, prismas, pirâmides e cones e aplicar na resolução de problemas.
+GM402-0@   (EM14MT02) Resolver e elaborar problemas envolvendo medidas de área de superfícies de cilindros, prismas, pirâmides e cones, preferencialmente, fazendo uso de situações cotidianas.
+GM505-0@   (EM15MT05) Resolver e elaborar problemas envolvendo medidas de área da superfície e de volume de cilindros, prismas, pirâmidescones e esferas.
+GE101-0@   (EM11MT01) Compreender o conceito de vetor, tanto do ponto de vista geométrico (coleção de segmentos orientados de mesmo comprimento, direção e sentido) quanto do ponto de vista algébrico, caracterizado por suas coordenadas, aplicando-o em situações da Física.
+GE201-0@   (EM12MT01) Compreender o teorema de Tales e aplicá-lo em demonstrações e na resolução de problemas, incluindo a divisão de segmentos em partes proporcionais.
+GE202-0@   (EM12MT02) Resolver e elaborar problemas utilizando a semelhança de triângulos e o teorema de Pitágoras, incluindo aqueles que envolvem o cálculo das medidas de diagonais de prismas, de altura de pirâmides, e aplicar esse conhecimento em situações relacionadas ao mundo do trabalho.
+GE203-0@   (EM12MT03) Utilizar a noção de semelhança para compreender as razões trigonométricas no triângulo retângulo, suas relações em triângulos quaisquer e aplicá-las em situações como o cálculo de medidas inacessíveis, entre outras.
+GE301-0@   (EM13MT01) Estabelecer relações entre vistas ortogonais e representações em perspectiva de figuras geométricas espaciais e de objetos do mundo físico e aplicar esse conhecimento em situações relacionadas ao mundo do trabalho.
+GE401-0@   (EM14MT01) Resolver e elaborar problemas que envolvam o ponto médio de um segmento de reta e a distância entre dois pontos quaisquer no plano cartesiano, incluindo o estudo de pontos e segmentos notáveis do triângulo, entre outros.
+GE501-0@   (EM15MT01) Compreender a estrutura lógica da geometria euclidiana e demonstrar alguns teoremas como soma dos ângulos internos de polígonos, teorema de Pitágoras, casos de semelhança e de congruência de triângulos.
+GE302-0@   (EM13MT02) Estabelecer relações entre as transformações isométricas (reflexão, translação e rotação) e vetores no contexto do plano cartesiano, incluindo o uso de softwares de geometria dinâmica. 
+GE502-0@   (EM15MT02) Estabelecer relação entre a representação geométrica de uma reta no plano cartesiano e os coeficientes de sua representação algébrica, inclusive no contexto da função afim.
+GE303-0@   (EM13MT03) Compreender mediatriz, bissetriz e circunferência como lugares geométricos, utilizando essa ideia para a construção de outras figuras geométricas planas, com o uso de régua e compasso e de softwares de geometria dinâmica.
+GE503-0@   (EM15MT03) Estabelecer relação entre a representação geométrica de circunferências e os coeficientes de sua representação algébrica
+GE504-0@   (EM15MT04) Resolver problemas que envolvem as equações da reta e da circunferência por meio de sua representação no plano cartesiano.
+NO105-0@   (EM11MT05) Resolver e elaborar problemas envolvendo porcentagem e juros compostos, incluindo o uso de tecnologias digitais.
+NO206-0@   (EM12MT06) Compreender as características dos diferentes conjuntos numéricos, a necessidade de ampliá-los (naturais, inteiros, racionais, reais), suas operações e as propriedades das operações.
+NO207-0@   (EM12MT07) Comparar e ordenar números reais, localizando-os na reta numérica e compreender intervalos numéricos, densidade e completude do conjunto dos números reais, os significados de módulo e de simétrico, no contexto de equações e inequações.
+NO208-0@   (EM12MT08) Resolver e elaborar problemas de contagem de possibilidades pelo princípio multiplicativo, incluindo aplicações da unidade probabilidade e estatística.
+NO307-0@   (EM13MT07) Resolver e elaborar problemas, envolvendo porcentagem em situações tais como cálculos de acréscimos e decréscimos, taxa percentual e juros compostos, parcelamentos, financiamentos, dentre outros, com o uso de tecnologias digitais.
+NO405-0@   (EM14MT05) Resolver e elaborar problemas, envolvendo porcentagem em situações tais como cálculos de acréscimos e decréscimos, taxa percentual e juros compostos, parcelamentos, financiamentos, dentre outros, com o uso de tecnologias digitais.
+NO508-0@   (EM15MT08) Resolver e elaborar problemas envolvendo porcentagem em situações financeiras reais, como cartão de crédito, financiamento, previdência, tabela price, amortização, dentre outros.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
