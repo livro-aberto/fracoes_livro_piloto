@@ -2,9 +2,10 @@
 \documentclass[oneside]{book}
 
 \usepackage{template_professor}
-
+%\newcommand{\telas}{}
 \begin{document}
 \pagecolor{special!13 }
+
 
 % Public domain font used here (http://www.1001freefonts.com/homemade_apple.font) should be install to use properly
 % Notebook page definition
@@ -25,11 +26,32 @@
 \pagenumbering{gobble}
 \input{cap1_professor}
 \clearpage
-\input{cap2_professor}
-\clearpage
+\ifdefined\telas
+ \else
+ \mbox{}
+ \newpage
+ \fi
+ \input{cap2_professor}
+ \clearpage
+ \ifdefined\telas
+  \else
+  \mbox{}
+  \newpage
+  \fi
 \input{cap3_professor}
 \clearpage
-\input{cap4_professor}
-\clearpage
+\ifdefined\telas
+ \else
+ \mbox{}
+ \newpage
+ \fi
+ \input{cap4_professor}
+ \clearpage
+ \ifdefined\telas
+  \else
+  \mbox{}
+  \newpage
+  \fi
 \input{cap5_professor}
+
 \end{document}

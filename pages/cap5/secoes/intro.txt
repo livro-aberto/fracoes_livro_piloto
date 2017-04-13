@@ -1,3 +1,0 @@
-;;#
-Ir para [[cap5:texto#intro]]
-;;#

@@ -1,9 +1,0 @@
-;;#
-Ir para [[cap4:texto#problema_motivador]]
-;;#
-
-{{:cap4:secoes:pngs:quadrinho_01.png?nolink&300|}}
-{{:cap4:secoes:pngs:quadrinho_02.png?nolink&300|}}
-{{:cap4:secoes:pngs:quadrinho_03.png?nolink&300|}}
-{{:cap4:secoes:pngs:quadrinho_04.png?nolink&300|}}
-

@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/usr/bin/php /var/www/livro/data/gitrepo/bin/news.php > /var/www/livro/data/gitrepo/comments/all.txt 2>&1

@@ -1,5 +1,0 @@
-====== EXPLORANDO O ASSUNTO ======
-;;#
-Ir para [[cap3:texto#explorando]]
-;;#
-
