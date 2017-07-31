@@ -11,6 +11,7 @@ Para submeter mudanças diretamente por este repositório:
 6. na tela seguinte clique em "Create Pull Request" para nos enviar suas sugestões.
 
 <b>Para administrar sua própria versão deste livro</b>
+
 Deste livro pode ser gerada apenas a versão do aluno ou a do professor (que inclui o texto para o estudante). Em qualquer dos casos será necessário baixar os arquivos .tex, .sty e as figuras. Algumas fontes podem precisar ser instaladas no sistema.
 
 O livro do aluno pode ser gerado apenas compilando o arquivo livro_aluno_completo.tex. Para usar a mesma fonte que utilizamos no original é necessário compilar com xelatex.
