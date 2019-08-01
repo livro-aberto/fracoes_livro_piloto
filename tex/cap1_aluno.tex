@@ -37,8 +37,12 @@ Três amigos repartiram uma barra de chocolate. Veja como eles fizeram.
   \item Com essa divisão, os três amigos receberam a mesma quantidade de chocolate?
   \item Desenhe uma divisão da barra de chocolate que permita que os 3 amigos recebam quantidades iguais de chocolate.
     \begin{center}
-    \includegraphics[width=100pt, keepaspectratio]{../figuras/licao01/ativ1_fig02a.png}
-  \end{center}
+   % \includegraphics[width=100pt, keepaspectratio]{../figuras/licao01/ativ1_fig02a.png}
+
+      \begin{tikzpicture}[scale=10]
+ \draw[fill={rgb,255:red,141; green,94; blue,66}] (0,0) rectangle (4.5,2);        
+      \end{tikzpicture}
+    \end{center}
   \item Considerando a divisão da barra de chocolate em 3 partes iguais, como você nomearia a quantidade de chocolate que cada amigo receberia?
 \end{enumerate} %s
 
@@ -107,16 +111,12 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
     \includegraphics[width=400pt, keepaspectratio]{../figuras/licao01/orgideias_fig05.png}
   \end{center}
 
-%   Outros exemplos aparecem no dia a dia: ``tomei meio copo de leite'' e ``gastei um terço da minha borracha''.
-
-%   ILUSTRAÇÕES DESTA ÚLTIMA FRASE.
-   
 \section{MÃO NA MASSA }
 
 \subsection{Atividade}
 
 \begin{enumerate} [\quad a)] %s
-  \item     Quais dos oito retângulos a seguir foram repartidos em {\it quartos}? \mbox{} \newline
+  \item     Quais dos oito retângulos a seguir foram partidos em \textit{quartos}? \newline
  %\vspace{0.2cm}
 \begin{center}
  \begin{tikzpicture}[scale=5]
@@ -128,19 +128,9 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   \draw[fill=common, fill opacity=.3] (5,3) rectangle (9,6);
   \draw (5,0) -- (9,3);
   \draw (5,3) -- (9,6);
-  \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
-  \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
-  \draw (12,0) -- (12,3);
-  \draw (10,4.5) -- (14,4.5);
-  \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
-  \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
-  \draw (15,1.5) -- (19,1.5);
-  \draw (15,3) -- (19,6);
-\end{tikzpicture}
 
-\vspace{0.2cm}
-
-\begin{tikzpicture}[scale=5]
+  \begin{scope}[xshift=28.5]
+    
   \draw[fill=common, fill opacity=.3] (0,0) rectangle (4,1.5);
   \draw[fill=common, fill opacity=.3] (0,1.5) rectangle (4,3);
   \draw[fill=common, fill opacity=.3] (0,3) rectangle (4,4.5);
@@ -148,10 +138,36 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   \draw[fill=common, fill opacity=.3] (5,0) rectangle (9,3);
   \draw[fill=common, fill opacity=.3] (5,3) rectangle (9,6);
   \draw (7,0) -- (7,6);
+
+  \end{scope}
+  
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+\begin{tikzpicture}[scale=5]
+
+  \begin{scope}[xshift=-28.5]
   \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
   \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
   \draw (12,0) -- (12,3);
-  \draw (10,3) -- (14,6);
+  \draw (10,4.5) -- (14,4.5);
+  
+  \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
+  \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
+  \draw (15,1.5) -- (19,1.5);
+ \draw (15,3) -- (19,6);
+  \end{scope}
+  \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
+  \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
+  \draw (12,0) -- (12,3);
+  \draw (10,6) -- (14,3);
+
+  %\draw[fill=common, fill opacity=.3] (0,0) rectangle (1,6);
+  %\draw[fill=common, fill opacity=.3] (1,0) rectangle (2,6);
+  %\draw[fill=common, fill opacity=.3] (2,0) rectangle (3,6);
+  %\draw[fill=common, fill opacity=.3] (3,0) rectangle (4,6);
+  
   \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
   \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
   \draw (15,0) -- (19,3);
@@ -163,10 +179,10 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
 \end{enumerate}
 
 \begin{refletindo*}[breakable]{}{}
-  Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos, etc., a unidade foi repartida em 2, 3, 4, 5, etc., partes iguais.
-  Assim como no dia a dia, neste livro o termo   {\it partes iguais}   quer dizer   {\it partes com a mesma quantidade}, mesmo que a unidade não esteja dividida em partes de mesma forma.
+  Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos etc, a unidade foi repartida em 2, 3, 4, 5, etc partes iguais.
+  Assim como no dia a dia, neste livro o termo {\it partes iguais}   quer dizer   {\it partes com a mesma quantidade}, mesmo que a unidade não esteja dividida em partes de mesma forma.
   Na atividade anterior, se os retângulos representassem, por exemplo, bolos, as quatro partes em que foram divididos os retângulos representariam quantidades iguais de bolo.
-  Em alguns retângulos as partes não têm a mesma forma.
+  Em alguns retângulos, as partes não têm a mesma forma.
   Os dois quadrinhos a seguir mostram exemplos curiosos em que as partes iguais podem ser surpreendentes.
 
   \noindent\begin{tabular}{ll}
@@ -180,9 +196,6 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   \noindent  \noindent\begin{tabular}{ll}
     \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{../figuras/licao01/reflet_fig04.png}
   \end{tabular}
-
-
-
 
 \end{refletindo*}
 
@@ -236,40 +249,40 @@ d)
 e)
 \parbox[t][3cm][c]{5cm}{
 
-\includegraphics[scale=.6]{..figuras/licao01/paralelepipedo_tercos.png}
+%\includegraphics[scale=.6]{..figuras/licao01/paralelepipedo_tercos.png}
+%}
+  \begin{tikzpicture}%[scale=60]
+  \tikzset{
+  annotated cuboid/.pic={
+    \tikzset{%
+      every edge quotes/.append style={midway, auto},
+      /cuboid/.cd,
+      #1
+    }
+    \draw [every edge/.append style={pic actions, densely dashed, opacity=0}, pic actions]
+    (0,0,0) coordinate (o) -- ++(-\cubescale*\cubex,0,0) coordinate (a) -- ++(0,-\cubescale*\cubey,0) coordinate (b) edge coordinate [pos=1] (g) ++(0,0,-\cubescale*\cubez)  -- ++(\cubescale*\cubex,0,0) coordinate (c) -- cycle
+    (o) -- ++(0,0,-\cubescale*\cubez) coordinate (d) -- ++(0,-\cubescale*\cubey,0) coordinate (e) edge (g) -- (c) -- cycle
+    (o) -- (a) -- ++(0,0,-\cubescale*\cubez) coordinate (f) edge (g) -- (d) -- cycle;
+ },
+  /cuboid/.search also={/tikz},
+  /cuboid/.cd,
+  width/.store in=\cubex,
+  height/.store in=\cubey,
+  depth/.store in=\cubez,
+  units/.store in=\cubeunits,
+  scale/.store in=\cubescale,
+  width=100,
+  height=100,
+  depth=100,
+  units=cm,
+  scale=.1,
 }
-%   \begin{tikzpicture}%[scale=60]
-%   \tikzset{
-%   annotated cuboid/.pic={
-%     \tikzset{%
-%       every edge quotes/.append style={midway, auto},
-%       /cuboid/.cd,
-%       #1
-%     }
-%     \draw [every edge/.append style={pic actions, densely dashed, opacity=0}, pic actions]
-%     (0,0,0) coordinate (o) -- ++(-\cubescale*\cubex,0,0) coordinate (a) -- ++(0,-\cubescale*\cubey,0) coordinate (b) edge coordinate [pos=1] (g) ++(0,0,-\cubescale*\cubez)  -- ++(\cubescale*\cubex,0,0) coordinate (c) -- cycle
-%     (o) -- ++(0,0,-\cubescale*\cubez) coordinate (d) -- ++(0,-\cubescale*\cubey,0) coordinate (e) edge (g) -- (c) -- cycle
-%     (o) -- (a) -- ++(0,0,-\cubescale*\cubez) coordinate (f) edge (g) -- (d) -- cycle;
-%  },
-%   /cuboid/.search also={/tikz},
-%   /cuboid/.cd,
-%   width/.store in=\cubex,
-%   height/.store in=\cubey,
-%   depth/.store in=\cubez,
-%   units/.store in=\cubeunits,
-%   scale/.store in=\cubescale,
-%   width=100,
-%   height=100,
-%   depth=100,
-%   units=cm,
-%   scale=.1,
-% }
-%
-%     \pic [fill=attention, fill opacity=.8] at (50,0) {annotated cuboid={width=100, height=100, depth=14}};
-%     \pic [fill=common, fill opacity=.3] at (60,0) {annotated cuboid={width=100, height=100, depth=14}};
-%     \pic [fill=common, fill opacity=.3] at (70,0) {annotated cuboid={width=100, height=100, depth=14}};
-%     \end{tikzpicture}
-% }
+
+    \pic [fill=attention, fill opacity=.8] at (50,0) {annotated cuboid={width=100, height=100, depth=14}};
+    \pic [fill=common, fill opacity=.3] at (60,0) {annotated cuboid={width=100, height=100, depth=14}};
+    \pic [fill=common, fill opacity=.3] at (70,0) {annotated cuboid={width=100, height=100, depth=14}};
+    \end{tikzpicture}
+}
 &&
 
 f)
@@ -279,9 +292,9 @@ f)
   \filldraw[fill=common, draw=black, fill opacity=.3] (0,0) -- (60:2 cm) -- (0:2 cm) -- (300:2 cm) -- (240:2 cm) -- (180:2 cm) -- (0,0);
   \foreach \x in {0,60,...,300}{
       \draw (\x:2 cm)  -- (\x + 60:2 cm);}
-      \draw (0,0)  -- (60:2 cm);
-      \draw (0,0)  -- (180:2 cm);
-      \draw (0,0)  -- (300:2 cm);
+      \draw (60:-2 cm)  -- (60:2 cm);
+      \draw (180:-2 cm)  -- (180:2 cm);
+      \draw (300:-2 cm)  -- (300:2 cm);
 \end{tikzpicture}
 }
 \\
