@@ -163,15 +163,12 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
   \draw (12,0) -- (12,3);
   \draw (10,6) -- (14,3);
 
-  %\draw[fill=common, fill opacity=.3] (0,0) rectangle (1,6);
-  %\draw[fill=common, fill opacity=.3] (1,0) rectangle (2,6);
-  %\draw[fill=common, fill opacity=.3] (2,0) rectangle (3,6);
-  %\draw[fill=common, fill opacity=.3] (3,0) rectangle (4,6);
-  
-  \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
-  \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
-  \draw (15,0) -- (19,3);
-  \draw (19,3) -- (15,6);
+  \begin{scope}[xshift=42.5]
+  \draw[fill=common, fill opacity=.3] (0,0) rectangle (4,6);
+  \draw (1,0) -- (1,6);
+  \draw (2,0) -- (2,6);
+  \draw (2,3) -- (4,3);
+  \end{scope}
 \end{tikzpicture}
 \end{center}
 
@@ -179,23 +176,31 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
 \end{enumerate}
 
 \begin{refletindo*}[breakable]{}{}
-  Quando se diz que uma unidade é repartida em meios, terços, quartos, quintos etc, a unidade foi repartida em 2, 3, 4, 5, etc partes iguais.
-  Assim como no dia a dia, neste livro o termo {\it partes iguais}   quer dizer   {\it partes com a mesma quantidade}, mesmo que a unidade não esteja dividida em partes de mesma forma.
-  Na atividade anterior, se os retângulos representassem, por exemplo, bolos, as quatro partes em que foram divididos os retângulos representariam quantidades iguais de bolo.
-  Em alguns retângulos, as partes não têm a mesma forma.
-  Os dois quadrinhos a seguir mostram exemplos curiosos em que as partes iguais podem ser surpreendentes.
+  Na atividade anterior, as partes em que os retângulos foram divididos são quartos dos retângulos, mesmo tendo formas diferentes.
 
-  \noindent\begin{tabular}{ll}
-    \includegraphics[width=220pt, keepaspectratio]{../figuras/licao01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/reflet_fig02.png}
+  \begin{center}
+    \begin{tikzpicture}[scale=5]
+        \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
+  \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
+  \draw (12,0) -- (12,3);
+  \draw (10,6) -- (14,3);
+    \end{tikzpicture}
+  \end{center}
+  Se uma unidade é repartida em partes com quantidades iguais, essas partes são frações dessa unidade mesmo que tenham formas diferentes. Observe, nos quadrinhos a seguir, como a pizza foi dividida entre os dois amigos:
 
-  \end{tabular}
-\vspace{.5cm}
-  \hline
-  \vspace{.5cm}
+INSERIR FIGURA NOVA
+  
+ % \noindent\begin{tabular}{ll}
+  %  \includegraphics[width=220pt, keepaspectratio]{../figuras/licao01/reflet_fig01.png} & \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/reflet_fig02.png}
 
-  \noindent  \noindent\begin{tabular}{ll}
-    \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{../figuras/licao01/reflet_fig04.png}
-  \end{tabular}
+  %\end{tabular}
+%\vspace{.5cm}
+ % \hline
+ % \vspace{.5cm}
+
+  %\noindent  \noindent\begin{tabular}{ll}
+   % \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/reflet_fig03.png}   & \includegraphics[width=200pt, keepaspectratio]{../figuras/licao01/reflet_fig04.png}
+  %\end{tabular}
 
 \end{refletindo*}
 
@@ -216,16 +221,17 @@ a)
 }
 & \quad \quad  &
 
-b)
+
+d)
 \parbox[t][3cm][c]{5cm}{
-\begin{tikzpicture}[scale=6]
-  \filldraw[fill=common, fill opacity=.3, draw=black] (0,0) -- (0.5,0.5) -- (3.5,0.5) -- (3.5,2.5) -- (4,3) -- (4,0)--cycle;
-  \fill[attention] (0,0) -- (0.5,0.5) -- (0.5,2.5) -- (3.5,2.5) -- (4,3) -- (0,3)--cycle;
-  \draw (0,0) rectangle (4,3);
-  \draw (0.5,0.5) rectangle (3.5,2.5);
+\begin{tikzpicture}[scale=0.7]
+  \draw[very thick, common] (90:2 cm)  -- (210:2 cm);
+  \draw[very thick, attention] (210:2 cm)  -- (330:2 cm);
+  \draw[very thick, common] (330:2 cm) -- (90:2 cm);
 \end{tikzpicture}
 }
 \\
+
 
 c)
 \parbox[t][3cm][c]{5cm}{
@@ -237,14 +243,71 @@ c)
 }
 & &
 
-d)
+
+g)
+\parbox[t][3cm][c]{5cm}{
+  \begin{tikzpicture}[scale=4]
+    \draw[very thick, attention] (0,3) -- (3,0);
+    \draw[very thick, attention] (3,0) -- (6,3);
+    \draw[very thick, common] (6,3) -- (9,0);
+  \end{tikzpicture}
+}
+
+\\
+h)
+\parbox[t][3cm][c]{5cm}{
+\begin{tikzpicture}[scale=3]
+    \draw[fill=common, fill opacity=.3] (0,0) rectangle (3,1);
+    \draw[fill=attention] (3,0) rectangle (6,1);
+    \draw[fill=common, fill opacity=.3] (6,0) rectangle (9,1);
+\end{tikzpicture}
+}
+& &
+
+i)
+\parbox[t][3cm][c]{5cm}{
+\begin{tikzpicture}[scale=3]
+    \draw[fill=common, fill opacity=.3] (0,0) rectangle (2,1);
+    \draw[fill=attention] (2,0) rectangle (6,1);
+    \draw[fill=common, fill opacity=.3] (6,0) rectangle (9,1);
+\end{tikzpicture}
+}
+\\
+j)
 \parbox[t][3cm][c]{5cm}{
 \begin{tikzpicture}[scale=0.7]
-  \draw[very thick, common] (90:2 cm)  -- (210:2 cm);
-  \draw[very thick, attention] (210:2 cm)  -- (330:2 cm);
-  \draw[very thick, common] (330:2 cm) -- (90:2 cm);
+ \fill[attention] (162:2 cm) -- (234:2 cm) -- (306: 2 cm) -- (378: 2cm) -- (0,0) -- cycle;
+ \filldraw[fill=common, draw=black, fill opacity=.3] (162:2 cm) -- (0,0) -- (378: 2cm) -- (90: 2cm) -- cycle;
+  \foreach \x in {90,162,...,378}{
+ \draw (\x: 2cm) -- (\x + 72: 2cm);
+ \draw (0,0) -- (\x:2cm);}
 \end{tikzpicture}
-    }\\
+}
+&&
+f)
+\parbox[t][3cm][c]{5cm}{
+\begin{tikzpicture}[scale=0.7]
+  \fill[attention] (0,0) -- (60:2 cm) -- (120:2 cm) -- (180:2 cm) -- (0,0);
+  \filldraw[fill=common, draw=black, fill opacity=.3] (0,0) -- (60:2 cm) -- (0:2 cm) -- (300:2 cm) -- (240:2 cm) -- (180:2 cm) -- (0,0);
+  \foreach \x in {0,60,...,300}{
+      \draw (\x:2 cm)  -- (\x + 60:2 cm);}
+      \draw (60:-2 cm)  -- (60:2 cm);
+      \draw (180:-2 cm)  -- (180:2 cm);
+      \draw (300:-2 cm)  -- (300:2 cm);
+\end{tikzpicture}
+}
+\\
+b)
+\parbox[t][3cm][c]{5cm}{
+\begin{tikzpicture}[scale=6]
+  \filldraw[fill=common, fill opacity=.3, draw=black] (0,0) -- (0.5,0.5) -- (4,0.5) -- (4,2) -- (4.5,2.5) -- (4.5,0)--cycle;
+  \fill[attention] (0,0) -- (0.5,0.5) -- (0.5,2) -- (4,2) -- (4.5,2.5) -- (0,2.5)--cycle;
+ \draw (0,0) rectangle (4.5,2.5);
+  \draw (0.5,0.5) rectangle (4,2);
+\end{tikzpicture}
+}
+& &
+
 
 e)
 \parbox[t][3cm][c]{5cm}{
@@ -283,130 +346,81 @@ e)
     \pic [fill=common, fill opacity=.3] at (70,0) {annotated cuboid={width=100, height=100, depth=14}};
     \end{tikzpicture}
 }
-&&
 
-f)
-\parbox[t][3cm][c]{5cm}{
-\begin{tikzpicture}[scale=0.7]
-  \fill[attention] (0,0) -- (60:2 cm) -- (120:2 cm) -- (180:2 cm) -- (0,0);
-  \filldraw[fill=common, draw=black, fill opacity=.3] (0,0) -- (60:2 cm) -- (0:2 cm) -- (300:2 cm) -- (240:2 cm) -- (180:2 cm) -- (0,0);
-  \foreach \x in {0,60,...,300}{
-      \draw (\x:2 cm)  -- (\x + 60:2 cm);}
-      \draw (60:-2 cm)  -- (60:2 cm);
-      \draw (180:-2 cm)  -- (180:2 cm);
-      \draw (300:-2 cm)  -- (300:2 cm);
-\end{tikzpicture}
-}
-\\
 
-g)
-\parbox[t][3cm][c]{5cm}{
-  \begin{tikzpicture}[scale=4]
-    \draw[very thick, attention] (0,3) -- (3,0);
-    \draw[very thick, attention] (3,0) -- (6,3);
-    \draw[very thick, common] (6,3) -- (9,0);
-  \end{tikzpicture}
-}
-&&
-h)
-\parbox[t][3cm][c]{5cm}{
-\begin{tikzpicture}[scale=3]
-    \draw[fill=common, fill opacity=.3] (0,0) rectangle (3,1);
-    \draw[fill=attention] (3,0) rectangle (6,1);
-    \draw[fill=common, fill opacity=.3] (6,0) rectangle (9,1);
-\end{tikzpicture}
-}
-\\
-
-i)
-\parbox[t][3cm][c]{5cm}{
-\begin{tikzpicture}[scale=3]
-    \draw[fill=common, fill opacity=.3] (0,0) rectangle (2,1);
-    \draw[fill=attention] (2,0) rectangle (6,1);
-    \draw[fill=common, fill opacity=.3] (6,0) rectangle (9,1);
-\end{tikzpicture}
-}&&
-j)
-\parbox[t][3cm][c]{5cm}{
-\begin{tikzpicture}[scale=0.7]
- \fill[attention] (162:2 cm) -- (234:2 cm) -- (306: 2 cm) -- (378: 2cm) -- (0,0) -- cycle;
- \filldraw[fill=common, draw=black, fill opacity=.3] (162:2 cm) -- (0,0) -- (378: 2cm) -- (90: 2cm) -- cycle;
-  \foreach \x in {90,162,...,378}{
- \draw (\x: 2cm) -- (\x + 72: 2cm);
- \draw (0,0) -- (\x:2cm);}
-\end{tikzpicture}
-}
 \end{longtable}
 \end{center}
 
 \subsection{Atividade}
 
-Observe a tabela a seguir. Em cada linha, a primeira coluna, mais à esquerda, exibe figuras que são frações de uma unidade. A coluna do meio indica essas frações. Complete a tabela, fazendo na terceira coluna de cada linha, um desenho da unidade correspondente.
+Na tabela a seguir, em cada linha, a primeira coluna mostra figuras que são frações de uma unidade. Na segunda, o nome que usamos. Na terceira coluna de cada linha, desenhe uma unidade juntando frações como a dada.
+
+\def\h{1.8}
 
 \begin{center}
-  \begin{tabular}{|m{0.3\linewidth}|m{0.3\linewidth}|m{0.3\linewidth}|}
+  \begin{longtable}{|m{0.3\linewidth}|m{0.3\linewidth}|m{0.3\linewidth}|}
   \hline
-\centering Parte da unidade & \centering Fração da unidade  & \quad\quad\quad Unidade  \\
+\centering Fração da unidade & \centering Nome da fração da unidade  & \quad\quad\quad Unidade  \\
 \hline \hline
 \centering \begin{tikzpicture}[scale=2]
  \draw [fill=common, fill opacity=.3] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
 \end{tikzpicture}
-&\centering \parbox[c][1.2cm][c]{0.01cm}{  } metade  &  \\
+&\centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
     \hline
 \centering\begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
-\end{tikzpicture}        &\parbox[c][1.2cm][c]{0.01cm}{  } \centering   um terço  &  \\
+\end{tikzpicture}        &\parbox[c][\h cm][c]{0.01cm}{  } \centering   um terço  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
-\end{tikzpicture}        & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um quarto  &  \\
+\end{tikzpicture}        & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) rectangle (3,3);
 \end{tikzpicture}
-  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } metade  &  \\
+  & \centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) rectangle (3,3);
 \end{tikzpicture}
-  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um terço  &  \\
+  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um terço  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) rectangle (3,3);
 \end{tikzpicture}
- & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um quarto  &  \\
+ & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw  (0,0) -- (3,3);
 \end{tikzpicture}
-  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } metade  &  \\
+  & \centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw  (0,0) -- (3,3);
 \end{tikzpicture}
-  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um terço  &  \\
+  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um terço  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw  (0,0) -- (3,3);
 \end{tikzpicture}
-  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um quarto  &  \\
+  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
-\end{tikzpicture}  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } metade  &  \\
+\end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
-\end{tikzpicture}  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um terço  &  \\
+\end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um terço  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
 \draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
-\end{tikzpicture}  & \centering \parbox[c][1.2cm][c]{0.01cm}{  } um quarto  &  \\
+\end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
-  \end{tabular}
+  \end{longtable}
 \end{center}
 
-\pagebreak
+%\pagebreak
 \subsection{Atividade}
 
 \begin{enumerate} [\quad a)] %s
