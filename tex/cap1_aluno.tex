@@ -277,8 +277,8 @@ j)
 \parbox[t][3cm][c]{5cm}{
 \begin{tikzpicture}[scale=0.7]
 
-\filldraw [fill=attention, draw=black] (0:2 cm) -- (90:2 cm) -- (180:2 cm) -- (0,0) -- ( (270:2 cm) --cycle;
-\fill[common, fill opacity=.3] (180:2 cm) -- (270:2cm) -- (0,0) -- cycle;
+\filldraw [fill=common, fill opacity=.3, draw=black] (0:2 cm) -- (90:2 cm) -- (180:2 cm) -- (0,0) -- ( (270:2 cm) --cycle;
+\fill[attention] (180:2 cm) -- (270:2cm) -- (0,0) -- cycle;
 \draw (180:2 cm) -- (0:2 cm);
 \draw (90:2 cm) -- (270:2 cm);
 \draw (180:2 cm) -- (270:2 cm);
@@ -290,6 +290,7 @@ f)
 \begin{tikzpicture}[scale=0.7]
   \filldraw[fill=attention, draw=black] (-2 cm, 0) -- (0,0) -- (0, 2 cm) arc (90:180:2 cm) -- cycle;
   \filldraw[fill=common, draw=black, fill opacity=.3] (-2 cm, 0) -- (2 cm,0) arc (0:-180: 2cm);
+  \fill (0,0) circle (2 pt);
 \end{tikzpicture}
 }
 \\
@@ -351,10 +352,27 @@ e)
 
 \subsection{Atividade}
 
-Na tabela a seguir, em cada linha, a primeira coluna mostra figuras que são frações de uma unidade. Na segunda, o nome que usamos. Na terceira coluna de cada linha, desenhe uma unidade juntando frações como a dada.
 
-\def\h{1.8}
+\begin{enumerate}[a)]
+\item Na tabela a seguir, a primeira coluna mostra uma figura que é uma fração de uma unidade. Na segunda, o nome que usamos para essa fração. Desenhe uma unidade na terceira coluna, unindo frações como essa.
+  
+  \def\h{1.8}
+  
+\begin{center}
+  \begin{tabular}{|m{0.3\linewidth}|m{0.3\linewidth}|m{0.3\linewidth}|}
+  \hline
+\centering Fração da unidade & \centering Nome da fração da unidade  & \quad\quad\quad Unidade  \\
+\hline \hline
+\centering \begin{tikzpicture}[scale=2]
+ \draw [fill=common, fill opacity=.3] (0,0) arc (0:90:3) -- (-3,0) -- cycle;
+\end{tikzpicture}
+&\centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
+    \hline
+  \end{tabular}
+\end{center}
 
+\item A seguir, complete cada linha da tabela como no item anterior.
+  
 \begin{center}
   \begin{longtable}{|m{0.3\linewidth}|m{0.3\linewidth}|m{0.3\linewidth}|}
   \hline
@@ -417,8 +435,9 @@ Na tabela a seguir, em cada linha, a primeira coluna mostra figuras que são fra
     \hline
   \end{longtable}
 \end{center}
+\end{enumerate}
+% \pagebreak
 
-%\pagebreak
 \subsection{Atividade}
 
 \begin{enumerate} [\quad a)] %s
@@ -439,7 +458,7 @@ Na tabela a seguir, em cada linha, a primeira coluna mostra figuras que são fra
   \begin{center}
  \begin{tikzpicture}[x=1mm,y=1mm, scale=.7]  \draw[fill=common, fill opacity=.3] (0,0) rectangle (20,20);  \end{tikzpicture}
   \end{center}
-  \item     Observando os quadrados pintados nos itens anteriores, qual é a maior das frações do quadrado: metade, quarto ou oitavo?
+  \item     Qual é a maior das frações do quadrado: metade, quarto ou oitavo?
 \end{enumerate} %s
 
 
