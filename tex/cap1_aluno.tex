@@ -276,24 +276,20 @@ i)
 j)
 \parbox[t][3cm][c]{5cm}{
 \begin{tikzpicture}[scale=0.7]
- \fill[attention] (162:2 cm) -- (234:2 cm) -- (306: 2 cm) -- (378: 2cm) -- (0,0) -- cycle;
- \filldraw[fill=common, draw=black, fill opacity=.3] (162:2 cm) -- (0,0) -- (378: 2cm) -- (90: 2cm) -- cycle;
-  \foreach \x in {90,162,...,378}{
- \draw (\x: 2cm) -- (\x + 72: 2cm);
- \draw (0,0) -- (\x:2cm);}
+
+\filldraw [fill=attention, draw=black] (0:2 cm) -- (90:2 cm) -- (180:2 cm) -- (0,0) -- ( (270:2 cm) --cycle;
+\fill[common, fill opacity=.3] (180:2 cm) -- (270:2cm) -- (0,0) -- cycle;
+\draw (180:2 cm) -- (0:2 cm);
+\draw (90:2 cm) -- (270:2 cm);
+\draw (180:2 cm) -- (270:2 cm);
 \end{tikzpicture}
 }
 &&
 f)
 \parbox[t][3cm][c]{5cm}{
 \begin{tikzpicture}[scale=0.7]
-  \fill[attention] (0,0) -- (60:2 cm) -- (120:2 cm) -- (180:2 cm) -- (0,0);
-  \filldraw[fill=common, draw=black, fill opacity=.3] (0,0) -- (60:2 cm) -- (0:2 cm) -- (300:2 cm) -- (240:2 cm) -- (180:2 cm) -- (0,0);
-  \foreach \x in {0,60,...,300}{
-      \draw (\x:2 cm)  -- (\x + 60:2 cm);}
-      \draw (60:-2 cm)  -- (60:2 cm);
-      \draw (180:-2 cm)  -- (180:2 cm);
-      \draw (300:-2 cm)  -- (300:2 cm);
+  \filldraw[fill=attention, draw=black] (-2 cm, 0) -- (0,0) -- (0, 2 cm) arc (90:180:2 cm) -- cycle;
+  \filldraw[fill=common, draw=black, fill opacity=.3] (-2 cm, 0) -- (2 cm,0) arc (0:-180: 2cm);
 \end{tikzpicture}
 }
 \\
@@ -341,9 +337,11 @@ e)
   scale=.1,
 }
 
-    \pic [fill=attention, fill opacity=.8] at (50,0) {annotated cuboid={width=100, height=100, depth=14}};
-    \pic [fill=common, fill opacity=.3] at (60,0) {annotated cuboid={width=100, height=100, depth=14}};
-    \pic [fill=common, fill opacity=.3] at (70,0) {annotated cuboid={width=100, height=100, depth=14}};
+    \pic [fill=attention] at (50,0) {annotated cuboid={width=100, height=100, depth=14}};
+    \pic [fill=common, fill opacity=.3] at (70,0) {annotated cuboid={width=200, height=100, depth=14}};
+    \draw [dashed, lightgray] (50,-10,-1.4) -- (70,-10,-1.4);
+    \draw [dashed, lightgray] (60,-10,0) -- (60,-10,-1.4) -- (60,0,-1.4);
+    \draw [dashed] (60,0,-1.4) -- (60,0,0) -- (60,-10,0);
     \end{tikzpicture}
 }
 
