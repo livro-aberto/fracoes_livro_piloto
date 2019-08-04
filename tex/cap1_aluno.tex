@@ -439,15 +439,15 @@ e)
   & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
-\draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=common, fill opacity=.3] (90:2) -- (210:2) -- (330:2) -- cycle;
 \end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } metade  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
-\draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=common, fill opacity=.3] (90:2) -- (210:2) -- (330:2) -- cycle;
 \end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um terço  &  \\
     \hline
 \centering \begin{tikzpicture}[scale=2]
-\draw [fill=common, fill opacity=.3] (0,0) -- (3,0) -- (-1.5,1.5) -- cycle;
+\draw [fill=common, fill opacity=.3] (90:2) -- (210:2) -- (330:2) -- cycle;
 \end{tikzpicture}  & \centering \parbox[c][\h cm][c]{0.01cm}{  } um quarto  &  \\
     \hline
   \end{longtable}
@@ -579,7 +579,7 @@ Identifique as figuras em que a parte pintada de vermelho é a metade da figura.
 & &
 
 \begin{tikzpicture}[scale=5]
-  \fill[attention] (60:2) -- (120:2) -- (180:2) -- (240:2) --cycle;
+  \filldraw[fill=attention, draw=black] (60:2) -- (120:2) -- (180:2) -- (240:2) --cycle;
 \filldraw[fill=common, fill opacity=.3] (60:2) -- (240:2) -- (300:2) -- (0:2) --cycle;
   \draw (60:2) -- (0,0) -- (240:2);
   \draw (2,0) -- (0,0) -- (300:2) (0,-3) node{Figura 8};

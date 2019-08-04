@@ -12,17 +12,13 @@
 %Capa
 
 \thispagestyle{empty}
-a
+
 \crop
 \begin{tikzpicture}[remember picture,overlay, x=1cm,y=1cm]
 \fill[light]  ([yshift=2mm,xshift=-2mm]current page.north west) rectangle ([yshift=-2mm,xshift=2mm]current page.south east);
   [xshift=-1.5cm,yshift=-1.3cm] at (current page.south east)
   \node[xshift=-7cm,yshift=-2cm] at (current page.north east) {\normalsize INSTITUTO NACIONAL DE MATEMÁTICA PURA E APLICADA};
  %\fill[white, xshift=2cm,yshift=-5cm]  (current page.north west) (0,0) rectangle (10,-10);
-
-
-
-
 
 \def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
 
@@ -143,7 +139,7 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
     -- (210,9); %(118, 0) node{\color{white} Lição \thechapter} (105,-27);
   \end{tikzpicture}
 } % before title
-[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+[\vspace{3cm} \hfill{\bigtitlefont\raggedright\color{special} #1}] % after title
 %\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -198,7 +194,7 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
     -- (210,9) (118, 0) node{\color{white} Lição \thechapter} (105,-27);
   \end{tikzpicture}
 } % before title
-[\vspace{3cm} \hfill{\bf\bigtitlefont\raggedright\color{special} #1}] % after title
+[\vspace{3cm} \hfill{\bigtitlefont\raggedright\color{special} #1}] % after title
 %\titlespacing*{\chapter}{0pt}{50pt}{100pt} % {<command>}{<left>}{<before-sep>}{<after-sep>}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -240,7 +236,7 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 {\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
 \thispagestyle{empty}
 \input{cap1_aluno}}
- %\input{cap2_aluno}
+%\input{cap2_aluno}
 %\input{cap3_aluno}
 % \input{cap4_aluno}
 %\input{cap5_aluno}

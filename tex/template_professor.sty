@@ -90,7 +90,7 @@ marginpar=10mm]{geometry}
 \RequirePackage{tikz}
 \usetikzlibrary{shapes}
 \usetikzlibrary{calc}
-\usetikzlibrary{snakes}
+\usetikzlibrary{decorations.pathmorphing}
 
 % Refletindo
 \RequirePackage{tcolorbox}
@@ -122,17 +122,24 @@ marginpar=10mm]{geometry}
   {\par\xdef\tpd{\the\prevdepth}\egroup
    \prevdepth=\tpd}
 
-\newenvironment{resposta*}[1]
-{ \color{common}
-  %\begin{center}
+ % Para retirar o destaque da resposta
+% \newenvironment{resposta*}[1]
+% { \color{common}
+%   %\begin{center}
+%   \bigskip \medskip
+%     {\large\normalfont\bfseries Resposta da #1}\\ \medskip
+%   %\end{center}
+%   \color{dark!70!black}
+%   \begingroup\thickfont
+% }
+ 
+  \newenvironment{resposta*}[1]
+{ \noindent  
   \bigskip \medskip
-    {\large\normalfont\bfseries Resposta da #1}\\ \medskip
-  %\end{center}
-  \color{dark!70!black}
-  \begingroup\thickfont
-}
-{ \color{black}
-  \endgroup
+    {\normalfont\bfseries Resposta da #1}%\\ \medskip
+\vspace{-.5cm}
+  }
+{ %\color{black}
 }
 
 \newtcbtheorem{imagem}{Imagem}%
@@ -141,3 +148,20 @@ marginpar=10mm]{geometry}
 {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
 \newtcbtheorem{nota}{Nota}%
 {colback=gray!5,colframe=gray!35!black,fonttitle=\bfseries}{th}
+
+% Página de notas para o professor.
+% Atenção: a fonte Homemade Apple deve ser baixada e instalada no sistema operacional. No Ubuntu, é só abrir diretamente o arquivo e clicar em instalar.
+% Public domain font used here (http://www.1001freefonts.com/homemade_apple.font) should be install to use properly
+
+\def\Bg{\newpage
+ \vspace*{-1.2cm}
+ \thispagestyle{empty}
+\hspace{-2cm} \begin{tikzpicture}[anchor=north, normal lines/.style={gray, very thin}, every node/.append style={black, align=center, opacity=1}]
+    \foreach \y in {0.71,1.41,...,25.56}
+      \draw[normal lines, lightgray] (0,\y) -- (8.1 in,\y);
+    \draw[normal lines, attention] (2cm,0) -- (2cm,11in);
+     \node (t) [ font=\LARGE, anchor=south] at ($(0,25.76)!1/2!(7.8 in,25.76)$) {\fontspec{HomemadeApple} Notas de Aula};
+  \end{tikzpicture}%
+\quad
+\newpage
+}
