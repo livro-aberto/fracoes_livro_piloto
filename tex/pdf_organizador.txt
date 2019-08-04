@@ -1,1 +1,0 @@
-pdftk A=capa.pdf B=blank.pdf C=contra_capa.pdf D=introducao.pdf E=livro_aluno_completo.pdf cat A B C B D E output fracoes_aluno.pdf
