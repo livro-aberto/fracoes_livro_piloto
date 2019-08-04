@@ -5,7 +5,7 @@
 % %{} % style
 % {\titlefont\Huge\bf} % style
 % {} % label
-% {0pt} % separation
+% {0pt} % separationS
 % {\begin{tikzpicture}[remember picture,overlay]
 %     \filldraw [x=1mm,y=1mm, special, overlay] (37,0) circle [radius=9];
 %     \filldraw [x=1mm,y=1mm, attention, overlay] (58,0) circle [radius=9];
@@ -120,23 +120,32 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
  %\vspace{0.2cm}
 \begin{center}
  \begin{tikzpicture}[scale=5]
-  \draw[fill=common, fill opacity=.3] (0,0) rectangle (1,6);
-  \draw[fill=common, fill opacity=.3] (1,0) rectangle (2,6);
-  \draw[fill=common, fill opacity=.3] (2,0) rectangle (3,6);
-  \draw[fill=common, fill opacity=.3] (3,0) rectangle (4,6);
+   % primeiro de cima
+   % [fill=common, fill opacity=.3]
+  \fill[pink] (0,0) rectangle (4,6);
+  \draw (0,0) rectangle (1,6);
+  \draw (1,0) rectangle (2,6);
+  \draw (2,0) rectangle (3,6);
+  \draw (3,0) rectangle (4,6);
+  
+  % segundo de cima
   \draw[fill=common, fill opacity=.3] (5,0) rectangle (9,3);
   \draw[fill=common, fill opacity=.3] (5,3) rectangle (9,6);
   \draw (5,0) -- (9,3);
   \draw (5,3) -- (9,6);
 
   \begin{scope}[xshift=28.5]
-    
-  \draw[fill=common, fill opacity=.3] (0,0) rectangle (4,1.5);
-  \draw[fill=common, fill opacity=.3] (0,1.5) rectangle (4,3);
-  \draw[fill=common, fill opacity=.3] (0,3) rectangle (4,4.5);
-  \draw[fill=common, fill opacity=.3] (0,4.5) rectangle (4,6);
-  \draw[fill=common, fill opacity=.3] (5,0) rectangle (9,3);
-  \draw[fill=common, fill opacity=.3] (5,3) rectangle (9,6);
+  % terceiro de cima    
+\fill[attention] (0,0) rectangle (4,6);
+  \draw(0,0) rectangle (4,1.5);
+  \draw (0,1.5) rectangle (4,3);
+  \draw (0,3) rectangle (4,4.5);
+  \draw (0,4.5) rectangle (4,6);
+
+  % quarto de cima
+  \fill[OliveGreen, opacity=.5] (5,0) rectangle (9,6);
+  \draw (5,0) rectangle (9,3);
+  \draw (5,3) rectangle (9,6);
   \draw (7,0) -- (7,6);
 
   \end{scope}
@@ -148,22 +157,30 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
 \begin{tikzpicture}[scale=5]
 
   \begin{scope}[xshift=-28.5]
-  \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
-  \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
+    % primeiro debaixo
+  \fill[Purple, opacity=.5] (10,0) rectangle (14,6);  
+  \draw (10,0) rectangle (14,3);
+  \draw (10,3) rectangle (14,6);
   \draw (12,0) -- (12,3);
   \draw (10,4.5) -- (14,4.5);
   
+  % 2 debaixo
+  \fill[yellow] (15,0) rectangle (19,6);
   \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
   \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
   \draw (15,1.5) -- (19,1.5);
  \draw (15,3) -- (19,6);
   \end{scope}
+  % 3 debaixo
+  \fill[gray, opacity=.8] (10,0) rectangle (14,6);
   \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
   \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
   \draw (12,0) -- (12,3);
   \draw (10,6) -- (14,3);
 
+  % 4 debaixo  
   \begin{scope}[xshift=42.5]
+  \fill[orange] (0,0) rectangle (4,6);
   \draw[fill=common, fill opacity=.3] (0,0) rectangle (4,6);
   \draw (1,0) -- (1,6);
   \draw (2,0) -- (2,6);
