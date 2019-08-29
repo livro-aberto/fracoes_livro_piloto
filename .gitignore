@@ -10,3 +10,6 @@ comments/*
 *.toc
 B.pdf
 *.pdf
+*.txt
+auto/
+*.ttf
