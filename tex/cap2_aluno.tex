@@ -1,7 +1,7 @@
 
 \setcounter{chapter}{1}
 \setcounter{subsection}{0}
-\chapter{Multiplicando a fração da unidade }
+\chapter{Juntando frações da unidade }
 \vspace*{-1.3cm}
 
 
@@ -14,6 +14,22 @@
 \clearpage
 
 \section{EXPLORANDO O ASSUNTO }
+
+\subsection{Atividade}
+
+Luiza, João e Mariele foram a uma pizzaria. Cada um pediu uma pizza de seu sabor preferido. 
+Luiza cortou sua pizza em 4 fatias; João cortou sua pizza em 6 fatias; Mariele cortou sua pizza em 8 fatias.
+Veja o quanto restou de pizza após os amigos estarem satisfeitos:
+
+IMAGEM
+
+\begin{enumerate} [\quad a)] %d
+\item   Identifique a pizza de cada um dos amigos.
+\item   Em cada caso, que fração da pizza representa uma fatia?
+\item   Como você representaria a quantidade de pizza que cada amigo comeu utilizando fração?
+\end{enumerate}
+ 
+
 
 \subsection{Atividade}
 
@@ -435,185 +451,6 @@ Um grupo de amigos está dividindo duas pizzas circulares do mesmo tamanho. A pr
   \item     Qual fatia tem mais quantidade de pizza: uma fatia da primeira pizza ou uma fatia da segunda? Explique usando um desenho.
 \end{enumerate} %s
 
-\subsection{Atividade}
-
-Preencha cada lacuna a seguir com uma fração adequada (use notação simbólica matemática). Perceba que uma mesma região pintada pode ser descrita por frações diferentes, dependendo da unidade considerada.
-
-%definição da região limitada pelos 2 hexágonos encaixados.
-\def \tripinha{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4)--cycle;}
-%definição da região limitada pelos 3 hexágonos encaixados.
-\def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
-
-\begin{enumerate} [\quad a)] %s
-%a
-\item     A região pintada em vermelho em
-\begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle (0,4);
-\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
-\end{scope}
-\end{tikzpicture}
-é
-\begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}
-de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
-\end{tikzpicture}.
- %b
-\item     A região pintada em vermelho em
-\begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle (0,4);
-\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
-\end{scope}
-\end{tikzpicture}
-é
-\begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}
-de
-\begin{tikzpicture}[scale=1.3]
- \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
-\end{tikzpicture}.
-
-%c
-\item     A região pintada em vermelho em \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle (0,4);
-\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
-\end{scope}
-\end{tikzpicture}
-     é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] \tripa;
-\end{tikzpicture}.
-
-%d
- \item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}  é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
-\end{tikzpicture}.
-%e
-\item     A região pintada em vermelho em   \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}    é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
- \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
-\end{tikzpicture}.
-
-%f
-\item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}   é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] \tripa;
-\end{tikzpicture}.
-
-%g
-\item     A região pintada em vermelho em
-\begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}
-é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
-\end{tikzpicture}.
-%h
-\item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture} é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
- \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
-\end{tikzpicture}.
-
-%i
-\item     A região pintada em vermelho em
-\begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
-\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}
-é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] \tripa;
-\end{tikzpicture}.
-%j
-\item     A região pintada em vermelho em
-  \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}
-é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
-\end{tikzpicture}.
-%k
-\item     A região pintada em vermelho em
-\begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}
-é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
- \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
-\end{tikzpicture}.
-
-%l
-\item     A região pintada em vermelho em
-  \begin{tikzpicture}[scale=1.3]
- \draw \tripa;
-\begin{scope}
- \clip \tripa;
-\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
-\end{scope}
-\end{tikzpicture}
-é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
-\begin{tikzpicture}[scale=1.3]
-\draw[fill=common, fill opacity=.3] \tripa;
-\end{tikzpicture}.
-
-
-\end{enumerate} %s
 
 \subsection{Atividade}
 
@@ -824,15 +661,208 @@ Com estas informações, marque as posições de parada dos carrinhos de todos o
 
 Os carrinhos de Rafael e Samuel pararam no mesmo lugar? Explique.
 
+
+\subsection{Atividade}
+
+Anita, Gustavo e Henrique descobriram que todos tinham levado bolo para o lanche.\newline
+Anita falou: ``Mamãe colocou metade do bolo no meu lanche.''\newline
+Gustavo falou: ``Eu trouxe um terço do bolo que minha tia fez.''\newline
+Henrique falou: ``Eu trouxe apenas um quinto do bolo que minha mãe preparou!''\newline
+Para surpresa de todos, ao retirarem seus lanches da mochila, descobriram que todos traziam-no em  embalagens iguais, portanto traziam a mesma quantidade de bolo.\newline
+Como você explica tal situação?
+
+
 \section{QUEBRANDO A CUCA }
 \vspace*{-.4cm}
+
 
 \subsection{Atividade}
 
 (NAEP, 1992) Pense cuidadosamente nesta questão. Escreva uma resposta completa. Você pode usar desenhos, palavras e números para explicar sua resposta. Certifique-se de mostrar todo o seu raciocínio.
 
 José comeu $\frac{1}{2}$ de uma pizza. Ella comeu $\frac{1}{2}$ de uma outra pizza. José disse que ele comeu mais pizza do que Ella, mas Ella diz que eles comeram a mesma quantidade. Use palavras, figuras ou números para mostrar que José pode estar certo.
-\vspace*{-.5cm}
+%\vspace*{-.5cm}
+
+
+\subsection{Atividade}
+
+Complete as sentenças a seguir com uma fração adequada (use notação simbólica matemática). Perceba que uma mesma região pintada pode ser descrita por frações diferentes, dependendo da unidade considerada.
+
+%definição da região limitada pelos 2 hexágonos encaixados.
+\def \tripinha{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4)--cycle;}
+%definição da região limitada pelos 3 hexágonos encaixados.
+\def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
+
+\begin{enumerate} [\quad a)] %s
+%a
+\item     A região pintada em vermelho em
+\begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle (0,4);
+\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
+\end{scope}
+\end{tikzpicture}
+é
+\begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}
+de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
+\end{tikzpicture}.
+ %b
+\item     A região pintada em vermelho em
+\begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle (0,4);
+\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
+\end{scope}
+\end{tikzpicture}
+é
+\begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}
+de
+\begin{tikzpicture}[scale=1.3]
+ \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
+\end{tikzpicture}.
+
+%c
+\item     A região pintada em vermelho em \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle (0,4);
+\draw[fill=common, fill opacity=.3] (0,-4) rectangle (20,4);
+\end{scope}
+\end{tikzpicture}
+     é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] \tripa;
+\end{tikzpicture}.
+
+%d
+ \item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}  é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
+\end{tikzpicture}.
+%e
+\item     A região pintada em vermelho em   \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}    é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+ \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
+\end{tikzpicture}.
+
+%f
+\item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({4*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({4*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}   é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] \tripa;
+\end{tikzpicture}.
+
+%g
+\item     A região pintada em vermelho em
+\begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}
+é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
+\end{tikzpicture}.
+%h
+\item     A região pintada em vermelho em  \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture} é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+ \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
+\end{tikzpicture}.
+
+%i
+\item     A região pintada em vermelho em
+\begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({8*sqrt(3)},4);
+\draw[fill=common, fill opacity=.3] ({8*sqrt(3)},-4) rectangle ({10*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}
+é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] \tripa;
+\end{tikzpicture}.
+%j
+\item     A região pintada em vermelho em
+  \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}
+é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4) -- (210:4) -- (270:4) -- (330:4)--cycle;
+\end{tikzpicture}.
+%k
+\item     A região pintada em vermelho em
+\begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}
+é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+ \draw[fill=common, fill opacity=.3] (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) --(30:4) -- (90:4) -- (150:4)--cycle;
+\end{tikzpicture}.
+
+%l
+\item     A região pintada em vermelho em
+  \begin{tikzpicture}[scale=1.3]
+ \draw \tripa;
+\begin{scope}
+ \clip \tripa;
+\draw[fill=attention] (-4,-4) rectangle ({12*sqrt(3)},4);
+\end{scope}
+\end{tikzpicture}
+é \begin{tikzpicture} \draw (0,0)--(20,0);\end{tikzpicture}    de
+\begin{tikzpicture}[scale=1.3]
+\draw[fill=common, fill opacity=.3] \tripa;
+\end{tikzpicture}.
+
+\end{enumerate} %s
+
 
 \subsection{Atividade}
 
