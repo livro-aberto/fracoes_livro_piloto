@@ -1,4 +1,6 @@
 
+%\usetikzlibrary{decorations}
+\usetikzlibrary{decorations.pathreplacing}
 
 \noindent {\color{special}{\Large \bf LIÇÃO 3 - Para o professor}}
 \vspace{.5cm}
@@ -19,7 +21,7 @@ A construção da reta numérica será amparada pelo conhecimento anterior dos a
 \begin{tikzpicture}[x=1mm,y=1mm]
  \draw[fill=attention] (0,0) rectangle (15,10);
  \draw[fill=common, fill opacity=.3] (15,0) rectangle (30,10);
- \draw [thick, decoration={brace,raise=5}, decorate] (0,9) -- (15,9);
+ \draw [thick, decorate, decoration={brace,raise=5}] (0,9) -- (15,9);
 \node[above] at (7.5,11) {$\frac{1}{2}$};
 
 \begin{scope}[yshift=-.5cm]

@@ -1,6 +1,6 @@
 \RequirePackage{amsmath,amssymb}
 
-\RequirePackage[T1]{fontenc}
+%\RequirePackage[T1]{fontenc}
 \RequirePackage[brazil]{babel}
 
 \RequirePackage{geometry}
@@ -31,20 +31,20 @@ footskip=.35in
 \RequirePackage{longtable}% para quebrar tabela entre páginas
 % Place crop marks
 \RequirePackage[center,height=297mm,width=210mm,cam]{crop}
-\RequirePackage{cabin}
+%\RequirePackage{cabin}
 % Choose font
 \RequirePackage{ifxetex}
 \ifxetex
    \RequirePackage{fontspec}
-   \setmainfont[Ligatures=TeX]{Lato Light}
-   \newfontface\titlefont{STIXIntegralsUp}
-   \newfontface\thickfont[Ligatures=TeX]{Nimbus Sans L}
-   \newfontface\bigtitlefont[Scale=1.3]{Cabin}
+   \setmainfont{Lato-Light.ttf}[BoldFont=Lato-Medium.ttf, ItalicFont=Lato-LightItalic.ttf, BoldItalicFont=Lato-MediumItalic.ttf]
+   \newfontface\titlefont{STIXIntUp.ttf}
+   \newfontface\thickfont{NimbusSanL-Reg.otf}[BoldFont=NimbusSanL-Bol.otf, ItalicFont=NimbusSanL-RegIta.otf, BoldItalicFont=NimbusSanL-BolIta.otf]
+   \newfontface\bigtitlefont[Scale=1.3]{Cabin-Regular.ttf}[BoldFont=Cabin-Bold.ttf, ItalicFont=Cabin-Italic.ttf, BoldItalicFont=Cabin-BoldItalic.ttf]
    %\setmonofont{Homemade Apple}
    %\newcommand\titlefont{}
    %\newcommand\thickfont{}
 \else
-   \RequirePackage[utf8]{inputenc}
+%   \RequirePackage[utf8]{inputenc}
 %   \RequirePackage[sfdefault,thin]{roboto}  %% sfdefault is the base font
    \RequirePackage{helvet}
    \newcommand\titlefont{\fontfamily{helvet}\selectfont}

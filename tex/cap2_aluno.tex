@@ -17,16 +17,39 @@
 
 \subsection{Atividade}
 
-Luiza, João e Mariele foram a uma pizzaria. Cada um pediu uma pizza de seu sabor preferido. 
-Luiza cortou sua pizza em 4 fatias; João cortou sua pizza em 6 fatias; Mariele cortou sua pizza em 8 fatias.
+Luiza, João e Mariele foram a uma pizzaria. Cada um pediu uma pizza do seu sabor preferido. 
+Luiza cortou sua pizza em 4 fatias; João cortou sua pizza em 6 fatias e Mariele cortou sua pizza em 8 fatias.
 Veja o quanto restou de pizza após os amigos estarem satisfeitos:
 
-IMAGEM
+\begin{center}
+  \begin{tikzpicture}
+\fill[common] (0,0) -- (120: 2cm) arc (120:240:2cm)--cycle;
+\draw (0,0) circle (2cm);
+\foreach \t in {0,60,...,300}{
+  \draw (0,0) -- (\t: 2cm);
+}  
+\end{tikzpicture} \quad
+\begin{tikzpicture}
+\fill[common] (0,0) -- (135: 2cm) arc (135:225:2cm)--cycle;
+\draw (0,0) circle (2cm);
+\foreach \t in {0,45,...,315}{
+  \draw (0,0) -- (\t: 2cm);
+}  
+\end{tikzpicture}\quad
+\begin{tikzpicture}
+\fill[common] (0,0) -- (180: 2cm) arc (180:270:2cm)--cycle;
+\draw (0,0) circle (2cm);
+\foreach \t in {0,90,...,270}{
+  \draw (0,0) -- (\t: 2cm);
+}  
+\end{tikzpicture}
+% Figura certa no Google Docs _Rascunho Frações
+\end{center}
 
 \begin{enumerate} [\quad a)] %d
 \item   Identifique a pizza de cada um dos amigos.
 \item   Em cada caso, que fração da pizza representa uma fatia?
-\item   Como você representaria a quantidade de pizza que cada amigo comeu utilizando fração?
+\item   Escreva a quantidade de pizza que cada amigo comeu utilizando fração?
 \end{enumerate}
  
 
@@ -43,7 +66,6 @@ O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem reparti
 \end{center}
 
 Ana propôs que cada barra fosse dividida em três partes iguais e que cada irmã ficasse com duas dessas partes.
-
 
 \begin{center}
 \begin{tikzpicture}[x=1mm,y=1mm,scale=0.9]
@@ -96,7 +118,7 @@ Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na
 
 \subsection{Atividade}
 
-Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou três tortas salgadas para uma comemoração.
+Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou três tortas salgadas, de mesmo tamanho retangular, como na ilustração para uma comemoração.
 
 \begin{center}
  \begin{tikzpicture}[scale=0.6]
