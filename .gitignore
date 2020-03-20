@@ -8,9 +8,10 @@ comments/*
 *.log
 *.tex.backup
 *.toc
-B.pdf
+*.pdf
 *.pdf
 *.txt
+*.otf
 auto/
 *.ttf
 *.tex~

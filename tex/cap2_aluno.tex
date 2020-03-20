@@ -68,19 +68,24 @@ O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem reparti
 Ana propôs que cada barra fosse dividida em três partes iguais e que cada irmã ficasse com duas dessas partes.
 
 \begin{center}
+  
 \begin{tikzpicture}[x=1mm,y=1mm,scale=0.9]
-\draw[fill=Sepia] (0,0) rectangle (60,20);
+\begin{scope}[shift={(37.5,0)}]
+\draw[fill=Sepia](0,0) rectangle (60,20);
 \draw (20,0) -- (20,20);
 \draw (40,0) -- (40,20);
 
-\draw[fill=Sepia, shift={(65,0)}] (0,0) rectangle (60,20);
-\draw[shift={(65,0)}] (20,0) -- (20,20);
-\draw[shift={(65,0)}] (40,0) -- (40,20);
+\begin{scope}[shift={(0,35)}]
+\draw[fill=Sepia] (0,0) rectangle (60,20);
+\draw (20,0) -- (20,20);
+\draw (40,0) -- (40,20);
+\end{scope}
+\end{scope}
 
 \draw[very thick, shift={(62.5,-3)}, ->] (0,0) -- (0,-10);
 \node at (90,-8) {Divisão sugerida por Ana};
 
-\draw[fill=Sepia, shift={(-8.5,-36)}] (0,0) rectangle (20,20);
+\draw[fill=Sepia, shift={(13.5,-66)}] (0,0) rectangle (20,20);
 \draw[fill=Sepia, shift={(13.5,-36)}] (0,0) rectangle (20,20);
 
 \draw[fill=Sepia, shift={(41.5,-36)}] (0,0) rectangle (20,20);
@@ -147,7 +152,8 @@ Um grupo de cinco amigos (Amarildo, Beto, Carlos, Davi e Edilson) encomendou tr�
 
 \subsection{Atividade}
 
-Para a sobremesa do almoço de domingo, papai passou em uma confeitaria que vende tortas divididas igualmente em 8 fatias, como na figura abaixo.
+Para a sobremesa do almoço de domingo, papai passou em uma confeitaria que vende tortas.
+Cada torta está dividida em  igualmente em 8 fatias, como na figura abaixo.
 \begin{center}
 \includegraphics[width=.6\textwidth, keepaspectratio]{licao02/ativ3_fig01.png}
 \end{center}
@@ -156,26 +162,28 @@ Para a sobremesa do almoço de domingo, papai passou em uma confeitaria que vend
   \item     Que fração de uma torta é uma fatia? Explique.
   \item     Domingo papai comprou 4 fatias, quantos oitavos de uma torta havia para a sobremesa?
   \item     Na pergunta anterior, apresente outra fração que represente a quantidade de torta que papai comprou. Explique sua resposta.
-  \item     Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações {\bf  de uma torta}? Lembre-se que oito fatias formam uma torta inteira.
+  \item     Hoje papai comprou 10 fatias de torta. Como podemos representar essa quantidade de torta em termos de frações de uma torta?
 \end{enumerate} %s
 
 \subsection{Atividade}
 
-Complete as afirmações com uma das frações: ``dois meios'', ``dois terços'', ``dois quintos'', ``três quartos'', ``oito sextos'' e ``nove meios'', para que sejam verdadeiras.
+Complete as afirmações com uma das frações: ``dois meios'', ``dois terços'', ``dois quintos'', ``dois nonos'', ``três quartos'', ``seis oitavos'', ``oito sextos'' e ``nove meios'', para que sejam verdadeiras.
 
 \begin{enumerate}[a)]
- \item A parte pintada de vermelho em \begin{tikzpicture}[scale=0.8]
-                           \draw[fill=attention] (0,0) rectangle (20,10);
-                           \draw[fill=common, fill opacity=.3] (20,0) rectangle (30,10);
-                          \end{tikzpicture}
-                          é \begin{tikzpicture}
-                             \draw (0,0) -- (20,0);
-                            \end{tikzpicture}
-                            de \begin{tikzpicture}[scale=0.8]
-                                 \draw[fill=common, fill opacity=.3] (0,0) rectangle (30,10);
+\item A parte pintada de vermelho em
+     \begin{tikzpicture}[scale=0.8]
+     \draw[fill=attention] (0,0) rectangle (20,10);
+     \draw[] (10,0) -- (10,10);
+     \draw[fill=common, fill opacity=.3] (20,0) rectangle (30,10);
+     \end{tikzpicture}
+     é
+     \begin{tikzpicture}
+     \draw (0,0) -- (20,0);
+     \end{tikzpicture}
+     de \begin{tikzpicture}[scale=0.8]
+     \draw[fill=common, fill opacity=.3] (0,0) rectangle (30,10);
                                \end{tikzpicture}.
-
- \item A parte pintada de vermelho em \begin{tikzpicture}
+\item A parte pintada de vermelho em \begin{tikzpicture}
                            \draw[fill=attention] (0,0) rectangle (8,8);
                            \draw (0,0) -- (8,8);
                           \end{tikzpicture}
@@ -321,12 +329,18 @@ $$\frac{1}{2}\rightarrow \text{  um meio;} \quad \frac{1}{3}\rightarrow\text{  u
 $$\frac{1}{5}\rightarrow\text{  um quinto;}\quad \frac{1}{6}\rightarrow\text{  um sexto;} \quad \frac{1}{7}\rightarrow\text{  um sétimo;}$$
 $$\frac{1}{8}\rightarrow\text{  um oitavo;}\quad \frac{1}{9}\rightarrow\text{  um nono;}\quad \frac{1}{10}\rightarrow\text{  um décimo.}$$
 
-Para a fração $\frac{1}{11}$, fala-se um onze avos. Da mesma forma, são nomeadas frações cujo denominador é maior do que 11. Por exemplo:
+Já a fração $\frac{1}{11}$ não é chamada ``um décimo primeiro''.
+Na leitura de frações com denominadores maiores do que 10, utiliza-se a palavra avos.
+Assim, a fração $\frac{1}{11}$ é lida ``um onze avos''.
+Veja outros exemplos:  
+
 $$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
 
-Curioso para saber sobre o significado da palavra {\bf avos}? Pergunte ao seu professor. O importante é lembrar que, para denominadores maiores 11, acrescenta-se a expressão ``avos'' ao final da leitura da fração.
+%Curioso para saber sobre o significado da palavra {\bf avos}?
+%Pergunte ao seu professor.
+%O importante é lembrar que, para denominadores maiores 10, acrescenta-se a expressão ``avos'' ao final da leitura da fração. %Não se esqueça que
 
-Contudo, para frações cujo denominador é uma potência de 10, usa-se outra formar de ler:
+Na leitura das frações cujos denominadores são 100, 1000, 1000, etc. não se usa ``avos''. Observe: 
 $$\frac{1}{100}\rightarrow \text{ um centésimo;}\quad \frac{13}{100} \rightarrow \text{treze centésimos;} \quad
 \frac{33}{1000}\rightarrow \text{ trinta e três milésimos.}$$
 
