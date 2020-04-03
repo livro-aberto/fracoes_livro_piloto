@@ -101,25 +101,67 @@ marginpar=10mm]{geometry}
 % Refletindo
 \RequirePackage{tcolorbox}
 %\RequirePackage{varwidth}
-\tcbuselibrary{listings,breakable,most}
+\tcbuselibrary{theorems,listings,breakable,most}
 
 \RequirePackage{multicol}
 \setlength{\columnsep}{1.3cm}
 
-\newtcbtheorem{professor}{Para o Professor}%
-{colback=purple!15,colframe=purple,fonttitle=\bfseries}{th}
-\newtcbtheorem{introdutorio}{Introdutório}%
-{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
-\newtcbtheorem{abstrato}{Modelo abstrato}%
-{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
-\newtcbtheorem{conexoes}{Conexões}%
-{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
-\newtcbtheorem{explorando}{Explorando}%
-{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
-\newtcbtheorem{massa}{Mão na massa}%
-{colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
-\newtcbtheorem{exercicio}{Exercício}%
-{colback=gray!15,colframe=gray,fonttitle=\bfseries}{th}
+% \newtcbtheorem{professor}{Para o Professor}%
+% {colback=purple!15,colframe=purple,fonttitle=\bfseries}{th}
+% \newtcbtheorem{introdutorio}{Introdutório}%
+% {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+% \newtcbtheorem{abstrato}{Modelo abstrato}%
+% {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+% \newtcbtheorem{conexoes}{Conexões}%
+% {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+% \newtcbtheorem{explorando}{Explorando}%
+% {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+% \newtcbtheorem{massa}{Mão na massa}%
+% {colback=green!5,colframe=green!35!black,fonttitle=\bfseries}{th}
+% \newtcbtheorem{exercicio}{Exercício}%
+% {colback=gray!15,colframe=gray,fonttitle=\bfseries}{th}
+
+%%Ambientes do professor - teste 2020
+
+\newtcolorbox{orientacoes}{
+  breakable,
+  left=-.1cm,
+  right=.1cm,
+  top=0cm,
+  bottom=0cm,
+  colframe=special!13,
+  colback=special!13,
+  colbacktitle=special!13,
+  fonttitle=\normalfont\bfseries\color{black},
+  title=Recomendações e sugestões para o desenvolvimento da atividade
+}
+
+\newtcbtheorem{solucao}{Resposta da Atividade }{
+  breakable,
+  left=-.1cm,
+  right=.1cm,
+  top=0cm,
+  bottom=0cm,
+  colframe=special!13,
+  colback=special!13,
+  colbacktitle=special!13,
+  fonttitle=\normalfont\bfseries\color{black}
+}{sol}
+
+\newtcbtheorem{objetivos}{Atividade}{
+  breakable,
+  left=0cm,
+  right=0cm,
+  %colframe=black,
+  colframe=special!13,
+  colback=special!13,
+  colbacktitle=special!13,
+  fonttitle=\normalfont\large\bfseries\color{special},
+  %title=\quad Atividade \thetcbcounter,
+  before upper=\vspace{.1cm}{\bfseries Objetivos específicos: Levar o aluno a},%\vspace{-.3cm},
+  % fontlower=\sffamily\bfseries,
+  %lower separated=false,%para não mostrar a linha entre as partes debaixo e de cima.
+}{obj}
 
 
 \newenvironment{absolutelynopagebreak}
