@@ -1,4 +1,4 @@
-\documentclass[a4,12pt]{book} %para gerar a versão para telas, inclua a opção openany.
+\documentclass[a4,12pt,openany]{book} %para gerar a versão para telas, inclua a opção openany.
 
 \usepackage{template}
 \graphicspath{{figuras/}}
@@ -171,14 +171,14 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 
 \fancyfoot[C]{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\clearpage
 \input{introducao}
 
-{\let \cleardoublepage \clearpage
-\mainmatter \thispagestyle{empty}
+%{%\let \cleardoublepage \clearpage
+%\mainmatter% \thispagestyle{empty}
 \setcounter{tocdepth}{0}
 \tableofcontents
-\thispagestyle{empty}}
+%\thispagestyle{empty}}
 
 \ifdefined\telas \else \clearpage\fi
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -226,11 +226,11 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\ifdefined\telas
+\ifdefined\telas 
 {\let\cleardoublepage\clearpage %to set pagenumbering arabic hereafter
 \thispagestyle{empty}
 \input{cap1_aluno}
-% \input{cap2_aluno}
+ \input{cap2_aluno}
 %\input{cap3_aluno}
 % \input{cap4_aluno}
 %\input{cap5_aluno}}
@@ -239,7 +239,7 @@ Algumas figuras podem possuir licença com mais direitos do que a vigente para t
 \thispagestyle{empty}
  \input{cap1_aluno}
 }
-%\input{cap2_aluno}
+\input{cap2_aluno}
 %\input{cap3_aluno}
 %\input{cap4_aluno}
 %\input{cap5_aluno}
