@@ -90,10 +90,9 @@ Por exemplo, se uma barra de chocolate é repartida igualmente entre dois amigos
 
 Ao dividir uma unidade em três partes iguais, cada uma das partes é chamada de \textit{um terço} ou \textit{a terça parte} da unidade.
 
-Por exemplo, se em uma receita, é necessário acrescentar \textit{um terço} de copo de suco de laranja, isso significa que, para colocar a quantidade correta de suco na receita, é preciso repartir a quantidade de um copo de suco em três partes iguais e usar apenas uma dessas partes, que é \textit{um terço} do copo de suco. Nesse caso, a unidade é um copo de suco de laranja.
-
+Por exemplo, se, para preparar uma receita, é necessário acrescentar \textit{um terço} de um litro de leite, então para colocar a quantidade correta de leite na receita, é preciso repartir o litro de leite em três partes iguais e usar apenas uma dessas partes. Nesse caso, cada uma das partes é \textit{um terço} do litro de leite. A unidade é um litro de leite.
 \begin{center}
-    \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/orgideias_fig03a.png}
+    \includegraphics[width=180pt, keepaspectratio]{../figuras/licao01/orgideias_fig03b.png}
   \end{center}
 
 Ao dividir uma unidade em quatro partes iguais, cada uma das partes é chamada de \textit{um quarto} ou \textit{quarta parte} da unidade.
@@ -122,28 +121,28 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
  \begin{tikzpicture}[scale=5]
    % primeiro de cima
    % [fill=common, fill opacity=.3]
-  \fill[pink] (0,0) rectangle (4,6);
+  \fill[cbpink] (0,0) rectangle (4,6);
   \draw (0,0) rectangle (1,6);
   \draw (1,0) rectangle (2,6);
   \draw (2,0) rectangle (3,6);
   \draw (3,0) rectangle (4,6);
   
   % segundo de cima
-  \draw[fill=common, fill opacity=.3] (5,0) rectangle (9,3);
-  \draw[fill=common, fill opacity=.3] (5,3) rectangle (9,6);
+  \draw[fill=cbgreen] (5,0) rectangle (9,3);
+  \draw[fill=cbgreen] (5,3) rectangle (9,6);
   \draw (5,0) -- (9,3);
   \draw (5,3) -- (9,6);
 
   \begin{scope}[xshift=28.5]
   % terceiro de cima    
-\fill[attention] (0,0) rectangle (4,6);
+\fill[cbbrown] (0,0) rectangle (4,6);
   \draw(0,0) rectangle (4,1.5);
   \draw (0,1.5) rectangle (4,3);
   \draw (0,3) rectangle (4,4.5);
   \draw (0,4.5) rectangle (4,6);
 
   % quarto de cima
-  \fill[OliveGreen, opacity=.5] (5,0) rectangle (9,6);
+  \fill[cbolive] (5,0) rectangle (9,6);
   \draw (5,0) rectangle (9,3);
   \draw (5,3) rectangle (9,6);
   \draw (7,0) -- (7,6);
@@ -158,30 +157,30 @@ Por exemplo, na época do império \emph{um quinto} de todo ouro pesado nas Casa
 
   \begin{scope}[xshift=-28.5]
     % primeiro debaixo
-  \fill[Purple, opacity=.5] (10,0) rectangle (14,6);  
+  \fill[cbpurple] (10,0) rectangle (14,6);  
   \draw (10,0) rectangle (14,3);
   \draw (10,3) rectangle (14,6);
   \draw (12,0) -- (12,3);
   \draw (10,4.5) -- (14,4.5);
   
   % 2 debaixo
-  \fill[yellow] (15,0) rectangle (19,6);
-  \draw[fill=common, fill opacity=.3] (15,0) rectangle (19,3);
-  \draw[fill=common, fill opacity=.3] (15,3) rectangle (19,6);
+  %\draw (15,0) rectangle (19,6);
+  \filldraw[fill=cbyellow] (15,0) rectangle (19,3);
+  \filldraw[fill=cbyellow] (15,3) rectangle (19,6);
   \draw (15,1.5) -- (19,1.5);
  \draw (15,3) -- (19,6);
   \end{scope}
   % 3 debaixo
-  \fill[gray, opacity=.8] (10,0) rectangle (14,6);
-  \draw[fill=common, fill opacity=.3] (10,0) rectangle (14,3);
-  \draw[fill=common, fill opacity=.3] (10,3) rectangle (14,6);
+  \fill[cbgray, opacity=.8] (10,0) rectangle (14,6);
+  \draw[fill=cbgray, fill opacity=.3] (10,0) rectangle (14,3);
+  \draw[fill=cbgray, fill opacity=.3] (10,3) rectangle (14,6);
   \draw (12,0) -- (12,3);
   \draw (10,6) -- (14,3);
 
   % 4 debaixo  
   \begin{scope}[xshift=42.5]
-  \fill[orange] (0,0) rectangle (4,6);
-  \draw[fill=common, fill opacity=.3] (0,0) rectangle (4,6);
+  \fill[cborange] (0,0) rectangle (4,6);
+  \draw[fill=cborange, fill opacity=.3] (0,0) rectangle (4,6);
   \draw (1,0) -- (1,6);
   \draw (2,0) -- (2,6);
   \draw (2,3) -- (4,3);
@@ -221,6 +220,65 @@ INSERIR FIGURA NOVA
 
 \end{refletindo*}
 
+\subsection{Atividade}
+\begin{enumerate}[a)]
+\item O triângulo cinza é um terço de uma das figuras coloridas. Qual é essa figura? Explique. 
+\item O triângulo cinza é um quarto de alguma dessas figuras? Qual ou quais?
+\item Agora é a sua vez: desenhe uma unidade da qual o triângulo cinza seja um quinto.  
+\item Desafio: Que fração o triângulo cinza é do retângulo laranja? 
+\end{enumerate}
+
+\begin{center}
+  
+\begin{tabular}[c]{ccc}
+\begin{tikzpicture}[scale=20]
+\fill [cbgray] (60:0) -- (120:1) -- (180:1) -- cycle;
+\end{tikzpicture}
+  &
+%losango
+\begin{tikzpicture}[scale=20,rotate=90]
+\fill [cbpink] (60:0) -- (120:1) -- (180:1) -- ++(300:1) -- cycle;
+\end{tikzpicture}
+  &
+%estrela de  seis pontas
+\begin{tikzpicture}[scale=20]
+\fill [cbpurple] (0,0) -- (60:1) -- (120:1) -- cycle;
+\fill [cbpurple,shift={(.5,1.71/6)}] (60:0) -- (120:1) -- (180:1) -- cycle;
+\end{tikzpicture}
+    \\
+%paralelogramo
+\begin{tikzpicture}[scale=20]
+\fill [cbgreen]  (120:1) -- ++(180:1) -- ++(240:1) -- ++(360:2) -- ++(60:1) -- cycle;
+\end{tikzpicture}
+  &
+%retângulo
+\begin{tikzpicture}[scale=20]
+\fill [cborange] (0,0) -- (1,0) -- (1,1.732/2) -- (0,1.732/2) -- cycle;
+\end{tikzpicture}
+  &
+    %trapézio:
+\begin{tikzpicture}[scale=20]
+\fill [cbpink] (60:0) -- (120:1) -- ++(180:1) -- +(240:1) -- cycle;
+\end{tikzpicture}
+  \\
+  %hexágono
+\begin{tikzpicture}[scale=20]
+\fill [cbolive] (60:0) -- (120:1) -- ++(180:1) -- ++(240:1) -- ++(300:1) -- ++(360:1) -- cycle;
+\end{tikzpicture}
+&
+%Bandeirinha
+\begin{tikzpicture}[scale=20,xscale=-1]
+\filldraw [cbyellow]  (120:1) -- ++(180:1) -- ++(240:1) -- ++(360:2) -- ++(60:1) -- cycle;
+\fill [cbyellow,yscale=-1]  (120:1) -- ++(180:1) -- ++(240:1) -- ++(360:2) -- ++(60:1) -- cycle;
+\end{tikzpicture}
+&
+%Triângulo ampliado
+\begin{tikzpicture}[scale=40]
+\fill [cbbrown] (60:0) -- (120:1) -- (180:1) -- cycle;
+\end{tikzpicture}
+\end{tabular}
+
+\end{center}
 
 \subsection{Atividade}
 
@@ -974,3 +1032,9 @@ m)
 
 \end{tabular*}
 \end{center}
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "livro_aluno_completo.tex"
+%%% End: 

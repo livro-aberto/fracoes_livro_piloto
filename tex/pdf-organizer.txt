@@ -2,7 +2,7 @@ xelatex -interaction=nonstopmode livro_aluno_completo.tex
 
 xelatex -interaction nonstopmode livro_professor_completo.tex
 
-pdftk B=livro_professor_completo.pdf A=livro_aluno_completo.pdf shuffle B A11-end output colado.pdf
+pdftk B=livro_professor_completo.pdf A=livro_aluno_completo.pdf shuffle B A12-end output colado.pdf
 
 pdftk A=livro_aluno_completo.pdf B=colado.pdf cat A1-9 B output livro-completo.pdf
 

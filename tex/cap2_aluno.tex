@@ -19,32 +19,38 @@
 
 Luiza, João e Mariele foram a uma pizzaria. Cada um pediu uma pizza do seu sabor preferido. 
 Luiza cortou sua pizza em 4 fatias; João cortou sua pizza em 6 fatias e Mariele cortou sua pizza em 8 fatias.
-Veja o quanto restou de pizza após os amigos estarem satisfeitos:
+%Veja o quanto restou de pizza após os amigos estarem satisfeitos:
+O esquema a seguir indica o quanto restou de pizza após os amigos estarem satisfeitos:
 
-\begin{center}
-  \begin{tikzpicture}
-\fill[common] (0,0) -- (120: 2cm) arc (120:240:2cm)--cycle;
-\draw (0,0) circle (2cm);
-\foreach \t in {0,60,...,300}{
-  \draw (0,0) -- (\t: 2cm);
-}  
-\end{tikzpicture} \quad
-\begin{tikzpicture}
-\fill[common] (0,0) -- (135: 2cm) arc (135:225:2cm)--cycle;
-\draw (0,0) circle (2cm);
+\begin{tikzpicture}[scale=.7]
+\draw [dashed] (0,0) circle (2cm);
+\filldraw[fill=common] (0,0) -- (120: 2cm) arc (120:240:2cm)--cycle;
+\foreach \t in {0,60,300}{
+  \draw [dashed] (0,0) -- (\t: 2cm);
+}
+\draw (0,0) -- (180:2cm);
+\end{tikzpicture} \hfill
+\begin{tikzpicture}[scale=.7]
+\draw [dashed] (0,0) circle (2cm);
+  \filldraw[fill=common] (0,0) -- (135: 2cm) arc (135:225:2cm)--cycle;
+
 \foreach \t in {0,45,...,315}{
-  \draw (0,0) -- (\t: 2cm);
-}  
-\end{tikzpicture}\quad
-\begin{tikzpicture}
-\fill[common] (0,0) -- (180: 2cm) arc (180:270:2cm)--cycle;
-\draw (0,0) circle (2cm);
-\foreach \t in {0,90,...,270}{
-  \draw (0,0) -- (\t: 2cm);
-}  
+  \draw [dashed] (0,0) -- (\t: 2cm);
+}
+\draw  (0,0) -- (135: 2cm);
+\draw  (0,0) -- (180: 2cm);
+\draw  (0,0) -- (225: 2cm);
+\end{tikzpicture}\hfill
+\begin{tikzpicture}[scale=.7]
+\draw [dashed] (0,0) circle (2cm);
+  \filldraw[fill=common] (0,0) -- (180: 2cm) arc (180:270:2cm)--cycle;
+
+\foreach \t in {0,90}{
+  \draw [dashed] (0,0) -- (\t: 2cm);
+}
+\draw (0,0) -- (180: 2cm);
+\draw (0,0) -- (270: 2cm);
 \end{tikzpicture}
-% Figura certa no Google Docs _Rascunho Frações
-\end{center}
 
 \begin{enumerate} [\quad a)] %d
 \item   Identifique a pizza de cada um dos amigos.
@@ -60,57 +66,63 @@ O pai de Ana, Beatriz e Clara trouxe duas barras de chocolate para serem reparti
 
 \begin{center}
 \begin{tikzpicture}[x=1mm,y=1mm, scale=0.9]
-\draw[fill=Sepia] (0,0) rectangle (60,20);
-\draw[fill=Sepia, shift={(65,0)}] (0,0) rectangle (60,20);
+\draw[fill=Sepia!60] (0,0) rectangle (60,20);
+\draw[fill=Sepia!60, shift={(65,0)}] (0,0) rectangle (60,20);
 \end{tikzpicture}
 \end{center}
 
 Ana propôs que cada barra fosse dividida em três partes iguais e que cada irmã ficasse com duas dessas partes.
 
 \begin{center}
-  
 \begin{tikzpicture}[x=1mm,y=1mm,scale=0.9]
-\begin{scope}[shift={(37.5,0)}]
-\draw[fill=Sepia](0,0) rectangle (60,20);
-\draw (20,0) -- (20,20);
-\draw (40,0) -- (40,20);
+%%%%%%%%%% espaço entre um início de barra repartida e outro.
+\def\hsp{150} 
+%%%%%%%%%% barras de chocolate
+\draw[fill=Sepia!60](0,10) rectangle (60,30);
+\draw[fill=Sepia!60] (0,-15) rectangle (60,5);
 
-\begin{scope}[shift={(0,35)}]
-\draw[fill=Sepia] (0,0) rectangle (60,20);
-\draw (20,0) -- (20,20);
-\draw (40,0) -- (40,20);
-\end{scope}
-\end{scope}
+%%%%%%%%% cortes
+\draw[dashed, thick] (20,35) -- (20,-20);
+\draw[dashed, thick] (40,35) -- (40,-20);
 
-\draw[very thick, shift={(62.5,-3)}, ->] (0,0) -- (0,-10);
-\node at (90,-8) {Divisão sugerida por Ana};
+%%%%%%%%% setas
+\draw[very thick, ->] (10,-17) -- (-20,-27);
+\draw[very thick, ->] (30,-17) -- (30,-27);
+\draw[very thick, ->] (50,-17) -- (80,-27);
 
-\draw[fill=Sepia, shift={(13.5,-66)}] (0,0) rectangle (20,20);
-\draw[fill=Sepia, shift={(13.5,-36)}] (0,0) rectangle (20,20);
+\node at (95,-20) {\parbox[b]{30mm}{\centering  \small Sugestão da Ana}};
 
-\draw[fill=Sepia, shift={(41.5,-36)}] (0,0) rectangle (20,20);
-\draw[fill=Sepia, shift={(63.5,-36)}] (0,0) rectangle (20,20);
+%%%%%%%%%%%%%%%%%%Pedaços repartidos  
+\draw[fill=Sepia!60,xshift=-\hsp] (20,-50) rectangle (40,-30);
+\draw[fill=Sepia!60,xshift=-\hsp] (20,-75) rectangle (40,-55);
 
-\draw[fill=Sepia, shift={(63.5 + 28,-36)}] (0,0) rectangle (20,20);
-\draw[fill=Sepia, shift={(63.5 + 50,-36)}] (0,0) rectangle (20,20);
+\draw[fill=Sepia!60] (20,-50) rectangle (40,-30);
+\draw[fill=Sepia!60] (20,-75) rectangle (40,-55);
 
-\draw [thick, decoration={brace,mirror,raise=5}, decorate] (-8.5,-36) -- (33.5,-36)
-node [pos=0.5,anchor=north,yshift=-10] {\parbox[b]{40mm}{\centering Quantidade de chocolate recebida por Ana}};
+\draw[fill=Sepia!60,xshift=\hsp] (20,-50) rectangle (40,-30);
+\draw[fill=Sepia!60,xshift=\hsp] (20,-75) rectangle (40,-55);
 
-\draw [thick, decoration={brace,mirror,raise=5}, decorate] (41.5,-36) -- (83.5,-36)
-node [pos=0.5,anchor=north,yshift=-10] {\parbox[b]{40mm}{\centering Quantidade de chocolate recebida por Beatriz}};
+%%%%%%%%% Texto embaixo
+% \draw [thick, decoration={brace,mirror,raise=5}, decorate, xshift=-\hsp] (31.25,-2) -- (51.25,-2) node [pos=0.5,anchor=north,yshift=-10] {\parbox[b]{40mm}{\centering Quantidade de chocolate recebida por Ana}};
 
-\draw [thick, decoration={brace,mirror,raise=5}, decorate] (63.5+28,-36) -- (63.5+70,-36)
-node [pos=0.5,anchor=north,yshift=-10] {\parbox[b]{40mm}{\centering Quantidade de chocolate recebida por Clara}};
+\node [xshift=-\hsp] at (30,-87) {\parbox[b]{55mm}{\centering \small Quantidade de chocolate recebida por Ana}};
 
+\node at (30,-87) {\parbox[b]{55mm}{\centering  \small Quantidade de chocolate recebida por Beatriz}};
+
+\node  [xshift=\hsp] at (30,-87) {\parbox[b]{55mm}{\centering  \small Quantidade de chocolate recebida por Clara}};
+
+%%%%%%%%%%%% Balões em volta
+% \draw [dotted, xshift=-\hsp] (30,-52.5) ellipse (20mm and 30mm);
+% \draw [dotted] (30,-52.5) ellipse (20mm and 30mm);
+% \draw [dotted, xshift=\hsp] (30,-52.5) ellipse (20mm and 30mm);
 \end{tikzpicture}
 \end{center}
 
 \begin{enumerate}[a)] %s
   \item Na divisão de cada uma das barras de chocolate em três partes iguais, cada parte é que fração de uma barra de chocolate?
   \item Você concorda com a divisão que Ana sugeriu? Explique.
-  \item Com essa divisão, as três irmãs receberiam a mesma quantidade de chocolate?
-  \item Na divisão proposta por Ana, como você nomearia, usando fração de uma barra de chocolate, a quantidade de chocolate que cada irmã receberia?
+  \item Com essa divisão, as três irmãs receberam a mesma quantidade de chocolate?
+  \item Na divisão proposta por Ana, como você nomearia, usando fração de uma barra de chocolate, a quantidade de chocolate que cada irmã recebeu?
 \end{enumerate}
 
 Ana não quer o chocolate e decidiu dar a quantidade de chocolate que recebeu na divisão das barras para as suas irmãs.
@@ -313,27 +325,40 @@ Também pode-se considerar quatro terços, cinco terços ou seis terços da tort
 \end{tikzpicture}
 \end{center}
 
-Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou, simplesmente, $\frac{1}{3}$ da torta. Juntando essas fatias, é possível se ter dois terços ($\frac{2}{3}$) e três terços ($\frac{3}{3}$) da torta. Com mais do que uma torta repartida em três partes iguais, pode-se obter quatro terços ($\frac{4}{3}$), cinco terços ($\frac{5}{3}$), seis terços ($\frac{6}{3}$) etc de torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 ``abaixo'' do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que ``dá nome'' à fração é chamado de {\it denominador} da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando ``terços''.
+Se uma torta é repartida em três partes iguais, cada fatia é um terço da torta - ou $\frac{1}{3}$ da torta. Juntando essas fatias, é possível ter-se dois terços ($\frac{2}{3}$) e três terços ($\frac{3}{3}$) da torta. Com mais do que uma torta repartidas cada uma três partes iguais, pode-se obter quatro terços ($\frac{4}{3}$), cinco terços ($\frac{5}{3}$), seis terços ($\frac{6}{3}$) etc de torta. Na representação simbólica, as frações que registram essas quantidades têm o número 3 ``abaixo'' do traço de fração, e, por isso, são denominadas terços. O número que informa a parte da unidade que ``dá nome'' à fração é chamado de {\it denominador} da fração. Assim, nas frações $\frac{1}{3}$, $\frac{2}{3}$, $\frac{3}{3}$,  $\frac{4}{3}$ e $\frac{5}{3}$, o 3 é o denominador, identificando ``terços''.
 
 Já o número que aparece ``acima'' do traço de fração informa quantos terços estão sendo considerados. Esse número é chamado de {\it numerador} da fração. Por exemplo, na fração $\frac{1}{3}$ o numerador é 1 e na fração $\frac{4}{3}$ o numerador é 4.
+Essa mesma forma de nomear vale para outras frações.
+\begin{itemize}
+\item Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Lê-se {\it dois quintos}.
+\item Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Lê-se {\it dez oitavos}.
+\end{itemize}
+Como você pôde observar, a nomeação de uma fração depende do denominador da fração. Para ler a fração deve-se ler o {\bf número} do numerador seguido do {\bf nome que identifica a equipartição da unidade, e que está indicado no denominador}, nessa ordem. Veja:
 
-Essa mesma forma de nomear vale para outras frações, mesmo que o denominador seja diferente de 3: \newline
-Em $\frac{2}{5}$, por exemplo, o numerador é 2 e o denominador é 5. Lê-se {\it dois quintos}.\newline
-Em $\frac{10}{8}$, por exemplo, o numerador é 10 e o denominador é 8. Lê-se {\it dez oitavos}. \newline
-Como você pôde observar, a nomeação de uma fração depende fortemente do denominador da fração. Para ler a fração deve-se ler o {\bf número} do numerador seguido do {\bf nome que identifica a equipartição da unidade, e que está indicado no denominador}, nessa ordem. Veja:
+\begin{center}
+\begin{tabular}[c]{lclcl}
+  $\dfrac{1}{3}\rightarrow$ um terço;& \quad & $\dfrac{2}{3}\rightarrow$ dois terços; & \quad & $\dfrac{5}{3}\rightarrow$ cinco terços; \\
+  \\
+$\dfrac{1}{8}\rightarrow$ um oitavo;& \quad & $\dfrac{3}{8}\rightarrow$ três oitavos; & \quad & $\dfrac{7}{8}\rightarrow$ sete oitavos.  
+\end{tabular}
+\end{center}
 
-$$\frac{1}{3}\rightarrow \text{ um terço;} \quad \frac{2}{3}\rightarrow \text{ dois terços;} \quad \frac{5}{3}\rightarrow \text{ cinco terços;}$$
-$$\frac{1}{8}\rightarrow \text{ um oitavo;} \quad \frac{3}{8}\rightarrow \text{ três oitavos;} \quad \frac{7}{8}\rightarrow \text{ sete oitavos.}$$
 Anote agora os nomes de algumas outras frações:
-$$\frac{1}{2}\rightarrow \text{  um meio;} \quad \frac{1}{3}\rightarrow\text{  um terço;} \quad \frac{1}{4}\rightarrow\text{  um quarto;}$$
-$$\frac{1}{5}\rightarrow\text{  um quinto;}\quad \frac{1}{6}\rightarrow\text{  um sexto;} \quad \frac{1}{7}\rightarrow\text{  um sétimo;}$$
-$$\frac{1}{8}\rightarrow\text{  um oitavo;}\quad \frac{1}{9}\rightarrow\text{  um nono;}\quad \frac{1}{10}\rightarrow\text{  um décimo.}$$
+
+\begin{center}
+  \begin{tabular}[c]{lclcl}
+    $\dfrac{1}{2}\rightarrow$  um meio; & \quad & $\dfrac{1}{3}\rightarrow$   um terço; & \quad &  $\dfrac{1}{4}\rightarrow$ um quarto;\\
+    \\
+    $\dfrac{1}{5}\rightarrow$   um quinto; & \quad &  $\dfrac{1}{6}\rightarrow$  um sexto; & \quad & $\dfrac{1}{7}\rightarrow$  um sétimo;\\
+    \\
+$\dfrac{1}{8}\rightarrow$   um oitavo; & \quad & $\dfrac{1}{9}\rightarrow$  um nono; & \quad & $\dfrac{1}{10}\rightarrow$   um décimo.
+  \end{tabular}
+\end{center}
 
 Já a fração $\frac{1}{11}$ não é chamada ``um décimo primeiro''.
 Na leitura de frações com denominadores maiores do que 10, utiliza-se a palavra avos.
 Assim, a fração $\frac{1}{11}$ é lida ``um onze avos''.
 Veja outros exemplos:  
-
 $$\frac{1}{12}\rightarrow \text{  um doze avos;}\quad \frac{1}{13}\rightarrow \text{ um treze avos;} \quad \frac{5}{13}\rightarrow \text{ cinco treze avos.}$$
 
 %Curioso para saber sobre o significado da palavra {\bf avos}?
@@ -490,7 +515,7 @@ Um grupo de amigos está dividindo duas pizzas circulares do mesmo tamanho. A pr
 
 \subsection{Atividade}
 
-Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda e na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura ficou sem pintar.
+Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fração da figura indicada na coluna à esquerda e na mesma linha. Indique também, usando notação simbólica matemática, qual fração da figura não foi pintada.
 
 \begin{center}
   \begin{longtable}{|m{0.25\textwidth}|m{0.2\textwidth}|m{0.25\textwidth}|}
@@ -538,10 +563,10 @@ Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fraçã
   \end{longtable}
 \end{center}
 
-\subsection{Atividade}
 
-\begin{enumerate} [\quad a)] %s
-  \item     Em cada um dos três copos idênticos a seguir, indique a fração da capacidade do copo que está com água.
+\subsection{Atividade}
+A figura mostra três copos idênticos.  É possível armazenar a água dos três copos em um único copo sem que transborde? Explique usando frações.
+
 \begin{center}
 \begin{tikzpicture}[scale=0.3, x=1cm,y=1cm]
 
@@ -580,9 +605,6 @@ Na tabela a seguir, pinte cada figura de modo que a parte pintada seja a fraçã
 \end{tikzpicture}
 
 \end{center}
-  \item     Qual é a fração da capacidade do copo correspondente à toda a água que está nos três copos?
-  \item     É possível armazenar a água dos três copos em um único copo sem que transborde? Explique.
-\end{enumerate} %s
 
 \clearpage
 \subsection{Atividade}
@@ -1037,3 +1059,8 @@ Sabendo que nessa pizzaria cada pizza é repartida em 8 fatias de mesmo tamanho,
   \item     Que fração de uma pizza comeram  ao todo os amigos?
   \item     É possível que todos os amigos tenham comido o mesmo número de fatias de pizza? Explique.
 \end{enumerate} %s
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "livro_aluno_completo.tex"
+%%% End: 
