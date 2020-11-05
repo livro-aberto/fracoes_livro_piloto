@@ -1,0 +1,19 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{tabu}
+
+\begin{document}
+
+\begin{tikzpicture}
+
+\node (mapa) at (3,2) {\includegraphics[width=300bp, trim= 1cm 12cm 1cm 11cm]{mapa.png}};
+\node at (.8,0.65) (palm) {\includegraphics[width=50bp]{palmeira.png}};
+
+\node (pedra) at (4.28,3.85) {\includegraphics[width=33bp]{pedra.png}};
+
+\draw [dashed] (.85,.1) -- (3.9,3.3);
+
+\draw [ultra thick, red] (3,2) -- (4.5,2);
+\end{tikzpicture}
+
+\end{document}

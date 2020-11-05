@@ -2,6 +2,9 @@
 
 %\RequirePackage[T1]{fontenc}
 \RequirePackage[brazil]{babel}
+\RequirePackage{float}
+\RequirePackage{makecell}
+\RequirePackage{tasks}
 
 \RequirePackage{geometry}
 \geometry{
@@ -14,20 +17,29 @@ left=27mm,
 footskip=.35in
 }
 
-
+% Para usar alinhamento vertical em tabelas.
+\RequirePackage{array}
 % Para hiperreferências - é utilizado na segunda página
 \usepackage{hyperref}
 % Para utilizar tamanho de fonte qualquer.
 \usepackage{anyfontsize}
 % Para enumerates customizados
 \RequirePackage{enumerate}
-%\RequirePackage[shortlabels]{enumitem} allow resume enumerate, but conflicts with enumerate package
+\RequirePackage[shortlabels]{enumitem} %allow resume enumerate, but conflicts with enumerate package
+
+\setlist[enumerate,1]{label={\alph*)}}
+\setlist[enumerate,2]{label={\Roman*)}}
+
+
 \RequirePackage{graphicx}
+\RequirePackage{adjustbox}
 \graphicspath{{/home/simas/Documentos/livro_aberto/fracoes_livro_piloto/figuras/}}
 \RequirePackage{hyperref}
+\RequirePackage{multicol}
 
 % Para usar tabelas balanceadas
 \RequirePackage{tabulary}
+\RequirePackage{tabu}
 \RequirePackage{longtable}% para quebrar tabela entre páginas
 % Place crop marks
 \RequirePackage[center,height=297mm,width=210mm,cam]{crop}
@@ -255,7 +267,7 @@ footskip=.35in
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Refletindo
-\RequirePackage{tcolorbox}
+\RequirePackage[many]{tcolorbox}
 %\RequirePackage{varwidth}
 \tcbuselibrary{listings,breakable,most}
 \newtcolorbox{refletindo*}[2][]{%
@@ -271,6 +283,31 @@ breakable,
 fontupper=\thickfont,
 title={\bf REFLETINDO},#1}
 
+% Caixinha extra
+\newtcolorbox{caixinha}[2][]{%
+width=.95\textwidth,
+colframe=common,
+enhanced,
+colback=white,
+boxrule=.7mm,
+arc=4mm,
+breakable,
+fontupper=\thickfont,
+}
+
+%Atividade
+
+\newtcolorbox[auto counter, number within=chapter, number freestyle={\noexpand\arabic{\tcbcounter}}]{atividade}[2][]{%
+colframe=white,
+colbacktitle=white,
+coltitle=special,
+enhanced,colback=white,
+left=0pt, right=0pt, bottom=0mm, top=0mm,
+% boxrule=.7mm,titlerule=3mm,
+% attach boxed title to top left={yshift=-2mm,xshift=3mm},
+% arc=4mm,
+breakable,
+title={\bf Atividade~\thetcbcounter},#1}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -297,3 +334,13 @@ title={\bf REFLETINDO},#1}
 \newtcbtheorem{nota}{Nota}%
 {colback=gray!5,colframe=gray!35!black,fonttitle=\bfseries}{th}
 
+%tikz definitions
+\def \tripinha{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4)--cycle;}
+
+\def \tripa{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
+
+\def \tripalonga{ (30:4) -- (90:4) -- (150:4)--(210:4)--(270:4)--(330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4)[shift={({4*sqrt(3)},0)}] --(270:4) -- (330:4) [shift={({4*sqrt(3)},0)}]--  (270:4) -- (330:4) -- (30:4) -- (90:4)--(150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)[shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4) [shift={({-4*sqrt(3)},0)}] -- (90:4) -- (150:4)--cycle;}
+
+\def\hsp{150} 
+
+\def\EixoM{0.5}

@@ -1,7 +1,9 @@
 \RequirePackage{amsmath,amssymb}
 
 \RequirePackage[brazil]{babel}
-
+\RequirePackage{float}
+\RequirePackage{hyperref}
+\RequirePackage{makecell}
 % varias melhorias de typeset
 %\RequirePackage{microtype}
 
@@ -30,8 +32,9 @@ marginpar=10mm]{geometry}
 % Para enumerates customizados
 \RequirePackage{enumerate}
 \RequirePackage[shortlabels]{enumitem}
-\setlist[itemize,1]{label={$\star$},leftmargin=*,topsep=0pt}
-\setlist[enumerate]{leftmargin=*,topsep=0pt}
+\setlist[itemize,1]{label={$\star$},leftmargin=*,topsep=.5em, wide,parsep=0pt}
+\setlist[enumerate]{leftmargin=*,topsep=.5em, wide=0pt, parsep=0pt}
+
 
 % Para usar tabelas balanceadas
 \RequirePackage{tabulary}
@@ -106,6 +109,7 @@ marginpar=10mm]{geometry}
 \RequirePackage{tikz}
 \usetikzlibrary{shapes}
 \usetikzlibrary{calc}
+\usetikzlibrary{decorations}
 \usetikzlibrary{decorations.pathmorphing}
 
 % Refletindo
@@ -143,10 +147,10 @@ marginpar=10mm]{geometry}
   colback=special!13,
   colbacktitle=special!13,
   fonttitle=\normalfont\bfseries\color{black},
-  title=Recomendações e sugestões para o desenvolvimento da atividade
+  title=Discussões sobre o desenvolvimento da atividade\vspace{.2cm}
 }
 
-\newtcbtheorem{solucao}{Solução da Atividade }{
+\newtcbtheorem{solucao}{Solução da Atividade}{
   breakable,
   left=-.1cm,
   right=.1cm,
@@ -162,13 +166,15 @@ marginpar=10mm]{geometry}
   breakable,
   left=0cm,
   right=0cm,
+  bottom=0cm,
   %colframe=black,
   colframe=special!13,
   colback=special!13,
   colbacktitle=special!13,
   fonttitle=\normalfont\large\bfseries\color{special},
   %title=\quad Atividade \thetcbcounter,
-  before upper=\vspace{.1cm}{\bfseries Objetivos específicos: Levar o aluno a},%\vspace{-.3cm},
+  before upper=\vspace{.1cm}{\bfseries Objetivos específicos: Levar o aluno a
+\vspace{.3cm}},%\vspace{-.3cm},
   % fontlower=\sffamily\bfseries,
   %lower separated=false,%para não mostrar a linha entre as partes debaixo e de cima.
 }{obj}
@@ -223,3 +229,5 @@ marginpar=10mm]{geometry}
 \quad
 \newpage
 }
+
+\usetikzlibrary{decorations.pathreplacing}
