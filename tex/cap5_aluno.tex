@@ -1,3 +1,4 @@
+%!TeX root = livro_aluno_completo.tex
 
 \setcounter{chapter}{4}
 \chapter{Adição e subtração de frações }
@@ -143,29 +144,29 @@ Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores dife
 \begin{center}
 \begin{tabular}{m{.3\textwidth}m{.3\textwidth}m{.3\textwidth}}
 
-\begin{tikzpicture}
+\begin{tikzpicture}[scale=.7]
 \fill[light, opacity = .8] (0,0) -- (30:20) arc (30:90:20) --cycle;
 \foreach \x in {0,60,120}{ \draw (\x:20) -- (\x:-20);}
-\foreach \x in {30,90,150}{ \draw[very thick, light] (\x:20) -- (\x:-20);}
+\foreach \x in {30,90,150}{ \draw[very thick] (\x:20) -- (\x:-20);}
 \draw[|-|] (30:25) arc (30:90:25);
-\node[] at (60:30) {$\dfrac{1}{6}$};
+\node[] at (50:33) {$\dfrac{1}{6}$};
 \draw (0,0) circle (20);
 \end{tikzpicture}
 
 &
-\begin{tikzpicture}
+\begin{tikzpicture}[scale=.7]
 \fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
 \foreach \x in {0,30,60,120,150}{ \draw (\x:20) -- (\x:-20);}
-\foreach \x in {0,90}{ \draw[very thick, common] (\x:20) -- (\x:-20);}
+\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
 \draw[|-|] (0:25) arc (0:90:25);
 \node[] at (45:30) {$\dfrac{1}{4}$};
 \draw (0,0) circle (20);
 \end{tikzpicture}
 &
-\begin{tikzpicture}
+\begin{tikzpicture}[scale=.7]
 \fill[special, opacity = .8] (0,0) -- (-150:20) arc (-150:90:20) --cycle;
 \foreach \x in {0,30,60,90,120,150}{ \draw (\x:20) -- (\x:-20);}
-\foreach \x in {-30,90,210}{ \draw[very thick, special] (0,0) -- (\x:20);}
+\foreach \x in {-30,90,210}{ \draw[very thick] (0,0) -- (\x:20);}
 \draw[|-|] (-30:25) arc (-30:90:25);
 \node[] at (30:30) {$\dfrac{1}{3}$};
 \draw (0,0) circle (20);
@@ -190,11 +191,50 @@ Amanda, Bruno e Caio pediram três pizzas do mesmo tamanho, mas com sabores dife
 
 Na \hyperref[chap5-ativ2]{Atividade 2}, juntou-se um pedaço de fita amarela com um pedaço azul. Para saber  que fração essa nova fita representa do tamanho original das fitas, deve-se somar $\frac{1}{2}$ e $\frac{1}{4}$, porque a fita azul é metade e a amarela é um quarto do tamanho original das fitas.
 
-FIGURAS
+
+\begin{center}
+	\hfill
+	\begin{minipage}[c]{.4\textwidth}
+	\begin{tikzpicture}[x=1.0cm,y=1.0cm, scale=.5]
+	\draw[fill=common] (0.,-2) rectangle (12.,0.);
+	\draw[dashed] (6,-2) -- (6,0);
+	\draw[fill=light] (0.,-5) rectangle (12.,-3.);
+	\foreach \x in {3,6,9} \draw[dashed] (\x,-5) -- (\x,-3);
+	\end{tikzpicture}
+	\end{minipage}\hfill
+\begin{minipage}[c]{.4\textwidth}
+		\begin{tikzpicture}[x=1.0cm,y=1.0cm, scale=.5]
+		\draw[fill=common] (3,0) rectangle (9.,2.);
+		\draw[fill=light] (9,0) rectangle (12,2);
+		\node at (6,1) {$\frac{1}{2}$};
+    	\node at (10.5,1) {$\frac{1}{4}$};
+		\end{tikzpicture}
+\end{minipage}\hfill
+\end{center}
 
 Como somar metades e quartos? Para resolver esse problema,  subdivide-se o pedaço de fita azul em duas partes iguais, como na figura a seguir, obtendo-se assim dois quartos.
 
-FIGURAS
+\begin{center}
+	\hfill
+	\begin{minipage}[c]{.4\textwidth}
+		\begin{tikzpicture}[x=1.0cm,y=1.0cm, scale=.5]
+		\draw[fill=common] (0.,-2) rectangle (12.,0.);
+		\foreach \x in {3,6,9} \draw[dashed] (\x,-2) -- (\x,0);
+		\draw[fill=light] (0.,-5) rectangle (12.,-3.);
+		\foreach \x in {3,6,9} \draw[dashed] (\x,-5) -- (\x,-3);
+		\end{tikzpicture}
+	\end{minipage}\hfill
+	\begin{minipage}[c]{.4\textwidth}
+		\begin{tikzpicture}[x=1.0cm,y=1.0cm, scale=.5]
+		\draw[fill=common] (3,0) rectangle (9.,2.);
+		\draw[dashed] (6,0) -- (6,2);
+		\draw[fill=light] (9,0) rectangle (12,2);
+		\node at (4.5,1) {$\frac{1}{4}$};
+		\node at (7.5,1) {$\frac{1}{4}$};
+		\node at (10.5,1) {$\frac{1}{4}$};
+		\end{tikzpicture}
+	\end{minipage}\hfill
+\end{center}
 
 Somar $\frac{2}{4}$ com $\frac{1}{4}$ é mais simples: $\frac{2}{4} + \frac{1}{4} = \frac{3}{4}$.
 
@@ -202,7 +242,27 @@ Repare que essa também foi a estratégia usada para somar as quantidades de cho
 Observou-se que metade da barra de chocolate corresponde a $\frac{8}{16}$ dessa barra. 
 Somar $\frac{8}{16}$ com $\frac{3}{16}$ é simples: $\frac{8}{16} + \frac{3}{16} = \frac{11}{16}$. 
 
-FIGURA
+
+\begin{center}
+	\begin{tikzpicture}[x=1.0cm,y=1.0cm, scale=.7]
+	\fill[fill=light] (-1.,5.) -- (-1.,1.) -- (3.,1.) -- (3.,5.) -- cycle;
+	\fill[fill=common] (3.,5.) -- (5.,5.) -- (5.,3.) -- (3.,3.) -- cycle;
+	\fill[fill=common] (5.,5.) -- (7.,5.) -- (7.,4.) -- (5.,4.02) -- cycle;
+	\draw  (-1.,5.)-- (-1.,1.);
+	\draw  (-1.,1.)-- (3.,1.);
+	\draw  (3.,1.)-- (7.,1.);
+	\draw  (7.,1.)-- (7.,5.);
+	\draw  (7.,5.)-- (-1.,5.);
+	\draw  (3.,5.)-- (3.,3.);
+	\draw  (5.,5.)-- (5.,1.);
+	\draw  (-1.,3.)-- (7.,3.);
+	\draw  (-1.,2.)-- (7.,2.);
+	\draw  (1.,5.)-- (1.,1.);
+	\draw  (-1.,4.)-- (7.,4.);
+	\draw  (3.,3.)-- (3.,1.);
+	\end{tikzpicture}
+\end{center}
+
 
 Para se calcular quanto chocolate restou foi necessário retirar $\frac{11}{16}$ da unidade, isto é, $1 - \frac{11}{16}$. 
 Novamente deve-se representar as quantidades por frações com o mesmo denominador. 
@@ -212,7 +272,25 @@ Restando, portanto, $\frac{5}{16}$ da barra de chocolate.
 Na \hyperref[chap5-ativ4]{Atividade 4}, para calcular a fração de uma pizza que Bruno e Caio comeram juntos, foi necessário calcular $\frac{3}{4} + \frac{2}{3}$. 
 Agora surge outra novidade, além dos denominadores serem diferentes, não é possível igualar os denominadores alterando apenas uma das frações.
 
-FIGURA
+\begin{center}
+\begin{tikzpicture}[scale=.7]
+\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+\foreach \x in {0,30,60,120,150}{ \draw (\x:20) -- (\x:-20);}
+\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+\draw[|-|] (0:25) arc (0:90:25);
+\node[] at (45:30) {$\dfrac{1}{4}$};
+\draw (0,0) circle (20);
+\end{tikzpicture}
+\quad\quad\quad\quad
+\begin{tikzpicture}[scale=.7]
+\fill[special, opacity = .8] (0,0) -- (-150:20) arc (-150:90:20) --cycle;
+\foreach \x in {0,30,60,90,120,150}{ \draw (\x:20) -- (\x:-20);}
+\foreach \x in {-30,90,210}{ \draw[very thick] (0,0) -- (\x:20);}
+\draw[|-|] (-30:25) arc (-30:90:25);
+\node[] at (30:30) {$\dfrac{1}{3}$};
+\draw (0,0) circle (20);
+\end{tikzpicture}
+\end{center}
 
 Subdividindo-se  a pizza em 12 fatias iguais, as quantidades $\frac{3}{4}$ e $\frac{2}{3}$ podem ser representadas com frações de mesmo denominador: $\frac{3}{4} = \frac{9}{12}$ e $\frac{2}{3} = \frac{8}{12}$. Assim,
 
@@ -229,15 +307,146 @@ Repare que pode haver mais do que uma subdivisão comum da unidade, por exemplo
 
 \[ \frac{1}{6} + \frac{3}{4}  = \frac{2}{12} + \frac{9}{12}  = \frac{11}{12}.\]
 
-FIGURAS
+\begin{center}
+	\begin{tikzpicture}[scale=.7]
+	\fill[light, opacity = .8] (0,0) -- (30:20) arc (30:90:20) --cycle;
+	\foreach \x in {30,90,150}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (30:25) arc (30:90:25);
+	\node[] at (58:32) {$\dfrac{1}{6}$};
+	\draw (0,0) circle (20);
+	\end{tikzpicture}
+		\quad\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\node[] at (45:30) {$\dfrac{3}{4}$};
+	\draw (0,0) circle (20);
+	\end{tikzpicture}
+		\quad\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\fill[light, opacity = .8] (0,0) -- (120:20) arc (120:180:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+\draw[|-|] (120:25) arc (120:180:25);
+	\node[] at (35:38) {$\dfrac{1}{6} + \dfrac{3}{4} = ?$};
+	\draw (0,0) circle (20);
+	\draw [very thick] (0,0) -- (120:20);
+	\end{tikzpicture}
+\end{center}
+
+\begin{center}
+	\begin{tikzpicture}[scale=.7]
+	\fill[light, opacity = .8] (0,0) -- (30:20) arc (30:90:20) --cycle;
+	\foreach \x in {30,90,150}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (30:25) arc (30:90:25);
+	\node[] at (52:36) {$\dfrac{1}{6} = \dfrac{2}{12}$};
+	\draw (0,0) circle (20);
+	\foreach \x in {0,30,...,330} \draw (0,0) -- (\x:20);
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\node[] at (52:36) {$\dfrac{3}{4}=\dfrac{9}{12}$};
+	\draw (0,0) circle (20);
+		\foreach \x in {0,30,...,330} \draw (0,0) -- (\x:20);
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\fill[light, opacity = .8] (0,0) -- (120:20) arc (120:180:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\draw[|-|] (120:25) arc (120:180:25);
+	\node[] at (35:42) {$\dfrac{2}{12} + \dfrac{9}{12} = \dfrac{11}{12}$};
+	\draw (0,0) circle (20);
+	\draw [very thick] (0,0) -- (120:20);
+	\foreach \x in {0,30,...,330} \draw (0,0) -- (\x:20);
+	\end{tikzpicture}
+\end{center}
+
 
 Mas também $\frac{1}{6} + \frac{3}{4} = \frac{4}{24} + \frac{18}{24} = \frac{22}{24}$.
 
-FIGURAS
+\begin{center}
+	\begin{tikzpicture}[scale=.7]
+	\fill[light, opacity = .8] (0,0) -- (30:20) arc (30:90:20) --cycle;
+	\foreach \x in {30,90,150}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (30:25) arc (30:90:25);
+	\node[] at (52:36) {$\dfrac{1}{6} = \dfrac{4}{24}$};
+	\draw (0,0) circle (20);
+	\foreach \x in {30,60,...,330} \draw  (0,0) -- (\x:20);
+	\foreach \x in {0,15,...,345} \draw [very thin] (0,0) -- (\x:20);
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\node[] at (52:36) {$\dfrac{3}{4}=\dfrac{18}{24}$};
+	\draw (0,0) circle (20);
+	\foreach \x in {0,30,...,330} \draw  (0,0) -- (\x:20);
+    \foreach \x in {0,15,...,345} \draw [very thin] (0,0) -- (\x:20);
+
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\fill[light, opacity = .8] (0,0) -- (120:20) arc (120:180:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\draw[|-|] (120:25) arc (120:180:25);
+	\node[] at (35:42) {$\dfrac{4}{24} + \dfrac{18}{24} = \dfrac{22}{24}$};
+	\draw (0,0) circle (20);
+	\draw [very thick] (0,0) -- (120:20);
+	\foreach \x in {0,30,...,330} \draw  (0,0) -- (\x:20);
+    \foreach \x in {0,15,...,345} \draw [very thin] (0,0) -- (\x:20);
+	\end{tikzpicture}
+\end{center}
+
 
 ou ainda, $\frac{1}{6} + \frac{3}{4} = \frac{6}{36} + \frac{27}{36} = \frac{33}{36}$
 
-FIGURA
+
+\begin{center}
+	\begin{tikzpicture}[scale=.7]
+	\fill[light, opacity = .8] (0,0) -- (30:20) arc (30:90:20) --cycle;
+	\foreach \x in {30,90,150}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (30:25) arc (30:90:25);
+	\node[] at (52:36) {$\dfrac{1}{6} = \dfrac{6}{36}$};
+	\draw (0,0) circle (20);
+	\foreach \x in {30,60,...,330} \draw  (0,0) -- (\x:20);
+	\foreach \x in {0,10,...,350} \draw [very thin] (0,0) -- (\x:20);
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\node[] at (52:36) {$\dfrac{3}{4}=\dfrac{27}{36}$};
+	\draw (0,0) circle (20);
+	\foreach \x in {0,30,...,330} \draw  (0,0) -- (\x:20);
+	\foreach \x in {0,10,...,350} \draw [very thin] (0,0) -- (\x:20);
+	
+	\end{tikzpicture}
+	\quad\quad
+	\begin{tikzpicture}[scale=.7]
+	\fill[common, opacity = .8] (0,0) -- (-180:20) arc (-180:90:20) --cycle;
+	\fill[light, opacity = .8] (0,0) -- (120:20) arc (120:180:20) --cycle;
+	\foreach \x in {0,90}{ \draw[very thick] (\x:20) -- (\x:-20);}
+	\draw[|-|] (90:25) arc (90:-180:25);
+	\draw[|-|] (120:25) arc (120:180:25);
+	\node[] at (35:42) {$\dfrac{6}{36} + \dfrac{27}{36} = \dfrac{33}{36}$};
+	\draw (0,0) circle (20);
+	\draw [very thick] (0,0) -- (120:20);
+	\foreach \x in {0,30,...,330} \draw  (0,0) -- (\x:20);
+	\foreach \x in {0,10,...,350} \draw [very thin] (0,0) -- (\x:20);
+	\end{tikzpicture}
+\end{center}
+
 
 e, como se sabe, $\frac{11}{12} = \frac{22}{24} = \frac{33}{36}$.
 
@@ -324,6 +533,7 @@ Em cada um dos itens a seguir, determine o resultado e explique seu raciocínio 
   \end{tabular}
 \end{center}
 \end{atividade}
+\clearpage
 
 \begin{atividade}{}
 	Para determinar a soma $2 + \frac{1}{3}$ Miguel inicialmente marcou na reta numérica o ponto determinado pela justaposição do segmento correspondente a $2$ unidades com um segmento igual a $\frac{1}{3}$ da unidade, como na figura a seguir.
@@ -398,7 +608,7 @@ Miguel relacionou essa estratégia com o seguinte cálculo:
 \begin{tabular}{m{.3\textwidth}m{.3\textwidth}m{.3\textwidth}}
  (A) & (B) & (C)\\
 
- \begin{tikzpicture}[x=17mm,y=17mm]
+ \begin{tikzpicture}[x=17mm,y=14mm]
   \draw[->] (0,-.5) -- (0,4.5);
   \foreach \x in {0,...,4}{
   \draw (-3pt,\x)--(3pt,\x);
@@ -413,7 +623,7 @@ Miguel relacionou essa estratégia com o seguinte cálculo:
  \end{tikzpicture}
 &
 
- \begin{tikzpicture}[x=17mm,y=17mm]
+ \begin{tikzpicture}[x=17mm,y=14mm]
   \draw[->] (0,-.5) -- (0,5.5);
   \foreach \x in {0,...,5}{
   \draw (-3pt,\x)--(3pt,\x);
@@ -426,7 +636,7 @@ Miguel relacionou essa estratégia com o seguinte cálculo:
  \node at (-1.1,4.5) {$4 + \dfrac{1}{2}$};
   \end{tikzpicture}
  &
- \begin{tikzpicture}[x=17mm,y=17mm]
+ \begin{tikzpicture}[x=17mm,y=14mm]
   \draw[->] (0,-.5) -- (0,3.5);
   \foreach \x in {0,...,3}{
   \draw (-3pt,\x)--(3pt,\x);
@@ -443,7 +653,7 @@ Miguel relacionou essa estratégia com o seguinte cálculo:
 \end{tabular}
 \end{center}
 
- \item Que valor é obtido se juntarmos 7 inteiros com dois terços?
+ \item Que valor é obtido se juntarmos $7$ inteiros com dois terços?
 \end{enumerate}
 \end{atividade}
 
