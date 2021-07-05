@@ -444,7 +444,7 @@ Para isso, responda as perguntas a na tabela seguir. Se necessário, use as peç
 
 
 \begin{enumerate} [\quad a)] %d
-  \item     Preencha os quadradinhos     $\square$ com numeradores adequados de modo que cada fração corresponda a sua respectiva marca em cada reta numérica.    \mbox{ } \newline
+  \item     Preencha os quadradinhos     $\square$ com numeradores adequados de modo que cada fração corresponda ao respectivo ponto na reta numérica.    \mbox{ } \newline
 
  \begin{center}
  \begin{tikzpicture}[x=45mm,y=45mm]
@@ -522,175 +522,37 @@ Para isso, responda as perguntas a na tabela seguir. Se necessário, use as peç
   \end{scope}
  \end{tikzpicture}
 \end{center}
-  \item     Escreva quatro frações com numeradores diferentes (consequentemente com denominadores também diferentes) que correspondam ao ponto azul em destaque na figura.
-  \item     Determine uma fração de denominador     $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta usando uma reta numérica!
+  \item     Escreva quatro frações com numeradores diferentes que correspondam ao ponto azul em destaque.
+  \item     Determine uma fração de denominador     $15$ que corresponda ao ponto azul em destaque. Justifique sua resposta.
 \end{enumerate} %d
 \end{atividade}
 
 \begin{refletindo*}
 
-Na Atividade 7, foram apresentadas quatro figuras que mostravam a reta numérica com subdivisões em partes iguais, mas de formas diferentes.
-
-Na primeira figura, as subdivisões do segmento unitário (que está, aqui, servindo como unidade) eram em três partes iguais, ou seja, em terços. Para representar o ponto azul na reta numérica da primeira figura, foram consideradas quatro cópias de $\frac{1}{3}$, justapostas a partir da origem. Portanto, o ponto azul indica na reta numérica a fração $\frac{4}{3}$.
-\begin{center}
-\begin{tikzpicture}[x=45mm,y=45mm]
-  \draw (0,0) -- (3,0);
-  \foreach \x in {0,...,3}{
-  \draw (\x,-3pt) -- (\x, 3pt);
-  \node[above] at (\x,3pt) {\x};}
-
-\fill[light] (1.3,-3pt) rectangle (1.37,-18pt);
-
-  \foreach \x in {0,...,9}{
-  \draw (\x/3,-2pt) -- (\x/3, 2pt);
-  \node[below] at (\x/3,-2 pt) {$\dfrac{\x}{3}$};
-  %\draw[dotted] (\x,-30pt) -- (\x, -60pt);
-  }
-
-  \fill[common] (1+1/3,0) circle (2pt);
-\end{tikzpicture}
-\end{center}
-
-Na segunda figura, cada uma das subdivisões do segmento unitário foram divididas em duas partes iguais. Assim, as justaposições dos segmentos unitários ficam subdivididos em seis partes iguais, ou seja, em sextos. Para representar o ponto azul na reta numérica da segunda figura, foram necessárias então oito (o dobro da quantidade anterior) cópias de  $\frac{1}{6}$. Logo, o ponto azul representa também a fração $\frac{8}{6}$.
-
-\begin{center}
-\begin{tikzpicture}[x=45mm,y=45mm]
- \draw (0,0) -- (3,0);
-  \foreach \x in {1,...,3}{
-  \draw (\x,-3pt) -- (\x, 3pt);
-  \node[above] at (\x,3pt) {\x};}
-
-\fill[light] (1.3,-3pt) rectangle (1.37,-18pt);
-
-\foreach \x in {0,2,...,18}{
-\draw (\x/6,-2pt) -- (\x/6, 2pt);
-\node[below] at (\x/6,-2 pt) {$\dfrac{\x}{6}$};}
-
-\foreach \x in {0,.333,...,6}{
-\draw (\x/2,-2pt) -- (\x/2, 2pt);}
-
-\fill[common] (1+1/3,0) circle (2pt);
-
-\begin{scope}[shift={(0,.15)}]
- \draw[thick, |-|] (0,0) -- (1/3,0);
-  \node[above] at (.33/2,0) {$\dfrac{1}{3}$};
-  \draw[dotted] (0,-6pt) -- (0,-12pt);
-  \draw[dotted] (.333,-6pt) -- (.333,-12pt);
-  \end{scope}
-
-\end{tikzpicture}
-\end{center}
-
-
-Isto é,
-$$\dfrac{4}{3} = \dfrac{2 \times 4}{2 \times 3} = \dfrac{8}{6}.$$
-
-Na terceira figura, cada uma das três subdivisões do segmento unitário apresentadas na primeira figura foi dividida em três partes iguais. Assim, as justaposições dos segmentos unitários ficam subdivididos em nove partes iguais, ou seja, em nonos. Para representar o ponto azul na reta numérica da terceira figura, foram necessárias doze (o triplo da quantidade inicial) cópias de $\frac{1}{96}$. Portanto, o ponto azul representa também a fração $\frac{12}{9}$.
-
-\begin{center}
-\begin{tikzpicture}[x=45mm,y=45mm]
- \draw (0,0) -- (3,0);
-  \foreach \x in {1,...,3}{
-  \draw (\x,-3pt) -- (\x, 3pt);
-  \node[above] at (\x,3pt) {\x};}
-
-\fill[light] (1.28,-3pt) rectangle (1.39,-18pt);
-
-\foreach \x in {0,3,...,27}{
-\draw (\x/9,-2pt) -- (\x/9, 2pt);
-\node[below] at (\x/9,-2 pt) {$\dfrac{\x}{9}$};}
-
-\foreach \x in {0,.333,...,9}{
-\draw (\x/3,-2pt) -- (\x/3, 2pt);}
-
-\fill[common] (1+1/3,0) circle (2pt);
-
-\begin{scope}[shift={(0,.15)}]
- \draw[thick, |-|] (0,0) -- (1/3,0);
-  \node[above] at (.33/2,0) {$\dfrac{1}{3}$};
-  \draw[dotted] (0,-6pt) -- (0,-12pt);
-  \draw[dotted] (.333,-6pt) -- (.333,-12pt);
-  \end{scope}
-
-\end{tikzpicture}
-\end{center}
-
-
-Isto é,
-$$\dfrac{4}{3} = \dfrac{3 \times 4}{3 \times 3} = \dfrac{12}{9}.$$
-
-Na quarta figura, cada uma das três subdivisões do segmento unitário apresentadas na primeira figura foi dividida em quatro partes iguais.
-
-\begin{center}
-\begin{tikzpicture}[x=45mm,y=45mm]
- \draw (0,0) -- (3,0);
-  \foreach \x in {1,...,3}{
-  \draw (\x,-3pt) -- (\x, 3pt);
-  \node[above] at (\x,3pt) {\x};}
-
-\fill[light] (1.28,-3pt) rectangle (1.39,-18pt);
-
-\foreach \x in {0,4,...,36}{
-\draw (\x/12,-2pt) -- (\x/12, 2pt);
-\node[below] at (\x/12,-2 pt) {$\dfrac{\x}{12}$};}
-
-\foreach \x in {0,.333,...,12}{
-\draw (\x/4,-2pt) -- (\x/4, 2pt);}
-
-\fill[common] (1+1/3,0) circle (2pt);
-
-\begin{scope}[shift={(0,.15)}]
- \draw[thick, |-|] (0,0) -- (1/3,0);
-  \node[above] at (.33/2,0) {$\dfrac{1}{3}$};
-  \draw[dotted] (0,-6pt) -- (0,-12pt);
-  \draw[dotted] (.333,-6pt) -- (.333,-12pt);
-  \end{scope}
-
-\end{tikzpicture}
-\end{center}
-
-Assim, como nos casos anteriores, conclui-se que o ponto azul representa a fração $\frac{16}{12}$:
-
-$$\dfrac{4}{3} = \dfrac{4 \times 4}{4 \times 3} = \dfrac{16}{12}.$$
-
-Portanto, o ponto azul indica qualquer uma das frações iguais
-
-$$\dfrac{4}{3} = \dfrac{8}{6} = \dfrac{12}{9} = \dfrac{16}{12}.$$
-
-Agora, recomenda-se que você utilize o aplicativo disponível no link a seguir (\url{https://www.geogebra.org/m/Pr3s9vak}) para perceber como frações com numeradores e denominadores diferentes podem representar um mesmo ponto  na reta numérica. Mexa à vontade! Qualquer dúvida pergunte ao seu professor.
+Utilize o aplicativo disponível no link a seguir (\url{https://www.geogebra.org/m/Pr3s9vak}) para perceber como frações com numeradores e denominadores diferentes correspondem a um mesmo ponto na reta numérica. Explore à vontade. Qualquer dúvida pergunte ao seu professor.
 \begin{center}
 \includegraphics[width=300pt, keepaspectratio]{licao04/geogebra-reta-numerica-equivalencia.png}
 \end{center}
-
-Mais geralmente, ao subdividir cada subintervalo de comprimento igual a $\frac{1}{3}$ em $m$ partes iguais, obtém-se que
-$$\dfrac{4}{3} = \dfrac{m \times 4}{m \times 3}.$$
-
-Esse raciocínio vale para qualquer fração. Ou seja, dada uma fração $\frac{n}{d}$, pode-se representá-la de forma equivalente, subdividindo cada subintervalo de comprimento $\frac{1}{d}$ em $m$ partes iguais.
-
-Neste caso serão necessárias ($m \times n$) cópias de subintervalos de comprimento $\frac{1}{m \times d}$, isto é:
-
-$$\dfrac{n}{d} = \dfrac{m \times n}{m \times d},$$
-
-qualquer que seja o número natural $m > 0$.
 
 \end{refletindo*}
 
 \begin{atividade}{}
 
-O objetivo desta atividade é determinar uma fração de denominador $12$ que seja igual à fração $\frac{5}{4}$.
+O objetivo desta atividade é determinar a fração de denominador $12$ que é igual à fração $\frac{5}{4}$.
 
 \begin{enumerate}
-  \item     Tomando um círculo como unidade:
+  \item     A unidade é um círculo.
 \begin{enumerate}
-  \item Faça um desenho que represente     $\frac{5}{4}$ da unidade.
-  \item Usando o desenho feito, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$.
+  \item Desenhe $\frac{5}{4}$ da unidade.
+  \item Usando o desenho feito, represente a fração de denominador $12$ que é igual a $\frac{5}{4}$.
 \end{enumerate}
-  \item     Tomando um quadrado como unidade:
+  \item  A unidade é um quadrado.
   \begin{enumerate}
-  \item Faça um desenho que represente     $\frac{5}{4}$ da unidade.
-  \item Usando o desenho feito, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$.
+\item Desenhe $\frac{5}{4}$ da unidade.
+\item Usando o desenho feito, represente a fração de denominador $12$ que é igual a $\frac{5}{4}$.
   \end{enumerate}
-\item     Desenhe uma reta numérica e, em seguida, marque os números     $0$,     $1$ e     $\frac{5}{4}$. A partir deste desenho, represente uma fração de denominador     $12$ que seja igual a     $\frac{5}{4}$.
+\item      Desenhe uma reta numérica, destaque quartos e os pontos $0$, $1$, e $\frac{5}{4}$. 
+Em seguida, faça subdivisões dos quartos para representar a fração de denominador $12$ que é igual a $\frac{5}{4}$.
 \end{enumerate} %s
 \end{atividade}
 
